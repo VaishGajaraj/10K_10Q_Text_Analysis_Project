@@ -1,0 +1,3471 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c68234e10-k.txt
+<DESCRIPTION>FORM 10-K FOR FISCAL YEAR END DECEMBER 31, 2001
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+(Mark One)
+[X]                   ANNUAL REPORT PURSUANT TO SECTION 13
+                 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended December 31, 2001
+
+                                       OR
+
+[ ]                 TRANSITION REPORT PURSUANT TO SECTION
+               13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+          For the transition period from ____________ to ______________
+
+                         Commission file number 0-10786
+
+                          INSITUFORM TECHNOLOGIES, INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+            DELAWARE                                      13-3032158
+ -------------------------------            ------------------------------------
+ (State or other jurisdiction of            (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+         702 SPIRIT 40 PARK DRIVE
+         CHESTERFIELD, MISSOURI                                        63005
+----------------------------------------                            ------------
+(Address of principal executive offices)                             (Zip Code)
+
+Registrant's telephone number, including area code:             636-530-8000
+                                                           ---------------------
+
+Securities registered pursuant to Section 12(b) of the Act:     NONE
+                                                           ---------------------
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                      CLASS A COMMON SHARES, $.01 PAR VALUE
+                      -------------------------------------
+                                (Title of class)
+
+                        PREFERRED STOCK PURCHASE RIGHTS
+                        -------------------------------
+                                (Title of class)
+
+         Indicate by a check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period as the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                              Yes [X]       No [ ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K (Section 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by reference in Part III
+of this Form 10-K or any amendment to this Form 10-K. [ ]
+
+
+<PAGE>
+
+         State the aggregate market value of the voting and non-voting stock
+held by non-affiliates of the registrant. The aggregate market value shall be
+computed by reference to the price at which the common stock was sold, or the
+average bid and asked prices of such common equity, as of a specified date
+within 60 days prior to the date of filing.
+
+         Aggregate market value as of March 15, 2002 . . . . . .$ 573,500,807(1)
+
+         Indicate the number of shares outstanding of each of the registrant's
+classes of common stock as of the latest practicable date.
+
+         Class A Common Shares, $.01 par value,
+           as of March 15, 2002  . . . . . . . . . . . . . . . 26,521,997 shares
+
+
+-----------
+
+(1) The aggregate market value as of March 15, 2002 was calculated in accordance
+with the provisions of Form 10-K, and excludes stock held by affiliates of the
+registrant (i.e., executive officers and directors of the registrant and persons
+holding 10% or more of the registrant's stock). The aggregate market value
+without these exclusions, as reported  as of March 15, 2002, was $712,380,839.
+
+
+
+
+                                       2
+<PAGE>
+DOCUMENTS INCORPORATED BY REFERENCE
+
+         List hereunder the documents, all or portions of which are incorporated
+by reference herein, and the part of the Form 10-K into which the document is
+incorporated: Proxy Statement to be filed with respect to the 2002 Annual
+Meeting of Stockholders-Part III.
+
+                                     PART I
+
+Item 1.  Business
+
+GENERAL
+
+         Insituform Technologies, Inc. (the "Company" or "Insituform
+Technologies") is a worldwide company specializing in the use of trenchless
+technologies to rehabilitate, replace, maintain and install underground pipes.
+The Company uses a variety of trenchless technologies. The Insituform(R)
+cured-in-place pipe process (the "Insituform CIPP Process") contributed
+approximately 69.8% of the Company's revenues during the Company's most recent
+fiscal year.
+
+         The Company was incorporated in Delaware in 1980, under the name
+Insituform of North America, Inc. The Company was originally formed to act as
+the exclusive licensee of the Insituform CIPP Process in most of the United
+States. When the Company acquired its licensor in 1992, the name of the Company
+was changed to Insituform Technologies, Inc. As a result of its successive
+licensee acquisitions, the Company's business model has evolved from licensing
+technology and manufacturing materials to performing the entire Insituform CIPP
+Process itself.
+
+
+         In February 2001, the Company acquired Kinsel Industries, Inc.
+("Kinsel"), a trans-regional provider of pipebursting and other sewer
+rehabilitation services. In 2000, Kinsel had total revenues of approximately
+$100 million, which included approximately $18 million from its wastewater
+treatment plant operations, approximately $32 million from trenchless pipe
+rehabilitation services and some open-cut pipe construction, and approximately
+$50 million from highway, bridge, airport and commercial construction. During
+the fourth quarter of 2001, the Company determined that, while valuable and
+profitable, the Kinsel wastewater treatment plant operations and the Kinsel
+highway construction and maintenance operations did not fit the Company's
+business strategy. In February 2002 (with a January 2002 effective date), the
+Company closed the sale of Kinsel's wastewater treatment plant operations for
+slightly less than its book value. The Company is currently marketing the
+Kinsel's highway construction and maintenance operations.
+
+         As used in this Annual Report on Form 10-K, the terms "Company" and
+"Insituform Technologies" refer to the Company and, unless the context otherwise
+requires, its direct and indirect wholly-owned subsidiaries. For certain
+information concerning each of the Company's industry segments and each of its
+domestic and foreign operations, see Note 16 of the Notes to the Company's
+Consolidated Financial Statements included in response to "Item 14. Exhibits,
+Financial Statement Schedules, and Reports on Form 8-K," which information is
+incorporated herein by reference.
+
+TECHNOLOGIES
+
+         Pipeline System Rehabilitation
+         ------------------------------
+
+                  The INSITUFORM CIPP PROCESS for the rehabilitation of sewers,
+                  pipelines and other conduits utilizes a custom-manufactured
+                  tube, or liner, made of a synthetic fiber. After the tube is
+
+
+
+
+
+                                       1
+<PAGE>
+                  saturated (impregnated) with a thermosetting resin mixture, it
+                  is installed in the host pipe by various processes and the
+                  resin is then hardened, usually by heating it by various
+                  means, forming a new rigid pipe within a pipe.
+
+                  PIPEBURSTING is a trenchless method for replacing deteriorated
+                  or undersized pipelines. A bursting head is propelled through
+                  the existing pipeline, fracturing the host pipe and displacing
+                  the fragments outward, allowing a new pipe to be pulled in to
+                  replace the old line. Pipes can be replaced size-for-size or
+                  upsized.
+
+                  MICROTUNNELING is a trenchless method of drilling a new tunnel
+                  from surface operated equipment. Microtunneling is typically
+                  used for gravity sewers at depths greater than 15 feet, in
+                  congested areas, where unstable ground conditions exist, where
+                  construction is below the water table, or where contamination
+                  zones are present.
+
+                  SLIPLINING is a method used to push or pull a new pipeline
+                  into an old one. With segmented sliplining, short segments of
+                  pipe are joined to form the new pipe. For gravity sewer
+                  rehabilitation, these short segments can often be joined in a
+                  manhole or access structure, eliminating the need for a large
+                  pulling pit.
+
+                  See "Patents and Licenses" below for information concerning
+                  the Company's NuPipe(R) process (the "NuPipe Process") and
+                  Thermopipe(R) process (the "Thermopipe Process"), which were
+                  not material to the Company's results of operations during the
+                  year ended December 31, 2001.
+
+         Tunneling
+         ---------
+
+         Tunneling typically encompasses the construction of man-entry sized
+pipelines with access through vertical shafts. From the vertical shaft, a tunnel
+is constructed using a steerable, locally-controlled tunnel boring machine. Pipe
+is installed after the tunnel is constructed.
+
+         TiteLiner(R) Process
+         --------------------
+
+         The Company's TiteLiner(R) process (the "TiteLiner Process") is a
+method of lining new and existing steel pipe with a corrosion and abrasion
+resistant polyethylene pipe.
+
+REHABILITATION ACTIVITIES
+
+         The Company's rehabilitation activities are conducted principally
+through installation and other construction operations performed directly by the
+Company or through wholly-owned and, in some cases, majority-owned,
+subsidiaries. In those areas of the world in which the Company's management
+believes it would not be desirable for the Company to exploit its trenchless
+processes directly, and in a portion of the United States, the Company has
+granted licenses to unaffiliated companies. As described under "Ownership
+Interests in Licensees" below, the Company has also entered into joint ventures
+from time to time to exploit its trenchless rehabilitation processes.
+
+         The Company's principal rehabilitation activities are conducted in
+North America directly by the Company or through subsidiaries using the
+Insituform CIPP Process. The Company holds the Insituform CIPP Process rights
+for the United States and Canada. In North America, the Company practices the
+Insituform CIPP Process in substantially all of 44 of the 50 states and in
+Canada. Significant pipebursting rehabilitation activities are also conducted in
+the Southeastern region of the United States by the Company and its subsidiary,
+Kinsel.
+
+
+
+                                       2
+<PAGE>
+         North American rehabilitation operations, including research and
+development, engineering, training and financial support systems, are
+headquartered in Chesterfield, Missouri. Insituform CIPP Process tube
+manufacturing and installation facilities are maintained in approximately 11
+locations geographically dispersed throughout the United States and Canada.
+
+         Outside of North America, the Company conducts Insituform CIPP Process
+rehabilitation operations through subsidiaries in the United Kingdom, France,
+Spain, the Netherlands and Belgium. Through its French subsidiary, Video
+Injection S.A. ("Video Injection"), acquired in 1998, the Company utilizes
+multifunctional robotic devices developed by Video Injection in connection with
+the inspection and repair of pipelines.
+
+         European operations are headquartered in Rueil Malmaison, France, a
+suburb of Paris, with principal regional facilities located in the United
+Kingdom, the Netherlands, Spain, Belgium and Mitry Mory, France.
+
+         TiteLiner Process operations (which offer corrosion and abrasion
+protection work) are conducted in the United States through the Company's United
+Pipeline Systems division. Worldwide TiteLiner Process operations are
+headquartered in the United States. Outside the United States, TiteLiner Process
+installation activities are conducted through various operating subsidiaries.
+
+         The Company conducts tunneling, microtunneling and a range of pipe
+system rehabilitation services throughout the United States through its
+wholly-owned subsidiary, Affholder, Inc.
+
+         Most of the Company's installation operations are project-oriented
+contracts for governmental entities. The contracts are usually obtained through
+competitive bidding or negotiations and require performance at a fixed price.
+The profitability of these contracts depends heavily upon the competitive
+bidding environment, the Company's ability to estimate costs accurately and the
+Company's ability to effectively manage and execute project performance. Project
+estimates may prove to be inaccurate due to unforeseen conditions or events. A
+substantial portion of the work on any given project may be subcontracted out to
+third parties at a significantly lower profitability level to the Company than
+work conducted directly by it. Also, proper trenchless installation requires
+expertise that is acquired on the job and through training. The Company,
+therefore, provides ongoing training and appropriate equipment to its field
+installation crews.
+
+         The overall profitability of the Company's installation operations is
+influenced not only by the profitability of specific project contracts, but also
+by the volume and timing of projects so that the installation operations are
+loaded at an appropriate level.
+
+         The Company is required to carry insurance and provide bonding in
+connection with certain installation projects and, therefore, maintains
+comprehensive insurance policies, including workers' compensation, general and
+automobile liability, and property coverage. The Company believes that it
+presently maintains adequate insurance coverage for all installation activities.
+The Company has also arranged bonding capacity for bid, performance and payment
+bonds. Typically, the cost of a performance bond is less than approximately 1%
+of the contract value. The Company is required to indemnify surety companies for
+any payments the sureties are required to make under the bonds.
+
+         The Company generally invoices its customers as work is completed.
+Under ordinary circumstances, collection from governmental agencies in the
+United States is made within 60 to 90 days of billing. In most cases, 5% to 15%
+of the contract value is withheld by the owner until testing is completed or the
+warranty period has expired.
+
+
+
+                                       3
+<PAGE>
+         The Company's principal rehabilitation activities are also conducted
+through the following majority-owned subsidiaries:
+
+<Table>
+<Caption>
+Subsidiary                                             Interest
+----------                                             --------
+<S>                                                    <C>
+United Pipeline de Mexico, S.A.                        55% of stock(1)
+Video Injection S.A.                                   89.6% of stock(2)
+Insituform Linings Plc                                 75% of stock(3)
+</Table>
+
+-----------------
+
+(1)      The remaining interest is held by a subsidiary of Produtos y Servicios
+         Miller de Mexico, S.A. de C.V.
+
+(2)      The remaining interest is held by certain of the subsidiary's principal
+         employees (or their affiliates) from whom the subsidiary was purchased,
+         and is subject to purchase by the Company in September 2003 (or earlier
+         upon specified events), and by certain of the Company's principal
+         employees to comply with specific legal requirements.
+
+(3)      The remaining interest is held by Per Aarsleff A/S.
+
+LICENSEES
+
+         The Company has granted licenses for the Insituform CIPP Process and
+the NuPipe Process, covering exclusive and non-exclusive territories, to
+licensees who provide pipeline repair and rehabilitation services throughout
+their respective licensed territories. At present, the Insituform CIPP Process
+is licensed to 11 unaffiliated licensees and sublicensees, and the NuPipe
+Process is licensed to three unaffiliated licensees. The licenses generally
+grant to the licensee the right to utilize the know-how and the patent rights
+(where they exist) relating to the subject process, and to use the Company's
+copyrights and trademarks.
+
+         The Company's licensees generally are obligated to pay a royalty at a
+specified rate, which in many cases is subject to a minimum royalty payment. An
+unaffiliated domestic licensee is obligated to pay specified royalty surcharges
+on its sales and contracts outside of its licensed territories. Any improvements
+or modifications a licensee may make in the subject process during the term of
+the license agreement becomes the property of the Company or are licensed to the
+Company. Should a licensee fail to meet its royalty obligations or other
+material obligations, the Company may terminate the license. Many licensees
+(including the domestic licensees), upon prior notice to the Company, may also
+terminate the license for any reason. The Company may vary the agreement used
+with new licensees according to prevailing conditions.
+
+         The Company acts as licensor under arrangements relating to the use of
+the Thermopipe Process in the United Kingdom and elsewhere on a non-exclusive
+basis.
+
+         Insituform East, Incorporated ("East") holds six sub-licenses to the
+Insituform CIPP Process to operate in the states of Virginia, Delaware,
+Maryland, Pennsylvania, Ohio, a portion of Kentucky, West Virginia and the
+District of Columbia under the Company's exclusive license to the Insituform
+CIPP Process for the entire United States. (The United States rights to the
+Insituform CIPP Process are owned by the Company's subsidiary, Insituform
+(Netherlands) B.V. ("Insituform Netherlands")). Pursuant to a July 1999
+settlement agreement with East and several affiliates of East (the "Settlement
+Agreement"), Midsouth Partners, an affiliate of East, retains a limited,
+non-exclusive right in Midsouth Partners' former territory to utilize the
+Insituform CIPP Process and technology in the condition and state as
+commercially practiced on the date of settlement.
+
+
+
+                                       4
+<PAGE>
+         As previously reported by the Company, the Company and Insituform
+Netherlands initiated litigation against East and Midsouth Partners in Federal
+District Court for the Middle District of Tennessee (Civil Action No. 3-99-1130)
+and filed an Amended Complaint on June 13, 2000, alleging among other matters,
+trademark violations and a non-curable breach of the Settlement Agreement; and,
+seeking: (i) the right to terminate the grant of the limited license to Midsouth
+Partners under the Settlement Agreement; (ii) the affirmation of East's
+obligations to make royalty payments and cross-over royalty payments on work
+performed by East or any of its affiliates within the scope of the subject
+matter of East's sub-licenses outside East's licensed territories under East's
+sub-licenses; and (iii) a declaration that the Company is not obligated to
+continue payment of certain finder's fees to East. The court issued a
+preliminary bench ruling on February 22, 2002 in favor of the Company on point
+(ii), except with respect to Midsouth Partners, and in favor of the Company on
+point (iii). The court ruled against the Company on point (i), finding that
+Midsouth Partners had not committed a material breach of the Settlement
+Agreement, nor had Midsouth Partners committed violations permitting
+termination. A final ruling from the court affirming the preliminary findings is
+expected shortly.
+
+OWNERSHIP INTERESTS IN OPERATING LICENSEES AND PROJECT JOINT VENTURES
+
+         The Company, through its subsidiary, Insituform Holdings (UK) Limited,
+holds one-half of the equity interest in Insituform Rohrsanierungstechniken
+GmbH, the Company's licensee of the Insituform CIPP Process and the NuPipe
+Process in Germany. The remaining interest is held by Per Aarsleff A/S, a Danish
+contractor ("Per Aarsleff"). The joint venture partners have
+rights-of-first-refusal in the event either party determines to divest its
+interest.
+
+         The Company, through its subsidiary, INA Acquisition Corp., holds
+one-half of the equity interest in Italcontrolli-Insituform S.r.l., the
+Company's licensee of the Insituform CIPP Process in Italy. The remaining
+interest is held by Per Aarsleff. The joint venture partners have
+rights-of-first-refusal in the event either party determines to divest its
+interest.
+
+         The Company holds a 49% joint venture interest in Ka-Te Insituform
+A.G., the Company's licensee of the Insituform CIPP Process in Switzerland,
+Liechtenstein and Voralberg, Austria. The remaining interest is held by Ka-Te
+Holding A.G., an employee of Ka-Te Holding, and an employee of the joint
+venture.
+
+         The Company has entered into several contractual joint ventures in
+order to develop joint bids on contracts for its pipeline rehabilitation
+business, and for tunneling operations. Typically, the joint venture entity
+holds the contract with the owner and subcontracts portions of the work to the
+joint venture partners. As part of the subcontracts, the partners usually
+provide bonds to the joint venture. The Company could be required to complete
+its joint venture partner's portion of the contract if the partner is unable to
+complete its portion and a bond is not available. The Company continues to
+investigate opportunities for expanding its business through such arrangements.
+
+MARKETING
+
+         The marketing of the Company's rehabilitation technologies is focused
+primarily on the municipal wastewater markets worldwide, which the Company
+expects to remain the largest part of its business for the foreseeable future.
+To help shape decision-making at every step, the Company uses a multi-level
+sales force structured around target markets and key accounts, focusing on
+engineers, consultants, administrators, technical staff and elected officials.
+The Company also produces sales literature and presentations, participates in
+trade shows, conducts national advertising and executes other marketing programs
+for the Company's own sales force and those of unaffiliated licensees. The
+Company's unaffiliated licensees are responsible for marketing and sales
+activities in their respective territories. See
+
+
+
+
+                                       5
+<PAGE>
+
+"Licensees" above for a description of the Company's licensing operations and
+for a description of investments in licensees.
+
+         The Company offers its TiteLiner Process worldwide to line new and
+existing steel pipelines.
+
+         The Company bids on tunneling projects in selected geographical markets
+in the United States.
+
+         No customer accounted for more than 10% of the Company's consolidated
+revenues during the years ended December 31, 2001, 2000 and 1999, respectively.
+
+BACKLOG
+
+<Table>
+<Caption>
+                                                                           Additional 2002      Apparent Low Bid and
+                                                                      Apparent Low Bid and           Unreleased Term
+                                             2002 Contract Backlog         Unreleased Term     Available Beyond 2002
+                                            ----------------------- ----------------------- -------------------------
+                                                                          (In millions)
+<S>                                                 <C>                     <C>                       <C>
+Rehabilitation                                      $  125.8                $  87.0                   $  148.9
+Tunneling                                               36.4                   11.0                       61.9
+TiteLiner                                                2.1                   --                         --
+                                                    --------                -------                   --------
+Total                                               $  164.3                $  98.0                   $  210.8
+                                                    ========                =======                   ========
+</Table>
+
+         Contract backlog is management's expectation of revenues to be
+generated from received, signed, uncompleted contracts whose cancellation is not
+anticipated at the time of reporting. Reported contract backlog excludes any
+term contract amounts for which there is not specific and determinable work
+released. At December 31, 2001, the Company's 2002 contract backlog (excluding
+projects where the Company has been advised that it is the low bidder, but not
+formally awarded the contract) was approximately $164.3 million, which
+represents an increase of $49.5 million from the 2001 contract backlog reported
+at December 31, 2000. The Company anticipates that substantially all 2002
+contract backlog recorded at December 31, 2001 and an additional $98.0 million
+of unreleased term contracts and jobs on which the Company is the apparent low
+bidder will be completed in 2002. An additional $210.8 million of unreleased
+term contract work and work on which the Company is the apparent low bidder is
+anticipated for completion in 2003 and beyond. All backlog values are the
+estimate of management based on contracts outstanding December 31, 2001 and are
+subject to change due to factors beyond the control of the Company.
+
+PRODUCT DEVELOPMENT
+
+         The Company, by utilizing its own laboratories and test facilities and
+outside consulting organizations and academic institutions, continues to develop
+improvements to its proprietary processes, including the materials used and the
+methods of manufacturing and installing pipe. During the years ended December
+31, 2001, 2000 and 1999, the Company spent approximately $2.3 million, $2.4
+million and $2.4 million, respectively, on research and development activities.
+
+MANUFACTURING AND SUPPLIERS
+
+         The Company maintains its principal North American Insituform CIPP
+Process liner manufacturing facility in Batesville, Mississippi, with an
+additional facility located in Memphis, Tennessee. In Europe,
+
+
+
+
+                                       6
+<PAGE>
+
+Insituform Linings Plc ("Linings"), a majority-owned subsidiary, manufactures
+and sells Insituform CIPP Process liners from its plant located in
+Wellingborough, United Kingdom. The Company holds a 75% interest in Linings and
+Per Aarsleff the remainder, which interests are subject to rights of first
+refusal held by the Company and Per Aarsleff in the event of any proposed
+disposition.
+
+         Although raw materials used in the Company's Insituform CIPP Process
+products are typically available from multiple sources, the Company's historical
+practice has been to purchase materials from a limited number of suppliers. The
+Company maintains its own felt manufacturing facility at its Insitutube(R)
+manufacturing facility in Batesville, and purchases substantially all of its
+fiber requirements from one source, alternate vendors of which the Company
+believes are readily available. Although the Company has worked with one vendor
+to develop a uniform and standard resin to source substantially all of its resin
+requirements in North America, the Company believes that resins are also readily
+available from a number of major companies should there be a need for
+alternative resin sourcing. The Company believes that the sources of supply in
+connection with its Insituform CIPP Process operations are adequate for its
+needs.
+
+         The Company has investigated various alternatives, but does not
+currently have, a manufacturing source for its NuPipe Process thermoplastic
+pipe. Because of its inventory level of NuPipe Process thermoplastic pipe and
+because the Company has not recently entered into NuPipe Process installation
+contracts and it is not required to supply thermoplastic pipe to its NuPipe
+licensees, the Company has not been materially adversely affected by not having
+a manufacturing source for thermoplastic pipe. If the demand for NuPipe Process
+products increases, the Company will qualify a new manufacturing source or
+manufacture NuPipe Process thermoplastic pipe itself.
+
+         Under its arrangements for the acquisition of the Thermopipe Process,
+the seller will continue to manufacture and supply Thermopipe Process products
+to the Company through 2004.
+
+         The Company sells Insituform CIPP Process liners and related products
+to certain licensees pursuant to fixed-term supply contracts. Under the
+arrangements assumed in connection with the acquisition of the Thermopipe
+Process, the Company also furnishes Thermopipe Process products to its approved
+contractors and licensees.
+
+         The Company manufactures certain equipment used in its corrosion and
+abrasion protection operations, and, in connection with any licenses to
+unaffiliated parties, will sell such equipment to its licensees.
+
+PATENTS AND LICENSES
+
+         As of December 31, 2001, the Company held 65 patents in the United
+States relating to the Insituform CIPP Process, the last of which to expire will
+remain in effect until 2011. Two of the Company's 65 United States patents
+relating to the Insituform CIPP Process expired early in 2002. As of December
+31, 2001, the Company had seven patents pending in the United States that relate
+to the Insituform CIPP Process.
+
+         The Company has obtained patent protection in its principal overseas
+markets covering various aspects of the Insituform CIPP Process. The
+specifications and/or rights granted in relation to each patent will vary from
+jurisdiction to jurisdiction. In addition, as a result of differences in the
+nature of the work performed and in the climate of the countries in which the
+work is carried out, not every licensee uses each patent, and the Company does
+not necessarily seek patent protection for all of its inventions in every
+jurisdiction in which it does business.
+
+
+
+                                       7
+<PAGE>
+         There can be no assurance that the validity of the Company's patents
+will not be successfully challenged. The Company's business could be adversely
+affected by increased competition upon expiration of the patents or if one or
+more of its Insituform CIPP Process patents were adjudicated to be invalid or
+inadequate in scope to protect the Company's operations. The Company believes,
+however, that, in either case, its long experience with the Insituform CIPP
+Process, its continued commitment to support and develop the Insituform CIPP
+Process, the strength of its trademarks, and its degree of market penetration,
+should enable the Company to continue to compete effectively in the pipeline
+rehabilitation market.
+
+         The Company holds 12 patents issued in the United States covering
+either the NuPipe Process or materials used in connection with the NuPipe
+Process. The Company also holds similar NuPipe Process (or related material)
+patents in 14 other countries. The NuPipe Process entails the manufacture of a
+folded thermoplastic replacement pipe that is stored on a reel in a reduced
+shape. The pipe is heated at the installation site to make it flexible enough to
+be inserted into an existing conduit. It is then pulled into place and
+sequentially expanded to match the existing conduit by internal heat and
+pressure and by progressive rounding, creating a tight fit against the conduit
+being repaired.
+
+         The Company holds two patents issued in the United States and 10
+patents outside of the United States relating to the Thermopipe Process for
+rehabilitating potable water and other aqueous fluid pipes.
+
+         Even though the Company holds a few patents relating to its corrosion
+and abrasion protection business, the Company believes that the success of its
+TiteLiner Process business, operated through its United Pipeline Systems
+division, depends primarily upon its proprietary know-how and its marketing and
+sales skills.
+
+         The Company holds the exclusive rights to use the patents, trademarks
+and know-how related to the Paltem-HL system, a process for rehabilitating
+pressure pipes, which includes the Paltem-Frepp system, for substantially all of
+North America and, on a non-exclusive basis, additional territories in the
+eastern hemisphere and Latin America. Under the license, the Company is required
+to pay royalties at specified rates on installations and sales of liners. During
+the year ended December 31, 2001, the Company did not have any material
+operations under this license.
+
+         The Company's pipebursting operations are performed under a
+royalty-bearing, non-exclusive license from BG Plc. The license terminates upon
+expiration of the underlying patent, which expires on April 19, 2005. In
+addition, either party may terminate the license upon six months' notice and
+under certain other circumstances.
+
+COMPETITION
+
+         The pipeline reconstruction, rehabilitation and repair business is
+highly competitive. In each of its rehabilitation markets, the Company's
+trenchless processes currently face competition from more conventional methods,
+including: (i) total replacement, which is the excavation and replacement of an
+entire section of pipe; (ii) point repair, which is the replacement of cracked
+or structurally failed sections of pipes by actual excavation and replacement;
+(iii) sliplining, which is the insertion of a smaller pipe within an existing
+deteriorated pipe; and (iv) the placement of gelatinous material, hydraulic
+cement, or other acceptable material in defective pipes to repair leaks and
+prevent infiltration in gravity sewers.
+
+
+
+
+
+                                       8
+<PAGE>
+         In addition, the Company's trenchless processes encounter competition
+from non-cured-in-place process trenchless approaches such as pipebursting and
+other methods. Kinsel employs the pipebursting, microtunneling and sliplining
+methods.
+
+         The Company also faces competition from other trenchless processes
+throughout the world. In the United States, the Company faces competition from
+several cured-in-place processes and, outside of the United States, from
+additional cured-in-place processes currently in regional use. The Company also
+faces competition from several fold and formed thermoplastic processes similar
+to the NuPipe Process. Several companies offer in-place polyethylene lining
+systems which compete with the Company's TiteLiner Process abrasion and
+corrosion protection technologies.
+
+         The Company's tunneling operation competes with utility contracting
+firms throughout North America.
+
+         Most of the Company's installation operations are project-oriented
+contracts for governmental entities that are obtained through competitive
+bidding or negotiations. Most competitors are local or regional companies, and
+may be either specialty trenchless contractors or general contractors. A few
+competitors have far greater financial resources than the Company and, with
+regard to products other than the cured-in-place process, greater experience
+than the Company. Therefore, there can be no assurance as to the success of the
+Company's trenchless processes in competition with these companies and
+alternative technologies for pipeline rehabilitation.
+
+SEASONALITY
+
+         Although the Company's operations can be affected by severe weather,
+for the past five years seasonal variation in work performed has not had a
+material effect on the Company's consolidated results of operations.
+
+EMPLOYEES
+
+         As of December 31, 2001, the Company employed 2,322 individuals.
+Certain of the Company's contracting operations are parties to collective
+bargaining agreements covering an aggregate of 132 employees. The Company
+generally considers its relations with its employees to be good.
+
+GOVERNMENT REGULATION
+
+         The Company is required to comply with all applicable United States
+federal, state and local, and all foreign, statutes, regulations and ordinances.
+In addition, the Company's installation and other operations have to comply with
+various relevant occupational safety and health regulations, transportation
+regulations, code specifications, permit requirements, and bonding and insurance
+requirements, as well as with fire regulations relating to the storage, handling
+and transporting of flammable materials. The Company's manufacturing facilities,
+as well as its installation operations, are subject to state and national
+environmental protection regulations, none of which presently has any material
+effect on the Company's capital expenditures, earnings or competitive position
+in connection with the Company's present business. However, although the
+Company's installation operations have established monitoring programs and
+safety procedures relating to its installation activities and to the use of
+solvents, further restrictions could be imposed on the manner in which
+installation activities are conducted, on equipment used in installation
+activities and on the use of solvents or the thermosetting resins used in the
+Insituform CIPP Process. The Company believes that it is in material compliance
+with environmental and safety laws and regulations applicable to it.
+
+
+
+
+
+                                       9
+<PAGE>
+         The use of both thermoplastics and thermosetting resin materials in
+contact with drinking water is strictly regulated in most countries. In the
+United States, a consortium led by NSF International ("NSF"), under arrangements
+with the United States Environmental Protection Agency (the "EPA"), establishes
+minimum requirements for the control of potential human health effects from
+substances added indirectly to water via contact with treatment, storage,
+transmission and distribution system components, by defining the maximum
+permissible concentration of materials which may be leached from such components
+into drinking water, and methods for testing them. In February 1996, the
+Paltem-HL and Frepp processes under license from Ashimori were certified by the
+NSF for use in drinking water systems. In April 1997, the Insituform PPL(R)
+liner was certified by the NSF for use in drinking water systems, followed in
+April 1999 by NSF certification of the Insituform RPP(R) liner for such use. The
+Thermopipe product also has NSF approval. The NSF assumes no liability for use
+of any products, and the NSF's arrangements with the EPA do not constitute the
+EPA's endorsement of the NSF, the NSF's policies or its standards. Dedicated
+equipment is needed in connection with use of these products in drinking water
+applications. The Company does not expect meaningful revenues from drinking
+water rehabilitation at least through 2002.
+
+EXECUTIVE OFFICERS
+
+         The executive officers of the Company, and their respective ages and
+positions with the Company, are as follows:
+
+<Table>
+<Caption>
+                                       Age at
+Name                               March 15, 2002     Position with the Company
+----                               --------------     -------------------------
+<S>                                <C>                <C>
+Anthony W. Hooper                        54           Chairman of the Board, President
+                                                        and Chief Executive Officer
+Robert W. Affholder                      66           Senior Executive Vice President
+Joseph A. White                          48           Vice President-Chief Financial Officer
+Carroll W. Slusher                       53           Vice President-North America
+Antoine Menard                           51           Vice President-Europe
+Thomas A. A. Cook                        37           Vice President-General Counsel
+</Table>
+
+         Anthony W. Hooper has been Chairman of the Board of the Company since
+1997, and has been President of the Company since 1996. Prior to 1996, Mr.
+Hooper was Senior Vice President-Marketing and Technology of the Company.
+
+         Robert W. Affholder has been Senior Executive Vice President of the
+Company since 1996. From 1995 to 1996, Mr. Affholder was Senior Vice
+President-Chief Operating Officer of North American Contracting Operations of
+the Company. Until its acquisition by the Company in 1995, Mr. Affholder was
+Vice Chairman and President of Insituform Mid-America, Inc.
+
+         Joseph A. White has been Vice President and Chief Financial Officer of
+the Company since 1999. From 1998 until joining the Company, Mr. White was Vice
+President and Chief Financial Officer of Key Plastics, an automotive parts
+manufacturer that filed for bankruptcy reorganization in March 2000. From 1997
+until 1998, Mr. White was Vice President-Finance (North America) for the Becker
+Group, a manufacturer of automotive interiors. From 1996 until 1997, Mr. White
+was Director of Finance in Asia of the Vickers Division of Aeroquip Vickers, a
+hydraulics supplier.
+
+         Carroll W. Slusher has been Vice President-North America of the Company
+since 1999, having served as the Company's Divisional Vice President-North
+American Operations from 1998 until 1999 and Director of North American Pipe
+Rehabilitation from 1997 to 1998. Prior to joining the Company, Mr. Slusher was
+a regional manager with General Electric Company.
+
+
+
+
+
+
+                                       10
+<PAGE>
+         Antoine Menard has been Vice President-Europe of the Company since
+1999, having served as the Company's Managing Director-Europe from 1995 until
+1999. Prior to joining the Company, Mr. Menard was a general manager with the
+French oil group TOTAL.
+
+         Thomas A. A. Cook has been Vice President-General Counsel of the
+Company since 2000. Prior to joining the Company, Mr. Cook was a partner in the
+Corporate/Securities Department at the law firm of Blackwell Sanders Peper
+Martin LLP, and before June 1998, was with a predecessor firm (Peper Martin
+Jensen Maichel and Hetlage) in the Corporate/Securities Department.
+
+Item 2.  Properties
+
+         The Company's executive offices are located in Chesterfield, Missouri,
+a suburb of St. Louis, at 702 Spirit 40 Park Drive. The executive offices are
+leased from an unaffiliated party through May 31, 2003. The Company owns its
+research and development facility and its training facility in Chesterfield.
+
+         The Company owns a liner fabrication facility and a contiguous felt
+manufacturing facility in Batesville, Mississippi. The Company's manufacturing
+facilities in Memphis, Tennessee, are located on land sub-leased from an
+unaffiliated entity for an initial term of 40 years expiring on December 31,
+2020. Linings (a majority-owned subsidiary) owns certain premises in
+Wellingborough, England, where its liner manufacturing facility is located.
+
+         The Company owns or leases various operational facilities in the United
+States, Canada, Europe and Latin America.
+
+         The foregoing facilities are regarded by management as adequate for the
+current requirements of the Company's business.
+
+Item 3.  Legal Proceedings
+
+         The Company is involved in certain litigation incidental to the conduct
+of its business and affairs. Management does not believe that the outcome of any
+such litigation will have a material adverse effect on the financial condition
+or results of operations of the Company. See "Item 1. Business - Rehabilitation
+Activities."
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+         Not applicable.
+
+                                     PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters
+
+         (a) The Company's class A common shares, $.01 par value ("Common
+Stock"), is traded in the over-the-counter market under the symbol "INSUA." The
+following table sets forth the range of quarterly high and low sales prices
+commencing after December 31, 1999, as reported on The Nasdaq Stock Market.
+Quotations represent prices between dealers and do not include retail mark-ups,
+mark-downs or commissions.
+
+
+
+
+                                       11
+
+<PAGE>
+<TABLE>
+<CAPTION>
+             Period                        High            Low
+         ---------------                 --------       --------
+<S>                                       <C>            <C>
+2001
+         First Quarter                    $41.06         $26.88
+         Second Quarter                    37.50          26.48
+         Third Quarter                     43.20          12.60
+         Fourth Quarter                    26.80          16.39
+2000
+         First Quarter                    $31.50         $22.94
+         Second Quarter                    38.00          24.13
+         Third Quarter                     35.00          22.50
+         Fourth Quarter                    41.50          29.50
+</TABLE>
+
+         As of March 25, 2002, the number of record holders of the Company's
+Common Stock was 1,141.
+
+         Holders of Common Stock are entitled to receive dividends as and when
+they may be declared by the Company's Board of Directors. The Company has never
+paid a cash dividend on the Common Stock. The Company's present policy is to
+retain earnings to provide for the operation and expansion of its business.
+However, the Company's Board of Directors will review the Company's dividend
+policy from time to time and will consider the Company's earnings, financial
+condition, cash flows, financing agreements and other relevant factors in making
+determinations regarding future dividends, if any. Under the terms of certain
+debt arrangements to which the Company is a party, the Company is subject to
+certain limitations in paying dividends.
+
+         (b) Not applicable.
+
+Item 6.  Selected Financial Data
+
+         The selected financial data set forth below have been derived from the
+Company's consolidated financial statements referred to under "Item 14.
+Exhibits, Financial Statement Schedules, and Reports on Form 8-K" of this Annual
+Report on Form 10-K, and previously published historical financial statements
+not included in this Annual Report on Form 10-K. The selected financial data set
+forth below should be read in connection with "Management's Discussion and
+Analysis of Financial Condition and Results of Operations" and the Company's
+consolidated financial statements, including the footnotes.
+
+<Table>
+<Caption>
+                                                                 Unaudited
+                                                           Year Ended December 31,
+                                           ---------------------------------------------------------
+
+                                            2001(1)     2000(1)     1999(1)     1998(1)       1997
+                                           ---------   ---------   ---------   ---------   ---------
+                                                    (in thousands, except per share amounts)
+<S>                                        <C>         <C>         <C>         <C>         <C>
+
+INCOME STATEMENT DATA:
+Revenues                                   $ 445,310   $ 409,434   $ 339,883   $ 300,958   $ 320,640
+Operating income                              46,765      62,966      50,669      38,688      25,030
+Income from continuing
+  operations                                  24,940      34,906      25,983      17,887       9,644
+Net income                                    24,868      34,906      25,983      17,887       9,419
+Basic earnings per share:
+  Income from continuing operations             0.94        1.41        1.02         .67         .36
+  Net income                                    0.94        1.41        1.02         .67         .35
+Dilutive earnings per share:
+  Income from continuing operations             0.93        1.37        1.00         .66         .36
+  Net income                                    0.92        1.37        1.00         .66         .35
+</TABLE>
+
+
+                                       12
+
+
+<PAGE>
+<Table>
+<Caption>
+<S>                                        <C>         <C>         <C>         <C>         <C>
+BALANCE SHEET DATA:
+Working capital                            $ 138,719   $ 114,468   $ 120,180   $ 121,956   $ 114,283
+Current assets                               259,767     201,008     174,372     170,105     161,273
+Property, plant and equipment                 68,547      70,226      54,188      56,421      57,983
+Total assets                                 463,622     354,974     311,625     304,608     297,852
+Long-term debt, excluding
+  current maturities                          88,853      98,217     114,954     112,131     111,440
+Total liabilities                            211,940     187,327     170,314     161,395     162,705
+Total common stock and
+other stockholders' equity                   250,127     165,290     138,603     139,505     131,502
+</Table>
+
+----------
+
+(1)      The Company has completed various acquisitions that have been accounted
+         for under the purchase method of accounting, including Video Injection
+         in 1998, Insituform Rioolrenovatietechnieken in 1999, Insituform
+         Metropolitan, Inc. in 2000, Insituform Belgium N.V. in 2000, and Kinsel
+         in 2001.
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations
+
+GENERAL
+
+         Insituform Technologies' revenues are derived primarily from
+installation of pipeline liners, replacement pipes and other contracting
+activities. Revenues are generated by the Company and its subsidiaries operating
+in the United States, Canada, France, the United Kingdom, the Netherlands,
+Belgium, Spain, Chile, Argentina and Mexico, and include royalties from
+unaffiliated Insituform licensees and sub-licensees and its unaffiliated NuPipe
+licensees. During the three years ended December 31, 2001, 2000 and 1999,
+approximately 69.8%, 74.0% and 76.4%, respectively, of the Company's
+consolidated revenues related to the Insituform CIPP Process.
+
+RESULTS OF OPERATIONS
+
+<Table>
+<Caption>
+($ IN THOUSANDS)                         2001          2000          1999
+                                      ----------    ----------    ----------
+<S>                                   <C>           <C>           <C>
+Revenues                              $  445,310    $  409,434    $  339,883
+Gross Profit                             124,848       137,073       118,651
+Gross Profit Margin                         28.0%         33.5%         34.9%
+Selling, General and Administrative       66,955        68,825        62,393
+Operating Income                          46,765        62,966        50,669
+</Table>
+
+
+         Revenues increased 8.8% to $445.3 million in 2001 from $409.4 million
+in 2000 primarily due to the current year acquisition of Kinsel. Gross profit
+decreased both in total and as a percentage of revenues in 2001 compared to 2000
+as a result of lower gross profit margins on Kinsel revenues and a reduction in
+North American rehabilitation gross profit margin. Selling, general and
+administrative expenses decreased by 2.7% to $67.0 million in 2001 compared to
+$68.8 million in 2000 due mainly to a significant reduction in incentive
+compensation and profit sharing expense. Operating income decreased 25.7% to
+$46.8 million in 2001 compared to $63.0 million in 2000.
+
+         Revenues of $409.4 million in 2000 was an increase of 20.5% from $339.9
+million in 1999. Gross profit grew by 15.5% to $137.1 million in 2000 from
+$118.7 million in 1999. Gross profit margin declined modestly as revenue
+growth outpaced margin growth. Selling, general and administrative expenses
+increased 10.3% in 2000 to $68.8 million from $62.4 million in 1999. Operating
+income increased 24.3% to $63.0 million in 2000 from $50.7 million in 1999.
+
+
+
+                                       13
+
+
+<PAGE>
+Rehabilitation
+--------------
+
+<Table>
+<Caption>
+($ IN THOUSANDS)                         2001         2000         1999
+                                      ---------    ---------    ---------
+<S>                                   <C>          <C>          <C>
+Revenues                              $ 369,219    $ 325,773    $ 276,438
+Gross Profit                            107,809      115,500      107,881
+Gross Profit Margin                        29.2%        35.5%        39.0%
+Selling, General and Administrative      60,800       61,530       55,469
+Operating Income                         36,191       48,997       47,178
+</Table>
+
+         Rehabilitation revenues for 2001 increased 13.3% over 2000 primarily as
+a result of incremental revenues of $47.0 million related to the Kinsel
+acquisition. Excluding the Kinsel acquisition, revenues in North America
+decreased $11.6 million or 4.1% to $269.9 million. The decrease in North America
+is a result of delays in job releases, price pressures and increased competition
+in several North American markets. Revenues in Europe increased $9.4 million or
+24.1% to $48.4 million in 2001 compared to 2000 revenues of $39.0 million as a
+result of growth and improvement in market conditions in Europe.
+
+         Rehabilitation revenues for 2000 increased 17.8% over 1999 primarily as
+a result of growth in North America. Revenues for North America increased $53.4
+million or 23.4% to $281.5 million as a result of increased penetration in
+existing markets combined with entrance into new markets. The increase in North
+America in 2000 was offset somewhat by fluctuations in currency exchange rates
+which had an adverse effect of $3.2 million on total European revenues for the
+year.
+
+         Gross profit margin for rehabilitation was 29.2% in 2001 versus 35.5%
+in 2000. The decrease in gross profit margins is primarily a result of lower
+utilization rates for work crews in North American operations, combined with
+more aggressive pricing as a result of increased competition in the marketplace.
+Also, operational capacity had been expanded in anticipation of revenue growth
+that did not materialize in 2001. Finally, the operations acquired from Kinsel
+contributed 22.1% of gross profit margin, which represents a lower margin base
+than typically achieved in the historical rehabilitation segment.
+
+         Gross profit margin for rehabilitation in 2000 declined to 35.5% versus
+39.0% in 1999. The decrease in gross profit margin is primarily attributable to
+a change in the mix of contracts toward smaller diameter tubes in 2000 and to
+weaker margins in European operations caused by underutilization related to a
+decrease in revenues in Europe.
+
+         Selling, general and administrative expenses for the Company's
+rehabilitation operations decreased 1.2% in 2001 from 2000 and to 16.5% of
+revenues in 2001 from 18.9% in 2000 primarily due to a significant reduction in
+incentive compensation and profit sharing expense, offset by the inclusion of
+selling, general and administrative expenses related to the operations acquired
+in the Kinsel acquisition. In addition, the operations acquired in the Kinsel
+acquisition have a lower cost structure than typical for the rehabilitation
+segment.
+
+         Selling, general and administrative expenses for rehabilitation
+increased 10.9% in 2000 mainly as a result of ongoing costs related to the
+Company's improvements in management information systems, along with increases
+in compensation due to an increase in field personnel in North America and to
+additional operating costs related to the New York, Spanish and Belgium
+operations in 2000. Selling, general and administrative expenses were slightly
+lower as a percent of revenues in 2000 at 18.9% compared to 20.1% in 1999 due
+primarily to targeted management cost control measures in North American
+operations.
+
+         Rehabilitation operating income for 2001 decreased 26.1% from 2000. The
+decrease in operating income is a result of the decrease in gross profit margin
+discussed above, increased amortization of goodwill related to the Kinsel
+acquisition and the restructuring charge recorded in 2001. The Company's
+
+
+
+                                       14
+
+<PAGE>
+current efforts to control direct and overhead costs should effect a positive
+change in operating income in 2002.
+
+         Rehabilitation operating income for 2000 increased 3.9% over 1999
+primarily as a result of the increase in revenues offset by the decrease in
+gross profit margin.
+
+         The Company anticipates increased revenue and profitability growth in
+rehabilitation starting in the first quarter of 2002 and continuing throughout
+the year, and the realization of better margins for the year ended December 31,
+2002. The Company continues to focus much of its research and development
+efforts on identifying new and cost-effective ways to remain competitive in the
+market.
+
+Tunneling
+---------
+<Table>
+<Caption>
+($ IN THOUSANDS)                        2001         2000         1999
+                                      ---------    ---------    ---------
+<S>                                   <C>          <C>          <C>
+Revenues                              $  49,019    $  46,866    $  40,049
+Gross Profit                              8,880        9,224        7,998
+Gross Profit Margin                        18.1%        19.7%        20.0%
+Selling, General and Administrative       3,125        3,367        3,032
+Operating Income                          5,754        5,858        4,965
+</Table>
+
+         Tunneling revenues for 2001 increased 4.6% compared to 2000 as a result
+of the continued growth in the tunneling market.
+
+         Tunneling revenues for 2000 increased 17.0% compared to 1999 as a
+result of an improvement in the tunneling market which led to an increase in new
+projects which were begun in 2000. In addition, the Company finished work on a
+$40 million contract which had started in late 1999.
+
+         Gross profit margin for tunneling was 18.1% in 2001 versus 19.7% in
+2000 despite slightly stronger revenues. Gross profit margin decreased during
+the year due to a change in mix to smaller lower margin projects from larger
+higher margin projects.
+
+         Gross profit for tunneling increased 15.3% to $9.2 million in 2000
+from $8.0 million in 1999 due primarily to increased revenues. Gross profit
+margin did not change significantly compared to 1999.
+
+         Selling, general and administrative expenses for tunneling decreased
+7.2% in 2001 from 2000. Selling, general and administrative expenses decreased
+to 6.4% of revenues from 7.2% in 2000. The decline in selling, general and
+administrative expenses and selling, general and administrative expenses as a
+percent of revenues is due to a reduction in incentive compensation and profit
+sharing expense and targeted cost reduction initiatives.
+
+         Selling, general and administrative expenses for tunneling increased
+11.0% in 2000 over 1999. Selling, general and administrative expenses decreased
+slightly to 7.2% of revenues in 2000 from 7.6% of revenues in 1999. The increase
+in selling, general and administrative expenses primarily relates to increased
+administrative costs related to the increased volume of business in 2000.
+
+         Tunneling operating income decreased slightly in 2001 compared to 2000,
+primarily as a result of the decrease in gross profit margins discussed above.
+Operating income in 2000 increased 18.0% over 1999 primarily as a result of the
+increase in revenues.
+
+         The Company expects the tunneling unit to continue its trend of
+increasing revenue growth in 2002, but at an increased rate, which is likely to
+outpace growth in other business segments. Though gross
+
+
+                                       15
+
+
+<PAGE>
+profit margins are expected to remain similar to those realized in 2001, the
+resulting mix change should yield lower consolidated profit margins for the
+Company on a consolidated basis as margins in this business are traditionally
+lower than margins in the Company's other activities. Tunneling will continue to
+grow in significance to the Company's overall financial results through
+increased traditional work volumes, expanded product offerings and development
+of new markets for its products.
+
+TiteLiner
+---------
+<Table>
+<Caption>
+($ IN THOUSANDS)                        2001         2000         1999
+                                      ---------    ---------    ---------
+<S>                                   <C>          <C>          <C>
+Revenues                              $  27,072    $  36,795    $  23,396
+Gross Profit                              8,159       12,349        2,772
+Gross Profit Margin                        30.1%        33.6%        11.8%
+Selling, General and Administrative       3,030        3,928        3,892
+Operating Income                          4,820        8,111       (1,474)
+</Table>
+
+         TiteLiner revenues for 2001 decreased 26.4% from 2000 primarily as a
+result of the completion of a large contract in South America in early 2001
+which added $13 million to revenues in 2000 versus $1 million in 2001. In
+addition, the United States and South American markets are geared towards large
+projects related to mining and thus fluctuate in tandem with mineral prices,
+especially copper. The price of copper and palladium are depressed, which has
+resulted in a substantial decrease in projects relating to mining.
+
+         TiteLiner revenues in 2000 increased 57.3% from 1999 primarily due to
+revenues recorded related to the South American contract discussed above. In
+addition, the Canadian market is geared toward smaller projects in the oil and
+gas industry. Accordingly, increases in oil prices in 2000 led to a more
+favorable market for oil pipeline repairs.
+
+         Gross profit margin for TiteLiner was 30.1% in 2001 versus 33.6% in
+2000. Lower mineral prices led to decreased revenues during 2001 placing
+pressure on overall unit capacity costs yielding lower gross profit margins.
+
+         Gross profit margin for TiteLiner increased to 33.6% in 2000 from 11.8%
+in 1999. The principal reason for the higher gross profit margin was a more
+favorable market for pipeline repairs as a result of the increase in oil prices.
+In addition, gross profit margin in 1999 was unfavorably impacted by
+difficulties with a major project in Chile.
+
+         Selling, general and administrative expenses for TiteLiner decreased
+22.9% in 2001 from 2000 primarily as a result of a reduction in incentive
+compensation and profit sharing expense and targeted cost reduction initiatives.
+Selling, general and administrative expenses increased to 11.2% of revenues from
+10.7% in 2000 due to decreased leverage of fixed costs over a lower revenue
+base.
+
+         Selling, general and administrative expenses for TiteLiner remained
+relatively unchanged in 2000 compared to 1999. Selling, general and
+administrative expenses were lower as a percent of revenues in 2000 at 10.7%
+compared to 16.6% in 1999 primarily as a result of increased leverage of fixed
+costs over a higher revenue base.
+
+         TiteLiner's operating income for 2001 declined 40.6% compared to 2000,
+as a result of the decreases in revenues and gross profit margins discussed
+above. Operating income for 2000 increased $9.6 million over 1999 as a result of
+the increases in revenues and gross profit margins discussed above.
+
+
+
+                                       16
+
+
+<PAGE>
+         The Company expects continuing deterioration of revenues for TiteLiner
+in 2002, but by maintaining profit margins and trimming operating costs where
+possible, the overall impact to consolidated net income should be minimal.
+
+RESTRUCTURING
+
+         In the fourth quarter of 2001, the Company recorded a restructuring
+charge of $4.1 million, $0.9 million of which related to the elimination of 112
+company-wide positions specifically identified as of December 31, 2001. An
+additional $3.2 million of the charge relates to asset write-downs, lease
+cancellations and other costs associated with the closure and consolidation of
+eight facilities in the United States and the disposal of the associated assets.
+See Note 5 to the Consolidated Financial Statements regarding restructuring
+costs. The Company expects the annualized benefit from the restructuring actions
+to be approximately $9.0 million before tax.
+
+OTHER INCOME/EXPENSE
+
+         Interest expense for 2001 was relatively unchanged at $9.3 million.
+Although the Company made a scheduled $15.7 million payment on its Senior Notes,
+Series A (the "Senior Notes") in February 2001, the Company acquired additional
+debt of $12.2 million in the first quarter of 2001 as part of its acquisition of
+Kinsel.
+
+         Interest expense in 2000 increased 3.5% to $9.3 million from $9.0
+million in 1999. This increase was primarily due to additional debt from the
+June 1999 acquisition of the Company's Dutch licensee, offset somewhat by
+payments of interest-bearing deferred consideration attributable to the
+Company's 1998 acquisition of Video Injection.
+
+         Other income decreased 38.1%, or $1.4 million, to $2.3 million during
+2001. This was primarily due to a 400 basis point decline in market rates of
+return on the Company's short-term investments. Other income in 2000 decreased
+1.7% to $3.7 million from $3.8 million in 1999. The relatively flat income was
+due to lower invested cash balances in the fourth quarter of 2000 versus 1999.
+
+INCOME TAXES
+
+         The Company's effective tax rate for 2001 decreased only slightly to
+39.4% compared to 39.5% in 2000. Although there is a relatively minor change to
+the effective tax rate, the components of the effective tax rate changed more
+significantly. There was an increased effect of non-deductible goodwill as a
+result of the Kinsel acquisition, which was offset by a reduction due to the
+favorable conclusion of outstanding exams. The Company's effective tax rate was
+39.5% in 2000 compared to 41.6% in 1999, primarily due to more effective
+management over worldwide taxes, along with the reduced effect of non-deductible
+goodwill amortization.
+
+         As indicated in Note 14 of the Notes to Consolidated Financial
+Statements, the 2001, 2000 and 1999 effective tax rates were higher than the
+United States federal statutory rate, primarily due to non-deductibility of
+goodwill amortization associated with acquisitions, which is generally not
+deductible for tax purposes.
+
+MINORITY INTEREST AND EQUITY IN EARNINGS OF AFFILIATED COMPANIES
+
+         Minority interest in net income decreased in 2001 to $0.3 million from
+$0.6 million in 2000. The decrease was due to the acquisition in 2001 of an
+additional 10% interest in Video Injection, and, in late 2000, the purchase of
+an additional 35% interest in Insituform France. Equity in earnings of
+affiliated
+
+
+
+                                       17
+
+
+<PAGE>
+companies increased 39.2% to $1.1 million in 2001 compared to $0.8 million in
+2000. The increase is a result of an additional $0.2 million in contributions
+from the Company's European rehabilitation joint ventures and an additional $0.1
+million from joint ventures acquired in the Kinsel acquisition.
+
+         Minority interest in net income decreased 27.1% in 2000 to $0.6 million
+from $0.8 million in 1999. This change was due predominantly to the Company's
+increased ownership in Linings, the Company's manufacturing operation in Europe.
+Equity earnings of affiliated companies increased $0.5 million in 2000 to $0.8
+million from $0.3 million in 1999. This increase was due primarily to the
+elimination of losses from the Midsouth Partners partnership from which the
+Company withdrew in the third quarter of 1999.
+
+DISCONTINUED OPERATIONS
+
+         In the fourth quarter, the Company made the decision to sell certain
+operations related to the Kinsel acquisition. Accordingly, the Company has
+classified as discontinued the wastewater treatment plant, commercial
+construction and highway operations acquired as part of the Kinsel acquisition.
+These operations are not consistent with the Company's operating strategy of
+providing differentiated trenchless rehabilitation and tunneling services. The
+net loss for the discontinued operations for the year ended December 31, 2001
+was $0.1 million on $56.9 million in revenues. In February 2002, the Company
+closed the sale of Kinsel's wastewater treatment plant operations for slightly
+less than the book value of the assets sold. The Company is currently marketing
+Kinsel's highway construction and maintenance operations. See Note 4 to the
+Consolidated Financial Statements regarding discontinued operations.
+
+NET INCOME/EARNINGS PER SHARE
+
+         As a result of operations, net income in 2001 decreased 28.8% to $24.9
+million, representing a 5.6% return on revenue, compared to $34.9 million,
+representing an 8.5% return on revenue in 2000 and $26.0 million in 1999,
+representing a 7.6% return on revenue. Return on average stockholders' equity
+was 12.0%, 23.0%, and 18.7% in 2001, 2000, and 1999, respectively.
+
+         Earnings per share-dilutive decreased 32.8% from $1.37 per share in
+2000 to $0.92 per share in 2001. The restructuring charge and the effect of
+discontinued operations discussed above impacted earnings per share-dilutive by
+$0.10 per share. Earnings per share-dilutive increased 37.0% from $1.00 per
+share in 1999 to $1.37 per share in 2000. The increase is primarily related to
+the increase in net income. Earnings per share-dilutive was also favorably
+impacted by the repurchase of 500,165 shares of common stock in 2000.
+
+OUTLOOK
+
+         Responding to the disappointing performance of 2001, management
+analyzed the cost structure supporting the Company's operations and began making
+reductions. The Company anticipates better performance in the 2002 fiscal year
+than in 2001. Backlog in most business units is the strongest it has ever been,
+and the Company has won several contracts with significant revenue dollars
+attached to them.
+
+CRITICAL ACCOUNTING POLICIES
+
+         The discussion and analysis of our financial condition and results of
+operations are based upon our consolidated financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the
+United States. The preparation of these financial statements requires us to make
+estimates and judgments that affect the reported amount of assets and
+liabilities, revenues and expenses, and related disclosure of contingent assets
+and liabilities at the date of our financial statements. Actual results may
+differ from these estimates under different assumptions or conditions.
+
+
+
+
+                                       18
+
+<PAGE>
+         Some of our accounting policies require the application of significant
+judgment by management in selecting the appropriate assumptions for calculating
+financial estimates. By their nature, these judgments are subject to an inherent
+degree of uncertainty. We believe that our critical accounting policies are
+limited to those described below. For a detailed discussion on the application
+of these and other accounting policies, see Note 2 in the notes to the
+consolidated financial statements.
+
+REVENUE RECOGNITION - PERCENTAGE-OF-COMPLETION METHOD
+
+         The Company recognizes revenues and profit as construction and
+installation contracts progress using the percentage-of-completion method of
+accounting, which relies on estimates of total expected contract revenues and
+costs. Under this method, estimated contract revenues and resulting gross profit
+margin are recognized based on costs incurred to date as a percentage of total
+estimated costs. The Company follows this method since reasonably dependable
+estimates of the revenues and costs applicable to various elements of a contract
+can be made. Since the financial reporting of these contracts depends on
+estimates, which are assessed continually during the term of these contracts,
+recognized revenues and profit are subject to revisions as the contract
+progresses to completion. Total estimated costs, and thus contract margin, are
+impacted by changes in productivity, scheduling, and the unit cost of labor,
+subcontracts, materials and equipment. Additionally, external factors such as
+weather, customer needs, customer delays in providing approvals, labor
+availability, governmental regulation and politics, may also affect the progress
+and estimated cost of a project's completion and thus the timing of margin and
+revenue recognition. Revisions in profit estimates are reflected in the period
+in which the facts that give rise to the revision become known. Accordingly,
+favorable changes in estimates result in additional revenues and profit
+recognition, and unfavorable changes in estimates result in a reduction of
+recognized revenues and profits. When current estimates of total contract costs
+indicate that the contract will result in a loss, the projected loss is
+recognized in full in the period in which the loss becomes evident. Revenues
+from change orders, extra work, variations in the scope of work and claims are
+recognized when realization is reasonably assured.
+
+         Many of our contracts provide for termination of the contract at the
+convenience of the customer. In the event a contract would be terminated at the
+convenience of the customer prior to completion, we will typically be
+compensated for progress up to the time of termination and any termination
+costs. In addition, many contracts are subject to certain completion schedule
+requirements with liquidated damages in the event schedules are not met as the
+result of circumstances that are within our control. Losses on terminated
+contracts and liquidated damages have historically not been significant.
+
+LONG-LIVED ASSETS
+
+         Property, plant and equipment, goodwill and other intangibles are
+recorded at cost and are amortized on a straight-line basis over their estimated
+useful lives. Changes in circumstances such as technological advances, changes
+to the Company's business model or changes in the Company's capital strategy can
+result in the actual useful lives differing from the Company's estimates. In
+those cases where the Company determines that the useful life of property, plant
+and equipment should be shortened, the Company would depreciate the net book
+value in excess of the salvage value over its revised remaining useful life,
+thereby increasing depreciation expense.
+
+         Long-lived assets, including property, plant and equipment, goodwill
+and other intangibles, are reviewed by the Company for impairment whenever
+events or changes in circumstances indicate that the carrying amount of an asset
+may not be recoverable. Factors we consider important which could trigger an
+impairment review include the following:
+
+
+
+                                       19
+
+
+
+<PAGE>
+o        significant underperformance in a region relative to expected
+         historical or projected future operating results;
+
+o        significant changes in the use of the assets of a region or the
+         strategy for the region;
+
+o        significant negative industry or economic trends;
+
+o        significant decline in our stock price for a sustained period; and
+
+o        our market capitalization is significantly less than net book value.
+
+         Such impairment tests are based on a comparison of undiscounted cash
+flows to the recorded value of the asset. The estimate of cash flow is based
+upon, among other things, certain assumptions about expected future operating
+performance. The Company's estimates of undiscounted cash flow may differ from
+actual cash flow due to, among other things, technological changes, economic
+conditions, changes to its business model or changes in its operating
+performance. If the sum of the undiscounted cash flows (excluding interest) is
+less than the carrying value, the Company recognizes an impairment loss,
+measured as the amount by which the carrying value exceeds the fair value of the
+asset.
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+         Management makes estimates of the uncollectibility of our accounts
+receivable. Management evaluates specific accounts where the Company has
+information that the customer may be unwilling or unable to pay the receivable
+in full. In these cases, the Company uses its judgment, based on the best
+available facts and circumstances, and records a specific reserve for that
+customer against amounts due in order to reduce the receivable to the amount
+that is expected to be collected. The specific reserves are reevaluated and
+adjusted as additional information is received that impacts the amount reserved.
+After all attempts to collect the receivable have failed, the receivable is
+written off against the reserve. Based on the information available, the Company
+believes that the allowance for doubtful accounts as of December 31, 2001 is
+adequate. However, no assurances can be given that actual write-offs will not
+exceed the recorded reserve.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         The balance of cash and cash equivalents increased $10.5 million to
+$74.6 million at December 31, 2001 compared to $64.1 million at December 31,
+2000. The cash balance at the end of 2001 includes $4.3 million of cash and cash
+equivalents restricted in various escrow accounts. Operating cash flow from
+continuing operations of $44.7 million provided a significant majority of the
+Company's cash flow in the year ended December 31, 2001, an amount 179.3% of net
+income from continuing operations. Net operating cash flow for the year was
+$34.8 million. Historically, operating cash flow has been the largest source of
+available capital, by comparison providing $42.6 million and $34.4 million in
+the years ended December 31, 2000 and 1999, respectively. Working capital was
+$138.7 million at December 31, 2001 compared to $114.5 million at December 31,
+2000. The Company anticipates that operating cash flow will remain a significant
+portion of operational funding in the foreseeable future.
+
+         Other significant sources of cash during 2001 were proceeds from
+short-term borrowings against the line of credit of $15.0 million and proceeds
+of $9.0 million from the sale of fixed assets, including a building sold due to
+the closure of an operating site and two tunneling machines. An additional $6.1
+million was contributed from the issuance of common stock upon the exercise of
+options in 2001.
+
+         Cash was used in nearly equal amounts for investing and financing
+activities during 2001. Of the $16.6 million expended on capital, $6.6 million
+related to two tunneling machines for which the Company initially funded
+construction and were later leased back under an operating lease. The Company's
+investing activities in 2001 included $20.6 million of repayments on debt
+agreements, the largest of which
+
+
+
+
+                                       20
+
+<PAGE>
+was a $15.7 million scheduled principal payment on the Company's Senior Notes.
+These payments are scheduled in equal amounts through 2007. Repurchases under
+the Company's previously reported stock repurchase program were $12.2 million
+for the year to acquire 563,109 shares. The net effect of the Company's stock
+issuance and repurchases during 2001 did not have a significant impact on
+earnings per share in 2001.
+
+         Trade receivables, together with costs and estimated earnings in excess
+of billings and retainage under construction contracts, increased 15.4%, to
+$131.2 million, from $113.7 million at the end of 2000, primarily a result of
+the acquisition of Kinsel, which added $13.7 million to receivables at the end
+of 2001. The collection of installation receivables involves contractual
+provisions for retainage by the project owner, often 5% to 15% of the contract
+amount, which extends the collection process. The slow review processes often
+employed by the Company's municipal customers also sometimes further prolong
+collections. In the United States, retainage receivables are generally received
+within 60 to 90 days after the completion of a contract.
+
+         The Company has entered into several contractual joint ventures in
+order to develop joint bids on contracts for its installation business, and for
+tunneling operations. In these cases, the Company could be required to complete
+the partner's portion of the contract if the partner is unable to complete its
+portion. The Company continues to investigate opportunities for expanding its
+business through such arrangements.
+
+         At December 31, 2001, the Company had unused committed bank credit
+facilities under a credit agreement (the "Credit Agreement") totaling $34.1
+million. The commitment fee paid per annum by the Company is 0.2% on the
+unborrowed balance. The interest rates under this facility vary and are based on
+the prime rate. As of December 31, 2001, the rate was 4.75%.
+
+         The Company's Senior Notes, due February 14, 2007, bear interest,
+payable semi-annually in August and February of each year, at the rate per annum
+of 7.88%. Each year, from February 2002 to February 2006, inclusive, the Company
+will be required to make principal payments of $15.7 million, together with an
+equivalent payment at maturity. On December 31, 2001, the principal amount of
+Senior Notes outstanding was $94.3 million. The Senior Notes may be prepaid at
+the Company's option, in whole or in part, at any time, together with a
+make-whole premium. Upon specified change in control events each holder has the
+right to require the Company to purchase its Senior Note without any premium
+thereon.
+
+         The note purchase agreements pursuant to which the Senior Notes were
+acquired, and the Credit Agreement, obligate the Company to comply with certain
+financial ratios and restrictive covenants that, among other things, place
+limitations on operations and sales of assets by the Company or its
+subsidiaries, limit the ability of the Company to incur further secured
+indebtedness and liens and of subsidiaries to incur indebtedness, and, in the
+event of default, limit the ability of the Company to pay cash dividends or make
+other distributions to the holders of its capital stock or to redeem such stock.
+The Credit Agreement also obligates certain of the Company's domestic
+subsidiaries to guaranty the Company's obligations, as a result of which the
+same subsidiaries have also delivered their guaranty with respect to the Senior
+Notes.
+
+         The Company believes it has adequate resources and liquidity to fund
+future cash requirements for working capital, capital expenditures and debt
+repayments with cash generated from operations, existing cash balances,
+additional short- and long-term borrowing and the sale of assets. For additional
+discussion of assets financed through operating leases and the capital
+commitments thereon, see Note 15 in the Notes to Consolidated Financial
+Statements.
+
+         In February 2001, the Company acquired Kinsel, a trans-regional
+provider of pipebursting and other sewer rehabilitation services for
+approximately $80.0 million. The acquisition was funded primarily
+
+
+
+                                       21
+
+<PAGE>
+through issuance of 1,847,165 shares of the Company's common stock from
+treasury, cash and the issuance of a $5.4 million note to the seller.
+
+         In February 2000, the Company acquired the rights to the Insituform
+CIPP Process and NuPipe Process for the states of New York and New Jersey,
+through the purchase of all of the shares of the capital stock of Insituform
+Metropolitan, Inc. and the operating assets of certain of its affiliates. At
+closing, the Company paid the sellers or delivered into escrow an aggregate of
+$5.0 million in cash, in addition to assuming operating liabilities of the
+acquired business. In July 2000, Insituform Italia s.r.l, a newly formed joint
+venture of the Company and Per Aarsleff A/S, acquired Italcontrolli Nord s.r.l.,
+the Insituform CIPP Process licensee in Italy, for $1.2 million. During the
+third quarter, the Company acquired the remaining 50% ownership of K-Insituform,
+N.V., its joint venture in Belgium, for approximately $0.3 million, along with
+the remaining 33% ownership of Insituform France, S.A., for approximately $0.8
+million.
+
+MARKET RISK
+
+         The Company is exposed to the effect of interest rate changes and
+foreign currency fluctuations.
+
+INTEREST RATE RISK
+
+         The fair value of the Company's cash and short-term investment
+portfolio and the fair value of the line of credit facility at December 31, 2001
+approximated carrying value. Given the short-term nature of these instruments,
+market risk, as measured by the change in fair value resulting from a
+hypothetical 10% change in interest rates, is not material.
+
+         The Company's objectives in managing exposure to interest rate changes
+are to limit the impact of interest rate changes on earnings and cash flows and
+to lower overall borrowing costs. To achieve these objectives, the Company
+maintains fixed rate debt as a percentage of its net debt in a percentage range
+set by policy. The fair value of the Company's long-term debt, including current
+maturities and the amount outstanding on the line of credit facility, was
+estimated to be $124.4 million at December 31, 2001, and exceeded carrying value
+by $347 thousand. Market risk was estimated as the potential increase in fair
+value resulting from a hypothetical 10% decrease in the Company's debt specific
+borrowing rates at December 31, 2001, or $1.9 million.
+
+FOREIGN EXCHANGE RISK
+
+         The Company operates subsidiaries, and is associated with licensees and
+affiliates operating solely in countries outside of the United States, and in
+currencies other than the U.S. dollar. Consequently, these operations are
+inherently exposed to risks associated with fluctuation in the value of the
+local currencies of these countries compared to the U.S. dollar. At December 31,
+2001, approximately $3.8 million of financial instruments, primarily long-term
+debt, were denominated principally in Euros. The effect of a hypothetical
+adverse change of 10% in year-end exchange rates (a weakening of the U.S.
+dollar) is immaterial.
+
+EFFECTS OF TRANSACTIONS WITH RELATED AND CERTAIN OTHER PARTIES
+
+         Affholder, Inc., the Company's wholly-owned subsidiary that comprises
+the tunneling segment, leased four cranes from A-Y-K-E Partnership as of March
+15, 2002. A-Y-K-E is a partnership that is controlled by Robert W. Affholder,
+the Company's Senior Executive Vice President and a member of the Company's
+board of directors. During the year ended December 31, 2001, Affholder paid
+A-Y-K-E $453,500 pursuant to equipment leases. This amount represents 31.9% of
+all lease payments made by
+
+
+
+                                       22
+
+
+<PAGE>
+Affholder during 2001 and 2.1% of all lease payments made by the Company in
+2001. Affholder owns, or leases under long-term operating leases with third
+party leasing companies, several pieces of tunneling equipment, including cranes
+and tunnel boring machines. From time to time for specific projects, Affholder
+will lease additional equipment from a variety of sources, including A-Y-K-E.
+A-Y-K-E owns various pieces of equipment that are used in the tunneling
+industry, including cranes and tunnel boring machines. The cranes that are
+currently under lease are leased under separate lease agreements on terms that
+are substantially similar to, or better than, those otherwise available to
+Affholder in the market. The leases are terminable upon 30 days' prior notice by
+either party. During 2001, A-Y-K-E leased equipment only to Affholder. At
+Affholder's discretion, Affholder may sublease the cranes to third parties and
+retain any profit generated from the sublease.
+
+FORWARD-LOOKING INFORMATION
+
+         This Annual Report contains various forward-looking statements that are
+based on information currently available to management and on management's
+beliefs and assumptions. When used in this document, the words "anticipate,"
+"estimate," "believes," "plans," and similar expressions are intended to
+identify forward-looking statements, but are not the exclusive means of
+identifying such statements. Such statements are subject to risks and
+uncertainties. The Company's actual results may vary materially from those
+anticipated, estimated or projected due to a number of factors, such as the
+competitive environment for the Company's products and services, the
+geographical distribution and mix of the Company's work, the timely award or
+cancellation of projects, political circumstances impeding the progress of work
+and other factors set forth in reports and other documents filed by the Company
+with the Securities and Exchange Commission from time to time. The Company does
+not assume a duty to update forward-looking statements. Please use caution and
+do not place reliance on forward-looking statements.
+
+Item 7A.   Quantitative and Qualitative Disclosures about Market Risk
+
+         For information concerning this item, see "Item 7. Management's
+Discussion and Analysis of Financial Condition and Results of Operations-Market
+Risk," which information is incorporated herein by reference.
+
+Item 8.  Financial Statements and Supplementary Data
+
+         For information concerning this item, see "Item 14. Exhibits, Financial
+Statement Schedules, and Reports on Form 8-K," which information is incorporated
+herein by reference.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+         Financial Disclosure
+
+         Not applicable.
+
+                                    PART III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+         For information concerning this item, see "Item 1. Business-Executive
+Officers" and the Proxy Statement to be filed with respect to the 2002 Annual
+Meeting of Stockholders (the "2002 Proxy Statement"), which information is
+incorporated herein by reference.
+
+
+
+                                       23
+
+
+<PAGE>
+Item 11. Executive Compensation
+
+         For information concerning this item, see the 2002 Proxy Statement,
+which information is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+         For information concerning this item, see the 2002 Proxy Statement,
+which information is incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions
+
+         For information concerning this item, see the 2002 Proxy Statement,
+which information is incorporated herein by reference.
+
+
+                                     PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+         (a)      1.       Financial Statements:
+
+         The consolidated financial statements filed in this Annual Report on
+Form 10-K are listed in the attached Index to Consolidated Financial Statements
+and Schedules.
+
+                  2.       Financial Statement Schedules:
+
+         No financial statement schedules are included herein because they are
+not required or are not applicable or the required information is contained in
+the consolidated financial statements or notes thereto.
+
+                  3.       Exhibits:
+
+         The exhibits required to be filed as part of this Annual Report on Form
+10-K are listed in the attached Index to Exhibits.
+
+         (b)      Current Reports on Form 8-K:  None
+
+
+
+
+                                       24
+<PAGE>
+
+                                POWER OF ATTORNEY
+
+         The registrant and each person whose signature appears below hereby
+appoint Anthony W. Hooper and Joseph A. White as attorneys-in-fact with full
+power of substitution, severally, to execute in the name and on behalf of the
+registrant and each such person, individually and in each capacity stated below,
+one or more amendments to the annual report which amendments may make such
+changes in the report as the attorney-in-fact acting deems appropriate and to
+file any such amendment to the report with the Securities and Exchange
+Commission.
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+Dated:  March 28, 2002             INSITUFORM TECHNOLOGIES, INC.
+
+
+                                   By: /s/ Joseph A. White
+                                      ------------------------------------------
+                                      Joseph A. White
+                                      Vice President and Chief Financial Officer
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated:
+
+<Table>
+<Caption>
+Signature                                                 Title                              Date
+---------                                                 -----                              ----
+<S>                                               <C>                                   <C>
+/s/ Anthony W. Hooper                                                                   March 28, 2002
+--------------------------------------------
+Anthony W. Hooper                                 Principal Executive Officer and
+                                                  Director
+
+
+/s/ Joseph A. White                                                                     March 28, 2002
+--------------------------------------------
+Joseph A. White                                   Principal Financial and Accounting
+                                                  Officer
+
+
+/s/ Robert W. Affholder                                                                 March 28, 2002
+--------------------------------------------
+Robert W. Affholder                               Director
+
+
+/s/ Paul A. Biddelman                                                                   March 28, 2002
+--------------------------------------------
+Paul A. Biddelman                                 Director
+
+
+/s/ Stephen P. Cortinovis                                                               March 28, 2002
+--------------------------------------------
+Stephen P. Cortinovis                             Director
+</Table>
+
+
+
+<PAGE>
+
+<Table>
+<Caption>
+Signature                                           Title                                    Date
+---------                                           -----                                    ----
+<S>                                               <C>                                   <C>
+/s/ Juanita H. Hinshaw                                                                  March 28, 2002
+--------------------------------------------
+Juanita H. Hinshaw                                Director
+
+
+/s/ Thomas Kalishman                                                                    March 28, 2002
+--------------------------------------------
+Thomas Kalishman                                  Director
+
+
+/s/ Sheldon Weinig                                                                      March 28, 2002
+--------------------------------------------
+Sheldon Weinig                                    Director
+
+
+/s/ Alfred L. Woods                                                                     March 28, 2002
+--------------------------------------------
+Alfred L. Woods                                   Director
+</Table>
+
+
+
+<PAGE>
+                          INDEX TO FINANCIAL STATEMENTS
+
+<Table>
+<S>                                                                                  <C>
+Report of Independent Public Accountants . . . . . . . . . . . . . . . . . . . .     F-2
+
+Report of Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     F-3
+
+Consolidated Statements of Income for each of the three years
+         in the period ended December 31, 2001 . . . . . . . . . . . . . . . . .     F-4
+
+Consolidated Balance Sheets, December 31, 2001 and 2000  . . . . . . . . . . . .     F-5
+
+
+Consolidated Statements of Stockholders' Equity for each of the three years
+         in the period ended December 31, 2001 . . . . . . . . . . . . . . . . .     F-6
+
+Consolidated Statements of Cash Flows for each of the three years
+         in the period ended December 31, 2001 . . . . . . . . . . . . . . . . .     F-7
+
+Notes to Consolidated Financial Statements . . . . . . . . . . . . . . . . . . .     F-8
+</Table>
+
+
+         No Financial Statement Schedules are included herein because they are
+not required or not applicable or the required information is contained in the
+consolidated financial statements or notes thereto.
+
+
+
+                                      F-1
+<PAGE>
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Board of Directors and the Shareholders of
+Insituform Technologies, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Insituform
+Technologies, Inc. and subsidiaries as of December 31, 2001 and 2000, and the
+related consolidated statements of income, stockholders' equity and cash flows
+for each of the three years in the period ended December 31, 2001. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Insituform Technologies, Inc.
+and subsidiaries as of December 31, 2001 and 2000, and the results of their
+operations and their cash flows for each of the three years in the period ended
+December 31, 2001, in conformity with accounting principles generally accepted
+in the United States.
+
+
+
+ARTHUR ANDERSEN LLP
+
+
+
+St. Louis, Missouri,
+February 1, 2002
+
+
+
+                                      F-2
+<PAGE>
+                              REPORT OF MANAGEMENT
+
+Management is responsible for the preparation, integrity and objectivity of
+financial information included in this annual report. The financial statements
+have been prepared in conformity with accounting principles generally accepted
+in the United States.
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the reported amounts. Although the financial
+statements reflect all available information and management's judgment and
+estimates of current conditions and circumstances, and are prepared with the
+assistance of specialists within and outside the Company, actual results could
+differ from those estimates.
+
+Management has established and maintains an internal control structure to
+provide reasonable assurance that assets are safeguarded against loss from
+unauthorized use or disposition, that the accounting records provide a reliable
+basis for the preparation of financial statements and that such financial
+statements are not misstated due to material fraud or error. Internal controls
+include the careful selection of associates, the proper segregation of duties
+and the communication and application of formal policies and procedures that are
+consistent with high standards of accounting and administrative practices. An
+important element of this system is an internal audit program.
+
+Management continually reviews, modifies and improves its systems of accounting
+and controls in response to changes in business conditions and operations and in
+response to recommendations in the reports prepared by the independent public
+accountants and internal auditors.
+
+Management believes that it is essential for the Company to conduct its business
+affairs in accordance with the highest ethical standards and in conformity with
+the law. This standard is described in the Company's policies on business
+conduct, which are publicized throughout the Company.
+
+
+
+
+                                      F-3
+<PAGE>
+
+                 INSITUFORM TECHNOLOGIES, INC. AND SUBSIDIARIES
+                        CONSOLIDATED STATEMENTS OF INCOME
+              FOR THE YEARS ENDED DECEMBER 31, 2001, 2000 AND 1999
+                    (In thousands, except per share amounts)
+
+<Table>
+<Caption>
+
+                                                                     2001         2000         1999
+                                                                   ---------    ---------    ---------
+<S>                                                                <C>          <C>          <C>
+REVENUES                                                           $ 445,310    $ 409,434    $ 339,883
+
+COST OF REVENUES                                                     320,462      272,361      221,232
+                                                                   ---------    ---------    ---------
+
+GROSS PROFIT                                                         124,848      137,073      118,651
+
+SELLING, GENERAL AND ADMINISTRATIVE                                   66,955       68,825       62,393
+
+AMORTIZATION EXPENSE                                                   7,001        5,282        5,589
+
+RESTRUCTURING CHARGES                                                  4,127           --           --
+                                                                   ---------    ---------    ---------
+OPERATING INCOME                                                      46,765       62,966       50,669
+                                                                   ---------    ---------    ---------
+OTHER (EXPENSE) INCOME:
+   Interest expense                                                   (9,339)      (9,347)      (9,031)
+   Other                                                               2,309        3,732        3,797
+                                                                   ---------    ---------    ---------
+TOTAL OTHER EXPENSE                                                   (7,030)      (5,615)      (5,234)
+                                                                   ---------    ---------    ---------
+INCOME BEFORE TAXES ON INCOME                                         39,735       57,351       45,435
+
+TAXES ON INCOME                                                       15,653       22,647       18,879
+                                                                   ---------    ---------    ---------
+INCOME BEFORE MINORITY INTERESTS AND EQUITY IN
+   EARNINGS
+                                                                      24,082       34,704       26,556
+
+MINORITY INTERESTS                                                      (273)        (610)        (837)
+
+EQUITY IN EARNINGS OF AFFILIATED COMPANIES                             1,131          812          264
+                                                                   ---------    ---------    ---------
+INCOME FROM CONTINUING OPERATIONS                                     24,940       34,906       25,983
+
+LOSS FROM DISCONTINUED OPERATIONS                                        (72)          --           --
+                                                                   ---------    ---------    ---------
+NET INCOME                                                         $  24,868    $  34,906    $  25,983
+                                                                   =========    =========    =========
+EARNINGS PER SHARE OF COMMON STOCK AND COMMON
+   STOCK EQUIVALENTS:
+
+   Basic:
+     Income from continuing operations                             $    0.94    $    1.41    $    1.02
+     Discontinued operations                                              --           --           --
+                                                                   ---------    ---------    ---------
+     Net Income                                                    $    0.94    $    1.41    $    1.02
+                                                                   =========    =========    =========
+   Diluted:
+     Income from continuing operations                             $    0.93    $    1.37    $    1.00
+     Discontinued operations                                              --           --           --
+                                                                   ---------    ---------    ---------
+     Net Income                                                    $    0.92    $    1.37    $    1.00
+                                                                   =========    =========    =========
+</Table>
+
+    The accompanying notes are an integral part of the financial statements.
+
+
+
+                                      F-4
+<PAGE>
+
+
+                 INSITUFORM TECHNOLOGIES, INC. AND SUBSIDIARIES
+         CONSOLIDATED BALANCE SHEETS - AS OF DECEMBER 31, 2001 AND 2000
+                    (In thousands, except share information)
+
+                                     ASSETS
+
+<Table>
+<Caption>
+                                                                                               2001         2000
+                                                                                             ---------    ---------
+CURRENT ASSETS:
+<S>                                                                                          <C>          <C>
+   Cash and cash equivalents, including restricted cash of $4,262 and $1,584, respectively   $  74,649    $  64,107
+   Receivables, net                                                                             86,191       78,607
+   Retainage                                                                                    21,327       15,976
+   Costs and estimated earnings in excess of billings                                           23,719       19,151
+   Inventories                                                                                  13,712       18,121
+   Prepaid expenses and other                                                                    8,135        5,046
+   Assets held for disposal                                                                     32,034           --
+                                                                                             ---------    ---------
+           Total current assets                                                                259,767      201,008
+                                                                                             ---------    ---------
+
+PROPERTY, PLANT AND EQUIPMENT, less accumulated depreciation                                    68,547       70,226
+                                                                                             ---------    ---------
+OTHER ASSETS:
+   Goodwill, less accumulated amortization of $28,166 and $22,171, respectively                117,251       66,108
+   Other assets                                                                                 18,057       17,632
+                                                                                             ---------    ---------
+           Total other assets                                                                  135,308       83,740
+                                                                                             ---------    ---------
+           Total assets                                                                      $ 463,622    $ 354,974
+                                                                                             =========    =========
+</Table>
+
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+<Table>
+<S>                                                                                          <C>          <C>
+
+CURRENT LIABILITIES:
+  Current maturities of long-term debt and line of credit                                    $  35,218    $  18,023
+  Accounts payable and accrued expenses                                                         68,302       63,829
+  Billings in excess of costs and estimated earnings                                             8,057        4,688
+  Liabilities related to discontinued operations                                                 9,471           --
+                                                                                             ---------    ---------
+           Total current liabilities                                                           121,048       86,540
+
+LONG-TERM DEBT, less current maturities                                                         88,853       98,217
+
+OTHER LIABILITIES                                                                                2,039        2,570
+                                                                                             ---------    ---------
+           Total liabilities                                                                   211,940      187,327
+                                                                                             ---------    ---------
+MINORITY INTERESTS                                                                               1,555        2,357
+                                                                                             ---------    ---------
+STOCKHOLDERS' EQUITY:
+  Preferred stock, undesignated, $.10 par - shares authorized 2,000,000; none outstanding           --           --
+  Common stock, $.01 par - shares authorized 60,000,000; shares issued 28,571,158 and
+     28,152,570, shares outstanding 26,602,385 and 24,908,304                                      286          282
+  Additional paid-in capital                                                                   129,651       81,934
+  Retained earnings                                                                            172,112      147,244
+  Treasury stock - 1,968,773 and 3,244,266 shares                                              (44,563)     (58,478)
+  Cumulative foreign currency translation adjustments                                           (7,359)      (5,692)
+                                                                                             ---------    ---------
+           Total stockholders' equity                                                          250,127      165,290
+                                                                                             ---------    ---------
+           Total liabilities and stockholders' equity                                        $ 463,622    $ 354,974
+                                                                                             =========    =========
+</Table>
+
+    The accompanying notes are an integral part of the financial statements.
+
+
+
+                                      F-5
+<PAGE>
+                 INSITUFORM TECHNOLOGIES, INC. AND SUBSIDIARIES
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+              FOR THE YEARS ENDED DECEMBER 31, 2001, 2000 AND 1999
+                    (In thousands, except number of shares)
+
+<Table>
+<Caption>
+                                                                                  Cumulative
+                                                                                    Foreign
+                                Common Stock     Additional                        Currency       Total
+                             ------------------   Paid-In    Retained  Treasury   Translation  Stockholders'  Comprehensive
+                               Shares    Amount   Capital    Earnings   Stock     Adjustments     Equity          Income
+                             ----------  ------  ----------  --------  --------   ----------   -------------   -------------
+<S>                          <C>         <C>     <C>         <C>       <C>        <C>          <C>            <C>
+BALANCE, December 31, 1998   27,302,304  $  273  $   68,931  $ 86,355  $(13,097)  $   (2,957)  $     139,505
+
+
+ Net income                          --      --          --    25,983        --           --          25,983   $      25,983
+ Issuance of common stock
+  upon exercise of options,
+  including income tax
+  benefit of $907               485,558       5       5,878        --        --           --           5,883              --
+ Common stock repurchased            --      --          --        --   (32,021)          --         (32,021)             --
+ Foreign currency
+  translation adjustment             --      --          --        --        --         (747)           (747)           (747)
+                                                                                                               -------------
+ Total comprehensive income          --      --          --        --        --           --              --   $      25,236
+                                                                                                               =============
+                             ----------  ------  ----------  --------  --------   ----------   -------------
+BALANCE, December 31, 1999   27,787,862  $  278  $   74,809  $112,338  $(45,118)  $   (3,704)  $     138,603
+
+
+ Net income                          --      --          --    34,906        --           --          34,906   $      34,906
+ Issuance of common stock
+  upon exercise of options,
+  including income tax
+  benefit of $2,295             364,708       4       7,125        --        --           --           7,129              --
+ Common stock repurchased            --      --          --        --   (13,360)          --         (13,360)             --
+ Foreign currency
+  translation adjustment             --      --          --        --        --       (1,988)         (1,988)         (1,988)
+                                                                                                               -------------
+ Total comprehensive income          --      --          --        --        --           --              --   $      32,918
+                                                                                                               =============
+                             ----------  ------  ----------  --------  --------   ----------   -------------
+BALANCE, December 31, 2000   28,152,570  $  282  $   81,934  $147,244  $(58,478)  $   (5,692)  $     165,290
+
+
+ Net income                          --      --          --    24,868        --           --          24,868   $      24,868
+ Issuance of common stock
+  upon exercise of options,
+  including income tax
+  benefit of $2,209             418,588       4       8,257        --        --           --           8,261              --
+ Issuance of common stock
+  pursuant to acquisition            --      --      39,460        --    26,133           --          65,593              --
+ Common stock repurchased            --      --          --        --   (12,218)          --         (12,218)             --
+ Foreign currency
+  translation adjustment             --      --          --        --        --       (1,667)         (1,667)         (1,667)
+                                                                                                               -------------
+ Total comprehensive income          --      --          --        --        --           --              --   $      23,201
+                                                                                                               =============
+                             ----------  ------  ----------  --------  --------   ----------   -------------
+BALANCE, December 31, 2001   28,571,158  $  286  $  129,651  $172,112  $(44,563)  $   (7,359)  $     250,127
+                             ==========  ======  ==========  ========  ========   ==========   =============
+</Table>
+
+    The accompanying notes are an integral part of the financial statements.
+
+
+
+                                      F-6
+<PAGE>
+
+
+                 INSITUFORM TECHNOLOGIES, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+              FOR THE YEARS ENDED DECEMBER 31, 2001, 2000 AND 1999
+                                 (In thousands)
+
+<Table>
+<Caption>
+                                                                                    2001        2000        1999
+                                                                                  --------    --------    --------
+<S>                                                                               <C>         <C>         <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net income                                                                     $ 24,868    $ 34,906    $ 25,983
+       Loss from discontinued operations                                                72          --          --
+                                                                                  --------    --------    --------
+   Income from continuing operations                                                24,940      34,906      25,983
+                                                                                  --------    --------    --------
+   Adjustments to reconcile net income to net cash provided by operating
+     activities-
+       Depreciation                                                                 14,382      13,398      12,655
+       Amortization                                                                  7,001       5,282       5,589
+       Other                                                                         1,425      (2,417)       (475)
+       Deferred income taxes                                                           891       1,057       1,689
+       Changes in operating assets and liabilities, net of purchased businesses
+           Receivables                                                              (6,054)    (27,439)     (9,718)
+           Inventories                                                               4,761      (5,727)     (1,125)
+           Prepaid expenses and other assets                                        (1,530)      5,383      (3,703)
+           Accounts payable and accrued expenses                                    (1,101)     18,180       3,484
+                                                                                  --------    --------    --------
+           Net cash provided by operating activities of continuing operations       44,715      42,623      34,379
+                                                                                  --------    --------    --------
+           Net cash used by operating activities of discontinued operations         (9,879)         --          --
+                                                                                  --------    --------    --------
+           Net cash provided by operating activities                                34,836      42,623      34,379
+                                                                                  --------    --------    --------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Capital expenditures                                                            (16,638)    (30,208)    (11,746)
+   Proceeds from sale of fixed assets                                                9,048          --          --
+   Purchases of businesses, net of cash acquired                                    (1,878)     (7,032)    (11,325)
+   Other investing activities                                                       (2,147)      1,476       3,304
+                                                                                  --------    --------    --------
+           Net cash used in investing activities                                   (11,615)    (35,764)    (19,767)
+                                                                                  --------    --------    --------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Proceeds from issuance of common stock                                            6,052       4,834       4,976
+   Purchases of treasury stock                                                     (12,218)    (13,360)    (32,021)
+   Proceeds from long-term debt                                                         --         660       6,050
+   Principal payments on long-term debt                                            (20,611)     (2,765)     (2,288)
+   Increase (decrease) in notes payable                                             14,995         542        (276)
+                                                                                  --------    --------    --------
+           Net cash used in financing activities                                   (11,782)    (10,089)    (23,559)
+                                                                                  --------    --------    --------
+EFFECT OF EXCHANGE RATE CHANGES ON CASH                                               (897)       (846)        226
+                                                                                  --------    --------    --------
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                                10,542      (4,076)     (8,721)
+
+CASH AND CASH EQUIVALENTS, beginning of year                                        64,107      68,183      76,904
+                                                                                  --------    --------    --------
+CASH AND CASH EQUIVALENTS, end of year                                            $ 74,649    $ 64,107    $ 68,183
+                                                                                  ========    ========    ========
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+   Cash paid for-
+     Interest                                                                     $  9,652    $  9,217    $  8,852
+     Income taxes                                                                 $ 15,121    $ 18,512    $ 17,593
+
+NONCASH INVESTING AND FINANCING ACTIVITIES:
+   Issuance of common stock pursuant to acquisition                               $ 65,593    $     --    $     --
+   Issuance of note payable pursuant to acquisition                               $  5,350    $     --    $     --
+</Table>
+
+    The accompanying notes are an integral part of the financial statements.
+
+
+
+
+                                      F-7
+<PAGE>
+                 INSITUFORM TECHNOLOGIES, INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.       DESCRIPTION OF BUSINESS
+
+Insituform Technologies, Inc. (a Delaware corporation) and subsidiaries
+(collectively, the "Company") is a worldwide provider of proprietary trenchless
+technologies for the rehabilitation and improvement of sewer, water, gas and
+industrial pipes. The Company's primary technology is the Insituform(R) process,
+a "cured-in-place" pipeline rehabilitation process (the "Insituform CIPP
+Process"). Pipebursting is a trenchless method of dilating and replacing an old
+pipeline with a new plastic pipe. The microtunneling process is a method of
+drilling a new tunnel from surface operated equipment. Sliplining is a method
+used to push or pull a new pipeline into an old one. The Company's TiteLiner
+("TiteLiner") process is a method of lining steel lines with a corrosion and
+abrasion resistant pipe. The Company is engaged in trenchless tunneling used in
+the installation of new underground services.
+
+2.       SUMMARY OF ACCOUNTING POLICIES
+
+Principles of Consolidation
+---------------------------
+
+The consolidated financial statements include the accounts of the Company and
+its majority-owned subsidiaries, including a 75%-owned United Kingdom
+subsidiary, Insituform Linings Plc.; a 55%-owned Mexican subsidiary, United
+Pipeline de Mexico, S.A.; and a 89.6%-owned French subsidiary, Video Injection,
+S.A. For contractual joint ventures, the Company recognizes revenue and profits
+on its portion of the contract. All intercompany transactions and balances have
+been eliminated.
+
+Accounting Estimates
+--------------------
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+Reclassifications
+-----------------
+
+Certain previously reported amounts have been restated to conform to
+classifications adopted in 2001 or to reflect the Company's wastewater
+treatment, commercial construction and highway operations as discontinued
+operations.
+
+Revenues
+--------
+
+Revenues include construction and installation revenues which are recognized
+using the percentage-of-completion method of accounting in the ratio of costs
+incurred to estimated final costs. Contract costs include all direct material
+and labor costs and those indirect costs related to contract performance, such
+as indirect labor, supplies, tools and equipment costs. Since the financial
+reporting of these contracts depends on estimates, which are assessed
+continually during the term of these contracts, recognized revenues and profit
+are subject to revisions as the contract progresses to completion. Revisions in
+profit estimates are reflected in the period in which the facts that give rise
+to the revision become known. When estimates indicate that a loss will be
+incurred on a contract on completion, a provision for the expected loss is
+recorded in the period in which the loss becomes evident. At December 31, 2001,
+there are no significant provisions for expected losses on contracts. Revenue
+from change orders, extra work, variations in the scope of work and claims is
+recognized when realization is reasonably assured.
+
+Research and Development
+------------------------
+
+The Company expenses research and development costs as incurred. Research and
+development costs of $2.3 million, $2.4 million, and $2.4 million for the years
+ended December 31, 2001, 2000 and 1999, respectively, are included in selling,
+general and administrative expenses in the accompanying consolidated statements
+of income.
+
+
+
+                                      F-8
+<PAGE>
+Taxes on Income
+---------------
+
+The Company provides for estimated income taxes payable or refundable on current
+year income tax returns as well as the estimated future tax effects attributable
+to temporary differences and carryforwards, based upon enacted tax laws and tax
+rates.
+
+Earnings Per Share
+------------------
+
+Earnings per share have been calculated using the following share information:
+
+<Table>
+<Caption>
+                                                                 2001         2000         1999
+                                                              ----------   ----------   ----------
+<S>                                                           <C>          <C>          <C>
+Weighted average number of common shares used for basic EPS   26,427,276   24,834,413   25,460,287
+
+Effect of dilutive stock options and warrants                    495,996      705,751      619,245
+                                                              ----------   ----------   ----------
+Weighted average number of common shares and dilutive
+  potential common stock used in dilutive EPS                 26,923,272   25,540,164   26,079,532
+                                                              ==========   ==========   ==========
+</Table>
+
+Cash and Cash Equivalents
+-------------------------
+
+The Company classifies highly liquid investments with original maturities of 90
+days or less as cash equivalents. Recorded book values are reasonable estimates
+of fair value for cash and cash equivalents.
+
+Allowance for Doubtful Accounts
+-------------------------------
+
+Management makes estimates of the uncollectibility of accounts receivable. The
+Company records a reserve for specific accounts to reduce receivables to the
+amount that is expected to be collected. The specific reserves are reevaluated
+and adjusted as additional information is received. After all attempts to
+collect the receivable have failed, the receivable is written off against the
+reserve.
+
+Inventories
+-----------
+
+Inventories are stated at the lower of cost (first-in, first-out) or market.
+Actual cost is used to value raw materials and supplies. Standard cost, which
+approximates actual cost, is used to value work-in-process, finished goods and
+construction materials. Standard cost includes direct labor, raw materials, and
+manufacturing overhead based on practical capacity.
+
+Long-Lived Assets
+-----------------
+
+Property, plant and equipment, goodwill and other intangibles are recorded at
+cost and are amortized on a straight-line basis over their estimated useful
+lives. Intangible assets are reviewed for impairment whenever events or changes
+in circumstances indicate that the carrying amount of an asset may not be
+recoverable. Such impairment tests are based on a comparison of undiscounted
+cash flows to the recorded value of the asset. If impairment is indicated, the
+asset value is written down to its fair value.
+
+Goodwill
+--------
+
+The Company amortizes goodwill over periods of 15 to 25 years on the
+straight-line basis. Amortization expense related to goodwill for the years
+ended December 31, 2001, 2000 and 1999 was $6.2 million, $3.8 million and $3.3
+million, respectively.
+
+New Accounting Pronouncements
+-----------------------------
+
+In June 2001, the Financial Accounting Standards Board ("FASB") issued Statement
+of Financial Accounting Standards No. 141 ("SFAS 141"), "Business Combinations,"
+and No. 142 ("SFAS 142"), "Goodwill and Other Intangible Assets." SFAS No. 141
+requires that all business combinations be accounted for using the purchase
+method
+
+
+
+
+                                      F-9
+<PAGE>
+
+of accounting and requires separate recognition of intangible assets that meet
+certain criteria. This statement applies to all business combinations completed
+after June 30, 2001. The adoption of SFAS 141 did not have a significant impact
+on the Company's financial statements.
+
+SFAS 142 requires that an intangible asset that is acquired shall be initially
+recognized and measured based on its fair value. This statement also provides
+that goodwill should not be amortized, but shall be tested for impairment
+annually, or more frequently if circumstances indicate potential impairment,
+through a comparison of fair value to its carrying amount. SFAS No. 142 is
+effective for fiscal periods beginning after December 15, 2001. As a result of
+this new standard, the Company continued to amortize goodwill which existed
+prior to June 30, 2001, through December 31, 2001, at which time amortization
+ceased and a transitional impairment test will be performed. Management is
+currently reviewing the new standard and evaluating the impact on its future
+consolidated financial statements and accounting policies and practices.
+Amortization of goodwill for 2001 totaled $6.2 million.
+
+In August 2001, the FASB issued SFAS No. 143, "Accounting for Asset Retirement
+Obligations." This standard will be adopted by the Company on January 1, 2003.
+Management believes that the adoption of SFAS No. 143 will not have a material
+impact on its future consolidated financial statements.
+
+Foreign Currency Translation
+----------------------------
+
+Results of operations for foreign entities are translated using the average
+exchange rates during the period. Current assets and liabilities are translated
+to U.S. dollars using the exchange rates in effect at the balance sheet date,
+and the related translation adjustments are reported as a separate component of
+stockholders' equity.
+
+3.       BUSINESS ACQUISITIONS
+
+On February 28, 2001, the Company acquired 100% of the stock of Kinsel
+Industries, Inc. ("Kinsel") and an affiliated company, Tracks of Texas, Inc.
+("Tracks"). Kinsel has operations in pipebursting, microtunneling, wastewater
+treatment plant construction, commercial construction and highway construction
+and maintenance. Tracks is a real estate and construction equipment leasing
+company that primarily leases equipment to Kinsel. The purchase price was
+approximately $80 million, paid in a combination of cash, notes and 1,847,165
+shares of the Company's common stock valued at $35.51 per share. The transaction
+was accounted for by the purchase method of accounting, and accordingly, their
+results are included in the Company's consolidated income statement from the
+date of acquisition. The purchase price was allocated to assets and liabilities
+based on their respective fair value at the date of acquisition and resulted in
+goodwill of $61.2 million, which is being amortized over 20 years. There are no
+contingent payments, options, or commitments in connection with the acquisition.
+The Company subsequently decided to sell off portions of Kinsel that did not fit
+the Company's overall business strategy. (See Note 4.)
+
+The following unaudited pro forma summary presents information as if Kinsel and
+Tracks had been acquired as of January 1, 2000. The pro forma amounts include
+certain adjustments, primarily to recognize depreciation and amortization,
+including amortization of goodwill, based on the allocated purchase price of
+Kinsel and Tracks assets, and do not reflect any benefits from economies which
+might be achieved from combining operations. The unaudited pro forma information
+has been presented for comparative purposes and does not necessarily reflect the
+actual results that would have occurred nor is it necessarily indicative of
+future results of operations of the combined companies (in thousands, except per
+share amounts):
+
+<Table>
+<Caption>
+                                       For the year ended December 31,
+                                                (unaudited)
+                                           2001           2000
+                                        -----------    -----------
+<S>                                     <C>            <C>
+Revenues                                $   454,923    $   441,756
+Income from continuing operations            25,398         35,338
+Loss from discontinued operations              (843)          (550)
+Net income                                   24,555         34,788
+
+Earnings (loss) per share:
+  Basic
+    Income from continuing operations          0.96           1.32
+    Loss from discontinued operations         (0.03)         (0.02)
+    Net income                                 0.93           1.30
+
+</Table>
+
+
+
+
+                                      F-10
+<PAGE>
+<Table>
+<S>                                     <C>            <C>
+  Diluted
+    Income from continuing operations          0.94           1.29
+    Loss from discontinued operations         (0.03)         (0.02)
+    Net income                                 0.91           1.27
+</Table>
+
+During the third quarter of 2000, the Company acquired the remaining 50%
+ownership of Insituform Belgium N.V. (formerly known as K-Insituform N.V.), its
+joint venture in Belgium, for approximately $0.3 million, along with the
+remaining 33% ownership in Insituform France, S.A., for approximately $0.8
+million. In addition, in July 2000, the Company completed its acquisition of 50%
+of Italcontrolli-Insituform S.r.l. (formerly known as Italcontrolli Nord
+S.r.l.), its licensee in Italy, for approximately $1.2 million. There was no
+material goodwill resulting from these acquisitions.
+
+In February 2000, the Company acquired the rights to the Insituform CIPP Process
+and NuPipe(R) process for the states of New York and New Jersey, through the
+purchase of all of the shares of the capital stock in Insituform(R)
+Metropolitan, Inc. and the operating assets of certain of its affiliates. The
+Company paid the sellers or delivered into escrow an aggregate of $5.0 million
+in cash, in addition to assuming operating liabilities of the acquired business.
+The acquisition was accounted for by the purchase method and resulted in
+goodwill of $4.8 million.
+
+On June 1, 1999, the Company completed its acquisition of all of the shares of
+its exclusive licensee of the Insituform CIPP Process in the Netherlands now
+named Insituform Rioolrenovatietechnieken B.V. from BFI Holdings B.V. The
+purchase price was NLG 25 million (approximately U.S. $11.7 million), which was
+paid in cash at closing. The acquisition was accounted for by the purchase
+method and resulted in goodwill of $10.8 million.
+
+4.       DISCONTINUED OPERATIONS
+
+In October 2001, the FASB issued SFAS No. 144, "Accounting for the Impairment or
+Disposal of Long-Lived Assets." The Company has elected to early adopt the
+provisions of SFAS No. 144 for the year ended December 31, 2001. SFAS No. 144
+supersedes SFAS No. 121 "Accounting for the Impairment of Long-Lived Assets to
+Be Disposed Of" and provides a single accounting model for long-lived assets to
+be disposed of by sale. SFAS No. 144 clarifies certain provisions related to
+SFAS No. 121 and expands the use of discontinued operations to all components of
+a business for which separate results of operations can be identified.
+
+In the fourth quarter of 2001, the Company made the decision to sell certain
+operations acquired in the Kinsel transaction. Accordingly, the Company has
+classified as discontinued the wastewater treatment plant, commercial
+construction and highway operations acquired as part of the Kinsel acquisition.
+These operations are not consistent with the Company's operating strategy of
+providing differentiated trenchless rehabilitation and tunneling services. In
+February 2002, the Company completed the sale of the wastewater treatment plant
+effective January 1, 2002. The Company received $1.5 million in cash and a $2.0
+million note for a total sale price of $3.5 million, resulting in a slight loss
+on the sale. The Company is currently marketing Kinsel's commercial construction
+and highway operations. As of December 31, 2001, assets held for disposal
+totaled $32.0 million, which included $7.6 million of unbilled receivables,
+while liabilities related to discontinued operations totaled $9.5 million. The
+results of operations for the discontinued operations are as follows (in
+thousands):
+
+<Table>
+<Caption>
+                                                                           2001
+                                                                         --------
+<S>                                                                      <C>
+REVENUES:
+     Wastewater Treatment Plant                                          $ 26,336
+     Commercial Construction and Highway Operations                        30,576
+                                                                         --------
+                                                                         $ 56,912
+                                                                         ========
+INCOME (LOSS) FROM DISCONTINUED OPERATIONS:
+     Wastewater Treatment Plant, net of tax of $230                      $    354
+     Commercial Construction and Highway Operations, net of tax benefit
+     of $277                                                                 (426)
+                                                                         --------
+                                                                         $    (72)
+                                                                         ========
+</Table>
+
+
+
+
+                                      F-11
+<PAGE>
+
+5.       RESTRUCTURING
+
+In the fourth quarter of 2001, the Company recorded a restructuring charge of
+$4.1 million, $0.9 million of which is severance costs associated with the
+elimination of 112 company-wide positions specifically identified as of December
+31, 2001. An additional $3.2 million of the charge relates to asset write-downs,
+lease cancellations and other costs associated with the closure of eight
+facilities in the United States and the disposal of the associated assets. As of
+December 31, 2001, the remaining liability is $1.4 million.
+
+6.       ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+Activity in the allowance for doubtful accounts is summarized as follows for the
+years ended December 31 (in thousands):
+
+<Table>
+<Caption>
+                                 2001       2000       1999
+                                -------    -------    -------
+<S>                             <C>        <C>        <C>
+Balance, at beginning of year   $ 2,067    $ 3,096    $ 2,909
+Charged to expense                  537        442        590
+Write-offs and adjustments         (396)    (1,471)      (403)
+                                -------    -------    -------
+Balance, at end of year         $ 2,208    $ 2,067    $ 3,096
+                                =======    =======    =======
+</Table>
+
+7.       COSTS AND ESTIMATED EARNINGS ON UNCOMPLETED CONTRACTS
+
+Costs and estimated earnings on uncompleted contracts consist of the following
+at December 31 (in thousands):
+
+<Table>
+<Caption>
+                                                          2001          2000
+                                                       ----------    ----------
+<S>                                                    <C>           <C>
+Costs incurred on uncompleted contracts                $  230,004    $  172,529
+Estimated earnings                                         61,859        54,499
+                                                       ----------    ----------
+                                                          291,863       227,028
+Less-  Billings to date                                  (278,548)     (212,565)
+                                                       ----------    ----------
+                                                       $   13,315    $   14,463
+                                                       ==========    ==========
+Included in the accompanying balance sheets:
+  Costs and estimated earnings in excess of billings   $   21,372    $   19,151
+  Billings in excess of costs and estimated earnings       (8,057)       (4,688)
+                                                       ----------    ----------
+                                                       $   13,315    $   14,463
+                                                       ==========    ==========
+</Table>
+
+Costs and estimated earnings in excess of billings represent work performed
+which either due to contract stipulations or lacking contractual documentation
+needed, could not be billed. Substantially all unbilled amounts are expected to
+be billed and collected within one year. Retainage due after one year is
+approximately $5.5 million at December 31, 2001.
+
+
+
+
+
+                                      F-12
+<PAGE>
+
+8.       INVENTORIES
+
+Inventories are summarized as follows at December 31 (in thousands):
+
+<Table>
+<Caption>
+                                                         2001           2000
+                                                      -----------    -----------
+<S>                                                   <C>            <C>
+Raw materials and supplies                            $       710    $     1,376
+Work-in-process                                             4,958          4,522
+Finished products                                           1,270          1,872
+Construction materials                                      6,374         10,351
+                                                      -----------    -----------
+                                                      $    13,312    $    18,121
+                                                      ===========    ===========
+</Table>
+
+9.       PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant and equipment consists of the following at December 31 (in
+thousands):
+
+<Table>
+<Caption>
+                                    Estimated Useful
+                                      Lives (Years)        2001           2000
+                                    ----------------     ---------      --------
+<S>                                 <C>                  <C>            <C>
+Land and land improvements               15 - 20         $   9,336      $ 11,485
+Buildings and improvements               5 - 40             25,342        24,474
+Machinery and equipment                  4 - 10             94,368        89,360
+Furniture and fixtures                   3 - 10             11,300        10,927
+Autos and trucks                         3 - 10              5,208         5,728
+Construction in progress                                     6,839         7,183
+                                                         ---------      --------
+                                                           152,393       149,157
+
+Less-  Accumulated depreciation                            (83,846)      (78,931)
+                                                         ---------      --------
+                                                         $  68,547      $ 70,226
+                                                         =========      ========
+</Table>
+
+10.      LONG-TERM DEBT AND LINE OF CREDIT
+
+Long-term debt and line of credit consists of the following at December 31 (in
+thousands):
+
+<Table>
+<Caption>
+                                                                          2001         2000
+                                                                       ---------    ---------
+<S>                                                                    <C>          <C>
+7.88% Senior Notes, payable in $15,715 annual installments beginning
+  February 2001 through 2007, with interest payable semiannually       $  94,285    $ 110,000
+Line of credit facility                                                   15,913           --
+5.5% bank term loan, EUR 5.7 million, payable in seven equal annual
+  installments through July 2006, with interest payable quarterly          3,618        4,582
+Other notes, interest rates from 5.0% to 10.5%                            10,255        1,658
+                                                                       ---------    ---------
+                                                                         124,071      116,240
+Less-  Current maturities                                                (35,218)     (18,023)
+                                                                       ---------    ---------
+                                                                       $  88,853    $  98,217
+                                                                       =========    =========
+</Table>
+
+The 7.88% Senior Notes may be prepaid at the Company's option, in whole or in
+part, at any time, together with a make-whole premium, and upon specified change
+in control events each holder has the right to require the Company to purchase
+its Senior Notes without any premium thereon. The agreements obligate the
+Company to comply with certain financial ratios and restrictive covenants that,
+among other things, place limitations on operations and sales of assets by the
+Company or its subsidiaries, and limit the ability of the Company to incur
+further secured indebtedness and liens. Such agreements also obligate the
+Company's subsidiaries to provide guarantees to the holders of the Senior Notes
+if guarantees are given by them to certain other lenders.
+
+
+
+
+
+                                      F-13
+<PAGE>
+
+During 2000, the Company obtained a line of credit facility with the capacity to
+borrow up to $50 million. The commitment fee paid per annum by the Company is
+0.2% on the unborrowed balance. The Company is obligated to comply with certain
+financial ratios, and restrictive covenants, which mirror the Senior Note
+agreements. This line of credit facility expires March 31, 2003. The interest
+rates under this facility vary and are based on the prime rate. As of December
+31, 2001, the rate was 4.75%. The unused availability on the line of credit
+facility as of December 31, 2001 was $34.1 million. There was no outstanding
+balance on the line of credit at the end of 2000.
+
+At December 31, 2001 and 2000, the estimated fair value of the Company's
+long-term debt was approximately $124.4 million and $111.0 million,
+respectively. Fair value was estimated using discounted market rates for debt of
+similar risk and maturity.
+
+Principal payments required to be made for each of the next five years and
+thereafter are summarized as follows (in thousands):
+
+<Table>
+<Caption>
+        Year                     Amount
+        ----                     ------
+<S>                             <C>
+        2002                    $ 35,218
+        2003                      21,572
+        2004                      17,229
+        2005                      16,881
+        2006                      16,475
+        After 2006                16,696
+                                --------
+            Total               $124,071
+                                ========
+</Table>
+
+11.      ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+
+Accounts payable and accrued expenses consist of the following at December 31
+(in thousands):
+
+<Table>
+<Caption>
+                                                           2001          2000
+                                                         ---------     ---------
+<S>                                                      <C>           <C>
+Accounts payable - trade                                 $  43,905     $  34,271
+Compensation and profit sharing                              6,153        14,158
+Interest                                                     3,039         3,632
+Other                                                       15,205        11,768
+                                                         ---------     ---------
+                                                         $  68,302     $  63,829
+                                                         =========     =========
+</Table>
+
+12.      STOCKHOLDERS' EQUITY
+
+Stock Option Plans
+------------------
+
+The 2001 Employee Equity Incentive Plan (the "Employee Incentive Plan") provides
+for the granting to employees of stock-based awards, including (a) stock
+appreciation rights, (b) restricted shares of common stock, (c) performance
+awards, (d) stock options and (e) stock units. The maximum number of shares of
+common stock which currently may be issued under the Employee Incentive Plan is
+1,000,000. The Employee Incentive Plan is administered by the Board of
+Directors, which determines the eligibility, timing, pricing, amount, vesting
+and other terms and conditions of awards, including stock option awards. The
+Company accounts for options granted under this plan in accordance with APB 25.
+The exercise price of each option issued under the 2001 Employee Incentive Plan,
+equals the closing market price of the Company's stock on the date of grant and,
+therefore, the Company makes no charge to earnings with respect to these
+options. Stock options, issued under the 2001 Employee Incentive Plan, generally
+vest over three years and have an expiration date of up to five to ten years
+after the date of grant.
+
+The 2001 Non-Employee Director Equity Incentive Plan (the "Non-Employee Director
+Incentive Plan"), provides for the granting of stock options to non-employee
+directors. The total number of shares of common stock available for
+
+
+
+                                      F-14
+<PAGE>
+
+issuance under the Non-Employee Director Incentive Plan is 200,000. The
+Non-Employee Director Incentive Plan is administered by the Board of Directors.
+Under the terms of the Non-Employee Director Incentive Plan, each non-employee
+director receives a stock option to purchase shares of common stock each year on
+the date of the Annual Meeting of Stockholders (or promptly thereafter, as
+determined by the Board), provided, that such director continues to be a
+non-employee director following such Annual Meeting. The purchase price per
+share of common stock for which each option is exercisable is the fair market
+value per share of common stock on the date the option is granted. Each option
+granted under the Non-Employee Director Incentive Plan is fully vested and
+exercisable immediately, and expires not later than ten years from the date of
+the grant.
+
+Under the 1992 Employee Stock Option Plan (the "Employee Plan") and Director
+Stock Option Plan (the "Director Plan"), the Company may grant options to its
+employees and directors not to exceed 2,850,000 and 1,500,000 shares of common
+stock, respectively. No options are to be granted under the Employee Plan or the
+Director Plan since the adoption of the Employee Incentive Plan and the
+Non-Employee Director Incentive Plan. The plans are administered by the Board of
+Directors, which determines the timing of awards, individuals to be granted
+awards, the number of options to be awarded and the price, vesting schedule and
+other conditions of the options. The exercise price of each option equals the
+closing market price of the Company's stock on the date of grant and, therefore,
+the Company makes no charge to earnings with respect to these options. Options
+generally vest over three years and have an expiration date of up to five or ten
+years after the date of grant.
+
+In accordance with SFAS No. 123, the Company has estimated the fair value of
+each option grant using the Black-Scholes option-pricing model. The following
+weighted average assumptions were used for the grants in 2001, 2000, and 1999,
+respectively: expected volatility of 75%, 62%, and 41%; risk-free interest rates
+of 4.8%, 5.1%, and 6.4%; expected lives of seven, five and five years and no
+dividends. Had compensation cost for the stock options granted been determined
+based on their fair value at the grant dates, the Company's net income and
+earnings per share would have been reduced to the pro forma amounts indicated
+below (in thousands, except per share amounts):
+
+<Table>
+<Caption>
+                                               2001         2000         1999
+                                            ----------   ----------   ----------
+<S>                                         <C>          <C>          <C>
+Net income:
+  As reported                               $   24,868   $   34,906   $   25,983
+  Pro forma                                     20,022       32,298       24,404
+Basic earnings per share:
+  As reported                                     0.94         1.41         1.02
+  Pro forma                                       0.76         1.30         0.96
+Dilutive earnings per share:
+  As reported                                     0.92         1.37         1.00
+  Pro forma                                       0.74         1.26         0.94
+</Table>
+
+The following tables summarize information about options outstanding at December
+31, 2001:
+
+<Table>
+<Caption>
+                                             Options Outstanding                  Options Exercisable
+                                   ---------------------------------------     -------------------------
+                                                    Weighted
+                                                     Average      Weighted                     Weighted
+                                                    Remaining      Average                      Average
+       Range of                      Number        Contractual    Exercise        Number       Exercise
+    Exercise Price                 Outstanding        Life          Price      Exercisable       Price
+    --------------                 -----------     -----------    --------     -----------     ---------
+<S>                                <C>             <C>            <C>          <C>             <C>
+$4.00 to $10.00                       222,759        5.5 years     $  8.76        222,759       $  8.76
+$10.00 to $20.00                      513,703        4.1 years      $14.42        379,663        $14.37
+$20.00 and above                    1,120,840        6.2 years      $28.93        450,357        $28.81
+                                   ----------                                 -----------
+                                    1,857,302        5.5 years      $22.50      1,052,779        $19.36
+                                   ==========                                 ===========
+</Table>
+
+
+
+                                      F-15
+<PAGE>
+<Table>
+<Caption>
+                                                2001                       2000                        1999
+                                     ------------------------    -----------------------    --------------------------
+                                                     Weighted                   Weighted                    Weighted
+                                                     Average                     Average                    Average
+                                                     Exercise                   Exercise                    Exercise
+                                       Shares         Price        Shares         Price        Shares        Price
+                                     -----------     --------    -----------    --------    -----------     ----------
+<S>                                  <C>             <C>         <C>            <C>         <C>             <C>
+Options outstanding, beginning of
+  year                                 1,743,002       $18.10      1,478,829       $12.14     1,508,998       $10.51
+Granted                                  656,463        29.02        630,100        28.99       493,000        15.16
+Exercised                               (416,963)       14.46       (364,708)       12.83      (485,558)       10.18
+Forfeited                               (125,200)       22.20         (1,219)       10.84       (37,611)       11.56
+                                     -----------                 -----------                -----------
+      Options outstanding, end of
+        year                           1,857,302       $22.50      1,743,002       $18.09     1,478,829       $12.14
+                                     ===========                 ===========                ===========
+Options exercisable, end of year       1,052,779       $19.36        913,824       $15.10       775,783       $11.32
+                                     ===========                 ===========                ===========
+Weighted average fair value of
+  options granted                    $     21.26                 $     16.58                $      6.98
+</Table>
+
+At December 31, 2001, 4,077,584 shares of common stock were reserved pursuant to
+stock option plans.
+
+13.      OTHER INCOME (EXPENSE)
+
+Other income (expense) is comprised of the following at December 31 (in
+thousands):
+
+<Table>
+<Caption>
+                                             2001           2000           1999
+                                            ------         ------         ------
+<S>                                         <C>            <C>            <C>
+Investment income                           $2,226         $3,493         $3,464
+Other                                           83            239            333
+                                            ------         ------         ------
+                                            $2,309         $3,732         $3,797
+                                            ======         ======         ======
+</Table>
+
+14.      TAXES ON INCOME
+
+Income from continuing operations before taxes on income is as follows for the
+years ended December 31 (in thousands):
+
+<Table>
+<Caption>
+
+                                        2001             2000             1999
+                                       -------          -------          -------
+<S>                                    <C>              <C>              <C>
+Domestic                               $28,871          $46,801          $39,463
+Foreign                                 10,864           10,550            5,972
+                                       -------          -------          -------
+Total                                  $39,735          $57,351          $45,435
+                                       =======          =======          =======
+</Table>
+
+Provisions for taxes on income from continuing operations consist of the
+following components for the years ended December 31 (in thousands):
+
+<Table>
+<Caption>
+                                               2001         2000         1999
+                                             --------     --------     --------
+<S>                                          <C>          <C>          <C>
+Current:
+  Federal                                    $  8,320     $ 14,844     $ 12,670
+  Foreign                                       4,822        4,454        2,491
+  State                                         1,620        2,292        2,029
+                                             --------     --------     --------
+                                             $ 14,762     $ 21,590     $ 17,190
+                                             --------     --------     --------
+</Table>
+
+
+
+                                      F-16
+<PAGE>
+
+A reconciliation between the U.S. federal statutory tax rate and the effective
+tax rate follows:
+
+<Table>
+<Caption>
+                                                            2001       2000       1999
+                                                          ---------  ---------  ---------
+<S>                                                       <C>        <C>        <C>
+Income taxes at U.S. federal statutory tax rate                35.0%      35.0%      35.0%
+Increase in taxes resulting from:
+  State income taxes, net of federal income tax benefit         3.2        3.6        3.6
+  Goodwill amortization                                         2.4        1.3        1.6
+  Effect of foreign income taxed at foreign rates              (0.1)       0.3        0.2
+  Other                                                        (1.1)      (0.7)       1.2
+                                                          ---------  ---------  ---------
+Total taxes on income                                          39.4%      39.5%      41.6%
+                                                          =========  =========  =========
+</Table>
+
+Net deferred taxes consist of the following at December 31 (in thousands):
+
+<Table>
+<Caption>
+                                                              2001       2000
+                                                             -------    -------
+<S>                                                          <C>        <C>
+Deferred income tax assets:
+  Foreign tax credits and net operating loss carryforwards   $ 1,183    $ 2,511
+  Accrued expenses                                             2,597      2,937
+  Other                                                        1,143        690
+                                                             -------    -------
+           Total deferred income tax assets                    4,923      6,138
+                                                             -------    -------
+Deferred income tax liabilities:
+  Property, plant and equipment                               (4,114)    (2,818)
+  Other                                                       (3,438)    (5,058)
+                                                             -------    -------
+           Total deferred income tax liabilities              (7,552)    (7,876)
+                                                             -------    -------
+           Net deferred income tax liabilities               $(2,629)   $(1,738)
+                                                             =======    =======
+</Table>
+
+Subject to the future taxable income on certain of the Company's subsidiaries,
+the Company's various foreign tax credits and net operating loss carryforwards
+have varying expiration dates, some ranging from 2006-2016, while $197,300 of
+net operating loss carryforwards have indefinite lives.
+
+15.      COMMITMENTS AND CONTINGENCIES
+
+Leases
+------
+
+The Company leases a number of its administrative operations facilities under
+noncancellable operating leases expiring at various dates through 2020. In
+addition, the Company leases certain construction, automotive and computer
+equipment on a multiyear, monthly or daily basis. Rent expense under all
+operating leases for 2001, 2000 and 1999 was $22.3 million, $17.7 million and
+$11.3 million, respectively. Rental expense paid to related parties was
+$453,500, $392,750 and $288,000 for the years ended December 31, 2001, 2000 and
+1999, respectively. At December 31, 2001, the Company had under lease equipment
+with an original market value of approximately $57.8 million.
+
+
+
+
+                                      F-17
+<PAGE>
+At December 31, 2001, the future minimum lease payments required under the
+noncancellable operating leases were as follows (in thousands):
+
+<Table>
+<Caption>
+                Year                           Minimum Lease Payments
+                ----                           ----------------------
+<S>                                            <C>
+                2002                                   $14,370
+                2003                                    10,878
+                2004                                     7,873
+                2005                                     4,141
+                2006                                     2,382
+                After 2006                               4,845
+                                                       -------
+                Total                                  $44,489
+                                                       =======
+</Table>
+
+Litigation
+----------
+
+The Company is involved in certain litigation incidental to the conduct of its
+business. In the Company's opinion, none of these proceedings will have a
+material adverse effect on the Company's financial position, results of
+operations and liquidity. The financial statements include the estimated amounts
+of liabilities that are likely to be incurred from these and various other
+pending litigation and claims.
+
+Retirement Plans
+----------------
+
+Substantially all of the Company's employees are eligible to participate in
+Company sponsored defined contribution savings plans, which are qualified plans
+under the requirements of Section 401(k) of the Internal Revenue Code. Total
+contributions to the domestic plans were $1.5 million, $4.4 million and $3.5
+million for the years ended December 31, 2001, 2000 and 1999, respectively.
+
+In addition, certain foreign subsidiaries maintain various other defined
+contribution retirement plans. Company contributions to such plans for the years
+ended December 31, 2001, 2000 and 1999, were $214,552, $352,000 and $138,000,
+respectively.
+
+16.      SEGMENT AND GEOGRAPHIC INFORMATION
+
+The Company has principally three operating segments: rehabilitation, tunneling
+and TiteLiner. The rehabilitation segment provides trenchless methods of
+rehabilitating sewers, pipelines and other conduits using a variety of
+technologies including the Insituform CIPP Process, pipebursting,
+microtunneling, and sliplining. The tunneling segment engages in trenchless
+tunneling used in the installation of new underground services, and the
+TiteLiner segment provides a method of lining steel lines with a corrosion and
+abrasion resistant pipe. These operating units represent strategic business
+units that offer distinct products and services and serve different markets.
+
+The following disaggregated financial results have been prepared using a
+management approach, which is consistent with the basis and manner with which
+management internally disaggregates financial information for the purpose of
+assisting in making internal operating decisions. The Company evaluates
+performance based on standalone operating income.
+
+There were no customers which accounted for more than 10% of the Company's
+revenues during each of the three years ended December 31, 2001.
+
+Financial information by segment is as follows at December 31 (in thousands):
+
+
+
+                                      F-18
+<PAGE>
+
+<Table>
+
+<S>                                               <C>         <C>          <C>
+Deferred:
+  Federal                                              580         727        1,682
+  Foreign                                              247         249         (180)
+  State                                                 64          81          187
+                                                  --------    --------     --------
+                                                  $    891    $  1,057     $  1,689
+                                                  --------    --------     --------
+Total Tax Provision                               $ 15,653    $ 22,647     $ 18,879
+                                                  ========    ========     ========
+</Table>
+
+
+<Table>
+<Caption>
+                                                   2001        2000        1999
+                                                 ---------   ---------   ---------
+<S>                                              <C>         <C>         <C>
+Revenues:
+  Rehabilitation                                 $ 369,219   $ 325,773   $ 276,438
+  Tunneling                                         49,019      46,866      40,049
+  TiteLiner                                         27,072      36,795      23,396
+                                                 ---------   ---------   ---------
+           Total revenues                        $ 445,310   $ 409,434   $ 339,883
+                                                 =========   =========   =========
+Operating income (loss):
+  Rehabilitation                                 $  36,191   $  48,997   $  47,178
+  Tunneling                                          5,754       5,858       4,965
+  TiteLiner                                          4,820       8,111      (1,474)
+                                                 ---------   ---------   ---------
+           Total operating income                $  46,765   $  62,966   $  50,669
+                                                 =========   =========   =========
+Total assets:
+  Rehabilitation                                 $ 311,949   $ 244,383   $ 197,670
+  Tunneling                                         30,346      18,422      14,112
+  TiteLiner                                         12,523      16,531      15,185
+  Corporate                                         76,770      75,638      84,658
+  Discontinued                                      32,034           0           0
+                                                 ---------   ---------   ---------
+           Total assets                          $ 463,622   $ 354,974   $ 311,625
+                                                 =========   =========   =========
+</Table>
+
+<Table>
+<Caption>
+                                                      2001        2000        1999
+                                                 ---------   ---------   ---------
+<S>                                              <C>         <C>         <C>
+Capital expenditures:
+  Rehabilitation                                 $   8,474   $  17,053   $   7,583
+  Tunneling                                          6,045       2,564         588
+  TiteLiner                                             61       1,381         274
+  Corporate                                          2,058       9,210       3,301
+                                                 ---------   ---------   ---------
+           Total capital expenditures            $  16,638   $  30,208   $  11,746
+                                                 =========   =========   =========
+
+Depreciation and amortization:
+  Rehabilitation                                 $  16,893   $  12,482   $  12,131
+  Tunneling                                          1,292       1,498       1,270
+  TiteLiner                                          1,136       2,034       2,234
+  Corporate                                          2,062       2,666       2,609
+                                                 ---------   ---------   ---------
+           Total depreciation and amortization   $  21,383   $  18,680   $  18,244
+                                                 =========   =========   =========
+</Table>
+
+Financial information by geographic area is as follows at December 31 (in
+thousands):
+
+<Table>
+<Caption>
+                                                   2001        2000        1999
+                                                 ---------   ---------   ---------
+<S>                                              <C>         <C>         <C>
+Revenues:
+  United States                                  $ 361,194   $ 333,246   $ 266,113
+  Canada                                            23,482      22,199      12,856
+  Other Foreign                                     60,634      53,989      60,914
+                                                 ---------   ---------   ---------
+           Total revenues                        $ 445,310   $ 409,434   $ 339,883
+                                                 =========   =========   =========
+</Table>
+
+
+
+                                      F-19
+<PAGE>
+
+<Table>
+
+<S>                                              <C>         <C>         <C>
+Operating income:
+  United States                                  $  39,003   $  55,326   $  46,446
+  Canada                                             3,714       3,674         316
+  Other Foreign                                      4,048       3,966       3,907
+                                                 ---------   ---------   ---------
+           Total operating income                $  46,765   $  62,966   $  50,669
+                                                 =========   =========   =========
+Long-lived assets:
+  United States                                  $  66,805   $  67,224   $  55,448
+  Canada                                             2,969       4,942       2,546
+  Other Foreign                                     20,168      15,692      15,182
+                                                 ---------   ---------   ---------
+           Total long-lived assets               $  89,942   $  87,858   $  73,176
+                                                 =========   =========   =========
+</Table>
+
+
+17.      SUBSEQUENT EVENTS
+
+In February 2002, the Company's Board of Directors adopted a Shareholder Rights
+Plan. Pursuant to the Shareholder Rights Plan, the Board of Directors declared a
+dividend distribution of one preferred stock purchase right ("Right") for each
+outstanding share of the Company's common stock, $.01 par value ("Common
+Stock"), payable to the Company's stockholders of record as of March 13, 2002.
+Each Right, when exercisable, entitles the holder to purchase from the Company
+one one-hundredth of a share of a new series of voting preferred stock,
+designated as Series A Junior Participating Preferred Stock, $0.10 par value, at
+an exercise price of $116.00 per one one-hundredth of a share.
+
+The Rights will trade in tandem with the Common Stock until ten days after a
+"distribution event" (i.e., the announcement of an intention to acquire or the
+actual acquisition of 20% or more of the outstanding shares of Common Stock), at
+which time the Rights would become exercisable. Upon exercise, the holders of
+the Rights (other than the person who triggered the distribution event) will be
+able to purchase for the exercise price shares of Common Stock having the then
+market value of two times the aggregate exercise price of the rights. The rights
+expire on March 12, 2012, unless redeemed, exchanged or otherwise terminated at
+an earlier date.
+
+18.      SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+         (In thousands, except per share data)
+
+<Table>
+<Caption>
+                                                                    1st          2nd         3rd            4th
+                                                                 ----------   ----------   ----------   ----------
+<S>                                                              <C>          <C>          <C>          <C>
+Year ended December 31, 2001:
+  Revenues                                                       $   98,850   $  118,071   $  112,310   $  116,079
+  Operating income                                                    9,359       19,779        7,804        9,823
+  Income from continuing operations                                   4,626       10,968        3,924        5,422
+  Net income                                                          4,663       11,370        4,031        4,804
+  Basic earnings per share:
+    Income from continuing operations                            $     0.18   $     0.41   $     0.15   $     0.20
+    Income (loss) from discontinued operations                           --         0.02           --        (0.02)
+                                                                 ----------   ---------    ----------   ----------
+  Net income                                                     $     0.18   $     0.42   $     0.15   $     0.18
+  Dilutive earnings per share:
+    Income from continuing operations                            $     0.18   $     0.40   $     0.14   $     0.20
+    Income (loss) from discontinued operations                           --         0.01           --        (0.02)
+                                                                 ----------   ---------    ----------   ----------
+  Net income                                                     $     0.18   $     0.41   $     0.15   $     0.18
+Year ended December 31, 2000:
+  Revenues                                                       $   94,283   $   99,371   $  111,042   $  104,738
+  Operating income                                                   11,619       15,289       19,518       16,540
+  Net income                                                          6,093        8,375       11,168        9,270
+  Basic earnings per share                                             0.25         0.34         0.45         1.41
+  Dilutive earnings per share                                          0.24         0.33         0.44         0.36
+</Table>
+
+
+
+
+                                      F-20
+<PAGE>
+
+
+                            INDEX TO EXHIBITS(1),(2)
+
+2        Agreement and Plan of Merger dated January 13, 2001 by and among the
+         Company, K Acquisition Corp. and TRX Acquisition Corp., Kinsel
+         Industries, Inc. and Tracks of Texas, Inc. and the Kinsel/Tracks
+         Shareholders (Incorporated by reference to Exhibit 2 to the Current
+         Report on Form 8-K dated February 28, 2001 and filed March 14, 2001).
+
+3.1      Restated Certificate of Incorporation, as amended, of the Company
+         (Incorporated by reference to Exhibit 3.1 to the Quarterly Report on
+         Form 10-Q for the quarter ended June 30, 2000), and Certificate of
+         Designation, Preferences and Rights of Series A Junior Participating
+         Preferred Stock.
+
+3.2      By-Laws of the Company, as amended (Incorporated by reference to
+         Exhibit 3.2 to the Annual Report on Form 10-K for the year ended
+         December 31, 2000).
+
+4        Rights Agreement dated as of February 26, 2002 between Insituform
+         Technologies, Inc. and American Stock Transfer & Trust Company
+         (Incorporated by reference to Exhibit 1 to the Registration Statement
+         on Form 8-A dated March 8, 2002).
+
+10.1     Multicurrency Credit Agreement dated as of March 30, 2000 between the
+         Company and Bank of America, N.A. (Incorporated by reference to Exhibit
+         10.1 to the Quarterly Report on Form 10-Q for the quarter ended March
+         31, 2000).
+
+10.2     Note Purchase Agreements (the "Note Purchase Agreements") dated as of
+         February 14, 1997 among the Company and, respectively, each of the
+         lenders (the "Noteholders") listed therein (Incorporated by reference
+         to Exhibit 10.6 to the Annual Report on Form 10-K for the year ended
+         December 31, 1996), as amended by First Amendment to the Note Purchase
+         Agreements dated as of August 20, 1997 (Incorporated by reference to
+         Exhibit 10(a) to the Quarterly Report on Form 10-Q for the quarter
+         ended September 30, 1997), as further amended by Second Amendment dated
+         as of March 30, 2000 to Note Purchase Agreements (Incorporated by
+         reference to Exhibit 10.3 to the Quarterly Report on Form 10-Q for the
+         quarter ended March 31, 2000).
+
+10.3     Master Guaranty dated as of March 30, 2000 by the Company and those
+         subsidiaries of the Company named therein (Incorporated by reference to
+         Exhibit 10.2 to the Quarterly Report on Form 10-Q for the quarter ended
+         March 31, 2000).
+
+10.4     Amended and Restated Intercreditor Agreement dated as of March 30, 2000
+         among Bank of America, N.A. and the Noteholders (Incorporated by
+         reference to Exhibit 10.4 to the Quarterly Report on Form 10-Q for the
+         quarter ended March 31, 2000)
+
+10.5     Employment Letter dated July 15, 1998 between the Company and Anthony
+         W. Hooper (Incorporated by reference to Exhibit 10.1 to the Quarterly
+         Report on Form 10-Q for the quarter ended September 30, 1998).(3)
+
+--------
+(1) The Company's current, quarterly and annual reports are filed with the
+Securities and Exchange Commission under file no. 0-10786.
+(2) Pursuant to Reg. Section 229.601, does not include certain instruments with
+respect to long-term debt of the Company and its consolidated subsidiaries not
+exceeding 10% of the total assets of the Company and its subsidiaries on a
+consolidated basis. The Company undertakes to furnish to the Securities and
+Exchange Commission, upon request, a copy of all long-term debt instruments not
+filed herewith.
+(3) Management contract or compensatory plan or arrangement.
+
+<PAGE>
+
+10.6     Employment Agreement dated October 25, 1995 between the Company and
+         Robert W. Affholder (Incorporated by reference to Exhibit 2(d) to the
+         Current Report on Form 8-K dated October 25, 1995), as amended by
+         Amendment No. 1 dated as of October 25, 1998 to Employment Agreement
+         (Incorporated by reference to Exhibit 10.9 to the Annual Report on Form
+         10-K for the year ended December 31, 1998), and as amended by Amendment
+         No. 2 dated as of December 31, 1999 to Employment Agreement, and as
+         amended by Amendment No. 3 dated as of December 31, 2000 to Employment
+         Agreement (Incorporated by reference to Exhibit 10.1 to the Quarterly
+         Report on Form 10-Q for the quarter ended March 31, 2001), and as
+         amended by Amendment No. 4 dated as of December 31, 2001 to Employment
+         Agreement.(3)
+
+10.7     Letter agreement dated as of February 9, 1999 between the Company and
+         Thomas N. Kalishman (Incorporated by reference to Exhibit 10.10 to the
+         Annual Report on Form 10-K for the year ended December 31, 1998).(3)
+
+10.8     Employment Agreement dated February 1, 2001 between Insituform Europe
+         and Antoine Menard. (Incorporated by reference to Exhibit 10.10 to the
+         Annual Report on Form 10-K for the year ended December 31, 2000).(3)
+
+10.9     Equipment Lease for 125 Ton American Crane (1) dated as of July 1, 2001
+         between A-Y-K-E Partnership and Affholder, Inc.
+
+10.10    Equipment Lease for 90 Ton Link Belt Crane dated as of January 1, 2002
+         between A-Y-K-E Partnership and Affholder, Inc.
+
+10.11    Equipment Lease for 125 Ton American Crane (2) dated as of January 1,
+         2002 between A-Y-K-E Partnership and Affholder, Inc.
+
+10.12    Equipment Lease for 110 Ton American Crane dated as of January 1, 2002
+         between A-Y-K-E Partnership and Affholder, Inc.
+
+10.13    1992 Employee Stock Option Plan of the Company (Incorporated by
+         reference to Exhibit 10.11 to the Annual Report on Form 10-K for the
+         year ended December 31, 1999).(3)
+
+10.14    1992 Director Stock Option Plan of the Company (Incorporated by
+         reference to Exhibit 10.12 to the Annual Report on Form 10-K for the
+         year ended December 31, 1999).(3)
+
+10.15    2001 Employee Equity Incentive Plan (Incorporated by reference to
+         Exhibit 99.1 to the Registration Statement on Form S-8 No.
+         33-66714).(3)
+
+10.16    2001 Non-Employee Director Equity Incentive Plan (Incorporated by
+         reference to Exhibit 99.1 to the Registration Statement on Form S-8 No.
+         33-66712).(3)
+
+10.17    Long-Term Incentive Plan (Incorporated by reference to Exhibit 10.3 to
+         the Quarterly Report on Form 10-Q for the quarter ended June 30,
+         2001).(3)
+
+10.18    Insituform Mid-America, Inc. Stock Option Plan, as amended
+         (Incorporated by reference to Exhibit 4(i) to the Registration
+         Statement on Form S-8 No. 33-63953).(3)
+
+
+<PAGE>
+
+10.19    Senior Management Voluntary Deferred Compensation Plan of the Company
+         (Incorporated by reference to Exhibit 10.19 to the Annual Report on
+         Form 10-K for the year ended December 31, 1998), as amended by First
+         Amendment thereto dated as of October 25, 2000.(3)
+
+10.20    Form of Directors' Indemnification Agreement (Incorporated by reference
+         to Exhibit 10.47 to the Annual Report on Form 10-K for the year ended
+         December 31, 1988).(3)
+
+21       Subsidiaries of the Company.
+
+23       Consent of Arthur Andersen LLP.
+
+24       Power of Attorney (See "Power of Attorney" in the Annual Report on Form
+         10-K).
+
+99.1     Letter of the Company, addressed to the Securities and Exchange
+         Commission, regarding representations to the Company by Arthur Andersen
+         LLP pursuant to Temporary Note 3T to Article 3 of Regulation S-X.
+
+
+</TEXT>
+</DOCUMENT>

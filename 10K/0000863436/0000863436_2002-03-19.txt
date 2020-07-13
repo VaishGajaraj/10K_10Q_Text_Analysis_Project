@@ -1,0 +1,1273 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>a2073293z10-k405.txt
+<DESCRIPTION>10-K405
+<TEXT>
+<Page>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+
+                                   FORM 10-K
+
+(MARK ONE)
+
+<Table>
+<C>        <S>
+   /X/     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</Table>
+
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 2001
+                                       OR
+
+<Table>
+<C>        <S>
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</Table>
+
+        FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+                         COMMISSION FILE NUMBER 1-10560
+
+                            BENCHMARK ELECTRONICS, INC.
+
+             (Exact Name of Registrant as Specified in its Charter)
+                            ------------------------
+
+<Table>
+<S>                                            <C>
+                 TEXAS                                      74-2211011
+    (State or other Jurisdiction of                      (I.R.S. Employer
+    Incorporation or Organization)                    Identification Number)
+         3000 TECHNOLOGY DRIVE                                77515
+            ANGLETON, TEXAS                                 (Zip Code)
+    (Address of Principal Executive
+               Offices)
+</Table>
+
+              REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE:
+                                 (979) 849-6550
+                            ------------------------
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+<Table>
+<Caption>
+                                                              NAME OF EACH EXCHANGE
+              TITLE OF EACH CLASS                              ON WHICH REGISTERED
+              -------------------                              -------------------
+<S>                                              <C>
+    Common Stock, par value $0.10 per share              New York Stock Exchange, Inc.
+        Preferred Stock Purchase Rights                  New York Stock Exchange, Inc.
+</Table>
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: NONE
+                            ------------------------
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/  No / /
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. /X/
+
+    As of March 15, 2002, the number of outstanding shares of Common Stock was
+19,783,012. As of such date, the aggregate market value of the shares of Common
+Stock held by non-affiliates, based on the closing price of the Common Stock on
+the New York Stock Exchange on such date, was approximately $565.1 million.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE:
+
+(1) Portions of the Company's Annual Report to Shareholders for the fiscal year
+    ended December 31, 2001 (Part II Items 5-8 and Part IV Item 14(a)(1)).
+
+(2) Portions of the Company's Proxy Statement for the 2002 Annual Meeting of
+    Shareholders (Part III, Items 10-13).
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<Page>
+                               TABLE OF CONTENTS
+
+<Table>
+<Caption>
+                                                                         PAGE
+                                                                       --------
+<S>      <C>                                                           <C>
+                                    PART I
+
+ITEM 1.  Business....................................................      1
+ITEM 2.  Properties..................................................      8
+ITEM 3.  Legal Proceedings...........................................      9
+ITEM 4.  Submission of Matters to a Vote of Security Holders.........      9
+
+                                    PART II
+
+ITEM 5.  Market for Registrant's Common Equity and Related
+           Shareholder Matters.......................................      9
+ITEM 6.  Selected Financial Data.....................................     10
+ITEM 7.  Management's Discussion and Analysis of Financial Condition
+           and Results of Operations.................................     10
+ITEM     Quantitative and Qualitative Disclosures About Market
+7A.        Risk......................................................     10
+ITEM 8.  Financial Statements and Supplementary Data.................     10
+ITEM 9.  Changes in and Disagreements with Accountants on Accounting
+           and Financial Disclosure..................................     10
+
+                                   PART III
+
+ITEM     Directors and Executive Officers of the Registrant..........
+10.                                                                       10
+ITEM     Executive Compensation......................................
+11.                                                                       10
+ITEM     Security Ownership of Certain Beneficial Owners and
+12.        Management................................................     10
+ITEM     Certain Relationships and Related Transactions..............
+13.                                                                       10
+
+                                    PART IV
+
+ITEM     Exhibits, Financial Statement Schedules, and Reports on Form
+14.        8-K.......................................................     11
+</Table>
+
+                                       i
+<Page>
+                                     PART I
+
+ITEM 1. BUSINESS
+
+BACKGROUND
+
+    Benchmark Electronics, Inc., formerly named Electronics, Inc., began
+operations in 1979 and was incorporated under Texas law in 1981 as a wholly
+owned subsidiary of Intermedics, Inc., a medical implant manufacturer based in
+Angleton, Texas. In 1986, Intermedics sold 90% of the outstanding shares of
+common stock of the Company to Electronic Investors Corp., a corporation formed
+by Donald E. Nigbor, Steven A. Barton and Cary T. Fu, three of our executive
+officers. In 1988, Electronic Investors Corp. was merged into Benchmark, and in
+1990 we completed the initial public offering of our common stock.
+
+GENERAL
+
+    We are in the business of manufacturing electronics and provide our services
+to original equipment manufacturers of telecommunication equipment, computers
+and related products for business enterprises, video/audio/entertainment
+products, industrial control equipment, testing and instrumentation products and
+medical devices. The services that we provide are commonly referred to as
+electronics manufacturing services. We offer our customers comprehensive and
+integrated design and manufacturing services, from initial product design to
+volume production and direct order fulfillment. We provide specialized
+engineering services, including product design, printed circuit board layout,
+prototyping and test development. We believe that we have developed strengths in
+the manufacturing process for large, complex, high-density printed circuit
+boards as well as the ability to manufacture high and low volume products in
+lower cost regions such as Latin America and Southeast Asia. As our customers
+expand internationally, they increasingly require their electronics
+manufacturing services partners to have strategic regional locations and global
+procurement capabilities. We believe that our global manufacturing presence of
+14 facilities in six countries increases our ability to be responsive to our
+customers' needs by providing accelerated time-to-market and time-to-volume
+production of high quality products. These capabilities should enable us to
+build stronger strategic relationships with our customers and to become a more
+integral part of their operations.
+
+    Substantially all of our manufacturing services are provided on a turnkey
+basis, whereby we purchase customer-specified components from our suppliers,
+assemble the components on finished printed circuit boards, perform
+post-production testing and provide our customers with production process and
+testing documentation. We offer our customers flexible, "just-in-time" delivery
+programs allowing product shipments to be closely coordinated with our
+customers' inventory requirements. Additionally, we complete the assembly of our
+customers' products at our facilities by integrating printed circuit board
+assemblies into other elements of our customers' products. We also provide
+manufacturing services on a consignment basis, whereby we utilize components
+supplied by the customer to provide assembly and post-production testing
+services. We currently operate, on approximately 1.6 million square feet, a
+total of 44 surface mount production lines at our domestic facilities in
+Alabama, Minnesota, New Hampshire, Oregon, Texas and Virginia; and 27 surface
+mount production lines at our international facilities in Brazil, Ireland,
+Mexico, Scotland, and Singapore. Surface mount production lines are assembly
+lines where electrical components are soldered directly onto printed circuit
+boards.
+
+    Since July 1996, we have completed five acquisitions that have broadened our
+service offerings, diversified our customer base with leading original equipment
+manufacturers and expanded our geographic presence. Our October 2000 acquisition
+of the assets of the MSI Division of Outreach Technologies, Inc. provided us
+with additional manufacturing capacity in the northeastern United States. Our
+August 1999 acquisition of AVEX Electronics, Inc. and Kilbride Holdings B.V.
+provided us with a global presence and enabled us to increase our scale of
+operations and expand our customer
+
+                                       1
+<Page>
+base significantly. We have also acquired EMD Technologies, Inc., Lockheed
+Commercial Electronics Company, and certain assets from Stratus Computer
+Ireland, which improved our engineering capabilities, increased our
+manufacturing capacity and expanded our international presence. In addition to
+these acquisitions, the opening of new systems integration facilities in
+Huntsville, Alabama in 2000 and Singapore in 2001 expanded our systems
+integration capabilities.
+
+    We believe our primary competitive advantages are our design, manufacturing,
+testing and supply chain management capabilities. We offer our customers
+complete and flexible manufacturing solutions that provide accelerated
+time-to-market, time-to-volume production, and reduced production costs. As a
+result of working closely with our customers and responding promptly to their
+needs, we have become an integral part of their operations. In addition, our
+workforce is led by a management team that founded the Company and has an
+average of 20 years of industry experience.
+
+BUSINESS STRATEGY
+
+    Our goal is to be the electronics manufacturing services outsourcing
+provider of choice to leading original equipment manufacturers in the high
+growth segments of the electronics industry. To meet this goal, we have
+implemented the following strategies:
+
+    - MAINTAIN AND DEVELOP CLOSE, LONG-TERM RELATIONSHIPS WITH CUSTOMERS. Our
+      core strategy is to maintain and establish long-term relationships with
+      leading original equipment manufacturers in expanding industries by
+      becoming an integral part of our customers' manufacturing operations. To
+      this end, we work closely with our customers throughout the design,
+      manufacturing and distribution process, and we offer flexible and
+      responsive services. We believe we develop stronger customer relationships
+      by relying on our local management teams that respond to frequently
+      changing customer design specifications and production requirements.
+
+    - FOCUS ON HIGH-END PRODUCTS IN HIGH GROWTH SECTORS. Electronics
+      manufacturing services providers produce products for a wide range of
+      original equipment manufacturers in different high growth industries, such
+      as consumer electronics, Internet-focused businesses and
+      telecommunications equipment. The product scope ranges from easy to
+      assemble, low-cost high-volume products targeted for the consumer market
+      to complicated state-of-the-art, mission critical electronic hardware.
+      Similarly, original equipment manufacturers' customers range from
+      consumer-oriented companies that compete primarily on price and redesign
+      their products every year to manufacturers of high-end telecommunications
+      equipment and computer and related products for business enterprises that
+      compete on technology and quality. We currently offer state-of-the-art
+      products for industry leaders who require specialized engineering design
+      and production services as well as offering high volume manufacturing
+      capabilities to our customer base. Our ability to offer both of these
+      services enables us to expand our business relationships.
+
+    - DELIVER COMPLETE HIGH AND LOW VOLUME MANUFACTURING SOLUTIONS GLOBALLY. We
+      believe original equipment manufacturers are increasingly requiring from
+      electronics manufacturing services providers a wide range of specialized
+      engineering and manufacturing services in order to reduce their costs and
+      accelerate their time-to-market and time-to-volume production. Building on
+      our integrated engineering and manufacturing capabilities, we offer
+      services from initial product design and test to final product assembly
+      and distribution to the original equipment manufacturers' customers. With
+      the AVEX acquisition, we also offer our customers high volume production
+      in low cost regions of the world, such as Brazil and Mexico. These full
+      service capabilities allow us to offer customers the flexibility to move
+      quickly from design and initial introduction to production and
+      distribution.
+
+    - LEVERAGE ADVANCED TECHNOLOGICAL CAPABILITIES. Our traditional strengths in
+      the manufacturing processes for assembling large, complex high-density
+      printed circuit boards enable us to offer customers advanced design,
+      technology and manufacturing solutions for their primary products.
+
+                                       2
+<Page>
+      We provide this engineering expertise through our design capabilities in
+      each of our facilities, and in our design centers located in Winona,
+      Minnesota, Huntsville, Alabama and Cork, Ireland. We believe our
+      capabilities help our customers improve product performance and reduce
+      costs.
+
+    - CONTINUE OUR GLOBAL EXPANSION. A strategically positioned facilities
+      network can simplify and shorten an original equipment manufacturer's
+      supply chain and reduce the time it takes to bring product to market. We
+      are committed to pursuing geographic expansion in order to support our
+      global customers with cost-effective and timely delivery of quality
+      products and services worldwide. Our AVEX acquisition significantly
+      expanded our service scope to provide a global manufacturing solution to
+      our customers at 14 facilities located in Brazil, Ireland, Mexico,
+      Scotland, Singapore and the United States.
+
+    - SELECTIVELY PURSUE STRATEGIC ACQUISITIONS. We have completed five
+      acquisitions since July 1996 and will continue to selectively seek
+      acquisition opportunities. Our acquisitions have enhanced our business in
+      the following ways:
+
+       - expanded geographic presence;
+
+       - enhanced customer growth opportunities;
+
+       - developed strategic relationships;
+
+       - broadened service offerings;
+
+       - diversified into new market sectors; and
+
+       - added experienced management teams.
+
+       We believe that growth by selective acquisitions is critical for
+       achieving the scale, flexibility and breadth of customer services
+       required to remain competitive in the electronics manufacturing services
+       industry.
+
+ACQUISITIONS
+
+Since July 1996, we have completed five acquisitions. These acquisitions were:
+
+    - MSI DIVISION. On October 2, 2000, we acquired substantially all of the
+      assets and properties, net of assumed liabilities, of the MSI Division of
+      Outreach Technologies, Inc. Now operated as our Manassas, Virginia
+      division, this facility provided additional manufacturing capacity in the
+      northeastern United States.
+
+    - AVEX ELECTRONICS, INC. AND RELATED COMPANIES. On August 24, 1999, we
+      completed the acquisition of AVEX, one of the largest privately-held
+      contract manufacturers. This acquisition provided us a global presence and
+      expanded our customer base to approximately 90 original equipment
+      manufacturers in a broader range of end user markets.
+
+    - STRATUS COMPUTER IRELAND. On March 1, 1999, we acquired various assets
+      from Stratus Computer Ireland, and in connection with the transaction
+      entered into a three-year supply agreement to provide system integration
+      services to Ascend and Stratus Holdings Limited. The acquired assets
+      increased our ability to provide a broad range of services to the European
+      market and enhanced our systems integration capabilities and our box build
+      engineering capabilities, which is the process of building the finished
+      product from subassemblies. The process may also involve loading software
+      and optional configuration.
+
+    - LOCKHEED COMMERCIAL ELECTRONICS COMPANY. In February 1998, we acquired
+      Lockheed Commercial Electronics Company. This acquisition provided us with
+      manufacturing capacity in
+
+                                       3
+<Page>
+      the northeastern United States and 19 additional customers. Now operated
+      as our Hudson, New Hampshire division, the facility provides a broad range
+      of services including:
+
+       - assembly and testing of printed circuit boards;
+
+       - systems assembly and testing;
+
+       - prototyping, which is building initial quantities of a new product to
+         test and refine the design;
+
+       - depot repair, which is the method of repairing equipment in which the
+         customer ships a damaged product to a central location for repair, as
+         opposed to field repair;
+
+       - materials procurement; and
+
+       - engineering and design support services.
+
+    - EMD TECHNOLOGIES, INC. In July 1996, we acquired EMD Technologies, Inc.,
+      an independent provider of electronics manufacturing and product design
+      services. Now operated as our Winona, Minnesota division, this facility
+      provides a complete range of enhanced product design and configurations
+      for subsystems and enclosures. In addition to design services, this
+      acquisition provided us with manufacturing capabilities in the midwestern
+      United States and 19 additional customers.
+
+ELECTRONICS MANUFACTURING SERVICES INDUSTRY
+
+    Many original equipment manufacturers in the electronics industry are
+increasingly using electronics manufacturing service providers in their business
+and manufacturing strategies and are seeking to outsource a broad range of
+manufacturing and related engineering services. Outsourcing allows original
+equipment manufacturers to take advantage of the manufacturing expertise of, and
+capital investments by, electronics manufacturing service providers. This
+enables original equipment manufacturers to concentrate on what they believe to
+be their core strengths, such as product development, marketing and sales.
+Original equipment manufacturers utilize electronics manufacturing service
+providers to enhance their competitive position by:
+
+    - reducing capital investment requirements and fixed overhead costs;
+
+    - accessing advanced manufacturing and design capabilities;
+
+    - reducing production costs;
+
+    - accelerating time-to-market and time-to-volume production;
+
+    - improving inventory management and purchasing power; and
+
+    - accessing worldwide manufacturing capabilities.
+
+SERVICES WE PROVIDE
+
+    ENGINEERING.  Our approach is to coordinate and integrate our design,
+prototype and other engineering capabilities. Through this approach, we provide
+a broad range of engineering services and, in some cases, dedicated production
+lines for prototypes. These services strengthen our relationships with
+manufacturing customers and attract new customers requiring specialized
+engineering services.
+
+    To assist customers with initial design, we offer computer assisted
+engineering, computer assisted design, engineering for manufacturability,
+circuit board layout and test development. We also coordinate industrial design
+and tooling for product manufacturing. After product design, we offer quickturn
+prototyping, which means a rapid process of prototyping. During this process, we
+assist with the transition to volume production. By participating in product
+design and prototype development, we
+
+                                       4
+<Page>
+can reduce manufacturing costs and accelerate the cycle from product
+introduction to large-scale production.
+
+    MATERIALS PROCUREMENT AND MANAGEMENT.  Materials procurement and management
+consists of the planning, purchasing, expediting and warehousing of components
+and materials. Our inventory management and volume procurement capabilities
+contribute to cost reductions and reduce total cycle time. Our materials
+strategy is focused on leveraging our procurement volume corporate wide while
+providing local execution for maximum flexibility at the division level. In
+addition, our Dublin, Ireland facility has developed material processes required
+to support high-end computer system integration operations.
+
+    ASSEMBLY AND MANUFACTURING.  Our manufacturing and assembly operations
+include printed circuit boards and subsystem assembly, box build and systems
+integration, the process of integrating sub-systems and downloading software
+before producing a fully configured product. We purchase the printed circuit
+boards used in our assembly operations from third parties. A substantial portion
+of our sales is derived from the manufacture and assembly of complete products.
+We employ various inventory management techniques, such as just-in-time,
+ship-to-stock and autoreplenish, which are programs designed to ensure timely,
+convenient and efficient delivery of assembled products to our customers. As
+original equipment manufacturers seek to provide greater functionality in
+smaller products, they increasingly require more sophisticated manufacturing
+technologies and processes. Our investment in advanced manufacturing equipment
+and our experience in innovative packaging and interconnect technologies enable
+us to offer a variety of advanced manufacturing solutions. These packaging and
+interconnect technologies include:
+
+    - chip scale packaging, the part of semiconductor manufacturing in which the
+      semiconductor die is bonded and sealed into a ceramic or plastic package
+      which physically protects the semiconductor device; and
+
+    - ball grid array, a method of attaching components to a printed circuit
+      board through balls of solder that are arranged in a grid pattern.
+
+    TESTING.  We offer computer-aided testing of assembled printed circuit
+boards, subsystems and systems, which contributes significantly to our ability
+to deliver high-quality products on a consistent basis. We work with our
+customers to develop product-specific test strategies. Our test capabilities
+include manufacturing defect analysis, in-circuit tests to test the circuitry of
+the board and functional tests. We either custom design test equipment and
+software ourselves or use test equipment and software provided by our customers.
+In addition, we provide environmental stress tests of assemblies of boards or
+systems.
+
+    DISTRIBUTION.  We offer our customers flexible, just-in-time delivery
+programs allowing product shipments to be closely coordinated with customers'
+inventory requirements. Increasingly, we ship products directly into customers'
+distribution channels or directly to the end-user. We believe that this service
+can provide our customers with a more comprehensive solution and enable them to
+be more responsive to market demands.
+
+MARKETING AND CUSTOMERS
+
+    We market our services through a direct sales force and independent
+marketing representatives. In addition, our divisional and executive management
+teams are an integral part of our sales and marketing teams. During 2001, our
+two largest customers, Sun Microsystems and EMC, each represented in excess of
+10% of total sales and, in the aggregate, represented 37.3% of total sales.
+
+                                       5
+<Page>
+    The following table sets forth the percentages of the Company's sales by
+industry for 2001, 2000 and 1999.
+
+<Table>
+<Caption>
+                                                                2001       2000       1999
+                                                              --------   --------   --------
+<S>                                                           <C>        <C>        <C>
+Computers & related products for business enterprises.......     44%        36%        30%
+Telecommunication equipment.................................     31         34         39
+Video/Audio/Entertainment products..........................      4         10          6
+Industrial control equipment................................      9          8          9
+Testing & instrumentation products..........................      5          7          4
+Medical devices.............................................      7          5          6
+Personal computers..........................................     --         --          6
+</Table>
+
+SUPPLIERS
+
+    We maintain a network of suppliers of components and other materials used in
+assembling printed circuit boards. We procure components only when a purchase
+order or forecast is received from a customer and occasionally utilize
+components or other materials for which a supplier is the single source of
+supply. Although we experience component shortages and longer lead times of
+various components from time to time, we have generally been able to reduce the
+impact of the component shortages by working with customers to reschedule
+deliveries, by working with suppliers to provide the needed components using
+just-in-time inventory programs, or by purchasing components at somewhat higher
+prices from distributors, rather than directly from manufacturers. These
+procedures reduce, but do not eliminate, our inventory risk. In 2001 and 2000,
+customer modifications to orders for inventory previously procured by us
+resulted in excess and obsolete inventory for the related customers that could
+not be recovered through put backs to vendors or the specific customer
+concerned. In addition, by developing long-term relationships with suppliers, we
+have been better able to minimize the effects of component shortages than
+manufacturers without such relationships.
+
+BACKLOG
+
+    We had a year-end backlog of approximately $855.1 million at December 31,
+2001, as compared to the 2000 year-end backlog of $1,600.4 million. Although we
+expect to fill substantially all of our backlog during 2002, at December 31,
+2001 we did not have long-term agreements with all of our customers and customer
+orders can be canceled, changed or delayed by customers. The timely replacement
+of canceled, changed or delayed orders with orders from new customers cannot be
+assured, nor can there be any assurance that any of our current customers will
+continue to utilize our services. Because of these factors, backlog is not a
+meaningful indicator of future financial results.
+
+COMPETITION
+
+    The electronics manufacturing services we provide are available from many
+independent sources as well as in-house manufacturing capabilities of current
+and potential customers. Our competitors include Celestica, Inc., Flextronics
+International Ltd., Jabil Circuit, Inc., Sanmina-SCI Corporation and Solectron
+Corporation, who may be more established in the industry and have substantially
+greater financial, manufacturing or marketing resources than we do. We believe
+that the principal competitive factors in our targeted markets are product
+quality, flexibility and timeliness in responding to design and schedule
+changes, reliability in meeting product delivery schedules, pricing,
+technological sophistication and geographic location.
+
+GOVERNMENTAL REGULATION
+
+    Our operations, and the operations of businesses that we acquire, are
+subject to certain foreign, federal, state and local regulatory requirements
+relating to environmental, waste management, and
+
+                                       6
+<Page>
+health and safety matters. We believe we operate in substantial compliance with
+all applicable requirements. However, material costs and liabilities may arise
+from these requirements or from new, modified or more stringent requirements. In
+addition, our past, current and future operations, and those of businesses we
+acquire, may give rise to claims of exposure by employees or the public or to
+other claims or liabilities relating to environmental, waste management or
+health and safety concerns.
+
+    We periodically generate and temporarily handle limited amounts of materials
+that are considered hazardous waste under applicable law. We contract for the
+off-site disposal of these materials and have implemented a waste management
+program to address related regulatory issues.
+
+EMPLOYEES
+
+    As of December 31, 2001, we employed 4,233 people, of whom 3,157 were
+engaged in manufacturing and operations, 590 in materials control and
+procurement, 90 in design and development, 98 in marketing and sales, and 298 in
+administration. Although a majority of our workforce is non-union, employees in
+our facilities in Brazil and Mexico are unionized, and work councils have been
+established at our facilities in Cork, Ireland, and Scotland. The Company has
+not experienced a strike or similar work stoppage and its relations with its
+employees are satisfactory.
+
+SEGMENTS AND INTERNATIONAL OPERATIONS
+
+    Benchmark has 14 manufacturing facilities in the Americas, Europe, and Asia
+regions to serve its customers. Benchmark is operated and managed geographically
+and management evaluates performance and allocates Benchmark's resources on a
+geographic basis. See Note 11 of Notes to Consolidated Financial Statements for
+segment and geographical information. Prior to the acquisitions in 1999, all of
+our operations were in the Americas region. We currently operate outside the
+United States in Brazil, Ireland, Mexico, Scotland, and Singapore. In 2001,
+approximately 23.3% of our sales were from operations outside of the United
+States. As a result of continuous customer demand overseas, we expect foreign
+sales to increase. Our foreign sales and operations are subject to risk of doing
+business abroad, including fluctuations in the value of currency, export duties,
+import controls and trade barriers, including stoppages, longer payment cycles,
+greater difficulty in accounts receivable collection, burdens of complying with
+wide variety of foreign laws and, in certain parts of the world, political
+instability. While, to date, these factors have not adversely materially
+affected Benchmark's results of operations, we cannot assure that there will not
+be an adverse impact in the future.
+
+                                       7
+<Page>
+ITEM 2. PROPERTIES
+
+    Benchmark currently has 14 facilities worldwide.
+
+                                     [LOGO]
+
+    The following chart summarizes the facilities owned or leased by Benchmark
+and its subsidiaries:
+
+<Table>
+<Caption>
+LOCATION                           SQ. FT.                FUNCTION                OWNERSHIP
+--------                          ---------   --------------------------------  --------------
+<S>                               <C>         <C>                               <C>
+Angleton, Texas.................    109,000   Executive, manufacturing, and
+                                              procurement                               Owned
+Beaverton, Oregon...............     77,000   Manufacturing                            Leased
+Campinas, Brazil................     40,000   Manufacturing                            Leased
+Cork, Ireland...................     24,000   Manufacturing and design                  Owned
+Dublin, Ireland.................    104,000   Manufacturing and procurement            Leased
+East Kilbride, Scotland.........     80,000   Manufacturing and procurement             Owned
+Guadalajara, Mexico.............    150,000   Manufacturing                            Leased
+Hudson, New Hampshire...........    262,000   Manufacturing and procurement            Leased
+Huntsville, Alabama.............    276,000   Manufacturing, design and
+                                              procurement                               Owned
+Huntsville, Alabama (SI)........    144,000   Manufacturing and design                 Leased
+Manassas, Virginia..............     44,000   Manufacturing and procurement            Leased
+Singapore.......................     37,000   Manufacturing and procurement            Leased
+Singapore (SI)..................     36,000   Manufacturing and procurement            Leased
+Winona, Minnesota...............    208,000   Manufacturing, design and
+                                              procurement                       Leased, Owned
+                                  ---------
+Total...........................  1,591,000
+                                  =========
+</Table>
+
+    In addition, we own a manufacturing facility in Pulaski, Tennessee with
+113,000 sq. ft. that is currently being held for sale. Also, we have a leased
+facility in Mansfield, Massachusetts with 44,000 sq. ft. that is currently not
+in operation.
+
+                                       8
+<Page>
+ITEM 3. LEGAL PROCEEDINGS
+
+    On October 18, 1999, we announced that our third quarter 1999 earnings
+announcement would be delayed and subsequently, on October 22, we announced our
+earnings for the third quarter 1999 were below the level of the same periods
+during 1998 and were below expectations. Several class action lawsuits were
+filed in November 1999 in federal district court in Houston, Texas against
+Benchmark and two of its officers and directors alleging violations of the
+federal securities laws. These lawsuits were consolidated in February 2000. The
+lawsuits seek to recover unspecified damages. We deny the allegations in the
+lawsuits, however, and further deny that such allegations provide a basis for
+recovery of damages as we believe that we have made all required disclosures on
+a timely basis. Management is vigorously defending against these actions. No
+material developments occurred in this proceeding during the period covered by
+this report.
+
+    Benchmark filed suit against J.M. Huber Corporation (Seller) in the United
+States District Court for the Southern District of Texas for breach of contract,
+fraud and negligent misrepresentation on December 14, 1999 and is seeking an
+unspecified amount of damages in connection with the contract between Benchmark
+and Seller pursuant to which Benchmark acquired all of the stock of AVEX and
+Kilbride Holdings B.V. On January 5, 2000, Seller filed suit in the United
+States District Court for the Southern District of New York alleging that
+Benchmark failed to comply with certain obligations under the contract requiring
+Benchmark to register shares of its common stock issued to Seller as partial
+consideration for the acquisition. Seller's suit has been consolidated with
+Benchmark's suit in the United States District Court for the Southern District
+of Texas. Benchmark intends to vigorously pursue its claims against Seller and
+defend against Seller's allegations. No material developments occurred in this
+proceeding during the period covered by this report.
+
+    On April 14, 2000, Benchmark, along with numerous other companies, was named
+as a defendant in a lawsuit filed in the United States District Court for the
+District of Arizona by the Lemelson Medical, Education & Research Foundation
+(the Foundation). The lawsuit alleges that Benchmark has infringed certain of
+the Foundation's patents relating to machine vision and bar code technology
+utilized in machines Benchmark has purchased. On November 2, 2000, Benchmark
+filed an Answer, Affirmative Defenses, and a Motion to Stay based upon
+Declaratory Judgement Actions filed by Cognex and Symbol, manufacturers of the
+equipment at issue. On March 29, 2001, the Court granted the defendants' Motion
+to Stay and ordered that the lawsuit be stayed pending the entry of a final
+non-appealable judgment in the cases filed by Cognex and Symbol. We continue to
+explore any indemnity or similar rights Benchmark may have against manufacturers
+of the machines or other third parties. Management intends to vigorously defend
+against such claim and pursue all rights it has against third parties. No
+material developments occurred in this proceeding during the period covered by
+this report.
+
+    Benchmark is also involved in various other legal actions arising in the
+ordinary course of business. In the opinion of management, the ultimate
+disposition of these matters will not have a material adverse effect on
+Benchmark's consolidated financial position or results of operations.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+    No matters were submitted to a vote of security holders during the fourth
+quarter of 2001.
+
+                                    PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+
+    The information on page 52 of the Company's Annual Report to Stockholders
+for the fiscal year ended December 31, 2001 (the "2001 Annual Report") is
+incorporated herein by reference in response to this item.
+
+                                       9
+<Page>
+ITEM 6. SELECTED FINANCIAL DATA
+
+    The information on page 53 of the 2001 Annual Report is incorporated herein
+by reference in response to this item.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+  OF OPERATIONS
+
+    The information on pages 13 through 29 of the 2001 Annual Report is
+incorporated herein by reference in response to this item.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+    The information on pages 23 through 29 of the 2001 Annual Report is
+incorporated herein by reference in response to this item.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+    The information on pages 30 through 51 of the 2001 Annual Report is
+incorporated herein by reference in response to this item.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+  FINANCIAL DISCLOSURE
+
+    Not applicable.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+    The information under the captions "Election of Directors," "Executive
+Officers" and "Section 16(a) Beneficial Ownership Reporting Compliance" in the
+Company's Proxy Statement for the 2002 Annual Meeting of Shareholders (the "2002
+Proxy Statement"), to be filed not later than 120 days after the close of the
+Company's fiscal year, is incorporated herein by reference in response to this
+item.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+    The information under the caption "Executive Compensation and Other Matters"
+in the 2002 Proxy Statement, to be filed not later than 120 days after the close
+of the Company's fiscal year, is incorporated herein by reference in response to
+this item.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+    The information under the caption "Common Stock Ownership of Certain
+Beneficial Owners and Management" in the 2002 Proxy Statement, to be filed not
+later than 120 days after the close of the Company's fiscal year, is
+incorporated herein by reference in response to this item.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    The information under the caption "Certain Transactions" in the 2002 Proxy
+Statement, to be filed not later than 120 days after the close of the Company's
+fiscal year, is incorporated herein by reference in response to this item.
+
+                                       10
+<Page>
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+    (a) Financial Statements, Financial Statement Schedules, and Exhibits
+
+1.  FINANCIAL STATEMENTS OF THE COMPANY
+
+    Reference is made to the Financial Statements, the report thereon, the notes
+thereto and supplementary data commencing at page 30 of the 2001 Annual Report,
+which financial statements, report, notes and data are incorporated herein by
+reference in response to this item. Set forth below is a list of such Financial
+Statements:
+
+    Consolidated Financial Statements of the Company
+    Independent Auditors' Report
+    Consolidated Balance Sheets as of December 31, 2001 and 2000
+    Consolidated Statements of Income (Loss) for the years ended December 31,
+2001, 2000 and 1999
+    Consolidated Statements of Shareholders' Equity and Comprehensive Income
+(Loss) for the years ended December 31, 2001, 2000 and 1999
+    Consolidated Statements of Cash Flows for the years ended December 31, 2001,
+2000 and 1999
+    Notes to Consolidated Financial Statements
+
+2.  FINANCIAL STATEMENT SCHEDULE
+
+                            Benchmark Electronics, Inc.
+                        Schedule II--Valuation Accounts
+                                 (in thousands)
+
+<Table>
+<Caption>
+                                                                ADDITIONS
+                                             BALANCE AT   ----------------------                BALANCE AT
+                                             BEGINNING    CHARGES TO     OTHER                    END OF
+                                             OF PERIOD    OPERATIONS   ADDITIONS   DEDUCTIONS     PERIOD
+                                             ----------   ----------   ---------   ----------   ----------
+<S>                                          <C>          <C>          <C>         <C>          <C>
+Year ended December 31, 2001
+Allowance for doubtful accounts(1).........    $ 4,276       2,616          --        4,681        2,211
+Inventory obsolescence reserve(3)..........    $ 8,226       7,607          --        6,809        9,024
+Year ended December 31, 2000
+Allowance for doubtful accounts(1)(2)......    $ 7,705         921          64        4,414        4,276
+Inventory obsolescence reserve(2)(3).......    $20,000       3,748         140       15,662        8,226
+Year ended December 31, 1999
+Allowance for doubtful accounts(1)(4)......    $   100         273       7,332           --        7,705
+Inventory obsolescence reserve(4)..........    $ 3,510       1,911      14,579           --       20,000
+</Table>
+
+------------------------
+
+(1) Deductions in the allowance for doubtful accounts represent write-offs, net
+    of recoveries, of amounts determined to be uncollectible.
+
+(2) Other addition relates to the acquisition of MSI.
+
+(3) Deductions in the inventory obsolescence reserve represent disposals of
+    inventory determined to be obsolete.
+
+(4) Other addition relates to the acquisition of AVEX.
+
+                                       11
+<Page>
+Independent Auditors' Report on Schedule
+
+The Board of Directors and Shareholders
+
+Benchmark Electronics, Inc.:
+
+Under date of February 5, 2002, we reported on the consolidated balance sheets
+of Benchmark Electronics, Inc. and subsidiaries as of December 31, 2001 and
+2000, and the related consolidated statements of income (loss), shareholders'
+equity and comprehensive income (loss), and cash flows for each of the years in
+the three-year period ended December 31, 2001, as incorporated by reference in
+this annual report on form 10-K for the year 2001. In connection with the audits
+of the aforementioned consolidated financial statements, we also have audited
+the related consolidated financial statement schedule included in Item 14(a)2.
+This financial statement schedule is the responsibility of the Company's
+management. Our responsibility is to express an opinion on this financial
+statement schedule based on our audits.
+
+In our opinion, such financial statement schedule, when considered in relation
+to the basic consolidated financial statements taken as a whole, presents
+fairly, in all material respects, the information set forth therein.
+
+KPMG LLP
+
+Houston, Texas
+
+February 5, 2002
+
+                                       12
+<Page>
+3.  EXHIBITS
+
+    Each exhibit marked with an asterisk is filed with this Annual Report on
+Form 10-K.
+
+<Table>
+<Caption>
+           EXHIBIT
+           NUMBER                      DESCRIPTION
+    ---------------------              -----------
+    <C>                     <C>        <S>
+            2.1                   --   Purchase Agreement dated as of January 22, 1998 by and
+                                       between the Company and Lockheed Martin Corporation
+                                       (incorporated herein by reference to Exhibit 2 to the
+                                       Company's Current Report on Form 8-K dated February 23,
+                                       1998).
+
+            2.2                   --   Agreement and Plan of Merger dated as of March 27, 1996 by
+                                       and among the Company, Electronics Acquisition, Inc., EMD
+                                       Technologies, Inc., David H. Arnold and Daniel M. Rukavina
+                                       (incorporated herein by reference to Appendix A of the
+                                       Company's Registration Statement on Form S-4 (Registration
+                                       No. 333-4230)).
+
+            2.3                   --   Amendment No. 1 to Agreement and Plan of Merger dated as of
+                                       April 5, 1996 by and among the Company, Electronics
+                                       Acquisition, Inc., EMD Technologies, Inc., David H. Arnold
+                                       and Daniel M. Rukavina (incorporated herein by reference to
+                                       Exhibit 2.2 to the Company's Registration Statement on Form
+                                       S-4 (Registration No. 333-4230)).
+
+            2.4                   --   Purchase and Sale Agreement by and among Stratus Computer
+                                       Ireland, Ascend Communications Inc., BEI Electronics Ireland
+                                       Limited and the Company dated January 22, 1999 (incorporated
+                                       by reference herein to Exhibit 2.1 to the Company's Current
+                                       Report on Form 8-K dated January 22, 1999).
+
+            2.5                   --   Amended and Restated Stock Purchase Agreement dated as of
+                                       August 12, 1999 by and between the Company and J. M. Huber
+                                       Corporation (incorporated by reference herein to Exhibit 2
+                                       to the Company's Current Report on Form 8-K dated
+                                       August 24, 1999 and filed on September 8, 1999).
+
+            2.6                   --   Asset Purchase Agreement by and between Benchmark
+                                       Electronics AB and Flextronics International Sweden AB
+                                       (incorporated by reference herein to Exhibit 2 to the
+                                       Company's Current Report on Form 8-K/A dated July 31, 2000).
+
+            3.1                   --   Amended and Restated Articles of Incorporation of the
+                                       Company (incorporated herein by reference to Exhibit 3.1 to
+                                       the Company's Registration Statement on Form S-1
+                                       (Registration No. 33-46316) (the "Registration Statement")).
+
+            3.2*                  --   Amended and Restated Bylaws of the Company.
+
+            3.3                   --   Amendment to Amended and Restated Articles of Incorporation
+                                       of the Company adopted by the shareholders of the Company on
+                                       May 20, 1997 (incorporated herein by reference to Exhibit
+                                       3.3 to the Company's Annual Report on Form 10-K for the
+                                       fiscal year ended December 31, 1998).
+
+            3.4                   --   Statement of Resolution Establishing Series A Cumulative
+                                       Junior Participating Preferred Stock of Benchmark
+                                       Electronics, Inc. (incorporated by reference to Exhibit B of
+                                       the Rights Agreement dated December 11, 1998 between the
+                                       Company and Harris Trust Savings Bank, as Rights Agent,
+                                       included as Exhibit 1 to the Company's Form 8A12B filed
+                                       December 11, 1998).
+
+            4.1                   --   Restated Articles of Incorporation of the Company
+                                       (incorporated herein by reference to Exhibit 3.1 to the
+                                       Registration Statement).
+</Table>
+
+                                       13
+<Page>
+<Table>
+    <C>                     <C>        <S>
+            4.2                   --   Amended and Restated Bylaws of the Company (incorporated
+                                       herein by reference to Exhibit 3.2 to the Company's Annual
+                                       Report on Form 10-K for the fiscal year ended December 31,
+                                       1998).
+
+            4.3                   --   Amendment to the Restated Articles of Incorporation of the
+                                       Company adopted by the shareholders of the Company on May
+                                       20, 1997 (incorporated herein by reference to Exhibit 3.3 to
+                                       the Company's Annual Report on Form 10-K for the fiscal year
+                                       ended December 31, 1998).
+
+            4.4                   --   Specimen form of certificate evidencing the Common Stock
+                                       (incorporated herein by reference to Exhibit 4.3 to the
+                                       Registration Statement).
+
+            4.5                   --   Rights Agreement dated December 11, 1998 between the Company
+                                       and Harris Trust Savings Bank, as Rights Agent, together
+                                       with the following exhibits thereto: Exhibit A--Form of
+                                       Statement of Resolution Establishing Series A Cumulative
+                                       Junior Participating Preferred Stock of Benchmark
+                                       Electronics, Inc.; Exhibit B--Form of Right Certificate; and
+                                       Exhibit C--Summary of Rights to Purchase Preferred Stock of
+                                       Benchmark Electronics, Inc. (incorporated by reference to
+                                       Exhibit 1 to the Company's Form 8A12B filed December 11,
+                                       1998).
+
+            4.6                   --   Summary of Rights to Purchase Preferred Stock of the Company
+                                       (incorporated by reference to Exhibit 3 to the Company's
+                                       Form 8A12B/A filed December 22, 1998).
+
+            4.7                   --   Indenture dated as of August 13, 1999 by and between the
+                                       Company and Harris Trust Company of New York, as trustee
+                                       (incorporated by reference from Exhibit 99.3 to Benchmark's
+                                       Form 8-K dated August 24, 1999 and filed on September 8,
+                                       1999).
+
+           10.1                   --   Form of Indemnity Agreement between the Company and each of
+                                       its directors and officers (incorporated herein by reference
+                                       to Exhibit 10.11 to the Registration Statement).
+
+           10.2                   --   Benchmark Electronics, Inc. Stock Option Plan dated May 11,
+                                       1990 (incorporated herein by reference to Exhibit 10.12 to
+                                       the Registration Statement).
+
+           10.3                   --   Form of Benchmark Electronics, Inc. Incentive Stock Option
+                                       Agreement used under the 1990 Stock Option Plan between the
+                                       Company and the optionee (incorporated herein by reference
+                                       to Exhibit 10.13 to the Registration Statement).
+
+           10.4                   --   Form of Benchmark Electronics, Inc. Nonqualified Stock
+                                       Option Agreement used under the 1990 Stock Option Plan
+                                       between the Company and the optionee (incorporated herein by
+                                       reference to Exhibit 10.14 to the Registration Statement).
+
+           10.5                   --   First Amendment to Lucent Technologies Network Systems do
+                                       Brasil S.A. dated June 14, 2000 by and between Benchmark
+                                       Electronics Ltda and Lucent Technologies Network Systems do
+                                       Brasil S.A. (incorporated herein by reference to
+                                       Exhibit 10.5 to the Company's Annual Report on Form 10-K for
+                                       the fiscal year ended December 31, 2000.)
+
+           10.6                   --   Benchmark Electronics, Inc. 1994 Stock Option Plan for
+                                       Non-Employee Directors (incorporated herein by reference to
+                                       Exhibit 10.21 to the Company's Annual Report on Form 10-K
+                                       for the fiscal year ended December 31, 1994).
+
+           10.7                   --   Benchmark Electronics, Inc. 401(k) Employee Savings Plan
+                                       Adoption Agreement dated January 2, 2001 by and between
+                                       Benchmark Electronics, Inc. and Boston Safe Deposit and
+                                       Trust Company (incorporated herein by reference to Exhibit
+                                       10.1 to the Company's Form 11-K for the fiscal year ended
+                                       December 31, 2000).
+</Table>
+
+                                       14
+<Page>
+<Table>
+    <C>                     <C>        <S>
+           10.8                   --   Dreyfus Prototype Defined Contribution Plan Basic Plan
+                                       Document No. 01 (incorporated by reference to Exhibit 10.2
+                                       to the Company's Form 11-K for the fiscal year ended
+                                       December 31, 2000).
+
+           10.9                   --   Benchmark Electronics, Inc. Employee Stock Purchase Plan
+                                       (incorporated by reference to Exhibit 99.1 to the Company's
+                                       Registration Statement on Form S-8 (Registration Number
+                                       333-76207)).
+
+           10.10                  --   Benchmark Electronics, Inc. 2000 Stock Awards Plan
+                                       (incorporated herein by reference to Exhibit 4.8 to the
+                                       Company's Registration Statement on Form S-8 (Registration
+                                       Number 333-54186)).
+
+           10.11                  --   Form of incentive stock option agreement for use under the
+                                       2000 Stock Awards Plan (incorporated herein by reference to
+                                       Exhibit 4.8 to the Company's Registration Statement on Form
+                                       S-8 (Registration Number 333-54186)).
+
+           10.12                  --   First Amendment to the Benchmark Electronics, Inc. Employee
+                                       Stock Purchase Plan (incorporated herein by reference to
+                                       Exhibit 10.1 to the Company's Quarterly Report on Form 10-Q
+                                       for the quarter ended September 30, 2000).
+
+           10.13                  --   Lease Agreement dated June 1, 2000 between Industrial
+                                       Properties of the South and the Company (incorporated by
+                                       reference to Exhibit 10.12 to the Company's Annual Report on
+                                       Form 10-K for the fiscal year ended December 31, 2000).
+
+           10.14                  --   Lease Agreement dated February 29, 2000 between Millikan
+                                       Properties, LLC and the Company (incorporated herein by
+                                       reference to Exhibit 10.12 to the Company's Annual Report on
+                                       Form 10-K for the fiscal year ended December 31, 1999).
+
+           10.15                  --   Lease Agreement dated July 30, 1996 by and among David H.
+                                       Arnold, Muriel M. Arnold, Daniel M. Rukavina, Patricia A.
+                                       Rukavina and EMD Associates, Inc., as amended by Amendment
+                                       to Lease dated July 30, 1996.
+
+           10.16*                 --   Lease Agreement dated December 15, 1992 by and among David
+                                       H. Arnold, Muriel M. Arnold, Daniel M. Rukavina, Patricia A.
+                                       Rukavina and EMD Associates, Inc., as amended by Amendment
+                                       to Lease dated January 1, 1994, Amendment to Lease dated
+                                       December 15, 1995, and Amendment to Lease dated July 30,
+                                       1996.
+
+           10.17                  --   CE Facility Lease dated February 23, 1998 by and between the
+                                       Company and Lockheed Martin Corporation Plan (incorporated
+                                       herein by reference to Exhibit 10.15 to the Company's Annual
+                                       Report on Form 10-K for the fiscal year ended December 31,
+                                       1999).
+
+           10.18                  --   Sander's Sublease dated February 23, 1998 by and between the
+                                       Company and Sanders, a Lockheed Martin Company and a
+                                       division of Lockheed Martin Corporation (incorporated herein
+                                       by reference to Exhibit 10.16 to the Company's Annual Report
+                                       on Form 10-K for the fiscal year ended December 31, 1999).
+
+           10.19                  --   First Amendment to CE Facility Lease dated February 21, 2000
+                                       by and between the Company and Lockheed Martin Corporation
+                                       (incorporated herein by reference to Exhibit 10.17 to the
+                                       Company's Annual Report on Form 10-K for the fiscal year
+                                       ended December 31, 1999).
+
+           10.20                  --   First Amendment to Sanders Sublease dated February 24, 2000
+                                       by and between the Company and Sanders, a Lockheed Martin
+                                       Company and a division of Lockheed Martin Corporation
+                                       (incorporated herein by reference to Exhibit 10.18 to the
+                                       Company's Annual Report on Form 10-K for the fiscal year
+                                       ended December 31, 1999).
+</Table>
+
+                                       15
+<Page>
+<Table>
+    <C>                     <C>        <S>
+           10.21                  --   Lease Agreement dated February 22, 1999 by and between
+                                       Serto, S.A. de C.V. and AVEX Electronics de Mexico, S.R.L.
+                                       de C.V. (incorporated herein by reference to Exhibit 10.19
+                                       to the Company's Annual Report on Form 10-K for the fiscal
+                                       year ended December 31, 1999).
+
+           10.22                  --   Sublease Agreement dated February 22, 1999 by and between
+                                       Operadora Farmaceutica, S.A. de C.V. and AVEX Electronics de
+                                       Mexico, S.R.L. de C.V. (incorporated herein by reference to
+                                       Exhibit 10.20 to the Company's Annual Report on Form 10-K
+                                       for the fiscal year ended December 31, 1999).
+
+           10.23                  --   Lease Renewal Amendment dated September 29, 2000 by and
+                                       between the Company and General Electric Capital Corporation
+                                       (incorporated by reference to Exhibit 10.22 to the Company's
+                                       Annual Report on Form 10-K for the fiscal year ended
+                                       December 31, 2000).
+
+           10.24                  --   Guarantee dated September 10, 1998 by the Company in favor
+                                       of Kilmore Developments Limited (incorporated herein by
+                                       reference to Exhibit 10.14 to the Company's Annual Report on
+                                       Form 10-K for the fiscal year ended December 31, 1998).
+
+           10.25                  --   Lease Agreement dated March 9, 2001 by and between BEI
+                                       Electronics Ireland Limited and Canada Life Assurance
+                                       (Ireland) Limited (incorporated by reference to Exhibit
+                                       10.24 to the Company's Annual Report on Form 10-K for the
+                                       fiscal year ended December 31, 2000).
+
+           10.26                  --   Amended and Restated Credit Agreement dated as of June 23,
+                                       2000 by and among the Company, the Borrowing Subsidiaries,
+                                       the lenders party thereto, Fleet National Bank, as
+                                       documentation agent, Credit Suisse First Boston, as
+                                       syndication agent, Bank of America, N.A., Bank One NA and
+                                       Sun Trust Bank as co-agents, and Chase Bank of Texas,
+                                       National Association, as administrative agent, collateral
+                                       agent and issuing bank (incorporated by reference to Exhibit
+                                       10.25 to the Company's Annual Report on Form 10-K for the
+                                       fiscal year ended December 31, 2000).
+
+           10.27                  --   Registration Rights Agreement dated as of August 24, 1999 by
+                                       and between the Company and J. M. Huber Corporation
+                                       (incorporated by reference from Exhibit 99.2 to Benchmark
+                                       Electronics, Inc.'s Form 8-K dated August 24, 1999 and filed
+                                       on September 8, 1999).
+
+           10.28                  --   Registration Agreement dated as of August 9, 1999 by and
+                                       among the Company, Salomon Smith Barney Inc. and Chase
+                                       Securities Inc. (incorporated by reference from Exhibit 99.4
+                                       to Benchmark Electronics, Inc.'s Form 8-K dated August 24,
+                                       1999 and filed on September 8, 1999).
+
+           10.29                  --   Lease Agreement dated September 15, 2000 by and between
+                                       Benchmark Electronics Corp. and Nancy E. Thompson, Trustee
+                                       of Goat Hollow Realty Trust (incorporated by reference to
+                                       Exhibit 10.28 to the Company's Annual Report on Form 10-K
+                                       for the fiscal year ended December 31, 2000).
+
+           10.30                  --   Lease Agreement dated June 15, 1998 by and between AVEX
+                                       Electronics do Brasil Ltda and Lucent Technologies Network
+                                       Systems do Brasil S.A. (incorporated by reference to Exhibit
+                                       10.29 to the Company's Annual Report on Form 10-K for the
+                                       fiscal year ended December 31, 2000).
+</Table>
+
+                                       16
+<Page>
+<Table>
+    <C>                     <C>        <S>
+           10.31                  --   First Amendment to Lucent Technologies Network Systems do
+                                       Brasil S.A. dated June 14, 2000 by and between Benchmark
+                                       Electronics Ltda and Lucent Technologies Network Systems do
+                                       Brasil S.A. (incorporated by reference to Exhibit 10.30 to
+                                       the Company's Annual Report on Form 10-K for the fiscal year
+                                       ended December 31, 1999).
+
+           10.32                  --   Form of Employment Agreements between the Company and its
+                                       Chief Executive Officer, President and Executive Vice
+                                       President dated August 1, 2001 (incorporated by reference
+                                       from Exhibit 10.1 to Benchmark Electronics, Inc.'s Form 10-Q
+                                       dated September 30, 2001 and filed on November 13, 2001).
+
+           10.33*                 --   Severance Agreement between the Company and Gayla J. Delly
+                                       dated January 24, 2002.
+
+          12*                     --   Statement regarding Computation of Ratios.
+
+          13*                     --   Benchmark Electronics, Inc. Annual Report to Shareholders
+                                       for the fiscal year ended December 31, 2001.
+
+          21*                     --   Subsidiaries of Benchmark Electronics, Inc.
+
+          23*                     --   Consent of Independent Auditors concerning incorporation by
+                                       reference in the Company's Registration Statements on Form
+                                       S-8 (Registration No. 33-61660, No. 333-26805,
+                                       No. 333-28997, No. 333-54186, No. 333-66889, and
+                                       No. 333-76207) and on Form S-3 (Registration No. 333-90723
+                                       and No. 333-90887).
+</Table>
+
+------------------------
+
+(b) The Company did not file any Current Reports on Form 8-K during the quarter
+    ended December 31, 2001 or during the period from December 31, 2000 to the
+    date of this Form 10-K.
+
+                                       17
+<Page>
+                                   SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+<Table>
+<S>                                                    <C>  <C>
+                                                       BENCHMARK ELECTRONICS, INC.
+
+                                                       By:             /s/ DONALD E. NIGBOR
+                                                            -----------------------------------------
+                                                                         Donald E. Nigbor
+                                                                     CHIEF EXECUTIVE OFFICER
+</Table>
+
+<Table>
+<S>                                                    <C>
+                                                       Date: March 15, 2002
+</Table>
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities indicated and on the dates indicated.
+
+<Table>
+<Caption>
+                 NAME                                   POSITION                         DATE
+                 ----                                   --------                         ----
+<S>                                      <C>                                      <C>
+         /s/ DONALD E. NIGBOR                Chairman of the Board and Chief
+    -------------------------------                  Executive Officer              March 15, 2002
+           Donald E. Nigbor                   (principal executive officer)
+
+         /s/ STEVEN A. BARTON
+    -------------------------------              Director and Executive             March 15, 2002
+           Steven A. Barton                          Vice President
+
+            /s/ CARY T. FU
+    -------------------------------              Director and President             March 15, 2002
+              Cary T. Fu                      (principal operating officer)
+
+          /s/ GAYLA J. DELLY                     Chief Financial Officer
+    -------------------------------               (principal financial              March 15, 2002
+            Gayla J. Delly                       and accounting officer)
+
+    -------------------------------                     Director
+            John C. Custer
+
+    -------------------------------                     Director
+          Peter G. Dorflinger
+
+    -------------------------------                     Director
+            David H. Arnold
+</Table>
+
+                                       18
+
+</TEXT>
+</DOCUMENT>

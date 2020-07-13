@@ -1,0 +1,2905 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                        --------------------------------
+
+                                    Form 10-K
+
+       FOR ANNUAL AND TRANSITION REPORTS PURSUANT TO SECTIONS 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+    OF 1934
+
+                   For the fiscal year ended December 31, 2001
+
+                                       OR
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+           For the transition period from ____________ to ____________
+
+
+                        Commission file number 000-19627
+
+                            BIOLASE TECHNOLOGY, INC.
+
+             (Exact Name of Registrant as Specified in Its Charter)
+
+                 Delaware                                      87-0442441
+       (State or Other Jurisdiction                         (I.R.S. Employer
+     Of Incorporation or Organization)                     Identification No.)
+
+                               981 Calle Amanecer
+                         San Clemente, California 92673
+               (Address of Principal Executive Offices) (Zip Code)
+
+       Registrant's Telephone Number, Including Area Code: (949) 361-1200
+
+        Securities registered pursuant to Section 12(b) of the Act: None.
+
+    Securities registered pursuant to Section 12(g) of the Act: Common Stock
+
+                     Common Stock, par value $.001 per share
+                                (Title of class)
+
+Indicate by check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                 Yes  X     No
+                                    ------    ------
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in the definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. ____
+
+As of March 1, 2002, the aggregate market value of the voting stock held by
+non-affiliates of the Registrant was $111,078,508. On March 1, 2002, there were
+19,835,448 shares of the Registrant's common stock outstanding.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Information required by Part III of this Form 10-K is incorporated by reference
+to portions of the Registrant's proxy statement for the 2002 Annual Meeting of
+Stockholders, which will be filed with the Securities and Exchange Commission
+within 120 days after the close of the year ended December 31, 2001.
+
+================================================================================
+
+<PAGE>
+
+
+                    BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+
+                           ANNUAL REPORT ON FORM 10-K
+                      FOR THE YEAR ENDED DECEMBER 31, 2001
+
+                                TABLE OF CONTENTS
+
+
+                                     PART I
+Item 1.  Business..............................................................4
+Item 2.  Properties............................................................7
+Item 3.  Legal Proceedings.....................................................7
+Item 4.  Submission of Matters to a Vote of Security Holders...................8
+
+                                    PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder
+         Matters...............................................................8
+Item 6.  Selected Consolidated Financial Data..................................8
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations................................................10
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk...........23
+Item 8.  Financial Statements and Supplementary Data..........................23
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+         Financial Disclosure.................................................23
+
+                                    PART III
+
+Item 10. Directors and Executive Officers of the Registrant...................24
+Item 11. Executive Compensation...............................................24
+Item 12. Security Ownership of Certain Beneficial Owners and Management.......24
+Item 13. Certain Relationships and Related Transactions.......................24
+
+                                    PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K......25
+
+
+                                        2
+
+<PAGE>
+
+
+                              CAUTIONARY STATEMENT
+
+     This report contains forward-looking statements, which include, but are not
+limited to, statements concerning projected results of operations and financial
+condition, the market acceptance of our products, the competitive nature of and
+anticipated growth in our markets and the need for additional capital. These
+forward-looking statements are based on our current expectations, estimates,
+assumptions and projections about our industry and reflect management's beliefs
+based on information available to us at the time of this Report. Words such as
+"anticipates," "expects," "plans," "believes," "seeks," "estimates," "may,"
+"will," and variations of these words or similar expressions are intended to
+identify forward-looking statements. These forward-looking statements are not
+guarantees of future performance and are subject to risks, uncertainties and
+assumptions that are difficult to predict, including those set forth under "Risk
+Factors" in Item 7. These risks and uncertainties, some of which are more fully
+discussed below and in our other filings with the Securities and Exchange
+Commission include but are not limited to the following:
+
+     . Uncertainties relating to worldwide political stability, general economic
+       conditions and trade policies;
+
+     . Uncertainties relating to government and regulatory policies;
+
+     . Unforeseen technological developments by competitors;
+
+     . The entry of new, well-capitalized competitors;
+
+     . The availability and pricing of materials used in the manufacture of our
+       products;
+
+     . Uncertainties relating to the development, ownership and enforcement of
+       intellectual property rights;
+
+     . Adverse changes in the financing of commercial health and dental plans;
+
+     . Adverse changes in the financial markets affecting the availability and
+       cost of capital;
+
+     . The impact of natural disasters, including a major earthquake, on our
+       operations; or
+
+     . The ability to attract and retain qualified personnel to grow and compete
+       effectively.
+
+     Due to the foregoing risks and uncertainties, among others, our actual
+results could differ materially and adversely from those expressed in any
+forward-looking statements as a result of various factors. We undertake no
+obligation to revise or update publicly any forward-looking statements for any
+reason.
+
+     The information contained in this report is not a complete description of
+our business or the risks associated with an investment in our common stock. We
+urge you to carefully review and consider the various disclosures made by us in
+the report and in our other reports filed with the Securities and Exchange
+Commission.
+
+                                       3
+
+<PAGE>
+
+                                     PART I
+
+Item 1.  Business
+
+Background and Overview of Current Business
+
+     BioLase Technology, Inc. is a medical technology company that designs,
+develops, manufactures and markets advanced dental, cosmetic and surgical
+products. Our principal products are water and laser based systems currently
+focused for use in dentistry. We have patents and have received clearances from
+the United States Food and Drug Administration ("FDA") for applications in
+markets other than dentistry, such as dermatology. However, our current business
+plan is focused on the dental market because of the significant market potential
+and our leading position in that market.
+
+     From inception in 1987 until approximately 1999, we were engaged primarily
+in the research and development of the use of water and laser technology. We
+were financed by approximately $42 million in stockholder investments through a
+series of private placements, related warrants and stock options.
+
+     In 1997, we received FDA clearance to market our patented core technology
+for a broad range of dermatological and general surgical soft tissue
+applications. In 1998, we received FDA clearance to market the Millenium(TM)
+(predecessor model of our current Waterlase(TM) system) for certain dental hard
+tissue applications. The clearance allowed us to commence domestic sales and
+marketing of our technology for hard and soft tissue applications.
+
+     In 1999, after nearly 12 years of research and development, we began the
+commercialization of our HydroKinetic(R) technology, which was financed by
+private placements of $2.7 million and $2.5 million in 1999 and 2000,
+respectively. Net sales, which had been $1.8 million in 1997 and $1.4 million in
+1998, grew to $7.0 million in 1999, $9.7 million in 2000 and $17.9 million in
+2001.
+
+     During 1999 and 2000, to meet the expanding demands for soft-tissue and
+whitening cosmetic dentistry applications, we designed a semiconductor diode
+laser system, which is now marketed as our LaserSmile(TM) system. We received
+FDA clearance to market the laser for a variety of soft-tissue medical
+applications in June 1999. In 2001, we received FDA clearance to market the
+LaserSmile(TM) system for cosmetic teeth whitening. We launched LaserSmile as a
+tooth whitening application in the third quarter of 2001.
+
+     In 2002, we have received two additional FDA clearances for our
+Hydrokinetic(R) technology. First, we received clearance to market the system
+for complete root canal therapy (EndoLase(TM)). Second, we received clearance to
+market the system for cutting, shaving, contouring and resection of oral osseous
+tissues (bone) (OsseoLase(TM)). We consider these clearances to be very
+significant product development milestones.
+
+     In December 2001, we formed BIOLASE Europe GmbH ("BIOLASE Europe"), a
+wholly-owned subsidiary based in Germany. In February 2002, BIOLASE Europe
+acquired a laser manufacturing facility in Germany and commenced manufacturing
+operations at that location. We anticipate that BIOLASE Europe and the new
+facility will enable us to expand our sales in Europe and neighboring
+international regions.
+
+     Leveraging our core Hydrokinetics(R) technology in the dental market is
+fundamental to our current business strategy. However, we believe that our
+technology has broad uses beyond dentistry and we have obtained patents and FDA
+clearances for certain of these applications in the cosmetic and surgical
+markets.
+
+                                       4
+
+<PAGE>
+
+Products
+
+     The Waterlase(TM) system combines an erbium, chromium: yttrium, scandium,
+gallium, garnet (Er,Cr:YSGG) laser with a wavelength of 2790 nanometers with an
+air-water spray to create our patented HydroKinetic(R) technology. The
+Waterlase(TM) system produces laser pulses rapidly energizing water to remove
+enamel and dentin for cavity preparation (dental hard tissue). By adjusting the
+air-water spray level, the laser can be used for soft tissue procedures as well.
+When used outside of the HydroKinetic(R) mode (i.e., without the water), the
+unique wavelength cuts efficiently and provides exceptional levels of
+coagulation and hemostasis.
+
+     Important benefits of the technology include:
+
+     . Patients in most cases will not require anesthesia; trauma to the dental
+       structure is significantly reduced;
+
+     . The technology avoids the vibration and micro fractures associated with
+       the high speed dental drill.
+
+     . There is no smear layer as is commonly created by the dental drill;
+
+     . There is a reduced likelihood of infection; the bonding of biomaterials
+       can be significantly improved;
+
+     . Patient throughput can be significantly improved as procedure times are
+       reduced; and
+
+     . The dentist can be provided additional revenue opportunities for soft
+       tissue procedures which otherwise may need to be referred to a
+       specialist or deferred.
+
+     The LaserSmile(TM) system incorporates a diode semiconductor laser for a
+broad range of dental soft tissue and cosmetic procedures. For cosmetic
+whitening, a special arched photon hand piece is used to direct the laser light
+to a full quadrant of the teeth being treated. A proprietary gel is applied to
+the teeth, which gel is activated by the precise wavelength of the laser. This
+process provides rapid activation of the gel, which significantly reduces the
+time required for the procedure. Because of the efficiency of this system,
+procedures can be performed at lower energy levels, which can minimize
+sensitivity effects on the teeth.
+
+     We also manufacture a wide variety of accessories and disposable products
+that add functionality to our two laser systems. The Waterlase(TM) system uses
+disposable tips of differing sizes based on the procedure being performed. We
+also market the gel and aftercare products related to the LaserSmile(TM) system.
+Sales of these consumables are not currently a significant part of our total
+sales; however, we anticipate that the sale of consumables in the future will
+constitute a larger part of our total net sales.
+
+Sales and Marketing
+
+     While we cannot determine the exact number of dental lasers currently in
+use, we estimate that total market penetration is negligible, with the majority
+of those lasers being used in soft tissue applications. Consequently, we believe
+the potential market for our products in dentistry is substantial.
+
+     We are currently marketing both laser systems in the United States and in
+over twenty countries internationally (principally in Europe and Asia). Domestic
+sales are made through a direct sales force while international sales are made
+through a network of independent distributors. Because our domestic
+
+                                       5
+
+<PAGE>
+
+sales are generally to individual dentists, no single customer relationship has
+the potential of having a material effect on our business. International sales
+to distributors have not been concentrated and have generally been made through
+letters of credit or with payment in advance. The exception to that have been
+sales to our distributor in Germany, where we have extended credit after
+receiving a substantial down payment.
+
+      We participate in regional, national and international trade shows and
+sponsor seminars to promote our products. Health professionals often participate
+in seminars, and in some regions are required to engage in continuing certified
+education regarding advancements in the dental and medical fields. We believe a
+substantial marketing effort must be made through these types of educational
+programs to increase the awareness of our technology and its benefits.
+
+Manufacturing
+
+      We manufacture certain proprietary components of our products, and we
+contract with various third party companies to manufacture other components for
+assembly by us. Substantially all of the materials used in our products have
+historically been manufactured domestically. While we have identified alternate
+suppliers for most of the components we purchase, we do rely on a single
+supplier for certain key components of our products.
+
+      Until February 2002, all of our manufacturing facilities were located in
+San Clemente, California. With our recent formation of BIOLASE Europe and the
+acquisition of the laser production facility in Germany, a substantial part of
+our physical assets are located outside of the U.S.
+
+Intellectual Property, Research and Product Development
+
+      We have built a substantial portfolio of intellectual property that is
+protected by patents, patents pending, and trademarks relating to our core
+technologies. We classify our patents in four different dimensions: laser and
+water; hydrokinetics (laser energy exciting water); fluid conditioning; and
+device, or laser, characteristics.
+
+      We are continually expanding and strengthening the protections afforded by
+patents. In 2001, we received 4 additional patents, which strengthened our
+positions on existing and expanded applications of our products. We rely on the
+protection afforded to our proprietary technologies and consider our
+intellectual property strategy to be a source of competitive advantage. We also
+rely on trade secrets, other proprietary know-how, continuing technological
+innovation and management experience to develop our competitive position.
+
+      During the years ended December 31, 2001, 2000 and 1999, engineering and
+development expenses were approximately $1.5 million, $2.3 million and $2.4
+million, respectively. Such expenditures were directed primarily to develop new
+products and to expand the capabilities of our existing products.
+
+Competition
+
+      In the domestic hard tissue dental market, we compete with several
+companies that are in the market to some degree or that are attempting to enter
+the market. In the international market, we have two competitors with
+substantial resources and several smaller competitors. Competing companies
+utilize a commonly available laser, the Erbium YAG (Er: YAG), developed
+initially for non-dental applications and subsequently applied to dentistry. We
+believe our Waterlase(TM) offers substantial performance advantages over the Er:
+YAG lasers.
+
+
+                                        6
+
+<PAGE>
+
+      We compete with three companies in the in-office cosmetic teeth-whitening
+market. Although these companies are substantial competitors, we believe the
+cosmetic market is strong and will continue to grow. We believe that we are able
+to differentiate our product based on the benefits of using a laser for the
+procedure plus the benefits of being able to use our product for many soft
+tissue procedures.
+
+      We also experience competition from other technologies, including the
+traditional high and low-speed dental drills and air abrasion systems for
+clinical dental procedures; and from take-home products and in-store products
+for cosmetic teeth-whitening.
+
+      We believe competition is based on price and product performance. We have
+priced our products at the high end of the range but believe that our product
+performance and demonstrated return on investment for our customers have been
+and will continue to be more important than price when competing.
+
+      We believe that the following factors provide us with competitive
+advantages:
+
+      . Our lead position and customer base in the hard tissue dental market
+
+      . Our proprietary technology;
+
+      . Our network of university researchers and academic leaders;
+
+      . Our strong intellectual property portfolio; and
+
+      . Our focused business strategy, strong sales force and experienced
+        management team.
+
+Employees
+
+      As of March 1, 2002, we had 109 full-time employees, including 10
+employees in our German facility. This represents an increase of 22 employees or
+25% from the 87 employees as of March 2001. Our employees are not represented by
+any collective bargaining agreement, and we believe our employee relations are
+good.
+
+Item 2. Properties
+
+      Our principal offices are located at 981 Calle Amanecer, San Clemente,
+California where, until August 2000, we had leased approximately 23,000 square
+feet at this facility. We purchased our principal offices in August 2000 with
+the property encumbered by a first trust deed to a bank. In March 2001, we sold
+the building to an unrelated third party and entered into a lease, which expires
+in March 2006. We believe that our facilities are sufficient for our current
+needs.
+
+      In February 2002, our wholly-owned subsidiary, BIOLASE Europe, purchased a
+20,000 square foot laser manufacturing facility in Floss, Germany. We anticipate
+that this facility will enable us to increase our sales in Europe and
+neighboring regions and to improve the technical support we provide there. We
+currently lease half of the facility to a third party and have begun
+manufacturing operations in the other half.
+
+Item 3. Legal Proceedings
+
+      From time to time, we are involved in legal proceedings incidental to our
+business. We believe that pending actions, individually and in the aggregate,
+will not have a material adverse effect on our
+
+
+                                        7
+
+<PAGE>
+
+financial condition, results of operations, cash flows or prospects, and that
+adequate provision has been made for the resolution of such actions and
+proceedings.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+      None.
+
+
+                                     PART II
+
+Item 5. Market for Registrant's Common Equity and Related Stockholder Matters
+
+      Our common stock is listed on the Nasdaq Small Cap Market under the symbol
+"BLTI." The following table sets forth the high and low sales price per share
+for our common stock as reported by Nasdaq for each quarter of 2001 and 2000:
+
+                                             High                 Low
+                                             ----                 ---
+
+      Year Ended December 31, 2001
+
+        First Quarter                       $3.03               $1.53
+        Second Quarter                       5.07                2.09
+        Third Quarter                        6.59                3.47
+        Fourth Quarter                       6.80                3.60
+
+      Year Ended December 31, 2000
+
+        First Quarter                        7.00                1.19
+        Second Quarter                       3.75                2.00
+        Third Quarter                        2.72                1.97
+        Fourth Quarter                       2.28                1.03
+
+      As of March 1, 2002, the total number of record holders of our common
+stock was 346.
+
+Dividend Policy
+
+      We have never paid any cash dividends on our common stock since our
+incorporation, and we anticipate that, for the foreseeable future, earnings, if
+any, will continue to be retained for use in our business.
+
+Sale of Unregistered Securities
+
+      On December 1, 2001, we issued to GEM Holdings Corp. ("GEM") 20,000 shares
+of unregistered common stock. The securities were issued to GEM in consideration
+for GEM's continuing to provide a guaranty of a $2.5 million credit facility
+(scheduled to be reduced to $1.8 million in May 2002), which expires on January
+31, 2003. The issuance of the securities to GEM was exempt from the registration
+requirements of the Securities Act of 1933, as amended (the "Securities Act"),
+pursuant to the provisions of Section 4(2) of the Securities Act as a
+transaction by an issuer not involving any public offering.
+
+Item 6. Selected Consolidated Financial Data
+
+      The following table sets forth our selected consolidated financial data
+for the periods presented. You should read this data along with our Consolidated
+Financial Statements and related Notes contained elsewhere in this report and in
+our subsequent reports filed with the SEC, as well as the section of this
+
+
+                                        8
+
+<PAGE>
+
+report and our other reports entitled "Management's Discussion and Analysis of
+Financial Condition and Results of Operations."
+
+<TABLE>
+<CAPTION>
+                                                          Years Ended December 31,
+                                      ------------------------------------------------------------------
+                                          2001          2000          1999          1998         1997
+                                      ------------  ------------  -----------  -------------  ----------
+                                                    (in thousands, except per share data)
+<S>                                   <C>           <C>           <C>          <C>            <C>
+Consolidated Statements of
+ Operations Data:
+
+Sales..............................   $  17,887     $    9,657    $   7,004    $     1,465    $   1,786
+Gross profit.......................      10,588          4,828        2,852             47          259
+Operating expenses (1).............      10,952          8,462        7,601         10,369        3,258
+Loss from operations...............        (364)        (3,634)      (4,749)       (10,322)      (2,999)
+Net loss...........................   $    (408)    $   (3,728)   $  (4,798)   $   (10,346)   $  (2,824)
+
+Loss per share
+ - basic and diluted (2)...........   $   (0.02)    $    (0.19)   $   (0.28)   $     (0.69)   $   (0.21)
+
+Shares used in computation of
+ basic loss per share..............      19,510         19,171       17,254         15,062       13,385
+
+<CAPTION>
+                                                          Years Ended December 31,
+                                      ------------------------------------------------------------------
+                                          2001          2000          1999          1998         1997
+                                      ------------  ------------  -----------  -------------  ----------
+                                                               (in thousands)
+<S>                                   <C>           <C>           <C>          <C>            <C>
+Consolidated Balance Sheet Data:
+
+Working capital....................   $   1,135     $     (206)   $  (1,331)   $        89    $   1,719
+Total assets.......................       7,561          6,599        2,672          3,911        3,396
+Long-term liabilities..............         205          1,175           --             --           --
+Stockholders' equity (deficit).....       1,579          1,056         (939)           662        2,095
+</TABLE>
+
+
+(1) Operating expenses include non-recurring charges of $ 1.1 million and $ 5.1
+million in 1999 and 1998, respectively. These charges were related to a
+severance agreement, a consulting agreement and write-off of product development
+assets in 1999. In 1998, the charge related to the write-off of in-process
+research and development costs related to the purchase of Laser Skin Toner, Inc.
+assets.
+
+(2) See Note 2 of Notes to Consolidated Financial Statements for an explanation
+of the calculation of loss per share.
+
+
+                                        9
+
+<PAGE>
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+      You should read the following discussion and analysis in conjunction with
+our Consolidated Financial Statements and Notes thereto, contained elsewhere in
+this report, before deciding to invest in our company or to maintain or increase
+your investment.
+
+Critical Accounting Policies and Estimates
+
+      Our discussion and analysis of our financial condition and results of
+operations are based upon our consolidated financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the
+United States. The preparation of these financial statements requires us to make
+estimates and judgments that affect the reported amount of assets and
+liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amount of revenues and expenses for
+each period.
+
+      The following represents a summary of our critical accounting policies,
+defined as those policies that we believe are: (a) the most important to the
+portrayal of our financial condition and results of operations, and (b) that
+require our most difficult, subjective or complex judgments, often as a result
+of the need to make estimates about the effects of matters that are inherently
+uncertain. For a detailed discussion on the application of these and other
+accounting policies, see Note 2 in the Notes to the Consolidated Financial
+Statements in Item 8 of this Annual Report on Form 10-K, beginning on page F-8.
+
+      Revenue Recognition. We recognize revenue in accordance with SEC Staff
+Accounting Bulletin No. 101, Revenue Recognition in Financial Statements (SAB
+101), as amended by SAB 101A and 101B. SAB 101 requires that four basic criteria
+must be met before revenue can be recognized: (1) persuasive evidence of an
+arrangement exists; (2) delivery has occurred or services rendered; (3) the fee
+is fixed and determinable; and (4) collectibility is reasonably assured. We have
+concluded that our revenue recognition policy is appropriate and in accordance
+with generally accepted accounting principles and SAB 101.
+
+      Warranty Expense. Products sold are generally covered by a warranty
+against defects in material and workmanship for a period of one year. We accrue
+a warranty reserve for estimated costs to provide warranty services. We estimate
+costs to service warranty obligations based on historical experience and
+expectation of future conditions. To the extent we experience increased warranty
+claim activity or increased costs associated with servicing those claims,
+warranty accrual will increase, resulting in decreased gross profit.
+
+      Valuation of Long-Lived Assets. Property, plant and equipment, intangible
+and certain other long-lived assets are amortized over their useful lives.
+Useful lives are based on our estimate of the period that the assets will
+generate revenue. Intangible assets are reviewed for impairment whenever events
+or changes in circumstances indicate that the carrying amount of an asset may
+not be recoverable.
+
+      Inventory. Inventory is valued at the lower of cost or market (determined
+by the first-in, first-out method). We periodically evaluate the carrying value
+of inventories and record an allowance for obsolescence based on such
+evaluation, with a corresponding provision included in cost of sales. Material
+differences in estimates of obsolete inventory may result in the amount and
+timing of cost of sales for any period if we made different judgments or
+utilized different estimates.
+
+      Allowance For Doubtful Accounts. We maintain allowances for doubtful
+accounts for estimated losses resulting from the inability of our customers to
+make required payments. If the financial condition of our customers were to
+deteriorate, resulting in an impairment of their ability to make payments,
+
+
+                                       10
+
+<PAGE>
+
+additional allowances may be required.
+
+     Litigation and Other Contingencies. We regularly evaluate our exposure to
+threatened or pending litigation and other business contingencies. Because of
+the uncertainties related to the amount of loss from litigation and other
+business contingencies, the recording of losses relating to such exposures
+requires significant judgment about the potential range of outcomes. To date, we
+have not been affected by any litigation or other contingencies that have had,
+or are currently anticipated to have, a material impact on our results of
+operations or financial position. As additional information about current or
+future litigation or other contingencies becomes available, we will assess
+whether such information warrants the recording of additional expense relating
+to its contingencies. Such additional expense could potentially have a material
+impact on our results of operations and financial position.
+
+Results of Operations
+
+     Net Sales. Net sales increased by 85% to $17.9 million in 2001 from $9.7
+million in 2000. This increase was primarily due to a 176%, or $7.7 million
+growth in domestic sales of our Waterlase(TM) system. Domestic sales were also
+boosted in the third and fourth quarters of 2001 by the introduction of our
+LaserSmile(TM) cosmetic whitening system. These increases were offset by a 28%,
+or $1.1 million decrease in international sales in 2001 as we concentrated our
+resources on growing sales in the domestic market. We are re-evaluating our
+international distribution methods and taking steps to strengthen our position
+internationally. The acquisition of the laser facility in Germany represents one
+of those steps. In addition to being able to manufacture closer to the customer,
+we anticipate that the local presence of a field technical staff will improve
+our customer service and enhance sales growth.
+
+     We anticipate that our recent receipt of FDA clearances to market our
+Waterlase(TM) system for root canal therapy and for bone applications should
+have an incrementally positive effect on sales growth in 2002. However, the full
+benefit of these clearances may not be realized until years beyond 2002 as
+practitioners learn to apply this technology to complex procedures.
+
+     Net sales grew 38% to $9.7 million in 2000 from $7.0 million in 1999. A key
+factor in the growth was a 78% increase in export sales to $4.2 million in 2000.
+Alliances with international distributors primarily drove the increase in export
+sales. In particular, during 2000, we recommenced sales to Germany through a new
+German distributor. We believe the German market represents one of the largest
+markets for our products in Europe. We also commenced sales in France, Korea,
+Taiwan and Japan during 2000.
+
+     Domestic sales also grew in 2000 but at a lesser rate than in the previous
+year as some customers deferred purchases in anticipation of the introduction of
+a new and improved model of our hard tissue laser system, now known as the
+Waterlase(TM). The introduction of the TwiLite(TM) diode laser system
+(predecessor of our LaserSmile(TM) system) also added to sales growth in 2000.
+Both products were introduced during the third quarter of 2000.
+
+     Gross Profit. Gross profit increased 119% to $10.6 million in 2001 from
+$4.8 million in 2000. This increase was largely the result of spreading the
+fixed costs of manufacturing over more units, an improvement in labor
+productivity, and engineering cost reductions in the material components of the
+products. Gross margin increased from 50% of net sales in 2000 to 59% of net
+sales in 2001. We expect to make further productivity improvements in labor and
+materials. However, we also expect to see step increases in fixed costs related
+to growth, which will constrain the increases in gross profit resulting from
+volume and productivity improvements. Fixed costs related to our German
+facility, although not expected to be significant, are an example of such step
+costs.
+
+                                       11
+
+<PAGE>
+
+     Gross profit increased 69% in 2000 from $2.9 million in 1999. Gross margin
+increased to 50% of net sales in 2000 from 41% of net sales in 1999. The
+improvement in the gross margin was due principally to increased sales volume,
+combined with the improved design of the Waterlase(TM) system, which resulted in
+lower material costs and increased manufacturing efficiencies. The introduction
+of the TwiLite(TM) diode laser system during the third quarter of 2000 also
+contributed to the higher gross margins.
+
+     Sales and Marketing Expense. Sales and marketing expense increased 71% to
+$7.4 million in 2001 compared to $4.3 million in 2000. As a percent of net
+sales, however, these expenses decreased to 42% in 2001 from 45% in 2000. The
+increase in absolute dollars was largely due to the 85% increase in net sales in
+2001 and included increased sales commissions and an increase in the number of
+sales representatives. Marketing costs also increased as we increased the number
+of trade shows, seminars and symposiums that we attended and sponsored.
+
+     We plan to continue to invest heavily in sales and marketing activities to
+increase dentists' awareness of the benefits of our technology. However, we
+expect that, as a percent of sales, these expenses will continue to decrease
+slowly.
+
+     Sales and marketing expense increased 60% in 2000 from $2.7 million in
+1999. As a percent of net sales, sales and marketing expense increased to 45% in
+2000 from 39% in 1999. The increase in absolute dollars and as a percent of net
+sales was primarily due to (i) higher sales volume, (ii) the expansion of our
+domestic sales force and marketing infrastructure, (iii) increased marketing and
+advertising costs, and (iv) an increase in the number of teaching and
+educational seminars and activities promoting our products, both domestically
+and abroad.
+
+     General and Administrative Expense. General and administrative expense
+increased 9% to $2.0 million in 2001 from $1.8 million in 2000. As a percent of
+net sales, general and administrative expense decreased to 11% of net sales in
+2001 from 19% of net sales in 2000. The increase in absolute dollars in 2001
+primarily related to the cost of infrastructure needed to support the growth of
+the business. We also experienced increases in the cost of insurance not only
+related to growth but also as a result of tighter insurance market conditions.
+We expect insurance pricing increases to continue in 2002.
+
+     General and administrative expense decreased 26% in 2000 from $2.5 million
+in 1999. Absent $610,000 in non-recurring charges, which were included in 1999,
+general and administrative expense in absolute dollars for 2000 would reflect a
+nominal decrease of 1% compared to 1999.
+
+     Engineering and Development Expense. Engineering and development expense
+decreased 34% to $1.5 million in 2001 from $2.3 million in 2000. As a percent of
+net sales, engineering and development expense decreased to 9% of net sales in
+2001 from 24% of net sales in 2000. This decrease was related to the change in
+the development cycle for our products. Engineering costs also decreased as a
+result of process improvements, which reduced the number of employees needed to
+sustain the activities of the function. Our engineering efforts are currently
+directed at new product development plus continuing product improvement on our
+laser systems. Development efforts are currently focused on strengthening our
+patent portfolio and obtaining FDA clearances for additional applications for
+existing and future products.
+
+     Engineering and development expense decreased 6% in 2000 from $2.4 million
+in 1999. After consideration of $483,000 of non-recurring charges included in
+fiscal 1999 related to the acquisition of Laser Skin Toner, Inc. (see Note 6 in
+the Consolidated Financial Statements), engineering and development expense for
+2000 would have reflected an increase of 18% from 1999. This increase was
+principally due to development of the Waterlase(TM) system and the
+LaserSmile(TM) system.
+
+                                       12
+
+<PAGE>
+
+     Gain on Sale of Assets. The gain on sale of assets of $79,000 in 2001 is
+primarily related to two transactions. In 2000, we purchased our San Clemente
+manufacturing facility and offices in order to avoid moving our operations. In
+2001, we sold the facility and leased it back for a five-year term with an
+additional five year option, resulting in a gain of $316,000. We are recognizing
+that gain for accounting purposes over the term of the lease. In 2001, we
+recognized $48,000 of this gain. We also sold inventory and assets relating to
+our inactive subsidiary, Societe Endotechnic, in 2001 for a gain of $31,000.
+
+     Interest income decreased 36% in 2001 principally due to lower short-term
+interest rates in 2001. Interest expense remained relatively unchanged from 2000
+to 2001. Although the variable interest rate on our line of credit decreased
+with other short-term interest rates in 2001, we incurred interest expense on
+the mortgage note payable that financed the purchase of our facility. The
+interest expense from the mortgage note for three months of 2001 offset the
+decrease in interest on our line of credit.
+
+     Interest income increased 53% in 2000 primarily due to higher average cash
+balances maintained in interest-bearing accounts over the previous year, as well
+as higher interest rates on short-term cash investments. Interest expense
+increased 75% over 1999 primarily due to a higher average balance during 2000 on
+our line of credit than in 1999, as well as higher interest rates for short-term
+debt.
+
+Liquidity and Capital Resources
+
+     At December 31, 2001, we had $1.1 million in working capital. Our working
+capital requirements in 2000 and 1999 were financed through the private
+placement of equity securities, netting proceeds of $2.5 million and $2.7
+million, respectively. We also received proceeds in 2000 and 1999 from the
+exercise of warrants and stock options in the amounts of $3.2 million and
+$85,000, respectively. In 2001, we incurred negative cash flow of $1.0 million
+from operating activities, substantially all resulting from the net increase in
+working capital. We financed our negative cash flow from operations through
+exercise of warrants and options of $803,000 and from net cash received on the
+sale of our facility of $1.1 million. At December 31, 2001, cash and cash
+equivalents was $2.7 million compared to $2.0 million at the end of 2000.
+
+     Accounts receivable, net, increased to $2.1 million at December 31, 2001
+from $758,000 at December 31, 2000. The increase was due to the higher sales
+volume experienced in the fourth quarter for which the receivable will be
+collected in the first quarter of 2002. We believe that the allowance for
+doubtful accounts at December 31, 2001 of $195,000 is adequate to provide for
+anticipated losses on uncollectible amounts.
+
+     Inventories, net, increased to $1.9 million at December 31, 2001 from $1.2
+million at December 31, 2000. The increase was due to increased production
+necessary to meet 2001 sales and expected 2002 demand. Inventory turnover
+improved during 2001 to an average of 5.3 times, or every 69 days, from an
+average of 4.8 times, or every 76 days in 2000. We expect inventory levels to
+increase in 2002 in support of anticipated higher sales levels.
+
+     Our business continues to focus on the manufacturing and marketing of
+laser-based technologies the Waterlase(TM) and the LaserSmile(TM) laser systems.
+Financing the development of our products and our operations has been achieved
+principally through the private placements of common stock and the exercise of
+stock options and warrants, though we have experienced significant increased
+sales over the last two years. During the three years ended December 31, 2001,
+we have raised approximately $9.4 million of net equity funds in this manner.
+
+     We believe that cash and cash equivalents, cash generated from operations
+and amounts available under our current revolving credit agreement will be
+adequate to meet our debt service requirements,
+
+                                       13
+
+<PAGE>
+
+capital expenditures and sustain our operations through the end of fiscal 2002.
+Should we require further capital resources in 2002, we would most likely
+address such requirement through a combination of product sales, sales of equity
+securities through private placements, and/or debt financing. If such additional
+debt or equity is needed, no assurances can be given that we would be able to
+obtain such additional capital resources. If unexpected events occur requiring
+us to obtain additional capital and we are unable to do so, we then might
+attempt to preserve our available resources by deferring the creation or
+satisfaction of various commitments, deferring the introduction of various
+products or entry into various markets, or otherwise scaling back our
+operations. If we were unable to raise such additional capital or defer certain
+costs as described above, such inability would have an adverse effect on our
+financial position, results of operations and cash flows.
+
+     At December 31, 2001, we had $1.8 million outstanding under a revolving
+credit agreement with a bank. The revolving credit agreement provides for
+borrowings of up to $2.5 million for the financing of inventory and is
+collateralized by substantially all of our accounts receivable and inventories.
+The interest rate is computed based upon LIBOR plus 0.5%. The balance at
+December 31, 2000 was $1.8 million and during 2001, there were no draws or
+repayments. We do not intend to make any further borrowings under this line of
+credit in the immediate future. In May 2002, this line of credit will be reduced
+to $1.8 million. The current revolving credit agreement expires on January 31,
+2003, at which point we will be required either to pay any remaining balance of
+the credit facility or refinance the credit facility. In addition, during 2002,
+we expect that warrants expiring in 2002 will be exercised, generating up to an
+additional $2.2 million from external sources.
+
+     In February 2002, our wholly-owned subsidiary, BIOLASE Europe purchased a
+production facility in Germany with ten employees for $1,000,000. We are
+required to pay the first installment of the purchase price by May 31, 2002. The
+amount of the first installment will be determined by us, but must be between
+$300,000 and $500,000. Thereafter, we must pay $500,000 by April 1, 2003 and the
+balance of the purchase price, if any, must be paid by December 1, 2003. We are
+currently negotiating with a third party for that party to pay all or a portion
+of the first installment in exchange for certain rights that we would grant to
+the third party. In the event we do not reach an agreement with this third
+party, then both the purchase price and the initial installment will be reduced
+by $150,000.
+
+     The facility, which is ISO 9001 certified, consists of two buildings
+equipped for laser production. This facility will substantially increase our
+production capacity. BIOLASE Europe also has a highly qualified technical staff
+experienced in laser principles and design, delivery systems, optics, technical
+service and field support. BIOLASE Europe will manufacture our products in
+Germany, provide direct support for our expanding international dealer network
+and contribute to our ongoing research and development of new products.
+
+     We have no other material commitments for capital expenditures.
+
+                                       14
+
+<PAGE>
+
+Selected Quarterly Financial Data
+
+<TABLE>
+<CAPTION>
+                                                               Quarters Ended
+                                        --------------------------------------------------------
+                                        March 31,     June 30,     September 30,    December 31,
+                                        ---------     --------     -------------    ------------
+                                              (amounts in thousands, except per share data)
+<S>                                     <C>           <C>          <C>              <C>
+2001
+----
+Net sales ..........................    $   3,083     $   4,335    $    4,676       $     5,793
+Gross profit .......................        1,729         2,601         2,805             3,453
+Income (loss) from operations ......         (703)         (121)           82               378
+Net income (loss) ..................         (773)         (147)          102               410
+Net income (loss) per share -
+   basic and diluted ...............        (0.04)        (0.01)         0.01              0.02
+
+2000
+----
+Net sales ..........................        1,527         2,259         2,187             3,684
+Gross profit .......................          536         1,039         1,002             2,251
+Loss from operations ...............       (1,016)         (883)       (1,149)             (586)
+Net loss ...........................       (1,032)         (888)       (1,165)             (643)
+Net loss per share -
+   basic and diluted ...............        (0.06)        (0.04)        (0.06)            (0.03)
+</TABLE>
+
+
+Impact of Changing Prices on Sales and Income
+
+     Inflation has not historically had a material impact on our operating
+expenses. The effect of deflation on the pricing of technology products has not
+yet had a material impact on our ability to price our products. We are currently
+unable to predict what effect, if any, it may have in the future.
+
+New Accounting Pronouncements
+
+     In June 2001, Statement of Financial Accounting Standards ("SFAS") No. 141,
+"Business Combinations," and SFAS No. 142, "Goodwill and Other Intangible
+Assets," were issued. SFAS No. 141 requires all business combinations initiated
+after June 30, 2001 to be accounted for using the purchase method of accounting
+and establishes criteria for the separate recognition of intangible assets
+acquired in a business combination. SFAS No. 142 requires that goodwill and
+certain other intangible assets having indefinite lives no longer be amortized
+to earnings, but instead be subject to periodic testing for impairment.
+Intangible assets determined to have definite lives will continue to be
+amortized over their useful lives. SFAS No. 142 is effective for fiscal years
+beginning after December 15, 2001. However, goodwill and intangible assets
+acquired after June 30, 2001 are subject immediately to the non-amortization and
+amortization provisions of this statement. As we do not have any goodwill or
+material intangible assets, the adoption of these statements will not have a
+material impact on our financial position, results of operations or cash flows.
+
+     In June 2001, the FASB issued SFAS No. 143, "Accounting for Asset
+Retirement Obligations", which is effective for fiscal years beginning after
+June 15, 2002. This statement provides the accounting requirements for
+retirement obligations associated with tangible long-lived assets. This
+statement requires entities to record the fair value of a liability for an asset
+retirement obligation in the period in which it is incurred. The adoption of
+this statement is not expected to have a material impact on our financial
+position, results of operations or cash flows.
+
+                                       15
+
+<PAGE>
+
+     In August 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets," which is effective for fiscal
+years beginning after December 15, 2001. This Statement retains the requirements
+of SFAS No. 121 related to long-lived asset impairment loss recognition and
+measurement, but removes goodwill and certain intangibles from its scope. The
+Statement also requires that one accounting model be used for long-lived assets
+to be disposed of by sale, whether previously held and used or newly acquired,
+and broadens the presentation of discontinued operations to include more
+disposal transactions. The adoption of this Statement is not expected to have a
+material impact on our financial position, results of operations or cash flows.
+
+Risk Factors
+
+     Before investing in our company or deciding to maintain or increase your
+investment, you should carefully consider the risks described below, in addition
+to the other information contained in this report and in our other filings with
+the Securities and Exchange Commission. The risks and uncertainties described
+below are not the only ones facing our company. Additional risks and
+uncertainties not presently known to us or that we currently deem immaterial may
+also affect our business operations. If any of these risks actually occur, our
+business, financial condition or results of operations could be seriously
+harmed. In that event, the market price for our common stock could decline and
+you may lose all or part of your investment.
+
+     We May Not Be Able to Continue or Increase Our Net Income in the Future,
+     Which May Cause the Trading Price of Our Common Stock to Decline.
+
+     We may not be able to continue to achieve net income. Prior to the third
+and fourth quarters of 2001, we had not reached the break-even point as we
+transitioned from our research and development phase and began commercializing
+our technology. Even if we continue to achieve net income, we may not be able to
+increase net income on a quarterly or annual basis in the future. Our ability to
+achieve sustained or increased net income is, in turn, dependent on many of the
+other risk factors identified in this report below. If we are unable to continue
+or increase our net income in the future, we may not be able to successfully
+operate our business and our stock price may decline.
+
+     We May Not Be Able to Secure Additional Financing to Meet Our Future
+     Capital Needs.
+
+     Our line of credit expires on January 31, 2003. If we are unable to renew
+our line of credit at that time on acceptable terms, or at all, and we are
+required to repay the line of credit, absent sufficient cash flow from
+operations or the sale of securities, the diversion of resources for that
+purpose will adversely affect our operations and financial condition and our
+ability to achieve future growth in our net sales. Unless we can generate
+sufficient cash flow from sustained profitability, we will continue to be
+dependent on the availability of external financing to meet our operating and
+capital needs, including the repayment of current debt obligations. We may not
+be able to secure additional debt or equity financing on terms acceptable to us,
+or at all, at the time when we need such funding. If we do raise funds by
+issuing additional equity or convertible debt securities, the ownership
+percentages of existing stockholders would be reduced, and the securities that
+we issue may have rights, preferences or privileges senior to those of the
+holders of our common stock. If we raise additional funds by issuing debt, we
+may be subject to limitations on our operations, including limitations on the
+payment of dividends. Our inability to raise additional funds on a timely basis
+will make it difficult for us to achieve our business plan and will have a
+material adverse effect on our business, financial condition and results of
+operations.
+
+                                       16
+
+<PAGE>
+
+     Our Quarterly Revenues and Operating Results May Fluctuate in Future
+     Periods and We May Fail to Meet Expectations, Which May Cause The Price of
+     Our Common Stock to Decline.
+
+     Our quarterly revenues and operating results have fluctuated and are likely
+to continue to vary from quarter to quarter due to a number of factors, many of
+which are not within our control. If quarterly revenues or operating results
+fall below the expectations of investors or securities analysts, the price of
+our common stock could decline substantially. Factors that might cause quarterly
+fluctuations in our revenues and operating results include the factors described
+in the subheadings below as well as:
+
+     .    the evolving and varying demand for dental and medical lasers;
+
+     .    our ability to develop, introduce, market and gain market acceptance
+          of new products and product enhancements in a timely manner;
+
+     .    our ability to control costs;
+
+     .    the size, timing, rescheduling or cancellation of significant customer
+          orders;
+
+     .    the introduction of new products by competitors;
+
+     .    the availability and reliability of components used to manufacture our
+          products;
+
+     .    changes in our pricing policies or those of our suppliers and
+          competitors, as well as increased price competition in general;
+
+     .    the mix of our domestic and international sales, and the risks and
+          uncertainties associated with our international business;
+
+     .    costs associated with any future acquisitions of technologies and
+          businesses; and
+
+     .    general global economic and political conditions, including
+          international conflicts and acts of terrorism.
+
+     In addition, a significant amount of our sales in any quarter may consist
+of sales through a single distributor. As a result, the timing of orders by this
+distributor may impact our quarter to quarter results. The loss of or a
+substantial reduction in orders from this distributor could seriously harm our
+business, financial condition and results of operations. Due to all of the
+factors listed above and the other risks discussed in this report, you should
+not rely on quarter-to-quarter comparisons of our operating results as an
+indication of our future performance.
+
+     Our Business Depends on the Acceptance of Our Products, and It Is Uncertain
+     Whether the Market Will Broadly Accept Our Products.
+
+     Our future success will depend on our ability to demonstrate to dentists
+and physicians the potential cost and performance advantages of our laser
+systems over traditional methods of treatment and, to a lesser extent, over
+competitive laser systems. Our products represent relatively new technologies in
+the dental market, and have not yet achieved widespread market acceptance.
+Factors that may inhibit mass adoption of laser technologies by dentists and
+physicians include the cost of the products, concerns about the safety, efficacy
+and reliability of lasers and the ability to obtain reimbursement of laser
+procedures under health plans. Current economic pressure may make dentists and
+physicians reluctant to purchase substantial capital equipment or invest in new
+technologies. The failure of medical lasers to
+
+                                       17
+
+<PAGE>
+
+achieve broad market acceptance would have an adverse effect on our business,
+financial condition and results of operations. We cannot assure you that we will
+have sufficient resources to continue to successfully market our products to
+achieve broad market acceptance.
+
+     We Depend on a Limited Number of Suppliers, and If We Cannot Secure
+     Alternate Suppliers, Our Business May Be Harmed.
+
+     We purchase certain raw materials and components included in our products
+from a limited group of qualified suppliers, and we do not have long-term supply
+contracts with any of our key suppliers. Our growth and ability to meet customer
+demand depends in part on our ability to obtain timely deliveries of materials
+and components from our suppliers. Certain components of our products are
+currently available only from a single source or limited sources. Although we
+believe that alternate sources of supply are available for most of our
+single-sourced materials and components, a change in a single or limited source
+supplier, or an inability to find an alternate supplier, could create
+manufacturing delays, disrupt sales and cash flow, and harm our reputation, any
+of which could adversely affect our business, financial condition and results of
+operations.
+
+     If We Are Unable to Protect Our Intellectual Property Rights, Our
+     Competitive Position Could Be Harmed or We Could Be Required to Incur
+     Expenses to Enforce Our Rights.
+
+     Our success will depend, in part, on our ability to obtain patent
+protection for our products and technology, to preserve our trade secrets and to
+operate without infringing the intellectual property of others. We rely on
+patents to establish and maintain proprietary rights in our technology and
+products. However, we cannot assure you that we will be able to obtain any
+further patents, that any of our proprietary rights will not be challenged,
+invalidated or circumvented, or that any such rights will provide a sustainable
+competitive advantage. Competitors may claim that we have infringed their
+current or future intellectual property rights. We may not prevail in any future
+intellectual property infringement litigation given the complex technical issues
+and inherent uncertainties in litigation. Any claims, with or without merit,
+could be time-consuming and distracting to management, result in costly
+litigation, cause product shipment delays, or require us to enter into royalty
+or licensing agreements. Additionally, in the event an intellectual property
+claim against us is successful, we might not be able to obtain a license on
+acceptable terms or license a substitute technology or redesign our products to
+avoid infringement. Any of the foregoing adverse events could seriously harm our
+business, financial condition and results of operations.
+
+     We Have Significant International Sales and Are Subject to Risks Associated
+     with Operating in International Markets.
+
+     In the past few years, international sales have comprised a significant
+portion of our net sales. Our international sales declined significantly in the
+current year, and political and economic conditions outside the United States
+could make it difficult for us to increase our international sales or to operate
+abroad.
+
+     In the future, we intend to continue to pursue and expand our international
+business activities. International operations are subject to many inherent
+risks, including:
+
+     .    political, social and economic instability;
+
+     .    fluctuations in currency exchange rates;
+
+     .    exposure to different legal standards;
+
+                                       18
+
+<PAGE>
+
+     .    reduced protection for our intellectual property in some countries;
+
+     .    burdens of complying with a variety of foreign laws;
+
+     .    import and export license requirements and restrictions of the United
+          States and each other country in which we operate;
+
+     .    trade restrictions;
+
+     .    the imposition of governmental controls;
+
+     .    unexpected changes in regulatory or certification requirements;
+
+     .    changes in tariffs;
+
+     .    difficulties in staffing and managing international operations;
+
+     .    longer collection periods and difficulties in collecting receivables
+          from foreign entities; and
+
+     .    potentially adverse tax consequences.
+
+     We believe that international sales will continue to represent a
+significant portion of our net sales, and that continued growth and
+profitability may require further expansion of our international operations. A
+substantial percentage of our international sales are denominated in the local
+currency. As a result, an increase in the relative value of the dollar could
+make our products more expensive and potentially less price competitive in
+international markets. We do not currently engage in any transactions as a hedge
+against risks of loss due to foreign currency fluctuations. Any of these factors
+may adversely affect our future international sales and, consequently, affect
+our business, financial condition and operating results.
+
+     Product Liability Claims Against Us Could Be Costly and Could Harm Our
+     Reputation.
+
+     The sale of dental and medical products involves the inherent risk of
+product liability claims against us. While we currently maintain product
+liability insurance coverage in an amount that we believe is adequate for our
+level of sales, this insurance is expensive, is subject to various coverage
+exclusions and may not be obtainable in the future on terms acceptable to us, or
+at all. We do not know whether claims against us, if any, with respect to our
+products will be successfully defended or whether our insurance will be
+sufficient to cover liabilities resulting from such claims.
+
+     Rapid Changes in Technology Could Harm the Demand for Our Products or
+     Result in Significant Additional Costs.
+
+     The markets in which our laser products compete are subject to rapid
+technological change, evolving industry standards, changes in the regulatory
+environment, frequent new device and pharmaceutical introductions and evolving
+dental and surgical techniques. These changes could render our products
+noncompetitive or obsolete. The success of our existing and future products is
+dependent on the differentiation of our products from those of our competitors,
+the timely introduction of new products and the perceived benefit to the
+customer in terms of patient service and return on investment. The process of
+developing new medical devices is inherently complex and requires regulatory
+approvals or clearances that can be expensive, time-consuming and uncertain. We
+have in the past experienced delays in product development. We cannot assure you
+that we will successfully identify new product opportunities, be financially or
+otherwise capable of the research and development to bring new products
+
+                                       19
+
+<PAGE>
+
+to market in a timely manner or that product and technologies developed by
+others will not render our products obsolete.
+
+     We May Not Be Able to Compete Successfully Against Our Current and Future
+     Competitors.
+
+     Our products compete with those of a number of foreign and domestic
+companies, including those companies that market traditional dental products
+such as dental drills, as well as other companies that market laser technologies
+in the dental and medical markets that we address. Some of our competitors have
+greater financial, technical, marketing or other resources than us. This may
+allow them to respond more quickly to new or emerging technologies and to devote
+greater resources to the development and introduction of enhanced products than
+we can. In addition, the rapid technological changes occurring in the healthcare
+industry are expected to lead to the entry of new competitors, especially as
+dental and medical lasers gain increasing market acceptance. Our ability to
+anticipate technological changes and to introduce enhanced products on a timely
+basis will be a significant factor in our ability to grow and remain
+competitive. New competitors or technology changes in laser products and methods
+could cause commoditization of such products, require price discounting or
+otherwise adversely affect our gross margins.
+
+     Changes in Government Regulation or the Inability to Obtain Necessary
+     Government Approvals Could Harm Our Business.
+
+     Our products are subject to extensive government regulation, both in the
+United States and other countries. To clinically test, manufacture and market
+products for human diagnostic and therapeutic use, we must comply with
+regulations and safety standards set by the U.S. Food and Drug Administration
+and comparable state and foreign agencies. Generally, products must meet
+regulatory standards as safe and effective for their intended use prior to being
+marketed for human applications. The clearance process is expensive,
+time-consuming and uncertain. The failure to receive requisite approvals for the
+use of our products or processes, or significant delays in obtaining such
+approvals, could prevent us from developing, manufacturing and marketing
+products and services necessary for us to remain competitive.
+
+     If Our Customers Cannot Obtain Third Party Reimbursement for Their Use of
+     Our Products, They May Be Less Inclined to Purchase Our Products.
+
+     Our products are generally purchased by dental or medical professionals who
+then bill various third party payors, such as government programs or private
+insurance plans, for the procedures conducted using these products. In the
+United States third party payors review and frequently challenge the prices
+charged for medical services. In many foreign countries, the prices are
+predetermined through government regulation. Payors may deny coverage and
+reimbursement if they determine that the procedure was not medically necessary
+(for example, cosmetic) or that the device used in the procedure was
+investigational. We believe that most of the procedures being performed with our
+current products generally have been reimbursed, with the exception of cosmetic
+applications such as tooth whitening. The inability to obtain reimbursement for
+services using our products could deter dentists and physicians from purchasing
+or using our products. We cannot predict the effect of future healthcare reforms
+or changes in financing for health and dental plans. Any such changes could have
+an adverse effect on the ability of a dental or medical professional to generate
+a return on investment using our current or future products. Such changes would
+act as disincentives for capital investments by dental and medical professionals
+and could have an adverse effect on our business, financial condition and
+results of operations.
+
+                                       20
+
+<PAGE>
+
+     The Failure to Attract and Retain Key Personnel Could Adversely Affect Our
+     Business.
+
+     Our future success depends in part on the continued service of certain key
+personnel, including Jeffrey W. Jones, our Chief Executive Officer, Edson J.
+Rood, our Chief Financial Officer, Ioana Rizoiu, our Vice President of Clinical
+Research, and Keith Bateman, our Vice President of Global Sales. We do not have
+employment agreements with any of our key employees, other than with Mr. Jones,
+whose employment agreement was renewed in January 2002 for an additional
+two-year term.
+
+     Our success will also depend in large part on our ability to continue to
+attract, retain and motivate qualified engineering and other highly skilled
+technical personnel. Competition for employees, particularly development
+engineers, is intense. We may not be able to continue to attract and retain
+sufficient numbers of such highly skilled employees. Our inability to attract
+and retain additional key employees or the loss of one or more of our current
+key employees could adversely affect our business, financial condition and
+results of operations.
+
+     Potential Future Acquisitions Could Have Unintended Negative Consequences
+     Which Could Harm Our Business and Cause Our Stock Price to Decline.
+
+     We may consider pursuing acquisitions of businesses, products or
+technologies in the future as a part of our growth strategy. Acquisitions could
+require significant capital infusions and could involve many risks, including
+but not limited to the following:
+
+     .    We may encounter difficulties in assimilating and integrating the
+          operations, products and workforce of the acquired companies;
+
+     .    Acquisitions may materially and adversely affect our results of
+          operations because they may require large one-time charges or could
+          result in increased debt or contingent liabilities, adverse tax
+          consequences, substantial depreciation or deferred compensation
+          charges, or the amortization of amounts related to deferred
+          compensation, goodwill and other intangible assets;
+
+     .    Acquisitions may be dilutive to our existing stockholders;
+
+     .    Acquisitions may disrupt our ongoing business and distract our
+          management; and
+
+     .    Key personnel of the acquired company may decide not to work for us.
+
+     We cannot assure you that we will be able to identify or consummate any
+future acquisitions on acceptable terms, or at all. In the event we do pursue
+any acquisitions, it is possible that we may not realize the anticipated
+benefits from such acquisitions.
+
+     Our Common Stock Price Has Been Volatile, Which Could Result in Substantial
+     Losses for Individual Stockholders.
+
+     Our common stock is currently traded on the Nasdaq Small Cap Market and has
+only limited daily trading volume. The trading price of our common stock has
+been and may continue to be volatile. The market for technology companies, in
+particular, has, from time to time, experienced extreme volatility that often
+has been unrelated to the operating performance of particular companies. These
+broad market and industry fluctuations may significantly affect the trading
+price of our common stock, regardless of our actual operating performance. For
+example, the closing per share sale price of our common stock fluctuated from
+$7.00 to $1.03 over the prior fiscal year despite steady improvement in our
+
+                                       21
+
+<PAGE>
+
+financial performance. On August 9, 2001, the closing sale price of our common
+stock declined 12% from $5.87 per share on volume of approximately 900,000
+shares, absent any news about or announcements by us. The trading price of our
+common stock could be affected by a number of factors, including, but not
+limited to, changes in expectations of our future performance, changes in
+estimates by securities analysts (or failure to meet such estimates), quarterly
+fluctuations in our revenue and financial results and a variety of risk factors,
+including the ones described elsewhere in this report. Periods of volatility in
+the market price of a company's securities sometimes result in securities class
+action litigation. If this were to happen to us, such litigation would be
+expensive and would divert management's attention. In addition, with only a
+limited public market for our stock, it would be difficult to sell a significant
+amount of our stock, which could cause a significant decline in the trading
+price of our stock. If our stock price drops below $1.00 per share for an
+extended period of time or we are otherwise unable to satisfy the continued
+listing requirements of the Nasdaq Small Cap Market, our shares could be
+delisted from the Nasdaq Small Cap Market and the marketability, liquidity and
+price of our common stock would be adversely affected.
+
+     We are Exposed to Risks Associated with the Recent Worldwide Economic
+     Slowdown and Related Uncertainties.
+
+     Concerns about decreased consumer confidence, reduced corporate profits and
+capital spending, and recent international conflicts and terrorist and military
+activity have resulted in a downturn in economic conditions, both domestically
+and internationally. These unfavorable economic conditions could ultimately
+cause a slowdown in customer orders, an increase in the number of cancellations
+and the rescheduling of backlog, if any. In addition, recent political and
+social turmoil related to international conflicts and terrorist acts may put
+further pressure on economic conditions in the U.S. and worldwide. Unstable
+political, social and economic conditions make it difficult for our customers,
+our suppliers and us to accurately forecast and plan future business activities.
+If such conditions continue or worsen, our business, financial condition and
+results of operations could be materially and adversely affected.
+
+     Future Sales of Our Common Stock Could Affect the Stock Price.
+
+     If our stockholders sell substantial amounts of our common stock, including
+shares issued on the exercise of options and warrants, in the public market, the
+market price of our common stock could fall. These sales also might make it more
+difficult for us to sell equity or equity-related securities in the future at a
+time and price that we deem appropriate. As of December 31, 2001, we had
+19,733,848 shares of common stock outstanding. All of these shares, other than
+shares held by affiliates, are freely tradable.
+
+     We Have Adopted Anti-Takeover Defenses That Could Delay or Prevent an
+     Acquisition of Our Company and May Affect the Price of Our Common Stock.
+
+     Certain provisions of our certificate of incorporation and stockholder
+rights plan could make it difficult for a third party to acquire us, even though
+an acquisition might be beneficial to our stockholders. These provisions could
+limit the price that investors might be willing to pay in the future for shares
+of our common stock.
+
+     Our certificate of incorporation authorizes the issuance of up to 1,000,000
+shares of "blank check" preferred stock, which will have terms as may be
+determined from time to time by our Board of Directors. Accordingly, our Board
+of Directors may, without obtaining stockholder approval, issue preferred stock
+with terms which could have preference over and adversely affect the rights of
+the holders of common stock. This issuance may make it more difficult for a
+third party to acquire a majority of our outstanding voting stock. We are also
+subject to the Delaware anti-takeover laws which may prevent,
+
+                                     22
+
+<PAGE>
+
+delay or impede a merger or takeover of our company, and we have not opted out
+of the provisions of such laws through either our certificate of incorporation
+or our bylaws.
+
+     In December 1998, we adopted a stockholder rights plan pursuant to which
+one preferred stock purchase right is distributed to our stockholders for each
+share of our common stock held by them. In the event that a third party acquires
+15% or more of our outstanding common stock, the holders of these rights will be
+able to purchase the underlying junior participating preferred stock as a way to
+discourage, delay or prevent a change in control of our company. The mere
+existence of a stockholder rights plan often delays or makes a merger, tender
+offer or proxy contest more difficult. The existence of these features could
+prevent others from seeking to acquire shares of our common stock in
+transactions at premium prices.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+     Our debt currently consists of a financing arrangement for a revolving line
+of credit of up to $2.5 million. The interest rate on our line of credit varies
+with the short-term interest markets and is adjusted quarterly to match LIBOR
+plus 0.5%. At December 31, 2001, the interest rate on the outstanding balance
+was 2.7%.
+
+     We have sales to, and purchase a small amount of components from, foreign
+countries. Foreign currency exchange risks in these transactions have been
+minimal. Until our acquisition of the laser production facility in Germany in
+February 2002, we had no assets located outside of the United States. In
+conjunction with the $700,000 of promissory notes issued by us in that
+acquisition, which are due in 2003, we purchased a forward contract to hedge the
+risk of currency fluctuations.
+
+Item 8. Financial Statements and Supplementary Data
+
+     All financial statements and supplementary data required by this Item are
+included in Part IV, Item 14 of this Form 10-K and are presented beginning on
+Page F-1.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+     Not Applicable.
+
+                                     23
+
+<PAGE>
+
+                                PART III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+     Information called for by this item is incorporated by reference to the
+definitive proxy statement for the 2002 Annual Meeting of Stockholders, to be
+filed with the SEC within 120 days of December 31, 2001.
+
+Item 11. Executive Compensation
+
+     Information called for by this item is incorporated by reference to the
+definitive proxy statement for the 2002 Annual Meeting of Stockholders, to be
+filed with the SEC within 120 days of December 31, 2001.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+     Information called for by this item is incorporated by reference to the
+definitive proxy statement for the 2002 Annual Meeting of Stockholders, to be
+filed with the SEC within 120 days of December 31, 2001.
+
+Item 13. Certain Relationships and Related Transactions
+
+     Information called for by this item is incorporated by reference to the
+definitive proxy statement for the 2002 Annual Meeting of Stockholders, to be
+filed with the SEC within 120 days of December 31, 2001.
+
+                                   24
+
+<PAGE>
+
+PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K.
+
+(a) The following documents are filed as part of this Annual Report on Form
+10-K:
+
+     (1)  Financial Statements:
+                                                                            Page
+                                                                            ----
+     Report of Independent Accountants ....................................  F-2
+     Consolidated Balance Sheets as of December 31, 2001 and 2000 .........  F-3
+     Consolidated Statements of Operations for the years ended
+       December 31, 2001, 2000 and 1999 ...................................  F-4
+     Consolidated Statements of Stockholders' Equity for the years
+       ended December 31, 2001, 2000 and 1999 .............................  F-5
+     Consolidated Statements of Cash Flow for the years ended
+       December 31, 2001, 2000 and 1999 ...................................  F-6
+     Notes to the Consolidated Financial Statements .......................  F-7
+
+     (2)  Financial Statement Schedule:
+
+     Schedule II - Consolidated Valuation and Qualifying Accounts and
+       Reserves for the years ended December 31, 2001, 2000 and 1999 ......  S-1
+
+     (3)  Exhibits:
+
+     The following exhibits are being filed with this Annual Report on Form 10-K
+or are incorporated by reference therein in accordance with the designated
+footnote references.
+<TABLE>
+<CAPTION>
+Exhibit
+Number   Description
+------   -----------
+<S>     <C>
+3.1      Restated Certificate of Incorporation, as Amended. (2)
+3.2      Amended and Restated Bylaws. (3)
+4.3      Certificate of Designations, Preferences and Rights of Series A 6%
+         Redeemable Cumulative Convertible Preferred Stock of BIOLASE
+         Technology, Inc. (5)
+4.4      Form of Participant Stock Purchase Warrant Certificate. (6)
+4.5      Form of Agent Stock Purchase Warrant Certificate. (6)
+4.6      Rights Agreement dated as of December 31, 1998 between the Registrant
+         and U.S. Stock Transfer Corporation. (7)
+10.2     1990 Stock Option Plan. (1)
+10.9     1992 Stock Option Plan. (1)
+10.18    Amended and Restated 1993 Stock Option Plan. (3)
+10.18a   First Amendment to Amended and Restated 1993 Stock Option Plan. (4)
+10.19    Amended and Restated 1993 Stock Compensation Plan. (2)
+10.20    Form of Stock Option Agreement under the 1993 Stock Option Plan. (2)
+10.28    Amended and Restated Employment Agreement, dated December 18, 1998, by
+         and between the Registrant and Jeffrey W. Jones. (8)
+21.      Subsidiaries (1)
+23.      Consent of Independent Accountants
+</TABLE>
+-----------------
+
+                                     25
+
+<PAGE>
+
+(1)      Filed with the Registrant's Registration Statement on Form S-1 dated
+         October 9, 1992 and incorporated by reference.
+(2)      Filed with the Registrant's 1993 Annual Report on Form 10-K dated
+         April 14, 1994 and incorporated by reference.
+(3)      Filed with the Registrant's 1995 Second Quarter Report on Form 10-QSB
+         dated September 15, 1995 and incorporated by reference.
+(4)      Filed with the Registrant's 1995 Annual Report on Form 10-KSB dated
+         May 6, 1996 and incorporated by reference.
+(5)      Filed with the Registrant's 1996 Third Quarter Report on Form 10-QSB
+         dated November 19, 1996 and incorporated by reference.
+(6)      Filed with the Registrant's 1996 Annual Report on Form 10KSB dated
+         April 11, 1997 and incorporated by reference.
+(7)      Filed with the Registrant's Registration Statement on Form 8-A dated
+         December 29, 1998 and incorporated by reference.
+(8)      Filed with Amendment No. 1 to the Registrant's Registration Statement
+         on Form S3 dated February 12, 1999 and incorporated by reference.
+
+
+(b)  Reports on Form 8-K.
+
+         None.
+
+                                     26
+
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, in the City of San
+Clemente, State of California, on March 28, 2002.
+
+
+                                 BIOLASE TECHNOLOGY, INC.,
+                                 a Delaware corporation
+
+                                 By:  /s/ Jeffrey W. Jones
+                                      --------------------------------------
+                                      Jeffrey W. Jones
+                                      President, Chief Executive Officer and
+                                      Director
+
+
+
+                                POWER OF ATTORNEY
+
+     We, the undersigned officers and directors of BioLase Technology, Inc., do
+hereby constitute and appoint Jeffrey W. Jones and Edson J. Rood, and each of
+them, our true and lawful attorneys-in-fact and agents, each with full power of
+substitution and resubstitution, for him and in his name, place and stead, in
+any and all capacities, to sign any and all amendments to this report, and to
+file the same, with exhibits thereto, and other documents in connection
+therewith, with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do
+and perform each and every act and thing requisite or necessary to be done in
+and about the premises, as fully to all intents and purposes as he might or
+could do in person, hereby, ratifying and confirming all that each of said
+attorneys-in-fact and agents, or his substitute or substitutes, may lawfully do
+or cause to be done by virtue hereof.
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons in the capacities and on
+the dates indicated:
+<TABLE>
+<CAPTION>
+
+Signature                        Title                                          Date
+---------                        -----                                          ----
+<S>                             <C>                                            <C>
+
+/s/ Jeffrey W. Jones             President, Chief Executive Officer and         March 28, 2002
+-----------------------------    Director (Principal Executive Officer)
+Jeffrey W. Jones
+
+/s/ Frederico Pignatelli         Director and Chairman of the Board             March 28, 2002
+-----------------------------
+Frederico Pignatelli
+
+/s/ William A. Owens             Director                                       March 28, 2002
+-----------------------------
+William A. Owens
+
+/s/ George V. d'Arbeloff         Director                                       March 28, 2002
+-----------------------------
+George V. d'Arbeloff
+
+/s/ Edson J. Rood                Vice President and Chief Financial Officer     March 28, 2002
+-----------------------------    (Principal Financial Officer)
+Edson J. Rood
+
+</TABLE>
+                                     27
+
+
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+Index to Consolidated Financial Statements and Schedule
+--------------------------------------------------------------------------------
+
+                                                                            Page
+
+Report of Independent Accountants .......................................... F-2
+
+Consolidated Balance Sheets as of December 31, 2001 and 2000 ............... F-3
+
+Consolidated Statements of Operations for the years ended December 31, 2001,
+2000 and 1999 .............................................................. F-4
+
+Consolidated Statements of Stockholders' Equity (Deficit) for the years
+ended December 31, 2001, 2000 and 1999 ..................................... F-5
+
+Consolidated Statements of Cash Flows for the years ended December 31, 2001,
+2000 and 1999 .............................................................. F-6
+
+Notes to Consolidated Financial Statements ................................. F-7
+
+
+SCHEDULE
+
+Schedule numbered in accordance with Rule 5.04 of Regulation S-X:
+
+II.  Consolidated Valuation and Qualifying Accounts and Reserves ........... S-1
+
+All Schedules, except Schedule II, have been omitted as the required information
+is shown in the consolidated financial statements, or notes thereto, or the
+amounts involved are not significant or the schedules are not applicable.
+
+
+                                       F-1
+
+<PAGE>
+
+                        Report of Independent Accountants
+
+To the Board of Directors and Stockholders of
+BioLase Technology, Inc. and Subsidiaries
+San Clemente, California
+
+
+In our opinion, the consolidated financial statements listed in the accompanying
+index present fairly, in all material respects, the financial position of
+BioLase Technology Inc. and Subsidiaries at December 31, 2001 and 2000, and the
+results of their operations and their cash flows for each of the three years in
+the period ended December 31, 2001 in conformity with accounting principles
+generally accepted in the United States of America. In addition, in our opinion,
+the financial statement schedule listed in the accompanying index presents
+fairly, in all material respects, the information set forth therein when read in
+conjunction with the related consolidated financial statements. These financial
+statements and financial statement schedule are the responsibility of the
+Company's management; our responsibility is to express an opinion on these
+financial statements and financial statement schedule based on our audits. We
+conducted our audits of these statements in accordance with auditing standards
+generally accepted in the United States of America, which require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+/s/ PricewaterhouseCoopers LLP
+
+PricewaterhouseCoopers LLP
+Orange County, California
+
+March 1, 2002
+
+
+
+
+                                       F-2
+
+<PAGE>
+
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+--------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+                                                                   December 31,
+                                                              ----------------------
+                                                                2001          2000
+                                                              --------      --------
+<S>                                                        <C>           <C>
+
+Assets
+Current assets:
+
+ Cash and cash equivalents                               $   2,670,000  $  2,002,000
+ Accounts receivable, less allowance of $195,000 and
+  $121,000 in 2001 and 2000, respectively                    2,095,000       758,000
+ Inventories                                                 1,887,000     1,222,000
+ Prepaid expenses and other current assets                     260,000       180,000
+                                                         -------------  ------------
+     Total current assets                                    6,912,000     4,162,000
+
+
+Property, plant and equipment, net                             392,000     2,329,000
+Patents, trademarks and licenses, net                           91,000       104,000
+Other assets                                                   166,000         4,000
+                                                         -------------  ------------
+
+     Total assets                                        $   7,561,000  $  6,599,000
+                                                         =============  ============
+
+Liabilities and Stockholders' Equity
+Current liabilities:
+
+ Line of credit                                          $   1,792,000  $  1,792,000
+ Accounts payable                                            1,656,000       946,000
+ Accrued liabilities                                         1,976,000     1,410,000
+ Customer deposits                                             290,000       200,000
+ Deferred gain on sale of building, current portion             63,000           -
+ Current portion of long-term debt                                 -          20,000
+                                                         -------------  ------------
+     Total current liabilities                               5,777,000     4,368,000
+
+Deferred gain on sale of building                              205,000           -
+Long-term debt, net of current portion                             -       1,175,000
+                                                         -------------  ------------
+     Total liabilities                                       5,982,000     5,543,000
+
+Commitments and contingencies
+
+Stockholders' equity:
+  Preferred stock, par value $0.001; 1,000,000 shares
+   authorized; no shares issued and outstanding in 2001
+   and 2000                                                        -             -
+  Common stock, par value $0.001, 50,000,000 shares
+   authorized; 19,734,000 shares and 19,367,000 shares
+   issued and outstanding in 2001 and 2000, respectively        20,000        19,000
+ Additional paid-in capital                                 48,462,000    47,532,000
+ Accumulated deficit                                       (46,903,000)  (46,495,000)
+                                                         -------------  ------------
+     Total stockholders' equity                              1,579,000     1,056,000
+                                                         -------------  ------------
+
+     Total liabilities and stockholders' equity          $   7,561,000  $  6,599,000
+                                                         =============  ============
+
+</TABLE>
+
+See accompanying notes to the consolidated financial statements.
+
+
+                                       F-3
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF OPERATIONS
+--------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+                                                          Years Ended December 31,
+                                                  ---------------------------------------------
+<S>                                              <C>             <C>               <C>
+
+                                                      2001             2000            1999
+                                                  -----------      -----------     ------------
+
+Net sales                                         $17,887,000      $ 9,657,000     $  7,004,000
+Cost of sales                                       7,299,000        4,829,000        4,152,000
+                                                  -----------      -----------     ------------
+
+ Gross profit                                      10,588,000        4,828,000        2,852,000
+
+Operating expenses:
+ Sales and marketing                                7,421,000        4,333,000        2,701,000
+ General and administrative                         2,011,000        1,841,000        2,473,000
+ Engineering and development                        1,520,000        2,288,000        2,427,000
+                                                  -----------      -----------     ------------
+                                                   10,952,000        8,462,000        7,601,000
+                                                  -----------      -----------     ------------
+
+Loss from operations                                 (364,000)      (3,634,000)      (4,749,000)
+
+ Other income                                          79,000                -                -
+ Interest income                                       44,000           69,000           45,000
+ Interest expense                                    (167,000)        (163,000)         (94,000)
+                                                  -----------      -----------     ------------
+
+Net loss                                          $  (408,000)     $ 3,728,000)    $ (4,798,000)
+                                                  ===========      ===========     ============
+
+Net loss per share - basic and diluted            $     (0.02)     $     (0.19)    $      (0.28)
+                                                  ===========      ===========     ============
+
+Weighted average shares
+ outstanding - basic and diluted                   19,510,000       19,171,000       17,254,000
+                                                  ===========      ===========     ============
+
+</TABLE>
+
+See accompanying notes to the consolidated financial statements.
+
+
+                                       F-4
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIT)
+For the Years Ended December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+                                                                                          Total
+                                                 Common Stock and                      Stockholders'
+                           Preferred Stock   Additional Paid-in Capital   Accumulated     Equity
+                          Shares    Amount      Shares         Amount       Deficit      (Deficit)
+                         --------  --------- ------------   ------------  ------------ ------------
+<S>                      <C>       <C>       <C>            <C>           <C>          <C>
+
+Balances at January 1,
+  1999                          -   $    -      16,312,000   $38,631,000  $(37,969,000) $   662,000
+
+Private placement of
+  common stock, net             -        -       1,116,000     2,748,000             -    2,748,000
+Issuance of stock and
+  warrants for earned
+  services                      -        -          98,000       269,000             -      269,000
+Exercise of stock options       -        -          57,000        85,000             -       85,000
+Extension of stock options      -        -               -        94,000             -       94,000
+Net loss                        -        -               -             -    (4,798,000)  (4,798,000)
+                          -------  -------     -----------   -----------  ------------   ----------
+
+Balances at December 31,
+  1999                          -        -      17,583,000    41,827,000   (42,767,000)    (940,000)
+
+Private placement of
+  common stock, net             -        -       1,250,000     2,450,000             -    2,450,000
+Issuance of stock and
+  warrants for earned
+  services                      -        -          37,000        73,000             -       73,000
+Cancellation of stock           -        -        (525,000)            -             -            -
+Exercise of stock options       -        -         203,000       322,000             -      322,000
+Exercise of warrants            -        -         819,000     2,879,000             -    2,879,000
+Net loss                        -        -               -             -    (3,728,000)  (3,728,000)
+                          -------  -------     -----------   -----------  ------------  -----------
+
+Balances at December 31,
+  2000                          -        -      19,367,000    47,551,000   (46,495,000)   1,056,000
+
+Issuance of stock and
+  warrants for earned
+  services                      -        -          20,000       128,000             -      128,000
+Exercise of stock options       -        -         172,000       367,000             -      367,000
+Exercise of warrants            -        -         175,000       436,000             -      436,000
+Net loss                        -        -               -             -      (408,000)    (408,000)
+                          -------  -------     -----------   -----------  ------------  -----------
+Balances at December 31,
+  2001                          -   $    -      19,734,000   $48,482,000  $(46,903,000) $ 1,579,000
+                          =======  =======     ===========   ===========  ============  ===========
+</TABLE>
+
+See accompanying notes to the consolidated financial statements.
+
+
+                                       F-5
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+<TABLE>
+<CAPTION>
+---------------------------------------------------------------------------------------------------
+
+                                                                     Years Ended December 31,
+                                                           ----------------------------------------
+                                                               2001           2000          1999
+                                                           -----------   ------------   -----------
+<S>                                                       <C>           <C>            <C>
+
+Cash flows from operating activities:
+Net loss                                                   $  (408,000)  $ (3,728,000)  $(4,798,000)
+ Adjustments to reconcile net loss to net cash used by
+ operating activities:
+   Issuance of common stock and warrants
+     for earned services                                       127,000         73,000       269,000
+   Extension of stock options                                        -              -        94,000
+   Depreciation and amortization                               165,000        166,000       112,000
+   (Gain) loss on disposal of assets                           (43,000)            --       179,000
+   Provision for bad debts                                     104,000        102,000        17,000
+   Provision for inventory excess and obsolescence             108,000        326,000        82,000
+   Accrued expense related to the reacquisition
+     of foreign distribution rights                                  -              -       480,000
+   Changes in assets and liabilities:
+     Accounts receivable                                    (1,441,000)      (530,000)      216,000
+     Inventory                                                (773,000)      (889,000)    1,190,000
+     Prepaid expenses and other assets                        (242,000)       (12,000)       16,000
+     Accounts payable and accrued expenses                   1,276,000        514,000       246,000
+     Customer deposits                                          90,000        200,000             -
+                                                           -----------   ------------   -----------
+   Net cash used by operating activities                    (1,037,000)    (3,778,000)   (1,897,000)
+
+Cash flows from investing activities:
+Sale of marketable securities                                        -              -       251,000
+Additions to property, plant and equipment                    (154,000)    (1,069,000)      (66,000)
+Proceeds from the sale of property, plant and
+equipment                                                    2,261,000              -             -
+Additions to patents, trademarks and licenses                  (10,000)             -        (2,000)
+                                                           -----------   ------------   -----------
+   Net cash provided (used) by investing activities          2,097,000     (1,069,000)      183,000
+
+Cash flows from financing activities:
+Borrowings (payments) under the line of credit, net                  -        450,000      (363,000)
+Payments on mortgage note payable                           (1,195,000)        (5,000)            -
+Payment of note payable                                              -       (428,000)            -
+Proceeds from issuance of common stock, net                          -      2,450,000     2,748,000
+Proceeds from exercise of stock options and warrants           803,000      3,201,000        85,000
+                                                           -----------   ------------   -----------
+
+   Net cash (used in) provided by financing activities        (392,000)     5,668,000     2,470,000
+
+Increase in cash and cash equivalents                          668,000        821,000       756,000
+Cash and cash equivalents at beginning of year               2,002,000      1,181,000       425,000
+                                                           -----------   ------------   -----------
+Cash and cash equivalents at end of year                     2,670,000      2,002,000     1,181,000
+                                                           ===========   ============   ===========
+
+Supplemental cash flow disclosure:
+Cash paid during the year for interest                     $   130,000   $    148,000   $    97,000
+                                                           ===========   ============   ===========
+Cash paid during the year for taxes                        $     2,000   $      2,000   $     2,000
+                                                           ===========   ============   ===========
+
+Non-cash financing activities:
+Conversion of accrued expenses to a note payable           $         -   $    428,000   $         -
+Issuance of debt to purchase manufacturing facility                  -      1,200,000             -
+                                                           -----------   ------------   -----------
+                                                           $         -   $  1,628,000   $         -
+                                                           ===========   ============   ===========
+
+</TABLE>
+
+See accompanying notes to the consolidated financial statements.
+
+
+                                       F-6
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+NOTE 1 - BASIS OF PRESENTATION
+
+The Company
+
+     BioLase Technology Inc., incorporated in Delaware in 1987, is a medical
+technology company operating in one business segment that designs, manufactures
+and markets advanced dental, cosmetic and surgical laser products.
+
+     During the periods from 1987 to 1999, when we were engaged primarily in
+research and development, and from 1999 through the present when we have been
+commercializing our technology, we financed our operations through the sale of
+our equity securities and through a line of credit (see Notes 4 and 6). In 2001
+we achieved operating and net income in the third and fourth quarters. We
+believe that cash and cash equivalents, cash generated from operations and
+amounts available under our current revolving credit agreement will be adequate
+to meet our debt service requirements, capital expenditures and working capital
+through at least the end of fiscal 2002. Based upon the expected growth in sales
+and normal vendor financing for increases in inventory, we believe we will have
+sufficient capital resources during the year in relation to our fiscal year 2002
+business plan. Should we require further capital resources in 2002, we would
+most likely address such requirement through a combination of product sales,
+sales of equity securities through private placements, and/or debt financing. If
+such additional debt or equity is needed, no assurances can be given that we
+would be able to obtain such additional capital resources. If unexpected events
+occur requiring us to obtain additional capital and we are unable to do so, we
+then might attempt to preserve our available resources by deferring the creation
+or satisfaction of various commitments, deferring the introduction of various
+products or entry into various markets, or otherwise scaling back our
+operations. If we were unable to raise such additional capital or defer certain
+costs as described above, such inability would have an adverse effect on our
+financial position, results of operations and cash flows.
+
+Basis of Presentation
+
+     The consolidated financial statements include the accounts of BioLase
+Technology, Inc. and its two wholly-owned subsidiaries: Societe Endo Technic,
+which is inactive and which we intend to dissolve, and BIOLASE Europe GmbH
+("BIOLASE Europe"), a foreign subsidiary incorporated in Germany in December of
+2001. We have eliminated all material intercompany transactions and balances in
+the accompanying financial statements. As of December 31, 2001, $186,000 of net
+assets were located outside of the United States, in BIOLASE Europe.
+
+     We follow the provisions of all applicable Statements of Financial
+Accounting Standards ("SFAS") and related accounting pronouncements to prepare
+the accompanying financial statements in accordance with generally accepted
+accounting principles ("GAAP").
+
+Use of Estimates
+
+     In order to prepare the financial statements in accordance with GAAP, we
+use estimates and assumptions that may affect reported amounts and disclosures.
+Significant estimates in these financial statements include valuation allowances
+on accounts receivable and inventories, accrued warranty expenses, pro-forma
+effects of stock-based compensation and the provision for deferred taxes and
+related valuation allowances. Due to the inherent uncertainty involved in making
+estimates, actual results reported in future periods may be based on amounts
+that differ from those estimates.
+
+                                    F-7
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+Reclassifications
+
+     Certain amounts in the prior period consolidated financial statements have
+been reclassified to be consistent with the current year presentation.
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Cash and Cash Equivalents
+
+     We consider all highly liquid investments with original maturities of three
+months or less as cash equivalents. We invest excess cash primarily in a money
+market account consisting of U.S. Treasury securities. Cash equivalents are
+carried at cost, which approximates market.
+
+Accounts Receivable
+
+     We regularly evaluate the collectibility of accounts receivable based upon
+customer compliance with credit terms. The allowance for doubtful accounts is
+adjusted based on such evaluation, with a corresponding provision included in
+general and administrative expenses.
+
+Inventory
+
+     We value inventories at the lower of cost or market (determined by the
+first-in, first-out method). We periodically evaluate the carrying value of
+inventories. The allowance for obsolescence is adjusted based on such
+evaluation, with a corresponding provision included in cost of sales.
+
+Property, Plant and Equipment
+
+     We state property, plant and equipment at acquisition cost less accumulated
+depreciation and amortization. Maintenance and repairs are expensed as incurred.
+Upon sale or disposition of assets, any gain or loss is included in the
+consolidated statements of operations.
+
+     The cost of property, plant and equipment is depreciated using the
+straight-line method over the estimated useful lives of the respective assets,
+which are generally not greater than five years, except for leasehold
+improvements, which are amortized over the lesser of the estimated useful lives
+of the respective assets or the related lease terms.
+
+     We continually monitor events and changes in circumstances which could
+indicate that the carrying balances of property, plant and equipment may exceed
+the undiscounted expected future cash flows from those assets. If such a
+condition were to exist, we will recognize an impairment loss based on the
+excess of the carrying amount over the fair value of the assets.
+
+Patents, Trademarks and Licenses
+
+     Costs incurred to establish and defend patents, trademarks and licenses and
+to acquire products and process technologies are capitalized. All amounts
+assigned to these patents, trademarks and licenses are amortized on a
+straight-line basis over an estimated eight-year useful life.
+
+                                    F-8
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+     The continuing carrying value of patents is assessed based upon our
+operating experience, expected cash flows from related products and other
+factors we deem appropriate.
+
+Revenue Recognition
+
+     We recognize sales and related cost of sales upon the shipment of product
+to customers, provided we have received a purchase order, the price is fixed,
+collection of the resulting receivable is probable, product returns are
+reasonably estimable and there are no remaining obligations.
+
+Provision for Warranty Expense
+
+     Our products are generally under warranty against defects in material and
+workmanship for a period of one year. We estimate warranty costs at the time of
+sale based on historical experience. Estimated warranty expenses are recorded as
+an accrued liability, with a corresponding provision to cost of sales.
+
+Shipping and Handling Costs
+
+     All shipping and handling costs are expensed as incurred and are recorded
+as a component of cost of sales.
+
+Advertising Costs
+
+         All advertising costs are expensed as incurred. Advertising costs
+incurred for the years ended December 31, 2001, 2000 and 1999, were
+approximately $609,000, $420,000 and $204,000, respectively.
+
+Engineering and Development
+
+     Engineering and development costs related to both present and future
+products are expensed as incurred.
+
+Income Taxes
+
+     Differences between accounting for financial statement purposes and
+accounting for tax return purposes are stated as deferred tax assets or deferred
+tax liabilities in the accompanying consolidated financial statements. Valuation
+allowances are established, when necessary, to reduce deferred tax assets to the
+amount expected to be realized. We have established valuation allowances to
+reduce deferred tax assts until we can estimate when the tax benefits of those
+assets will be realized. The provision for income taxes represents the tax
+payable for the period and the change during the period in deferred tax assets
+and liabilities.
+
+Stock-Based Compensation
+
+     In accordance with SFAS 123, we have elected to account for stock-based
+compensation in accordance with Accounting Principles Board Opinion No. 25. The
+exercise price of stock options granted equals the market price on the date of
+grant. Therefore, there is no expense related to grants of stock options.
+
+
+                                    F-9
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+Loss Per Share - Basic and Diluted
+
+     We compute net loss per share by dividing the net loss attributable to
+common stockholders by the weighted average number of shares outstanding.
+Potentially dilutive securities, including options and warrants, were excluded
+from the calculation of weighted shares because the effect would have decreased
+the loss per share amount and therefore would have been anti-dilutive. See Note
+6 for a description of those securities that could potentially dilute earnings
+per share in the future.
+
+New Accounting Pronouncements
+
+     In June 2001, SFAS No. 141, "Business Combinations," and SFAS No. 142,
+"Goodwill and Other Intangible Assets," were issued. SFAS No. 141 requires all
+business combinations initiated after June 30, 2001 to be accounted for using
+the purchase method of accounting and establishes criteria for the separate
+recognition of intangible assets acquired in a business combination. SFAS No.
+142 requires that goodwill and certain other intangible assets having indefinite
+lives no longer be amortized to earnings, but instead be subject to periodic
+testing for impairment. Intangible assets determined to have definite lives will
+continue to be amortized over their useful lives. SFAS No. 142 is effective for
+fiscal years beginning after December 15, 2001. However, goodwill and intangible
+assets aquired after June 30, 2001 are subject immediately to the
+non-amortization and amortization provisions of this statement. As we do not
+have any goodwill or material intangible assets, the adoption of these
+statements will not have a material impact on our financial position, results of
+operations or cash flows.
+
+     In June 2001, SFAS No. 143, "Accounting for Asset Retirement Obligations",
+which is effective for fiscal years beginning after June 15, 2002, was issued.
+This statement provides the accounting requirements for retirement obligations
+associated with tangible long-lived assets. This statement requires entities to
+record the fair value of a liability for an asset retirement obligation in the
+period in which it is incurred. The adoption of this statement is not expected
+to have a material impact on our financial position, results of operations or
+cash flows.
+
+     In August 2001, SFAS No. 144, "Accounting for the Impairment or Disposal of
+Long-Lived Assets," which is effective for fiscal years beginning after December
+15, 2001, was issued. This Statement retains the requirements of SFAS No. 121
+related to long-lived asset impairment loss recognition and measurement, but
+removes goodwill and certain intangibles from its scope. The Statement also
+requires that one accounting model be used for long-lived assets to be disposed
+of by sale, whether previously held and used or newly acquired, and broadens the
+presentation of discontinued operations to include more disposal transactions.
+The adoption of this Statement is not expected to have a material impact on our
+financial position, results of operations or cash flows.
+
+
+                                    F-10
+
+<PAGE>
+BIOLASE TECHNOLOGY, INC. AND SUDSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+NOTE 3 - SUPPLEMENTARY BALANCE SHEET INFORMATION
+
+                                                        2001           2000
+--------------------------------------------------------------------------------
+
+INVENTORIES
+
+Materials                                        $ 1,020,000    $   801,000
+Work-in-process                                      656,000        319,000
+Finished goods                                       211,000        102,000
+                                                 -----------    -----------
+Inventories                                      $ 1,887,000    $ 1,222,000
+                                                 ============   ============
+
+PROPERTY, PLANT AND EQUIPMENT, NET
+
+Building                                         $         -    $ 2,004,000
+Leasehold improvements                                54,000              -
+Equipment and computers                              448,000        359,000
+Furniture and fixtures                               202,000        215,000
+                                                 ------------   ------------
+Total property, plant and equipment                  704,000      2,578,000
+Less accumulated depreciation and amortization      (312,000)      (249,000)
+                                                 ------------   ------------
+Property, plant and equipment, net               $   392,000    $ 2,329,000
+                                                 ============   ============
+
+
+PATENTS, TRADEMARKS AND LICENSES, NET
+
+Patents                                          $   112,000    $   102,000
+Trademarks                                            69,000         69,000
+Licenses                                                   -        107,000
+                                                 ------------   ------------
+Total patents, trademarks and licenses               181,000        278,000
+Less accumulated depreciation and amortization       (90,000)      (174,000)
+                                                 ------------   ------------
+Patents, trademarks and licenses, net            $    91,000    $   104,000
+                                                 ============   ============
+
+
+ACCRUED LIABILITIES
+
+Accrued payroll and benefits                     $   652,000    $   373,000
+Accrued warranty                                     561,000        391,000
+Other accrued liabilities                            763,000        646,000
+                                                 ------------   ------------
+Accrued liabilities                              $ 1,976,000    $ 1,410,000
+                                                 ============   ============
+
+
+
+
+NOTE 4 - LINE OF CREDIT AND MORTGAGE NOTE PAYABLE
+
+Line of Credit
+
+         At December 31, 2001, we had $1,792,000 outstanding under a revolving
+credit agreement with a bank. The revolving credit agreement provides for
+borrowings of up to $2,500,000 for financing inventories and is collateralized
+by substantially all accounts receivable and inventories. The interest rate is
+based upon LIBOR plus 0.5% at the time of any borrowings. At December 31, 2001,
+the interest rate on the outstanding balance was 2.7%. The effective interest
+rate for the year ended December 31, 2001,
+
+
+                                       F-11
+
+<PAGE>
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+including the amortization of the fair value of warrants in connection with
+issuing our line of credit was 13.4%. The revolving credit agreement expires in
+January 2003. The maximum available under the line will decrease to $1,800,000
+on May 1, 2002.
+
+Mortgage Note Payable
+<TABLE>
+<CAPTION>
+
+                                                                   2001            2000
+  --------------------------------------------------------------------------------------
+  <S>                                                             <C>            <C>
+  Mortgage note payable at prime rate plus 0.25%,
+  twenty-year amortization, collateralized by a first trust
+  deed on land and building                                     $        -   $ 1,195,000
+  Less, current portion                                                  -       (20,000)
+                                                                ----------   -----------
+                                                                $        -   $ 1,175,000
+                                                                ==========   ===========
+</TABLE>
+
+     In March of 2001, we entered into a $2,261,000 sale-leaseback transaction
+whereby we sold and leased back our manufacturing facility located in San
+Clemente, California. The result of the sale was a $316,000 gain, which has been
+deferred and is being amortized over the five-year lease term. The related lease
+is being accounted for as an operating lease. In connection with the sale and
+leaseback of our manufacturing facility, the mortgage note was retired in March
+2001.
+
+NOTE 5 - COMMITMENTS AND CONTINGENCIES
+
+Litigation
+
+     We are party to pending lawsuits and are subject to a number of threatened
+lawsuits. While the ultimate outcome of pending and threatened lawsuits cannot
+be predicted with certainty at this time, in our opinion the ultimate resolution
+of these matters will not have a material effect on our consolidated financial
+position, results of operations or liquidity.
+
+Commitments
+
+     We lease our principal offices and manufacturing facility. We also lease
+certain office equipment under operating lease arrangements. Future minimum
+rental commitments under operating leases for each of the years ending December
+31 are as follows:
+
+   2002                                        $    267,000
+   2003                                             267,000
+   2004                                             262,000
+   2005                                             249,000
+   2006                                              61,000
+   Thereafter                                             -
+                                               ------------
+   Total future minimum lease payments         $  1,106,000
+                                               ============
+
+     Rent expense was $198,000, $97,000 and $153,000 for the years ended
+December 31, 2001, 2000 and 1999, respectively.
+
+
+                                       F-12
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+401(k) Plan
+
+     We have a section 401(k) defined contribution retirement plan covering
+substantially all of our full-time employees. We are not obligated to match
+employee contributions or make other annual contributions to this plan. We made
+no contributions to the 401(k) plan other than administrative expenses paid on
+behalf of this plan, which were nominal for the years ended December 31, 2001,
+2000 and 1999.
+
+Concentration of Credit Risk
+
+     Significant customers consisted primarily of international distributors. We
+have distributorship agreements for dental lasers in Canada, Mexico, Europe, the
+Middle East, Australia and the Far East. For the years ended December 31, 2001,
+2000 and 1999, export sales were $3,265,000, $4,189,000 and $2,356,000,
+respectively, of which 50%, 54% and 72%, respectively, were sales to Europe and
+8%, 15% and 15%, respectively, were sales to Canada. Sales concentration to a
+major distributor were approximately $1,817,000 and $1,299,000, respectively,
+for the years ended December 31, 2001 and 1999. No other customer accounted for
+more than 10% of consolidated sales in 2001, 2000 or 1999.
+
+     Financial instruments that subject us to concentrations of credit risk
+consist principally of cash and cash equivalents and accounts receivable. We
+maintain our cash accounts with established commercial banks. Such cash deposits
+periodically exceed the Federal Deposit Insurance Corporation insured limit of
+$100,000 for each account.
+
+     Accounts receivable concentrations have resulted from sales activity to
+primary distributors. Accounts receivable for such distributors totaled
+approximately $517,000, $529,000 and $262,000, respectively, at December 31,
+2001, 2000 and 1999. No other customer accounted for more than 10% of accounts
+receivable at December 31, 2001, 2000 or 1999.
+
+NOTE 6 - STOCKHOLDERS' EQUITY
+
+Equity Financing
+
+     We raised equity capital through private offerings in 2000 and 1999 as
+follows:
+
+    Years Ended              Number of Shares              Net Cash
+    December 31,              of Common Stock            Consideration
+----------------------------------------------------------------------
+           2000                     1,250,000          $  2,450,000
+           1999                     1,116,000          $  2,748,000
+
+     In March 2000, we issued 1,250,000 shares of common stock and 625,000
+redeemable stock purchase warrants in a private placement. The shares of common
+stock are "restricted securities" as defined in Rule 144 of the Securities Act
+of 1933, as amended, (the "Securities Act) and may be only resold pursuant to a
+registration statement under the Securities Act or an exemption from such
+requirement. Each warrant entitles the holder to purchase one share of common
+stock at an exercise price of $2.50 per share and expired on March 31, 2002,
+subsequently extended to May 31, 2002. As of December 31, 2001, all of the
+warrants are outstanding.
+
+
+                                      F-13
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+     In February 1999, we issued 1,100,000 shares of common stock and 550,000
+redeemable stock purchase warrants in a private placement. As of December 31,
+2001 all of the warrants had been exercised or had expired.
+
+     We have also issued common stock and warrants as compensation in connection
+with the annual extensions of our bank line of credit as follows:
+
+                      Shares
+        Year         of Stock         Warrants        Valuation
+    -----------------------------------------------------------
+        2001           20,000             -           $  95,000
+        2000           36,600         100,000         $ 115,000
+        1999           54,900          75,000         $ 179,000
+
+     The value of the stock and warrants issued for services is charged to
+expense as compensation for services. The value of shares issued in December
+2001 will be charged to interest expense over the renewal term of the line of
+credit.
+
+     The following table summarizes warrant activity:
+
+                                                                Weighted-Average
+                                                                        Exercise
+                                                       Shares          Per Share
+--------------------------------------------------------------------------------
+Warrants outstanding, December 31, 1998              1,521,576       $      3.70
+Issuance of warrants                                   724,000              3.41
+Cancellation of warrants                              (697,576)             3.50
+                                                --------------       -----------
+
+Warrants outstanding, December 31, 1999              1,548,000              3.66
+Issuance of warrants                                   787,500              2.87
+Exercise of warrants                                  (819,150)             3.51
+Cancellation of warrants                               (75,000)             4.67
+                                                --------------       -----------
+
+Warrants outstanding, December 31, 2000              1,441,350              3.32
+Issuance of warrants                                    50,000              3.00
+Exercise of warrants                                  (175,000)             2.50
+Cancellation of warrants                              (428,850)             3.00
+                                                --------------       -----------
+
+Warrants outstanding, December 31, 2001                887,500       $      2.50
+                                                ==============       ===========
+
+
+
+
+
+
+                                      F-14
+
+<PAGE>
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+     The following table summarizes additional information about the warrants,
+which are outstanding as of December 31, 2001:
+
+    Shares         Expiration Date       Exercise Price
+-------------------------------------------------------
+   687,500         May 31, 2002               $ 2.50
+    50,000         December 1, 2002           $ 3.00
+    50,000         May 1, 2003                $ 3.00
+   100,000         December 1, 2003           $ 2.00
+----------
+   887,500
+==========
+
+Preferred Stock
+
+     On December 18, 1998, our Board of Directors adopted a stockholder rights
+plan under which one preferred stock purchase right was distributed on January
+11, 1999 with respect to each share of our common stock outstanding at the close
+of business on December 31, 1998. The rights provide, among other things, that
+in the event any person becomes the beneficial owner of 15% or more of our
+common stock while the rights are outstanding, each right will be exercisable to
+purchase shares of common stock having a market value equal to two times the
+then current exercise price of a right (initially $30.00). The rights also
+provide that, if on or after the occurrence of such event, we are merged into
+any other corporation or 50% or more of our assets or earning power are sold,
+each right will be exercisable to purchase common stock of the acquiring
+corporation having a market value equal to two times the then current exercise
+price of such stock. The rights will expire on December 31, 2008, unless
+previously triggered, and are subject to redemption at $0.001 per right at any
+time prior to the first date upon which they become exercisable to purchase
+common shares.
+
+Cancellation of Common Stock
+
+     In 1998 we acquired substantially all of the assets of Laser Skin Toner,
+Inc. ("LSTI"), a development stage company, for 1,600,000 shares of our common
+stock. We assigned the full amount of the consideration we paid to in-process
+research and development and charged the entire amount to expense in 1998. In
+1999 we exchanged the LSTI technology for a royalty based upon future sale of
+product covered by patents on the LSTI technology. In 2000 we entered into an
+agreement with the former shareholders of LSTI whereby the former shareholders
+agreed to return (for cancellation) 525,000 of the shares of common stock issued
+to them in 1998. Each party also exchanged general releases, including the
+release of all claims, if any, relating to our acquisition of the assets of
+LSTI.
+
+Common Stock Options
+
+     We have stock option plans that enable us to offer equity participation to
+employees, officers and directors as well as certain non-employees. At December
+31, 2001, a total of 4,025,000 shares have been authorized for issuance, of
+which 760,033 shares have been issued for options which have been exercised,
+2,753,334 shares have been reserved for options that are outstanding and 511,633
+shares are available for the granting of additional options.
+
+     Stock options may be granted as incentive or nonqualified options; however,
+no incentive stock options have been granted to date. The exercise price of
+options generally equals or is greater than the market price of the stock as of
+the date of grant. Options may vest over various periods but typically vest over
+three years. Options expire after ten years or upon termination of employment,
+if earlier.
+
+
+
+
+                                      F-15
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+     The following table summarizes option activity:
+
+                                                               Weighted-Average
+                                                                       Exercise
+                                                     Shares           Per Share
+--------------------------------------------------------------------------------
+Options outstanding, December 31, 1998            2,075,960               $ 2.40
+Granted at fair market value                        254,500                 2.34
+Granted above fair market value                     275,000                 2.14
+Exercised                                          (56,875)                 1.50
+Canceled                                          (412,500)                 2.59
+                                             -------------          ------------
+
+Options outstanding, December 31, 1999            2,136,085                 2.35
+Granted at fair market value                        270,500                 2.26
+Granted above fair market value                     280,500                 2.23
+Exercised                                         (202,466)                 1.59
+Canceled                                          (349,334)                 2.55
+                                             -------------          ------------
+
+Options outstanding, December 31, 2000            2,135,285                 2.19
+Granted at fair market value                        971,000                 4.37
+Granted above fair market value                      25,000                 2.50
+Exercised                                         (172,326)                 2.13
+Canceled                                          (205,625)                 2.59
+                                             -------------          ------------
+
+Options outstanding, December 31, 2001           2,753,334                $ 3.08
+                                             =============          ============
+
+Options exercisable, December 31, 1999           1,524,583                $ 2.40
+                                             =============          ============
+Options exercisable, December 31, 2000           1,674,578                $ 2.40
+                                             =============          ============
+Options exercisable, December 31, 2001           1,885,376                $ 2.44
+                                             =============          ============
+
+     The following table summarizes additional information for those options
+that are outstanding and exercisable as of December 31, 2001:
+<TABLE>
+<CAPTION>
+
+                                   Options Outstanding                    Exercisable
+                       ------------------------------------------  -------------------------
+                                        Weighted        Weighted                   Weighted
+         Range of                        Average         Average                    Average
+         Exercise           Number      Exercise       Remaining        Number     Exercise
+           Prices        of Shares         Price    Life (Years)     of Shares       Price
+   -----------------------------------------------------------------------------------------
+    <S>                   <C>           <C>           <C>             <C>          <C>
+
+    $0.75 to 2.53        1,480,999        $2.08            6.83      1,359,129       $2.06
+    $2.56 to 6.10        1,272,335        $4.26            8.41        526,247       $3.40
+                         ---------                                   ---------
+                         2,753,334                                   1,885,376
+                         =========                                   =========
+</TABLE>
+
+     In addition to the options granted under our stock option plans, we have
+issued options to certain other individuals through various agreements. Options
+to purchase 272,500 shares of common stock were outstanding at December 31,
+1998; 182,500 options with a weighted average exercise price of $4.88 were
+canceled in 1999, leaving 90,000 options with a weighted average exercise price
+of $9.78 outstanding and exercisable at December 31, 2001. Such options will
+expire in 2003.
+
+
+
+                                      F-16
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+     During 2001, options to purchase 35,000 shares of common stock were granted
+to non-employees for services valued at $17,000. The fair value of these options
+was charged to operating expense.
+
+Pro Forma Effect of Stock-Based Compensation
+
+     We have adopted the disclosure-only provisions of SFAS No. 123 for options
+issued to employees. SFAS No. 123 encourages companies to account for
+compensation cost for stock options when they are granted based on a method
+which recognizes the time value of options. If we had recognized compensation
+cost at the date of grant, our pro-forma net loss and pro-forma loss per share
+would have been as follows:
+
+                                             2001           2000           1999
+--------------------------------------------------------------------------------
+Net loss - basic and diluted         $(1,343,000)   $(4,190,000)   $(5,410,000)
+Loss per share - basic and diluted   $     (0.07)   $     (0.22)   $     (0.31)
+
+
+     The pro forma amounts were estimated using the Black-Scholes option-pricing
+model with the following assumptions:
+
+                                                       2001      2000      1999
+--------------------------------------------------------------------------------
+Expected term (years)                                  3.50      3.50      3.50
+Volatility                                              64%       83%       56%
+Annual dividend per share                             $0.00     $0.00     $0.00
+Risk free interest rate                               4.68%     6.21%     5.81%
+Weighted-average fair value of options granted        $2.19     $1.34     $1.24
+
+
+
+NOTE 7 - INCOME TAXES
+
+     The following table presents the current and deferred provision for federal
+and state income taxes for the years ended December 31:
+
+                                                     2001       2000       1999
+--------------------------------------------------------------------------------
+Current
+Federal                                            $ -        $    -     $    -
+State                                               2,000      2,000      2,000
+                                                  --------   --------   --------
+                                                    2,000      2,000      2,000
+Deferred
+Federal                                                 -          -          -
+State                                                   -          -          -
+                                                  --------   --------   --------
+                                                   $2,000     $2,000     $2,000
+                                                  ========   ========   ========
+
+
+                                    F-17
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+     The foregoing tax provisions are included in general and administrative
+expense in the accompanying consolidated statements of operations.
+
+     The tax effects of temporary differences that give rise to the deferred tax
+provision for the years ended December 31 are as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                  2001               2000               1999
+------------------------------------------------------------------------------------------------
+<S>                                          <C>              <C>               <C>
+ Property and equipment                      $   7,000        $    (5,000)       $  (107,000)
+ Research and development                      (39,000)           227,000            594,000
+ Reserves not currently deductible              28,000            131,000             96,000
+ Inventories                                    40,000             79,000            (34,000)
+ Capital loss carryforward                           -           (275,000)            (3,000)
+ Research and development credits              616,000                  -                  -
+ Net operating losses                         (603,000)         1,286,000            928,000
+                                             ---------         ----------        -----------
+                                                49,000          1,443,000          1,474,000
+ Change in valuation allowance                 (49,000)        (1,443,000)        (1,474,000)
+                                             ---------        -----------        -----------
+    Total deferred tax provision             $       -        $         -        $         -
+                                             =========        ===========        ===========
+</TABLE>
+
+     The provision for income taxes differs from the amount that would result
+from applying the federal statutory rate as follows for the years ended December
+31:
+<TABLE>
+<CAPTION>
+
+                                                  2001               2000               1999
+--------------------------------------------------------------------------------------------
+<S>                                             <C>                <C>               <C>
+     Statutory regular federal income tax rate  (34.0%)            (34.0%)            (34.0%)
+     Stock options                              (43.0%)             (4.5%)             (0.4%)
+     Change in valuation allowance               71.8%              38.1%              37.5%
+     Other                                        5.2%               0.4%              (3.1%)
+                                               -------             ------             ------
+      Total                                       0.0%               0.0%               0.0%
+                                               =======             ======             ======
+</TABLE>
+
+
+
+
+                                       F-18
+
+<PAGE>
+
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+
+     The components of the deferred income tax assets are as follows at December
+31:
+<TABLE>
+<CAPTION>
+
+                                                  2001               2000
+--------------------------------------------------------------------------------
+<S>                                       <C>                <C>
+     Property and equipment               $    170,000       $    163,000
+     Research and development                1,053,000          1,092,000
+     Reserves not currently deductible         489,000            461,000
+     Inventories                               142,000            102,000
+     State taxes                                 1,000              1,000
+     Research and development credits          616,000                  -
+     Net operating losses                   13,427,000         14,030,000
+                                          ------------       ------------
+                                            15,898,000         15,849,000
+     Valuation allowance                   (15,898,000)       (15,849,000)
+                                          ------------       ------------
+      Total                               $          -       $         -
+                                          ============       ============
+</TABLE>
+
+     We have established a valuation allowance against deferred tax assets due
+to the uncertainty surrounding the realization of such assets. We periodically
+evaluate the recoverability of the deferred tax assets and at such time as it is
+determined that such assets are realizable, the valuation allowance will be
+reduced.
+
+     As of December 31, 2001, we had net operating loss carryforwards for
+federal and state purposes of approximately $37,837,000 and $6,356,000,
+respectively, which began expiring in 2001. The utilization of net operating
+loss carryforwards may be limited under the provisions of Internal Revenue Code
+Section 382 and similar state provisions.
+
+NOTE 8 - SUBSEQUENT EVENTS
+
+     In February 2002, our wholly-owned subsidiary, BIOLASE Europe purchased a
+production facility in Germany with ten employees for $1,000,000. We are
+required to pay the first installment of the purchase price by May 31, 2002. The
+amount of the first installment will be determined by us, but must be between
+$300,000 and $500,000. Thereafter, we must pay $500,000 by April 1, 2003 and the
+balance of the purchase price, if any, must be paid by December 1, 2003. We are
+currently negotiating with a third party for that party to pay all or a portion
+of the first installment in exchange for certain rights that we would grant to
+the third party. In the event we do not reach an agreement with this third
+party, then both the purchase price and the initial installment will be reduced
+by $150,000.
+
+
+
+
+                                       F-19
+
+<PAGE>
+BIOLASE TECHNOLOGY, INC. AND SUBSIDIARIES
+Schedule II - Consolidated Valuation and Qualifying Accounts and Reserves
+For The Years Ended December 31, 2001, 2000 and 1999
+--------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+                                                       Reserve for    Valuation
+                                      Allowance for    Excess and    Allowance
+                                        Doubtful         Obsolete   for Deferred
+                                        Accounts        Inventory    Tax Asset
+--------------------------------------------------------------------------------
+<S>                                   <C>              <C>          <C>
+Balances at December 31, 1998           $118,000       $ 227,000    $12,931,000
+Charged to operations                     17,000          82,000      1,475,000
+Write-off's                              (17,000)              -              -
+                                     ------------      ----------   ------------
+
+Balances at December 31, 1999            118,000         309,000     14,406,000
+Charged to operations                    102,000         326,000      1,443,000
+Write-off's                              (99,000)       (185,000)             -
+                                     ------------      ----------   ------------
+
+Balances at December 31, 2000            121,000         450,000     15,849,000
+Charged to operations                    104,000         108,000         49,000
+Write-off's                              (30,000)       (326,000)             -
+                                     ------------      ----------   ------------
+
+Balances at December 31, 2001           $195,000       $ 232,000    $15,898,000
+                                     ============      ==========   ============
+</TABLE>
+
+
+                                   S-1
+
+</TEXT>
+</DOCUMENT>

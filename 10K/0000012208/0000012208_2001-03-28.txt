@@ -1,0 +1,1022 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>r10k00.txt
+<TEXT>
+
+
+                  SECURITIES AND EXCHANGE COMMISSION
+                         Washington, D.C. 20549
+                               _________
+
+                               FORM 10-K
+
+   X    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+              For the fiscal year ended December 31, 2000
+
+                              OR
+
+   __   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+   For the transition period from _________ to _________________
+
+                     Commission file number  1-7928
+
+                       BIO-RAD LABORATORIES, INC.
+          (Exact Name of Registrant as Specified in Its Charter)
+
+            Delaware                                   94-1381833
+   (State or Other Jurisdiction of                 (I.R.S. Employer
+    Incorporation or Organization)                 Identification No.)
+
+    1000 Alfred Nobel Drive, Hercules, CA                  94547
+   (Address of Principal Executive Offices)              (Zip Code)
+
+   Registrant's telephone number, including area code (510) 724-7000
+
+   <TABLE>
+   Securities registered pursuant to Section 12(b) of the Act:
+   <CAPTION>
+                                                                                  Market Value on
+                                 Name of Each Exchange    Shares Outstanding  February 28, 2001 of Stocks
+       Title of Each Class        on Which Registered      February 28, 2001     Held by Non-Affiliates
+       -------------------       ---------------------    ------------------   ------------------------
+   <S>                          <S>                         <C>                 <C>
+   Class A Common Stock
+    Par Value $1.00 per share   American Stock Exchange     10,051,700           $281,681,428
+
+   Class B Common Stock
+    Par Value $1.00 per share   American Stock Exchange      2,426,428           $ 11,995,128
+
+   </TABLE>
+   Securities registered pursuant to Section 12(g) of the Act:
+
+                                  NONE
+
+        Indicate by check mark whether the registrant (1) has filed
+   all reports required to be filed by Section 13 or 15(d) of the
+   Securities Exchange Act of 1934 during the preceding 12 months
+   (or for such shorter period that the registrant was required to
+   file such reports),  and (2) has been subject to such filing
+   requirements for the past 90 days.  Yes  X   No _____
+
+          Indicate by check mark if disclosure of delinquent filers
+   pursuant to Item 405 of Regulation S-K is not contained herein,
+   and will not be contained, to the best of registrant's knowledge,
+   in definitive proxy or information statements incorporated by
+   reference in Part III of this Form 10-K or any amendment to this
+   Form 10-K.  [ ]
+
+
+                         Documents Incorporated by Reference
+
+                   Document                             Form 10-K Parts
+          _________________________________________    ____________________
+          (1) Annual Report to Stockholders for the
+              fiscal year ended December 31, 2000
+              (specified portions)                           I, II, IV
+          (2) Definitive Proxy Statement to be mailed
+              to stockholders in connection with the
+              registrant's 2001 Annual Meeting of
+              Stockholders (specified portions)                 III
+
+  <PAGE>
+
+
+
+
+
+
+                                      P A R T  I
+       ITEM 1. BUSINESS
+
+       General
+
+       Founded in 1957, Bio-Rad Laboratories, Inc. ("Bio-Rad" or the
+       "Company") was initially engaged in the development and
+       production of specialty chemicals used in biochemical,
+       pharmaceutical and other life science research applications.  In
+       1967, the Company entered the field of clinical diagnostics with
+       the development of its first test kit based on separation
+       techniques and materials developed for life science research.
+       Recognizing that the fields of clinical diagnostics and life
+       science research were evolving toward more automated techniques,
+       Bio-Rad expanded into the field of analytical and measuring
+       instrument systems through internal research and development
+       efforts and acquisitions in the late 1970's and 1980's.
+
+       As Bio-Rad broadened its product lines, it also expanded its
+       geographical market.  The Company controls its distribution
+       channels in thirty countries outside the U.S.A. through
+       subsidiaries whose primary focus is customer service and
+       product distribution.
+
+       During 1996 and 1997, the Company made five acquisitions.  The
+       assets acquired from Chiron Diagnostics Corporation and Chiron
+       Corporation on December 5, 1997, enhanced the product line
+       offering for diagnostic controls.  The remaining acquisitions
+       broadened product line offerings within the Analytical
+       Instruments and Life Science segments.
+
+       On October 1, 1999 Bio-Rad acquired the stock of Pasteur Sanofi
+       Diagnostics ("PSD") and the rights to certain ancillary assets
+       for $210 million.  PSD was founded by the Institut Pasteur to
+       commercialize its diagnostic research, and holds certain
+       exclusive licenses from the Institut Pasteur in the HIV and
+       infectious disease diagnostic product market.  PSD also expanded
+       the geographic reach and market penetration for the Company's
+       product particularly in Latin America, Africa and France.
+
+       Bio-Rad manufactures and supplies the life science research,
+       healthcare, analytical chemistry, semiconductor and other markets
+       with a broad range of products and systems used to separate
+       complex chemical and biological materials and to identify,
+       analyze and purify their components.
+
+       Description of Business
+
+       Business Segments
+
+       The Company operates in three industry segments designated Life
+       Science, Clinical Diagnostics and Analytical Instruments.  Each
+       operates in both the U.S.A. and international markets.  For a
+       description of business and financial information on industry and
+       geographic segments, see Note 13 on pages 22 through 25 of
+       Exhibit 13.1, which is incorporated herein by reference.
+
+
+                                       1
+ <PAGE>
+
+
+       Life Science Segment.
+
+       Life science is the study of the characteristics, behavior, and
+       structure of living organisms and their component systems.  Life
+       science researchers use a variety of products and systems--
+       including reagents, instruments, software and apparatus-- to
+       advance the study of life processes, drug discovery and
+       biotechnology, primarily within a laboratory setting.
+
+       We focus on selected segments of the life science market--
+       laboratory devices, biomaterials, imaging products and microscopy
+       systems-- for which we estimate 2000 worldwide sales totaled
+       approximately $1.6 billion.  The primary technological
+       applications that we supply to these segments are diverse and
+       consist of electrophoresis, image analysis and microplate
+       readers, chromatography, gene transfer and sample preparation and
+       amplification.  The primary end-users in our sectors of the
+       market are universities and medical schools, industrial research
+       organizations, government agencies, pharmaceutical manufacturers
+       and biotechnology researchers.
+
+       Clinical Diagnostics Segment.
+
+       The clinical diagnostics industry encompasses a broad array of
+       technologies incorporated into a variety of tests used to detect,
+       identify and quantify substances in blood or other bodily fluids
+       and tissues.  The test results are used as aids for medical
+       diagnosis, detection, evaluation, monitoring and treatment of
+       diseases and other medical conditions.  The bulk of tests are
+       performed in vitro (literally, "in glass"), while the remainder
+       consists of in vivo ("in the body") tests.  The most common type
+       of in vitro tests are routine chemistry tests that measure
+       important health parameters, such as glucose, cholesterol or
+       sodium, as part of routine blood checks.  A second type of
+       diagnostic tests, on which we focus, are more specialized and
+       require more sophisticated equipment and materials than do
+       routine tests.  These specialized tests are also lower-volume and
+       higher-priced than routine tests.  We estimate that in 2000,
+       sales to the global clinical diagnostics industry totaled
+       approximately $20 billion.
+
+       The primary end-users in the areas of the clinical diagnostics
+       industry we target are hospital laboratories, reference
+       laboratories, physician office laboratories, government agencies
+       and other diagnostics manufacturers.
+
+       Analytical Instruments Segment.
+
+       The analytical instruments segment develops, manufacturers, sells
+       and services FT-IR spectroscopy systems, semiconductor tests and
+       manufacturing instruments, spectral reference publications and
+       software.  On July 31, 2000, Bio-Rad sold the assets of its
+       Semiconductor product line to Accent Semiconductor Technology
+       Inc., and will no longer directly compete in this market.
+
+       Spectrometers measure the infrared spectra of materials,
+       providing quantitative and qualitative information about their
+
+                                       2
+<PAGE>
+
+
+
+       chemical composition.  The primary end-users for spectrometers
+       are scientists and researchers in a wide range of industries,
+       including chemicals, pharmaceuticals, biotechnology and food.
+       Applications for the products are varied but range from general
+       analytical purposes to research and development and quality
+       control.
+
+       The primary end-users for spectral databases, chemists and
+       spectroscopists, use them to identify a sample through the
+       spectrum it produces against a spectra of known compounds.  A
+       variety of market segments use these products, including the
+       chemical, pharmaceutical, biotechnology, forensic and
+       environmental chemistry industries, as well as academic
+       researchers.
+
+       Raw Materials and Components
+
+       The Company utilizes a wide variety of chemicals, biological
+       materials, electronic components, machined metal parts, optical
+       parts, minicomputers and peripheral devices.  Most of these
+       materials and components are available from numerous sources and
+       the Company has not experienced difficulty in securing adequate
+       supplies.
+
+
+       Patents and Trademarks
+
+       We own numerous U.S. and international patents and patent
+       licenses.  We believe, however, that our ability to develop and
+       manufacture our products depends primarily on our knowledge,
+       technology and special skills.  Under several patent license
+       agreements, we pay royalties on the sales of certain products.
+       We view these patents and license agreements as valuable assets.
+
+       The clinical diagnostics segment has a broad portfolio of
+       intellectual property which it uses to advance and promote its
+       competitive position within the market of blood viruses,
+       bacteriology, immuno-hematology, infectious diseases and
+       cardiovascular testing.  Its portfolio is comprised of owned
+       patents, patent rights licensed from Institut Pasteur and other
+       rights secured under third-party licensing agreements.
+       Additionally, this segment has a wide array of patents and patent
+       applications which are owned and licensed in the area of HIV
+       testing.  These include patents on purified virus proteins,
+       antigens used for detection of HIV, monoclonal antibodies, cloned
+       DNA sequences, primers and probes.
+
+       Seasonal Operations and Backlog
+
+       The Company's business is not inherently seasonal, however, the
+       European custom of concentrating vacation during the summer
+       months usually has had a negative impact on third quarter sales
+       volume and operating income.
+
+       For the most part, the Company operates in markets characterized
+       by short lead times and the absence of significant backlogs.  The
+       Company produces some analytical instruments against an order
+
+                                       3
+<PAGE>
+
+
+
+       backlog.  Management has concluded that backlog information is
+       not material to the Company's business as a whole.
+
+       Sales and Marketing
+
+       Each of Bio-Rad's segments maintains a sales force to sell its
+       products on a direct basis.  Each sales force is technically
+       trained in the disciplines associated with its products.  Sales
+       are also generated  through direct mail advertising, exhibits at
+       trade shows and technical meetings, telemarketing, the Company
+       website and by extensive advertising in technical and trade
+       publications.  Sales and marketing efforts are augmented by
+       technical service departments that assist customers in effective
+       product utilization and in new product applications.  Bio-Rad
+       also produces and distributes technical literature and holds
+       seminars for customers on the use of its products.
+
+       Our customer base is broad and diversified.  In 2000, no single
+       customer accounted for more than 3% of our total net sales.  Our
+       sales are affected by certain external factors.  For example, a
+       number of our customers, particularly in the life science
+       segment, are substantially dependent on government grants and
+       research contracts for their funding. A significant reduction of
+       government funding would have a detrimental effect on the results
+       of this segment.
+
+       Most of the Company's international sales are generated by
+       wholly-owned subsidiaries and their branch offices in Australia,
+       Austria, Belgium, Brazil, Canada, the Czech Republic, Denmark,
+       England, Finland, France, Germany, Hong Kong, Hungary, India,
+       Israel, Italy, Japan, Korea, Mexico, the Netherlands, New
+       Zealand, Norway, People's Republic of China, Poland, Portugal,
+       Russia, Singapore, South Africa, Spain, Sweden, Switzerland,
+       Taiwan and Thailand.  Certain of these subsidiaries also have
+       manufacturing facilities.  While Bio-Rad's international
+       operations are subject to certain risks common to foreign
+       operations in general, such as changes in governmental
+       regulations, import restrictions and foreign exchange
+       fluctuations, the Company's international operations are
+       principally in developed nations, which the Company regards as
+       presenting no significantly greater risks to its operations than
+       are present in the United States.
+
+       Competition
+
+       Most markets served by our product groups are competitive.  Our
+       competitors range in size from start-ups to large multinational
+       corporations. Reliable independent information on sales and
+       market share of products produced by our competitors is not
+       generally available.  We believe, however, based on our own
+       marketing information, that while some competitors are dominant
+       with respect to certain individual products, no one company,
+       including us, is dominant with respect to a material portion of
+       any segment of our business.
+
+       Life Science Segment.  Because of the breadth of its product
+       lines, Life Science does not face the same competitor for all of
+
+                                       4
+<PAGE>
+
+
+
+       its products.  Competitors in this market include Amersham
+       Pharmacia Biotech, Life Technologies, Qiagen, Zeiss and Applied
+       Biosystems.  We compete primarily on meeting performance
+       specifications.
+
+       Clinical Diagnostics Segment.  Competitors in this segment range
+       in size from small private companies to large multinational
+       corporations.  We compete only in very specific market niches and
+       do not attempt to pursue the most competitive general diagnostics
+       markets.  We compete based on our technological ability to
+       provide customers with very specific tests and believe we are
+       usually a significant competitor within our market niche.
+       Competitors include Abbott Laboratories, bioMerieux, Inc., Roche
+       Diagnostics, BioChem Pharma, Inova, diaSorin and Medical Analysis
+       Systems.
+
+       Analytical Instruments Segment.  We compete in the high-end
+       analytical instruments market primarily on the basis of
+       technology and features.  Competitors in this segment include
+       Thermo Nicolet Instruments (a business unit of Thermo Electron
+       Corp.) and PerkinElmer (formerly EG&G) in spectroscopy.
+
+       Product Research and Development
+
+       The Company conducts extensive product research and development
+       activities in all areas of our business, employing  approximately
+       432 people worldwide in these activities.  Research and
+       development have played a major role in Bio-Rad's growth and are
+       expected to continue to do so in the future.  Our research teams
+       are continuously developing new products and new applications for
+       existing products.  In our development and testing of new
+       products and applications, we consult with scientific and medical
+       professionals at universities, hospitals and medical schools, and
+       in industry, most notably with the Institut Pasteur.  We spent
+       approximately $68.1 million, $51.2 million (excluding $15.5
+       million of purchased in-process research and development
+       expense), and $41.4 million on research and development
+       activities during the years ended December 31, 2000, 1999 and
+       1998, respectively.
+
+       Regulatory Matters
+
+       The manufacturing, marketing and labeling of certain of our
+       products (primarily diagnostic products) are subject to
+       regulation in the United States by the Center for Devices and
+       Radiological Health of the United States Food and Drug
+       Administration ("FDA") and in other jurisdictions by state and
+       foreign government authorities.  FDA regulations require that
+       some new products have pre-marketing approval by the FDA and
+       require certain products to be manufactured in accordance with
+       "good manufacturing practices," to be extensively tested and to
+       be properly labeled to disclose test results and performance
+       claims and limitations.
+
+       As a multinational manufacturer and distributor of sophisticated
+       instrumentation equipment, we must meet a wide array of
+       electromagnetic compatibility and safety compliance requirements
+
+                                       5
+<PAGE>
+
+
+
+       to satisfy regulations in the United States, the European
+       Community and other jurisdictions.  The FDA must approve an
+       export permit application before companies can market products
+       outside the U.S. prior to the products' receipts of FDA approval.
+       The requirements relating to testing and trials, product
+       licensing, pricing and reimbursement vary widely among countries.
+
+       Our operations are subject to federal, state, local and foreign
+       environmental laws and regulations that govern such activities as
+       emissions to air and discharges to water, as well as handling and
+       disposal practices for solid, hazardous and medical wastes.  In
+       addition to environmental laws that regulate our operations, we
+       are also subject to environmental laws and regulations that
+       create liabilities and clean-up responsibility for spills,
+       disposals or other releases of hazardous substances into the
+       environment as a result of our operations or otherwise impacting
+       real property that we own or operate.  The environmental laws and
+       regulations also subject us to claims by third parties for
+       damages resulting from any spills, disposals or releases
+       resulting from our operations or at any of our properties.
+
+       Employees
+
+       At December 31, 2000, Bio-Rad had approximately 3,800 full-time
+       employees.  Fewer than 7% of Bio-Rad's 1,900 U. S. employees are
+       covered by a collective bargaining agreement which will expire on
+       November 7, 2002.  Many of Bio-Rad's non-U.S. full-time
+       employees, especially in France, are covered by collective
+       bargaining agreements.  Bio-Rad considers its employee relations
+       in general to be good.
+
+       ITEM 2. PROPERTIES
+
+       We own our Corporate headquarters located in Hercules,
+       California.  The principal manufacturing and research locations
+       for each segment are as follows:
+
+
+                                              Approximate
+       Segment        Location                Square Ftg.   Owned/Leased
+
+       Life Science   Richmond, California      191,000     Owned/Leased
+                      Hercules, California       95,400     Owned
+                      Hemel Hempstead, England  102,000     Leased
+                      Milan, Italy               50,000     Leased
+
+       Clinical
+       Diagnostics    Hercules, California      112,000     Owned/Leased
+                      Irvine, California        137,000     Leased
+                      Greater Seattle,
+                        Washington              127,600     Owned/Leased
+                      Lille, France             182,000     Owned
+                      Paris, France             162,000     Leased
+                      Munich, Germany            55,000     Leased
+                      Nazareth-Eke, Belgium      30,000     Leased
+
+
+
+                                       6
+<PAGE>
+
+
+
+
+       Analytical
+       Instruments    Cambridge, Massachusetts   40,000     Leased
+                      Philadelphia, Pennsylvania 28,000     Owned
+
+
+       Most manufacturing and research facilities also house
+       administration, sales and distribution activities.  In addition,
+       we lease office and warehouse facilities in a variety of
+       locations around the world.  The facilities are used principally
+       for sales, service, distribution and administration for all three
+       segments.
+
+       The Life Science segment's Richmond, California distribution and
+       instrument manufacturing facility lease expires in November 2001.
+       While we are currently negotiating a renewal, the lease is not
+       automatically renewable.  The Marnes la Coquette facility near
+       Paris, France which served as the corporate headquarters for PSD,
+       as well as a significant manufacturing and research facility has
+       recently been renewed until December 31, 2005.
+
+       We believe all of our other facilities are adequate to support
+       our current and anticipated production requirements.
+       Historically, adequate space to expand sales and distribution
+       channels has been available and we have leased space as needed.
+
+       ITEM 3.  LEGAL PROCEEDINGS
+
+       Note 12, "Legal Proceedings," appearing on page 22 of Exhibit
+       13.1 is incorporated herein by reference.
+
+       ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+       There were no matters submitted to a vote of the Company's
+       security holders during the fourth quarter of the fiscal year
+       covered by this report.
+
+                                  P A R T  II
+
+       ITEM 5.  MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED
+                STOCKHOLDER MATTERS
+
+       Note 15, "Information Concerning Common Stock," appearing on page
+       26 of Exhibit 13.1 is incorporated herein by reference.
+
+       ITEM 6.  SELECTED FINANCIAL DATA
+
+       The table headed "Summary of Operations" appearing on page 1 of
+       Exhibit 13.1 is incorporated herein by reference.
+
+       ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                CONDITION AND RESULTS OF OPERATIONS
+
+       The section headed "Management's Discussion and Analysis of
+       Results of Operations and Financial Condition" appearing on pages
+       28 through 36 of Exhibit 13.1 is incorporated herein by
+       reference.
+
+                                       7
+<PAGE>
+
+
+
+
+
+       ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+                 RISK
+
+       The section headed "Financial Risk Management" appearing on pages
+       34 and 35 of the Exhibit 13.1 is incorporated herein by
+       reference.
+
+
+       ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+       The Consolidated Financial Statements and Notes thereto and the
+       Report of Independent Public Accountants appearing on pages 1
+       through 27 of Exhibit 13.1 are incorporated herein by reference.
+
+
+       ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+               ACCOUNTING AND FINANCIAL DISCLOSURE
+
+       None.
+
+
+                                    PART III
+
+
+       ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+       The sections labeled "Election of Directors" and "Section 16(a)
+       Beneficial Ownership Reporting Compliance" of the definitive
+       Proxy Statement mailed to stockholders in connection with the
+       2001 Annual Meeting of Stockholders ("the 2001 Proxy Statement")
+       are incorporated herein by reference.
+
+
+       ITEM 11.  EXECUTIVE COMPENSATION
+
+       The sections labeled "Executive Compensation and Other
+       Information," "Compensation of Directors," "Compensation
+       Committee Interlocks and Insider Participation," "Report of the
+       Compensation Committee of the Board of Directors" and "Stock
+       Performance Graph" of the 2001 Proxy Statement are incorporated
+       herein by reference.
+
+
+       ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+                 MANAGEMENT
+
+       The section labeled "Principal and Management Stockholders" of
+       the 2001 Proxy Statement is incorporated herein by reference.
+
+
+       ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+       The section labeled "Compensation of Directors" of the 2001 Proxy
+       Statement is incorporated herein by reference.
+
+
+                                       8
+<PAGE>
+
+
+
+
+
+
+
+                                  P A R T  IV
+
+       ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON
+                 FORM 8-K
+
+       (a) 1. Index to Financial Statements
+
+              The following Consolidated Financial Statements are
+              included in the 2000 Annual Report and are incorporated
+              herein by reference pursuant to Item 8:
+                                                              Page in
+                                                           Exhibit 13.1
+              Consolidated Balance Sheets
+              at December 31, 2000 and 1999                     2-3
+
+              Consolidated Statements of Income
+              for each of the three years in the
+              period ended December 31, 2000                      4
+
+              Consolidated Statements of Cash Flows
+              for each of the three years in the period
+              ended December 31, 2000                             5
+
+              Consolidated Statements of Changes in
+              Stockholders' Equity for each of the three
+              years in the period ended December 31, 2000         6
+
+              Notes to Consolidated Financial Statements       7-26
+
+              Report of Independent Public Accountants           27
+
+
+           2. Index to Financial Statement Schedule
+
+                                                             Page in
+                                                            Form 10-K
+
+              Schedule II Valuation and Qualifying Accounts     10
+
+              Report of Independent Public Accountants
+              on Schedule II                                    11
+
+              All other  financial  statement schedules  are omitted  because
+              they are not  required or because  the required information  is
+              included in the Consolidated  Financial Statements or the Notes
+              thereto.
+
+           3. Index to Exhibits
+
+              The exhibits listed in the accompanying Index to Exhibits on
+              pages 13 through 15 of this report are filed or incorporated by
+              reference as part of this report.
+
+       (b)  Reports on Form 8-K
+
+            None.
+
+                                       9
+
+<PAGE>
+
+
+
+
+
+                             BIO-RAD LABORATORIES, INC,.
+                   SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+                    Years Ended December 31, 2000, 1999 and 1998
+                                   (In thousands)
+
+
+       Reserve for doubtful accounts receivable
+
+
+                                Additions
+                   Balance at  Charged to                          Balance
+                   Beginning   Costs and                           at End
+                    of Year     Expenses    Deductions   Other     of Year
+
+
+       2000 . . .    $9,582      $4,298      $(3,624)        --     $10,255
+
+       1999 . . .    $3,629      $3,123      $(2,449)    $5,279(A)   $9,582
+
+       1998 . . .    $3,374      $1,616      $(1,361)    $    -      $3,629
+
+
+
+
+       Valuation allowance for deferred tax assets
+
+
+                                            Deductions
+                    Balance at              Charged to              Balance
+                    Beginning               Costs and               at End
+                     of Year    Additions    Expenses     Other     of Year
+
+
+       2000 . . . .   $24,131     $   --      $(7,111)        --    $17,020
+
+       1999 . . . .   $5,342      $   --      $  (553)   $19,342(A) $24,131
+
+       1998 . . . .   $3,285      $2,057      $    --    $    --     $5,342
+
+
+
+       (A) Valuation arising from the acquisition of PSD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       10
+<PAGE>
+
+          REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS ON SCHEDULE II
+
+          To Bio-Rad Laboratories, Inc.:
+
+          We have audited in accordance with generally accepted auditing
+          standards, the consolidated financial statements included in
+          Bio-Rad Laboratories, Inc.'s annual report to stockholders
+          incorporated by reference in this Form 10-K, and have issued our
+          report thereon dated February 6, 2001.  Our audit was made for
+          the purpose of forming an opinion on those statements taken as a
+          whole.  The schedule listed in the index, Item 14(a)2, is the
+          responsibility of the Company's management and is presented for
+          purposes of complying with the Securities and Exchange
+          Commission's rules and is not part of the basic financial
+          statements.  This schedule has been subjected to the auditing
+          procedures applied in the audit of the basic financial statements
+          and, in our opinion, fairly states in all material respects the
+          financial data required to be set forth therein in relation to
+          the basic financial statements taken as a whole.
+
+
+
+
+
+                                               /s/ ARTHUR ANDERSEN LLP
+                                               ARTHUR ANDERSEN LLP
+
+
+
+          San Francisco, California
+          February 6, 2001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       11
+<PAGE>
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+     Exchange Act of 1934, the registrant has duly caused this report to be
+     signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                              BIO-RAD LABORATORIES, INC.
+
+
+                                              By:  /s/ Sanford S. Wadler
+                                                    Sanford S. Wadler
+                                                        Secretary
+
+                                              Date:   March 28, 2001
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+     this report has been signed below by the following persons on behalf
+     of the registrant and in the capacities and on the dates indicated.
+
+     Principal Executive Officer:
+
+       /s/  David Schwartz         President and Director    March 28, 2001
+          (David Schwartz)
+
+     Principal Financial Officer:
+
+       /s/  T. C. Chesterman       Vice President,           March 28, 2001
+          (Thomas C. Chesterman)   Chief Financial Officer
+
+     Principal Accounting Officer:
+
+       /s/  James R. Stark         Corporate Controller      March 28, 2001
+          (James R. Stark)
+
+     Other Directors:
+
+       /s/  James J. Bennett       Director                  March 28, 2001
+          (James J. Bennett)
+
+       /s/  Albert J. Hillman      Director                  March 28, 2001
+          (Albert J. Hillman)
+
+       /s/  Philip L. Padou        Director                  March 28, 2001
+          (Philip L. Padou)
+
+       /s/  Alice N. Schwartz      Director                  March 28, 2001
+          (Alice N. Schwartz)
+
+       /s/  Norman Schwartz        Director                  March 28, 2001
+          (Norman Schwartz)
+
+       /s/ Burton A. Zabin         Director                  March 28, 2001
+          (Burton A. Zabin)
+
+
+
+
+                                       12
+<PAGE>
+
+
+                              BIO-RAD LABORATORIES, INC.
+                                  INDEX TO EXHIBITS
+                                     ITEM 14(a)3
+
+          The following documents are filed as part of this report:
+
+          Exhibit No.
+
+          3.1       Restated Certificate of Incorporation, as of
+                    September 15, 1988. (1)
+
+          3.2       Bylaws of the Registrant, as amended February 19,
+                    1980. (2)
+
+          4.1       Credit Agreement dated as of September 30, 1999 among
+                    Bio-Rad Laboratories, Inc., the lenders named therein,
+                    Bank One, N.A., as Administrative Agent, ABN Amro Bank
+                    N.V. as Syndication Agent and Union Bank of California,
+                    N.A. as Documentation Agent. (3)
+
+          4.1.1     Amendment dated as of January 31, 2000, to the Credit
+                    Agreement dated as of September 30, 1999, by and among
+                    Bio-Rad Laboratories, Inc. the lenders named therein,
+                    and Bank One, N.A. as Agent. (4)
+
+          4.1.2     Amendment dated as of June 21, 2000 to the Credit
+                    Agreement dated as of September 30, 1999, among Bio-Rad
+                    Laboratories, Inc., the lenders named therein, Banc
+                    One, N.A. as Administrative Agent, ABN AMRO Bank N.V.
+                    as Syndication Agent, and Union Bank of California,
+                    N.A. as Documentation Agent. (5)
+
+          4.2       Senior Subordinated Credit Agreement dated as of
+                    September 30, 1999 among Bio-Rad Laboratories, Inc.,
+                    the lenders named therein and Bank One Capital Markets,
+                    Inc., as agent. (3)
+
+          4.4       Senior Subordinated Credit Agreement dated as of
+                    January 31, 2000 among Bio-Rad Laboratories, Inc., the
+                    lenders names therein and UBS AG, Stamford Branch, as
+                    Agent. (4)
+
+          4.5       The Indenture dated as of February 17, 2000 for 11.625%
+                    Senior Subordinated Notes due 2007 among Bio-Rad
+                    Laboratories, Inc., as Issuer, and Norwest Bank
+                    Minnesota, N.A., as Trustee. (4)
+
+          4.6       The Registration Rights Agreement dated as of February
+                    17, 2000 by and among Bio-Rad Laboratories, Inc. and
+                    Warburg Dillon Reed LLC and ABN AMRO Incorporated. (4)
+
+          10.4      1994 Stock Option Plan. (6)
+
+          10.4.1    Amendment to the Bio-Rad Laboratories, Inc. 1994 Stock
+                    Option Plan dated April 28, 1998.
+
+          10.4.2    Second Amendment to the Bio-Rad Laboratories, Inc. 1994
+                    Stock Option Plan dated December 6, 1999.
+
+
+                                          13
+
+<PAGE>
+
+          10.4.3    Third Amendment to the Bio-Rad Laboratories, Inc. 1994
+                    Stock Option Plan dated September 19, 2000.
+
+          10.5      Amended and Restated 1988 Employee Stock Purchase Plan.
+                    (7)
+
+          10.6      Employees' Deferred Profit Sharing Retirement Plan
+                    (Amended and Restated effective January 1, 1997). (8)
+
+          10.10     Non-competition and employment continuation agreement
+                    with James J. Bennett. (9)
+
+          10.11     Employment and non-compete agreement with Dr. Burton A.
+                    Zabin. (10)
+
+          10.12     Split Dollar Life Insurance Agreement dated
+                    September 17, 1999 between the Schwartz Irrevocable
+                    Descendants Trust and Bio-Rad Laboratories, Inc. (4)
+
+          13.1      Excerpt from Annual Report to Stockholders' for the
+                    fiscal year ended December 31, 2000, (to be deemed
+                    filed only to the extent required by the instructions
+                    to exhibits for reports on Form 10-K).
+
+          21.1      Listing of Subsidiaries.
+
+          23.1      Consent of Independent Public Accountants.
+
+          ______________________________________________________________
+
+          (1)       Incorporated by reference from the Exhibits to the
+                    Company's Form 10-K filing for the fiscal year ended
+                    December 31, 1992, dated March 26, 1993.
+
+          (2)       Incorporated by reference from the Exhibits to the
+                    Company's Registration Statement on Form S-7
+                    Registration No. 2-66797, which became effective
+                    April 22, 1980.
+
+          (3)       Incorporated by reference from Exhibits to the
+                    Company's Form 8-K dated October 1, 1999.
+
+          (4)       Incorporated by reference from the Exhibits to the
+                    Company's Form 10-K filing for the fiscal year ended
+                    December 31, 1999, dated March 28, 2000.
+
+          (5)       Incorporated by reference from Exhibits to the
+                    Company's June 30, 2000, Form 10-Q filing dated
+                    August 14, 2000.
+
+          (6)       Incorporated by reference from the Exhibits to the
+                    Company's Form S-8 filing, dated April 28, 1994.
+
+          (7)       Incorporated by reference from the Exhibits to the
+                    Company's September 30, 1998, Form 10-Q filing dated
+                    November 10, 1998.
+
+
+
+                                          14
+<PAGE>
+
+          (8)       Incorporated by reference from the Exhibits to the
+                    Company's September 30, 1997, Form 10-Q filing dated
+                    November 13, 1997.
+
+          (9)       Incorporated by reference from the Exhibits to the
+                    Company's Form 10-K filing for the fiscal year ended
+                    December 31, 1996, dated March 26, 1997.
+
+          (10)      Incorporated by reference from the Exhibits to the
+                    Company's June 30, 1998, Form 10-Q filing dated
+                    August 6, 1998.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                          15
+ <PAGE>
+</TEXT>
+</DOCUMENT>

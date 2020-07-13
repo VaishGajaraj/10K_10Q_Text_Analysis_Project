@@ -1,0 +1,1280 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>calamp2003_10-k.txt
+<DESCRIPTION>FISCAL 2003 FORM 10-K
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                          OF THE SECURITIES ACT OF 1934
+
+                   FOR THE FISCAL YEAR ENDED FEBRUARY 28, 2003
+
+                       COMMISSION FILE NUMBER:   0-12182
+                                               ___________
+
+                           CALIFORNIA AMPLIFIER, INC.
+             (Exact name of Registrant as specified in its Charter)
+
+           DELAWARE                                          95-3647070
+______________________________                          __________________
+(State or other jurisdiction of                          (I.R.S. Employer
+ incorporation or organization)                          Identification No.)
+
+
+460 CALLE SAN PABLO, CAMARILLO, CALIFORNIA                      93012
+_________________________________________               __________________
+ (Address of principal executive offices)                       (Zip Code)
+
+
+    REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE:      (805) 987-9000
+                                                            ________________
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+TITLE OF EACH CLASS                                     NAME OF EACH EXCHANGE
+___________________                                      __________________
+
+       None                                                         None
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                           $.01 PAR VALUE COMMON STOCK
+                           ___________________________
+                                (Title of Class)
+
+     Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months, and (2) has been subject to such
+filing requirements for the past 90 days.     Yes [X]  No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of Registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K. [X]
+
+     Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Exchange Act Rule 12b-2).  Yes [ ]  No [X]
+
+     The aggregate market value of the common stock of the Registrant held
+by non-affiliates computed by reference to the price at which the common
+stock was last sold as of the last business day of the Registrant's most
+recently completed second fiscal quarter was approximately $50,535,000.
+
+     There were 14,745,812 shares of the Registrant's Common Stock
+outstanding as of May 23, 2003.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the Company's definitive Proxy Statement for the Annual
+Meeting of Stockholders to be held on July 17, 2003 are incorporated by
+reference into Part III, Items 11, 12 and 13 of this Form 10-K. This Proxy
+Statement will be filed within 120 days after the end of the fiscal year
+covered by this report.
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+THE COMPANY
+
+     California Amplifier, Inc. (the "Company") designs, manufactures and
+markets microwave equipment used in the reception of television programming
+transmitted from satellites and wireless terrestrial transmission sites, and
+two-way transceivers used for wireless high-speed Internet (broadband)
+service.  The Company's Satellite business unit designs and markets
+reception products principally for the Direct Broadcast Satellite ("DBS")
+subscription television market in the United States, as well as a full line
+of consumer and commercial products for video and data reception.  The
+Wireless Access business unit designs and markets integrated reception and
+two-way transmission equipment for broadband data and video applications.
+California Amplifier is an ISO 9001 certified company.
+
+     The consolidated financial statements include the accounts of the
+Company (a Delaware corporation) and its wholly-owned subsidiaries,
+California Amplifier SARL, the Company's subsidiary in France, and Cal Amp
+Limited, the Company's Hong Kong subsidiary.  Operations of the Hong Kong
+subsidiary were wound down beginning in November 2001, and this subsidiary
+was subsequently dissolved.  The French subsidiary essentially functions as
+an international sales office for the Wireless Access business unit.
+
+     As further described in Note 2 to the accompanying consolidated
+financial statements, on April 5, 2002 the Company acquired substantially
+all of the assets, properties and business of Kaul-Tronics, Inc., a
+Wisconsin company, and two affiliated companies (collectively, "Kaul-
+Tronics").  The results of Kaul-Tronics' operations have been included in
+the Company's consolidated financial statements since that date.  The
+operations and properties acquired by the Company, which included two
+manufacturing plants, involve primarily the design and manufacture of
+satellite antenna dishes used in the DBS industry.
+
+     As described further in Note 14 to the accompanying consolidated
+financial statements, in July 2001 the Company sold its 51% interest in
+Micro Pulse, a company engaged in the design, manufacture and marketing of
+antennas and amplifiers used principally in global positioning satellite
+(GPS) applications.  Accordingly, the results of operations of Micro Pulse,
+which represented a separate business segment of the Company, have been
+presented as a discontinued operation in the accompanying consolidated
+statements of operations for fiscal years 2002 and 2001.
+
+     The Company was incorporated in California in 1981 and was
+reincorporated in Delaware in 1987.
+
+     SATELLITE PRODUCTS
+
+     Sales of the Satellite business segment amounted to $88,437,000,
+$78,899,000 and $85,107,000 in fiscal years 2003, 2002 and 2001,
+respectively.  Such amounts represented 88.4%, 78.3% and 72.7%,
+respectively, of consolidated sales in these fiscal years.  The acquired
+Kaul-Tronics business accounted for approximately $16 million of Satellite
+segment sales during fiscal 2003, substantially all of which consisted of
+antenna dishes and associated mounting hardware.
+
+     Subsequent to February 28, 2003, the Company experienced a substantial
+reduction in orders from the primary customers of its Satellite business
+unit.  The Company has been advised by these key customers that the
+principal reason for the order reductions is because the customers have
+accumulated excess inventory levels.  The Company believes this situation
+will adversely affect its sales and results of operations for at least the
+first two quarters of fiscal 2004.  In response to this downturn in its
+Satellite business, during the first quarter of fiscal 2004 the Company
+reduced its workforce by approximately 50%, which reductions included
+approximately 225 contract workers.  In addition, the Company is in the
+process of consolidating its satellite dish antenna manufacturing operations
+in Wisconsin.  The Company believes that this significant decline in
+Satellite product orders is a temporary condition.  However, the Company is
+currently evaluating other potential restructuring actions that it may
+undertake in the event the downturn in its Satellite business persists
+longer than is currently expected.
+
+     The Satellite business unit generates its revenue almost entirely from
+the sale of outdoor satellite television reception equipment.  Such products
+accounted for approximately 99%, 98% and 93% of Satellite segment revenues
+in fiscal years 2003, 2002 and 2001, respectively.  The remaining revenue of
+the Satellite segment in these fiscal years was generated from the sale of
+commercial satellite products for video and data reception.
+
+     The Company's principal satellite products are installed at
+subscribers' premises to receive pay television programming signals that are
+transmitted from orbiting satellites.  The Company's satellite television
+reception products consist principally of a reflector dish antenna,
+feedhorn, and electronics which receive, process and amplify satellite
+television signals for distribution over coaxial cable into the building.
+The dish antenna reflects the satellite microwave signal back to a focal
+point where a feedhorn collects the microwaves and transfers the signals
+into an integrated amplifier/downconverter that is referred to in the
+satellite industry as a Low Noise Block Feed ("LNBF").  The microwave
+amplifier boosts the signal millions of times for further processing.  The
+downconverter changes the signal from a microwave frequency into a lower
+intermediate frequency that a satellite television receiver can acquire,
+recognize and process to create a picture.
+
+     Since the early 1980s the Company has been a leading supplier of
+amplifiers and downconverters to the "large backyard dish" markets
+worldwide, primarily the United States in the 1980s and 1990s, and Brazil
+and the Middle East in the early and mid 1990s.  In April 1999, the Company
+purchased substantially all of the satellite television products business of
+Gardiner Communications Corp.  This acquisition provided the Company
+immediate entry into the DBS subscription television market in North
+America.
+
+     For the past several years, substantially all of the Company's
+satellite product sales were DBS products, while sales of large backyard
+satellite dish products were negligible.  The Company believes that outdoor
+reception equipment for the DBS television industry will continue to be its
+principal satellite product line for the foreseeable future.
+
+     WIRELESS ACCESS PRODUCTS
+
+     The Company's Wireless Access business unit accounted for 11.6%, 21.7%
+and 27.3% of consolidated net sales in fiscal years 2003, 2002 and 2001,
+respectively.
+
+     Revenue of the Wireless Access business segment revenue by product line
+for the last three years is as follows (in $000s):
+
+                                     Fiscal year ended February 28,
+                                     -----------------------------
+                                      2003        2002        2001
+                                      ----        ----        ----
+    Wireless television
+     products                       $10,004     $ 4,867     $12,788
+
+    Broadband wireless access
+      antenna transceivers            1,603      16,949      19,234
+                                    -------     -------     -------
+    Total Wireless Access
+      segment revenue               $11,607     $21,816     $32,022
+                                    =======     =======     =======
+
+     Wireless television products are sold to operators of terrestrial
+wireless television systems (also known as "Wireless Cable"), and include
+signal scrambling equipment to encode premium video programming prior to
+transmission and reception equipment which is installed at the subscribers'
+premises in direct line-of-sight of terrestrial transmission towers.  The
+reception equipment consists of an antenna to receive the signal, integrated
+electronics which "downconvert" (i.e., change) the signal from a microwave
+frequency to a television frequency, a low noise amplifier and, if
+applicable, electronics to decode scrambled signals.
+
+     Broadband wireless access antenna transceivers are devices sold to
+internet service providers or systems integrators which are mounted outside
+a subscriber's premises in direct line-of-sight of a terrestrial
+transmission tower, enabling the subscriber to receive two-way high-speed
+Internet access. The transceiver is connected by coaxial cable to a modem
+inside the subscriber's premises.  The modem either transmits or receives
+signals to or from the transceiver.
+
+     Wireless Television Products
+
+     Wireless Cable television operates similarly to coaxial cable
+television transmission.  The key difference is that Wireless Cable uses a
+microwave frequency band (Multichannel Multipoint Distribution System, or
+"MMDS") to transmit programming from a central transmission tower to homes
+within a local service area.  The signal can generally be received by
+subscribers within a 25 to 40 mile omni-directional radius of the
+transmission tower; however, the subscriber must have a direct line-of-sight
+or "view" between the transmission tower and the reception antenna at the
+home.  Typically, 55% to 80% of the homes within a service area are able to
+receive these wireless signals, with the remainder shadowed from the
+transmitter. The percentage of line-of-sight homes is affected by the tower
+elevation, local topology and the height of the subscriber's antenna.
+
+     Since the mid-1990s the Wireless Cable television market in the United
+States has been shrinking, as Wireless Cable operators sold their subscriber
+bases to DBS system operators and redeployed their MMDS spectrum to other
+uses.  The Wireless Cable market contraction accelerated beginning in 1998,
+when the Federal Communications Commission ("FCC") approved the use of MMDS
+spectrum for two-way systems that could provide high-speed, high-capacity
+broadband service, including Internet access.  According to a report
+published by the FCC in December 2002, in the four year period through June
+2002 the number of Wireless Cable subscribers in the United States declined
+by over 50%.
+
+     Internationally, the Wireless Cable industry is larger than in the U.S.
+but has also been declining. Increasing worldwide demand for multichannel
+television programming has been offset by constraints on capital available
+to the Wireless Cable service providers and increased competition from
+alternate distribution means, such as satellite and cable.  It is expected
+that an increasing number of operators/MMDS spectrum owners may re-assess
+their video strategy and focus on broadband data services.
+
+     Most of the Company's Wireless Cable revenue in recent years has been
+generated by sales to system operators in foreign countries, primarily
+Africa, Latin America and Europe.  In fiscal 2003, in response to the
+substantial decline in sales of its broadband wireless access products, as
+discussed further below, the Company's Wireless Access unit concentrated its
+sales efforts on foreign Wireless Cable system operators, and was able to
+grow this portion of its Wireless business despite the fact that the overall
+Wireless Cable market is declining.
+
+     Broadband Wireless Access Products
+
+     By deploying two-way wireless technology, operators can offer a high-
+speed data service alternative to bridge the critical "last mile" between
+networks and customers.  There are key distinctions between broadband
+wireless access and the two most prevalent traditional high-speed pipelines,
+cable and digital subscriber line (DSL), typically provided by local cable
+or telephone companies.  Two-way wireless technology allows rapid deployment
+of broadband services with relatively low build-out costs and it extends
+high-speed access to rural and suburban markets that are not served or are
+underserved by cable or DSL.  Essentially, operators will establish two-way
+transmissions to and from base stations and homes and businesses, operating
+in many instances like cellular phone systems.  The Company's first
+generation broadband wireless product is an outdoor transceiver, which the
+system operator installs on the subscriber's home or business rooftop.
+These transceivers interface to an indoor modem which is connected to
+computers or local area networks, and send and receive data to/from the base
+stations to provide access to the Internet.  The network management system
+manages and controls the traffic transmitted over the broadband wireless
+system, allowing many users to share the available bandwidth.
+
+     Beginning in March 1999, Sprint and MCI WorldCom began making debt and
+equity investments in many of the U.S. MMDS multi-system operators,
+essentially acquiring over 60% of the MMDS spectrum in major cities
+throughout the United States.  In conjunction with these acquisitions, the
+companies announced their intention to initiate a broad-based roll-out of
+fixed wireless broadband services to using technology that required line-of-
+sight between the base station tower and subscriber antenna.  As of
+September 2001, Sprint was operating in 13 cities, and as of May 2002 MCI
+WorldCom was operating in 14 cities.
+
+     In October 2001, Sprint announced that it had suspended its previous
+roll-out strategies using line-of-sight technology until substantial
+progress is made on next generation MMDS non-line-of-sight technologies.
+There can be no assurance, however, that Sprint will resume its service
+roll-out for fixed wireless broadband service.
+
+     In July 2002, MCI WorldCom filed for voluntary protection under U.S.
+bankruptcy laws, and in connection with its reorganization it recently
+agreed to sell its wireless high-speed Internet assets, including its MMDS
+spectrum, to BellSouth.  Other interested companies will be given the
+opportunity to outbid BellSouth for the assets.  MCI WorldCom has asked the
+bankruptcy court to hold a hearing on July 8, 2003 to finalize the sale of
+its wireless high-speed Internet assets.
+
+     A number of international spectrum holders have launched two-way
+services to small and medium sized businesses using line-of-sight
+technologies.  These spectrum holders continue to roll out wireless high-
+speed Internet service to business subscribers.
+
+     In December 2001, the Company announced a licensing agreement that
+provides access to non-line-of-sight broadband modem technology and allows
+the Company to develop integrated customer premise equipment that
+interoperates with broadband wireless system technology developed by Navini
+Networks, Inc. ("Navini"), a privately held company.  The customer premise
+equipment in this system is a compact portable transceiver modem that is
+situated indoors to provide a wireless, non-line-of-sight high-speed
+Internet connection to the system provider's base station.  In May 2002,
+Sprint announced that it is conducting field trials of next generation
+broadband wireless technology with several vendors, two of which are Navini
+and IPWireless, Inc., in order to test alternative advanced technologies in
+various deployment scenarios to determine the viability of a next generation
+broadband wireless solution.  The Company believes that Sprint's field
+trials have yielded promising results for Navini's technology.  In addition
+to Sprint, a number of other wireless spectrum holders have conducted field
+trials of competing broadband wireless access technologies developed by
+Navini and several other companies in anticipation of launching broadband
+wireless data networks.  However, Sprint and the other spectrum holders have
+not yet announced the final results of their field trials or their
+technology selection decisions.  There can be no assurances that Navini's
+technology will be selected as a result of such field trials, or that the
+Company's development efforts in this area will be successful.
+
+     In January 2003, the Company announced that it has developed an
+adaptive digital beam-forming smart antenna technology for use in enhanced
+access points for high-speed Internet access over wireless networks which
+use the 802.11 standard, commonly referred to as "Wi-Fi".  The Company
+believes that this access point technology, named RASTER[TM], effectively
+addresses issues such as range, data throughput and tolerance to
+interference that have hindered the widespread deployment of 802.11
+networks.  The Company is continuing the development of this technology and
+is currently evaluating the best means to bring it to market.
+
+     For additional information regarding the Company's sales by segment and
+geographical area, see Note 13 of Notes to Consolidated Financial
+Statements.
+
+MANUFACTURING
+     The Company currently manufactures and assembles its products at its
+facilities in Camarillo, California and at two manufacturing plants in
+Wisconsin.  The two manufacturing plants in Wisconsin are currently being
+consolidated, as further discussed under Item 2 herein.  Manufacturing
+operations consist of assembly of printed circuit boards and components
+utilizing surface mount technology automated assembly equipment.  All
+printed circuit assemblies are then assembled into various aluminum and
+plastic housings, electronically tested, and subjected to additional
+environmental tests on a sampled basis prior to packaging and shipping.
+
+     Electronic devices, components and made-to-order assemblies used in the
+Company's products are generally obtained from a number of suppliers,
+although certain components are obtained from sole source suppliers.  Some
+devices or components are standard items while others are manufactured to
+the Company's specifications by its suppliers.  The Company believes that
+most raw materials are available from alternative suppliers.  However, any
+significant interruption in the delivery of such items could have an adverse
+effect on the Company's operations.
+
+     A substantial portion of the Company's components, printed circuit
+board assemblies and housings are procured from foreign suppliers and
+subcontract manufacturers located primarily in Hong Kong, mainland China,
+Taiwan, and other Pacific Rim countries.  Any significant shift in U.S.
+trade policy toward these countries, a significant downturn in the
+political, economic or financial condition of these countries, or further
+spread of Severe Acute Respiratory Syndrome (SARS) in these geographic
+areas, could cause disruption of the Company's supply chain or otherwise
+disrupt the Company's operations, which could adversely impact the Company's
+business.
+
+ISO 9001 INTERNATIONAL CERTIFICATION
+     In 1995, the Company became registered to ISO 9001, the widely
+recognized international standard for quality management in product design,
+manufacturing, quality assurance and marketing.  The Company believes that
+ISO certification is important to its business because most of the Company's
+key customers expect their suppliers to have and maintain ISO certification.
+The registration assessment was performed by Underwriter's Laboratory, Inc.
+according to the ISO 9001:1994 International Standard.  Continuous
+assessments to maintain certification are performed semi-annually, and the
+Company has maintained its certification through each audit evaluation, most
+recently in March 2003.  In addition, the Company conducts internal audits
+of processes and procedures on a quarterly basis.  The Company believes that
+the loss of its ISO certification would have a material adverse effect on
+its operations, and the Company can provide no assurance that it will be
+successful in continuing to maintain such certification.
+
+RESEARCH AND DEVELOPMENT
+     Each of the markets the Company competes in is characterized by
+technological change, evolving industry standards, and new product features
+to meet market requirements.  During the last three years, the Company has
+focused its research and development resources primarily on Satellite DBS
+products, two-way line-of-sight MMDS transceivers, two-way non-line-of-sight
+MMDS integrated transceiver/modems, and smart antenna technology for use in
+802.11 broadband wireless networks.  In addition, development resources were
+allocated to broaden existing product lines, reduce product costs and
+improve performance by product redesign efforts.
+
+     Research and development expenses in fiscal years 2003, 2002 and 2001
+were $5,982,000, $7,337,000 and $6,066,000, respectively.  During this three
+year period the Company's research and development expenses have ranged
+between 5.2% and 7.3% of annual sales.
+
+SALES AND MARKETING
+     The Company's sales are predominantly made to customers in the United
+States.  The following table summarizes the Company's sales by geographic
+region for the last three years, as percentages of consolidated sales:
+
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2003         2002         2001
+                                      ------       ------       ------
+United States                          90.5%        82.4%        75.4%
+Africa                                  4.1%         1.3%         2.5%
+Latin America                           2.4%         1.7%         2.3%
+Europe                                  2.3%         2.2%         3.3%
+Canada                                  0.3%        11.7%        13.5%
+All other                               0.4%         0.7%         3.0%
+                                      ------       ------       ------
+                                      100.0%       100.0%       100.0%
+                                      ======       ======       ======
+
+Sales to two Canadian customers in fiscal 2001 and 2002 did not recur in
+fiscal 2003.  One, a Wireless Access customer, entered into voluntary
+reorganization under Canadian bankruptcy law in September 2001.  The other,
+a Satellite customer, selected an alternate product technology that the
+Company elected not to develop.
+
+     The Company sells its Satellite products primarily to DBS operators,
+systems integrators and distributors for incorporation into complete
+subscription satellite television systems.  The Company sells its Wireless
+Access products directly to system operators as well as through distributors
+and system integrators.  See Note 13 to the accompanying consolidated
+financial statements for sales by business segment.
+
+     The Company's sales and marketing functions for both business units are
+centralized at its corporate headquarters in Camarillo, California.  In
+addition, the Company has sales offices and personnel in Paris, France and
+Sao Paulo, Brazil.
+
+     Sales to customers that accounted for 10% or more of consolidated
+annual sales for the last three years, as a percent of consolidated sales,
+are as follows:
+                                     Year ended February 28,
+                                  ------------------------------
+        Customer      Segment      2003        2002        2001
+        --------     ---------    ------      ------      ------
+           A         Satellite     43.8%       25.8%       22.0%
+           B         Satellite      9.5%       30.6%       239%
+           C         Wireless        -         13.5%       10.0%
+           D         Satellite      0.1%       11.7%        9.2%
+
+     Echostar Communications Corporation (identified as Customer A in the
+table above), owns and operates the DISH satellite television service in the
+U.S.  The Company believes that the loss of Echostar as a customer would
+have a material adverse effect on the Company's financial position and
+results of operations.  As further discussed under "The Company -- Satellite
+Products" above, the Company's principal Satellite customers substantially
+reduced their orders after the end of fiscal 2003, and the Company believes
+that at least the first half of fiscal 2004 will be adversely affected as a
+result.
+
+     Sprint (identified as Customer C in the table above), curtailed its
+rollout of first generation line-of-sight fixed wireless broadband Internet
+service in October 2001.  Sprint is currently evaluating several competing
+next generation non-line-of-sight technologies for delivering fixed wireless
+broadband service that were developed by Navini Networks and other
+companies.  As discussed further under "Broadband Wireless Products" above,
+the Company entered into a licensing agreement with Navini in December 2001
+under which the Company has the right to develop and market wireless
+broadband transceivers that would function with Navini's base stations.  The
+Company believes that future sales to Sprint for wireless broadband products
+are dependent upon (i) Sprint deciding to resume expansion of its subscriber
+base for wireless broadband service, (ii) Sprint selecting Navini's
+technology for the deployment of next generation service, and (iii) the
+Company receiving orders from Sprint for its version of the Navini
+transceiver.
+
+COMPETITION
+     The Company's markets are highly competitive.  In addition, if the
+markets for the Company's products grow, the Company anticipates increased
+competition from new companies entering such markets, some of whom may have
+financial and technical resources substantially greater than those of the
+Company.  The Company believes that competition in its markets is based
+primarily on performance, reputation, product reliability,  technical
+support and price.  The Company's continued success in these markets will
+depend in part upon its ability to continue to design and manufacture
+quality products at competitive prices.
+
+     Satellite Products:
+     The Company believes that its principal competitors for its Satellite
+Products business include Sharp, Channelmaster, Wistron NeWeb Corporation,
+Alps, Winegard, and MTI.  Based on information announced quarterly by the
+U.S. DBS system operators as to the total number of subscribers and the
+subscriber turnover rate, the Company believes that it is a leading supplier
+to the market for outdoor subscriber premise equipment for the U.S.
+satellite television industry.  In the Satellite television market, its
+reputation for performance and quality allows the Company a competitive
+advantage if pricing of its products is comparable to its competitors.
+Because the Company's Satellite products are not proprietary, it is possible
+that they may be duplicated by low-cost producers, resulting in price and
+margin pressures.
+
+     Wireless Access Products:
+     The Company believes that its principal competitors for its Wireless
+Cable television products include TranSystem, Inc. and Telelynx, Inc., both
+Taiwanese companies, and that its principal competitors for broadband
+wireless access products include, or could include, IPWireless Inc., NextNet
+Wireless, Inc., Flarion Technologies, Inc., and REMEC, Inc.  The wireless
+equipment market sectors in which the Company competes are highly
+fragmented, and although the Company was a leading supplier of first
+generation line-of-sight MMDS transceivers for broadband wireless service in
+the recent past, the Company believes that its share of the wireless market
+sectors in which it competes is very small at the present time, in part
+because the MMDS broadband wireless access market is largely dormant.    The
+Company believes that its product performance, reliability, low field
+failure rate, technical support and pricing have been its principal
+competitive advantages in the past.  However, the Wireless Cable television
+sector has been shrinking for a number of years, the MMDS broadband wireless
+access sector is, as noted above, largely dormant and will remain so until
+such time as the spectrum owners commence system deployments utilizing next
+generation non-line-of-sight technology, and the Company has not yet
+commercialized its technology targeted at broadband wireless access networks
+which utilize the 802.11 standard.  The Company's ability to capitalize on
+its past competitive advantages in its Wireless business will depend in part
+on whether and when market demand substantially improves for broadband
+wireless access products.
+
+BACKLOG
+     The Company's products are sold to customers that do not usually enter
+into long-term purchase agreements, and as a result, the Company's backlog
+at any date is not significant in relation to its annual sales.  In
+addition, because of customer order modifications, cancellations, or orders
+requiring wire transfers or letters of credit from international customers,
+the Company's backlog as of any particular date, may not be indicative of
+sales for any future period.
+
+INTELLECTUAL PROPERTY
+     The Company's timely application of its technology and its design,
+development and marketing capabilities have been of substantially greater
+importance to its business than patents or licenses.
+
+     The Company currently has 21 patents ranging from design features for
+downconverter and antenna products, to its MultiCipher broadband scrambling
+system.  Those that relate to its downconverter products do not give the
+Company any significant advantage since other manufacturers using different
+design approaches can offer similar microwave products in the marketplace.
+In addition to its awarded patents, the Company currently has 12 patent
+applications pending.
+
+     The Company believes that at the present time none of its patents are
+material to its existing operations.  The Company is currently pursuing
+several patents in its Wireless Access business unit that, if obtained,
+could be material to its future operations.
+
+     California Amplifier(R) and MultiCipher(R) are federally registered
+trademarks of the Company.
+
+EMPLOYEES
+     At February 28, 2003, the Company had approximately 340 employees and
+approximately 225 contracted production workers.  None of the Company's
+employees are represented by a labor union.  The contracted production
+workers are engaged through independent temporary labor agencies in
+California and Wisconsin.  As a result of downsizing in the first quarter of
+fiscal 2004, as discussed under "The Company -- Satellite Products" above,
+at May 23, 2003 the Company had approximately 265 employees and no
+contracted production workers.
+
+
+ITEM 2.  PROPERTIES
+
+     The Company's corporate headquarters and its primary manufacturing
+operations are located in three adjacent facilities in Camarillo, California
+(approximately 60 miles north of Los Angeles) totaling approximately 100,000
+square feet.  The leases on all three facilities expire in February 2004.
+Neither of the primary two leases, which encompass approximately 90,000
+square feet, contain renewal options.  The Company is currently evaluating
+its facility alternatives.  The Company believes that it can either renew
+the existing facility leases or relocate to a new facility under lease terms
+that are comparable to the existing leases.
+
+     In April 2002, as part of the acquisition of the assets and satellite
+dish manufacturing business of Kaul-Tronics, Inc. (as further described in
+Note 2 to the accompanying consolidated financial statements), the Company
+acquired three facilities in Wisconsin, consisting of two manufacturing
+plants and one warehouse.  The warehouse is not utilized and the Company is
+currently in the process of selling that building.  The Company is also
+consolidating the Wisconsin manufacturing operations into a single facility,
+and plans to sell one of the two manufacturing plants when this
+consolidation process is completed.
+
+     The Company also leases small facilities for a sale office in France
+and a product design center in Chanhassen, Minnesota.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+Yourish class action litigation:
+
+     On March 29, 2000 the Company and the individual defendants (certain
+present and former officers and directors of the Company) reached a
+settlement in the matter entitled Yourish v. California Amplifier, Inc., et
+al., Case No. CIV 173569 shortly after trial commenced in the Superior Court
+for the State of California, County of Ventura.  The terms of the settlement
+called for the issuance by the Company of 187,500 shares of stock along with
+a cash payment of $3.5 million, funded in part by insurance proceeds, for a
+total settlement valued at approximately $11.0 million.  Of the total
+settlement, $9.5 million was accrued in the consolidated financial
+statements for the year ended February 28, 2000, and the remaining $1.5
+million was to be funded by the Company's director and officer liability
+insurance carriers.  The common stock portion of the settlement was
+originally accrued at $7.5 million, or $40 per share, which share price was
+based on the trading range of the Company's common stock at the time the
+settlement agreement was reached.  By Order dated September 14, 2000, the
+Court approved the terms of the settlement and dismissed the action with
+prejudice.
+
+     Upon approval of the settlement agreement by the Court, in September
+2000 the Company issued 65,625 of the 187,500 shares of common stock and
+paid $2.5 million of the $3.5 million cash portion of the settlement.
+T.I.G. Insurance Company ("T.I.G."), one of the Company's liability
+insurance carriers, paid the remaining $1 million under a reservation of
+rights.
+
+     The fair value of the Company's common stock on September 14, 2000, the
+date the settlement agreement was approved by the court, was $33.063 per
+share.  Accordingly, at that time the Company reduced its litigation accrual
+by $1.3 million to revalue the common stock portion of the settlement at
+$33.063 per share instead of $40 per share.  Also in September 2000, the
+Company accrued $500,000 for additional legal expenses associated with this
+litigation which had not been previously accrued, and accrued $800,000 for a
+refund contingently payable to T.I.G., which had contributed $1 million to
+the settlement under a reservation of rights.
+
+     In March 2002, T.I.G. notified the Company that it intended to seek a
+refund of its $1 million settlement contribution made under a reservation of
+rights.  As discussed above, the Company had previously accrued a reserve of
+$800,000 for the refund contingently payable to T.I.G.  Consequently, at
+February 28, 2002 the Company accrued an additional $200,000 for the
+contingent refund payable to T.I.G.
+
+     The remaining 121,875 shares of common stock, previously accrued as
+part of the Yourish legal settlement at $33.063 per share, were issued on
+July 24, 2002, upon receipt of instructions from plaintiffs' counsel.
+
+     The Company's consolidated balance sheet at February 28, 2003 includes
+an accrued liability of $1 million for the amount payable to T.I.G.
+
+2001 securities litigation and shareholder derivative lawsuit:
+
+     Following the announcement by the Company on March 29, 2001 of the
+resignation of its controller and the possible overstatement of net income
+for the fiscal year ended February 28, 2000 and the subsequent restatement
+of the Company's financial statements for fiscal year 2000 and the interim
+periods of fiscal year 2001, the Company and certain officers were named as
+defendants in twenty putative actions in Federal Court.  Caption information
+for each of the lawsuits is set forth in Item 3 of the Company's Form 10-K
+for the fiscal year ended February 28, 2001.  On June 18, 2001, the twenty
+actions were consolidated into a single action pursuant to stipulation of
+the parties, and lead plaintiffs' counsel was appointed.  In July 2001, all
+of the Company's directors were named as defendants in the above-entitled
+shareholder derivative lawsuit filed in Los Angeles Superior Court.
+
+     In December 2001, the parties reached an agreement to settle both the
+class action litigation and the shareholder derivative lawsuit for the
+aggregate sum of $1.5 million, subject to final Court approval.  Of this
+amount, the Company's primary directors and officers liability insurance
+carrier agreed to contribute $575,000 toward the settlement, which amount
+was paid in December 2001.  The Company accrued its $925,000 share of the
+settlement in the fiscal year ended February 28, 2002.  Of this amount,
+$425,000 was paid by the Company in December 2001, and the remaining
+$500,000 was paid in October 2002 upon the Court's final approval of the
+settlement agreement.
+
+Investigation by the Securities and Exchange Commission:
+
+     In May 2001, the Company announced that it had received notice from the
+Securities and Exchange Commission (SEC) that the SEC was conducting an
+informal inquiry into the circumstances that caused the Company to announce
+that it would be restating earnings for fiscal year 2000 and interim
+quarters of fiscal year 2001.  Subsequently, the Company learned that the
+SEC adopted an order directing a formal investigation and designating
+certain officers to take testimony.  The Company has provided the SEC with
+documents and testimony, and management believes that it has fully
+cooperated, and will continue to fully cooperate, with the SEC in connection
+with its investigation.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     During the three months ended February 28, 2003, no matters were
+submitted to a vote of the Company's security holders.
+
+
+
+                                     PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED
+         STOCKHOLDER MATTERS
+
+     The information set forth under the caption "Market and Dividend
+Information" in the Company's 2003 Annual Report to Stockholders is
+incorporated herein by reference and made a part hereof.
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     The information set forth under the caption "Five-Year Financial
+Summary" in the Company's 2003 Annual Report to Stockholders is incorporated
+herein by reference to Exhibit 13 and made a part hereof.
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+     The information set forth under the caption "Management's Discussion
+and Analysis of Financial Condition and Results of Operations" in the
+Company's 2003 Annual Report to Stockholders is incorporated herein by
+reference to Exhibit 13 and made a part hereof.
+
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     Reference is made to the financial statements and financial schedules
+included later in this Report under Item 16.
+
+
+ITEM 9.  DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL
+DISCLOSURE
+
+     None.
+
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS
+
+     The directors and executive officers of the Company are as follows:
+
+      NAME                          AGE                    POSITION
+--------------------------          ---            -----------------------
+Ira Coron (1)                        74            Chairman of the Board
+                                                    of Directors
+
+Richard Gold (1)(3)                  48            Director
+
+Arthur H. Hausman (1)(2)             79            Director
+
+Frank Perna, Jr. (2)(3)              65            Director
+
+Thomas L. Ringer (2)                 71            Director
+
+Fred M. Sturm                        45            Director, President and
+                                                    Chief Executive Officer,
+
+Philip Cox                           63            Vice President, Wireless
+                                                    Access Products
+
+Robert Hannah                        42            Vice President,
+                                                    Satellite Products
+
+Patrick Hutchins                     40            Vice President, Operations
+
+Kris Kelkar                          39            Senior Vice President,
+                                                    Wireless Access Products
+
+Richard K. Vitelle                   49            Vice President, Finance,
+                                                    Chief Financial Officer
+                                                    and Corporate Secretary
+
+
+(1)  Member of Compensation Committee.
+(2)  Member of Audit Committee.
+(3)  Member of Governance and Nominating Committee
+
+
+     IRA CORON has been Chairman of the Board for California Amplifier, Inc.
+since March of 1994, and in addition was the Chief Executive Officer until
+1997 and remained an officer of the Company until February 1999.  From 1989
+to 1994 he was an independent management consultant to several companies and
+venture capital firms. He retired from TRW, Inc., after serving in numerous
+senior management positions from June 1967 to July 1989 among which was Vice
+President and General Manager of TRW's Electronic Components Group.  He also
+served as a member of the Executive Committee of the Wireless Communications
+Association.
+
+     RICHARD B. GOLD has been a director of the Company since December 2000.
+Mr. Gold is President and Chief Executive Officer of Nova Crystals, Inc., a
+privately held supplier of optical communications equipment, a position he
+has held since December 2002.  He also serves as Chairman of Radia
+Communications, Inc., a privately held supplier of wireless communications
+semiconductors, a position he has held since June 2002.  Previously, Mr.
+Gold was Chairman, President and Chief Executive Officer of Genoa
+Corporation, a privately held supplier of optical communications equipment,
+from January 1999 to June 2002. From November 1991 through December 1998,
+Mr. Gold held various senior-level executive positions with Pacific
+Monolithics, Inc., a supplier of wireless communications equipment,
+including Vice President-Engineering, Chief Operating Officer and, from
+January 1997 through December 1998, President and Chief Executive Officer.
+In October 1998, Pacific Monolithics filed a voluntary petition for
+reorganization under Chapter 11 of the U.S. Bankruptcy Code.  Mr. Gold is a
+director of Nucentrix Broadband Networks, Inc., a publicly held company.
+
+     ARTHUR H. HAUSMAN has been a director of the Company since 1987.  Mr.
+Hausman, a private investor, currently serves as a director of Drexler
+Technology Corporation, a publicly held manufacturer of optical data storage
+products.  Until his retirement in 1988, he served as Chairman of the Board
+of Directors and Chief Executive Officer of Ampex Corporation, a
+manufacturer of professional audio-video systems, data/memory products and
+magnetic tape, where he was employed for 27 years.  Mr. Hausman was
+appointed by President Reagan to the President's Export Council, to the
+Council's Executive Committee and to the Chairmanship of the Export
+Administration Subordinate Committee of the Council for the period 1985 to
+1989.
+
+     FRANK PERNA, JR. has been a director since May 2000.  From 1990 to
+1993, Mr. Perna was Chief Executive Officer of MagneTek.  From 1994 to 1998
+Mr. Perna was Chairman and Chief Executive Officer of EOS Corporation, and
+from 1998 to the present has served as Chairman and Chief Executive Officer
+of MSC Software.  Mr. Perna also serves as Chairman of the Board of
+Software.com and on the Board of Trustees of Kettering University.
+
+     THOMAS L. RINGER has been a director of the Company since August 1996.
+Since 1990, Mr. Ringer has been actively involved as a member of the boards
+of directors for various public and private companies.  Mr. Ringer is
+currently Chairman of Wedbush Morgan Securities, Inc., an investment banking
+and financial services company, Chairman of Document Sciences Corporation, a
+publicly held company engaged in developing and marketing document
+automation software, Chairman of M.S. Aerospace, Inc., a privately held
+manufacturer of aerospace fasteners, Chairman of the Center for Innovation
+and Entrepreneurship, an executive education services company, and Chairman
+of Camping Business Systems, Inc., a collateral recovery services company.
+Prior to 1990, Mr. Ringer served as President and Chief Executive Officer of
+Recognition Equipment Inc., a New York Stock Exchange listed company,
+President and Chief Executive Officer of Fujitsu Systems of America, Inc.
+and President and Chief Executive Officer of Computer Machinery Corporation.
+
+     FRED M. STURM was appointed Chief Executive Officer, President and
+Director in August 1997.  Prior to joining the Company from 1990 to 1997,
+Mr. Sturm was President of Chloride Power Systems (USA), and Managing
+Director of Chloride Safety, Security, and Power Conversion (UK), both of
+which are part of Chloride Group, PLC (LSE: CHLD).  From 1979 to 1990, he
+held a variety of general management positions with M/A-Com and TRW
+Electronics, which served RF and microwave markets.
+
+     PHILIP COX joined the Company in July 1996, and has held several
+general management and sales positions with the Company since that time.
+Mr. Cox currently serves as Vice President Sales of the Wireless Access
+Products unit. Prior to July 1996, he held various sales and marketing
+positions with Signal Technology and M/A-Com.
+
+     ROBERT HANNAH joined the Company as Vice President of Engineering in
+April 1995. In January 1998, Mr. Hannah was appointed Vice President,
+Satellite Products.  Prior to April 1995, Mr. Hannah held various positions
+with Hughes, most recently the position of Technical Manager at Hughes
+Network Systems.
+
+     PATRICK HUTCHINS joined the Company as Vice President, Operations in
+August 2001.  From March 1997 until joining the Company, Mr. Hutchins served
+in general management capacities with several units of Chloride Group PLC
+and Genlyte Thomas LLC, most recently serving as the President and General
+Manager of Chloride Systems, a division of Genlyte Thomas.
+
+     KRIS KELKAR joined the Company in April 1995 and has held several
+positions with the Company in general management and sales and marketing
+capacities since that time.  Mr. Kelkar is currently Senior Vice President
+and General Manager of the Company's Wireless Access Products unit.  Prior
+to joining the Company in 1995, he held various positions with General
+Instrument Corporation, the most recent Vice President of International
+Marketing for General Instrument's Communications Division.
+
+     RICHARD K. VITELLE joined the Company as Vice President, Finance, Chief
+Financial Officer and Corporate Secretary in July 2001.  Prior to joining
+the Company, he served as Vice President of Finance and CFO of SMTEK
+International, Inc., a publicly held electronics manufacturing services
+provider, where he was employed for a total of 11 years.  Earlier in his
+career Mr. Vitelle served as a senior manager with Price Waterhouse.
+
+     Officers are appointed by and serve at the discretion of the Board of
+Directors.
+
+Board Committees
+
+     The Company has a Compensation Committee that reviews and makes
+recommendations to the Board of Directors with respect to the compensation
+of the Company's executive officers as well as administers the Company's
+Stock Option Plans.
+
+     The Company has an Audit Committee that reviews the scope of audit
+procedures employed by the Company's independent auditors, approves the
+audit fee charged by the independent auditors, reviews the audit reports
+rendered by the Company's independent auditors, and pre-approves all non-
+audit services to be performed by the independent auditors.  The Audit
+Committee reports to the Board of Directors with respect to such matters and
+recommends the selection of independent auditors.
+
+     The Company has a Governance and Nominating Committee that reviews and
+makes recommendations on the composition of the Board and its committees,
+evaluates and recommends candidates for election to the Board, and reviews
+and makes recommendations to the full Board on corporate governance matters.
+
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+     The information under the caption "Executive Compensation" in the
+Company's definitive proxy statement for the Annual Meeting of Stockholders
+to be held on July 17, 2003 is incorporated herein by reference and made a
+part hereof.
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+          AND RELATED STOCKHOLDER MATTERS
+
+     The information under the caption "Stock Ownership" in the Company's
+definitive proxy statement for the Annual Meeting of Stockholders to be held
+on July 17, 2003 is incorporated herein by reference and made a part hereof.
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information contained under the caption "Certain Relationships and
+Related Transactions" in the Company's definitive proxy statement for the
+Annual Meeting of Stockholders to be held on July 17, 2003 is incorporated
+herein by reference and made a part hereof.
+
+
+ITEM 14.  CONTROLS AND PROCEDURES
+
+(a) Evaluation of disclosure controls and procedures.
+
+     Within the 90 days prior to the date of this report, the Company
+carried out an evaluation, under the supervision and with the participation
+of the Company's management, including the Company's Chief Executive Officer
+and Chief Financial Officer, of the effectiveness of the design and
+operation of the Company's disclosure controls and procedures pursuant to
+Rules 13a-14(c) and 15(d)-14(c) under the Securities Exchange Act of 1934
+(the "Exchange Act").  Based upon that evaluation, the Chief Executive
+Officer and Chief Financial Officer concluded that the Company's disclosure
+controls and procedures are effective in timely alerting them to material
+information relating to the Company (including its consolidated subsidiary)
+required to be included in the Company's periodic SEC filings.
+
+(b) Changes in internal controls.
+
+    There have been no significant changes in the Company's internal
+controls or in other factors which could significantly affect internal
+controls subsequent to the date we carried out our evaluation.
+Additionally, no significant deficiencies or material weaknesses in such
+internal controls requiring corrective actions were identified.
+
+
+ITEM 15.  PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+     The information contained under the caption "Principal Accountant Fees
+and Services" in the Company's definitive proxy statement for the Annual
+Meeting of Stockholders to be held on July 17, 2003 is incorporated herein
+by reference and made a part hereof.
+
+
+                                     PART IV
+
+
+ITEM 16. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+(a) List of Financial Statements
+
+     The following financial statements are included in the 2003 Annual
+Report to Stockholders which is incorporated herein by reference to Exhibit
+13 and made a part hereof:
+
+       Consolidated Balance Sheets
+
+       Consolidated Statements of Operations
+
+       Consolidated Statements of Stockholders' Equity
+        and Comprehensive Income (Loss)
+
+       Consolidated Statements of Cash Flows
+
+       Notes to Consolidated Financial Statements
+
+(b)  FORM 8-K. The Company made no filings on Form 8-K during the three
+     months ended February 28, 2003.
+
+(c)  EXHIBITS. Reference is made to the Index to Exhibits on pages 22 to 23
+     of this report.
+
+
+
+
+
+                                    SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized, on May 30, 2003.
+
+                                       CALIFORNIA AMPLIFIER, INC.
+
+                                       By:  /s/ Fred M. Sturm
+                                           __________________________
+                                           Fred M. Sturm
+                                           Chief Executive Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+      Signature                      Title                      Date
+
+ /s/ Ira Coron            Chairman of the                    May 30, 2003
+______________________    Board of Directors             ___________________
+   Ira Coron
+
+
+ /s/ Richard B. Gold      Director                           May 30, 2003
+______________________                                   ___________________
+   Richard B. Gold
+
+
+ /s/ Arthur H. Hausman    Director                           May 30, 2003
+______________________                                   ___________________
+   Arthur H. Hausman
+
+
+ /s/ Frank Perna, Jr.     Director                           May 30, 2003
+______________________                                   ___________________
+   Frank Perna, Jr.
+
+
+ /s/ Thomas L. Ringer     Director                           May 30, 2003
+______________________                                   ___________________
+   Thomas L. Ringer
+
+
+ /s/ Fred M. Sturm        President, Chief Executive         May 30, 2003
+______________________    Officer and Director           ___________________
+   Fred M. Sturm          (principal executive officer)
+
+
+ /s/ Richard K. Vitelle   VP Finance, Chief Financial        May 30, 2003
+______________________    Officer and Treasurer          ___________________
+   Richard K. Vitelle     (principal accounting officer)
+
+
+
+                               CERTIFICATIONS
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+I, Fred M. Sturm, Chief Executive Officer of California Amplifier, Inc.,
+certify that:
+
+1.  I have reviewed this annual report on Form 10-K of California Amplifier,
+Inc. (the "registrant");
+
+2.  Based on my knowledge, this annual report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this annual report;
+
+3.  Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;
+
+4.  The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+    a)  designed such disclosure controls and procedures to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within these entities,
+particularly during the period in which this annual report is being prepared;
+
+    b)  evaluated the effectiveness of the registrant's disclosure controls
+and procedures as of a date within 90 days prior to the filing date of this
+annual report (the "Evaluation Date"); and
+
+    c)  presented in this annual report our conclusions about the
+effectiveness of the disclosure controls and procedures based on our
+evaluation as of the Evaluation Date;
+
+5.  The registrant's other certifying officer and I have disclosed, based on
+our most recent evaluation, to the registrant's auditors and the audit
+committee of the registrant's board of directors:
+
+    a)  all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+
+    b)  any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls;
+and
+
+6.  The registrant's other certifying officer and I have indicated in this
+annual report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal
+controls subsequent to the date of our most recent evaluation, including any
+corrective actions with regard to significant deficiencies and material
+weaknesses.
+          May 30, 2003                    /s/ Fred M. Sturm
+     ------------------------            -----------------------------
+            Date                          Fred M. Sturm
+                                          Chief Executive Officer
+
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+I, Richard K. Vitelle, Chief Financial Officer of California Amplifier, Inc.,
+certify that:
+
+1.  I have reviewed this quarterly report on Form 10-K of California
+Amplifier, Inc. (the "registrant");
+
+2.  Based on my knowledge, this annual report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this annual report;
+
+3.  Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;
+
+4.  The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+    a)  designed such disclosure controls and procedures to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within these entities,
+particularly during the period in which this annual report is being prepared;
+
+    b)  evaluated the effectiveness of the registrant's disclosure controls
+and procedures as of a date within 90 days prior to the filing date of this
+annual report (the "Evaluation Date"); and
+
+    c)  presented in this annual report our conclusions about the
+effectiveness of the disclosure controls and procedures based on our
+evaluation as of the Evaluation Date;
+
+5.  The registrant's other certifying officer and I have disclosed, based on
+our most recent evaluation, to the registrant's auditors and the audit
+committee of the registrant's board of directors:
+
+    a)  all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+
+    b)  any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls;
+and
+
+6.  The registrant's other certifying officer and I have indicated in this
+annual report whether or not there were significant changes in internal
+controls or in other factors that could significantly affect internal
+controls subsequent to the date of our most recent evaluation, including any
+corrective actions with regard to significant deficiencies and material
+weaknesses.
+
+          May 30, 2003                    /s/ Richard K. Vitelle
+     ------------------------            -----------------------------
+            Date                          Richard K. Vitelle
+                                          Chief Financial Officer
+
+
+                                INDEX TO EXHIBITS
+
+
+2.1      Asset Purchase Agreement dated April 5, 2002 between and among the
+         Company, Kaul-Tronics, Inc., NGP, Inc., and Interactive Technologies
+         International, LLC (incorporated by reference to Exhibit 2.1 of the
+         Company's Current Report on Form 8-K dated April 5, 2002).
+
+3.1      Certificate of Incorporation of the Company, as amended
+         (incorporated by  reference to Exhibit 3.1 of the Company's
+         Registration Statement No. 33-59702 on Form S-1).
+
+3.1.1    Amendment to Certificate of Incorporation of the Company, as
+         filed with the Delaware Secretary of State on September 19, 1996
+         (incorporated by  reference to Exhibit 3.1.1 of the Company's
+         Interim Report on Form 10-Q for the period ended August 31, 1996).
+
+3.2      Bylaws of the Company, as amended (incorporated by  reference to
+         Exhibit 3.2 of the Company's Current Report on Form 8-K dated
+         February 28, 1992).
+
+4.1      Amended and Restated Rights Agreement, amended and restated as of
+         September 5, 2001, by and between California Amplifier, Inc. and
+         Mellon Investor Services LLC, as Rights Agent (incorporated by
+         reference to Exhibit 4.1 of the Company's Form 8-K filed on
+         September 6, 2001).
+
+10.1     1989 Key Employee Stock Option Plan (incorporated by reference to
+         Exhibit 4.4 of the Company's Registration Statement No. 33-31427 on
+         Form S-8).
+
+10.1.1   Amendment No. 1 to the 1989 Key Employee Stock Option Plan
+         (incorporated by reference to Exhibit 4.7 of the Company's
+         Registration Statement No. 33-36944 on Form S-8).
+
+10.1.2   Amendment No. 2 to the 1989 Key Employee Stock Option Plan
+         (incorporated by reference to Exhibit 4.8 of the Company's
+         Registration Statement No. 33-72704 on Form S-8).
+
+10.1.3   Amendment No. 3 to the 1989 Key Employee Stock Option Plan
+         (incorporated by reference to Exhibit 4.10 of the Company's
+         Registration Statement No. 33-60879 on Form S-8).
+
+10.2     The 1999 Stock Option Plan (incorporated by reference to Exhibit
+         4.1 of the Company's Registration Statement No. 333-93097 on
+         Form S-8).
+
+10.3     Building Lease and Rider on building between the Company and
+         Calle San Pablo Property Co. dated January 31, 1989 (incorporated
+         by  reference to an exhibit filed with Company's Annual Report on
+         Form 10-K for the year ended February 28, 1989).
+
+10.3.1   Amendment of Lease on building between the Company and Calle San
+         Pablo Property Co. dated February 9, 1995 (incorporated by
+         reference to Exhibit 10.9.1 of the Company's Annual Report on
+         Form 10-K for the year ended February 28, 1995).
+
+10.4     Building Lease on building between the Company and The Jennings
+         Bypass Trust, dated September 11, 1996 (incorporated by
+         reference to Exhibit 10.28 of the Company's Annual Report on
+         Form 10-K for the year ended February 28, 1997).
+
+10.5     Form of Indemnity Agreement (incorporated by  reference to an
+         exhibit filed with Company's Annual Report on Form 10-K for the
+         year ended February 28, 1988).
+
+10.6     Loan and Security Agreement by and between the Company and U.S.
+         Bank National Association dated as of May 2, 2002 (incorporated by
+         reference to Exhibit 10.6 of the Company's Annual Report on Form
+         10-K for the year ended February 28, 2002).
+
+11       Statement re Computation of Per Share Earnings (incorporated by
+         reference to Note 9 of the Company's consolidated financial
+         statements for the year ended February 28, 2003).
+
+13       Annual Report to security holders.
+
+21       Subsidiary of the Registrant.
+
+23       Consent of Independent Auditors.
+
+99       Certification Pursuant to 18 U.S.C. Section 1350, as Adopted
+         Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+
+
+</TEXT>
+</DOCUMENT>

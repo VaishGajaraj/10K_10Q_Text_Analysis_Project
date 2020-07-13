@@ -1,0 +1,3326 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>t10k-9315.txt
+<DESCRIPTION>10-K
+<TEXT>
+<PAGE>
+
+================================================================================
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+              ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                   FOR THE FISCAL YEAR ENDED DECEMBER 31, 2005
+
+                        COMMISSION FILE NUMBER 000-21129
+
+                                   AWARE, INC.
+                                   -----------
+             (Exact Name of Registrant as Specified in Its Charter)
+
+            MASSACHUSETTS                                04-2911026
+            -------------                                ----------
+   (State or Other Jurisdiction of          (I.R.S. Employer Identification No.)
+   Incorporation or Organization)
+
+               40 MIDDLESEX TURNPIKE, BEDFORD, MASSACHUSETTS 01730
+               ---------------------------------------------------
+                    (Address of Principal Executive Offices)
+                                   (Zip Code)
+
+                                 (781) 276-4000
+                                 --------------
+              (Registrant's Telephone Number, Including Area Code)
+
+        Securities registered pursuant to Section 12(b) of the Act: NONE
+           Securities registered pursuant to Section 12(g) of the Act:
+                     COMMON STOCK, PAR VALUE $.01 PER SHARE
+                                (Title of class)
+
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes [ ] No [X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes [ ] No [X]
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2). Yes [X] No [ ]
+
+As of June 30, 2005 the aggregate market value of the registrant's common stock
+held by non-affiliates of the registrant, based on the closing sale price as
+reported on the Nasdaq National Market, was approximately $143,452,276.
+
+The number of shares outstanding of the registrant's common stock as of March 6,
+2006 was 23,290,811.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant's definitive Proxy Statement to be delivered to
+shareholders in connection with the registrant's Annual Meeting of Shareholders
+to be held on May 24, 2006 are incorporated by reference into Part III of this
+Annual Report on Form 10-K.
+
+================================================================================
+
+<PAGE>
+<TABLE>
+<CAPTION>
+<S>                                                                           <C>
+                                            AWARE, INC.
+                                             FORM 10-K
+                               FOR THE YEAR ENDED DECEMBER 31, 2005
+
+
+                                         TABLE OF CONTENTS
+
+
+                                              PART I
+
+Item 1.     Business........................................................................    3
+Item 1A.    Risk Factors....................................................................   11
+Item 1B.    Unresolved Staff Comments.......................................................   16
+Item 2.     Properties......................................................................   16
+Item 3.     Legal Proceedings...............................................................   17
+Item 4.     Submission of Matters to a Vote of Security Holders.............................   17
+
+                                              PART II
+
+Item 5.     Market for Registrant's Common Equity, Related Stockholder Matters and Issuer
+            Purchases of Equity Securities..................................................   17
+Item 6.     Selected Financial Data.........................................................   18
+Item 7.     Management's Discussion and Analysis of Financial Condition and Results
+            of Operations...................................................................   19
+Item 7A.    Quantitative and Qualitative Disclosures About Market Risk......................   25
+Item 8.     Consolidated Financial Statements and Supplementary Data........................   26
+Item 9.     Changes in and Disagreements with Accountants on Accounting and Financial
+            Disclosure......................................................................   44
+Item 9A.    Controls and Procedures.........................................................   44
+Item 9B.    Other Information...............................................................   44
+
+                                             PART III
+
+Item 10.    Directors and Executive Officers of the Registrant..............................   44
+Item 11.    Executive Compensation..........................................................   45
+Item 12.    Security Ownership of Certain Beneficial Owners and Management and Related
+            Stockholder Matters.............................................................   45
+Item 13.    Certain Relationships and Related Transactions..................................   45
+Item 14.    Principal Accountant Fees and Services..........................................   45
+
+                                              PART IV
+
+Item 15.    Exhibits and Financial Statement Schedules......................................   46
+
+
+Signatures..................................................................................   48
+
+
+
+                                                2
+</TABLE>
+
+<PAGE>
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+COMPANY OVERVIEW
+
+We are a worldwide leader in the development and marketing of intellectual
+property for broadband communications. We license our intellectual property to
+semiconductor companies that build integrated circuits based on our technology.
+Our principal offering is Digital Subscriber Line ("DSL") technology for the
+telecommunications industry based upon the International Telecommunication Union
+("ITU") industry standards. DSL technology includes asymmetric DSL ("ADSL") and
+very high speed DSL ("VDSL"). ADSL enables telephone companies to use their
+existing copper telephone lines to offer broadband services. Numerous ADSL
+standards have been adopted by the ITU since 1999, including G.992.1 ADSL and
+G.992.2 G.lite as well as G.992.3 ADSL2 and G.992.5 ADSL2plus which were adopted
+by the ITU in 2002 and 2003, respectively. In 2006, the ITU also approved the
+G.993.2 VDSL2 standard. ADSL2plus and VDSL2 further expand the bandwidth
+utilized by DSL signals and enable higher data rates than ADSL. These newer
+standards also deliver broader functionality and are expected to be increasingly
+used in worldwide deployments over the next several years.
+
+Our technology enables semiconductor companies to manufacture and sell chipsets
+that support ADSL, ADSL2, ADSL2plus and VDSL2 ITU standards. These standards
+underlie high-speed Internet access services that telephone companies provide to
+residential customers. Increasingly, telephone companies are adding new services
+to their offerings including video and television. New ADSL2plus and VDSL2
+technologies are improving telephone companies' ability to offer triple-play
+services (data, voice and video) over common telephone lines.
+
+In addition to our DSL intellectual property offerings, we develop and market
+DSL test and diagnostics hardware and software products to the automated test
+equipment industry. These products aim to improve the set-up and maintenance of
+broadband services based upon ADSL, ADSL2, ADSL2plus and VDSL2.
+
+We also sell software products for the enrollment of biometric information in
+security and identification systems as well as for biometric transaction
+processing. In addition, we sell software products for medical and digital
+imaging applications.
+
+We have projects underway to develop new forms of broadband and imaging
+technologies. We play an active role at standards setting bodies so that we can
+anticipate and influence changes in industry requirements.
+
+During 2004 and 2005, approximately 67% and 62%, respectively, of our revenue
+came from licensing DSL intellectual property. We license our intellectual
+property worldwide through our direct sales force. Our largest semiconductor
+customers in 2004 and 2005 were Analog Devices, Inc. and Infineon Technologies,
+AG. The remainder of our revenue came from the sale of hardware and software
+products. Our hardware products include printed circuit boards for the ADSL
+automated test equipment industry. Our software products include fingerprint
+compression and biometric transaction processing software tools for law
+enforcement agencies as well as ADSL test and diagnostics software for automated
+test equipment.
+
+We are headquartered in Bedford, Massachusetts. Our telephone number is (781)
+276-4000, and our website is www.aware.com. Incorporated in Massachusetts in
+1986, we employed 112 people as of December 31, 2005. Our stock is traded on the
+Nasdaq National Market under the symbol AWRE.
+
+Our website provides a link to a third-party website through which our annual,
+quarterly and current reports, and amendments to those reports, are available
+free of charge. We believe these reports are made available as soon as
+reasonably practicable after we electronically file them with, or furnish them
+to, the SEC. We do not maintain or provide any information directly to the
+third-party website, and we do not check its accuracy.
+
+INDUSTRY BACKGROUND
+
+DSL INDUSTRY BACKGROUND. DSL technology allows telephone companies to offer
+high-speed data services over their existing telephone wires. Telephone
+companies began tests and trials of ADSL technology in the mid 1990s. Commercial
+deployment of ADSL services began in modest volumes in 1999, and during the last
+five years, the rate of deployment of ADSL services accelerated dramatically,
+particularly outside of the United States. According to
+
+                                       3
+<PAGE>
+
+announcements by major telephone companies and information compiled by Point
+Topic Ltd., a company that provides analysis of broadband access to the
+Internet, approximately 12 million, 17 million, 28 million, 36 million and 43
+million new ADSL subscribers were added in 2001, 2002, 2003, 2004 and 2005,
+respectively. As of September 30, 2005, there were approximately 125 million
+global ADSL subscribers worldwide, of which approximately 20.4 million were in
+North America. There were 46.2 million in Europe/Middle East/Africa,
+approximately 53.8 million were in the Asia Pacific region and the remainder
+were in Latin America.
+
+Some of the largest providers of ADSL service in North America are telephone
+companies such as SBC, Verizon, BellSouth, Qwest, and Bell Canada. In Europe,
+major providers include Deutsche Telekom, France Telecom, Belgacom, British
+Telecom, Telefonica, Telecom Italia, and Telia. Large Asian providers include
+Korea Telecom and Hanaro in Korea, NTT and Yahoo Broadband in Japan, Chunghwa in
+Taiwan, and China Telecom in China.
+
+VDSL service has been deployed in Japan and service deployments are underway or
+contemplated in several other regions, including Belgium, Switzerland and
+Germany. Deutsche Telekom has announced its intention to deploy a 50 Mbps
+VDSL2-based service to a large number of cities commencing in 2006.
+
+In order to activate DSL (ADSL or VDSL) service, one end of a telephone wire
+must be connected to DSL equipment in a central office or remote location
+controlled by telephone companies and the other end must be connected to a
+device in the customer's premises. DSL central office and remote location
+equipment includes DSL access multiplexers ("DSLAMs"), next generation digital
+loop carriers ("NGDLCs"), and broadband loop carriers ("BLCs"). These are
+available from numerous telecommunications equipment suppliers. Some of the
+leading suppliers of DSL equipment include Alcatel Alsthom S.A. ("Alcatel"),
+Huawei, ECI Telecom, Lucent Technologies, Inc., NEC Corporation, Siemens AG,
+Sumitomo Corporation, and UTStarcomm. Devices in the customer's premise are
+known as DSL customer premises equipment ("CPE") and include modems, routers and
+integrated access devices (modems and routers that support integrated voice and
+data). Thomson Multimedia, Siemens, D-Link, Sumitomo, Sagem, Westell, Zyxel and
+Cisco are leading manufacturers of ADSL CPE.
+
+Manufacturers are able to purchase DSL integrated circuits for telephone company
+equipment or CPE from a number of suppliers, including Broadcom Corporation
+("Broadcom"), Centillium Communications, Inc. ("Centillium"), Conexant Systems,
+Inc. ("Conexant"), Infineon Technologies AG ("Infineon"), ST Microelectronics
+N.V. ("ST"), and Texas Instruments Incorporated ("TI").
+
+In the United States, at the end of September 2005, there were nearly 17.3
+million(1) DSL subscribers and nearly 23.6 million(1) cable subscribers. In the
+recent past, telephone companies were provisioning DSL subscribers nearly as
+fast as cable companies were adding broadband customers. Regulatory relief in
+2004 from the FCC has given ownership to both fiber-to-the-premise ("FTTP") and
+fiber-to-the node/neighborhood ("FTTN") investments, meaning that phone
+companies do not need to provide open access to these networks. During the past
+several years, SBC, Verizon and BellSouth have all announced plans for FTTP or
+FTTN deployments.
+
+Outside North America, DSL growth was slow until 2002 but has accelerated
+through 2003 and increased in 2004 and 2005. At the end of September 2005, there
+were 46.2 million(1) DSL subscribers in Europe and 12.4 million(1) cable
+subscribers.
+
+The Asia Pacific region has the largest number of DSL subscribers with 53.8
+million(1) as of the end of September 2005. Cable subscribers numbered 24.6
+million(1). Competition in this region is greater than in other parts of the
+world. A mix of government regulation and incentives has had a positive
+influence on this region's broadband rollouts.
+
+With over 1 billion phone lines installed worldwide, DSL has only penetrated
+approximately 10% of the available market today. According to estimates by
+Infonetics Research published in November 2005:
+
+     o    Telephone companies will add 86 million, 93 million and 101 million
+          new DSL ports to their networks in 2006, 2007 and 2008 respectively.
+
+     o    61 million, 66 million, and 69 million new DSL CPE units will be sold
+          in 2006, 2007, and 2008 respectively.
+
+-------------------
+
+(1)     SOURCE: POINT TOPIC LTD, WORLD BROADBAND STATISTICS REPORT, DECEMBER
+        2005
+
+                                       4
+<PAGE>
+
+As the demand for residential broadband service continues to grow, telephone
+companies are upgrading their networks to increase the data rates that are
+delivered to their residential customers. These upgrades require large financial
+expenditures and often involve the use of fiber optic-based communications to
+points deeper in the access networks (i.e. closer to residential customers than
+today's central office locations). The resulting FTTN networks require new
+equipment platforms to be installed at fiber-fed points. These equipment
+platforms then utilize the existing telephone wire infrastructure for access
+over the remaining distance to the customer's premises, and leverage their
+closer proximity to the end user and new ADSL2plus or emerging VDSL2 standards
+to provide increased data rates.
+
+DSL TECHNOLOGY BACKGROUND. DSL technology expands the usable bandwidth of copper
+wire so that telephone companies can offer high-speed data services over their
+existing telephone networks. DSL is a point-to-point technology that connects
+the end user to a central location in the telephone company's network such as a
+central office or remote location controlled by the telephone company. DSL
+equipment is required at each end of the telephone line. New ADSL2, ADSL2plus
+and VDSL2 technologies will enable transmit speeds between multiple megabits
+("Mbps") and 100 Mbps. Actual transmission speeds depend on the length and
+condition of the existing wire.
+
+An ADSL system typically divides the bandwidth on a copper wire into three
+segments. The first segment is usually used for plain old telephone service
+("POTS"). The second segment is used to transmit data "upstream" from the user
+to a central location in the phone network. The third segment is used to
+transmit data to the user (the "downstream" direction).
+
+The ADSL industry relies on international standards bodies to specify the
+technology used for ADSL services. Standards bodies that contribute
+specifications include the American National Standards Institute ("ANSI"), the
+ITU, the European Telecommunications Standards Institute ("ETSI") and other
+organizations. The prevalence and influence of industry standards on the ADSL
+industry make it similar to other communications and networking technologies
+such as Code Division Multiple Access ("CDMA"), Universal Serial Bus ("USB"),
+Global System for Mobile telecommunications ("GSM"), Global Positioning System
+("GPS"), Wireless Local Area Networking ("WLAN"), and chip-connection technology
+for Dynamic Random Access Memory ("DRAM"). For applications and services that
+use these technologies, standards and patents play a significant role in the
+formation of the commercial landscape.
+
+Full-rate ADSL was first standardized in 1995 by ANSI as T1.413, and then by the
+ITU in 1999 as G.992.1. Full-rate ADSL can transmit data at speeds up to 8 Mbps
+downstream and up to 640 Kbps upstream.
+
+In 1999, the ITU also standardized a lower speed version of ADSL, known as
+G.Lite or G.992.2. G.Lite can transmit data at speeds up to 1.5 Mbps downstream
+and up to 512 Kbps upstream without using special filtering equipment required
+by full-rate ADSL. G.Lite was intended to make the installation of ADSL faster
+and less expensive for telephone companies, however, most ADSL service offerings
+today are based on full-rate ADSL.
+
+In 2002, the ITU approved a new set of ADSL standards known as ADSL2 or G.992.3
+and G.992.4. These standards provide numerous improvements over previous ADSL
+standards, including line diagnostics, power management, power down and power
+cutback, reduced framing and on-line configuration. In 2003, the ITU approved
+ADSL2plus or G.992.5. ADSL2plus builds upon the ADSL2 standard by increasing
+achievable data rates to speeds up to 24 Mbps upstream on phone lines as long as
+3,000 feet (20 Mbps out to 5,000 feet). While the signal bandwidth of previous
+ADSL standards was about 1MHz, ADSL2plus specifies signals with more than 2 MHz
+of bandwidth.
+
+ITU standards for bonded ADSL, G.998.1 and G.998.2, were approved in January
+2005. These standards specify multi-pair ADSL bonding technology for residential
+and business services. Data rates are increased by a factor equal to the number
+of lines that are bonded. If two pairs are bonded, upstream and downstream data
+rates are doubled.
+
+In February 2006, the ITU approved the G.993.2 VDSL2 standard. This standard
+supports bandwidths from about 8MHz to 30 MHz and specifies data rates up to 100
+Mbps.
+
+DSL TEST AND DIAGNOSTICS INDUSTRY BACKGROUND. Automated test equipment ("ATE")
+is typically used for testing and diagnosing the services that are offered by
+telephone companies to consumers and businesses. An ATE infrastructure has been
+in place for telephone companies' traditional voice services for many years. The
+deployment of an ATE infrastructure for ADSL service began several years ago.
+
+                                       5
+<PAGE>
+
+The DSL ATE infrastructure typically involves the use of a centrally located
+equipment platform, often referred to as a test head. The test head is used to
+gather information from the telephone network for setting up or maintaining DSL
+service. Information about the telephone network is also gathered at remote
+locations using hand-held testers and in central office locations using DSLAMs
+or similar central office DSL termination equipment. The information gathered in
+test heads is generally made available to telephone companies' operations
+organizations through a software network. This information assists telephone
+companies in troubleshooting and diagnosing problems encountered during service
+deployment or during operation. Leading suppliers of ATE hardware and software,
+hand held devices and operations software include Spirent, Teradyne, Tollgrade,
+Acterna, Sunrise, Fluke, and others. There is an opportunity to improve DSL
+service providers' ability to troubleshoot and diagnose their networks as they
+continue to expand their user base or deliver value-added services, such as
+video, television and triple play services.
+
+BIOMETRICS INDUSTRY BACKGROUND. Biometric identification systems have typically
+used fingerprints as the primary biometric to identify individuals. Biometric
+identification systems for government and commercial applications based upon
+fingerprints are pervasive. These systems gather fingerprints at enrollment
+stations and access control locations, and utilize transaction processing
+hardware and software and matching systems for identification. The emergence of
+digital fingerprint compression and formatting over the last decade has
+transformed these to electronic systems capable of faster transaction processing
+and matching. These electronic systems are also capable of being upgraded to
+utilize biometrics other then digital fingerprints, such as facial image and
+iris based biometrics.
+
+Biometric identification systems based upon digital fingerprints are widely
+utilized by government agencies such as law enforcement, federal agencies, and
+the Department of Defense ("DoD"). The use of these systems by international
+governments has increased in the past several years. New government programs are
+underway to increase the use of biometric information in documents such as
+passports and personal identification cards. The use or contemplation of use of
+biometric security systems by regulated segments of the financial,
+transportation and healthcare industries has increased in the recent past.
+
+Vendors of the hardware and/or software component of enrollment stations include
+Lockheed Martin, Crossmatch, Unisys, SAIC, Identix, Northrop Grumman, Heimann
+Biometrics and NEC. Fingerprint matching and/or biometric transaction management
+systems are provided by companies such as Motorola, Sagem, NEC, Cogent, Identix,
+and numerous system integrators. As biometric security systems gain acceptance
+in new areas, the market opportunity for suppliers of hardware and software
+solutions is expected to grow. The biometrics security systems market is also
+expected to grow as the use of new biometrics, other than fingerprints, gain
+favor.
+
+AWARE DSL INTELLECTUAL PROPERTY
+
+Aware has been a pioneer of DSL technology since the mid 1990s. We license our
+StratiPHY2+(TM) and StratiPHY3(TM) technology to semiconductor companies to
+manufacture and sell chipsets that are compliant with the ITU standards for
+ADSL, ADSL2, ADSL2plus, VDSL1 and VDSL2. StratiPHY2plus was a first to market
+intellectual property offering, including a complete digital silicon solution
+(i.e. chip), that supports ADSL2 and ADSL2plus standards. We have also been
+first to demonstrate bonded ADSL2plus that doubles ADSL data rates as well as
+reach-extended ADSL2 that increases the distance over which phone companies can
+deliver service by 20% or more. StratiPHY3 was announced by Aware in 2005 and is
+a first to market intellectual property offering, including a complete digital
+silicon solution (i.e. chip), that supports ADSL2, ADSL2plus, VDSL1 and VDSL2
+standards. StratiPHY3 can be configured to run in central office as well as
+customer premises equipment mode.
+
+StratiPHY2+ and StratiPHY3 include patent rights, copyrighted materials and
+trade secrets. Copyrighted materials include digital chip design technology,
+available in Verilog or VHDL languages, and software, available in assembly and
+C-code. We license our copyrighted materials in source code as well as object
+code form. We also have available digital silicon that embodies our intellectual
+property. Our StratiPHY2+ and StratiPHY3 chips support all legacy and new ADSL
+standards in a single integrated circuit. StratiPHY2+ is applicable to customer
+premises solutions and StratiPHY3 is applicable to central office or customer
+premises solutions.
+
+Customers develop integrated circuits based upon our technology for fabrication
+in their own or third party manufacturing processes. Customers manufacture our
+digital chip or integrate our technology into chips that also contain other
+functionality. We also offer engineering services to our customers for the
+development and support of their chips or chipsets. Our largest ADSL
+intellectual property customers have been ADI and Infineon. We currently have
+six StratiPHY2+ licensees and three StratiPHY3 licensees.
+
+                                       6
+<PAGE>
+
+AWARE DSL TEST AND DIAGNOSTICS PRODUCTS
+
+We have developed test and diagnostics hardware and software products based upon
+our Dr. DSL(R) technology. These products are primarily sold to OEMs in the
+automated test equipment industry. These products are designed to assist service
+providers with provisioning, monitoring, and maintaining DSL services by
+enabling them to collect important information and diagnose problems regarding
+their service offerings. The primary goal of these products is to reduce the
+costs associated with service set-up and maintenance. Specific product features
+include loop length measurement, bridged tap measurement, crosstalk disturber
+detection and management, subscriber self-installation, and in-home diagnostics.
+
+Customers use our ADSL test printed circuit boards for connectivity within ADSL
+service networks. With these boards, customers can interoperate with a broad
+array of telephone company ADSL equipment as well as ADSL CPE. Customers use our
+software products to troubleshoot and diagnose problems encountered during
+service provisioning and for service maintenance.
+
+We sell our hardware products to original equipment manufacturers ("OEMs") in
+the automated test equipment market. We also sell hardware products to support
+our customers' developments and sales. Our principal hardware products include:
+
+o    DSL MODULES - Printed circuit boards that perform all connectivity aspects
+     of ADSL.
+o    DSL TEST AND DEVELOPMENT SYSTEMS - System-level products that provide a
+     means to conduct performance and interoperability testing during chipset
+     development, marketing and production.
+
+We primarily sell our software products, including Dr. DSL CPE and CO, as well
+as Technician Dr. DSL diagnostics software to OEMs to perform single-ended and
+double-ended testing to troubleshoot and diagnose problems encountered during
+ADSL service provisioning and for service maintenance.
+
+Our largest customer for test and diagnostics products has been Spirent
+Communications, Inc. ("Spirent").
+
+AWARE BIOMETRICS AND IMAGING PRODUCTS
+
+Aware has been a pioneer in the development of wavelet-based image compression
+technology since the late 1980s.
+
+Aware provides standards-compliant biometrics software tools that enable
+integrators, solution providers, and government agencies to compress, analyze,
+optimize, format, and transport biometric images and data according to
+international standards.
+
+We have developed software products for digital fingerprint compression and
+transaction processing that are widely used in the industry. These products
+include:
+
+o    WSQ BY AWARE, to compress digital fingerprint data for use by law
+     enforcement agencies such as the Federal Bureau of Investigation.
+o    NISTPACK, SEGMENTER, CJIS WEB, ACCUPRINT, AND ACCUSCAN, used by law
+     enforcement and other government agencies for biometric transaction
+     processing such as to format, edit, validate, store, and print fingerprint
+     and facial images.
+o    ICAOPACK, PREFACE, used by government agencies involved in enrollment,
+     manufacture and reading of electronic passports.
+
+We sell our biometrics software primarily to OEMs that provide biometric
+enrollment systems and to systems integrators.
+
+We have also developed and sell the JPEG 2000 CODEC BY AWARE. This software
+product provides a solution for the compression and decompression of still
+images using the high-quality, wavelet-based method defined by the JPEG 2000
+standard and has been primarily sold to medical imaging OEMs.
+
+                                       7
+<PAGE>
+
+AWARE STRATEGY
+
+Our objective is to establish StratiPHY2+ and StratiPHY3 as market leading
+broadband wide-area network ("WAN") silicon-level interfaces. Key elements of
+our strategy include:
+
+DEVELOP HIGH PERFORMANCE, EASY-TO-USE, INTEROPERABLE, FLEXIBLE DSL SILICON
+INTERFACE TECHNOLOGY. Our StratiPHY technology supports multiple DSL standards
+in cost effective intellectual property offerings. Our StratiPHY technology
+meets or exceeds industry performance and functionality requirements. We have
+established interoperability agreements with leaders in the DSL equipment and
+semiconductor industries to achieve and maintain high levels of interoperability
+across multiple vendors' solutions. We have also developed chips, reference
+designs and development platforms to allow rapid evaluation and testing of our
+technology.
+
+LEVERAGE THE ALIGNMENT OF TECHNOLOGY ADVANCEMENTS AND SERVICE PROVIDER
+REQUIREMENTS IN THE NEXT WAVE OF DSL ROLLOUTS. ADSL2, ADSL2plus and VDSL2 are
+technologies that enable higher speed, broader functionality services. Telephone
+companies worldwide are expanding their ADSL service offerings to include a
+bundle of voice and data as well as value-added services such as video. The
+alignment of new capabilities enabled by new standards and new requirements from
+service providers has created an increased demand for our technology from
+communications, networking, consumer electronics and multimedia semiconductor
+suppliers. We expect that ADSL2, ADSL2plus and VDSL2 will rapidly become a
+requirement in future DSL deployments.
+
+LEAD IN THE DEVELOPMENT OF NEXT-GENERATION DSL STANDARDS-BASED TECHNOLOGIES. We
+are active at standards bodies and present our technology innovations with the
+goal of including them in new specifications. We have R&D activities focused on
+enhancing our intellectual property offerings to include multi-port central
+office VDSL2 functionality. With these efforts, we believe we will be able to
+deliver leading edge, next-generation technology to our customers.
+
+COMMERCIALIZE OUR DSL TECHNOLOGY THROUGH A LICENSING BUSINESS MODEL. By
+licensing our technology, our customers leverage our StratiPHY2+ and StratiPHY3
+developments, reduce their R&D and support costs and economically deliver DSL
+functionality in their products. We generate revenue that is a combination of
+license fees, engineering fees and royalties. As a licensor, we are able to
+leverage our customers' sales, distribution and manufacturing capabilities. Our
+objective is to establish StratiPHY2+ and StratiPHY3 as predominant broadband
+WAN silicon-level interfaces through the success of our customers' products.
+
+Our DSL test and diagnostics product strategy is to provide hardware and
+software products that address the challenges encountered by telephone companies
+as they increase the number of lines and types of services provisioned through
+their DSL networks.
+
+In biometrics, our strategy is to capitalize on the expanded use of biometric
+security systems both within and outside the US Government.
+
+RESEARCH AND DEVELOPMENT
+
+DSL semiconductor technology must track the rapidly changing requirements of the
+DSL industry. In order to accomplish this, we make substantial investments in
+the design and development of new technologies, and for significant improvement
+of existing technologies. Our research and development activities are focused on
+shrinking the size of integrated circuits based upon our technology, improving
+performance and functionality and incorporating new technology to increase the
+value of our technology offerings.
+
+We also have research and development activities focused on further development
+of our DSL test and diagnostics hardware and software products as well as on
+expanding our software products in biometrics, medical and digital imaging
+applications.
+
+As of December 31, 2005, we had an engineering staff of 82 employees,
+representing 73% of our total employee staff. During the years ended December
+31, 2005, 2004, and 2003, research and development expenses charged to
+operations were $10.2 million, $10.0 million, and $12.1 million, respectively.
+In addition, because our license agreements often call for us to provide
+engineering development services to our customers, a portion of our total
+engineering costs has been allocated to cost of contract revenue. We expect that
+we will continue to invest substantial funds in research and development
+activities.
+
+                                       8
+<PAGE>
+
+SALES AND MARKETING
+
+Our principal sales and marketing strategy is to license our DSL intellectual
+property to semiconductor manufacturers. We believe that decisions involving the
+selection of our technology are frequently made at senior levels within a
+prospective customer's organization. Consequently, we rely significantly on
+presentations by our senior management to key employees at prospective
+customers. As of December 31, 2005, we had ten employees in our DSL licensing
+and test and diagnostics sales and marketing organization.
+
+Customers who are selling or developing integrated circuits based upon
+StratiPHY2plus are: Atmel Corporation ("Atmel"), Ikanos Communications, Inc.
+("Ikanos"), Infineon, Thomson SA ("Thomson"), and two customers we have not yet
+named. On February 17, 2006, Analog Devices, Inc. ("ADI") sold its ADSL business
+relating to Aware technology to Ikanos Communications, Inc. ("Ikanos") and
+Ikanos has replaced ADI as an Aware licensee.
+
+Customers who are selling or developing integrated circuits based upon
+StratiPHY3 are Infineon and two customers we have not yet named.
+
+In 2005, we derived approximately 20% and 30% of our total revenue from ADI and
+Infineon, respectively. In 2004, we derived approximately 28% and 28% of our
+total revenue from ADI and Infineon, respectively. In 2003, we derived
+approximately 27%, 20%, and 14% of our total revenue from ADI, Infineon, and
+Spirent, respectively. All revenue in 2005, 2004, and 2003 was derived from
+unaffiliated customers.
+
+We sell our biometrics and digital imaging software products primarily to OEMs
+and systems integrators. As of December 31, 2005, there were three employees in
+our biometrics and digital imaging software sales organization.
+
+COMPETITION
+
+We compete by offering comprehensive packages of standards-based broadband
+technology. Our success as an intellectual property supplier depends on the
+willingness and ability of semiconductor manufacturers to design, build and sell
+integrated circuits based on our intellectual property. The semiconductor
+industry is intensely competitive and has been characterized by:
+
+     o    rapid price erosion;
+
+     o    rapid technological change;
+
+     o    short product life cycles;
+
+     o    cyclical market patterns; and
+
+     o    increasing foreign and domestic competition.
+
+As an intellectual property supplier to the semiconductor industry, we face
+competition from internal development teams within potential semiconductor
+customers. We must convince potential licensees to license from us rather than
+develop technology internally. Furthermore, semiconductor customers, who have
+licensed our intellectual property, may choose to abandon joint development
+projects with us and develop chipsets themselves without using our technology.
+In addition to competition from internal development teams, we may compete
+against other independent suppliers of intellectual property for DSL.
+
+The market for DSL chipsets is also intensely competitive. Our success within
+the DSL industry requires that DSL equipment manufacturers buy chipsets from our
+semiconductor licensees, and that telephone companies buy DSL equipment from
+those equipment manufacturers. Our customers' chipsets compete with products
+from other vendors of standards-based DSL chipsets, including Broadcom,
+Centillium, Conexant, ST and TI.
+
+DSL services also compete with broadband technologies that use other network
+architectures to provide high-speed data service. These technologies include
+cable modems using cable networks, and wireless solutions using wireless
+networks. To date, ADSL services have been more successful than high-speed cable
+services outside of the United States; however cable services serve a larger
+number of broadband subscribers than ADSL inside the United States. We cannot
+give you assurances that these alternative network architectures will not be
+more successful than ADSL or VDSL.
+
+                                       9
+<PAGE>
+
+Many of our current and prospective DSL licensees, as well as chipset
+competitors that compete with our semiconductor licensees, including Broadcom,
+Conexant, ST and TI, have significantly greater financial, technological,
+manufacturing, marketing and personnel resources than we do. We cannot give you
+assurances that we will be able to compete successfully or that competitive
+pressures will not seriously harm our business.
+
+The markets for our test and diagnostics hardware and software products are
+competitive. We cannot assure you that we will be able to compete effectively or
+that competitive pressures will not seriously harm our business.
+
+The markets for our biometrics, medical and digital imaging software products
+are competitive, and are expected to become increasingly more competitive in the
+near future. We cannot assure you that we will be able to compete effectively or
+that competitive pressures will not seriously harm our business.
+
+PATENTS AND INTELLECTUAL PROPERTY
+
+We rely on a combination of nondisclosure agreements and other contractual
+provisions, as well as patent, trademark, trade secret and copyright law to
+protect our proprietary rights. We have an active program to protect our
+proprietary technology through the filing of patents. As of December 31, 2005,
+we had 35 issued patents and 64 pending patent applications pertaining to
+telecommunications and signal processing technology. We also had 12 issued
+patents and 7 pending patent applications pertaining to image compression, video
+compression, audio compression, seismic data compression and optical
+applications.
+
+Although we have patented certain aspects of our technology, we rely primarily
+on trade secrets to protect our intellectual property. We attempt to protect our
+trade secrets and other proprietary information through agreements with our
+licensees, suppliers, employees and consultants, and through security measures.
+Each of our employees is required to sign a non-disclosure and non-competition
+agreement. Although we intend to protect our rights vigorously, we cannot assure
+you that these measures will be successful. In addition, effective intellectual
+property protection may be unavailable or limited in certain foreign countries.
+
+Third parties may assert exclusive patent, copyright and other intellectual
+property rights to technologies that are important to us. In the past, we have
+received letters from third parties suggesting that we may be obligated to
+license such intellectual property rights. If we were found to have infringed
+any third party's patents, we could be subject to substantial damages and an
+injunction preventing us from conducting our business.
+
+MANUFACTURING
+
+Sales of hardware products constitute a relatively small portion of our total
+revenue. We do not intend to produce hardware products in any material quantity
+for the foreseeable future. Consequently, we rely on third party contract
+manufacturers to assemble and test substantially all of our products. Our
+internal manufacturing capacity is limited to final test and assembly of certain
+products. Other than DSL chipsets, which are available from our customers, we
+believe that other components for our hardware products are available from a
+number of suppliers.
+
+EMPLOYEES
+
+At December 31, 2005, we employed 112 people, including 82 in engineering, 13 in
+sales and marketing, 3 in manufacturing and 14 in finance and administration. Of
+these employees, 110 were based in Massachusetts. None of our employees is
+represented by a labor union. We consider our employee relations to be good.
+
+We believe that our future success will depend in large part on the service of
+our technical and senior management personnel and upon our ability to retain
+highly qualified technical, sales and marketing and managerial personnel. We
+cannot assure you that we will be able to retain our key managerial and
+technical employees or that we will be able to attract and retain additional
+highly qualified personnel in the future.
+
+
+                                       10
+<PAGE>
+
+ITEM 1A. RISK FACTORS
+
+SOME OF THE INFORMATION IN THIS FORM 10-K CONTAINS FORWARD-LOOKING STATEMENTS
+THAT INVOLVE SUBSTANTIAL RISKS AND UNCERTAINTIES. YOU CAN IDENTIFY THESE
+STATEMENTS BY FORWARD-LOOKING WORDS SUCH AS "MAY," "WILL," "EXPECT,"
+"ANTICIPATE," "BELIEVE," "ESTIMATE," "CONTINUE" AND SIMILAR WORDS. YOU SHOULD
+READ STATEMENTS THAT CONTAIN THESE WORDS CAREFULLY BECAUSE THEY: (1) DISCUSS OUR
+FUTURE EXPECTATIONS; (2) CONTAIN PROJECTIONS OF OUR FUTURE OPERATING RESULTS OR
+FINANCIAL CONDITION; OR (3) STATE OTHER "FORWARD-LOOKING" INFORMATION. HOWEVER,
+WE MAY NOT BE ABLE TO PREDICT FUTURE EVENTS ACCURATELY. THE RISK FACTORS LISTED
+IN THIS SECTION, AS WELL AS ANY CAUTIONARY LANGUAGE IN THIS FORM 10-K, PROVIDE
+EXAMPLES OF RISKS, UNCERTAINTIES AND EVENTS THAT MAY CAUSE OUR ACTUAL RESULTS TO
+DIFFER MATERIALLY FROM THE EXPECTATIONS WE DESCRIBE IN OUR FORWARD-LOOKING
+STATEMENTS. YOU SHOULD BE AWARE THAT THE OCCURRENCE OF ANY OF THE EVENTS
+DESCRIBED IN THESE RISK FACTORS AND ELSEWHERE IN THIS FORM 10-K COULD MATERIALLY
+AND ADVERSELY AFFECT OUR BUSINESS. WE ASSUME NO OBLIGATION TO UPDATE ANY
+FORWARD-LOOKING STATEMENTS.
+
+OUR QUARTERLY RESULTS ARE UNPREDICTABLE AND MAY FLUCTUATE SIGNIFICANTLY
+
+Our quarterly revenue and operating results are difficult to predict and may
+fluctuate significantly from quarter-to-quarter. Because our revenue components
+fluctuate and are difficult to predict, and our expenses are largely independent
+of revenues in any particular period, it is difficult for us to accurately
+forecast revenues and profitability. When appropriate, we recognize contract
+revenues ratably over the period during which we expect to deliver technology
+and provide engineering services. While this means that contract revenues from
+certain current agreements are generally predictable, changes can be introduced
+by a reevaluation of the length of the development period, or by the termination
+of a contract. The initial estimate of this period is subject to revision as the
+product being developed under a contract nears completion, and a revision may
+result in an increase or decrease to the quarterly revenue for that contract. In
+addition, accurate prediction of revenues from new contracts or licensees is
+difficult because contract negotiation is a lengthy process, frequently spanning
+a year or more, and the fiscal period in which a new license agreement will be
+entered into, if at all, and the financial terms of such an agreement are
+difficult to predict. Contract revenues also include fees for engineering
+services, which are dependent upon the varying level of assistance desired by
+licensees and, therefore, the revenue from these services is also difficult to
+predict.
+
+It is also difficult for us to make accurate forecasts of royalty revenues.
+Royalties are recognized in the quarter in which we receive a report from a
+licensee regarding the shipment of licensed integrated circuits in the prior
+quarter, and are dependent upon fluctuating sales volumes and/or prices of chips
+containing our technology, all of which are beyond our ability to control or
+assess in advance.
+
+Our business is subject to a variety of additional risks, which could materially
+adversely affect quarterly and annual operating results, including:
+
+     o    market acceptance of broadband technologies we supply by semiconductor
+          or equipment companies;
+     o    the extent and timing of new license transactions with semiconductor
+          companies;
+     o    changes in our and our licensees' development schedules and levels of
+          expenditure on research and development;
+     o    the loss of a strategic relationship or termination of a project by a
+          licensee;
+     o    equipment companies' acceptance of integrated circuits produced by our
+          licensees;
+     o    the loss by a licensee of a strategic relationship with an equipment
+          company customer;
+     o    announcements or introductions of new technologies or products by us
+          or our competitors;
+     o    delays or problems in the introduction or performance of enhancements
+          or of future generations of our technology;
+     o    failures or problems in our hardware or software products;
+     o    delays in the adoption of new industry standards or changes in market
+          perception of the value of new or existing standards;
+     o    competitive pressures resulting in lower contract revenues or royalty
+          rates;
+     o    competitive pressures resulting in lower software or hardware product
+          revenues;
+     o    personnel changes, particularly those involving engineering and
+          technical personnel;
+     o    costs associated with protecting our intellectual property;
+     o    the potential that licensees could fail to make payments under their
+          current contracts;
+     o    ADSL market-related issues, including lower ADSL chipset unit demand
+          brought on by excess channel inventory and lower average selling
+          prices for ADSL chipsets as a result of market surpluses;
+
+                                       11
+<PAGE>
+
+     o    VDSL market-related issues, including lower VDSL chipset unit demand
+          brought on by excess channel inventory and lower average selling
+          prices for VDSL chipsets as a result of market surpluses;
+     o    regulatory developments; and
+     o    general economic trends and other factors.
+
+As a result of these factors, we believe that period-to-period comparisons of
+our revenue levels and operating results are not necessarily meaningful. You
+should not rely on our quarterly revenue and operating results to predict our
+future performance.
+
+WE EXPERIENCED NET LOSSES
+
+We had a net annual loss during 2001, 2002, 2003, 2004 and 2005. We may continue
+to experience losses in the future if:
+
+     o    the semiconductor and telecommunications markets do not improve;
+     o    our existing customers do not increase their revenues from sales of
+          chipsets with our technology;
+     o    new or existing customers do not choose to license our intellectual
+          property for new chipset products; or
+     o    new or existing customers do not choose to use our software or
+          hardware products.
+
+WE HAVE A UNIQUE BUSINESS MODEL
+
+The success of our business model depends upon our ability to license our
+technology to semiconductor and equipment companies, and our customers'
+willingness and ability to sell products that incorporate our technology so that
+we may receive significant royalties that are consistent with our plans and
+expectations.
+
+We face numerous risks in successfully obtaining suitable licensees on terms
+consistent with our business model, including, among others:
+
+     o    we must typically undergo a lengthy and expensive process of building
+          a relationship with a potential licensee before there is any assurance
+          of a license agreement with such party;
+     o    we must persuade semiconductor and equipment manufacturers with
+          significant resources to rely on us for critical technology on an
+          ongoing basis rather than trying to develop similar technology
+          internally;
+     o    we must persuade potential licensees to bear development costs
+          associated with our technology applications and to make the necessary
+          investment to successfully manufacture chipsets and products using our
+          technology; and
+     o    we must successfully transfer technical know-how to licensees.
+
+Moreover, the success of our business model also depends on the receipt of
+royalties from licensees. Royalties from our licensees are often based on the
+selling prices of our licensees' chipsets and products, over which we have
+little or no control. We also have little or no control over our licensees'
+promotional and marketing efforts. They are not prohibited from competing
+against us.
+
+Our business could be seriously harmed if:
+
+     o    we cannot obtain suitable licensees;
+     o    our licensees fail to achieve significant sales of chipsets or
+          products incorporating our technology; or
+     o    we otherwise fail to implement our business strategy successfully.
+
+THERE HAS BEEN AND MAY CONTINUE TO BE AN OVERSUPPLY OF ADSL CHIPSETS, AND THERE
+IS INTENSE COMPETITION FOR ADSL CHIPSETS, WHICH HAS CAUSED OUR ROYALTY REVENUE
+TO DECLINE
+
+The royalties we receive are influenced by many of the risks faced by the ADSL
+market in general, including reduced average selling prices ("ASPs") for ADSL
+chipsets during periods of surplus. In 2000, 2001, and 2002, the ADSL industry
+had experienced an oversupply of ADSL chipsets and central office equipment.
+Excessive inventory levels led to soft chipset demand, which in turn led to
+declining ASPs. ASPs have also been under pressure because
+
+                                       12
+<PAGE>
+
+of intense competition in the ADSL chipset marketplace. As a result of the soft
+demand and declining ASPs for ADSL chipsets, our royalty revenue has decreased
+substantially from the levels we achieved in 2000. Price decreases for ADSL or
+VDSL chipsets, and the corresponding decreases in per unit royalties received by
+us, can be sudden and dramatic. Pricing pressures may continue during the first
+quarter of 2006 and beyond. Our royalty revenue may decline over the long term.
+
+WE DEPEND SUBSTANTIALLY UPON A LIMITED NUMBER OF LICENSEES
+
+There are a relatively limited number of semiconductor and equipment companies
+to which we can license our broadband technology in a manner consistent with our
+business model. If we fail to maintain relationships with our current licensees
+or fail to establish a sufficient number of new licensing relationships, our
+business could be seriously harmed. In addition, our prospective customers may
+use their superior size and bargaining power to demand license terms that are
+unfavorable to us and prospective customers may not elect to license from us.
+
+WE DERIVE A SIGNIFICANT AMOUNT OF REVENUE FROM A SMALL NUMBER OF CUSTOMERS
+
+In 2003, 2004 and 2005, we derived 27%, 28% and 20%, respectively, of our total
+revenue from ADI and 20%, 28%, and 30% respectively, of our total revenue from
+Infineon. ADI and Infineon have developed many generations of ADSL chipsets
+based upon our technology. On February 17, 2006 ADI sold its ADSL business
+relating to Aware technology to Ikanos Communications, Inc. ("Ikanos") and
+Ikanos replaced ADI as an Aware licensee. Our royalty revenue in the near term
+is highly dependent upon the respective market share and pricing of Ikanos' and
+Infineon's ADSL chipsets. The ADSL market has experienced significant price
+erosion, which has adversely affected ADSL chipset revenues, which in turn has
+adversely affected our royalty revenue. To the extent that Ikanos loses
+ADSL2plus market share or Infineon loses market share, is unable to gain market
+share, is unable to transition its product to support new ADSL2, ADSL2plus and
+VDSL2 standards, or experiences further price erosion in its DSL chipsets, our
+royalty revenue could decline.
+
+OUR SUCCESS REQUIRES ACCEPTANCE OF OUR TECHNOLOGY BY EQUIPMENT COMPANIES
+
+Due to our business strategy, our success is dependent on our ability to
+generate significant royalties from our licensing arrangements with
+semiconductor manufacturers. Our ability to generate significant royalties is
+materially affected by the willingness of equipment companies to purchase
+integrated circuits that incorporate our technology from our licensees. There
+are other competitive solutions available for equipment companies seeking to
+offer broadband communications products. We face the risk that equipment
+manufacturers will choose those alternative solutions. Generally, our ability to
+influence equipment companies' decisions whether to purchase integrated circuits
+that incorporate our technology is limited.
+
+We also face the risk that equipment companies that elect to use integrated
+circuits that incorporate our technology into their products will not compete
+successfully against other equipment companies. Many factors beyond our control
+could influence the success or failure of a particular equipment company that
+uses integrated circuits based on our technology, including:
+
+     o    competition from other businesses in the same industry;
+     o    market acceptance of its products;
+     o    its engineering, sales and marketing, and management capabilities;
+     o    technical challenges of developing its products unrelated to our
+          technology; and
+     o    its financial and other resources.
+
+Even if equipment companies incorporate chipsets based on our intellectual
+property into their products, their products may not achieve commercial
+acceptance or result in significant royalties to us.
+
+OUR SUCCESS REQUIRES TELEPHONE COMPANIES TO INSTALL DSL SERVICE IN VOLUME
+
+The success of our DSL licensing business depends upon telephone companies
+installing DSL service in significant volumes. Factors that affect the volume
+deployment of DSL service include:
+
+                                       13
+<PAGE>
+
+     o    the desire of telephone companies to install ADSL or VDSL service,
+          which is dependent on the development of a viable business model for
+          ADSL or VDSL service, including the capability to market, sell,
+          install and maintain the service;
+     o    the pricing of ADSL or VDSL services by telephone companies;
+     o    the success of internet protocol TV ("IPTV") as a viable consumer
+          service offering;
+     o    the transition by telephone companies to new ADSL technologies, such
+          as ADSL2, ADSL2plus and VDSL2;
+     o    the quality of telephone companies' networks;
+     o    deployment by phone companies of fiber-to-the home or broadband
+          wireless services;
+     o    government regulations; and
+     o    the willingness of residential telephone customers to demand DSL
+          service in the face of competitive service offerings, such as cable
+          modems, fiber-based service or broadband wireless access.
+
+If telephone companies do not install DSL service in significant volumes, or if
+telephone companies install broadband service based on other technology such as
+cable or fiber-to-the-home, our business will be seriously harmed.
+
+OUR INTELLECTUAL PROPERTY IS SUBJECT TO LIMITED PROTECTION
+
+Because we are a technology provider, our ability to protect our intellectual
+property and to operate without infringing the intellectual property rights of
+others is critical to our success. We regard our technology as proprietary, and
+we have a number of patents and pending patent applications. We also rely on a
+combination of trade secrets, copyright and trademark law and non-disclosure
+agreements to protect our unpatented intellectual property. Despite these
+precautions, it may be possible for a third party to copy or otherwise obtain
+and use our technology without authorization.
+
+As part of our licensing arrangements, we typically work closely with our
+semiconductor and equipment manufacturer licensees, many of whom are also our
+potential competitors, and provide them with proprietary know-how necessary for
+their development of customized chipsets based on our ADSL technology. Although
+our license agreements contain non-disclosure provisions and other terms
+protecting our proprietary know-how and technology rights, it is possible that,
+despite these precautions, some of our licensees might obtain from us
+proprietary information that they could use to compete with us in the
+marketplace. Although we intend to defend our intellectual property as
+necessary, the steps we have taken may be inadequate to prevent
+misappropriation.
+
+In the future, we may choose to bring legal action to enforce our intellectual
+property rights. Any such litigation could be costly and time-consuming for us,
+even if we were to prevail. Moreover, even if we are successful in protecting
+our proprietary information, our competitors may independently develop
+technologies substantially equivalent or superior to our technology. The
+misappropriation of our technology or the development of competitive technology
+could seriously harm our business.
+
+Our technology, software or products may infringe the intellectual property
+rights of others. A large and increasing number of participants in the
+telecommunications and compression industries have applied for or obtained
+patents. Some of these patent holders have demonstrated a readiness to commence
+litigation based on allegations of patent and other intellectual property
+infringement. Third parties may assert patent, copyright and other intellectual
+property rights to technologies that are important to our business. In the past,
+we have received claims from other companies that our technology infringes their
+patent rights. Intellectual property rights can be uncertain and can involve
+complex legal and factual questions. We may infringe the proprietary rights of
+others, which could result in significant liability for us. If we were found to
+have infringed any third party's patents, we could be subject to substantial
+damages and an injunction preventing us from conducting our business.
+
+OUR BUSINESS IS SUBJECT TO RAPID TECHNOLOGICAL CHANGE
+
+The semiconductor and telecommunications industries, as well as the market for
+high-speed network access technologies, are characterized by rapid technological
+change, with new generations of products being introduced regularly and with
+ongoing evolutionary improvements. We expect to depend on our DSL technology for
+a substantial portion of our revenue for the foreseeable future. Therefore, we
+face risks that others could introduce competing technology that renders our DSL
+technology less desirable or obsolete. Also, the announcement of new
+
+                                       14
+<PAGE>
+
+technologies could cause our licensees or their customers to delay or defer
+entering into arrangements for the use of our existing technology. Either of
+these events could seriously harm our business.
+
+We expect that our business will depend to a significant extent on our ability
+to introduce enhancements and new generations of our DSL technology as well as
+new technologies that keep pace with changes in the telecommunications and
+broadband industries and that achieve rapid market acceptance. We must
+continually devote significant engineering resources to achieving technical
+innovations. These innovations are complex and require long development cycles.
+Moreover, we may have to make substantial investments in technological
+innovations before we can determine their commercial viability. We may lack
+sufficient financial resources to fund future development. Also, our licensees
+may decide not to share certain research and development costs with us. Revenue
+from technological innovations, even if successfully developed, may not be
+sufficient to recoup the costs of development.
+
+One element of our business strategy is to assume the risks of technology
+development failure while reducing such risks for our licensees. In the past, we
+have spent significant amounts on development projects that did not produce any
+marketable technologies or products, and we cannot assure you that it will not
+occur again.
+
+WE FACE INTENSE COMPETITION FROM A WIDE RANGE OF COMPETITORS
+
+Our success as an intellectual property supplier depends on the willingness and
+ability of semiconductor manufacturers to design, build and sell integrated
+circuits based on our intellectual property. The semiconductor industry is
+intensely competitive and has been characterized by price erosion, rapid
+technological change, short product life cycles, cyclical market patterns and
+increasing foreign and domestic competition.
+
+As an intellectual property supplier to the semiconductor industry, we face
+intense competition from internal development teams within potential
+semiconductor customers. We must convince potential licensees to license from us
+rather than develop technology internally. Furthermore, semiconductor customers,
+who have licensed our intellectual property, may choose to abandon joint
+development projects with us and develop chipsets themselves without using our
+technology. In addition to competition from internal development teams, we
+compete against other independent suppliers of intellectual property. We
+anticipate intense competition from suppliers of intellectual property for ADSL.
+
+The market for DSL chipsets is also intensely competitive. Our success within
+the DSL industry requires that DSL equipment manufacturers buy chipsets from our
+semiconductor licensees, and that telephone companies buy DSL equipment from
+those equipment manufacturers. Our customers' chipsets compete with products
+from other vendors of standards-based and DSL chipsets, including Broadcom,
+Centillium, Conexant, ST Microelectronics and Texas Instruments.
+
+ADSL and VDSL services offered over copper telephone networks also compete with
+alternative broadband transmission technologies that use the telephone network
+as well as other network architectures. Alternative technologies for the
+telephone network include several types of symmetric high speed DSL, including
+HDSL, SDSL and G.SHDSL. Alternative technologies that use other network
+architectures to provide high-speed data service include cable modems using
+cable networks, wireless solutions using wireless networks, and optical
+solutions using fiber optics technology. These alternative broadband
+transmission technologies may be more successful than ADSL or VDSL and we may
+not be able to participate in the markets involving these alternative
+technologies.
+
+Many of our current and prospective DSL licensees, as well as chipset
+competitors that compete with our semiconductor licensees, including Broadcom,
+Conexant, ST Microelectronics and Texas Instruments, have significantly greater
+financial, technological, manufacturing, marketing and personnel resources than
+we do. We may be unable to compete successfully, and competitive pressures could
+seriously harm our business.
+
+WE MUST MAKE JUDGMENTS IN THE PROCESS OF PREPARING OUR FINANCIAL STATEMENTS
+
+We prepare our financial statements in accordance with generally accepted
+accounting principles and certain critical accounting polices that are relevant
+to our business. The application of these principles and policies requires us to
+make significant judgments and estimates. In the event that judgments and
+estimates we make are incorrect, we may have to change them, which could
+materially affect our financial position and results of operations.
+
+                                       15
+<PAGE>
+
+Moreover, accounting standards have been subject to rapid change and evolving
+interpretations by accounting standards setting organizations over the past few
+years. The implementation of new standards requires us to interpret and apply
+them appropriately. If our current interpretations or applications are later
+found to be incorrect, our financial position and results of operations could be
+materially affected.
+
+OUR STOCK PRICE MAY BE EXTREMELY VOLATILE
+
+Volatility in our stock price may negatively affect the price you may receive
+for your shares of common stock and increases the risk that we could be the
+subject of costly securities litigation. The market price of our common stock
+has fluctuated substantially and could continue to fluctuate based on a variety
+of factors, including:
+
+     o    quarterly fluctuations in our operating results;
+     o    changes in future financial guidance that we may provide to investors
+          and public market analysts;
+     o    changes in our relationships with our licensees;
+     o    announcements of technological innovations or new products by us, our
+          licensees or our competitors;
+     o    changes in ADSL market growth rates as well as investor perceptions
+          regarding the investment opportunity that companies participating in
+          the ADSL industry afford them;
+     o    changes in earnings estimates by public market analysts;
+     o    key personnel losses;
+     o    sales of our common stock; and
+     o    developments or announcements with respect to industry standards,
+          patents or proprietary rights.
+
+In addition, the equity markets have experienced volatility that has
+particularly affected the market prices of equity securities of many high
+technology companies and that often has been unrelated or disproportionate to
+the operating performance of such companies. These broad market fluctuations may
+adversely affect the market price of our common stock.
+
+OUR BUSINESS MAY BE AFFECTED BY GOVERNMENT REGULATIONS
+
+The extensive regulation of the telecommunications industry by federal, state
+and foreign regulatory agencies, including the Federal Communications
+Commission, and various state public utility and service commissions, could
+affect us through the effects of such regulation on our licensees and their
+customers. In addition, our business may also be affected by the imposition of
+certain tariffs, duties and other import restrictions on components that our
+customers obtain from non-domestic suppliers or by the imposition of export
+restrictions on products sold internationally and incorporating our technology.
+Changes in current or future laws or regulations, in the United States or
+elsewhere, could seriously harm our business.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+Not applicable.
+
+ITEM 2.  PROPERTIES
+
+We believe that our existing facilities are adequate for our current needs and
+that additional space sufficient to meet our needs for the foreseeable future
+will be available on reasonable terms. We currently occupy approximately:
+
+1.   72,000 square feet of office space in Bedford, Massachusetts, which serves
+     as our headquarters. This site is used for our research and development,
+     sales and marketing, and administrative activities. We own this facility.
+
+2.   530 square feet of research and development space in Lafayette, California.
+     This facility is currently leased for a 3-year term, which expires on
+     August 31, 2007.
+
+
+                                       16
+<PAGE>
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+From time-to-time we are involved in litigation incidental to the conduct of our
+business. We are not party to any lawsuit or proceeding that, in our opinion, is
+likely to seriously harm our business.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+There were no matters submitted to a vote of security holders during the fourth
+quarter ended December 31, 2005.
+
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND
+ISSUER PURCHASES OF EQUITY SECURITIES
+
+Our common stock is the only class of stock we have outstanding, and it trades
+on the Nasdaq National Market under the symbol AWRE. The following table sets
+forth the high and the low sales prices of our common stock as reported on the
+Nasdaq National Market for the periods indicated from January 1, 2004 to
+December 31, 2005.
+
+<TABLE>
+<CAPTION>
+                                     FIRST         SECOND        THIRD        FOURTH
+                                    QUARTER       QUARTER       QUARTER      QUARTER
+     -----------------------------------------------------------------------------------
+<S>                                  <C>           <C>           <C>           <C>
+     2005
+       High.................         $6.37         $6.80         $7.24         $7.60
+       Low..................          4.13          3.77          4.49          4.36
+
+     2004
+       High.................         $4.69         $5.18         $4.07         $5.35
+       Low..................          2.80          2.70          2.32          2.29
+</TABLE>
+
+As of March 6, 2006, we had approximately 139 shareholders of record. This
+number does not include shareholders from whom shares were held in a "nominee"
+or "street" name. We have never paid cash dividends on our common stock and we
+anticipate that we will continue to reinvest any earnings to finance future
+operations.
+
+We did not sell any equity securities that were not registered under the
+Securities Act of 1933 during the three months ended December 31, 2005.
+
+
+                                       17
+<PAGE>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+In the table below, we provide you with our selected consolidated financial
+data. We have prepared this information using our audited consolidated financial
+statements for the years ended December 31, 2005, 2004, 2003, 2002, and 2001.
+When you read this selected financial data, it is important that you read it
+along with Management's Discussion and Analysis of Financial Condition and
+Results of Operations, our historical consolidated financial statements, and the
+related notes to the financial statements, which can be found in Item 8.
+
+<TABLE>
+<CAPTION>
+
+Year ended December 31,                         2005        2004         2003       2002        2001
+-------------------------------------------------------------------------------------------------------
+                                                       (in thousands, except per share data)
+<S>                                            <C>         <C>         <C>         <C>         <C>
+Statements of Operations Data
+-----------------------------
+Revenue..................................      $15,667     $16,485     $10,843     $13,844     $18,547
+Loss from operations.....................       (3,618)     (1,925)     (8,635)    (12,529)     (4,823)
+Net loss.................................       (2,468)     (1,367)     (8,038)    (18,728)     (2,520)
+Net loss per share - basic...............       ($0.11)     ($0.06)     ($0.35)     ($0.83)     ($0.11)
+Net loss per share - diluted.............       ($0.11)     ($0.06)     ($0.35)     ($0.83)     ($0.11)
+
+
+Balance Sheet Data
+------------------
+Cash and short-term investments..........      $36,763     $34,965     $35,051     $33,302     $57,284
+Working capital..........................       39,124      37,168      36,727      33,481      59,608
+Total assets.............................       49,741      50,183      51,024      59,237      78,103
+Total liabilities........................        2,238       1,427       1,384       1,659       1,947
+Total stockholders' equity...............       47,503      48,756      49,640      57,578      76,156
+</TABLE>
+
+
+                                       18
+<PAGE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+The following table sets forth, for the years indicated, certain line items from
+our consolidated statements of operations stated as a percentage of total
+revenue:
+
+<TABLE>
+<CAPTION>
+                                                                  Year ended December 31,
+                                                      -----------------------------------------------
+   Revenue:                                                 2005            2004           2003
+                                                      -----------------------------------------------
+<S>                                                           <C>             <C>            <C>
+      Product sales................................            35%             29%            40%
+      Contract revenue.............................            43              46             26
+      Royalties....................................            22              25             34
+                                                      -----------------------------------------------
+        Total revenue..............................           100             100            100
+
+   Costs and expenses:
+      Cost of product sales........................             3               5             10
+      Cost of contract revenue.....................            21              16             14
+      Research and development.....................            65              61            111
+      Selling and marketing........................            17              14             22
+      General and administrative...................            17              15             22
+                                                      -----------------------------------------------
+         Total costs and expenses..................           123             111            179
+
+   Loss from operations............................           (23)            (11)           (79)
+
+   Interest income.................................             7               3              5
+                                                      -----------------------------------------------
+
+   Loss before provision for income taxes..........           (16)             (8)           (74)
+   Provision for income taxes......................             -               -              -
+                                                      -----------------------------------------------
+   Net loss........................................           (16)%            (8)%          (74)%
+                                                      ===============================================
+</TABLE>
+
+PRODUCT SALES
+
+Product sales consist primarily of revenue from the sale of hardware and
+software products. Hardware products include ADSL test and development systems,
+modules, and modems. Software products consist of standard off-the-shelf
+software products for biometric, medical imaging and digital imaging
+applications, as well as DSL test and diagnostics software.
+
+Product sales increased 14% from $4.8 million in 2004 to $5.4 million in 2005.
+As a percentage of total revenue, product sales increased from 29% in 2004 to
+35% in 2005. The dollar increase was primarily due to a $1.7 million increase in
+revenue from the sale of software products, which was partially offset by a $1.0
+million decrease in revenue from the sale of hardware products.
+
+Product sales increased 10% from $4.3 million in 2003 to $4.8 million in 2004.
+As a percentage of total revenue, product sales decreased from 40% in 2003 to
+29% in 2004. The dollar increase was due to a $0.9 million increase in revenue
+from the sale of software products, which was partially offset by a $0.4 million
+decrease in revenue from the sale of hardware products.
+
+CONTRACT REVENUE
+
+Contract revenue consists primarily of license and engineering service fees that
+we receive under agreements with our customers to develop DSL (including ADSL2,
+ADSL2plus or VDSL2) chipsets.
+
+                                       19
+<PAGE>
+
+Contract revenue decreased 11% from $7.6 million in 2004 to $6.7 million in
+2005. As a percentage of total revenue, contract revenue decreased from 46% in
+2004 to 43% in 2005. The dollar decrease in 2005 was from $2.0 million lower
+revenue from existing customers which was partially offset by $1.1 million of
+revenue from new customers.
+
+Contract revenue increased 167% from $2.8 million in 2003 to $7.6 million in
+2004. As a percentage of total revenue, contract revenue increased from 26% in
+2003 to 46% in 2004. The dollar increase in 2004 was from $3.7 million higher
+revenue from existing customers and $1.0 million from new customers.
+
+The environment for licensing intellectual property for communications
+integrated circuits continues to be difficult. Both existing and prospective DSL
+chipset licensees have been reluctant to begin new development projects given:
+(i) generally weak worldwide economic conditions, (ii) a difficult and uncertain
+environment in the semiconductor and telecommunications industries, and (iii)
+intense DSL chipset competition and falling chipset prices. During the last
+several years, customers and potential customers cautiously evaluated new
+chipset projects or delayed or cancelled projects in the face of such
+conditions.
+
+ROYALTIES
+
+Royalties consist of royalty payments that we receive under licensing
+agreements. We receive royalties from customers for the right to use our
+technology in their chipsets or solutions.
+
+Royalties decreased 15% from $4.2 million in 2004 to $3.5 million in 2005. As a
+percentage of total revenue, royalties decreased from 25% in 2004 to 22% in
+2005. The dollar decrease in royalties was due to a $0.5 million decrease in
+ADSL royalties and a $0.2 million decrease in biometrics and medical imaging
+royalties.
+
+Royalties increased 12% from $3.7 million in 2003 to $4.2 million in 2004. As a
+percentage of total revenue, royalties decreased from 34% in 2003 to 25% in
+2004. The dollar increase in royalties was due to a $0.3 million increase in
+ADSL royalties and a $0.2 million increase in biometrics and medical imaging
+royalties.
+
+Our royalty revenue came predominantly from ADSL chipset sales by Analog
+Devices, Inc. ("ADI"), and Infineon Technologies AG ("Infineon"). Despite steady
+growth of worldwide ADSL subscribers over the last several years, the
+availability of ADSL chipsets from a number of suppliers and intense competition
+among those suppliers has caused chipset prices to steadily decline. We are
+uncertain how quickly sales of our customers' chipsets will increase and whether
+such increases will contribute meaningful royalties to us.
+
+COST OF PRODUCT SALES
+
+Since the cost of software product sales is minimal, cost of product sales
+consists primarily of the cost of hardware product sales.
+
+Cost of product sales decreased 45% from $0.9 million in 2004 to $0.5 million in
+2005. As a percentage of product sales, cost of product sales decreased from 18%
+in 2004 to 9% in 2005. Cost of product sales decreased in 2005 due to a decrease
+in hardware product sales. The increase in overall product margins was due to a
+larger proportion of software sales in the product sales revenue mix.
+
+Cost of product sales decreased 17% from $1.0 million in 2003 to $0.9 million in
+2004. As a percentage of product sales, cost of product sales decreased from 24%
+in 2003 to 18% in 2004. Cost of product sales decreased in 2004 due to a
+decrease in hardware product sales. The increase in overall product margins was
+due to a larger proportion of software sales in the product sales revenue mix.
+
+COST OF CONTRACT REVENUE
+
+Cost of contract revenue consists primarily of salaries for engineers and
+expenses for consultants, technology licensing fees, recruiting, supplies,
+equipment, depreciation and facilities associated with customer development
+projects. Our total engineering costs are allocated between cost of contract
+revenue and research and development expense. In a given period, the allocation
+of engineering costs between cost of contract revenue and research and
+development is a function of the level of effort expended on each.
+
+                                       20
+<PAGE>
+
+Cost of contract revenue increased 22% from $2.7 million in 2004 to $3.3 million
+in 2005. As a percentage of contract revenue, cost of contract revenue increased
+from 35% in 2004 to 49% in 2005. The dollar increase in cost of contract revenue
+was due to an increase in engineering services contracts and an increase in cost
+of contract revenues associated with StratiPHY3 licensing contracts.
+
+Cost of contract revenue increased 71% from $1.6 million in 2003 to $2.7 million
+in 2004. As a percentage of contract revenue, cost of contract revenue decreased
+from 55% in 2003 to 35% in 2004. The dollar increase in cost of contract revenue
+was due to more customer contracts and higher contract revenue in 2004 as
+compared to 2003.
+
+RESEARCH AND DEVELOPMENT EXPENSE
+
+Research and development expense consists primarily of salaries for engineers
+and expenses for consultants, recruiting, supplies, equipment, depreciation and
+facilities related to engineering projects to improve our broadband intellectual
+property offerings, as well as our software and hardware product technology.
+Research and development expense increased 2% from $10.0 million in 2004 to
+$10.2 million in 2005. As a percentage of total revenue, research and
+development expense increased from 61% in 2004 to 65% in 2005. The dollar
+increase was primarily from higher compensation and fringe benefit costs of $0.4
+million, and higher chip and board design and development costs of $0.8 million.
+These cost increases were partially offset by $0.8 million decreased spending
+resulting from a shift of engineers to customer projects, where spending is
+classified as cost of contract revenue. This shift occurred because we had more
+customer projects in 2005 than in 2004. The dollar increase was also reduced by
+$0.3 million lower depreciation expense. Our research and development spending
+was principally focused on improving our ADSL, ADSL2 and ADSL2plus
+StratiPHY2+(TM) technology and chips, developing and improving our VDSL2
+StratiPHY3 technology and chips, developing analog front end technology for DSL
+solutions, developing test and diagnostics hardware and software and developing
+imaging and biometrics software.
+
+Research and development expense decreased 17% from $12.1 million in 2003 to
+$10.0 million in 2004. As a percentage of total revenue, research and
+development expense decreased from 111% in 2003 to 61% in 2004. The dollar
+decrease was primarily from $0.7 million decreased spending resulting from a
+shift of engineers to customer projects, where spending is classified as cost of
+contract revenue. This shift occurred because we had more customer projects in
+2004 than in 2003. The dollar decrease in spending was also attributable to $0.5
+million lower compensation and fringe benefit costs and $0.4 million lower
+depreciation expense.
+
+On January 3, 2005 the 5% salary reductions for employees and 10% salary
+reductions for senior management effective, January 1, 2003 were eliminated and
+the January 1, 2003 salaries were reinstated for those employees that were
+affected by the salary reduction. This salary reinstatement increased total 2005
+engineering expenses by $0.3 million, and increased total 2005 company expenses
+by $0.5 million.
+
+SELLING AND MARKETING EXPENSE
+
+Selling and marketing expense consists primarily of salaries for sales and
+marketing personnel, travel, advertising and promotion, recruiting, and
+facilities expense. Sales and marketing expense increased 15% from $2.4 million
+in 2004 to $2.7 million in 2005. As a percentage of total revenue, sales and
+marketing expense increased from 14% in 2004 to 17% in 2005. The dollar and
+percentage increases were primarily due to $0.3 million higher spending on
+compensation and fringe benefit costs.
+
+Sales and marketing expense was approximately $2.4 million in both 2003 and
+2004. As a percentage of total revenue, sales and marketing expense decreased
+from 22% in 2003 to 14% in 2004. The percentage decrease was primarily due to
+higher revenue in 2004 as compared to 2003.
+
+GENERAL AND ADMINISTRATIVE EXPENSE
+
+General and administrative expense consists primarily of salaries for
+administrative personnel, facility costs, bad debt, audit, legal, stock exchange
+and insurance expenses. General and administrative expense increased 6% from
+$2.5 million in 2004 to $2.6 million in 2005. As a percentage of total revenue,
+general and administrative expense increased from 15% in 2004 to 17% in 2005.
+The dollar and percentage increases were primarily due to $0.2 million higher
+spending on compensation and fringe benefit costs partially offset by a $0.1
+million decrease in professional fees and insurance.
+
+                                       21
+<PAGE>
+
+General and administrative expense increased 4% from $2.4 million in 2003 to
+$2.5 million in 2004. As a percentage of total revenue, general and
+administrative expense decreased from 22% in 2003 to 15% in 2004. The dollar
+increase was primarily due to a $0.1 million lower provision for bad debts in
+2004 compared with 2003, and a $0.1 million increase in professional fees and
+insurance. These increases were reduced by a $0.1 million decrease in
+depreciation expense.
+
+INTEREST INCOME
+
+Interest income increased 106% or $0.6 from $0.6 million in 2004 to $1.2 million
+in 2005. The dollar increase was primarily due to higher interest rates earned
+on our investments throughout 2005.
+
+Interest income decreased 7% or $39,000 in 2004 and was approximately $0.6
+million in both 2003 and 2004. The dollar decrease was primarily due to lower
+cash balances.
+
+INCOME TAXES
+
+We evaluate, on a quarterly basis, the positive and negative evidence affecting
+the realizability of our deferred tax assets. As a result of incurring operating
+losses since 2001, we determined that it is more likely than not that our
+deferred tax assets may not be realized, and since the fourth quarter of 2002
+have established a full valuation allowance for our net deferred tax assets.
+Accordingly, we have not recorded a deferred tax benefit for the operating
+losses incurred in the years ended December 31, 2004 and 2005.
+
+In 2002, we determined that due to our continuing operating losses in 2001 and
+2002 as well as the uncertainty of the timing of profitability in future
+periods, we should fully reserve our deferred tax assets. As a result, we
+recorded a tax provision of $7.1 million in 2002 to reserve for our remaining
+deferred tax assets.
+
+As of December 31, 2005, we had federal net operating loss and research and
+experimentation credit carry forwards of approximately $50.0 million and $10.6
+million respectively, which may be available to offset future federal income tax
+liabilities and expire at various dates from 2007 through 2025. In addition, at
+December 31, 2005, we had approximately $6.1 million and $5.3 million of state
+net operating losses and state research and development and investment tax carry
+forwards, respectively, which expire at various dates from 2006 through 2020.
+Ownership changes, if any, as defined in the Internal Revenue Code, may limit
+the amount of net operating loss carryforwards that can be utilized annually to
+offset future taxable income.
+
+Of the total net operating loss and research and development tax credit
+carryforwards for which a valuation allowance was recorded, approximately $22.1
+million is attributable to the exercise of stock options and the tax benefit
+will be credited to additional paid-in capital, if realized in the future.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Since our inception in March 1986, we have financed our activities primarily
+through the sale of stock. In the years ended December 31, 2005, 2004 and 2003,
+we received net proceeds from the issuance of stock under employee stock plans
+of $1.2 million, $0.5 million and $0.1 million, respectively. Our operating
+activities used net cash of $2.0 million, $0.9 million, and $8.1 million in the
+years ended December 31, 2005, 2004 and 2003, respectively. Cash used in our
+operating activities was primarily the result of operating losses and working
+capital requirements.
+
+In the years ended December 31, 2005, 2004, and 2003, we made capital
+expenditures of $0.4 million, $0.3 million, and $0.2 million, respectively.
+Capital expenditures in all three years primarily consisted of spending on
+computer hardware and software, laboratory equipment, and furniture used
+principally in engineering activities. We have no material commitments for
+capital expenditures. In the year ended December 31, 2005 we purchased $0.3
+million of other assets.
+
+At December 31, 2005, we had cash, cash equivalents, short-term investments and
+investments of $36.8 million. While we can not assure you that we will not
+require additional financing, or that such financing will be available to us, we
+believe that our cash, cash equivalents, short-term investments and investments
+will be sufficient to fund our operations for at least the next twelve months.
+
+                                       22
+<PAGE>
+
+To date, inflation has not had a material impact on our financial results. There
+can be no assurance, however, that inflation will not adversely affect our
+financial results in the future.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+We do not have any financial partnerships with unconsolidated entities, such as
+entities often referred to as structured finance, special purpose entities or
+variable interest entities which are often established for the purpose of
+facilitating off-balance sheet arrangements or other contractually narrow or
+limited purposes. Accordingly, we are not exposed to any financing, liquidity,
+market or credit risk that could arise if we had such relationships.
+
+CONTRACTUAL OBLIGATIONS
+
+We have various contractual obligations impacting our liquidity. The following
+represents our contractual obligations as of December 31, 2005 (in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                            Payments Due By Period
+                                   ---------------------------------------------------------------------
+                                                  Less than                                  More than
+    CONTRACTUAL OBLIGATIONS           Total         1 year       1-3 years     3-5 years      5 years
+    -----------------------        -----------   ------------   -----------   -----------   ------------
+<S>                                  <C>            <C>            <C>           <C>            <C>
+    Operating leases                 $    30        $    19        $   11        $    -         $    -
+    Purchase orders                      232            232             -             -              -
+                                   -----------   ------------   -----------   -----------   ------------
+    Total                            $   262        $   251        $   11        $    -         $    -
+                                   ===========   ============   ===========   ===========   ============
+</TABLE>
+
+CRITICAL ACCOUNTING POLICIES
+
+We consider certain accounting policies related to revenue recognition, income
+taxes and the allowance for doubtful accounts to be critical policies.
+
+REVENUE RECOGNITION. We derive our revenue from three sources (i) product
+revenue, which includes revenue from the sale of hardware and software products
+for the automated test equipment market and software products for the
+biometrics, medical and digital imaging markets, (ii) contract revenue, which
+includes patent, license and engineering service fees that we receive under
+customer agreements, and (iii) royalties that we receive under customer
+agreements.
+
+As prescribed by Securities and Exchange Commission Staff Accounting Bulletin
+No. 104, "Revenue Recognition", we recognize revenue when there is persuasive
+evidence of an arrangement, the sales price is fixed or determinable, collection
+of the related receivable is reasonably assured, and delivery has occurred or
+services have been rendered. We also apply the principles set forth in AICPA
+Statement of Position No. 97-2, "Software Revenue Recognition", when recognizing
+software revenue. Our revenue recognition policies are described more fully in
+Note 2, Summary of Significant Accounting Policies, in the Notes to our
+Consolidated Financial Statements.
+
+As described below, we make significant judgments and estimates during the
+process of determining revenue for any particular accounting period.
+
+In determining revenue recognition, we assess whether fees associated with
+revenue transactions are fixed or determinable and whether or not collection is
+reasonably assured. We make a judgment whether fees are fixed or determinable
+based on the payment terms associated with that transaction. We assess
+collection based on a number of factors, including past transaction history with
+the customer and the credit-worthiness of the customer. If we determine that
+collection of a fee is not reasonably assured, we defer the fee and recognize
+revenue at the time collection becomes reasonably assured.
+
+In addition to these general revenue recognition judgments, we make specific
+judgments and estimates with respect to the recognition of contract revenue.
+When our agreements include the delivery of licensing rights and technology as
+well as the provision of engineering services, we combine the total patent,
+license and engineering service fees to be paid under the agreement. These total
+fees are recognized ratably over the expected product development period,
+subject to the limitation that the cumulative revenue recognized through the end
+of any period may not exceed
+
+                                       23
+<PAGE>
+
+cumulative contract payments to date. We review assumptions regarding the
+product development period on a regular basis and make adjustments as required.
+Consistent with the principles of SAB 104, we believe that this method
+represents the appropriate systematic method for revenue recognition for this
+type of contract.
+
+After customers enter into development and license agreements, they often engage
+us to provide additional engineering work that is beyond the scope of their
+original agreement. When customers request additional services, both parties
+agree to engineering fees that are based on the level of effort required. We
+recognize revenue from these agreements either as engineering services are
+performed or as milestones are achieved.
+
+INCOME TAXES. As part of the process of preparing our consolidated financial
+statements we are required to estimate our actual current tax expense. We must
+also estimate temporary and permanent differences that result from differing
+treatment of certain items for tax and accounting purposes. These differences
+result in deferred tax assets and liabilities, which are included in our
+consolidated balance sheet. We must then assess the likelihood that our deferred
+tax assets will be recovered from future taxable income and to the extent that
+we believe that recovery is not likely, we must establish a valuation allowance.
+To the extent we establish a valuation allowance or increase this allowance in a
+period for deferred tax assets, which have been recognized, we must include an
+expense with the tax provision in the statement of operations.
+
+Significant management judgment is required in determining our provision for
+income taxes, our deferred tax assets, and any valuation allowance recorded
+against our net deferred tax assets. Our deferred tax assets relate to net
+operating losses and research and development tax credits that we are carrying
+forward into future tax periods. As of December 31, 2005, we had a total of
+$43.0 million of deferred tax assets for which we had recorded a full valuation
+allowance.
+
+Of the total valuation allowance, approximately $22.1 million relates to net
+operating loss and research and development tax credit carryforwards that are
+attributable to the exercise of stock options and the tax benefit will be
+credited to additional paid-in capital, if realized in the future.
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS. We make judgments as to our ability to collect
+outstanding receivables and provide allowances for receivables when collection
+becomes doubtful. Provisions are made based upon a specific review of all
+significant outstanding invoices. If the judgments we make to determine the
+allowance for doubtful accounts do not reflect the future ability to collect
+outstanding receivables, additional provisions for doubtful accounts may be
+required.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+RECENT ACCOUNTING PRONOUNCEMENTS - In December 2004, the Financial Accounting
+Standards Board ("FASB") issued Statement of Financial Accounting Standards No.
+123 (revised 2004), "Share-Based Payment" ("SFAS 123(R)"). SFAS 123(R) is a
+revision of Statement of Financial Accounting Standard No. 123, "Accounting for
+Stock-Based Compensation", supersedes Accounting Principles Board Opinion No.
+25, "Accounting for Stock Issued to Employees", and amends FASB Statement No.
+95, "Statement of Cash Flows". SFAS 123(R) requires all share-based payments to
+employees, including grants of employee stock options and stock purchases under
+employee stock purchase plans, to be recognized in the financial statements
+based on their fair values. In March 2005, the Securities and Exchange
+Commission (SEC) issued Staff Accounting Bulletin No. 107 ("SAB 107"), which
+provides the Staff's views regarding interactions between FAS 123(R) and certain
+SEC rules and regulations and provides interpretations of the valuation of
+share-based payments for public companies. In April 2005, the SEC adopted a new
+rule amending the compliance dates for SFAS 123(R). In accordance with the new
+rule, the accounting provisions of SFAS 123(R) are effective for us in our
+fiscal year beginning January 1, 2006.
+
+We will adopt SFAS 123(R) using the "modified-prospective method," which is a
+method in which compensation cost is recognized beginning with the effective
+date (a) based on the requirements of SFAS 123(R) for all share-based payments
+granted after the effective date and (b) based on the requirements of Statement
+No. 123 for all awards granted to employees prior to the effective date of SFAS
+123(R) that remain unvested on the effective date. We expect to apply the
+Black-Scholes valuation model in determining the fair value of share-based
+payments to employees, which will then be amortized on a straight-line basis. We
+expect the adoption to have a material impact on our consolidated statements of
+operations.
+
+                                       24
+<PAGE>
+
+In May 2005, the FASB issued FASB Statement No. 154, "Accounting Changes and
+Error Corrections, a replacement of APB Opinion No. 20, Accounting Changes and
+FASB Statement No. 3, Reporting Accounting Changes in Interim Financial
+Statements" ("FAS 154"). FAS 154 provides guidance on the accounting for and
+reporting of accounting changes and error corrections. It establishes, unless
+impracticable, retrospective application as the required method for reporting a
+change in accounting principle in the absence of explicit transition
+requirements specific to the newly adopted accounting principle. FAS 154 also
+provides guidance for determining whether retrospective application of a change
+in accounting principle is impracticable and for reporting a change when
+retrospective application is impracticable. The provisions of this Statement are
+effective for accounting changes and corrections of errors made in fiscal
+periods beginning after December 15, 2005. The adoption of the provisions of FAS
+154 is not expected to have a material impact on the Company's financial
+position or results of operations.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Our exposure to market risk relates primarily to our investment portfolio, and
+the effect that changes in interest rates would have on that portfolio. Our
+investment portfolio has included:
+
+     o    Cash and cash equivalents, which consist of financial instruments with
+          original maturities of three months or less;
+     o    Short-term investments, which consist of financial instruments with
+          remaining maturities of twelve months or less, and auction rate
+          securities that typically have interest reset dates of twenty-eight
+          days; and
+     o    Investments, which consist of financial instruments that mature in
+          three years or less.
+
+All of our investments meet the high quality standards specified in our
+investment policy. This policy dictates the maturity period and limits the
+amount of credit exposure to any one issue, issuer, and type of instrument.
+
+The interest rates on our auction rate securities are typically reset by auction
+every twenty-eight days. Although our auction rate securities have been readily
+marketable, if an auction were to fail, we may not be able to sell these
+securities on the planned reset date thereby increasing our holding period.
+
+We do not use derivative financial instruments for speculative or trading
+purposes. As of December 31, 2005, we had invested $36.8 million in cash, cash
+equivalents and short-term investments that matured in twelve months or less.
+Due to the short duration of these financial instruments, we do not expect that
+an increase in interest rates would result in any material loss to our
+investment portfolio. As of December 31, 2005, we had no long-term investments.
+
+                                       25
+<PAGE>
+
+ITEM 8.  CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and Stockholders of Aware, Inc.:
+
+We have completed integrated audits of Aware, Inc.'s 2005 and 2004 consolidated
+financial statements and of its internal control over financial reporting as of
+December 31, 2005 and an audit of its 2003 consolidated financial statements in
+accordance with the standards of the Public Company Accounting Oversight Board
+(United States). Our opinions, based on our audits, are presented below.
+
+CONSOLIDATED FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULE
+
+In our opinion, the consolidated financial statements listed in the index
+appearing under Item 15(a)(1) present fairly, in all material respects, the
+financial position of Aware, Inc. and its subsidiary at December 31, 2005 and
+2004, and the results of their operations and their cash flows for each of the
+three years in the period ended December 31, 2005 in conformity with accounting
+principles generally accepted in the United States of America. In addition, in
+our opinion, the financial statement schedule listed in the index appearing
+under Item 15(a)(2) presents fairly, in all material respects, the information
+set forth therein when read in conjunction with the related consolidated
+financial statements. These financial statements and financial statement
+schedule are the responsibility of the Company's management. Our responsibility
+is to express an opinion on these financial statements and financial statement
+schedule based on our audits. We conducted our audits of these statements in
+accordance with the standards of the Public Company Accounting Oversight Board
+(United States). Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit of financial statements includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+Also, in our opinion, management's assessment, included in Management's Report
+on Internal Control Over Financial Reporting appearing under Item 9A, that the
+Company maintained effective internal control over financial reporting as of
+December 31, 2005 based on criteria established in INTERNAL CONTROL - INTEGRATED
+FRAMEWORK issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (COSO), is fairly stated, in all material respects, based on those
+criteria. Furthermore, in our opinion, the Company maintained, in all material
+respects, effective internal control over financial reporting as of December 31,
+2005, based on criteria established in INTERNAL CONTROL - INTEGRATED FRAMEWORK
+issued by the COSO. The Company's management is responsible for maintaining
+effective internal control over financial reporting and for its assessment of
+the effectiveness of internal control over financial reporting. Our
+responsibility is to express opinions on management's assessment and on the
+effectiveness of the Company's internal control over financial reporting based
+on our audit. We conducted our audit of internal control over financial
+reporting in accordance with the standards of the Public Company Accounting
+Oversight Board (United States). Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether effective
+internal control over financial reporting was maintained in all material
+respects. An audit of internal control over financial reporting includes
+obtaining an understanding of internal control over financial reporting,
+evaluating management's assessment, testing and evaluating the design and
+operating effectiveness of internal control, and performing such other
+procedures as we consider necessary in the circumstances. We believe that our
+audit provides a reasonable basis for our opinions.
+
+A company's internal control over financial reporting is a process designed to
+provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles. A company's internal control over
+financial reporting includes those policies and procedures that (i) pertain to
+the maintenance of records that, in reasonable detail, accurately and fairly
+reflect the transactions and dispositions of the assets of the company; (ii)
+provide reasonable assurance that transactions are recorded as necessary to
+permit preparation of financial statements in accordance with generally accepted
+accounting principles, and that receipts and expenditures of the company are
+being made only in accordance with authorizations of management and directors of
+the company; and (iii) provide reasonable assurance
+
+                                       26
+<PAGE>
+
+regarding prevention or timely detection of unauthorized acquisition, use, or
+disposition of the company's assets that could have a material effect on the
+financial statements.
+
+Because of its inherent limitations, internal control over financial reporting
+may not prevent or detect misstatements. Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate.
+
+
+/s/ PricewaterhouseCoopers LLP
+
+PricewaterhouseCoopers LLP
+Boston, Massachusetts
+March 14, 2006
+
+
+
+
+
+
+
+
+                                       27
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                    AWARE, INC.
+                                            CONSOLIDATED BALANCE SHEETS
+                                  (IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA)
+
+                                                                                          DECEMBER 31,
+                                                                               -----------------------------------
+                                                                                    2005                2004
+                                                                               ----------------    ---------------
+<S>                                                                                   <C>                  <C>
+ASSETS
+Current assets:
+     Cash and cash equivalents.............................................           $13,068              $7,482
+     Short-term investments................................................            23,695              27,483
+     Accounts receivable (less allowance for doubtful accounts of $97
+         in 2005 and $110 in 2004).........................................             3,749               3,070
+     Inventories...........................................................                86                 143
+     Prepaid expenses and other current assets.............................               764                 417
+                                                                               ----------------    ---------------
+           Total current assets............................................            41,362              38,595
+                                                                               ----------------    ---------------
+
+Property and equipment, net................................................             8,075               8,287
+Investments................................................................                 -               3,301
+Other assets, net..........................................................               304                   -
+                                                                               ----------------    ---------------
+           Total assets....................................................           $49,741             $50,183
+                                                                               ================    ===============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+     Accounts payable......................................................              $607                $361
+     Accrued expenses......................................................               159                 157
+     Accrued compensation..................................................               722                 625
+     Accrued professional..................................................               212                 169
+     Deferred revenue......................................................               538                 115
+                                                                               ----------------    ---------------
+             Total current liabilities.....................................             2,238               1,427
+                                                                               ----------------    ---------------
+
+Commitments and contingent liabilities (Note 7)
+
+Stockholders' equity:
+     Preferred stock, $1.00 par value; 1,000,000 shares authorized,
+          none outstanding ................................................                 -                   -
+      Common stock, $.01 par value; shares authorized,
+             70,000,000 in 2005 and 2004; issued
+             and outstanding, 23,281,575in 2005 and 22,908,818 in 2004.....               233                 229
+      Additional paid-in capital...........................................            79,093              77,882
+      Accumulated deficit..................................................           (31,823)            (29,355)
+                                                                               ----------------    ---------------
+             Total stockholders' equity....................................            47,503              48,756
+                                                                               ----------------    ---------------
+             Total liabilities and stockholders' equity....................           $49,741             $50,183
+                                                                               ================    ===============
+
+
+               The accompanying notes are an integral part of the consolidated financial statements.
+
+                                                        28
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                 AWARE, INC.
+                                    CONSOLIDATED STATEMENTS OF OPERATIONS
+                                    (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+                                                                        YEARS ENDED DECEMBER 31,
+                                                            -----------------------------------------------
+                                                                  2005           2004            2003
+                                                            -----------------------------------------------
+<S>                                                               <C>            <C>            <C>
+Revenue:
+    Product sales.......................................           $5,431         $4,759         $4,309
+    Contract revenue....................................            6,719          7,575          2,840
+    Royalties...........................................            3,517          4,151          3,694
+                                                            -----------------------------------------------
+        Total revenue...................................           15,667         16,485         10,843
+                                                            -----------------------------------------------
+
+Costs and expenses:
+    Cost of product sales...............................              474            862          1,043
+    Cost of contract revenue............................            3,270          2,683          1,567
+    Research and development............................           10,170         10,013         12,074
+    Selling and marketing...............................            2,738          2,379          2,407
+    General and administrative..........................            2,633          2,473          2,387
+                                                            -----------------------------------------------
+        Total costs and expenses........................           19,285         18,410         19,478
+                                                            -----------------------------------------------
+
+Loss from operations....................................           (3,618)        (1,925)        (8,635)
+Interest income.........................................            1,150            558            597
+                                                            -----------------------------------------------
+Loss before provision for income taxes..................           (2,468)        (1,367)        (8,038)
+Provision for income taxes..............................                -              -              -
+                                                            -----------------------------------------------
+
+Net loss................................................          ($2,468)       ($1,367)       ($8,038)
+                                                            ===============================================
+
+
+Net loss per share - basic and diluted..................           ($0.11)        ($0.06)        ($0.35)
+
+
+Weighted average shares - basic and diluted.............           23,076         22,785         22,713
+
+
+            The accompanying notes are an integral part of the consolidated financial statements.
+
+                                                     29
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                     AWARE, INC.
+                                        CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                                   (IN THOUSANDS)
+
+
+                                                                              YEARS ENDED DECEMBER 31,
+                                                                 --------------------------------------------------
+                                                                        2005             2004            2003
+                                                                 --------------------------------------------------
+<S>                                                                    <C>              <C>             <C>
+Cash flows from operating activities:
+   Net loss..................................................          ($2,468)         ($1,367)        ($8,038)
+   Adjustments to reconcile net loss to net cash
+      used in operating activities:
+      Depreciation and amortization..........................              614              969           1,471
+      Provision for doubtful accounts.......................                 -              (50)           (150)
+      Increase (decrease) from changes in assets and
+         liabilities:
+      Accounts receivable....................................             (679)            (571)         (1,041)
+      Inventories............................................               57              (95)              2
+      Prepaid expenses and other current assets..............             (347)             146             (33)
+      Accounts payable.......................................              246              100             (13)
+      Accrued expenses.......................................              142              299            (591)
+      Deferred revenue.......................................              423             (356)            329
+                                                                 --------------------------------------------------
+           Net cash used in operating activities.............           (2,012)            (925)         (8,064)
+                                                                 --------------------------------------------------
+
+Cash flows from investing activities:
+    Purchases of property and equipment......................             (368)            (256)           (190)
+    Purchase of other assets.................................             (338)               -               -
+    Sales of investments.....................................           21,977           33,051          21,775
+    Purchases of investments.................................          (14,888)         (27,175)        (15,185)
+                                                                 --------------------------------------------------
+           Net cash provided by investing activities.........            6,383            5,620           6,400
+                                                                 --------------------------------------------------
+
+Cash flows from financing activities:
+    Proceeds from issuance of common stock ..................            1,215              483             100
+                                                                 --------------------------------------------------
+           Net cash provided by financing activities.........            1,215              483             100
+                                                                 --------------------------------------------------
+
+Increase (decrease) in cash and cash equivalents.............            5,586            5,178          (1,564)
+Cash and cash equivalents, beginning of year.................            7,482            2,304           3,868
+                                                                 --------------------------------------------------
+
+Cash and cash equivalents, end of year ......................          $13,068           $7,482          $2,304
+                                                                 ==================================================
+
+
+
+                The accompanying notes are an integral part of the consolidated financial statements.
+
+                                                         30
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                                    AWARE, INC.
+                                  CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                                                  (IN THOUSANDS)
+
+
+                                                  Common Stock          Additional                     Total
+                                            --------------------------   Paid-In      Accumulated   Stockholders'
+                                              Shares        Amount       Capital        Deficit        Equity
+                                            ---------------------------------------------------------------------
+<S>                                              <C>             <C>        <C>          <C>            <C>
+Balance at December 31, 2002..............       22,698          $227       $77,301      ($19,950)      $57,578
+
+    Exercise of common stock options .....            3             -            10                          10
+    Issuance of common stock under
+       employee stock purchase plan.......           49             1            89                          90
+    Net loss..............................                                                 (8,038)       (8,038)
+                                            ---------------------------------------------------------------------
+
+Balance at December 31, 2003..............       22,750           228        77,400       (27,988)       49,640
+
+    Exercise of common stock options .....          110             1           349                         350
+    Issuance of common stock under
+       employee stock purchase plan.......           49             -           133                         133
+    Net loss..............................                                                 (1,367)       (1,367)
+                                            ---------------------------------------------------------------------
+
+Balance at December 31, 2004..............       22,909           229        77,882       (29,355)       48,756
+
+    Exercise of common stock options .....          340             4         1,062                       1,066
+    Issuance of common stock under
+       employee stock purchase plan.......           33             -           149                         149
+    Net loss..............................                                                 (2,468)       (2,468)
+                                            ---------------------------------------------------------------------
+
+Balance at December 31, 2005..............       23,282          $233       $79,093      ($31,823)      $47,503
+                                            =====================================================================
+
+
+               The accompanying notes are an integral part of the consolidated financial statements.
+
+
+                                                        31
+</TABLE>
+
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   NATURE OF BUSINESS
+
+     We are a leader in the development and marketing of intellectual property
+     for broadband communications. Our principal offering to date has been
+     Asymmetric Digital Subscriber Line ("ADSL") technology for the
+     telecommunications industry. ADSL enables telephone companies to use their
+     existing copper telephone lines to offer broadband services. We license our
+     broadband technology on a nonexclusive and worldwide basis to semiconductor
+     companies that manufacture and sell integrated circuits that incorporate
+     our technology to equipment companies who incorporate those integrated
+     circuits into their products. We also offer ADSL hardware and software
+     products and biometrics, medical and digital imaging software products.
+
+2.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     BASIS OF PRESENTATION - The consolidated financial statements include the
+     accounts of Aware, Inc. and its subsidiary. All significant intercompany
+     transactions have been eliminated.
+
+     CASH AND CASH EQUIVALENTS - Cash and cash equivalents consist primarily of
+     demand deposits, money market funds, commercial paper, and discount notes
+     in highly liquid short-term instruments with original maturities of three
+     months or less from the date of purchase and are stated at cost, which
+     approximates market.
+
+     INVESTMENTS - At December 31, 2005 and 2004, we categorized all securities
+     as "available-for-sale," since we may liquidate these investments
+     currently. In calculating realized gains and losses, cost is determined
+     using specific identification. Unrealized gains and losses on
+     available-for-sale securities are excluded from earnings and reported in a
+     separate component of stockholders' equity. At December 31, 2005 and 2004,
+     unrealized gains and losses were not material. Gross realized gains on
+     available for sale securities were zero in 2005 and $665 in 2004 and
+     $11,912 in 2003. There were no gross realized losses during those periods.
+
+     At December 31, 2005 and December 31, 2004, we held $17.1 million and $15.8
+     million, respectively, of auction variable rate notes classified as
+     available-for-sale securities. Our investments in these securities are
+     recorded at cost, which approximates fair market value due to their
+     variable interest rates, which typically reset every 28 days, and, despite
+     the long-term nature of their stated contractual maturities, we have the
+     ability to quickly liquidate these securities. As a result, we had no
+     cumulative gross unrealized holding gains (losses) or gross realized gains
+     (losses) from these investments. All income generated from these
+     investments was recorded as interest income.
+
+     The amortized cost of securities, which approximates fair value, consists
+     of the following at December 31, 2005 and 2004 (in thousands):
+
+        Short-term Investments                      2005          2004
+        ----------------------                  ------------  ------------
+          Auction variable rate notes........       $17,082       $15,750
+          Corporate debt securities..........         1,262         2,586
+          U.S. agency securities.............         5,351         9,147
+                                                ------------  ------------
+            Total............................       $23,695       $27,483
+                                                ============  ============
+
+        Investments                                 2005          2004
+        -----------                             ------------  ------------
+          Corporate debt securities..........       $     -       $     -
+          U.S. agency securities.............             -         3,301
+                                                ------------  ------------
+            Total............................       $     -       $ 3,301
+                                                ============  ============
+
+     Short-term investments mature within three to twelve months, and
+     investments mature within one to two years.
+
+     ALLOWANCE FOR DOUBTFUL ACCOUNTS - Accounts are charged to the allowance for
+     doubtful accounts as they are deemed uncollectible based on a periodic
+     review of the accounts.
+
+                                       32
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     INVENTORIES - Inventories are stated at the lower of cost or market with
+     cost being determined by the first-in, first-out ("FIFO") method.
+
+     PROPERTY AND EQUIPMENT - Property and equipment are stated at cost.
+     Depreciation and amortization of property and equipment is provided using
+     the straight-line method over the estimated useful lives of the assets.
+     Upon retirement or sale, the costs of the assets disposed of and the
+     related accumulated depreciation are removed from the accounts and any
+     resulting gain or loss is included in the determination of income or loss.
+     Expenditures for repairs and maintenance are charged to expense as
+     incurred.
+
+     The estimated useful lives of assets used by us are:
+
+        Building and improvements......................  30 years
+        Building improvements..........................  5 to 20 years
+        Furniture and fixtures.........................  5 years
+        Computer, office & manufacturing equipment.....  3 years
+        Purchased software.............................  3 years
+
+     IMPAIRMENT OF LONG-LIVED ASSETS - We review long-lived assets for
+     impairment whenever events or changes in business circumstances indicate
+     that the carrying amount of the assets may not be fully recoverable or that
+     the useful lives of these assets are no longer appropriate. Each impairment
+     test is based on a comparison of the undiscounted cash flows to the
+     recorded value of the asset. If an impairment is indicated, the asset is
+     written down to its estimated fair value on a discounted cash flow basis.
+     The cash flow estimates used to determine the impairment, if any, reflect
+     our best estimates using appropriate assumptions and projections at that
+     time. We believe that no significant impairment of our long-lived assets
+     has occurred as of December 31, 2005 and 2004.
+
+     REVENUE RECOGNITION - Effective January 1, 2000, we adopted Securities and
+     Exchange Commission Staff Accounting Bulletin No. 101, "Revenue Recognition
+     in Financial Statements" ("SAB 101"), which was superseded by SAB 104
+     effective December 2003 and was adopted by us at that time. Accordingly,
+     our general revenue recognition policy is to recognize revenue when there
+     is persuasive evidence of an arrangement, the sales price is fixed or
+     determinable, collection of the related receivable is reasonably assured,
+     and delivery has occurred or services have been rendered.
+
+     We derive our revenue from three sources (i) product revenue, which
+     includes revenue from the sale of ADSL hardware and software products and
+     biometrics medical and digital imaging software products, (ii) contract
+     revenue, which includes patent, license and engineering service fees that
+     we receive under customer agreements, and (iii) royalties that we receive
+     under customer agreements. In addition to the above general revenue
+     recognition principles prescribed by SAB 104, our specific revenue
+     recognition policies for each revenue source are more fully described
+     below.
+
+     PRODUCT SALES. Product sales consist primarily of revenue from the sale of:
+     (i) hardware products, and (ii) software products.
+
+          o    Hardware products, including ADSL modules and ADSL test and
+               development systems are standalone products that are sold
+               independently of our technology licensing products. The terms of
+               sales generally do not contain provisions that obligate us to
+               provide additional products or services after shipment.
+               Additionally, we do not grant return rights other than normal
+               warranty rights of return. We recognize revenue: (i) upon
+               shipment when products are shipped FOB shipping point, and (ii)
+               upon delivery at the customer's location when products are
+               shipped FOB destination.
+
+          o    Software products consists of standard off-the-shelf software
+               that are generally sold to OEM customers for integration into
+               their products. The terms of sale generally do not contain
+               provisions that obligate us to provide additional products or
+               services after shipment, other than technical telephone support
+               for a brief period of time post sale. The cost of providing
+               technical support is inconsequential because of
+
+                                       33
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+               the limited scope of the support. Additionally, we do not grant
+               return rights other than normal warranty rights of return, and we
+               generally do not customize software for customers. We also sell
+               maintenance contracts that entitle customers to product updates.
+
+               We recognize software revenue by applying the principles set
+               forth in SAB 104 and American Institute of Certified Public
+               Accountants ("AICPA") Statement of Position No. 97-2, "Software
+               Revenue Recognition". Accordingly, we recognize revenue for
+               software licenses: (i) upon shipment when products are shipped
+               FOB shipping point, and (ii) upon delivery at the customer's
+               location when products are shipped FOB destination. We recognize
+               revenue for maintenance contracts ratably over the related
+               contract period.
+
+     CONTRACT REVENUE. We enter into nonexclusive development and license
+     agreements with semiconductor licensees that generally require us to
+     deliver technology and/or provide engineering services. In return, we
+     receive one or more of the following forms of consideration: (i) patent and
+     license fees; (ii) engineering service fees; and (iii) royalty payments.
+
+     License fees, patent fees or engineering services fees are typically paid
+     and the revenue is recognized during the product development period as
+     technology is delivered or as engineering services milestones are achieved.
+     Engineering milestones have historically been formulated to correlate with
+     the estimated level of effort and related costs. We classify license,
+     patent and engineering service fees as contract revenue.
+
+     When our agreements include both the delivery of licensing rights and
+     technology and the provision of engineering services, we combine the total
+     patent, license and engineering service fees to be paid under the
+     agreement. These total fees are recognized ratably over the expected
+     product development period, subject to the limitation that the cumulative
+     revenue recognized through the end of any period may not exceed cumulative
+     contract payments to date. We review assumptions regarding the product
+     development period on a regular basis and make adjustments as required. We
+     believe that this method represents the appropriate systematic method for
+     revenue recognition for this type of contract.
+
+     After customers enter into development and license agreements, they often
+     engage us to provide additional engineering work that is beyond the scope
+     of their original agreement. When customers request additional services,
+     both parties agree to engineering fees that are based on the level of
+     effort required. We recognize revenue from these agreements either as
+     engineering services are performed or as milestones are achieved.
+
+     ROYALTY REVENUE. Royalty revenue is generally recognized in the quarter in
+     which a report is received from a licensee detailing the shipments of
+     products incorporating our intellectual property. This report is typically
+     received in the quarter following sales of the licensed product by the
+     licensee. The terms of our licensing agreements generally require licensees
+     to give notification to us and to pay royalties within 45 to 60 days of the
+     end of the quarter during which sales of licensed products take place.
+
+     INCOME TAXES - We compute deferred income taxes based on the differences
+     between the financial statement and tax basis of assets and liabilities
+     using enacted rates in effect in the years in which the differences are
+     expected to reverse. We establish a valuation allowance to offset temporary
+     deductible differences, net operating loss carryforwards and tax credits
+     when it is more likely than not that the deferred tax assets will not be
+     realized.
+
+     CAPITALIZATION OF SOFTWARE COSTS - We capitalize certain internally
+     generated software development costs after technological feasibility of the
+     product has been established. No software costs were capitalized for the
+     years ended December 31, 2005, 2004 and 2003, because such costs incurred
+     subsequent to the establishment of technological feasibility, but prior to
+     commercial availability, were immaterial.
+
+     RESEARCH AND DEVELOPMENT COSTS - Costs incurred in the research and
+     development of the Company's products are expensed as incurred.
+
+     CONCENTRATION OF CREDIT RISK - At December 31, 2005 and 2004, we had cash
+     and investments, in excess of federally insured deposit limits of
+     approximately $36.7 million and $38.2 million, respectively.
+
+                                       34
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     Concentration of credit risk with respect to net accounts receivable
+     consists of $1.4 million, $0.6 million, and $0.3 million with three
+     customers at December 31, 2005 and $1.2 million, $0.6 million, and $0.3
+     million with three customers at December 31, 2004.
+
+     STOCK-BASED COMPENSATION - We grant stock options to our employees and
+     directors. Such grants are for a fixed number of shares with an exercise
+     price equal to the fair value of the shares at the date of grant. As
+     permitted by SFAS No. 123, "Accounting for Stock-Based Compensation", we
+     account for stock option grants in accordance with Accounting Principles
+     Board ("APB") Opinion No. 25, "Accounting for Stock Issued to Employees"
+     and FASB Interpretation No. 44 ("FIN 44"), "Accounting for Certain
+     Transactions Involving Stock Compensation." Accordingly, we have adopted
+     the provisions of SFAS No. 123 through disclosure only.
+
+     At December 31, 2005, we have four stock-based employee compensation plans,
+     which are described more fully in Note 6. No stock-based employee
+     compensation cost is reflected in net income, as all options granted under
+     those plans had an exercise price equal to the fair market value of the
+     underlying common stock on the date of grant. The following table
+     illustrates the pro forma effect on net loss and earnings per share if we
+     had applied the fair value recognition provisions of SFAS No. 123 and SFAS
+     No. 148, "Accounting for Stock-Based Compensation-Transition and Disclosure
+     - An Amendment of SFAS No. 123", to stock-based employee compensation (in
+     thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                                                               Year ended December 31,
+                                                                 ---------------------------------------------------
+                                                                        2005              2004             2003
+                                                                 ---------------------------------------------------
+<S>                                                                   <C>               <C>              <C>
+       Net loss - as reported.................................        ($2,468)          ($1,367)         ($8,038)
+       Deduct: Total stock-based employee compensation
+         expense determined under fair value based method
+         for all awards.......................................         10,113             8,277           21,107
+                                                                 ---------------------------------------------------
+       Net loss - pro forma...................................       ($12,581)          ($9,644)        ($29,145)
+
+       Basic loss per share - as reported.....................         ($0.11)           ($0.06)          ($0.35)
+       Basic loss per share - pro forma.......................         ($0.55)           ($0.42)          ($1.28)
+
+       Diluted loss per share - as reported...................         ($0.11)           ($0.06)          ($0.35)
+       Diluted loss per share - pro forma.....................         ($0.55)           ($0.42)          ($1.28)
+</TABLE>
+
+     The fair value of options on their grant date was measured using the
+     Black-Scholes option pricing model. Key assumptions used to apply this
+     pricing model are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                    Year ended December 31,
+                                                       -------------------------------------------------
+                                                            2005             2004             2003
+                                                       ---------------  ---------------  ---------------
+<S>                                                         <C>                <C>              <C>
+       Average risk-free interest rate.............             4.05%            3.74%            2.97%
+       Expected life of option grants..............         3-5 years          5 years          5 years
+       Expected volatility of underlying stock.....           67%-87%              93%              95%
+       Expected dividend yield.....................                 -                -                -
+</TABLE>
+
+     COMPUTATION OF EARNINGS PER SHARE - Basic earnings per share is computed by
+     dividing income available to common shareholders by the weighted average
+     number of common shares outstanding. Diluted earnings per share is computed
+     by dividing income available to common shareholders by the weighted average
+     number of common shares outstanding plus additional common shares that
+     would have been outstanding if dilutive potential common shares had been
+     issued. For the purposes of this calculation, stock options are considered
+     common stock equivalents in periods in which they have a dilutive effect.
+     Stock options that are antidilutive are excluded from the calculation.
+
+     USE OF ESTIMATES - The preparation of our financial statements in
+     conformity with generally accepted accounting principles requires us to
+     make estimates and assumptions that affect the reported amounts of assets
+
+                                       35
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     and liabilities and disclosure of contingent assets and liabilities at the
+     date of the financial statements and the reported amount of revenues and
+     expenses during the reporting period. Significant estimates include revenue
+     recognition, reserves for doubtful accounts, reserves for excess and
+     obsolete inventory, useful lives of fixed assets, valuation allowance for
+     deferred income tax assets, and accrued liabilities. Actual results could
+     differ from those estimates.
+
+     FAIR VALUE OF FINANCIAL INSTRUMENTS - The carrying amounts of cash and cash
+     equivalents, short-term investments, accounts receivable, accounts payable
+     and accrued expenses approximate fair value because of their short-term
+     nature.
+
+     COMPREHENSIVE INCOME (LOSS) - Comprehensive income (loss) is defined as the
+     change in equity of a business enterprise during a period from transactions
+     and other events and circumstances from non-owner sources, including
+     foreign currency translation adjustments and unrealized gains and losses on
+     marketable securities. For the years ended December 31, 2005, 2004 and
+     2003, comprehensive income (loss) was not materially different from net
+     income (loss).
+
+     ADVERTISING COSTS - Advertising costs are expensed as incurred and were not
+     material for 2005, 2004 and 2003.
+
+     RECENT ACCOUNTING PRONOUNCEMENTS - In December 2004, the Financial
+     Accounting Standards Board ("FASB") issued Statement of Financial
+     Accounting Standards No. 123 (revised 2004), "Share-Based Payment" ("SFAS
+     123(R)"). SFAS 123(R) is a revision of Statement of Financial Accounting
+     Standard No. 123, "Accounting for Stock-Based Compensation", supersedes
+     Accounting Principles Board Opinion No. 25, "Accounting for Stock Issued to
+     Employees", and amends FASB Statement No. 95, "Statement of Cash Flows".
+     SFAS 123(R) requires all share-based payments to employees, including
+     grants of employee stock options and stock purchases under employee stock
+     purchase plans, to be recognized in the financial statements based on their
+     fair values. In March 2005, the Securities and Exchange Commission (SEC)
+     issued Staff Accounting Bulletin No. 107 ("SAB 107"), which provides the
+     Staff's views regarding interactions between FAS 123(R) and certain SEC
+     rules and regulations and provides interpretations of the valuation of
+     share-based payments for public companies. In April 2005, the SEC adopted a
+     new rule amending the compliance dates for SFAS 123(R). In accordance with
+     the new rule, the accounting provisions of SFAS 123(R) are effective for us
+     in our fiscal year beginning January 1, 2006.
+
+     We will adopt SFAS 123(R) using the "modified-prospective method," which is
+     a method in which compensation cost is recognized beginning with the
+     effective date (a) based on the requirements of SFAS 123(R) for all
+     share-based payments granted after the effective date and (b) based on the
+     requirements of Statement No. 123 for all awards granted to employees prior
+     to the effective date of SFAS 123(R) that remain unvested on the effective
+     date. We expect to apply the Black-Scholes valuation model in determining
+     the fair value of share-based payments to employees, which will then be
+     amortized on a straight-line basis. We expect the adoption to have a
+     material impact on our consolidated statements of operations.
+
+     In May 2005, the FASB issued FASB Statement No. 154, "Accounting Changes
+     and Error Corrections, a replacement of APB Opinion No. 20, Accounting
+     Changes and FASB Statement No. 3, Reporting Accounting Changes in Interim
+     Financial Statements" ("FAS 154"). FAS 154 provides guidance on the
+     accounting for and reporting of accounting changes and error corrections.
+     It establishes, unless impracticable, retrospective application as the
+     required method for reporting a change in accounting principle in the
+     absence of explicit transition requirements specific to the newly adopted
+     accounting principle. FAS 154 also provides guidance for determining
+     whether retrospective application of a change in accounting principle is
+     impracticable and for reporting a change when retrospective application is
+     impracticable. The provisions of this Statement are effective for
+     accounting changes and corrections of errors made in fiscal periods
+     beginning after December 15, 2005. The adoption of the provisions of FAS
+     154 is not expected to have a material impact on the Company's financial
+     position or results of operations.
+
+     SEGMENTS - We organize ourselves as one segment reporting to the chief
+     operating decision-maker. We have sales outside of the United States, which
+     are described in Note 8. All long-lived assets are maintained in the United
+     States.
+
+                                       36
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+3.   INVENTORIES
+
+     Inventories consisted of the following at December 31 (in thousands):
+
+                                                   2005              2004
+                                              ---------------   --------------
+        Raw materials.....................          $86               $143
+                                              ===============   ==============
+
+4.   PROPERTY AND EQUIPMENT
+
+     Property and equipment consisted of the following at December 31 (in
+     thousands):
+
+<TABLE>
+<CAPTION>
+                                                                       2005             2004
+                                                                  ---------------  ----------------
+<S>                                                                     <C>               <C>
+        Land................................................             $1,080            $1,080
+        Building and improvements...........................              8,837             8,837
+        Computer equipment..................................              6,199             5,931
+        Purchased software..................................              2,935             2,839
+        Furniture and fixtures..............................                938               937
+        Office equipment....................................                349               346
+        Manufacturing equipment.............................                268               268
+                                                                  ---------------  ----------------
+           Total............................................             20,606            20,238
+        Less accumulated depreciation and amortization......            (12,531)          (11,951)
+                                                                  ---------------  ----------------
+           Property and equipment, net......................             $8,075            $8,287
+                                                                  ===============  ================
+</TABLE>
+
+     Depreciation expense amounted to $0.6 million, $0.9 million and $1.3
+     million in each of the years ended December 31, 2005, 2004, and 2003,
+     respectively.
+
+5.   INCOME TAXES
+
+     Deferred tax assets are attributable to the following at December 31 (in
+     thousands):
+
+<TABLE>
+<CAPTION>
+                                                                            2005            2004
+                                                                        --------------  --------------
+<S>                                                                          <C>             <C>
+      Federal net operating loss carryforwards......................         $16,986         $16,625
+      Research and development and other tax credit carryforwards...          14,089          12,818
+      State net operating loss carryforwards........................             382             554
+      Capitalized research and development costs....................          10,907          10,305
+      Other ........................................................             613             659
+                                                                        --------------  --------------
+         Total......................................................          42,977          40,961
+      Less valuation allowance......................................         (42,977)        (40,961)
+                                                                        --------------  --------------
+         Deferred tax assets, net...................................         $     -         $     -
+                                                                        ==============  ==============
+</TABLE>
+
+     A reconciliation of the U.S. federal statutory rate to the effective tax
+     rate is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                              Year ended December 31,
+                                                                     ------------------------------------------
+                                                                          2005          2004           2003
+                                                                     -------------  ------------  -------------
+<S>                                                                        <C>            <C>           <C>
+      Federal statutory rate.....................................          (34%)          (34%)         (34%)
+      State rate, net of federal benefit.........................           (8)            (7)           (6)
+      Tax credits................................................          (47)           (77)          (14)
+      Change in valuation allowance..............................           77             98            50
+      Other                                                                 12             20             4
+                                                                     -------------  ------------  -------------
+         Effective tax rate......................................            0%             0%            0%
+                                                                     =============  ============  =============
+</TABLE>
+
+     During 2002, we recorded a valuation allowance of $38.1 million against all
+     of our deferred tax assets and in 2003 we increased the valuation allowance
+     by $3.7 million to $41.8 million. The valuation allowance was recorded
+     against deferred tax assets because we determined that it was more likely
+     than not that all of the deferred tax assets may not be realized.
+
+                                       37
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     In 2004, we increased the valuation allowance by $0.5 million primarily as
+     a result of additional operating losses and tax credits, and reduced the
+     valuation allowance by $1.4 million as a result of expiring state net
+     operating loss carryforwards. In 2005, we increased the valuation allowance
+     by $2.3 million primarily as a result of additional operating losses and
+     tax credits, and reduced the valuation allowance by $0.3 million as a
+     result of expiring state net operating loss carryforwards
+
+     We have incurred operating losses in 2005, 2004, and 2003. At December 31,
+     2005 and 2004, these cumulative factors resulted in our continued decision
+     that it is more likely than not that all of our deferred tax assets may not
+     be realized. If we generate sustained future taxable income against which
+     these tax attributes may be applied, some portion or all of the valuation
+     allowance would be reversed. If the valuation allowance is reversed
+     approximately $22.1 million would be recorded as a credit to additional
+     paid in capital reflecting the benefit of deductions from the exercise of
+     stock options.
+
+     As of December 31, 2005, we had federal net operating loss and research and
+     experimentation credit carryforwards of approximately $50.0 million and
+     $10.6 million respectively, which may be available to offset future federal
+     income tax liabilities and expire at various dates from 2007 through 2025.
+     In addition, at December 31, 2005, we had approximately $6.1 million and
+     $5.3 million of state net operating losses and state research and
+     development and investment tax carryforwards, respectively, which expire at
+     various dates from 2006 through 2020. Ownership changes, if any, as defined
+     in the Internal Revenue Code, may limit the amount of net operating loss
+     carryforwards that can be utilized annually to offset future taxable
+     income.
+
+6.   EQUITY AND STOCK COMPENSATION PLANS
+
+     At December 31, 2005, we have four stock-based compensation plans, which
+     are described below:
+
+     FIXED STOCK OPTION PLANS - We have three fixed option plans. Under the 1990
+     Incentive and Nonstatutory Stock Option Plan ("1990 Plan"), we may grant
+     incentive stock options or nonqualified stock options to our employees and
+     directors for up to 2,873,002 shares of common stock. Under the 1996 Stock
+     Option Plan ("1996 Plan"), we may grant incentive stock options or
+     nonqualified stock options to our employees and directors for up to
+     6,100,000 shares of common stock. Under the 2001 Nonqualified Stock Plan
+     ("2001 Plan"), we may grant nonqualified stock options or stock awards to
+     our employees and directors for up to 8,000,000 shares of common stock.
+     Under all three plans, options are granted at an exercise price as
+     determined by the Board of Directors and have a maximum term of ten years.
+     Our options generally vest over three to five years, although we have
+     granted options that are 50% or fully vested on the date of grant. As of
+     December 31, 2005, there were 5,224,580 shares available for grant under
+     the 2001 Plan, 133,117 shares available for grant under the 1996 Plan, and
+     no shares available under the 1990 Plan. In February 2005, we granted fully
+     vested stock options to our directors and certain of our officers to
+     purchase an aggregate of 1,658,500 shares of our common stock. The options
+     were granted with exercise prices equal to the fair market value of our
+     common stock on the dates of grant.
+
+     A summary of the transactions of our three fixed stock option plans for the
+     years ended December 31, 2005, 2004, and 2003 are presented below:
+
+<TABLE>
+<CAPTION>
+                                               2005                         2004                        2003
+                                      ------------------------  --------------------------  -------------------------
+                                                    Weighted                   Weighted                   Weighted
+                                                     Average                    Average                    Average
+                                                    Exercise                   Exercise                   Exercise
+                                         Shares       Price         Shares       Price         Shares       Price
+                                      ------------------------  --------------------------  -------------------------
+<S>                                     <C>            <C>         <C>            <C>         <C>           <C>
+Outstanding at beginning of year...     4,509,808      $3.95       3,467,929      $4.38       6,842,546     $17.47
+Granted............................     2,161,500       6.10       1,305,500       2.96       2,993,963       3.22
+Exercised..........................      (339,884)      3.13        (110,087)      3.18          (2,937)      3.54
+Forfeited or cancelled.............       (46,818)      4.05        (153,534)      5.83      (6,365,643)     17.91
+                                      ------------------------  --------------------------  -------------------------
+Outstanding at end of year.........     6,284,606      $4.73       4,509,808      $3.95       3,467,929      $4.38
+                                      ========================  ==========================  =========================
+
+Options exercisable at year end....     5,598,113      $4.78       3,409,927      $4.23       2,356,254      $4.84
+</TABLE>
+
+                                       38
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     All options granted during the years ended December 31, 2005, 2004 and 2003
+     had exercise prices equal to the fair market value of the Company's common
+     stock on the date of grant, and the weighted average grant date fair values
+     of options granted were $4.25, $2.16 and $2.37, respectively.
+
+     The following table summarizes information about stock options outstanding
+     at December 31, 2005:
+
+<TABLE>
+<CAPTION>
+                                         Options Outstanding                         Options Exercisable
+                       -----------------------------------------------------  ----------------------------------
+                            Number         Weighted-Avg.                          Number
+       Range of         Outstanding at      Remaining         Weighted-Avg.     Exercisable     Weighted-Avg.
+   Exercise Prices         12/31/05      Contractual Life    Exercise Price     At 12/31/05     Exercise Price
+   ---------------     -----------------------------------------------------  ----------------------------------
+<S>                        <C>                 <C>                <C>            <C>                 <C>
+  $0 to 5...........       3,927,189           7.9                $3.16          3,508,066           $3.17
+   5 to 10..........       2,222,750           8.0                 6.16          1,955,380            6.14
+  10 to 20..........          43,417           2.0                10.57             43,417           10.57
+  20 to 30..........          21,750           4.8                20.38             21,750           20.38
+  30 to 40..........          45,000           3.5                33.56             45,000           33.56
+  40 to 50..........          14,500           4.2                44.02             14,500           44.02
+  50 to 70..........          10,000           3.8                58.06             10,000           58.06
+                       -----------------------------------------------------  ----------------------------------
+                           6,284,606           7.8                $4.73          5,598,113           $4.78
+                       =====================================================  ==================================
+</TABLE>
+
+     EMPLOYEE STOCK PURCHASE PLAN - In June 1996, we adopted an Employee Stock
+     Purchase Plan (the "ESPP Plan") under which eligible employees could
+     purchase common stock at a price equal to 85% of the lower of the fair
+     market value of the common stock at the beginning or end of each six-month
+     offering period. On November 29, 2005 we amended the ESPP Plan to provide
+     that eligible employees may purchase common stock at a price equal to 95%
+     of the fair market value of the common stock as of the end of each
+     six-month offering period. Participation in the ESPP Plan is limited to 6%
+     of an employee's compensation, may be terminated at any time by the
+     employee and automatically ends on termination of employment. A total of
+     350,000 shares of common stock have been reserved for issuance. As of
+     December 31, 2005 there were 139,807 shares available for future issuance
+     under the ESPP Plan. We issued 32,873, 48,437 and 49,186 common shares
+     under the ESPP Plan in 2005, 2004 and 2003, respectively.
+
+     STOCKHOLDER RIGHTS PLAN - In October 2001, our board of directors adopted a
+     stockholder rights plan and declared a dividend distribution of one share
+     purchase right (a "Right") for each outstanding share of our common stock
+     to stockholders of record at the close of business on October 15, 2001.
+     Each share of common stock issued after that date also will carry with it
+     one Right, subject to certain exceptions. Each Right, when it becomes
+     exercisable, will entitle the record holder to purchase from us one
+     ten-thousandth of a share of series A preferred stock at an exercise price
+     of $40.00 subject to adjustment.
+
+     The Rights become exercisable upon the earliest of the following dates: (i)
+     the date on which we first publicly announce that a person or group has
+     become an acquiring person, or (ii) the date, if any, that our board of
+     directors may designate following the commencement of, or first public
+     disclosure of an intent to commence, a tender or exchange offer which could
+     result in the potential buyer becoming a beneficial owner of 15% or more of
+     our outstanding common stock. Under these circumstances, holders of Rights
+     will be entitled to purchase, for the exercise price, the preferred stock
+     equivalent of common stock having a market value of two times the exercise
+     price. The Rights expire on October 2, 2011, and may be redeemed by us for
+     $.001 per Right.
+
+     EMPLOYEE STOCK OPTION EXCHANGE PROGRAM - On March 3, 2003, we commenced an
+     offer to exchange outstanding stock options with eligible employees. Under
+     the terms of the program, eligible employees had the right to tender for
+     cancellation all stock options that they held with an exercise price above
+     $3.00 per share by April 1, 2003. We accepted for exchange options to
+     purchase an aggregate of 6,162,952 shares of our common stock. Subject to
+     the terms and conditions of the offer, we were obligated to issue new
+     options to purchase an aggregate of up to 3,081,563 shares of our common
+     stock. On October 14, 2003, we granted options to purchase an aggregate of
+     2,854,213 shares of our common stock at the then current market value of
+     $3.27 per share in connection with the offer to exchange. The replacement
+     options were granted more than six months and one day after the
+     cancellation of the old options. As a result, the new options were
+     considered a fixed award and did not result in any compensation expense.
+
+                                       39
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+7.   COMMITMENTS AND CONTINGENT LIABILITIES
+
+     LEASE COMMITMENTS - We own our principal office and research facility in
+     Bedford, Massachusetts, which we have occupied since November 1997. We
+     conduct a portion of our activities in leased facilities in Lafayette,
+     California under a non-cancelable operating lease that expires in 2007. The
+     following is a schedule of future minimum rental payments (in thousands):
+
+       YEAR ENDED DECEMBER 31,
+       2006.................................          $19
+       2007.................................           11
+                                               -----------
+         Total minimum lease payments.......          $30
+                                               ===========
+
+     Rental expense was approximately $26,000, $35,000 and $45,000 in 2005, 2004
+     and 2003, respectively.
+
+     LITIGATION - There are no material pending legal proceedings to which we
+     are a party or to which any of our properties are subject which, either
+     individually or in the aggregate, are expected to have a material adverse
+     effect on our business, financial position or results of operations.
+
+     GUARANTEES AND INDEMNIFICATION OBLIGATIONS - We enter into licensing
+     agreements in the ordinary course of business that require us: i) to
+     perform under the terms of the contracts, ii) to protect the
+     confidentiality of our customers' intellectual property, and iii) to
+     indemnify customers, including indemnification against third party claims
+     alleging infringement of intellectual property rights. We also have
+     agreements with each of our directors and executive officers to indemnify
+     such directors or executive officers, to the extent legally permissible,
+     against all liabilities reasonably incurred in connection with any action
+     in which such individual may be involved by reason of such individual being
+     or having been a director or officer of the Company.
+
+     Given the nature of the above obligations and agreements, we are unable to
+     make a reasonable estimate of the maximum potential amount that we could be
+     required to pay. Historically, we have not made any significant payments on
+     the above guarantees and indemnifications and no amount has been accrued in
+     the accompanying consolidated financial statements with respect to these
+     guarantees and indemnifications.
+
+8.   BUSINESS SEGMENTS AND MAJOR CUSTOMERS
+
+     We manage the business as one segment and conduct our operations in the
+     United States.
+
+     We sell our products and technology to domestic and international
+     customers. Revenues were generated from the following geographic regions
+     (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                           Year ended December 31,
+                                               -----------------------------------------------
+                                                    2005            2004            2003
+                                               ---------------  --------------  --------------
+<S>                                                  <C>              <C>             <C>
+      United States..........................         $9,202          $10,101          $8,049
+      Germany................................          4,926            4,910           1,990
+      Rest of world..........................          1,539            1,474             804
+                                               ---------------  --------------  --------------
+                                                     $15,667          $16,485         $10,843
+                                               ===============  ==============  ==============
+</TABLE>
+
+     The portion of total revenue that was derived from major customers was as
+     follows:
+
+<TABLE>
+<CAPTION>
+                                                           Year ended December 31,
+                                               -----------------------------------------------
+                                                    2005             2004            2003
+                                               ---------------  --------------  --------------
+<S>                                                      <C>              <C>             <C>
+       Customer A............................            20%              28%             27%
+       Customer B............................            30%              28%             17%
+       Customer C............................             1%               7%             14%
+</TABLE>
+
+                                       40
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+9.   EMPLOYEE BENEFIT PLAN
+
+     In 1994, we established a qualified 401(k) Retirement Plan (the "Plan")
+     under which employees are allowed to contribute certain percentages of
+     their pay, up to the maximum allowed under Section 401(k) of the Internal
+     Revenue Code. Our contributions to the Plan are at the discretion of the
+     Board of Directors. Our contributions were approximately $289,000, $274,000
+     and $284,000 in 2005, 2004 and 2003, respectively.
+
+10.  NET LOSS PER SHARE
+
+     Net loss per share is calculated as follows (in thousands, except per share
+     data):
+
+<TABLE>
+<CAPTION>
+                                                                       Year ended December 31,
+                                                           ----------------------------------------------
+                                                                2005            2004            2003
+                                                           --------------  --------------  --------------
+<S>                                                             <C>              <C>            <C>
+       Net loss.........................................       ($2,468)         ($1,367)       ($8,038)
+
+       Weighted average common shares outstanding.......        23,076           22,785         22,713
+       Additional dilutive common stock equivalents ....             -                -              -
+                                                           --------------  --------------  --------------
+       Diluted shares outstanding ......................        23,076           22,785         22,713
+                                                           ==============  ==============  ==============
+
+       Net loss per share - basic.......................        ($0.11)          ($0.06)        ($0.35)
+       Net loss per share - diluted.....................        ($0.11)          ($0.06)        ($0.35)
+</TABLE>
+
+     For the years ended December 31, 2005, 2004 and 2003, potential common
+     stock equivalents of 1,824,826, 356,411 and 10,525, respectively, were not
+     included in the per share calculation for diluted EPS, because we had a net
+     loss and the effect of their inclusion would be anti-dilutive. For the
+     years ended December 31, 2005, 2004 and 2003, options to purchase
+     2,340,167, 280,605 and 3,352,283 shares of common stock at average weighted
+     prices of $7.36, $16.06 and $4.45 per share, respectively, were
+     outstanding, but were not included in the computation of diluted EPS
+     because the options' exercise prices were greater than the average market
+     price of the common shares and thus would be anti-dilutive.
+
+
+                                       41
+<PAGE>
+
+                                   AWARE, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+11.  QUARTERLY RESULTS OF OPERATIONS - UNAUDITED
+
+     The following table presents unaudited quarterly operating results for each
+     of our quarters in the two-year period ended December 31, 2005 (in
+     thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                                              2005 Quarters Ended
+                                            -----------------------------------------------------------
+                                              March 31       June 30      September 30    December 31
+                                            -----------------------------------------------------------
+<S>                                              <C>            <C>            <C>            <C>
+Revenue.................................         $4,224         $2,683         $5,087         $3,673
+Gross profit............................          3,324          1,903          4,104          2,592
+Income (loss) from operations...........           (531)        (1,794)           252         (1,545)
+Net income (loss).......................           (314)        (1,522)           561         (1,193)
+
+Net income (loss) per share - basic.....         ($0.01)        ($0.07)         $0.02         ($0.05)
+Net income (loss) per share - diluted ..         ($0.01)        ($0.07)         $0.02         ($0.05)
+
+                                                              2004 Quarters Ended
+                                            -----------------------------------------------------------
+                                              March 31       June 30      September 30    December 31
+                                            -----------------------------------------------------------
+
+Revenue.................................         $3,602         $3,725         $4,561         $4,597
+Gross profit............................          2,598          2,877          3,687          3,778
+Income (loss) from operations...........         (1,270)          (923)            21            247
+Net income (loss).......................         (1,147)          (808)           164            424
+
+Net income (loss) per share - basic.....         ($0.05)        ($0.04)         $0.01          $0.02
+Net income (loss) per share - diluted ..         ($0.05)        ($0.04)         $0.01          $0.02
+</TABLE>
+
+
+                                       42
+<PAGE>
+<TABLE>
+<CAPTION>
+<S>                                                                           <C>
+                                               FINANCIAL STATEMENT SCHEDULE
+
+
+              SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS - YEARS ENDED DECEMBER 31, 2005, 2004, AND 2003
+                                                      (IN THOUSANDS)
+
+
+-------------------------------------------------------------------------------------------------------------------------
+          COL. A                  COL. B           COL. C(1)          COL. C(2)           COL. D            COL. E
+-------------------------------------------------------------------------------------------------------------------------
+                                                             ADDITIONS
+                                               -------------------------------------
+                                  BALANCE AT        CHARGED TO           CHARGED         DEDUCTIONS         BALANCE
+                                  BEGINNING         COSTS AND           TO OTHER         CHARGED TO          AT END
+                                  OF PERIOD         EXPENSES            ACCOUNTS          RESERVES         OF PERIOD
+-------------------------------------------------------------------------------------------------------------------------
+Allowance for doubtful
+accounts receivable:
+   2005.................               $110                 -                  -                $13               $97
+   2004.................               $927              ($50)                 -               $767              $110
+   2003.................             $1,077             ($150)                 -                  -              $927
+
+
+Inventory reserves:
+   2005.................               $284                 -                  -                  -              $284
+   2004.................               $284                 -                  -                  -              $284
+   2003.................               $284                 -                  -                  -              $284
+
+
+
+
+
+                                                            43
+</TABLE>
+
+<PAGE>
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+Not applicable.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+CONCLUSION REGARDING THE EFFECTIVENESS OF DISCLOSURE CONTROLS AND PROCEDURES
+
+Under the supervision and with the participation of our management, including
+our chief executive officer and chief financial officer, we conducted an
+evaluation of our disclosure controls and procedures, as such term is defined
+under Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934, as
+amended (the Exchange Act). Based on this evaluation, our chief executive
+officer and chief financial officer concluded that our disclosure controls and
+procedures were effective as of the end of the period covered by this annual
+report.
+
+EVALUATION OF CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+Under the supervision and with the participation of our management, including
+our chief executive officer and chief financial officer, we concluded that there
+were no changes in our internal control over financial reporting that occurred
+during the quarterly period ended December 31, 2005 that have materially
+affected, or are reasonably likely to materially affect, our internal control
+over financial reporting.
+
+MANAGEMENT'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+Our management is responsible for establishing and maintaining adequate internal
+control over financial reporting, as such term is defined in Exchange Act Rule
+13a-15(f). Under the supervision and with the participation of our management,
+including our principal executive officer and principal financial officer, we
+conducted an evaluation of the effectiveness of our internal control over
+financial reporting based on the framework in INTERNAL CONTROL - INTEGRATED
+FRAMEWORK issued by the Committee of Sponsoring Organizations of the Treadway
+Commission. Based on our evaluation under the framework in INTERNAL CONTROL --
+INTEGRATED FRAMEWORK, our management concluded that our internal control over
+financial reporting was effective as of December 31, 2005.
+
+Our management's assessment of the effectiveness of the Company's internal
+control over financial reporting as of December 31, 2005 has been audited by
+PricewaterhouseCoopers LLP, an independent registered public accounting firm, as
+stated in their report which is included herein.
+
+ITEM 9B. OTHER INFORMATION
+
+On March 9, 2006, the Board of Directors of Aware, Inc. approved a Compensation
+Committee recommendation of an annual retainer of $15,000 each to the
+non-employee directors of Aware, Inc. payable at the annual meeting of
+shareholders. On March 9, 2006, the Board of Directors of Aware, Inc. approved a
+Compensation Committee recommendation of a one-time bonus of $25,000 each to
+Michael A. Tzannes, CEO and Edmund C. Reiter, President in recognition of their
+roles in the completion of new licensing business relationships. On March 9,
+2006, the Board of Directors of Aware, Inc. approved a Compensation Committee
+recommendation of a potential bonus for 2006 of up to $100,000 each to Michael
+A. Tzannes, CEO and Edmund C. Reiter, President subject to the Board of
+Directors discretion based upon Aware, Inc. reaching certain financial targets
+in 2006.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information required by Item 10 of Form 10-K is incorporated by reference
+from the information contained in the sections captioned "DIRECTORS AND
+EXECUTIVE OFFICERS", "CORPORATE GOVERNANCE" and "SECTION 16(A) BENEFICIAL
+OWNERSHIP REPORTING COMPLIANCE" in the Proxy Statement that will be delivered to
+our shareholders in connection with our May 24, 2006 Annual Meeting of
+Shareholders.
+
+                                       44
+<PAGE>
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The information required by Item 11 of Form 10-K is incorporated by reference
+from the information contained in the section captioned "COMPENSATION OF
+DIRECTORS AND EXECUTIVE OFFICERS" in the Proxy Statement that will be delivered
+to our shareholders in connection with our May 24, 2006 Annual Meeting of
+Shareholders.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+RELATED STOCKHOLDER MATTERS
+
+The information required by Item 12 of Form 10-K is incorporated by reference
+from the information contained in the section captioned "SECURITY OWNERSHIP OF
+CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS" in the
+Proxy Statement that will be delivered to our shareholders in connection with
+our May 24, 2006 Annual Meeting of Shareholders.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+The information, if any, required by Item 13 of Form 10-K is incorporated by
+reference from the information contained in the section captioned "CERTAIN
+RELATIONSHIPS AND RELATED TRANSACTIONS" in the Proxy Statement that will be
+delivered to our shareholders in connection with our May 24, 2006 Annual Meeting
+of Shareholders.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+The information required by Item 14 of Form 10-K is incorporated by reference
+from the information contained in the section captioned "INDEPENDENT
+ACCOUNTANTS" in the Proxy Statement that will be delivered to our shareholders
+in connection with our May 24, 2006 Annual Meeting of Shareholders.
+
+
+
+                                       45
+<PAGE>
+
+                                     PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+The following documents are filed as part of this report:
+
+(A) Financial Statements and Exhibits:
+                                                                           PAGE
+  (1) Report of Independent Registered Public Accounting Firm............   26
+  Consolidated Balance Sheets as of December 31, 2005 and 2004...........   28
+  Consolidated Statements of Operations for each of the three
+     years in the period ended December 31, 2005.........................   29
+  Consolidated Statements of Cash Flows for each of the
+     three years in the period ended December 31, 2005...................   30
+  Consolidated Statements of Stockholders' Equity for each of
+     the three years in the period ended December 31, 2005...............   31
+  Notes to Consolidated Financial Statements.............................   32
+  (2) Schedule II - Valuation and Qualifying Accounts....................   43
+
+  (3) Exhibits:
+
+      Exhibits have been filed separately with the United States Securities and
+      Exchange Commission in connection with this Annual Report on Form 10-K or
+      have been incorporated into this Report by reference. Copies of such
+      exhibits may be obtained from us upon request.
+
+      EXHIBIT NO.   DESCRIPTION OF EXHIBIT
+      -----------   ----------------------
+
+      3.1           Amended and Restated Articles of Organization (filed as
+                    Exhibit 3.2 to the Company's Registration Statement on Form
+                    S-1, File No. 333-6807 and incorporated herein by
+                    reference).
+      3.2           Articles of Amendment to the Articles of Organization (filed
+                    as Exhibit 3.3 to the Company's Form 10-Q for the quarter
+                    ended September 30, 2002 and incorporated herein by
+                    reference).
+      3.3           Amended and Restated By-Laws (filed as Exhibit 3.3 to the
+                    Company's Form 10-Q for the quarter ended June 30, 1996 and
+                    incorporated herein by reference).
+      4.1           Rights Agreement dated as of October 2, 2001 between Aware,
+                    Inc. and Equiserve Trust Company, N.A., as Rights Agent
+                    (filed as Exhibit 4(a) to the Company's Form 8-K filed with
+                    the Securities and Exchange Commission on October 3, 2001
+                    and incorporated herein by reference).
+      4.2           Terms of Series A Participating Cumulative Preferred Stock
+                    of Aware, Inc. (attached as Exhibit A to the Rights
+                    Agreement filed as Exhibit 4.1 hereto).
+      4.3           Form of Right Certificate (attached as Exhibit B to the
+                    Rights Agreement filed as Exhibit 4.1 hereto).
+      10.1          1990 Incentive and Non-Statutory Stock Option Plan (filed as
+                    Exhibit 10.2 to the Company's Registration Statement on Form
+                    S-1, File No. 333-6807 and incorporated herein by
+                    reference).
+      10.2          1996 Stock Option Plan, as amended and restated (filed as
+                    Annex A to the Company's Definitive Proxy Statement filed
+                    with the Securities and Exchange Commission on April 11,
+                    2000 and incorporated herein by reference).
+      10.3          1996 Employee Stock Purchase Plan, as amended and restated
+                    (filed as Exhibit 99.1 to the Company's Current Report on
+                    Form 8-K filed with the Securities and Exchange Commission
+                    on November 11, 2005 and incorporated herein by reference).
+      10.4          Form of Director and Officer Indemnification Agreement
+                    (filed as Exhibit 10.4 to the Company's Form 10-K for the
+                    year ended December 31, 2002 and incorporated herein by
+                    reference).
+      10.5          2001 Nonqualified Stock Plan (filed as Exhibit 99(d)(4) to
+                    the Company's Schedule TO filed with the Securities and
+                    Exchange Commission on March 3, 2003 and incorporated herein
+                    by reference).
+
+                                       46
+<PAGE>
+
+      21.1          Subsidiaries of Registrant.
+      23.1          Consent of Independent Registered Public Accounting Firm.
+      31.1          Certification of Chief Executive Officer pursuant to Section
+                    302 of the Sarbanes-Oxley Act of 2002.
+      31.2          Certification of Chief Financial Officer pursuant to Section
+                    302 of the Sarbanes-Oxley Act of 2002.
+      32.1          Certification of Chief Executive Officer and Chief Financial
+                    Officer pursuant to Section 906 of the Sarbanes-Oxley Act of
+                    2002.
+
+
+
+
+                                       47
+<PAGE>
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                          AWARE, INC.
+
+
+                                          By: /s/ Michael A. Tzannes
+                                              ----------------------------------
+                                          Michael A. Tzannes, Chief Executive
+                                          Officer
+
+                                          Date: March 14, 2006
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities indicated on the 14th day of March 2006.
+
+         SIGNATURE                                      TITLE
+         ---------                                      -----
+
+/s/ Michael A. Tzannes                     Chief Executive Officer and Director
+--------------------------------
+Michael A. Tzannes                         (Principal Executive Officer)
+
+
+/s/ Edmund C. Reiter                       President and Director
+--------------------------------
+Edmund C. Reiter
+
+
+/s/ Robert J. Weiskopf                     Chief Financial Officer
+--------------------------------           (Principal Financial and Accounting
+Robert J. Weiskopf                         Officer)
+
+
+/s/ John K. Kerr                           Chairman of the Board of Directors
+--------------------------------
+John K. Kerr
+
+
+/s/ Frederick D. D'Alessio                 Director
+--------------------------------
+Frederick D. D'Alessio
+
+
+/s/ G. David Forney, Jr.                   Director
+--------------------------------
+G. David Forney, Jr.
+
+
+/s/ Adrian F. Kruse                        Director
+--------------------------------
+Adrian F. Kruse
+
+
+                                       48
+</TEXT>
+</DOCUMENT>

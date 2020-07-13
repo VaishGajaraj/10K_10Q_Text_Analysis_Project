@@ -1,0 +1,3154 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>q40110k.txt
+<DESCRIPTION>FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2001
+<TEXT>
+                                  Form 10-K
+                     SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C.  20549
+
+(Mark One)
+  X  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ ---
+                                 ACT OF 1934
+
+                  For the fiscal year ended December 31, 2001
+
+                                      OR
+
+     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+ ---
+                              EXCHANGE ACT OF 1934
+
+          For the transition period from............to.................
+
+                         Commission file number 1-4482
+
+                             ARROW ELECTRONICS, INC.
+           ------------------------------------------------------
+           (Exact name of Registrant as specified in its charter)
+
+           New York                                              11-1806155
+-------------------------------                            ---------------------
+(State or other jurisdiction of                            (I.R.S. Employer
+ incorporation or organization)                             Identification
+                                                            Number)
+
+25 Hub Drive, Melville, New York                                   11747
+--------------------------------                           ---------------------
+(Address of principal executive offices)                        (Zip Code)
+
+Registrant's telephone number, including area code            (516) 391-1300
+                                                           ---------------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                          Name of Each Exchange on
+Title of Each Class                          Which Registered
+-------------------                          ----------------
+Common Stock, $1 par value                New York Stock Exchange
+Preferred Share Purchase Rights           New York Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes  X   No
+                                                    ---     ---
+   Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.   [ X ]
+
+   The aggregate market value of voting stock held by nonaffiliates of the
+registrant as of March 1, 2002 was $2,658,065,103.
+
+   Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date.
+
+   Common Stock, $1 par value: 100,117,047 shares outstanding at March 1,
+2002.
+
+The following documents are incorporated herein by reference:
+
+1. Proxy Statement to be filed in connection with Annual Meeting of
+Shareholders to be held May 23, 2002 (incorporated in Part III).
+
+                                    PART I
+
+Item 1.  Business.
+         --------
+
+Arrow Electronics, Inc. (the "company"), incorporated in New York in 1946, is
+one of the world's largest providers of electronic components and computer
+products to industrial and commercial customers and a leading provider of
+services, including materials planning, programming and assembly services,
+inventory management, a comprehensive suite of online supply chain tools, and
+design services, to the electronics industry.  As one of the electronics
+distribution industry's leaders in operating systems, employee productivity,
+value-added programs, and total quality assurance, the company is the
+distributor of choice for over 600 suppliers.
+
+The company's global distribution network spans the world's three largest
+electronics markets - the Americas, Europe, and the Asia/Pacific region.  The
+company serves a diversified base of original equipment manufacturers (OEMs),
+contract manufacturers (CMs), and commercial customers worldwide.  OEMs
+include manufacturers of computer and office products, industrial equipment
+(including machine tools, factory automation, and robotic equipment),
+telecommunications products, aircraft and aerospace equipment, and scientific
+and medical devices.  Commercial customers are mainly value-added resellers
+(VARs) of computer systems. The company maintains over 200 sales facilities
+and 23 distribution centers in 40 countries and territories.  Through this
+network, the company can offer one of the broadest line cards in the industry
+and a wide range of value-added services to help customers reduce their time
+to market, lower their total cost of ownership, and enhance their overall
+competitiveness.
+
+In 2001, Arrow launched a suite of Internet design and supply chain services,
+including Arrow Risk Manager, Arrow Alert, and Arrow Collaborator.  These
+interactive and real-time resources prevent costly design delays, provide
+immediate notification of changes to components, pipeline product for
+manufacturing, and measure and evaluate the accuracy of customer forecasting
+to improve materials planning.
+
+The Americas Components group is comprised of targeted sales and marketing
+groups providing tailored solutions to nine distinct customer segments.  The
+Americas Components also offers one of the broadest line cards in the
+industry.
+
+North American Computer Products ("NACP") is a full-line technical
+distributor of computer systems, communications and storage equipment,
+peripherals, components, software, and value-added services to solution
+providers in North America.
+
+The company is one of the largest Pan-European electronic components
+distributors. In the Northern European region, the company serves Denmark,
+Estonia, Finland, Ireland, Norway, Sweden, and the United Kingdom.  In the
+Central European region, the company serves Austria, Belgium, the Czech
+Republic, Germany, Hungary, the Netherlands, Poland, Slovenia, and
+Switzerland, and in the Southern European region the company serves France,
+Greece, Israel, Italy, Portugal, Spain, and Turkey.
+
+The company is a leading electronics distributor in the Asia/Pacific region.
+It has facilities in Australia, Hong Kong, India, Malaysia, New Zealand, the
+People's Republic of China, the Philippines, Singapore, South Korea, Taiwan,
+and Thailand.
+
+The company distributes a broad range of electronic components, computer
+products, and related equipment.  About 61 percent of the company's
+consolidated sales are comprised of semiconductor products; industrial and
+commercial computer products, including servers, workstations, storage
+products, microcomputer boards and systems, design systems, desktop computer
+systems, terminals, printers, controllers, and communication control
+equipment, account for about 25 percent; and the remaining sales are comprised
+of passive, electromechanical, and interconnect products, principally
+capacitors, resistors, potentiometers, power supplies, relays, switches, and
+connectors.
+
+The financial information about the company's reportable segments and foreign
+and domestic operations can be found in Note 13 of the Notes to Consolidated
+Financial Statements.
+
+Most manufacturers of electronic components and computer products rely on
+authorized distributors, such as the company, to augment their sales and
+marketing operations.  As a stocking, marketing, and financial intermediary,
+the distributor relieves manufacturers of a portion of the costs and
+personnel associated with stocking and selling their products (including
+otherwise sizable investments in finished goods inventories, accounts
+receivable systems, and distribution networks), while providing geographically
+dispersed selling, order processing, and delivery capabilities.  At the same
+time, the distributor offers a broad range of customers the convenience of
+accessing from a single source multiple products from multiple suppliers and
+rapid or scheduled deliveries, as well as other value-added services such as
+kitting and memory programming capabilities. The growth of the electronics
+distribution industry has been fostered by the many manufacturers who
+recognize their authorized distributors as essential extensions of their
+marketing organizations.
+
+The company and its affiliates serve over 175,000 industrial and commercial
+customers. Industrial customers range from major OEMs and CMs to small
+engineering firms, while commercial customers include principally VARs and
+OEMs. No single customer accounted for more than 3 percent of the company's
+2001 sales.
+
+Most of the company's customers require delivery of the products they have
+ordered on schedules that are generally not available on direct purchases
+from manufacturers, and frequently their orders are of insufficient size to
+be placed directly with manufacturers.
+
+The electronic components and other products offered by the company are sold
+by field sales representatives, who regularly call on customers in assigned
+market areas, and by telephone from the company's selling locations, from
+which inside sales personnel with access to pricing and stocking data
+provided by computer display terminals accept and process orders.  Each of
+the company's North American selling locations, warehouses, and primary
+distribution centers is electronically linked to the company's central
+computer, which provides fully integrated, online, real-time data with
+respect to nationwide inventory levels and facilitates control of purchasing,
+shipping, and billing.  The company's international operations have similar
+online, real-time computer systems and they can access Arrow's Worldwide
+Stock Check System, which provides access to the company's online, real-time
+inventory system.
+
+There are over 600 manufacturers whose products are sold by the company.  The
+company does not regard any one supplier of products to be essential to its
+operations and believes that many of the products presently sold by the
+company are available from other sources at competitive prices. Most of the
+company's purchases are pursuant to authorized distributor agreements which
+are typically cancelable by either party at any time or on short notice.
+
+Approximately 65 percent of the company's inventory consists of semiconductors.
+It is the policy of most manufacturers to protect authorized distributors, such
+as the company, against the potential write-down of such inventories due to
+technological change or manufacturers' price reductions. Under the terms of
+the related distributor agreements, and assuming the distributor complies with
+certain conditions, such suppliers are required to credit the distributor for
+inventory losses incurred through reductions in manufacturers' list prices of
+the items.  In addition, under the terms of many such agreements, the
+distributor has the right to return to the manufacturer for credit a defined
+portion of those inventory items purchased within a designated period of time.
+
+A manufacturer who elects to terminate a distributor agreement is generally
+required to purchase, from the distributor, the total amount of its products
+carried in inventory.  While these industry practices do not wholly protect
+the company from inventory losses, management believes that they currently
+provide substantial protection from such losses.
+
+The company's business is extremely competitive, particularly with respect to
+prices, franchises, and, in certain instances, product availability.  The
+company competes with several other large multi-national, national, and
+numerous regional and local distributors.  As one of the world's largest
+electronics distributors, the company's financial resources and sales are
+greater than most of its competitors.
+
+The company and its affiliates employ over 12,400 people worldwide.
+
+
+Executive Officers
+
+The following table sets forth the names and ages of, and the positions and
+offices with the company held by, each of the executive officers of the
+company.
+
+Name                    Age     Position or Office Held
+----                    ---     -----------------------
+
+Stephen P. Kaufman      60      Chairman
+Francis M. Scricco      52      President and Chief Executive Officer
+Robert E. Klatell       56      Executive Vice President
+Betty Jane Scheihing    53      Senior Vice President
+Steven W. Menefee       56      Senior Vice President and President of Arrow
+                                 Asia
+Peter S. Brown          51      Senior Vice President and General Counsel
+Michael J. Long         43      Vice President and President of North
+                                 American Computer Products
+Jan M. Salsgiver        45      Vice President and President of the Americas
+                                 Components
+Paul J. Reilly          45      Vice President and Chief Financial Officer
+Mark F. Settle          51      Vice President and Chief Information Officer
+
+Set forth below is a brief account of the business experience during the past
+five years of each executive officer of the company.
+
+Stephen P. Kaufman has been Chairman of the company since May 1994.  In
+addition, he served as Chief Executive Officer from September 1986 to July
+2000.
+
+Francis M. Scricco has been Chief Executive Officer since July 2000 and
+President since June 1999.  From September 1997 through July 2000 he served
+as Chief Operating Officer.  Prior thereto, he was Executive Vice President
+since August 1997.  From March 1994 through August 1997 he was a Group
+President at Fischer Scientific International, Inc.
+
+Robert E. Klatell has been Executive Vice President of the company since July
+1995.
+
+Betty Jane Scheihing has been a Senior Vice President of the company since
+May 1996.
+
+Steven W. Menefee has been a Senior Vice President of the company since July
+1995.
+
+Peter S. Brown has been a Senior Vice President of the company and General
+Counsel since September 2001.  Prior to joining the company, he served as the
+managing partner of the London office at the law firm of Pillsbury Winthrop
+LLP (formerly, Winthrop, Stimson, Putnam, & Roberts) for more than five
+years.
+
+Michael J. Long has been President and Chief Operating Officer of NACP since
+July 1999.  In addition, he has been a Vice President of the company for more
+than five years and President of Gates/Arrow Distributing since November
+1995.
+
+Jan M. Salsgiver has been President of the Americas Components since July
+1999. Prior thereto, she served as President of the Arrow Supplier Services
+Group since its inception in January 1998.  Prior thereto, she was President
+of the Arrow/Schweber Electronics Group since November 1995.  In addition,
+she has been a Vice President of the company for more than five years.
+
+Paul J. Reilly has been Chief Financial Officer since October 2001 and has
+served as a Vice President of the company since May 1996.
+
+Mark F. Settle has been a Vice President of the company and Chief Information
+Officer since November 2001.  Prior to joining the company, he served as
+Executive Vice President, Systems and Processing at Visa International since
+April 1999 and previously served as Chief Information Officer at Occidental
+Petroleum Corporation since February 1997.  Prior thereto, he was Director of
+Civil Systems Business Unit at Hughes Information Systems since August 1994.
+
+Item 2.  Properties.
+         ----------
+
+The company owns and leases sales offices, distribution centers, and
+administrative facilities worldwide.  The company's executive office, a
+132,000 square foot facility in Melville, New York, is owned by the company.
+Including the executive office, 18 locations are owned throughout the
+Americas, Europe, and the Asia/Pacific region, and another facility has been
+sold and leased back in connection with the financing thereof.  The company
+occupies over 290 additional locations under leases due to expire on various
+dates through 2053.  The company believes its facilities are well maintained
+and suitable for company operations.
+
+Item 3.  Legal Proceedings.
+         -----------------
+
+The environmental remediation of a former "superfund site" the company owns
+(as the result of the discontinued lead-refining operations of a subsidiary
+formerly owned by the company) has been completed pursuant to the terms of a
+consent decree with the U.S. EPA and the State of Florida, and the site has
+been delisted from the National Priorities List.  Long-term monitoring
+activities at the site for which the company remains responsible are not
+expected to have a material adverse impact on the company's liquidity,
+resources, or results.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+         ---------------------------------------------------
+
+None.
+
+
+                                  PART II
+
+
+Item 5.  Market Price of the Registrant's Common Equity and Related
+         ----------------------------------------------------------
+         Stockholder Matters.
+         -------------------
+
+Market Information
+
+The company's common stock is listed on the New York Stock Exchange (trading
+symbol: "ARW").  The high and low sales prices during each quarter of 2001
+and 2000 were as follows:
+
+Year                                               High        Low
+----                                               ----        ---
+
+2001:
+  Fourth Quarter                                  $30.71     $19.84
+  Third Quarter                                    29.50      18.00
+  Second Quarter                                   29.07      20.65
+  First Quarter                                    33.44      21.85
+
+2000:
+  Fourth Quarter                                  $37.19     $22.06
+  Third Quarter                                    39.88      30.38
+  Second Quarter                                   46.00      28.25
+  First Quarter                                    37.50      20.50
+
+
+
+Holders
+
+On March 1, 2002, there were approximately 3,000 shareholders of record of
+the company's common stock.
+
+
+Dividend History
+
+The company did not pay cash dividends on its common stock during 2001 or
+2000.  While the board of directors considers the payment of dividends on the
+common stock from time to time, the declaration of future dividends will be
+dependent upon the company's earnings, financial condition, and other
+relevant factors, including debt covenants.
+
+
+Item 6.  Selected Financial Data.
+         -----------------------
+
+The following table sets forth certain selected consolidated financial data
+and should be read in conjunction with the company's consolidated financial
+statements and related notes appearing elsewhere in this annual report.
+
+SELECTED FINANCIAL DATA
+(In thousands except per share data)
+
+For the year ended:   2001(a)       2000       1999(b)      1998       1997(c)
+                   -----------  -----------  ----------  ----------  ----------
+
+Sales              $10,127,604  $12,959,250  $9,312,625  $8,344,659  $7,763,945
+                    ===========  ===========  ==========  ==========  ==========
+
+Operating income      $156,603     $784,107    $338,661    $352,504    $374,721
+                      ========     ========    ========    ========    ========
+
+Net income (loss)     $(73,826)    $357,931    $124,153    $145,828    $163,656
+                      ========     ========    ========    ========    ========
+
+Earnings (loss)
+ per share:
+  Basic                  $(.75)       $3.70       $1.31       $1.53       $1.67
+                         =====        =====       =====       =====       =====
+  Diluted                 (.75)        3.62        1.29        1.50        1.64
+                         =====        =====       =====       =====       =====
+
+At year-end:
+Accounts receivable
+  and inventories   $2,861,628   $5,608,256  $3,083,583  $2,675,612  $2,475,407
+Total assets         5,358,984    7,604,541   4,483,255   3,839,871   3,537,873
+Long-term debt       2,441,983    3,027,671   1,533,421   1,047,041     829,827
+Shareholders'equity  1,766,461    1,913,748   1,550,529   1,487,319   1,360,758
+
+(a) Operating income and net loss include restructuring costs and other
+    special charges of $227.6 million (of which $174.6 million is in
+    operating income) and $145.1 million after taxes, respectively, and an
+    integration charge associated with the acquisition of Wyle Electronics
+    and Wyle Systems of $9.4 million and $5.7 million after taxes, respectively.
+    Excluding these charges, operating income, net income, and earnings per
+    share on a basic and diluted basis would have been $340.6 million, $77
+    million, $.78, and $.77, respectively.
+
+(b) Operating and net income include a special charge of $24.6 million and
+    $16.5 million after taxes, respectively, associated with the
+    acquisition and integration of Richey Electronics, Inc. and the
+    electronics distribution group of Bell Industries, Inc.  Excluding this
+    charge, operating income, net income, and earnings per share on a basic
+    and diluted basis would have been $363.2 million, $140.6 million,
+    $1.48, and $1.46, respectively.
+
+(c) Operating and net income include special charges totaling $59.5 million
+    and $40.4 million after taxes, respectively, associated with the
+    realignment of the North American Components Operations and the
+    acquisition and integration of the volume electronic component
+    distribution businesses of Premier Farnell plc. Excluding these charges,
+    operating income, net income, and earnings per share on a basic and
+    diluted basis would have been $434.2 million, $204.1 million, $2.08, and
+    $2.05, respectively.
+
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+         ---------------------------------------------------------------
+         Results of Operations.
+         ---------------------
+
+For an understanding of the significant factors that influenced the company's
+performance during the past three years, the following discussion should be
+read in conjunction with the consolidated financial statements and other
+information appearing elsewhere in this annual report.
+
+Sales
+
+In 2001, consolidated sales decreased by 22 percent from $13 billion in 2000
+to $10.1 billion.  This decline was principally due to a 28 percent decrease
+in sales of electronic components as a result of severely depressed demand at
+telecommunications and networking customers and the contract manufacturers
+that serve them, and lower demand in the company's core OEM business due to
+weakened general economic conditions.  In addition, the company terminated a
+single customer engagement in the Asia/Pacific region during 2001 which
+resulted in a sales decline of approximately $193 million versus 2000.  Sales
+of computer products decreased by 2 percent in 2001 when compared to 2000.
+In the fourth quarter of 2000, the business model for handling certain
+mid-range computer products was modified from a traditional distribution
+model to an agency model.  The modification resulted in a reduction of more
+than $300 million in revenue in 2001 compared to 2000.  In 2001, sales of low
+margin microprocessors (a product segment not considered a part of the
+company's core business) decreased by nearly $207 million.  Lastly, the
+translation of the financial statements of the company's international
+operations into U.S. dollars resulted in reduced revenues of $118 million
+because of a strengthened U.S. dollar in 2001 when compared to 2000.  Each of
+these factors was offset, in part, by the acquisitions that occurred in 2000.
+
+Consolidated sales of $13 billion in 2000 were 39 percent higher than 1999
+sales of $9.3 billion.  This sales increase was driven by a 59 percent growth
+in the sales of electronic components and more than $850 million of sales
+from acquired companies offset, in part, by foreign exchange rate differences,
+fewer sales of low margin microprocessors, and market conditions for computer
+products.  The translation of the financial statements of the company's
+international operations into U.S. dollars resulted in reduced revenues of
+$466 million when compared to 1999.  Sales of computer products decreased by
+2 percent in 2000 when compared to 1999.  Excluding the impact of acquisitions
+and foreign exchange rate differences, sales increased by 34 percent over the
+prior year.
+
+In 1999, consolidated sales increased to $9.3 billion from $8.3 billion in
+1998.  This 12 percent sales growth over 1998 was principally due to a 23
+percent growth in the sales of electronic components and more than $885
+million of sales from acquired companies offset, in part, by fewer sales of
+low margin microprocessors and foreign exchange rate differences.  In 1999,
+sales of low margin microprocessors decreased by $257 million when compared
+to 1998.  Excluding the impact of acquisitions, foreign exchange rate
+differences, and lower microprocessor sales, consolidated sales increased by
+8 percent over the prior year and sales of electronic components increased by
+10 percent.  Sales of commercial computer products increased marginally over
+the 1998 level due principally to softening demand and lower average selling
+prices, offset by increasing unit shipments as a result of market conditions.
+
+Operating Income
+
+The company's consolidated operating income decreased to $156.6 million in
+2001 compared with $784.1 million in 2000.  Included in operating income for
+2001 are $174.6 million of pre-tax restructuring costs and other special
+charges described below and an integration charge of $9.4 million associated
+with the acquisition of Wyle Electronics and Wyle Systems (collectively,
+"Wyle").  Excluding these special charges, operating income for 2001 would
+have been $340.6 million.  The decrease in operating income was due to the
+sudden and dramatic reduction in sales that began in the latter part of the
+first quarter, and accelerated thereafter, outpacing the speed at which the
+company was able to reduce expenses.  Gross profit margins increased
+marginally as a result of a change in the mix of the business.
+
+In mid-2001, the company took a number of significant steps, including a
+reduction in its worldwide workforce, salary freezes and furloughs, cutbacks
+in discretionary spending, deferral of non-strategic projects, consolidation
+of facilities, and other major cost containment and cost reduction actions,
+to mitigate, in part, the impact of significantly reduced revenues.  As a
+result of these actions, the company recorded restructuring costs and other
+special charges totaling $227.6 million pre-tax (of which $97.5 million is
+included in cost of products sold, $77.1 million in operating expenses, and
+$53 million in loss on investments) and $145.1 million after taxes.  In
+addition to costs associated with headcount reductions and the consolidation
+of various facilities, the special charges included provisions related to
+inventory valuation adjustments, adjustments to the book value of Internet
+investments, and the termination of certain customer engagements.
+Approximately $30 million of the charge is expected to be spent in cash.
+Of this amount, approximately $12.6 million was spent in 2001.
+
+Operating income increased to $784.1 million in 2000 compared to $363.2
+million in 1999, excluding the integration charge of $24.6 million associated
+with the acquisition and integration of Richey Electronics, Inc. ("Richey")
+and the electronics distribution group of Bell Industries, Inc. ("EDG").
+This increase in operating income was a result of increased sales in the
+electronic components businesses around the world and increased gross profit
+margins, as well as the full year impact of cost savings resulting from the
+integration of Richey and EDG offset, in part, by lower sales of computer
+products and increased spending in the company's Internet business.  Operating
+expenses as a percentage of sales were 9.6 percent, the lowest in the
+company's history.
+
+In 1999, the company's consolidated operating income decreased to $338.7
+million from $352.5 million in 1998, principally as a result of the
+integration charge of $24.6 million.  Excluding this integration charge,
+operating income would have been $363.2 million.  Operating income, excluding
+the integration charge, increased as a result of higher sales, improved gross
+profit margins in the electronic components operations in the latter part of
+1999, and improved operating efficiencies resulting from the integration of
+Richey and EDG into the company offset, in part, by lower gross profit
+margins in the computer products operations, increased non-cash amortization
+expense associated with goodwill, investments made in systems and personnel
+to support anticipated increases in business activities.
+
+Interest Expense
+
+In 2001, interest expense increased to $211.7 million compared to $171.3
+million in 2000.  The increase in interest expense was the result of the full
+year impact of interest on $1.2 billion of additional borrowings incurred in
+2000 to fund acquisitions offset, in part, by the generation of $1.7 billion
+in cash flow from operations in 2001.  The cash generated from operations in
+2001 was utilized to reduce debt by $1.1 billion and to increase cash on hand
+by $501 million.
+
+Interest expense of $171.3 million in 2000 increased by $65 million from 1999
+as a result of increases in borrowings to fund the company's acquisitions,
+working capital requirements, capital expenditures, and investments in
+Internet joint ventures.
+
+In 1999, interest expense increased to $106.3 million from $81.1 million in
+1998, reflecting both increases in borrowings to fund acquisitions and
+investments in working capital.
+
+Income Taxes
+
+In 2001, the company recorded an income tax benefit at an effective tsx rate
+of 31.3 percent, compared with a provision for taxes at an effective tax rate
+of 40.7 percent in 2000.  Excluding the impact of the aforementioned special
+charges, the effective tax rate would have been 40.7 percent for 2001.
+
+The company recorded a provision for taxes at an effective tax rate of 40.7
+percent in 2000 compared with 43 percent, excluding the integration charge,
+in 1999.  The lower rate for 2000 was due to the company's significantly
+increased operating income, which lowered the negative effect of non-
+deductible goodwill amortization on the company's effective tax rate.
+
+In 1999, the company recorded a provision for taxes at an effective tax rate
+of 43 percent, excluding the integration charge, compared with 42.2 percent
+in 1998.  The increased rate for 1999 was due to the non-deductibility of
+goodwill amortization.
+
+Net Income (Loss)
+
+The company recorded a net loss of $73.8 million in 2001 compared with net
+income of $357.9 million in 2000.  Excluding the aforementioned special
+charges, net income for 2001 would have been $77 million.  The decrease in
+net income, excluding special charges, was due to lower gross profit, as a
+result of lower sales, and higher levels of interest expense.
+
+Net income in 2000 was $357.9 million, an increase from $124.2 million in
+1999 ($140.6 million excluding the integration charge).  The increase in net
+income was a result of increased sales, improved gross profit margins, and
+continued expense control offset, in part, by higher levels of interest
+expense.
+
+In 1999, the company's net income decreased to $124.2 million from $145.8
+million in 1998.  Excluding the integration charge, net income would have
+been $140.6 million.  The decrease in net income, excluding the integration
+charge, was primarily attributable to an increase in interest expense offset,
+in part, by an increase in operating income and a decrease in minority
+interest.
+
+Liquidity and Capital Resources
+
+The company maintains a significant investment in accounts receivable and
+inventories.  As a percentage of total assets, accounts receivable and
+inventories were approximately 53 percent and 74 percent in 2001 and 2000,
+respectively.  At December 31, 2001, cash and short-term investments
+increased to $556.9 million from $55.5 million at December 31, 2000.
+
+One of the characteristics of the company's business is that in periods of
+revenue growth, investments in accounts receivable and inventories grow, and
+the company's need for financing increases.  In the periods in which revenue
+declines, investments in accounts receivable and inventories may also
+decrease, and cash is generated.  During 2001, the company generated $1.7
+billion in cash flow from operations resulting in a reduction in net debt
+from $3.5 billion to $1.9 billion.
+
+At December 31, 2001, working capital, defined as accounts receivable and
+inventories net of payables, decreased by $1.8 billion, or 46 percent,
+compared with December 31, 2000, due to decreased sales and improved asset
+utilization.
+
+The net amount of cash provided by operating activities in 2001 was $1.7
+billion, principally reflecting lower working capital requirements.  The net
+amount of cash used for investing activities was $107.1 million, including
+$64.3 million for various capital expenditures, $27.3 million for the
+acquisition of the remaining 10 percent interest in Scientific and Business
+Minicomputers, Inc. ("SBM") and $15.5 million for various investments.  The
+net amount of cash used for financing activities was $1.1 billion, primarily
+reflecting the repayment of short-term and long-term debt.
+
+In February 2001, the company entered into a three-year revolving credit
+facility providing up to $625 million of available credit.  This facility
+replaced the previously existing global multi-currency credit facility.
+
+During the first quarter of 2001, the company completed the sale of $1.5
+billion principal amount at maturity of zero coupon convertible senior
+debentures (the "convertible debentures") due February 21, 2021.  The
+convertible debentures were priced with a yield to maturity of 4% per annum
+and may be converted into the company's common stock at a conversion price of
+$37.83 per share.  The company, at its option, may redeem all or part of the
+convertible debentures (at the issue price plus accrued original issue
+discount through the date of redemption) any time on or after February 21,
+2006.  Holders of the convertible debentures may require the company to
+repurchase the convertible debentures (at the issue price plus accrued
+original issue discount through the date of repurchase) on February 21, 2006,
+2011, or 2016.  The net proceeds resulting from this transaction of $671.8
+million were used to repay short-term debt.
+
+In February 2001, the company entered into a 364-day $625 million credit
+facility.  The company chose not to renew this facility in February 2002
+because of its large cash balance and reduced need to finance investments in
+working capital.
+
+In March 2001, the company entered into a one-year, renewable $750 million
+asset securitization program (the "program") whereby it sells, on a revolving
+basis, an individual interest in a pool of its trade accounts receivable.
+Under the program, the company sells receivables in securitization
+transactions and retains a subordinated interest and servicing rights to
+those receivables.  At December 31, 2001, the company had no outstanding
+balances from the sale of these receivables.  In March 2002, the company
+renewed the program for an additional year.
+
+The three-year revolving credit facility, the asset securitization program,
+and the 6.45% senior notes (the "notes"), as amended, limit the incurrence of
+additional borrowings and require that working capital, net worth, and
+certain other financial ratios be maintained at designated levels.  In
+addition, in the event that the company's credit rating is reduced to
+non-investment grade by either Standard & Poor's or Moody's Investors Service,
+Inc., the company would no longer be able to utilize its asset securitization
+program in its present form, and the company would be required to make an
+offer to the holders of the notes, allowing each such holder to put all or a
+part of the notes held by it to the company for payment within 60 days of
+such offer.  The triggering of the right to put the notes would constitute an
+event of default under the company's three-year revolving credit facility,
+and it may result in the termination of the agreement and declaration of any
+outstanding amounts to be due and payable.  At December 31, 2001, there were
+no amounts outstanding under the asset securitization program or the
+three-year revolving credit facility.  The company has sufficient cash
+balances to meet the requirements to pay, in part or in whole, the $250
+million of the notes that may come due in the event of such a downgrade,
+as well as sufficient cash balances to finance its operations, based upon
+current business conditions, for more than 12 months.
+
+
+A summary of contractual obligations is as follows (in thousands):
+
+                       Within                             After
+                       1 Year  1-3 Years  4-5 Years      5 Years        Total
+                       ------  ---------  ---------      -------        -----
+
+Long-term debt        $37,289   $667,266   $250,893   $1,523,824   $2,479,272
+Operating leases       55,503     80,499     40,858       78,464      255,324
+Surplus properties      6,819     10,393      4,473        2,094       23,779
+                      -------   --------   --------   ----------   ----------
+                      $99,611   $758,158   $296,224   $1,604,382   $2,758,375
+                      =======   ========   ========   ==========   ==========
+
+Under the terms of various joint venture agreements, the company would be
+required to pay its pro-rata share, based upon its ownership interests, of
+the debt of the joint ventures in the event that the joint ventures were
+unable to meet their obligations.  At December 31, 2001, the company's
+pro-rata share of this debt was $7.1 million.
+
+In 2000, working capital increased by 77 percent, or $1.8 billion, compared
+with 1999.  Excluding the impact of acquisitions, working capital increased
+by 34 percent, or $776 million, due to increased sales and higher working
+capital requirements.
+
+The net amount of cash used for operating activities in 2000 was $336.4
+million, principally resulting from increased accounts receivable and
+inventories offset, in part, by increased payables and earnings for the year.
+The net amount of cash used for investing activities was $1.4 billion,
+including $1.2 billion primarily for the acquisitions of Wyle, the open
+computing alliance subsidiary of Merisel, Inc., Jakob Hatteland Electronic
+AS, and Tekelec Europe, and $80.2 million for various capital expenditures.
+The net amount of cash provided by financing activities was $1.7 billion,
+primarily reflecting the issuance of senior debentures, borrowings under the
+company's commercial paper program, and various short-term borrowings.
+
+Working capital increased by $388 million, or 21 percent, in 1999 compared
+with 1998.  Excluding the impact of acquisitions, working capital increased
+by $216 million, or 11 percent, due to increased sales and higher working
+capital requirements.
+
+The net amount of cash used for the company's operating activities in 1999
+was $33.5 million, principally reflecting increased accounts receivable due
+to accelerated sales growth in the fourth quarter offset, in part, by
+earnings for the year.  The net amount of cash used for investing activities
+was $543.3 million, including $459.1 million for the acquisitions of Richey,
+EDG, Industrade AG, interests in the Elko Group and Panamericana Comercial
+Importadora, S.A., the remaining interests in Spoerle Electronic and Support
+Net, Inc., and an additional interest in SBM, as well as certain
+Internet-related investments, and $84.2 million for various capital
+expenditures.  The net amount of cash provided by financing activities was
+$479.1 million, reflecting borrowings under the company's commercial paper
+program, the issuance of the company's floating rate notes, and credit
+facilities offset, in part, by the repayment of Richey's 7% convertible
+subordinated notes and debentures, 8.29% senior debentures, and
+distributions to partners.
+
+
+Critical Accounting Policies and Estimates
+
+The company's financial statements have been prepared in accordance with
+accounting principles generally accepted in the United States.  The
+preparation of these financial statements requires the company to make
+significant estimates and judgments that affect the reported amounts of
+assets, liabilities, revenues, and expenses and related disclosure of
+contingent assets and liabilities.  The company evaluates its estimates,
+including those related to bad debts, inventories, intangible assets, income
+taxes, restructuring and integration costs, and contingencies and litigation,
+on an ongoing basis.  The company bases its estimates on historical
+experience and on various other assumptions that are believed to be
+reasonable under the circumstances, the results of which form the basis for
+making judgments about the carrying values of assets and liabilities that are
+not readily apparent from other sources.  Actual results may differ from these
+estimates under different assumptions or conditions.
+
+The company believes the following critical accounting policies, among
+others, involve the more significant judgments and estimates used in the
+preparation of its consolidated financial statements:
+
+  -  The company recognizes revenue in accordance with SEC Staff Accounting
+     Bulletin No. 101, "Revenue Recognition in Financial Statements" ("SAB
+     101").  Under SAB 101 revenue is recognized when the title and risk of
+     loss have passed to the customer, there is persuasive evidence of an
+     arrangement, delivery has occurred or services have been rendered, the
+     sales price is determinable, and collectibility is reasonably assured.
+     Revenue typically is recognized at time of shipment.  Sales are recorded
+     net of discounts, rebates, and returns.
+
+  -  The company maintains allowances for doubtful accounts for estimated
+     losses resulting from the inability of its customers to make required
+     payments.  If the financial condition of the company's customers were to
+     deteriorate, resulting in an impairment of their ability to make payments,
+     additional allowances may be required.
+
+  -  Inventories are recorded at the lower of cost or market.  Write-downs of
+     inventories to market value are based upon contractual provisions
+     governing price protection, stock rotation, and obsolescence, as well as
+     assumptions about future demand and market conditions.  If assumptions
+     about future demand change and/or actual market conditions are less
+     favorable than those projected by management, additional write-downs of
+     inventories may be required.  Because of the large number of transactions
+     and the complexity of managing the process around price protections and
+     stock rotations, estimates are made regarding adjustments to the cost of
+     inventories.  Actual amounts could be different from those estimated.
+
+  -  The carrying value of the company's deferred tax assets is dependent upon
+     the company's ability to generate sufficient future taxable income in
+     certain tax jurisdictions.  Should the company determine that it would not
+     be able to realize all or part of its deferred tax assets in the future,
+     an adjustment to the deferred tax assets would be charged to income in the
+     period such determination was made.
+
+  -  The company is subject to proceedings, lawsuits, and other claims related
+     to environmental, labor, product and other matters.  The company assesses
+     the likelihood of an adverse judgment or outcomes to these matters, as
+     well as the range of potential losses.  A determination of the reserves
+     required, if any, is made after careful analysis.  The required reserves
+     may change in the future due to new developments.
+
+  -  The company has recorded reserves in connection with restructuring its
+     businesses, as well as the integration of acquired businesses.  These
+     reserves principally include estimates related to employee separation
+     costs, the consolidation of facilities, contractual obligations, and the
+     valuation of certain assets including accounts receivable, inventories,
+     and investments.  Actual amounts could be different from those
+     estimated.
+
+  -  In assessing the recoverability of the company's goodwill and other
+     long-lived assets, significant assumptions regarding the estimated future
+     cash flows and other factors to determine the fair value of the respective
+     assets must be made, as well as the related estimated useful lives.  If
+     these estimates or their related assumptions change in the future as a
+     result of changes in strategy and/or market conditions, the company may be
+     required to record impairment charges for these assets.  On January 1,
+     2002, the company adopted Statement of Financial Accounting Standards No.
+     142, "Goodwill and Other Intangible Assets," and will be required to
+     analyze its goodwill for impairment issues using a new method during the
+     first six months of 2002 and then on a periodic basis thereafter.  In
+     addition, this Statement eliminates the amortization of goodwill.  The
+     elimination of goodwill amortization will increase net income by
+     approximately $42 million annually.  The company has not yet completed its
+     analysis of the goodwill impairment and the impact, if any, on the
+     reported amount of goodwill.  In June 2001, the Financial Accounting
+     Standards Board ("FASB") issued Statement No. 143, "Accounting for Asset
+     Retirement Obligations," which addresses the financial accounting and
+     reporting for obligations associated with the retirement of tangible
+     long-lived assets and the related asset retirement costs.  Statement
+     No. 143 requires that the fair value of a liability for an asset retirement
+     obligation be recorded in the period incurred and the related asset
+     retirement costs be capitalized.  The company is required to adopt this
+     Statement in the first quarter of 2003 and has not yet completed its
+     evaluation of the effect, if any, on its consolidated financial position
+     and results of operations.  In August 2001, the FASB issued Statement
+     No. 144, "Accounting for the Impairment or Disposal of Long-Lived
+     Assets."  Statement No. 144 addresses the financial accounting and
+     reporting for the impairment or disposal of long-lived assets, including
+     business segments accounted for as discontinued operations.  The company
+     is required to adopt this Statement in the first quarter of 2002 and has
+     not yet completed its analysis to determine the effect, if any, on its
+     consolidated financial position and results of operations.
+
+Information Relating to Forward-Looking Statements
+
+This report includes forward-looking statements that are subject to certain
+risks and uncertainties which could cause actual results or facts to differ
+materially from such statements for a variety of reasons, including, but not
+limited to:  industry conditions, changes in product supply, pricing and
+customer demand, competition, other vagaries in the electronic components and
+computer products markets, and changes in relationships with key suppliers.
+Shareholders and other readers are cautioned not to place undue reliance on
+these forward-looking statements, which speak only as of the date on which
+they are made.  The company undertakes no obligation to update publicly or
+revise any forward-looking statements.
+
+Item 7A. Market and Other Risks.
+         ----------------------
+
+The company is exposed to market risk from changes in foreign currency
+exchange rates and interest rates.
+
+The company, as a large international organization, faces exposure to adverse
+movements in foreign currency exchange rates.  These exposures may change
+over time as business practices evolve and could have a material impact on
+the company's financial results in the future.  The company's primary
+exposure relates to transactions in which the currency collected from
+customers is different from the currency utilized to purchase the product
+sold in Europe, the Asia/Pacific region, and Latin and South America.  At the
+present time, the company hedges only those currency exposures for which
+natural hedges do not exist.  Anticipated foreign currency cash flows and
+earnings and investments in businesses in Europe, the Asia/Pacific region,
+and Latin and South America are not hedged as in many instances there are
+natural offsetting positions.  The translation of the financial statements of
+the non-North American operations is impacted by fluctuations in foreign
+currency exchange rates.  Had the various average foreign currency exchange
+rates remained the same during 2001 as compared with 2000, 2001 sales and
+operating income would have been $118 million and $6 million higher,
+respectively, than the reported results for 2001.
+
+The company's interest expense, in part, is sensitive to the general level of
+interest rates in the Americas, Europe, and the Asia/Pacific region.  The
+company historically has managed its exposure to interest rate risk through
+the proportion of fixed rate and variable rate debt in its total debt
+portfolio.  At December 31, 2001, as a result of significant generation of
+operating cash flow, the company had paid down nearly all of its variable
+rate debt with the net result being that approximately 98 percent of the
+company's debt was subject to fixed rates, and 2 percent of its debt was
+subject to variable rates.  Interest expense, net of interest income, would
+have fluctuated by approximately $5 million if average interest rates had
+changed by one percentage point in 2001.  This amount was determined by
+considering the impact of a hypothetical interest rate on the company's
+average variable rate outstanding borrowings.  This analysis does not
+consider the effect of the level of overall economic activity that could
+exist in such an environment.  Further, in the event of a change of such
+magnitude, management could likely take actions to further mitigate any
+potential negative exposure to the change.  However, due to the uncertainty of
+the specific actions that would be taken and their possible effects, the
+sensitivity analysis assumes no changes in the company's financial structure.
+
+Item 8.  Financial Statements.
+         --------------------
+
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+The Board of Directors and Shareholders
+Arrow Electronics, Inc.
+
+We have audited the accompanying consolidated balance sheet of Arrow
+Electronics, Inc. as of December 31, 2001 and 2000, and the related
+consolidated statements of operations, cash flows, and shareholders' equity
+for each of the three years in the period ended December 31, 2001.  Our audits
+also included the financial statement schedule listed in the Index at Item
+14(a).  These financial statements and the schedule are the responsibility of
+the company's management.  Our responsibility is to express an opinion on
+these financial statements and the schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally
+accepted in the United States.  Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement.  An audit includes examining,
+on a test basis, evidence supporting the amounts and disclosures in the
+financial statements.  An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position
+of Arrow Electronics, Inc. at December 31, 2001 and 2000, and the
+consolidated results of its operations and its cash flows for each of the
+three years in the period ended December 31, 2001, in conformity with
+accounting principles generally accepted in the United States.  Also, in our
+opinion, the related financial statement schedule, when considered in
+relation to the basic financial statements taken as a whole, presents fairly
+in all material respects the information set forth therein.
+
+
+/s/ ERNST & YOUNG LLP
+
+
+New York, New York
+February 19, 2002
+
+
+
+
+
+MANAGEMENT'S RESPONSIBILITY FOR FINANCIAL REPORTING
+
+The consolidated financial statements of Arrow Electronics, Inc. have been
+prepared by management, which is responsible for their integrity and
+objectivity.  These statements, prepared in accordance with generally accepted
+accounting principles, reflect our best use of judgment and estimates where
+appropriate.  Management also prepared the other information in the annual
+report and is responsible for its accuracy and consistency with the
+consolidated financial statements.
+
+The company's system of internal controls is designed to provide reasonable
+assurance that company assets are safeguarded from loss or unauthorized use
+or disposition and that transactions are executed in accordance with
+management's authorization and are properly recorded.  In establishing the
+basis for reasonable assurance, management balances the costs of the internal
+controls with the benefits they provide.  The system contains self-monitoring
+mechanisms, and compliance is tested through an extensive program of site
+visits and audits by the company's operating controls staff.
+
+The audit committee of the board of directors, consisting entirely of
+independent directors, meets regularly with the company's management,
+operating controls staff, and independent auditors and reviews audit plans
+and results, as well as management's actions taken in discharging its
+responsibilities for accounting, financial reporting, and internal controls.
+Members of management, the operating controls staff, and the independent
+auditors have direct and confidential access to the audit committee at all
+times.
+
+The company's independent auditors, Ernst & Young LLP, were engaged to audit
+the consolidated financial statements in accordance with auditing standards
+generally accepted in the United States.  These standards include a study and
+evaluation of internal controls for the purpose of establishing a basis for
+reliance thereon relative to the scope of their audit of the consolidated
+financial statements.
+
+
+/s/ Francis M. Scricco
+----------------------
+Francis M. Scricco
+President and Chief Executive Officer
+
+
+/s/ Paul J. Reilly
+------------------
+Paul J. Reilly
+Vice President and
+ Chief Financial Officer
+
+
+
+
+
+                            ARROW ELECTRONICS, INC.
+                      CONSOLIDATED STATEMENT OF OPERATIONS
+                      (In thousands except per share data)
+
+                                               Years Ended December 31,
+                                       -----------------------------------------
+                                           2001            2000          1999
+                                           ----            ----          ----
+
+Sales                                  $10,127,604     $12,959,250    $9,312,625
+                                       -----------     -----------    ----------
+Costs and expenses:
+  Cost of products sold                  8,609,448      10,925,309     8,011,419
+  Selling, general, and
+    administrative expenses              1,156,687       1,159,583       866,861
+  Depreciation and amortization            118,344          90,251        71,124
+  Restructuring costs and other
+    special charges                         77,147               -             -
+  Integration charge                         9,375               -        24,560
+                                       -----------     -----------    ----------
+                                         9,971,001      12,175,143     8,973,964
+                                       -----------     -----------    ----------
+
+Operating income                           156,603         784,107       338,661
+
+Equity in losses of
+  affiliated companies                       1,203           2,640         1,107
+
+Loss on investments                         53,000               -             -
+
+Interest expense, net                      211,694         171,336       106,349
+                                       -----------     -----------    ----------
+Earnings (loss) before income taxes
+  and minority interest                   (109,294)        610,131       231,205
+
+Provision for (benefit from)
+  income taxes                             (34,189)        248,195       101,788
+                                        ----------     -----------    ----------
+Earnings (loss) before minority
+  interest                                 (75,105)        361,936       129,417
+
+Minority interest                           (1,279)          4,005         5,264
+                                       -----------     -----------    ----------
+Net income (loss)                      $   (73,826)    $   357,931    $  124,153
+                                       ===========     ===========    ==========
+Net income (loss) per share:
+    Basic                                    $(.75)          $3.70         $1.31
+                                             =====           =====         =====
+    Diluted                                   (.75)           3.62          1.29
+                                             =====           =====         =====
+Average number of shares
+  outstanding:
+    Basic                                   98,384          96,707        95,123
+                                            ======          ======        ======
+    Diluted                                 98,384          98,833        96,045
+                                            ======          ======        ======
+
+                             See accompanying notes.
+
+
+
+
+
+                            ARROW ELECTRONICS, INC.
+                          CONSOLIDATED BALANCE SHEET
+                            (Dollars in thousands)
+
+
+                                                              December 31,
+                                                        -----------------------
+                                                            2001         2000
+                                                            ----         ----
+ASSETS
+
+Current assets:
+  Cash and short-term investments                       $  556,861   $   55,546
+  Accounts receivable, net                               1,458,553    2,635,595
+  Inventories                                            1,403,075    2,972,661
+  Prepaid expenses and other assets                         52,897      100,408
+                                                        ----------   ----------
+Total current assets                                     3,471,386    5,764,210
+                                                        ----------   ----------
+Property, plant and equipment at cost
+  Land                                                      42,971       40,892
+  Buildings and improvements                               167,675      167,194
+  Machinery and equipment                                  352,862      319,305
+                                                        ----------   ----------
+                                                           563,508      527,391
+  Less accumulated depreciation and amortization          (259,134)    (210,932)
+                                                        ----------   ----------
+                                                           304,374      316,459
+                                                        ----------   ----------
+
+Investments in affiliated companies                         32,917       35,885
+Cost in excess of net assets of companies acquired,
+  less accumulated amortization ($190,940 in 2001
+  and $145,014 in 2000)                                  1,224,283    1,237,099
+Other assets                                               326,024      250,888
+                                                        ----------   ----------
+                                                        $5,358,984   $7,604,541
+                                                        ==========   ==========
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                                      $  665,363   $1,567,631
+  Accrued expenses                                         344,333      473,984
+  Short-term borrowings                                     37,289      529,261
+                                                        ----------   ----------
+Total current liabilities                                1,046,985    2,570,876
+                                                        ----------   ----------
+
+Long-term debt                                           2,441,983    3,027,671
+Other liabilities                                          103,555       92,246
+
+Shareholders' equity:
+  Common stock, par value $1:
+    Authorized-160,000,000 shares
+      in 2001 and 2000
+    Issued-103,856,024 and 103,816,792 shares
+      in 2001 and 2000, respectively                       103,856      103,817
+  Capital in excess of par value                           524,299      529,376
+  Retained earnings                                      1,523,084    1,596,910
+  Foreign currency translation adjustment                 (259,694)    (160,914)
+                                                        ----------   ----------
+                                                         1,891,545    2,069,189
+  Less: Treasury stock (3,998,063 and 5,405,918 shares
+          in 2001 and 2000, respectively), at cost        (106,921)    (144,569)
+        Unamortized employee stock awards                  (12,363)     (10,872)
+        Other                                               (5,800)           -
+                                                        ----------   ----------
+Total shareholders' equity                               1,766,461    1,913,748
+                                                        ----------   ----------
+
+                                                        $5,358,984   $7,604,541
+                                                        ==========   ==========
+
+                           See accompanying notes.
+
+
+
+
+
+                             ARROW ELECTRONICS, INC.
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                                  (In thousands)
+
+                                                  Years Ended December 31,
+                                            -----------------------------------
+                                                2001         2000        1999
+                                                ----         ----        ----
+Cash flows from operating activities:
+  Net income (loss)                         $  (73,826)  $  357,931   $ 124,153
+  Adjustments to reconcile net income
+    (loss) to net cash provided by
+    (used for) operations:
+      Minority interest                         (1,279)       4,005       5,264
+      Depreciation and amortization            132,157       99,478      78,635
+      Accretion of discount on convertible
+        debentures                              23,781            -           -
+      Equity in losses of affiliated
+        companies                                1,203        2,640       1,107
+      Restructuring costs and other special
+        charges, net of taxes                  145,079            -           -
+      Integration charge, net of taxes           5,719            -      16,480
+      Deferred income taxes                    (21,619)     (30,348)    (11,318)
+      Change in assets and liabilities, net
+        of effects of acquired businesses:
+          Accounts receivable                1,116,898     (326,371)   (242,370)
+          Inventories                        1,435,804     (958,622)    (15,568)
+          Prepaid expenses and other assets     26,334      (43,168)       (236)
+          Accounts payable                    (890,161)     490,009      (8,735)
+          Accrued expenses                    (197,160)     107,064      28,492
+          Other                                (25,178)     (39,065)     (9,395)
+                                            ----------   ----------   ---------
+  Net cash provided by (used for)
+    operating activities                     1,677,752     (336,447)    (33,491)
+                                            ----------   ----------   ---------
+Cash flows from investing activities:
+  Acquisition of property, plant and
+    equipment                                  (64,355)     (80,164)    (84,249)
+  Cash consideration paid for acquired
+    businesses                                 (27,268)  (1,221,261)   (428,969)
+  Investments in affiliates                    (15,509)     (36,182)    (30,127)
+  Issuance of note receivable                        -      (50,000)          -
+                                            ----------   ----------   ---------
+  Net cash used for investing activities      (107,132)  (1,387,607)   (543,345)
+                                            ----------   ----------   ---------
+Cash flows from financing activities:
+  Sale of accounts receivable under
+    securitization program                     251,737            -           -
+  Repayments under securitization program     (252,865)           -           -
+  Change in short-term borrowings             (423,185)   1,263,561      90,804
+  Change in credit facilities                 (392,396)    (421,081)    224,683
+  Proceeds from long-term debt                       -      868,923     298,103
+  Repayments of long-term debt                (945,310)           -     (97,833)
+  Proceeds from convertible debentures, net    668,457            -           -
+  Proceeds from exercise of stock options       21,972       27,989       1,282
+  Distributions to minority partners                 -            -     (37,852)
+  Purchases of common stock                          -         (321)       (100)
+                                            ----------   ----------   ---------
+  Net cash provided by (used for)
+    financing activities                    (1,071,590)   1,739,071     479,087
+                                            ----------   ----------   ---------
+
+Effect of exchange rate changes on cash          2,285       (4,356)    (16,290)
+
+Net increase (decrease) in cash and
+  short-term investments                       501,315       10,661    (114,039)
+
+Cash and short-term investments at
+  beginning of year                             55,546       44,885     158,924
+                                            ----------   ----------   ---------
+Cash and short-term investments at end
+  of year                                   $  556,861   $   55,546   $  44,885
+                                            ==========   ==========   =========
+
+Supplemental disclosures of cash flow
+  information:
+    Cash paid during the year for:
+      Income taxes                          $  116,153   $  138,686   $  47,145
+      Interest                                 195,778      148,076     105,239
+
+                            See accompanying notes.
+
+
+
+
+
+                                ARROW ELECTRONICS, INC.
+                    CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+                                    (In thousands)
+
+
+           Common                          Foreign           Unamortized
+            Stock Capital in              Currency              Employee
+           at Par  Excess of Retained Translation Treasury Stock Awards
+            Value  Par Value Earnings  Adjustment    Stock    and Other   Total
+           ------ ---------- -------- ----------- -------- ------------   -----
+
+Balance at
+ December
+ 31, 1998  $102,950 $506,002$1,114,826 $(23,648) $(198,281) $(14,530)$1,487,319
+
+Net income        -        -   124,153        -          -         -    124,153
+Translation
+ adjustments      -        -         -  (71,647)         -         -    (71,647)
+                                                                      ---------
+  Comprehensive
+   income                                                                52,506
+                                                                      ---------
+Exercise of
+ stock options    -   (1,259)        -        -      2,541         -      1,282
+Tax benefits
+ related to
+ exercise of
+ stock options    -      189         -        -          -         -        189
+Restricted stock
+ awards, net      -   (3,921)        -        -      8,571    (4,650)         -
+Amortization
+ of employee
+ stock awards     -        -         -        -          -     8,965      8,965
+Other             -      368         -        -       (100)        -        268
+           -------- -------- ---------  ------- ----------  -------- ----------
+Balance at
+ December
+ 31, 1999   102,950  501,379 1,238,979  (95,295)  (187,269)  (10,215) 1,550,529
+
+Net income        -        -   357,931        -          -         -    357,931
+Translation
+ adjustments      -        -         -  (65,619)         -         -    (65,619)
+                                                                     ----------
+  Comprehensive
+   income                                                               292,312
+                                                                     ----------
+Exercise of
+ stock options    -   (7,387)        -        -     35,376         -     27,989
+Tax benefits
+ related to
+ exercise of
+ stock options    -    7,212         -        -          -         -      7,212
+Restricted stock
+ awards, net              17      (743)       -          -     7,645     (6,919)
+Amortization
+ of employee
+ stock awards     -        -         -        -          -     6,262      6,262
+Issuance of
+ common
+ stock          850   28,836         -        -          -         -     29,686
+Other             -       79         -        -       (321)        -       (242)
+           -------- -------- --------- -------- ----------  --------  ---------
+Balance at
+ December
+ 31, 2000   103,817  529,376 1,596,910  (160,914) (144,569)  (10,872) 1,913,748
+
+Net loss          -        -   (73,826)        -         -         -    (73,826)
+Translation
+ adjustments      -        -         -   (98,780)        -         -    (98,780)
+Unrealized
+ loss on
+ securities       -        -         -         -         -    (5,800)    (5,800)
+                                                                     ----------
+  Comprehensive
+   loss                                                                (178,406)
+                                                                     ----------
+Exercise of
+ stock options    -   (9,420)        -         -    31,392         -     21,972
+Tax benefits
+ related to
+ exercise of
+ stock options    -    3,456         -         -         -         -      3,456
+Restricted stock
+ awards, net     39      802         -         -     6,256    (7,097)         -
+Amortization
+ of employee
+ stock awards     -        -         -         -         -     5,606      5,606
+Other             -       85         -         -         -         -         85
+           -------- -------- --------- --------- ---------  -------- ----------
+Balance at
+ December
+ 31, 2001  $103,856 $524,299$1,523,084 $(259,694)$(106,921) $(18,163)$1,766,461
+           ======== ======== ========= ========= =========  ======== ==========
+
+                              See accompanying notes.
+
+
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+1.  Summary of Significant Accounting Policies
+
+Principles of Consolidation
+---------------------------
+
+The consolidated financial statements include the accounts of the company and
+its majority-owned subsidiaries.  All significant intercompany transactions
+are eliminated.
+
+Use of Estimates
+----------------
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions
+that affect the amounts reported in the consolidated financial statements and
+accompanying notes.  Actual results could differ from those estimates.
+
+Cash and Short-term Investments
+-------------------------------
+
+Short-term investments which have a maturity of ninety days or less at time
+of purchase are considered cash equivalents in the consolidated statement of
+cash flows. The carrying amount reported in the consolidated balance sheet
+for short-term investments approximates fair value.
+
+Financial Instruments
+---------------------
+
+The company uses various financial instruments, including derivative
+financial instruments, for purposes other than trading.  The company does not
+use derivative financial instruments for speculative purposes.  Derivatives
+used as part of the company's risk management strategy are designated at
+inception as hedges and measured for effectiveness both at inception and on
+an ongoing basis.
+
+Inventories
+-----------
+
+Inventories are stated at the lower of cost or market.  Cost is determined on
+the first-in, first-out (FIFO) method.
+
+
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Property, Plant and Equipment
+-----------------------------
+
+Property, plant and equipment are stated at cost.  Depreciation is computed
+on the straight-line method for financial reporting purposes and on
+accelerated methods for tax reporting purposes.  Leasehold improvements are
+amortized over the shorter of the term of the related lease or the life of
+the improvement.  Long-lived assets are reviewed for impairment whenever
+changes in circumstances or events may indicate that the carrying amounts may
+not be recoverable.  If the fair value is less than the carrying amount of
+the asset, a loss is recognized for the difference.
+
+Cost in Excess of Net Assets of Companies Acquired
+--------------------------------------------------
+
+The cost in excess of net assets of companies acquired is being amortized on
+a straight-line basis over periods of 20 to 40 years.  Management reassesses
+the carrying value and remaining life of the excess cost over fair value of
+net assets of companies acquired on an ongoing basis.  Whenever events
+indicate that the carrying values are impaired, the excess cost over fair
+value of those assets is adjusted appropriately.
+
+Foreign Currency Translation
+----------------------------
+
+The assets and liabilities of foreign operations are translated at the
+exchange rates in effect at the balance sheet date, with the related
+translation gains or losses reported as a separate component of shareholders'
+equity.  The results of foreign operations are translated at the monthly
+average exchange rates.
+
+Income Taxes
+------------
+
+Income taxes are accounted for under the liability method.  Deferred taxes
+reflect the tax consequences on future years of differences between the tax
+bases of assets and liabilities and their financial reporting amounts.
+
+Earnings (Loss) Per Share
+-------------------------
+
+Basic earnings (loss) per share is computed by dividing income (loss)
+available to common shareholders by the weighted average number of common
+shares outstanding for the period.  Diluted earnings per share reflects the
+potential dilution that would occur if securities or other contracts to issue
+common stock were exercised or converted into common stock.
+
+
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Comprehensive Income (Loss)
+--------------------------
+
+Comprehensive income (loss) is defined as the aggregate change in
+shareholders' equity excluding changes in ownership interests.  The foreign
+currency translation adjustments included in comprehensive income (loss) have
+not been tax effected as investments in foreign affiliates are deemed to be
+permanent.
+
+Segment Reporting
+-----------------
+
+Operating segments are defined as components of an enterprise for which
+separate financial information is available that is evaluated regularly by
+the chief operating decision makers in deciding how to allocate resources and
+in assessing performance.  The company's operations are classified into two
+reportable business segments, the distribution of electronic components and
+the distribution of computer products.
+
+Revenue Recognition
+-------------------
+
+The company recognizes revenue in accordance with SEC Staff Accounting
+Bulletin No. 101, "Revenue Recognition in Financial Statements" ("SAB 101").
+Under SAB 101 revenue is recognized when the title and risk of loss have
+passed to the customer, there is persuasive evidence of an arrangement,
+delivery has occurred or services have been rendered, the sales price is
+determinable, and collectibility is reasonably assured.  Revenue typically is
+recognized at time of shipment.  Sales are recorded net of discounts,
+rebates, and returns.
+
+Software Development Costs
+--------------------------
+
+The company capitalizes certain costs incurred in connection with developing
+or obtaining software for internal use.  Capitalized software costs are
+amortized on a straight-line basis over the estimated useful life of the
+software, which is generally three years.
+
+Impact of Recently Issued Accounting Standards
+----------------------------------------------
+
+In June 2001, the Financial Accounting Standards Board ("FASB") issued
+Statement No. 142, "Goodwill and Other Intangible Assets."  On January 1,
+2002, the company adopted Statement No. 142.  This Statement, among other
+things, eliminates the amortization of goodwill and requires annual tests for
+determining impairment of goodwill.  If the company had adopted the
+provisions of Statement No. 142 relating to the elimination of goodwill
+amortization during the current year, the net loss would have been reduced by
+approximately $42,000,000. The company has not yet completed its analysis of
+the goodwill impairment and the impact, if any, on the reported amount of
+goodwill.
+
+In June 2001, the FASB issued Statement No. 143, "Accounting for Asset
+Retirement Obligations," which addresses the financial accounting and
+reporting for obligations associated with the retirement of tangible
+long-lived assets and the related asset retirement costs.  Statement
+No. 143 requires that the fair value of a liability for an asset
+retirement obligation be recorded in the period incurred and the related
+asset retirement costs be capitalized.  The company is required to adopt
+this Statement in the first quarter of 2003 and has not yet completed its
+evaluation of the effect, if any, on its consolidated financial position
+and results of operations.
+
+In August 2001, the FASB issued Statement No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets."  Statement No. 144 addresses
+the financial accounting and reporting for the impairment or disposal of
+long-lived assets, including business segments accounted for as discontinued
+operations.  The company is required to adopt this Statement in the first
+quarter of 2002 and has not yet completed its analysis to determine the
+effect, if any, on its consolidated financial position and results of
+operations.
+
+Reclassification
+----------------
+
+Certain prior year amounts have been reclassified to conform with current
+year presentation.
+
+2.  Acquisitions
+
+During 2001, the company acquired the remaining 10 percent interest in
+Scientific and Business Minicomputers, Inc. ("SBM").  The cost of this
+acquisition was $27,268,000.
+
+During 2000, the company acquired California-based Wyle Electronics and Wyle
+Systems (collectively, "Wyle"), part of the electronics distribution
+businesses of Germany-based E.ON AG (formerly VEBA AG), and the open
+computing alliance subsidiary of Merisel, Inc., one of the leading
+distributors of Sun Microsystems products in North America.  In addition, the
+company acquired Tekelec Europe, one of Europe's leading distributors of
+high-tech components and systems, and Jakob Hatteland Electronic AS, one of
+the Nordic region's leading distributors of electronic components. The
+company also acquired a majority interest in the electronics distribution
+business of Rapac Electronics Ltd., one of the leading electronics
+distribution groups in Israel, and Dicopel S.A. de C.V., one of the largest
+electronics distributors in Mexico.  The company increased its holdings in
+both Silverstar Ltd. S.p.A. and Consan Incorporated to 100 percent and
+acquired an additional 6 percent interest in SBM.  The aggregate cost of
+these acquisitions was $1,249,015,000, which includes 775,000 shares of the
+company's common stock valued at $27,754,000.
+
+Set forth below is the unaudited pro forma combined summary of operations for
+the year ended December 31, 2000 as though the acquisitions made during 2000
+occurred on January 1, 2000 (in thousands except per share data):
+
+
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+                                                2000
+                                                ----
+
+Sales                                       $15,943,194
+Operating income                                907,923
+Earnings before income taxes
+  and minority interest                         655,392
+Net income                                      385,418
+
+Earnings per share:
+   Basic                                           3.97
+   Diluted                                         3.89
+
+Average number of shares
+  outstanding:
+   Basic                                         97,058
+   Diluted                                       99,184
+
+The unaudited pro forma combined summary of operations does not purport to be
+indicative of the results which actually would have been obtained if the
+acquisitions had been made at the beginning of 2000 or of those results which
+may be obtained in the future.  The company has achieved cost savings from
+the acquisitions made in 2000.  The cost savings have not been reflected in
+the unaudited pro forma combined summary of operations.  In addition, the
+unaudited pro forma combined summary does not reflect any sales attrition
+which may result from the combinations.  The unaudited pro forma combined
+summary of operations includes the effects of the additional interest expense
+on debt incurred in connection with the acquisitions as if the debt had been
+outstanding from the beginning of the period presented.  In addition, the
+summary of operations includes amortization of the cost in excess of net
+assets of companies acquired in connection with the acquisitions as if they
+had been acquired from the beginning of the period presented.
+
+The company recorded $33,151,000 as cost in excess of net assets of companies
+acquired to integrate Wyle into the company.  Of the total amount recorded,
+$6,365,000 represented costs associated with the closing of various office
+facilities and distribution and value-added centers, $8,576,000 represented
+costs associated with severance and other personnel costs, $10,601,000
+represented professional fees principally related to investment banking and
+legal and accounting services, and $7,609,000 represented costs associated
+with outside services related to the conversion of systems and certain other
+costs of the integration of Wyle into the company.  Of the total amount
+recorded, $23,441,000 was spent as of December 31, 2001.  Approximately
+$2,205,000 of the remaining amount relates to severance and other personnel
+costs to be paid in 2002, $4,105,000 relates to vacated facilities leased
+with expiration dates through 2005, and the balance relates to various
+license and maintenance agreement obligations, with various expiration dates
+through 2003.
+
+In connection with certain acquisitions, the company may be required to make
+additional payments that are contingent upon the acquired businesses
+achieving certain operating goals.  During 2000, the company made additional
+payments of $2,365,000, which have been capitalized as cost in excess of net
+assets of companies acquired.
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+The cost of each acquisition has been allocated among the net assets acquired
+on the basis of the respective fair values of the assets acquired and
+liabilities assumed.  For financial reporting purposes, the acquisitions are
+accounted for as purchase transactions in accordance with Accounting
+Principles Board Opinion No. 16, "Business Combinations."  Accordingly, the
+consolidated results of the company in 2000 include these companies from
+their respective dates of acquisition.  The aggregate consideration paid for
+all acquisitions in 2000 exceeded the net assets acquired by $356,488,000.
+
+3.  Investments
+
+During 2001, the company acquired an additional interest in Marubun
+Corporation, the largest non-affiliated franchised distributor of electronic
+components and supply chain services in Japan.  This investment is accounted
+for using fair value.
+
+The company holds an interest in eConnections, which serves suppliers,
+distributors, original equipment manufacturers, and other members of the
+electronics supply chain continuum by providing them with integrated,
+independent, and custom-tailored solutions, improving communications, cutting
+costs, and enhancing margins; an interest in Viacore, Inc., an eBusiness
+service provider of a reliable and transparent eBusiness hub for business
+processes between trading partners in the information technology supply
+chain; and an interest in Buckaroo.com, an Internet marketplace for the DRAM
+industry.  These investments are accounted for using fair value.
+
+In October 2000, QuestLink Technology, Inc. and ChipCenter LLC, two e-
+commerce companies the company had previously invested in, agreed to be
+merged to form eChips, a sales and marketing channel that serves the global
+electronics engineering and purchasing communities.  This investment was
+accounted for using the equity method.  During 2001, the merged businesses
+went into liquidation.
+
+In addition, the company has a 50 percent interest in Marubun/Arrow, a joint
+venture with Marubun Corporation, and a 50 percent interest in Altech
+Industries (Pty.) Ltd., a joint venture with Allied Technologies Limited, a
+South African electronics distributor.  These investments are accounted for
+using the equity method.
+
+4.  Debt
+
+In February 2001, the company entered into a three-year revolving credit
+facility providing up to $625,000,000 of available credit.  This facility
+replaced the previously existing global multi-currency credit facility.  The
+three-year revolving credit facility, as amended, bears interest at the
+applicable eurocurrency rate plus a margin of .725%.  The company pays the
+banks a facility fee of .175% per annum.  At December 31, 2001, the company
+had no outstanding borrowings under this facility.
+
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+During the first quarter of 2001, the company completed the sale of
+$1,523,750,000 principal amount at maturity of zero coupon convertible senior
+debentures (the "convertible debentures") due February 21, 2021.  The
+convertible debentures were priced with a yield to maturity of 4% per annum
+and may be converted into the company's common stock at a conversion price of
+$37.83 per share.  The company, at its option, may redeem all or part of the
+convertible debentures (at the issue price plus accrued original issue
+discount through the date of redemption) any time on or after February 21,
+2006.  Holders of the convertible debentures may require the company to
+repurchase the convertible debentures (at the issue price plus accrued
+original issue discount through the date of repurchase) on February 21, 2006,
+2011, or 2016. The net proceeds resulting from this transaction of
+$671,839,000 were used to repay short-term debt.
+
+In February 2001, the company entered into a 364-day $625,000,000 credit
+facility.  The company chose not to renew this facility in February 2002
+because of its large cash balance and reduced need to finance investments in
+working capital.
+
+In March 2001, the company entered into a one-year, renewable $750,000,000
+asset securitization program (the "program") whereby it sells, on a revolving
+basis, an individual interest in a pool of its trade accounts receivable.
+Under the program, the company sells receivables in securitization
+transactions and retains a subordinated interest and servicing rights to
+those receivables.  At December 31, 2001, the company had no outstanding
+balances from the sale of these receivables, and had a subordinated interest
+in the remaining outstanding receivables of $788,519,000. In the event that
+the company had amounts outstanding under the program, the indebtedness and
+related accounts receivable would not be recorded on the company's balance
+sheet.  In March 2002, the company renewed the program for an additional year.
+
+Accounts receivable consists of the following at December 31 (in thousands):
+
+                                                    2001            2000
+                                                    ----            ----
+
+Accounts receivable                             $  754,126      $2,743,737
+Retained interest in securitized
+  accounts receivable                              788,519               -
+Allowance for doubtful accounts                    (84,092)       (108,142)
+                                                ----------      ----------
+                                                $1,458,553      $2,635,595
+                                                ==========      ==========
+
+
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+At December 31, short-term debt consists of the following (in thousands):
+
+                                                    2001            2000
+                                                    ----            ----
+Floating rate notes                                $     -     $   200,000
+Global multi-currency facility                           -         388,069
+Short-term credit facility                               -         400,000
+Commercial paper                                         -         541,366
+Money market loan                                        -          41,000
+Other short-term borrowings                         37,289         255,665
+                                                   -------     -----------
+                                                    37,289       1,826,100
+Less debt refinanced                                     -      (1,296,839)
+                                                   -------     -----------
+                                                   $37,289     $   529,261
+                                                   =======     ===========
+
+The floating rate notes bore interest at LIBOR plus 1%, with interest payable
+on a quarterly basis.  In October 2001, the company paid off the $200,000,000
+floating rate notes.
+
+In December 2000, the company entered into a $400,000,000 short-term credit
+facility which was repaid in February 2001.
+
+In November 1999, the company established a commercial paper program,
+providing for the issuance of up to $1,000,000,000 in aggregate maturity
+value of commercial paper.  At December 31, 2001, the company had no
+outstanding commercial paper.  Interest rates on outstanding commercial paper
+borrowings as of December 31, 2000 had an effective average rate of 7.35%.
+
+Other short-term borrowings are principally utilized to support the working
+capital requirements of certain foreign operations.  The weighted average
+interest rates on these borrowings at December 31, 2001 and 2000 were 4.8%
+and 5.5%, respectively.
+
+Long-term debt consists of the following at December 31 (in thousands):
+
+                                                    2001            2000
+                                                    ----            ----
+6.45% senior notes, due 2003                    $  249,945      $  249,915
+8.2% senior debentures, due 2003                   424,870         424,796
+8.7% senior debentures, due 2005                   249,996         249,995
+7% senior notes, due 2007                          198,728         198,477
+9.15% senior debentures, due 2010                  199,970         199,967
+6 7/8% senior debentures, due 2018                 196,567         196,357
+7 1/2% senior debentures, due 2027                 196,491         196,351
+Zero coupon convertible debentures, due 2021       713,871               -
+Other obligations with various
+  interest rates and due dates                      11,545          14,974
+Short-term debt refinanced                               -       1,296,839
+                                                ----------      ----------
+                                                $2,441,983      $3,027,671
+                                                ==========      ==========
+
+
+                             ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+The 7% senior notes and the 7 1/2% senior debentures are not redeemable prior
+to their maturity.  The 6.45% senior notes, 8.2% senior debentures, 8.7%
+senior debentures, 9.15% senior debentures, and 6 7/8% senior debentures may
+be prepaid at the option of the company subject to a "make whole" clause.
+
+At December 31, 2001, the estimated fair market value of the 6.45% senior
+notes was 99 percent of par, the 8.2% senior debentures was 102 percent of
+par, the 8.7% senior debentures was 102 percent of par, the 7% senior notes
+was 94 percent of par, the 9.15% senior debentures was 101 percent of par,
+the 6 7/8% senior debentures was 78 percent of par, the 7 1/2% senior
+debentures was 79 percent of par, and the convertible debentures was 48
+percent of par.  The balance of the company's borrowings approximates their
+fair value.
+
+Annual payments of borrowings during each of the years 2002 through 2006 are
+$37,289,000, $666,585,000, $681,000, $250,421,000, and $472,000,
+respectively, and $1,523,824,000 for all years thereafter.
+
+The three-year revolving credit facility, the asset securitization program,
+and the 6.45% senior notes (the "notes"), as amended, limit the incurrence of
+additional borrowings and require that working capital, net worth, and
+certain other financial ratios be maintained at designated levels.  In
+addition, in the event that the company's credit rating is reduced to non-
+investment grade by either Standard & Poor's or Moody's Investors Service,
+Inc., the company would no longer be able to utilize its asset securitization
+program in its present form, and the company would be required to make an
+offer to the holders of the notes, allowing each such holder to put all or a
+part of the notes held by it to the company for payment within 60 days of
+such offer.  The triggering of the right to put the notes would constitute an
+event of default under the company's three-year revolving credit facility and
+it may result in the termination of the agreement and declaration of any
+outstanding amounts to be due and payable.  At December 31, 2001, there were
+no amounts outstanding under the asset securitization program or the three-year
+revolving credit facility.  The company has sufficient cash balances to meet
+the requirements to pay, in part or in whole, the $250,000,000 of the notes
+that may come due in the event of such a downgrade, as well as sufficient
+cash balances to finance its operations, based upon current business
+conditions, for more than 12 months.
+
+5.  Income Taxes
+
+The provision for (benefit from) income taxes for the years ended December 31
+consists of the following (in thousands):
+
+                                         2001          2000          1999
+                                         ----          ----          ----
+Current
+-------
+  Federal                              $(60,260)     $105,007      $ 42,189
+  State                                 (13,220)       25,350         9,968
+  Foreign                                44,840       144,892        40,014
+                                       --------      --------       -------
+                                        (28,640)      275,249        92,171
+                                       --------      --------       -------
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Deferred
+--------
+  Federal                               (10,215)       (5,044)        8,922
+  State                                  (2,538)       (1,253)        2,144
+  Foreign                                 7,204       (20,757)       (1,449)
+                                       --------      --------      --------
+                                         (5,549)      (27,054)        9,617
+                                       --------      --------      --------
+                                       $(34,189)     $248,195      $101,788
+                                       ========      ========      ========
+
+The principal causes of the difference between the U.S. statutory and
+effective income tax rates for the years ended December 31 are as follows (in
+thousands):
+
+                                         2001          2000          1999
+                                         ----          ----          ----
+Provision (benefit) at statutory
+  rate                                 $(38,253)     $213,546      $ 80,921
+State taxes, net of federal
+  benefit                               (10,243)       15,663         7,873
+Foreign tax rate differential             1,812         4,953         2,860
+Non-deductible goodwill                  11,741         8,537         6,904
+Other                                       754         5,496         3,230
+                                       --------      --------      --------
+                                       $(34,189)     $248,195      $101,788
+                                       ========      ========      ========
+
+For financial reporting purposes, earnings (loss) before income taxes
+attributable to the United States was $(227,036,000) in 2001, $277,188,000 in
+2000, and $131,007,000 in 1999, and earnings before income taxes attributable
+to foreign operations was $117,742,000 in 2001, $332,943,000 in 2000, and
+$100,198,000 in 1999.
+
+The significant components of the company's deferred tax assets at December
+31, which are included in prepaid expenses and other assets, are as follows
+(in thousands):
+
+                                          2001          2000
+                                          ----          ----
+
+Inventory adjustments                   $ 41,461      $ 36,625
+Allowance for doubtful accounts           26,287        26,171
+Accrued expenses                          10,214         6,092
+Integration reserves                      62,724        57,361
+Restructuring reserves                    27,711             -
+Other                                      7,415         2,824
+                                        --------      --------
+                                        $175,812      $129,073
+                                        ========      ========
+
+Deferred tax liabilities, which are included in other liabilities, were
+$39,956,000 and $20,995,000 at December 31, 2001 and 2000, respectively.  The
+deferred tax liabilities are principally the result of the differences in the
+bases of the company's German assets and liabilities for tax and financial
+reporting purposes.
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+6.  Shareholders' Equity
+
+The company has 2,000,000 authorized shares of serial preferred stock with a
+par value of $1.
+
+In 1988, the company paid a dividend of one preferred share purchase right on
+each outstanding share of common stock.  Each right, as amended, entitles a
+shareholder to purchase one one-hundredth of a share of a new series of
+preferred stock at an exercise price of $50 (the "exercise price").  The
+rights are exercisable only if a person or group acquires 20 percent or more
+of the company's common stock or announces a tender or exchange offer that
+will result in such person or group acquiring 30 percent or more of the
+company's common stock.  Rights owned by the person acquiring such stock or
+transferees thereof will automatically be void.  Each other right will become
+a right to buy, at the exercise price, that number of shares of common stock
+having a market value of twice the exercise price.  The rights, which do not
+have voting rights, may be redeemed by the company at a price of $.01 per
+right at any time until ten days after a 20 percent ownership position has
+been acquired.  In the event that the company merges with, or transfers 50
+percent or more of its consolidated assets or earning power to, any person or
+group after the rights become exercisable, holders of the rights may
+purchase, at the exercise price, a number of shares of common stock of the
+acquiring entity having a market value equal to twice the exercise price.
+The rights, as amended, expire on March 1, 2008.
+
+7.  Special Charges
+
+During the third quarter of 2001, the company recorded restructuring costs
+and other special charges totaling $227,622,000 ($145,079,000 after taxes).
+The special charges include $77,147,000 primarily for costs associated with
+headcount reductions, the consolidation of fifteen facilities, and the
+termination of certain customer engagements.  An additional $97,475,000 and
+$53,000,000, respectively, relate to valuation adjustments to inventories and
+Internet investments.  Of the total charges recorded, approximately
+$30,000,000 is expected to be spent in cash, of which $12,594,000 was spent
+in 2001.  Of the remaining amount, $10,969,000 is expected to be spent in
+2002.
+
+During the first quarter of 2001, the company recorded an integration charge
+of $9,375,000 ($5,719,000 after taxes) related to the acquisition of Wyle.
+Of the total amount recorded, $1,433,000 represented costs associated with
+the closing of various office facilities and distribution and value-added
+centers, $4,052,000 represented costs associated with personnel, $2,703,000
+represented costs associated with outside services related to the conversion
+of systems and certain other costs of the integration of Wyle into the
+company, and $1,187,000 represented the write-down of property, plant and
+equipment to estimated fair value.  Of the expected $8,188,000 to be spent in
+cash in connection with the acquisition and integration of Wyle, $7,094,000
+was spent as of December 31, 2001.  The remaining amount primarily relates to
+vacated facilities leased with various expiration dates through 2003.
+
+
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+8.  Earnings (Loss) Per Share
+
+The following table sets forth the calculation of basic and diluted earnings
+(loss) per share ("EPS") for the years ended December 31 (in thousands except
+per share data):
+
+                                           2001           2000         1999
+                                           ----           ----         ----
+
+Net income (loss)                        $(73,826)(a)   $357,931     $124,153(b)
+                                         ========       ========     ========
+Weighted average shares
+  outstanding for basic EPS                98,384         96,707       95,123
+Net effect of dilutive stock
+  options and restricted stock awards           -          2,126          922
+                                         --------       --------     --------
+Weighted average shares
+  outstanding for diluted EPS              98,384         98,833       96,045
+                                         ========       ========     ========
+
+Basic EPS                                   $(.75)(a)      $3.70        $1.31(b)
+                                            =====          =====        =====
+Diluted EPS (c)                             $(.75)(a)      $3.62        $1.29(b)
+                                            =====          =====        =====
+
+(a) Net loss includes restructuring costs and other special charges of
+    $227,622,000 ($145,079,000 after taxes) and an integration charge of
+    $9,375,000 ($5,719,000 after taxes) related to the acquisition of Wyle.
+    Excluding these charges, net income and net income per share on a basic
+    and diluted basis would have been $76,972,000, $.78, and $.77, respectively.
+
+(b) Net income includes a special charge totaling $24,560,000 ($16,480,000
+    after taxes) related to the company's acquisition and integration of Richey
+    Electronics, Inc. ("Richey") and the electronics distribution group of
+    Bell Industries, Inc. ("EDG"). Excluding the integration charge, net income
+    and net income per share on a basic and diluted basis would have been
+    $140,633,000, $1.48, and $1.46, respectively.
+
+(c) Diluted EPS for the year ended December 31, 2001 excludes the effect of
+    1,136,000 shares related to stock options and 15,587,000 shares related
+    to convertible debentures as the impact of such common stock equivalents is
+    anti-dilutive.
+
+9.  Employee Stock Plans
+
+Restricted Stock Plan
+---------------------
+
+Under the terms of the Arrow Electronics, Inc. Restricted Stock Plan (the
+"Plan"), a maximum of 3,960,000 shares of common stock may be awarded at the
+discretion of the board of directors to key employees of the company.
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Shares awarded under the Plan may not be sold, assigned, transferred,
+pledged, hypothecated, or otherwise disposed of, except as provided in the
+Plan.  Shares awarded become free of forfeiture restrictions (i.e., vest)
+generally over a four-year period.  The company awarded 175,165 shares of
+common stock to 129 key employees in early 2002 in respect of 2001, 68,450
+shares of common stock to 16 key employees during 2001, 211,200 shares of
+common stock to 115 key employees in early 2001 in respect of 2000, 134,784
+shares of common stock to 43 key employees during 2000, 182,525 shares of
+common stock to 106 key employees in early 2000 in respect of 1999, and
+325,750 shares of common stock to 114 key employees during 1999.
+
+Forfeitures of shares awarded under the Plan were 45,679 during 2001, 31,624
+during 2000, and 10,335 during 1999, respectively.  The aggregate market
+value of outstanding awards under the Plan at the respective dates of award
+is being amortized over the vesting period, and the unamortized balance is
+included in shareholders' equity as unamortized employee stock awards.
+
+Stock Option Plans
+------------------
+
+Under the terms of various Arrow Electronics, Inc. Stock Option Plans (the
+"Option Plans"), both nonqualified and incentive stock options for an
+aggregate of 21,500,000 shares of common stock were authorized for grant to
+directors and key employees at prices determined by the board of directors at
+its discretion or, in the case of incentive stock options, prices equal to
+the fair market value of the shares at the dates of grant.  Options granted
+under the Option Plans after May 1997 become exercisable in equal installments
+over a four-year period.  Previously, options became exercisable over a two- or
+three-year period.  Options currently outstanding have terms of ten years.
+
+Included in the 1999 options granted are the options converted on January 7,
+1999, relating to the acquisition of Richey.  Such options totaled 233,381,
+with a weighted average exercise price of $21.17 per share.
+
+The following information relates to the Option Plans for the years ended
+December 31:
+
+                               Average             Average             Average
+                               Exercise            Exercise            Exercise
+                       2001     Price      2000     Price      1999     Price
+                    ---------- --------  --------- --------  --------- --------
+Options outstanding
+  at beginning of
+  year              10,405,615  $23.22   9,846,680  $21.90   7,562,149  $23.41
+Granted              1,149,250   25.00   2,327,764   27.55   2,914,601   18.20
+Exercised           (1,173,868)  18.72  (1,324,321)  21.09     (93,956)  13.60
+Forfeited             (455,375)  23.72    (444,508)  22.96    (536,114)  24.51
+                    ----------          ----------           ---------
+Options outstanding
+  at end of year     9,925,622  $23.94  10,405,615  $23.22   9,846,680  $21.90
+                    ==========          ==========           =========
+Prices per share of
+  options outstanding  $11.94-41.25         $5.94-41.25         $1.81-34.00
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Options available for future grant:
+
+  Beginning of year  3,622,944           5,533,128           7,255,214
+  End of year        2,929,069           3,622,944           5,533,128
+
+The following table summarizes information about stock options outstanding at
+December 31, 2001:
+
+                   Options Outstanding                 Options Exercisable
+          -----------------------------------------   ---------------------
+                           Weighted        Weighted                Weighted
+Maximum                    Average         Average                 Average
+Exercise    Number         Remaining       Exercise     Number     Exercise
+ Price    Outstanding   Contractual Life     Price    Exercisable    Price
+--------  -----------   ----------------   --------   -----------  --------
+
+  $20       1,483,947       66 months       $16.21        928,959   $16.56
+   25       2,996,787       72 months        21.25      2,245,706    21.39
+   30       4,232,921       96 months        26.15      1,330,976    26.20
+   35+      1,211,967       78 months        32.33        995,618    32.03
+            ---------                                   ---------
+   All      9,925,622       82 months       $23.94      5,501,259   $23.66
+            =========                                   =========
+
+As of March 1, 2002, 9,656,449 options were outstanding with a weighted
+average exercise price of $24.04 and a weighted average remaining contractual
+life of 80 months.
+
+The company applies Accounting Principles Board Opinion No. 25, "Accounting
+for Stock Issued to Employees," and related interpretations in accounting for
+the Option Plans.
+
+Had stock-based compensation costs been determined as prescribed by FASB
+Statement No. 123, "Accounting for Stock-Based Compensation," net loss would
+have increased by $9,139,000 ($.09 per share on a diluted basis) in 2001 and
+net income would have been reduced by $6,144,000 ($.08 per share on a diluted
+basis) in 2000 and $4,143,000 ($.03 per share on a diluted basis) in 1999.
+
+The estimated weighted average fair value, utilizing the Black-Scholes
+option-pricing model, at the date of option grant, during 2001, 2000, and
+1999 was $12.30, $12.25, and $7.07, per share, respectively.  The weighted
+average fair value was estimated using the following assumptions:
+
+                                             2001          2000          1999
+                                             ----          ----          ----
+
+Expected life (months)                         48            48            48
+Risk-free interest rate (percent)             3.6           5.5           5.8
+Expected volatility (percent)                  55            50            40
+
+There is no expected dividend yield.
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Stock Ownership Plan
+--------------------
+
+The company maintains a noncontributory employee stock ownership plan which
+enables most North American employees to acquire shares of the company's
+common stock.  Contributions, which are determined by the board of directors,
+are in the form of common stock or cash which is used to purchase the
+company's common stock for the benefit of participating employees.
+Contributions to the plan for 2001, 2000, and 1999 amounted to $10,040,000,
+$8,128,000, and $6,810,000, respectively.
+
+10.  Employee Benefit Plans
+
+The company has a defined contribution plan for eligible employees which
+qualifies under Section 401(k) of the Internal Revenue Code.  The company's
+contribution to the plan, which is based on a specified percentage of
+employee contributions, amounted to $9,026,000, $7,279,000, and $5,801,000 in
+2001, 2000, and 1999, respectively.  Certain domestic and foreign
+subsidiaries maintain separate defined contribution plans for their employees
+and made contributions thereunder which amounted to $1,863,000, $2,510,000,
+and $2,056,000 in 2001, 2000, and 1999, respectively.  As a result of the
+Wyle acquisition, the 401(k) plan for Wyle employees was merged with the
+company's 401(k) plan on April 2, 2001.
+
+The company maintains an unfunded supplemental retirement plan for certain
+executives.  The board of directors determines those employees eligible to
+participate in the plan and their maximum annual benefit upon retirement.
+The benefit obligation at December 31, 2001 and 2000 was $22,313,000 and
+$20,325,000, respectively.  The assumptions utilized in determining this
+amount include a discount rate of 5.5%.  Wyle also sponsored a supplemental
+executive retirement plan for certain of its executives.  Benefit accruals
+for the Wyle plan were frozen as of December 31, 2000.  The benefit
+obligation at December 31, 2001 and 2000 was $6,738,000 and $6,120,000,
+respectively.  The assumptions utilized in determining this amount include a
+discount rate of 7.25% and 7.5%, respectively.  Expenses relating to the plans
+were $3,548,000, $4,597,000, and $2,150,000 for the years ended December 31,
+2001, 2000, and 1999, respectively.
+
+Wyle provided retirement benefits for certain employees under a defined
+benefit plan.  Benefits under this plan were frozen as of December 31, 2000
+and former participants may now participate in the company's employee
+stock ownership plan.  Pension information for the years ended December 31 is
+as follows (dollars in thousands):
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+                                                      2001             2000
+                                                      ----             ----
+
+Benefit obligation at end of year                    $75,866          $75,321
+
+Fair value of plan assets at end of year              76,564           80,219
+
+Funded status of the plan:
+  Funded status                                      $   698          $ 4,899
+  Unamortized net loss                                 7,446            1,636
+                                                     -------          -------
+  Net amount recognized                              $ 8,144          $ 6,535
+                                                     =======          =======
+
+Weighted average assumptions:
+  Discount rate                                        7.25%            7.50%
+  Expected return on assets                            8.50%            8.50%
+
+11.  Lease Commitments
+
+The company leases certain office, distribution, and other property under
+noncancelable operating leases expiring at various dates through 2053.
+Rental expense under noncancelable operating leases, net of sublease income
+of $3,212,000, $3,151,000, and $3,362,000 in 2001, 2000, and 1999,
+respectively, amounted to $59,753,000 in 2001, $47,863,000 in 2000, and
+$40,382,000 in 1999.  Aggregate minimum rental commitments under all
+noncancelable operating leases, exclusive of real estate taxes, insurance,
+and leases related to facilities closed as a result of the integration of
+acquired businesses and the restructuring of the company, are $55,503,000 in
+2002, $43,931,000 in 2003, $36,568,000 in 2004, $22,649,000 in 2005,
+$18,209,000 in 2006, and $78,464,000 thereafter.  Minimum rental commitments
+for leases related to facilities closed as a result of the integration of
+acquired businesses and the restructuring of the company are $6,819,000 in
+2002, $5,842,000 in 2003, $4,551,000 in 2004, $2,326,000 in 2005, $2,147,000
+in 2006, and $2,094,000 thereafter.
+
+12.  Financial Instruments
+
+The company enters into foreign exchange forward contracts (the "contracts")
+to mitigate the impact of changes in foreign currency exchange rates,
+principally the Euro, Swedish krona, Italian lira, and British pound
+sterling.  These contracts are executed to facilitate the netting of
+offsetting foreign currency exposures resulting from inventory purchases and
+sales and generally have terms of no more than three months.  Gains or losses
+on these contracts are deferred and recognized when the underlying future
+purchase or sale is recognized.  The company does not enter into forward
+contracts for trading purposes.  The risk of loss on a contract is the risk
+of nonperformance by the counterparties which the company minimizes by
+limiting its counterparties to major financial institutions.  The fair value
+of the contracts is estimated using market quotes.  The notional amount of the
+contracts at December 31, 2001 and 2000, was $151,507,000 and $81,736,000,
+respectively.  The carrying amounts, which are nominal, approximated fair
+value at December 31, 2001 and 2000.
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+13.  Segment and Geographic Information
+
+The company is engaged in the distribution of electronic components to
+original equipment and contract manufacturers and computer products to
+value-added resellers and original equipment manufacturers.  Operating income
+for the electronic components and computer products segments excludes the
+effect of special charges relating to the integration of acquired businesses
+and restructuring costs.  Computer products includes North American Computer
+Products together with UK Microtronica, ATD (in Iberia), and Arrow Computer
+Products (in France).  The prior years have been restated for comparative
+purposes.
+
+Revenue, operating income (loss), and total assets by segment are as follows
+(in thousands):
+
+                         Electronic     Computer
+                         Components     Products   Corporate        Total
+                         ----------     --------   ---------        -----
+2001
+----
+
+Revenue from external
+  customers              $7,286,806   $2,840,798  $        -     $10,127,604
+
+Operating income (loss)     412,961       51,144    (307,502)(a)     156,603(a)
+
+Total assets              3,799,743      968,362     590,879       5,358,984
+
+
+2000
+----
+
+Revenue from external
+  customers             $10,056,564   $2,902,686   $       -     $12,959,250
+
+Operating income (loss)     887,688       38,698    (142,279)        784,107
+
+Total assets              6,005,100    1,343,584     255,857       7,604,541
+
+
+1999
+----
+
+Revenue from external
+  customers              $6,338,754   $2,973,871    $      -      $9,312,625
+
+Operating income (loss)     368,586       56,119     (86,044)(b)     338,661(b)
+
+Total assets              3,377,660      931,378     174,217       4,483,255
+
+(a) Includes restructuring costs and other special charges of $174,622,000
+    and an integration charge of $9,375,000 related to the acquisition of Wyle.
+
+(b) Includes a special charge totaling $24,560,000 associated with the
+    acquisition and integration of Richey and EDG.
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+As a result of the company's philosophy of maximizing operating efficiencies
+through the centralization of certain functions, selected fixed assets and
+related depreciation, borrowings, and goodwill amortization are not directly
+attributable to the individual operating segments.
+
+Revenues, by geographic area, for the years ended December 31 are as follows
+(in thousands):
+
+                                            2001          2000         1999
+                                            ----          ----         ----
+
+Americas                                $ 6,282,725   $ 8,089,687   $6,160,726
+Europe                                    2,974,837     3,474,990    2,393,705
+Asia/Pacific                                870,042     1,394,573      758,194
+                                        -----------   -----------   ----------
+                                        $10,127,604   $12,959,250   $9,312,625
+                                        ===========   ===========   ==========
+
+Total assets, by geographic area, at December 31 are as follows (in
+thousands):
+
+                                            2001          2000         1999
+                                            ----          ----         ----
+
+Americas                                 $3,253,575    $4,840,169   $2,642,601
+Europe                                    1,771,137     2,104,837    1,460,439
+Asia/Pacific                                334,272       659,535      380,215
+                                         ----------    ----------   ----------
+                                         $5,358,984    $7,604,541   $4,483,255
+                                         ==========    ==========   ==========
+
+14.  Quarterly Financial Data (Unaudited)
+
+A summary of the company's quarterly results of operations follows (in
+thousands except per share data):
+
+                           First         Second         Third          Fourth
+                          Quarter        Quarter       Quarter         Quarter
+                          -------        -------       -------         -------
+
+2001
+----
+
+Sales                   $3,275,747     $2,510,041    $2,182,561      $2,159,255
+Gross profit               548,282        397,946       231,403 (b)     340,525
+Net income (loss)           71,679(a)       6,954      (159,088)(b)       6,629
+Earnings (loss)
+ per share:
+  Basic                        .73(a)         .07         (1.61)(b)         .07
+  Diluted                      .68(a)         .07         (1.61)(b)         .07
+
+
+
+                              ARROW ELECTRONICS, INC.
+                    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+2000
+----
+
+Sales                   $2,769,424     $3,161,670    $3,337,068      $3,691,088
+Gross profit               422,999        490,300       531,706         588,936
+Net income                  63,059         83,970       101,943         108,959
+Earnings per share:
+  Basic                        .66            .87          1.05            1.12
+  Diluted                      .65            .84          1.02            1.09
+
+(a) Net income includes an integration charge totaling $9,375,000 ($5,719,000
+    after taxes) associated with the acquisition of Wyle.  Excluding this
+    charge, net income would have been $77,398,000 or $.79 and $.74 per share
+    on a basic and diluted basis, respectively.
+
+(b) Gross profit and net loss include restructuring costs and other special
+    charges totaling $97,475,000 and $227,622,000 ($145,079,000 after taxes),
+    respectively.  Excluding these charges, gross profit and net loss would
+    have been $328,878,000 and $14,009,000, respectively, or $.14 per share
+    on a basic and diluted basis.
+
+
+Item 9.   Changes in and disagreements with Accountants on Accounting and
+          ---------------------------------------------------------------
+          Financial Disclosure.
+          --------------------
+
+None.
+
+
+                                Part III
+
+Item 10.  Directors and Executive Officers of the Registrant.
+          --------------------------------------------------
+
+See "Executive Officers" in Item 1 above.  In addition, the information set
+forth under the heading "Election of Directors" in the company's Proxy
+Statement filed in connection with the Annual Meeting of Shareholders
+scheduled to be held May 23, 2002 is hereby incorporated herein by reference.
+
+Item 11.  Executive Compensation.
+          ----------------------
+
+The information set forth under the heading "Executive Compensation and Other
+Matters" in the company's Proxy Statement filed in connection with the Annual
+Meeting of Shareholders scheduled to be held May 23, 2002 is hereby
+incorporated herein by reference.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management.
+          --------------------------------------------------------------
+
+The information is included in the company's Proxy Statement filed in
+connection with the Annual Meeting of Shareholders scheduled to be held May
+23, 2002 is hereby incorporated herein by reference.
+
+
+Item 13.  Certain Relationships and Related Transactions.
+          ----------------------------------------------
+
+The information is included in the company's Proxy Statement filed in
+connection with the Annual Meeting of Shareholders scheduled to be held
+May 23, 2002 is hereby incorporated herein by reference.
+
+
+                                 Part IV
+
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K.
+         ---------------------------------------------------------------
+
+(a) The following documents are filed as part of this report:
+
+                                                                    Page
+                                                                    ----
+    1. Financial Statements.
+         Report of Ernst & Young LLP, Independent Auditors           16
+
+         Consolidated Statement of Operations for the years
+           ended December 31, 2001, 2000, and 1999                   18
+
+         Consolidated Balance Sheet at December 31, 2001
+           and 2000                                                  19
+
+         Consolidated Statement of Cash Flows for the
+           years ended December 31, 2001, 2000, and 1999             20
+
+         Consolidated Statement of Shareholders' Equity
+           for the years ended December 31, 2001, 2000,
+           and 1999                                                  21
+
+         Notes to Consolidated Financial Statements for
+           the years ended December 31, 2001, 2000, and 1999         23
+
+    2. Financial Statement Schedule.
+
+         Schedule II - Valuation and Qualifying Accounts             49
+
+       All other schedules have been omitted since the required information
+       is not present or is not present in amounts sufficient to require
+       submission of the schedule, or because the information required is
+       included in the consolidated financial statements, including the notes
+       thereto.
+
+    3. Exhibits.
+
+         See index of Exhibits included on pages 39 - 47.
+
+(b) Reports on Form 8-K.
+
+None.
+
+
+
+(a)3. Exhibits.
+
+               (2)(a)(i)    Share Purchase Agreement, dated as of October 10,
+1991, among EDI Electronics Distribution International B.V., Aquarius
+Investments Ltd., Andromeda Investments Ltd., and the other persons named
+therein (incorporated by reference to Exhibit 2.2 to the company's
+Registration Statement on Form S-3, Registration No. 33-42176).
+
+                    (ii)    Standstill Agreement, dated as of October 10,
+1991, among Arrow Electronics, Inc., Aquarius Investments Ltd., Andromeda
+Investments Ltd., and the other persons named therein (incorporated by
+reference to Exhibit 4.1 to the company's Registration Statement on Form S-3,
+Registration No. 33-42176).
+
+                   (iii)    Shareholder's Agreement, dated as of October 10,
+1991, among EDI Electronics Distribution International B.V., Giorgio Ghezzi,
+Germano Fanelli, and Renzo Ghezzi (incorporated by reference to Exhibit
+2(f)(iii) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1993, Commission File No. 1-4482).
+
+                  (b)       Agreement and Plan of Merger, dated as of June
+24, 1994, by and among Arrow Electronics, Inc., AFG Acquisition Company and
+Gates/FA Distributing, Inc. (incorporated by reference to Exhibit 2 to the
+company's Registration Statement on Form S-4, Commission File No. 35-54413).
+
+                  (c)       Agreement  and  Plan of  Merger, dated as of
+September 21, 1994, by and among Arrow Electronics, Inc., MTA Acquisition
+Company and Anthem Electronics, Inc. (incorporated by reference to Exhibit 2
+to the company's Registration Statement on Form S-4, Commission File No. 33-
+55645).
+
+                  (d)       Master Agreement, dated as of December 20, 1996,
+among Premier Farnell plc and Arrow Electronics, Inc. relating to the sale
+and purchase of the Farnell Volume Business (incorporated by reference to
+Exhibit 2(d) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1996, Commission File No. 1-4482).
+
+                  (e)(i)    Agreement and Plan of Merger, dated as of
+September 30, 1998, by and among Arrow Electronics, Inc., Lear Acquisition
+Corp. and Richey Electronics, Inc. (incorporated by reference to Exhibit 2(e)
+to the company's Annual Report on Form 10-K for the year ended December 31,
+1998, Commission File No. 1-4482).
+
+                    (ii)    Amendment to Agreement and Plan of Merger, dated
+as of October 21, 1998 by and among Arrow Electronics, Inc., Lear Acquisition
+Corp. and Richey Electronics, Inc. in 2(e)(i) above (incorporated by
+reference to Exhibit 2(e)(i) to the company's Annual Report on Form 10-K for
+the year ended December 31, 1998, Commission File No. 1-4482).
+
+                  (f)       Agreement of Purchase and Sale, dated as of
+October 1, 1998, by and between Bell Industries, Inc. and Arrow Electronics,
+Inc. (incorporated by reference to Exhibit 2(f) to the company's Annual
+Report on Form 10-K for the year ended December 31, 1998, Commission File No.
+1-4482).
+
+                  (g)       Share Purchase Agreement, dated as of February 7,
+2000, by and between Arrow Electronics, Inc., Tekelec Airtronic, Zedtek,
+Investitech, and Natec (incorporated by reference to Exhibit 2(g) to the
+company's Annual Report on Form 10-K for the year ended December 31, 2000,
+Commission File No. 1-4482).
+
+                  (h)       Agreement for Sale and Purchase of Shares of
+Jakob Hatteland Electronic AS, dated as of April 20, 2000, between Jakob
+Hatteland Holding AS, Jakob Hatteland, and Arrow Electronics, Inc.
+(incorporated by reference to Exhibit 2(h) to the company's Annual Report on
+Form 10-K for the year ended December 31, 2000, Commission File No. 1-4482).
+
+                  (i)       Share Purchase Agreement, dated as of August 7,
+2000, among VEBA Electronics GmbH, EBV Verwaltungs GmbH i.L., Viterra
+Grundstucke Verwaltungs GmbH, VEBA Electronics LLC, VEBA Electronics
+Beteiligungs GmbH, VEBA Electronics (UK) Plc, Raab Karcher Electronics
+Systems Plc and E.ON AG and Arrow Electronics, Inc., Avnet, Inc., and
+Cherrybright Limited regarding the sale and purchase of the VEBA electronics
+distribution group (incorporated by reference to Exhibit 2(i) to the
+company's Annual Report on Form 10-K for the year ended December 31, 2000,
+Commission File No. 1-4482).
+
+                  (j)       Stock Sale Agreement, dated as of September 15,
+2000, by and among Merisel, Inc., Merisel Americas, Inc., and Arrow
+Electronics, Inc. (incorporated by reference to Exhibit 2(j) to the company's
+Annual Report on Form 10-K for the year ended December 31, 2000, Commission
+File No. 1-4482).
+
+               (3)(a)(i)    Restated  Certificate  of  Incorporation of the
+company, as amended (incorporated by reference to Exhibit 3(a) to the
+company's Annual Report on Form 10-K for the year ended December 31, 1994
+Commission File No. 1-4482).
+
+                    (ii)    Certificate of Amendment of the Certificate of
+Incorporation of Arrow Electronics, Inc., dated as of August 30, 1996
+(incorporated by reference to Exhibit 3 to the company's Quarterly Report on
+Form 10-Q for the quarter ended September 30, 1996, Commission File No. 1-
+4482).
+
+                   (iii)    Certificate of Amendment of the Restated
+Certificate of Incorporation of the company, dated as of October 12, 2000
+(incorporated by reference to Exhibit 3(a)(iii) to the company's Annual
+Report on Form 10-K for the year ended December 31, 2000, Commission File No.
+1-4482).
+
+                  (b)       By-Laws of the company, as amended (incorporated
+by reference to Exhibit 3(b) to the company's Annual Report on Form 10-K for
+the year ended December 31, 1986, Commission File No. 1-4482).
+
+               (4)(a)(i)    Rights Agreement dated as of March 2, 1988
+between Arrow Electronics, Inc. and Manufacturers Hanover Trust Company, as
+Rights Agent, which includes as Exhibit A a Certificate of Amendment of the
+Restated Certificate of Incorporation for Arrow Electronics, Inc. for the
+Participating Preferred Stock, as Exhibit B a letter to shareholders
+describing the Rights and a summary of the provisions of the Rights Agreement
+and as Exhibit C the forms of Rights Certificate and Election to Exercise
+(incorporated by reference to Exhibit 1 to the company's Current Report on
+Form 8-K dated March 3, 1988, Commission File No. 1-4482).
+
+                    (ii)    First Amendment, dated June 30, 1989, to the
+Rights Agreement in (4)(a)(i) above (incorporated by reference to Exhibit
+4(b) to the Company's Current Report on Form 8-K dated June 30, 1989,
+Commission File No.  1-4482).
+
+                   (iii)    Second Amendment, dated June 8, 1991, to the
+Rights Agreement in (4)(a)(i) above (incorporated by reference to Exhibit
+4(i)(iii) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1991, Commission File No. 1-4482).
+
+                    (iv)    Third Amendment, dated July 19, 1991, to the
+Rights Agreement in (4)(a)(i) above (incorporated by reference to Exhibit
+4(i)(iv) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1991, Commission File No. 1-4482).
+
+                     (v)    Fourth Amendment, dated August 26, 1991, to the
+Rights Agreement in (4)(a)(i) above (incorporated by reference to Exhibit
+4(i)(v) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1991, Commission File No. 1-4482).
+
+                    (vi)    Fifth Amendment, dated February 25, 1998, to the
+Rights Agreement in (4)(a)(i)above (incorporated by reference to Exhibit 7 to
+the company's current report on Form 8 A/A dated March 2, 1998, Commission
+File No. 1-4482).
+
+                  (b)(i)    Indenture, dated as of January 15, 1997, between
+the company and the Bank of Montreal Trust Company, as Trustee (incorporated
+by reference to Exhibit 4(b)(i) to the company's Annual Report on Form 10-K
+for the year ended December 31, 1996, Commission File No. 1-4482).
+
+                    (ii)    Officers' Certificate, as defined by the
+Indenture in 4(b)(i) above, dated as of January 22, 1997, with respect to the
+company's $200,000,000 7% Senior Notes due 2007 and $200,000,000 7 1/2%
+Senior Debentures due 2027 (incorporated by reference to Exhibit 4 (b)(ii) to
+the company's Annual Report on Form 10-K for the year ended December 31,
+1996, Commission File No.  1-4482).
+
+                   (iii)    Officers' Certificate, as defined by the
+indenture in 4(b)(i) above, dated as of January 15, 1997, with respect to the
+$200,000,000 6 7/8% Senior Debentures due 2018, dated as of May 29, 1998
+(incoporated by reference to Exhibit 4(b)(iii) to the company's Annual Report
+on Form 10-K for the year ended December 31, 1998, Commission File No. 1-
+4482).
+
+                    (iv)    Officers' Certificate, as defined by the
+indenture in 4(b)(i) above, dated as of January 15, 1997, with respect to the
+$250,000,000 6.45% Senior Notes due 2003, dated October 21, 1998
+(incorporated by reference to Exhibit 4(b)(iv) to the company's Annual Report
+on Form 10-K for the year ended December 31, 1998, Commission No. 1-4482).
+
+                     (v)    Supplemental Indenture, dated as of February 21,
+2001, between the company and The Bank of New York (as successor to the Bank
+of Montreal Trust Company), as trustee (incorporated by reference to Exhibit
+4.2 to the company's current report on Form 8-K dated February 15, 2001,
+Commission File No. 1-4482).
+
+                    (vi)    Supplemental Indenture, dated as of December 31,
+2001, between the company and The Bank of New York (as successor to the Bank
+of Montreal Trust Company), as trustee.
+
+              (10)(a)(i)    Arrow Electronics Savings Plan, as amended and
+restated through December 28, 1994 (incorporated by reference to Exhibit
+10(a)(iii) to the company's Quarterly Report on Form 10-Q for the quarter
+ended March 31, 1996, Commission File No. 1-4482).
+
+                    (ii)    Amendment No. 1, dated March 29, 1996, to the
+Arrow Electronics Savings Plan in (10)(a)(i) above (incorporated by reference
+to Exhibit 10(a)(iv) to the company's Quarterly Report on Form 10-Q for the
+quarter ended March 31, 1996, Commission File No. 1-4482).
+
+                   (iii)    Second Amendment No. 1 to the Arrow Electronics
+Savings Plan in (10)(a)(i) above (incorporated by reference to Exhibit
+10(a)(iii) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1998, Commission File No. 1-4482).
+
+                    (iv)    Amendment No. 3 to the Arrow Electronics Savings
+Plan in (10)(a)(i) above (incorporated by reference to Exhibit 10(a)(iv) to
+the company's Annual Report on Form 10-K for the year ended December 31,
+1998, Commission File No. 1-4482).
+
+                     (v)    Amendment No. 4 dated May 26, 1998 to the Arrow
+Electronics Savings Plan in (10)(a)(i) above (incorporated by reference to
+Exhibit 10(a)(v) to the company's Annual Report on Form 10-K for the year
+ended December 31, 1998, Commission File No. 1-4482).
+
+                    (vi)    Amendment, dated February 15, 2002, to the Arrow
+Electronics Savings Plan in (10)(a)(i) above.
+
+                   (vii)    Amendment to the Arrow Electronics Savings Plan
+in (10)(a)(i) above and the Veba Electronics, Inc. 401(k) Plan dated as of
+April 2, 2001.
+
+                  (viii)    Amendment, dated February 15, 2002, to the
+Farnell Electronic Services 401(k) Savings Plan.
+
+                  (b)(i)    Arrow Electronics Stock Ownership Plan, as
+amended and restated through December 28, 1994 (incorporated by reference to
+Exhibit 10(a)(i) to the company's Quarterly Report on Form 10-Q for the
+quarter ended March 31, 1996, Commission File No. 1-4482).
+
+                    (ii)    Amendment No. 1, dated March 29, 1996, to the
+Arrow Electronics Stock Ownership Plan in (10)(b)(i) above (incorporated by
+reference to Exhibit 10(a)(ii) to the company's Quarterly Report on Form 10-Q
+for the quarter ended March 31, 1996, Commission File No. 1-4482).
+
+                   (iii)    Second Amendment No. 1 to the Arrow Electronics
+Stock Ownership Plan in 10(b)(i) above (incorporated by reference to Exhibit
+10(a)(viii) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1998, Commission File No. 1-4482).
+
+                    (iv)    Amendment No. 3 to the Arrow Electronics Stock
+Ownership Plan in 10(b)(i) above (incorporated by reference to Exhibit
+10(a)(ix) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1998, Commission File No. 1-4482).
+
+                     (v)    Amendment No. 4 dated May 26, 1998, to the Arrow
+Electronics Stock Ownership Plan in 10(b)(i) above (incorporated by reference
+to Exhibit 10(a)(x) to the company's Annual Report on Form 10-K for the year
+ended December 31, 1998, Commission File No. 1-4482).
+
+                  (c)(i)    Employment Agreement, dated as of February 22,
+1995, between the company and Stephen P. Kaufman (incorporated by reference
+to Exhibit 10(c)(ii) to the company's Annual Report on Form 10-K for the year
+ended December 31, 1995, Commission File No. 1-4482).
+
+                    (ii)    Amendment No. 1, dated as of December 31, 2001,
+to Employment Agreement in (10)(c)(i) above by and between the company and
+Stephen P. Kaufman.
+
+                   (iii)    Employment Agreement, dated as of January 1, 1998
+between the company and Robert E. Klatell (incorporated by reference to
+Exhibit 10(c)(iii) to the company's Annual Report on Form 10-K for the year
+ended December 31, 1997, Commission File No. 1-4482).
+
+                    (iv)    Employment Agreement, dated as of July 1, 2000,
+by and between the company and Francis M. Scricco (incorporated by reference
+to Exhibit 10(c)(iii) to the company's Annual Report on Form 10-K for the
+year ended December 31, 2000, Commission File No. 1-4482).
+
+                     (v)    Form of agreement between the company and the
+employees parties to the Employment Agreements listed in 10(c)(i)-(iv) above
+providing extended separation benefits under certain circumstances
+(incorporated by reference to Exhibit 10(c)(iv) to the company's Annual
+Report on Form 10-K for the year ended December 31, 1988, Commission File No.
+1-4482).
+
+                    (vi)    Employment Agreement, dated as of September 21,
+1994, between the company and Robert S. Throop (incorporated by reference to
+Exhibit 10(c)(x) to the company's Annual Report on Form 10-K for the year
+ended December 31, 1994, Commission File No. 1-4482).
+
+                   (vii)    Employment Agreement, dated as of September 1,
+1997, between the company and Jan M. Salsgiver (incorporated by reference to
+Exhibit 10(c)(vi) to the company's Annual Report on Form 10-K for the year
+ended December 31, 1997, Commission File No. 1-4482).
+
+                  (viii)    Employment Agreement, dated as of January 1,
+1998, between the company and Betty Jane Scheihing (incorporated by reference
+to Exhibit 10(c)(v) to the company's Annual Report on Form 10-K for the year
+ended December 31, 1997, Commission File No. 1-4482).
+
+                    (ix)    Employment Agreement, dated as of March 1, 1999,
+between the company and Sam R. Leno (incorporated by reference to Exhibit
+10(b)(iv) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1998, Commission No. 1-4482).
+
+                     (x)    Amended and Restated Employment Agreement, dated
+as of December 22, 1999, by and between the company and Steven W. Menefee
+(incorporated by reference to Exhibit 10(c)(vii) to the company's Annual
+Report on Form 10-K for the year ended December 31, 2000, Commission File No.
+1-4482).
+
+                    (xi)    Amendment made as of October 23, 2001 to the
+Amended and Restated Employment Agreement in (10)(c)(x) above by and between
+the company and Steven W. Menefee.
+
+                   (xii)    Employment Agreement, dated as of January 1,
+2000, between the company and Arthur H. Baer (incorporated by reference to
+Exhibit 10(c)(iv) to the company's Annual Report on Form 10-K for the year
+ended December 31, 1999, Commission File No. 1-4482).
+
+                  (xiii)    Employment Agreement, dated as of January 1,
+2001, by and between the company and Michael J. Long (incorporated by
+reference to Exhibit 10(c)(v) to the company's Annual Report on Form 10-K for
+the year ended December 31, 2000, Commission File No. 1-4482).
+
+                   (xiv)    Employment Agreement, dated as of September 1,
+2001, by and between the company and Peter S. Brown.
+
+                    (xv)    Employment Agreement, dated as of November 5,
+2001, by and between the company and Mark F. Settle.
+
+                   (xvi)    Form of agreement between the company and all
+corporate Vice Presidents, including the employees parties to the Employment
+Agreements listed in 10(c)(vi)-(xv) above, providing extended separation
+benefits under certain circumstances (incorporated by reference to Exhibit
+10(c)(ix) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1988, Commission File No. 1-4482).
+
+                  (xvii)    Form of agreement between the company and non-
+corporate officers providing extended separation benefits under certain
+circumstances (incorporated by reference to Exhibit 10(c)(x) to the company's
+Annual Report on Form 10-K for the year ended December 31, 1988, Commission
+File No. 1-4482).
+
+                 (xviii)    Unfunded Pension Plan for Selected Executives of
+Arrow Electronics, Inc., as amended (incorporated by reference to Exhibit
+10(c)(xiii) to the company's Annual Report on Form 10-K for the year ended
+December 31, 1994, Commission File No. 1-4482).
+
+                   (xix)    Amendment, dated May 1998, to the Unfunded
+Pension Plan for Selected Executives of Arrow Electronics, Inc. (incorporated
+by reference to Exhibit 10(b)(xiv) to the company's Annual Report on Form 10-
+K for the year ended December 31, 1998, Commission File No. 1-4482).
+
+                    (xx)    Grantor Trust Agreement, dated June 25, 1998, by
+and between Arrow Electronics, Inc. and Wachovia Bank, N.A. (incorporated by
+reference to Exhibit 10(b)(xv) to the company's Annual Report on Form 10-K
+for the year ended December 31, 1998, Commission File No. 1-4482).
+
+                   (xxi)    English translation of the Service Agreement,
+dated January 19, 1993, between Spoerle Electronic and Carlo Giersch
+(incorporated by reference to Exhibit 10(f)(v) to the company's Annual Report
+on Form 10-K for the year ended December 31, 1992, Commission File No. 1-
+4482).
+
+                  (d)(i)    Senior Note Purchase Agreement, dated as of
+December 29, 1992, with respect to the company's 8.29 percent Senior Secured
+Notes due 2000 (incorporated by reference to Exhibit 10(d) to the company's
+Annual Report on Form 10-K for the year ended December 31, 1992, Commission
+File No. 1-4482).
+
+                    (ii)    First Amendment, dated as of December 22, 1993,
+to the Senior Note Purchase Agreement in 10(d)(i) above (incorporated by
+reference to Exhibit 10(e)(ii) to the company's Annual Report on form 10-K
+for the year ended December 31, 1993, Commission File No. 1-4482).
+
+                   (iii)    Second Amendment, dated as of April 24, 1995, to
+the Senior Note Purchase Agreement in 10(d)(i) above (incorporated by
+reference to Exhibit 10(c)(iii) to the company's Annual Report on form 10-K
+for the year ended December 31, 1996, Commission File No. 1-4482).
+
+                    (iv)    Third Amendment, dated as of December 23, 1996,
+to the Senior Note Purchase Agreement in 10(d)(i) above (incorporated by
+reference to Exhibit 10(c)(iv) to the company's Annual Report on form 10-K
+for the year ended December 31, 1996, Commission File No. 1-4482).
+
+                     (v)    Fourth Amendment, dated as of October 28, 1998,
+to the Senior Note Purchase Agreement in 10(d)(i) above (incorporated by
+reference to Exhibit 10(c)(v) to the company's Annual Report on Form 10-K for
+the year ended December 31, 1998, Commission File No. 1-4482).
+
+                    (vi)    Fifth Amendment, dated as of March 25, 1999, to
+the Senior Note Purchase Agreement in 10(d)(i) above (incorporated by
+reference to Exhibit 10(d)(vi) to the company's Annual Report on Form 10-K
+for the year ended December 31, 1999, Commission File No. 1-4482).
+
+                  (e)(i)    Amended and Restated Credit Agreement, dated as
+of August 16, 1995 among Arrow Electronics, Inc., the several Banks from time
+to time parties hereto, Bankers Trust Company and Chemical Bank, as agents
+(incorporated by reference to Exhibit 10(d) to the company's Annual Report on
+form 10-K for the year ended December 31, 1995, Commission File No. 1-4482).
+
+                    (ii)    First Amendment, dated as of September 30, 1996,
+to the Arrow Electronics, Inc. Second Amended and Restated Credit Agreement,
+dated August 16, 1995 in (10)(e)(i) above (incorporated by reference to
+Exhibit 10 to the company's Quarterly Report on Form 10-Q for the quarter
+ended September 30, 1996, Commission File No. 1-4482).
+
+                  (f)(i)    364-Day Credit Agreement, dated as of March 30,
+1999, among Arrow Electronics, Inc., the Subsidiary Borrowers, the several
+banks and other financial institutions from time to time parties hereto,
+Chase Securities Inc., as arranger, and The Chase Manhattan Bank, as
+administrative agent (incorporated by reference to Exhibit 10(f) to the
+company's Annual Report on Form 10-K for the year ended December 31, 1999,
+Commission File No. 1-4482).
+
+                    (ii)    Amended and Restated 364-Day Credit Agreement,
+dated as of March 24, 2000, among Arrow Electronics, Inc., the Subsidiary
+Borrowers, the several banks from time to time parties hereto, The Bank of
+Nova Scotia, Bank One, NA, Banque Nationale de Paris, New York Branch, Den
+Danske Bank Aktieselskab, HSBC Bank USA, and Mellon Bank, N.A., as co-agents,
+Bank of America, N.A., as syndication agent, Fleet Bank, N.A., as
+documentation agent, and The Chase Manhattan Bank, as administrative agent
+(incorporated by reference to Exhibit 10(g)(ii) to the company's Annual
+Report on Form 10-K for the year ended December 31, 2000, Commission File No.
+1-4482).
+
+                   (iii)    Amended and Restated 364-Day Credit Agreement,
+dated as of February 22, 2001, among Arrow Electronics, Inc., the Subsidiary
+Borrowers, the several banks from time to time parties hereto, Bank of
+America, N.A., as syndication agent, Fleet National Bank, as documentation
+agent, and The Chase Manhattan Bank, as administrative agent (incorporated by
+reference to Exhibit 10(g)(i) to the company's Annual Report on Form 10-K for
+the year ended December 31, 2000, Commission File No. 1-4482).
+
+                    (iv)    First Amendment, dated as of November 29, 2001,
+to the Amended and Restated 364-Day Credit Agreement in (10)(f)(iii) above
+among Arrow Electronics, Inc., the Subsidiary Borrowers, the several banks
+and other financial institutions from time to time parties thereto, Bank of
+America, N.A., as syndication agent, Fleet National Bank, as documentation
+agent and JPMorgan Chase Bank, as administrative agent.
+
+                  (g)    Commercial Paper Private Placement Agreement, dated
+as of November 9, 1999, among Arrow Electronics, Inc., as issuer, and Chase
+Securities Inc., Bank of America Securities LLC, Goldman, Sachs & Co., and
+Morgan Stanley & Co. Incorporated as placement agents (incorporated by
+reference to Exhibit 10(g) to the company's Annual Report on Form 10-K for
+the year ended December 31, 1999, Commission File No. 1-4482).
+
+                  (h)    $120,000,000 Arrow Electronics, Inc. Floating Rate
+Notes due November 24, 2000, dated as of November 19, 1999, among Arrow
+Electronics, Inc. and Chase Securities Inc. and Bank of America Securities
+LLC as underwriters (incorporated by reference to Exhibit 4.1 to the
+company's Registration Statement on Form S-3, Registration No. 333-91387).
+
+                  (i)(i)    8.20% Senior Exchange Notes due October 1, 2003,
+dated as of October 6, 2000, among Arrow Electronics, Inc. and Goldman, Sachs
+& Co., Chase Securities Inc., Morgan Stanley & Co. Incorporated, Banc of
+America Securities LLC, Donaldson, Lufkin & Jenrette Securities Corporation,
+BNY Capital Markets, Inc., Credit Suisse First Boston Corporation, Deutsche
+Bank Securities Inc., Fleet Securities, Inc., and HSBC Securities (USA) Inc.,
+as underwriters (incorporated by reference to Exhibit 4.2 to the company's
+Registration Statement on Form S-4, Registration No. 333-51100).
+
+                    (ii)    8.70% Senior Exchange Notes due October 1, 2005,
+dated as of October 6, 2000, among Arrow Electronics, Inc. and Goldman, Sachs
+& Co., Chase Securities Inc., Morgan Stanley & Co. Incorporated, Banc of
+America Securities LLC, Donaldson, Lufkin & Jenrette Securities Corporation,
+BNY Capital Markets, Inc., Credit Suisse First Boston Corporation, Deutsche
+Bank Securities Inc., Fleet Securities, Inc., and HSBC Securities (USA) Inc.,
+as underwriters (incorporated by reference to Exhibit 4.3 to the company's
+Registration Statement on Form S-4, Registration No. 333-51100).
+
+                   (iii)    9.15% Senior Exchange Notes due October 1, 2010,
+dated as of October 6, 2000, among Arrow Electronics, Inc. and Goldman, Sachs
+& Co., Chase Securities Inc., Morgan Stanley & Co. Incorporated, Banc of
+America Securities LLC, Donaldson, Lufkin & Jenrette Securities Corporation,
+BNY Capital Markets, Inc., Credit Suisse First Boston Corporation, Deutsche
+Bank Securities Inc., Fleet Securities, Inc., and HSBC Securities (USA) Inc.,
+as underwriters (incorporated by reference to Exhibit 4.4 to the company's
+Registration Statement on Form S-4, Registration No. 333-51100).
+
+                  (j)      Floating Rate Exchange Notes due October 5, 2001,
+dated as of October 6, 2000, among Arrow Electronics, Inc. and Goldman, Sachs
+& Co., Chase Securities Inc., Morgan Stanley & Co. Incorporated, Banc of
+America Securities LLC, Donaldson, Lufkin & Jenrette Securities Corporation,
+BNY Capital Markets, Inc., Credit Suisse First Boston Corporation, Deutsche
+Bank Securities Inc., Fleet Securities, Inc., and HSBC Securities (USA) Inc.,
+as underwriters (incorporated by reference to Exhibit 4.5 to the company's
+Registration Statement on Form S-4, Registration No. 333-51100).
+
+                  (k)      $400,000,000 Credit Agreement, dated as of
+December 18, 2000, among Arrow Electronics, Inc., the several banks from time
+to time parties hereto, and Morgan Stanley Senior Funding Inc., as
+syndication agent, documentation agent, and administrative agent
+(incorporated by reference to Exhibit 10(i) to the company's Annual Report on
+Form 10-K for the year ended December 31, 2000, Commission File No. 1-4482).
+
+                  (l)(i)   Amended and Restated Three Year Credit Agreement,
+dated as of February 22, 2001, among Arrow Electronics, Inc., the Subsidiary
+Borrowers, the several banks from time to time parties hereto, Bank of
+America, N.A., as syndication agent, Fleet National Bank, as documentation
+agent, and The Chase Manhattan Bank, as administrative agent (incorporated by
+reference to Exhibit 10(h) to the company's Annual Report on Form 10-K for
+the year ended December 31, 2000, Commission File No. 1-4482).
+
+                    (ii)   First Amendment, dated as of November 29, 2001, to
+the Amended and Restated Three Year Credit Agreement in (10)(l)(i) above
+among Arrow Electronics, Inc., the Subsidiary Borrowers, the several banks
+and other financial institutions from time to time parties thereto, Bank of
+America, N.A. as syndication agent, Fleet National Bank, as documentation
+Agent, and JPMorgan Chase Bank, as administrative agent.
+
+                   (iii)   Second Amendment, dated as of February 19, 2002,
+to the Amended and Restated Three Year Credit Agreement in (10)(l)(i) above
+among Arrow Electronics, Inc., the Subsidiary Borrowers, the several banks
+and other financial institutions from time to time parties thereto, Bank of
+America, N.A., as Syndication Agent, Fleet National Bank, as documentation
+Agent, and JPMorgan Chase Bank, as Administrative Agent.
+
+                  (m)(i)   Transfer and Administration Agreement, dated as of
+March 21, 2001, by and among Arrow Electronics Funding Corporation, Arrow
+Electronics, Inc., individually and as Master Servicer, the several Conduit
+Investors, Alternate Investors and Funding Agents and Bank of America,
+National Association, as administrative agent.
+
+                    (ii)    Amendment No. 1 to the Transfer and
+Administration Agreement, dated as of November 30, 2001, to the Transfer and
+Administration Agreement in (10)(m)(i) above.
+
+                   (iii)    Amendment No. 2 to the Transfer and
+Administration Agreement, dated as of December 14, 2001, to the Transfer and
+Administration Agreement in (10)(m)(i) above.
+
+                    (iv)    Amendment No. 3 to the Transfer and
+Administration Agreement, dated as of March 20, 2002, to the Transfer and
+Administration Agreement in (10)(m)(i) above.
+
+                  (n)(i)    Arrow Electronics, Inc. Stock Option Plan, as
+amended and restated, effective as of May 15, 1997 (incorporated by reference
+to Exhibit 99(a) to the company's Registration Statement on Form S-8,
+Registration No. 333-45631).
+
+                    (ii)    Form of Stock Option Agreement under 10(m)(i)
+above (incorporated by reference to Exhibit 10(e)(ii) to the company's Annual
+Report on form 10-K for the year ended December 31, 1997, Commission File No.
+1-4482).
+
+                   (iii)    Form of Nonqualified Stock Option Agreement under
+10(m)(i) above (incorporated by reference to Exhibit 10(k)(iv) to the
+company's Registration Statement on Form S-4, Registration No. 33-17942).
+
+                  (o)(i)    Restricted Stock Plan of Arrow Electronics, Inc.,
+as amended and restated effective May 15, 1997 (incorporated by reference to
+Exhibit 99(b) to the company's Registration Statement on Form S-8,
+Registration No. 333-45631).
+
+                    (ii)    Form of Restricted Stock Award Agreement under
+10(n)(i) above (incorporated by reference to Exhibit 10(f)(ii) to the
+company's Annual Report on Form 10-K for the year ended December 31, 1997,
+Commission File No. 1-4482).
+
+                  (p)(i)    Non-Employee Directors Stock Option Plan as of
+May 15, 1997 (incorporated by reference to Exhibit 99(c) to the company's
+Registration Statement on Form S-8, Registration No.333-45631).
+
+                    (ii)    Form of Nonqualified Stock Option Agreement under
+10(o)(i) above (incorporated by reference to Exhibit 10(g)(ii) to the
+company's Annual Report on Form 10-K for the year ended December 31, 1997,
+Commission File No. 1-4482).
+
+                  (q)       Non-Employee Directors Deferral Plan as of May
+15, 1997 (incorporated by reference to Exhibit 99(d) to the Company's
+Registration Statement on Form S-8, Registration No. 333-45631).
+
+                  (r)       Form of Indemnification Agreement between the
+company and each director (incorporated by reference to Exhibit 10(m) to the
+company's Annual Report on Form 10-K for the year ended December 31, 1986,
+Commission File No. 1-4482).
+
+              (21)       Subsidiary Listing.
+
+              (23)       Consent of Ernst & Young LLP.
+
+              (28)(i)    Record of Decision, issued by the EPA on September
+28, 1990, with respect to environmental clean-up in Plant City, Florida
+(incorporated by reference to Exhibit 28 to the company's Annual Report on
+Form 10-K for the year ended December 31, 1990, Commission File No. 1-4482).
+
+                 (ii)    Consent Decree lodged with the U.S. District Court
+for the Middle District of Florida, Tampa Division, on December 18, 1991,
+with respect to environmental clean-up in Plant City, Florida (incorporated
+by reference to Exhibit 28(ii) to the company's Annual Report on Form 10-K
+for the year ended December 31, 1991, Commission File No. 1-4482).
+
+
+
+
+                          ARROW ELECTRONICS, INC.
+
+            SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+             For the three years ended December 31, 2001
+
+
+                                      Additions
+                                      ---------
+                Balance at                                             Balance
+                beginning      Charged     Charged to                  at end
+                 of year      to income     other (1)   Write-offs     of year
+               ------------  -----------  -----------  -----------  ------------
+
+Allowance for
+ doubtful
+ accounts
+
+2001           $108,142,000  $62,736,000  $         -  $86,786,000  $ 84,092,000
+               ============  ===========  ===========  ===========  ============
+2000           $ 32,338,000  $59,321,000  $55,192,000  $38,709,000  $108,142,000
+               ============  ===========  ===========  ===========  ============
+1999           $ 48,423,000  $26,151,000  $ 1,567,000  $43,803,000  $ 32,338,000
+               ============  ===========  ===========  ===========  ============
+
+
+(1) Represents the allowance for doubtful accounts of the businesses acquired
+    by the company during each year.
+
+
+
+
+
+                                SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this annual report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                                    ARROW ELECTRONICS, INC.
+
+                                                    By: /s/ Robert E. Klatell
+                                                        ---------------------
+                                                    Robert E. Klatell.
+                                                    Executive Vice President
+                                                    March 29, 2002
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated:
+
+By: /s/ Stephen P. Kaufman                               March 29, 2002
+    ----------------------
+    Stephen P. Kaufman, Chairman
+
+By: /s/ Francis M. Scricco                               March 29, 2002
+    ----------------------
+    Francis M. Scricco, President and Chief
+     Executive Officer
+
+By: /s/ Paul J. Reilly                                   March 29, 2002
+    ------------------
+    Paul J. Reilly, Vice President and
+     Chief Financial Officer
+
+By: /s/ Robert E. Klatell                                March 29, 2002
+    ---------------------
+    Robert E. Klatell, Executive Vice President
+     and Director
+
+By: /s/ Daniel W. Duval                                  March 29, 2002
+    -------------------
+    Daniel W. Duval, Director
+
+By: /s/ Carlo Giersch                                    March 29, 2002
+    -----------------
+    Carlo Giersch, Director
+
+By: /s/ John N. Hanson                                   March 29, 2002
+   -------------------
+    John N. Hanson, Director
+
+By: /s/ Roger King                                       March 29, 2002
+    --------------
+    Roger King, Director
+
+By: /s/ Karen Gordon Mills                               March 29, 2002
+    ----------------------
+    Karen Gordon Mills, Director
+
+By: /s/ Barry W. Perry                                   March 29, 2002
+    ------------------
+    Barry W. Perry, Director
+
+By: /s/ Richard S. Rosenbloom                            March 29, 2002
+    -------------------------
+    Richard S. Rosenbloom, Director
+
+By: /s/ John C. Waddell                                  March 29, 2002
+    -------------------
+    John C. Waddell, Director
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

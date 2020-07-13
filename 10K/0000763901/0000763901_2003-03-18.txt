@@ -1,0 +1,1979 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>g81050e10vk.txt
+<DESCRIPTION>POPULAR, INC.
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+       [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+
+                   For the Fiscal Year Ended December 31, 2002
+
+                                       OR
+
+    [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+
+                           Commission File No. 0-13818
+
+                                  POPULAR, INC.
+
+                 Incorporated in the Commonwealth of Puerto Rico
+
+                   IRS Employer Identification No. 66-0416582
+
+                          Principal Executive Offices:
+                             209 Munoz Rivera Avenue
+                           Hato Rey, Puerto Rico 00918
+                        Telephone Number: (809) 765-9800
+
+--------------------------------------------------------------------------------
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT: NONE
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+
+                         Common Stock ($6.00 par value)
+
+        Series A Participating Cumulative Preferred Stock Purchase Rights
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes [X]   No [ ].
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act). Yes [X]   No [ ].
+
+As of June 28, 2002, the aggregate market value of the common stock held by
+non-affiliates of the Corporation was $4,454,761,000 based upon the reported
+closing price of $33.68 on the NASDAQ National Market System on that date.
+
+As of February 28, 2003, there were 132,576,590 shares of the Corporation's
+common stock outstanding.
+
+<PAGE>
+
+                           DOCUMENTS INCORPORATED BY REFERENCE
+
+         (1) Portions of the Corporation's Annual Report to Shareholders for the
+fiscal year ended December 31, 2002 are incorporated herein by reference in
+response to Item 1 of Part I, Items 5 through 8 of Part II and Item 15 (a)(1) of
+Part IV.
+
+         (2) Portions of the Corporation's Proxy Statement relating to the 2003
+Annual Meeting of Stockholders of the Corporation are incorporated herein by
+reference in response to Items 10 through 13 of Part III.
+
+FORWARD-LOOKING STATEMENTS
+
+         Certain statements in this report are "forward-looking" statements
+within the meaning of the U.S. Private Securities Litigation Reform Act of 1995.
+This report contains certain forward-looking statements with respect to the
+adequacy of the allowance for loan losses, the Corporation's market risk and the
+effect of legal proceedings on the Corporation's financial condition and results
+of operations. These forward-looking statements involve certain risks,
+uncertainties, estimates and assumptions by management.
+
+         Various factors could cause actual results to differ from those
+contemplated by such forward-looking statements. With respect to the adequacy of
+the allowance for loan losses and market risk, these factors include, among
+others:
+
+-        the rate of growth in the economy,
+-        the relative strength or weakness in the consumer and commercial credit
+         sectors and in the real estate markets,
+-        the performance of the stock and bond markets,
+-        possible new bank regulations and
+-        the magnitude of interest rate changes.
+
+         Moreover, the outcome of litigation, as discussed in "Part I, Item 3.
+Legal Proceedings", is inherently uncertain and depends on judicial
+interpretations of law and the findings of judges and juries.
+
+         The Corporation's actual results may differ materially from those
+included in the forward-looking statements. All statements contained herein that
+are not clearly historical in nature are forward-looking, and the words
+"anticipate," "believe," "expect," "estimate," "project" and similar expressions
+are generally intended to identify forward-looking statements. All
+forward-looking statements included in this document are based upon information
+available to the Corporation as of the date of this document, and we assume no
+obligation to update or revise any such forward-looking statements.
+
+
+
+                                       2
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+
+<TABLE>
+<CAPTION>
+                                                                                                       Page
+                                                                                                       ----
+     <S>                                                                                               <C>
+     PART I
+
+     Item 1           Business ..................................................................        4
+     Item 2           Properties ................................................................       14
+     Item 3           Legal Proceedings .........................................................       15
+     Item 4           Submission of Matters to a Vote of Security Holders........................       16
+
+     PART II
+
+     Item 5           Market for Registrant's Common Stock and Related
+                        Stockholder Matters......................................................       16
+     Item 6           Selected Financial Data ...................................................       18
+     Item 7           Management's Discussion and Analysis of Financial
+                        Condition and Results of Operations......................................       18
+     Item 7A          Quantitative and Qualitative Disclosures About Market Risk.................       19
+     Item 8           Financial Statements and Supplementary Data  ..............................       19
+     Item 9           Changes in and Disagreements with Accountants on
+                        Accounting and Financial Disclosure .....................................       19
+     PART III
+
+     Item 10          Directors and Executive Officers of the Registrant ........................       19
+     Item 11          Executive Compensation ....................................................       19
+     Item 12          Security Ownership of Certain Beneficial Owners
+                        and Management ..........................................................       19
+     Item 13          Certain Relationships and Related Transactions ............................       19
+     Item 14          Controls and Procedures....................................................       19
+
+     PART IV
+
+     Item 15          Exhibits, Financial Statement Schedules and
+                        Reports on Form 8-K .....................................................       20
+                      Signatures.................................................................       21
+                      Certifications.............................................................       23
+</TABLE>
+
+
+                                       3
+<PAGE>
+
+                                     PART I
+                                  POPULAR, INC.
+
+ITEM 1.  BUSINESS
+                                     GENERAL
+
+         Popular, Inc. (the "Corporation") is a diversified, publicly owned bank
+holding company, registered under the Bank Holding Company Act of 1956, as
+amended (the "BHC Act") and, accordingly, subject to the supervision and
+regulation of the Board of Governors of the Federal Reserve System ("the Federal
+Reserve Board"). The Corporation was incorporated in 1984 under the laws of the
+Commonwealth of Puerto Rico and is the largest financial institution in Puerto
+Rico, with consolidated assets of $33.7 billion, total deposits of $17.6 billion
+and stockholders' equity of $2.4 billion at December 31, 2002. Based on total
+assets at December 31, 2002, the Corporation was the 34th largest bank holding
+company in the United States.
+
+         The Corporation's principal subsidiary, Banco Popular de Puerto Rico
+("Banco Popular" or the "Bank"), was incorporated in 1893 and is Puerto Rico's
+largest bank with consolidated total assets of $21.5 billion, deposits of $12.8
+billion and stockholders' equity of $1.5 billion at December 31, 2002. The Bank
+accounted for 64% of the total consolidated assets of the Corporation at
+December 31, 2002. A consumer-oriented bank, Banco Popular has the largest
+retail franchise in Puerto Rico, operating 195 branches and 551 automated teller
+machines. The Bank has the largest trust operation in Puerto Rico. The Bank also
+operates seven branches in the U.S. Virgin Islands, one branch in the British
+Virgin Islands and one branch in New York. Banco Popular's deposits are insured
+under the Bank Insurance Fund ("BIF") of the Federal Deposit Insurance
+Corporation (the "FDIC"). Banco Popular has three subsidiaries, Popular Auto,
+Inc., (formerly Popular Leasing and Rental, Inc.), Puerto Rico's largest vehicle
+financing, leasing and daily rental company, Popular Finance, Inc., a small-loan
+and second mortgage company with 37 offices in Puerto Rico, and Popular
+Mortgage, Inc., a mortgage loan company with 29 offices in Puerto Rico.
+
+         The Corporation has three other principal subsidiaries: Popular
+Securities, Inc., Popular International Bank, Inc. ("PIB") and GM Group, Inc.
+Popular Securities, Inc. is a securities broker-dealer in Puerto Rico with
+financial advisory, investment and security brokerage operations for
+institutional and retail customers. PIB owns the outstanding stock of Popular
+North America, Inc. ("PNA"), ATH Costa Rica, CreST and Popular Insurance V.I.,
+Inc., an insurance agency. ATH Costa Rica and CreST provide ATM switching and
+driving services in San Jose, Costa Rica. GM Group, Inc. provides electronic
+data processing and consulting services, sale and rental of electronic data
+processing equipment, and sale and maintenance of computer software to clients
+in the United States, the Caribbean and Latin America through offices in Puerto
+Rico, Venezuela, Miami and the Dominican Republic. At December 31, 2002, GM
+Group, Inc. had total assets of $100.8 million. In addition, Popular, Inc. has
+an 85% investment in Levitt Mortgage Corporation (formerly Newco Mortgage
+Holding Corporation), a mortgage loan company with operations in Puerto Rico. At
+December 31, 2002, the assets of Levitt Mortgage totaled $75.2 million.
+
+         PIB is a wholly owned subsidiary of the Corporation organized in 1992
+that operates as an "international banking entity" under the International
+Banking Center Regulatory Act of Puerto Rico (the "IBC Act"). PIB is a
+registered bank holding company under the BHC Act and is principally engaged in
+providing managerial services to its subsidiaries.
+
+         PNA, a wholly-owned subsidiary of PIB and an indirect wholly-owned
+subsidiary of the Corporation, was organized in 1991 under the laws of the State
+of Delaware and is a registered bank holding company under the BHC Act. PNA
+functions as a holding company for the Corporation's mainland U.S. operations.
+As of December 31, 2002, PNA had five direct subsidiaries, all of which were
+wholly-owned: Banco Popular North America ("BPNA"), a full service commercial
+bank incorporated in the state of New York, Equity One, Inc., a diversified
+consumer finance company, Popular Cash Express, Inc., a retail financial
+services company, BanPonce Trust I, a statutory business trust, and Banco
+Popular, National Association ("Banco Popular, N.A."), a federally chartered
+national bank with its main office in Orlando,
+
+
+
+                                       4
+<PAGE>
+
+Florida. Banco Popular, N.A. commenced operations as a full service commercial
+bank on July 1, 2000. As of December 31, 2002, it operated one branch, its
+assets amounted to $36.1 million and it had deposits of $17.8 million. Popular
+Insurance, Inc., a wholly-owned non-bank subsidiary of Banco Popular, N.A. and
+an indirect subsidiary of PNA, also commenced operations on July 1, 2000.
+Popular Insurance, Inc. is a general insurance agency that offers insurance
+products in Puerto Rico. As of December 31, 2002, its assets amounted to $29.3
+million.
+
+         The banking operations of BPNA in the mainland United States are based
+in six states. In New York, BPNA operated 32 branches, which accounted for
+aggregate assets of $2.5 billion and total deposits of $2.2 billion at December
+31, 2002. BPNA also operated 21 branches in Illinois and 17 in California with
+total assets of $1.5 billion and $568 million, respectively, and deposits of
+$1.3 billion and $426 million, respectively. In addition, BPNA had 11 branches
+in New Jersey with total assets of $341 million and deposits of $577 million as
+of December 31, 2002 and ten branches in Florida with total assets of $248
+million and deposits of $265 million. In Texas, BPNA operated five branches with
+aggregate assets of $498 million and total deposits of $130 million at the same
+date. The deposits of BPNA are insured under the BIF by the FDIC.
+
+         In addition, BPNA owned all of the outstanding stock of Popular
+Leasing, USA, a non-banking subsidiary that offers small ticket equipment
+leasing with 14 offices in 11 states and total assets of $149 million as of
+December 31, 2002. Popular Insurance Agency USA, Inc. is also a wholly owned
+subsidiary of BPNA. Popular Insurance Agency USA, Inc. acts as an agent or
+broker for issuing insurance and began operations in January 2002. Its assets
+totaled $0.3 million as of December 31, 2002.
+
+         Equity One, Inc., a wholly owned subsidiary of PNA, is engaged in the
+business of granting personal and mortgage loans and providing dealer financing
+through 153 offices in 26 states. It had total assets of $4.8 billion as of
+December 31, 2002. Popular Cash Express, Inc., a wholly owned subsidiary of PNA,
+offers services such as check cashing, money transfers to other countries, money
+order sales and processing of payments through 136 offices and 59 mobile check
+cashing units in five states and in Washington, D.C. Its assets totaled $72.3
+million as of December 31, 2002.
+
+COMPETITION
+
+         The business of banking is highly competitive. In addition to
+competition from other commercial banks, banks face significant competition from
+nonbank financial institutions. Savings associations compete aggressively with
+commercial banks for deposits and loans. Credit unions and finance companies are
+significant players in the consumer loan market. Investment firms and retailers
+are significant competitors for some types of business. Banks compete for
+deposits with a broad spectrum of other types of investments such as mutual
+funds, stocks and debt securities of corporations, and debt securities of the
+federal government, state governments and their respective agencies. The
+principal methods of competition for financial services are price (interest
+rates paid on deposits, interest rates charged on borrowings and fees charged
+for services) and service (convenience and quality of services rendered to
+customers).
+
+         The Corporation's business is described on pages 2 through 32 of the
+Business Review Section of the Annual Report to Shareholders for the year ended
+December 31, 2002, which is incorporated herein by reference.
+
+
+                                       5
+<PAGE>
+
+                           REGULATION AND SUPERVISION
+GENERAL
+
+         The Corporation, PIB and PNA are bank holding companies subject to
+supervision and regulation by the Federal Reserve Board under the BHC Act. Under
+the BHC Act prior to recent legislation that significantly altered these rules,
+bank holding companies activities and those of their banking and non-banking
+subsidiaries were limited to the business of banking and activities closely
+related to banking, and no bank holding company could directly or indirectly
+acquire ownership or control of more than 5% of any class of voting shares or
+substantially all of the assets of any company in the United States, including a
+bank, without the prior approval of the Federal Reserve Board. In addition, bank
+holding companies generally have been prohibited under the BHC Act from engaging
+in non-banking activities, unless they were found by the Federal Reserve Board
+to be closely related to banking. See "- Financial Services Modernization" below
+for information about the recent legislation that changed these rules.
+
+         Banco Popular is considered a foreign bank for purposes of the
+International Banking Act of 1978 (the "IBA"). Under the IBA, Banco Popular is
+not permitted to operate a branch or agency that is located outside of its "home
+state", except to the extent that a national bank with the same home state is
+permitted to do so as described under "-Interstate Banking Legislation" below.
+Puerto Rico is not considered a state for purposes of these geographic
+limitations. Banco Popular has designated the state of New York as its home
+state.
+
+         Banco Popular, BPNA and Banco Popular, N.A. are subject to supervision
+and examination by applicable federal and state banking agencies including, in
+the case of Banco Popular, the Federal Reserve Board and the Office of the
+Commissioner of Financial Institutions of Puerto Rico, in the case of BPNA, the
+Federal Reserve Board and the New York State Banking Department and in the case
+of Banco Popular, N.A., the Office of the Comptroller of the Currency ("OCC").
+Banco Popular, BPNA and Banco Popular, N.A. are subject to requirements and
+restrictions under federal and state law, including requirements to maintain
+reserves against deposits, restrictions on the types and amounts of loans that
+may be granted and the interest that may be charged thereon, and limitations on
+the other types of investments that may be made and the types of services that
+may be offered. Various consumer laws and regulations also affect the operations
+of Banco Popular, BPNA and Banco Popular, N.A. See "- Financial Services
+Modernization" below for information about recent legislation that changed these
+rules. In addition to the impact of regulations, commercial banks are affected
+significantly by the actions of the Federal Reserve Board as it attempts to
+control the money supply and credit availability in order to influence the
+economy.
+
+FDICIA
+
+         Under the Federal Deposit Insurance Corporation Improvement Act of 1991
+and the regulations promulgated thereunder ("FDICIA"), the federal banking
+regulators must take prompt corrective action in respect of depository
+institutions that do not meet minimum capital requirements. FDICIA establishes
+five capital tiers: "well capitalized", "adequately capitalized",
+"undercapitalized", "significantly undercapitalized", and "critically
+undercapitalized". A depository institution is deemed well capitalized if it
+maintains a leverage ratio of at least 5%, a risk-based Tier 1 capital ratio of
+at least 6% and a risk-based total capital ratio of at least 10% and is not
+subject to any written agreement or directive to meet a specific capital level.
+A depository institution is deemed adequately capitalized if it is not well
+capitalized but maintains a leverage ratio of at least 4% (or at least 3% if
+given the highest regulatory rating and not experiencing or anticipating
+significant growth), a risk-based Tier 1 capital ratio of at least 4% and a
+risk-based total capital ratio of at least 8%. A depository institution is
+deemed undercapitalized if it fails to meet the standards for adequately
+capitalized institutions (unless it is deemed significantly or critically
+undercapitalized). An institution is deemed significantly undercapitalized if it
+has a leverage ratio of less than 3%, a risk-based Tier 1 capital ratio of less
+than 3% or a risk-based total capital ratio of less than 6%. An institution is
+deemed critically undercapitalized if it has tangible equity equal to 2% or less
+of total assets. A depository institution may be deemed to be in a
+capitalization category that is lower than is indicated by its actual capital
+position if it receives a less than satisfactory examination rating in any one
+of four categories.
+
+
+                                       6
+<PAGE>
+
+         At December 31, 2002, Banco Popular, BPNA and Banco Popular, N.A. were
+all well capitalized. An institution's capital category, as determined by
+applying the prompt corrective action provisions of law, may not constitute an
+accurate representation of the overall financial condition or prospects of the
+institution, and the capital condition of the Corporation's banking subsidiaries
+should be considered in conjunction with other available information regarding
+the Corporation's financial condition and results of operations.
+
+         FDICIA generally prohibits a depository institution from making any
+capital distribution (including payment of a dividend) or paying any management
+fee to its holding company if the depository institution would thereafter be
+undercapitalized. Undercapitalized depository institutions are subject to
+restrictions on borrowing from the Federal Reserve System. In addition,
+undercapitalized depository institutions are subject to growth limitations and
+are required to submit capital restoration plans. A depository institution's
+holding company must guarantee the capital plan, up to an amount equal to the
+lesser of 5% of the depository institution's assets at the time it becomes
+undercapitalized or the amount of the capital deficiency when the institution
+fails to comply with the plan. The federal banking agencies may not accept a
+capital plan without determining, among other things, that the plan is based on
+realistic assumptions and is likely to succeed in restoring the depository
+institution's capital. If a depository institution fails to submit an acceptable
+plan, it is treated as if it is significantly undercapitalized. Significantly
+undercapitalized depository institutions may be subject to a number of
+requirements and restrictions, including orders to sell sufficient voting stock
+to become adequately capitalized, requirements to reduce total assets and
+cessation of receipt of deposits from correspondent banks. Critically
+undercapitalized depository institutions are subject to appointment of a
+receiver or conservator.
+
+         The capital-based prompt corrective action provisions of FDICIA apply
+to FDIC-insured depository institutions such as Banco Popular, BPNA and Banco
+Popular, N.A., but they are not directly applicable to holding companies such as
+the Corporation, PIB and PNA, which control such institutions. However, federal
+banking agencies have indicated that, in regulating holding companies, they may
+take appropriate action at the holding company level based on their assessment
+of the effectiveness of supervisory actions imposed upon subsidiary insured
+depository institutions pursuant to such provisions and regulations.
+
+HOLDING COMPANY STRUCTURE
+
+         Banco Popular, BPNA and Banco Popular, N.A. are subject to restrictions
+under federal law that limit the transfer of funds by any of them to the
+Corporation, PIB, PNA, or any of the Corporation's other non-banking
+subsidiaries, whether in the form of loans, other extensions of credit,
+investments or asset purchases. Such transfers by Banco Popular, BPNA and Banco
+Popular, N.A. to any of the Corporation, PIB, PNA, or any non-banking
+subsidiaries are limited in amount to 10% of the transferring institution's
+capital stock and surplus and, with respect to the Corporation and all of its
+non-banking subsidiaries, to an aggregate of 20% of the transferring
+institution's capital stock and surplus. For these purposes an institution's
+capital stock and surplus includes its total risk-based capital plus the balance
+of its allowance for loan losses not included therein. Furthermore, any such
+loans and extensions of credit are required to be secured in specified amounts.
+In addition, federal law requires that any transaction between Banco Popular,
+BPNA or Banco Popular, N.A., on the one hand, and the Corporation, PIB, PNA or
+any of the Corporation's other non-banking subsidiaries, on the other hand, be
+carried out on an arm's length basis.
+
+         Under the Federal Reserve Board policy, a bank holding company such as
+the Corporation, PIB or PNA is expected to act as a source of financial strength
+to each of its subsidiary banks and to commit resources to support each
+subsidiary bank. This support may be required at times when, absent such policy,
+the bank holding company might not otherwise provide such support. In addition,
+any capital loans by a bank holding company to any of its subsidiary depository
+institutions are subordinated in right of payment to deposits and to certain
+other indebtedness of such subsidiary depository institution. In the event of a
+bank holding company's bankruptcy, any commitment by the bank holding company to
+a federal bank
+
+
+                                       7
+<PAGE>
+
+regulatory agency to maintain the capital of a subsidiary depository institution
+will be assumed by the bankruptcy trustee and entitled to a priority of payment.
+Banco Popular, BPNA and Banco Popular, N.A. are currently the only depository
+institution subsidiaries of the Corporation, PIB and PNA.
+
+         Because the Corporation, PIB and PNA are holding companies, their right
+to participate in the assets of any subsidiary upon the latter's liquidation or
+reorganization will be subject to the prior claims of the subsidiary's creditors
+(including depositors in the case of subsidiary depository institutions) except
+to the extent that the Corporation, PIB or PNA, as the case may be, may itself
+be a creditor with recognized claims against the subsidiary.
+
+         Under the Federal Deposit Insurance Act (the "FDIA"), a depository
+institution whose deposits are insured by the FDIC can be held liable for any
+loss incurred by, or reasonably expected to be incurred by, the FDIC in
+connection with (i) the default of a commonly controlled FDIC-insured depository
+institution or (ii) any assistance provided by the FDIC to any commonly
+controlled FDIC-insured depository institution "in danger of default". "Default"
+is defined generally as the appointment of a conservator or a receiver, and "in
+danger of default" is defined generally as the existence of certain conditions
+indicating that a default is likely to occur in the absence of regulatory
+assistance. Banco Popular, BPNA and Banco Popular, N.A. are currently
+FDIC-insured depository institution subsidiaries of the Corporation and subject
+to this cross-guarantee liability. In some circumstances (depending upon the
+amount of the loss or anticipated loss suffered by the FDIC), cross-guarantee
+liability may result in the ultimate failure or insolvency of one or more
+insured depository institutions in a holding company structure. Any obligation
+or liability owed by a subsidiary depository institution to its parent company
+is subordinated to the subsidiary depository institution's cross-guarantee
+liability with respect to commonly controlled FDIC-insured depository
+institutions.
+
+DIVIDEND RESTRICTIONS
+
+         The principal source of cash flow for the Corporation is dividends from
+Banco Popular. Various statutory provisions limit the amount of dividends Banco
+Popular may pay to the Corporation without regulatory approval. As a member bank
+subject to the regulation of the Federal Reserve Board, Banco Popular must
+obtain the approval of the Federal Reserve Board for any dividend if the total
+of all dividends declared by the member bank in any calendar year would exceed
+the total of its net profits, as defined by the Federal Reserve Board, for that
+year, combined with its retained net profits for the preceding two years. In
+addition, a member bank may not pay a dividend in an amount greater than its
+undivided profits then on hand after deducting its losses and bad debts. For
+this purpose, bad debts are generally defined to include the principal amount of
+loans that are in arrears with respect to interest by six months or more unless
+such loans are fully secured and in the process of collection. Moreover, for
+purposes of this limitation, a member bank is not permitted to add the balance
+in its allowance for loan losses account to its undivided profits then on hand.
+A member bank may, however, net the sum of its bad debts, as defined, against
+the balance in its allowance for loan losses account and deduct from undivided
+profits only bad debts, as so defined, in excess of that account. At December
+31, 2002, Banco Popular could have declared a dividend of approximately $163
+million without the approval of the Federal Reserve Board.
+
+         The payment of dividends by Banco Popular, BPNA and Banco Popular, N.A.
+may also be affected by other regulatory requirements and policies, such as the
+maintenance of adequate capital. If, in the opinion of the applicable regulatory
+authority, a depository institution under its jurisdiction is engaged in, or is
+about to engage in, an unsafe or unsound practice (that, depending on the
+financial condition of the depository institution, could include the payment of
+dividends), such authority may require, after notice and hearing, that such
+depository institution cease and desist from such practice. In addition, all
+FDIC-insured depository institutions are subject to the capital-based
+limitations required by the FDICIA. See "-FDICIA" above.
+
+         See "-Puerto Rico Regulation-General" below for a description of
+certain restrictions on Banco Popular's ability to pay dividends under Puerto
+Rico law.
+
+
+                                       8
+<PAGE>
+
+FDIC INSURANCE ASSESSMENTS
+
+         Banco Popular, BPNA and Banco Popular, N.A. are subject to FDIC deposit
+insurance assessments. Pursuant to the FDICIA, the FDIC has adopted a risk-based
+assessment system, under which the assessment rate for an insured depository
+institution varies according to the level of risk incurred in its activities. An
+institution's risk category is based partly upon whether the institution is well
+capitalized, adequately capitalized or less than adequately capitalized. Each
+FDIC-insured depository institution is also assigned to one of the following
+"supervisory subgroups": "A", "B" or "C". Group "A" institutions are financially
+sound institutions with only a few minor weaknesses; Group "B" institutions are
+institutions that demonstrate weaknesses that, if not corrected, could result in
+significant deterioration; and Group "C" institutions are institutions for which
+there is a substantial probability that the FDIC will suffer a loss in
+connection with the institution unless effective action is taken to correct the
+areas of weakness.
+
+         Currently premiums related to deposits assessed by both the BIF and the
+Savings Association Insurance Fund ("SAIF") are to be assessed at an annual rate
+of between 0 cents and 27 cents per $100.00 of deposits.
+
+         The Deposit Insurance Funds Act of 1996 also separated the Financing
+Corporation ("FICO") assessment to service the interest on its bond obligations
+from the BIF and SAIF assessments. The amount assessed on individual
+institutions by the FICO is in addition to the amount, if any, paid for deposit
+insurance according to the FDIC's risk-related assessment rate schedules. The
+current FICO annual assessment rate is 1.68 cents per $100 of deposits. As of
+December 31, 2002, the Corporation had a BIF deposit assessment base of
+approximately $16.9 billion.
+
+         Because of favorable loss experience and a healthy reserve ratio in the
+BIF, well capitalized and well managed banks, including the Corporation's bank
+subsidiaries, have in recent years paid no premiums for FDIC insurance. In the
+future, even well capitalized and well managed banks may be required to pay
+premiums on deposit insurance. It is not possible to determine when any such
+premiums will become assessable or the level of such premiums.
+
+BROKERED DEPOSITS
+
+         FDIC regulations adopted under FDICIA govern the receipt of brokered
+deposits. Under these regulations, a bank cannot accept, roll over or renew
+brokered deposits (which term is defined also to include any deposit with an
+interest rate more than 75 basis points above prevailing rates) unless (i) it is
+well capitalized or (ii) it is adequately capitalized and receives a waiver from
+the FDIC. A bank that is adequately capitalized may not pay an interest rate on
+any deposits in excess of 75 basis points over certain prevailing market rates
+specified by regulation. There are no such restrictions on a bank that is well
+capitalized. The Corporation does not believe the brokered deposits regulation
+has had or will have a material effect on the funding or liquidity of Banco
+Popular, BPNA or Banco Popular, N.A.
+
+CAPITAL ADEQUACY
+
+         Information about the capital composition of the Corporation as of
+December 31, 2002 and for the four previous years is presented in Table H
+"Capital Adequacy Data" on page 17 in the "Management's Discussion and Analysis
+of Financial Condition and Results of Operations" (MD&A).
+
+         Under the Federal Reserve Board's risk-based capital guidelines for
+bank holding companies and member banks, the minimum ratio of qualifying total
+capital ("Total Capital") to risk-weighted assets (including certain off-balance
+sheet items, such as standby letters of credit) is 8%. At least half of the
+Total Capital is to be comprised of common equity, retained earnings, minority
+interest in equity accounts of consolidated subsidiaries, qualifying
+non-cumulative perpetual preferred stock and a limited amount of cumulative
+perpetual preferred stock less goodwill and certain other intangible assets
+("Tier 1 Capital"). The remainder may consist of a limited amount of
+subordinated debt, other preferred stock, certain other instruments and a
+limited amount of loan and lease loss reserves ("Tier 2 Capital").
+
+
+                                       9
+<PAGE>
+
+         In addition, the Federal Reserve Board has established minimum leverage
+ratio guidelines for bank holding companies and member banks. These guidelines
+provide for a minimum ratio of Tier 1 Capital to total assets, less goodwill and
+certain other intangible assets discussed below (the "leverage ratio") of 3% for
+bank holding companies and member banks that have the highest regulatory rating
+or have implemented the Federal Reserve Board's market risk capital measure. All
+other bank holding companies and member banks are required to maintain a minimum
+leverage ratio of 4%. The guidelines also provide that banking organizations
+experiencing internal growth or making acquisitions are expected to maintain
+strong capital positions substantially above the minimum supervisory levels,
+without significant reliance on intangible assets. Furthermore, the guidelines
+indicate that the Federal Reserve Board will continue to consider a "tangible
+Tier 1 leverage ratio" and other indicia of capital strength in evaluating
+proposals for expansion or new activities. The tangible Tier 1 leverage ratio is
+the ratio of a banking organization's Tier 1 Capital less all intangibles, to
+total assets less all intangibles.
+
+         Banco Popular and BPNA are subject to the risk-based and leverage
+capital requirements adopted by the Federal Reserve Board. Banco Popular, N.A.
+is subject to substantially similar requirements of the OCC. See Consolidated
+Financial Statements, Note 20 "Regulatory Capital Requirements" on page 58 for
+the capital ratios of the Corporation, Banco Popular and BPNA. Failure to meet
+capital guidelines could subject the Corporation and its depository institution
+subsidiaries to a variety of enforcement remedies, including the termination of
+deposit insurance by the FDIC and to certain restrictions on its business. See
+"- FDICIA".
+
+         The U.S. federal bank regulatory agencies' risk-capital guidelines are
+based upon the 1988 capital accord of the Basel Committee on Banking Supervision
+(the "BIS"). The BIS is a committee of central banks and bank
+supervisors/regulators from the major industrialized countries that develops
+broad policy guidelines that each country's supervisors can use to determine the
+supervisory policies they apply. In January 2001 the BIS released a proposal to
+replace the 1988 capital accord with a new capital accord that would set capital
+requirements for operational risk and refine the existing capital requirements
+for credit risk and market risk exposures. Operational risk is defined to mean
+the risk of direct or indirect loss resulting from inadequate or failed internal
+processes, people and systems or from external events. The 1988 capital accord
+does not include separate capital requirements for operational risk. The events
+of September 11, 2001 demonstrate the importance for financial institutions of
+managing operational risks. The BIS intends to finalize the new capital accord
+in the fourth quarter of 2003, allowing for implementation of the new framework
+in each country at year-end 2006. The ultimate timing for a new accord, and the
+specifics of capital assessments for addressing operational risk, are uncertain.
+However, the Corporation expects that a new capital accord addressing
+operational risk will eventually be adopted by the BIS and implemented by the
+U.S. federal bank regulatory agencies. The Corporation cannot determine whether
+new capital requirements that may arise out of a new BIS capital accord will
+increase or decrease minimum capital requirements applicable to the Corporation
+and its subsidiaries.
+
+INTERSTATE BANKING LEGISLATION
+
+         The Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994
+permits a bank holding company, with Federal Reserve Board approval, to acquire
+banks located in states other than the holding company's home state without
+regard to whether the transaction is prohibited under state law. In addition,
+national and state banks with different home states are permitted to merge
+across state lines, with approval of the appropriate federal banking agency,
+unless the home state of a participating bank passed legislation prior to May
+31, 1997 expressly prohibiting interstate mergers. States are also allowed to
+permit de novo interstate branching. Once a bank has established branches in a
+state through an interstate merger transaction, the bank may establish or
+acquire additional branches at any location in the state where any bank involved
+in the interstate merger transaction could have established or acquired branches
+under applicable federal or state law. A bank that has established a branch in a
+state through de novo branching (if permitted under state laws) may establish
+and acquire additional branches in such state in the same manner and to the same
+extent as a bank having a branch in such state as a result of an interstate
+merger. If a state
+
+
+                                       10
+<PAGE>
+
+opted out of interstate branching within the specified time period, no bank in
+any other state may establish a branch in the state that has opted out, whether
+through an acquisition or de novo. A foreign bank, like Banco Popular, may
+establish branches interstate by merger or de novo to the same extent as
+domestic banks in the foreign bank's home state, which, in the case of Banco
+Popular, is New York.
+
+FINANCIAL SERVICES MODERNIZATION
+
+         The Gramm-Leach-Bliley Act was enacted on November 12, 1999. Among
+other things, the Gramm-Leach-Bliley Act: (i) allows bank holding companies
+whose subsidiary depository institutions meet management, capital and Community
+Reinvestment Act standards to engage in a substantially broader range of
+nonbanking activities than was previously permissible, including insurance
+underwriting and making merchant banking investments in commercial and financial
+companies; (ii) allows insurers and other financial services companies to
+acquire banks; (iii) removes various restrictions that previously applied to
+bank holding company ownership of securities firms and mutual fund advisory
+companies; and (iv) establishes the overall regulatory structure applicable to
+bank holding companies that also engage in insurance and securities operations.
+This part of the Gramm-Leach-Bliley Act became effective on March 11, 2000.
+
+         In order for a bank holding company to engage in the broader range of
+activities that are permitted by the Gramm-Leach-Bliley Act (i) all of its
+depository institution subsidiaries must be well capitalized (as described
+above) and well managed and (ii) it must file a declaration with the Federal
+Reserve Board that it elects to be a "financial holding company." A depository
+institution is deemed to be "well managed" if at its most recent inspection,
+examination or subsequent review by the appropriate federal banking agency (or
+the appropriate state banking agency), the depository institution received at
+least a "satisfactory" composite rating and at least a "satisfactory" rating for
+management. In addition, to commence any new activity permitted by the
+Gramm-Leach-Bliley Act and to acquire any company engaged in any new activities
+permitted by the Gramm-Leach-Bliley Act, each insured depository institution
+subsidiary of the financial holding company must have received at least a
+"satisfactory" rating in its most recent examination under the Community
+Reinvestment Act.
+
+         The Federal Reserve Bank of New York approved Popular, Inc.'s election
+to become a financial holding company effective April 30, 2002.
+
+         The Gramm-Leach-Bliley Act also modified other laws, including laws
+related to financial privacy and community reinvestment. The new financial
+privacy provisions generally prohibit financial institutions, including the
+Corporation's bank subsidiaries, from disclosing nonpublic personal financial
+information to third parties unless customers have the opportunity to "opt out"
+of the disclosure.
+
+         In January 2002, the federal bank regulators adopted rules, effective
+April 1, 2002, governing the regulatory capital treatment of equity investments
+in nonfinancial companies. The federal rules require a series of marginal
+capital charges on covered equity investments that increase with the level of
+those investments as a percentage of the Corporation's Tier 1 capital. With
+certain exceptions, the rules require that the Corporation and its bank
+subsidiaries deduct from Tier 1 capital the appropriate percentage set out
+below:
+
+
+                                       11
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                    Aggregate Carrying Value of                Required Deductions From
+                    Covered Nonfinancial Equity                   Tier 1 Capital as a
+                  Investments as a percentage of              percentage of the Carrying
+                          Tier 1 Capital                      Value of the Investments
+                  -------------------------------            ---------------------------
+                  <S>                                        <C>
+                               <15%                                       8%
+                           > 15% but <25%                                12%
+                           -
+                               >25%                                      25%
+                               -
+</TABLE>
+
+         The adoption of this rule did not have a material effect on the
+Corporation's capital requirements during 2002.
+
+         Various other legislation, including proposals to limit the investments
+that a depository institution may make with insured funds, is from time to time
+introduced in Congress. The Corporation cannot determine the ultimate effect
+that such potential legislation, if enacted, or implementing regulations would
+have upon its financial condition or results of operations.
+
+         On October 26, 2001, the President signed into law comprehensive
+anti-terrorism legislation known as the USA PATRIOT Act of 2001 (the "USA
+Patriot Act"). Title III of the USA Patriot Act substantially broadened the
+scope of U.S. anti-money laundering laws and regulations by imposing
+significant new compliance and due diligence obligations, creating new crimes
+and penalties and expanding the extra-territorial jurisdiction of the United
+States.
+
+         The U.S. Treasury Department ("Treasury") has issued a number of
+regulations implementing the USA Patriot Act that apply certain of its
+requirements to financial institutions, including the Corporation's bank
+subsidiaries. The regulations impose new obligations on financial institutions
+to maintain appropriate policies, procedures and controls to detect, prevent
+and report money laundering and terrorist financing. Treasury is expected to
+issue a number of additional regulations that will further clarify the USA
+Patriot Act's requirements.
+
+         Failure of a financial institution to comply with the USA Patriot Act's
+requirements could have serious legal and reputational consequences for the
+institution. [The Corporation has adopted appropriate policies, procedures and
+controls to address compliance with the requirements of the USA Patriot Act
+under the existing regulations. It will continue to revise and update its
+policies, procedures and controls to reflect changes required by the USA Patriot
+Act and Treasury's regulations.] The Corporation believes that the cost of
+compliance with Title III of the USA Patriot Act is not likely to be material to
+the Corporation.
+
+PUERTO RICO REGULATION
+
+         GENERAL. As a commercial bank organized under the laws of Puerto Rico,
+Banco Popular is subject to supervision, examination and regulation by the
+Office of the Commissioner of Financial Institutions of Puerto Rico (the "Office
+of the Commissioner"), pursuant to the Puerto Rico Banking Act of 1933, as
+amended (the "Banking Law").
+
+         Section 27 of the Banking Law requires that at least ten percent (10%)
+of the yearly net income of Banco Popular be credited annually to a reserve
+fund. This apportionment must be done every year until the reserve fund is equal
+to the total of paid-in capital on common and preferred stock. At the end of its
+most recent fiscal year, Banco Popular had a fund established in compliance with
+these requirements.
+
+         Section 27 of the Banking Law also provides that when the expenditures
+of a bank are greater than its receipts, the excess of the former over the
+latter must be charged against the undistributed profits of the bank, and the
+balance, if any, must be charged against the reserve fund as a reduction
+thereof. If the reserve fund is not sufficient to cover such balance in whole or
+in part, the outstanding amount must be charged against the capital account and
+no dividend may be declared until said capital has been restored to its original
+amount and the reserve fund to 20% of the original capital.
+
+         Section 16 of the Banking Law requires every bank to maintain a legal
+reserve that, except as otherwise provided by the Office of the Commissioner,
+may not be less than 20% of its demand liabilities, excluding government
+deposits (federal, state and municipal) which are secured by collateral. If a
+bank is authorized to establish one or more bank branches in a state of the
+United States or in a foreign country, where such branches are subject to the
+reserve requirements of that state or country, the Office of the Commissioner
+may exempt said branch or branches from the reserve requirements of Section 16.
+Pursuant to an order of the Federal Reserve Board dated November 24, 1982, Banco
+Popular has been exempted from the reserve requirements of the Federal Reserve
+System with respect to deposits payable in Puerto Rico. Accordingly, Banco
+Popular is subject to the reserve requirements prescribed by the Banking Law.
+
+
+                                       12
+<PAGE>
+
+         Section 17 of the Banking Law permits a bank to make loans to any one
+person, firm, partnership or corporation, up to an aggregate amount of fifteen
+percent (15%) of the paid-in capital and reserve fund of the bank. As of
+December 31, 2002, the legal lending limit for the Bank under this provision was
+approximately $93.7 million. The above limitations do not apply to loans which
+are secured by collateral worth at least 25% more than the amount of the loan up
+to a maximum aggregate amount of one third of the paid-in capital of the bank,
+plus its reserve fund. If the institution is well capitalized and had been rated
+1 in the last examination performed by the Office of the Commissioner or any
+regulatory agency, its legal lending limit shall also include 15% of 50% of its
+undivided profits and for loans secured by collateral worth at least 25% more
+than the amount of the loan, the capital of the bank shall also include 33 1/3%
+of 50% of its undivided profits. Institutions rated 2 in their last regulatory
+examination may include this additional component in their legal lending limit
+only with the previous authorization of the Office of the Commissioner. There
+are no restrictions under Section 17 on the amount of loans that are wholly
+secured by bonds, securities and other evidence of indebtedness of the
+Government of the United States or Puerto Rico, or by current debt bonds, not in
+default, of municipalities or instrumentalities of Puerto Rico.
+
+         Section 14 of the Banking Law authorizes a bank to conduct certain
+financial and related activities directly or through subsidiaries, including
+finance leasing of personal property, originating and servicing mortgage loans
+and operating a small loan company. Banco Popular engages in these activities
+through its wholly-owned subsidiaries, Popular Auto, Inc., Popular Mortgage,
+Inc. and Popular Finance, Inc., respectively, all of which are organized and
+operate in Puerto Rico.
+
+         The Finance Board, which includes as its members the Commissioner of
+Financial Institutions, the Secretary of the Treasury, the Secretary of
+Commerce, the Secretary of Consumer Affairs, the President of the Planning
+Board, and the President of the Government Development Bank for Puerto Rico, has
+the authority to regulate the maximum interest rates and finance charges that
+may be charged on loans to individuals and unincorporated businesses in Puerto
+Rico. The current regulations of the Finance Board provide that the applicable
+interest rate on loans to individuals and unincorporated businesses (including
+real estate development loans but excluding certain other personal and
+commercial loans secured by mortgages on real estate properties and finance
+charges on retail installment sales and for credit card purchases) is to be
+determined by free competition.
+
+         IBC ACT. Under the IBC Act, without the prior approval of the Office of
+the Commissioner, PIB may not amend its articles of incorporation or issue
+additional shares of capital stock or other securities convertible into
+additional shares of capital stock unless such shares are issued directly to the
+shareholders of PIB previously identified in the application to organize the
+international banking entity, in which case notification to the Office of the
+Commissioner must be given within ten business days following the date of the
+issue. Pursuant to the IBC Act, without the prior approval of the Office of the
+Commissioner, PIB may not initiate the sale, encumbrance, assignment, merger or
+other transfer of shares if by such transaction a person or persons acting in
+concert could acquire direct or indirect control of 10% or more of any class of
+PIB's stock. Such authorization must be requested at least 30 days prior to the
+transaction.
+
+         PIB must submit to the Office of the Commissioner a report of its
+condition and results of operation on a quarterly basis and its annual audited
+financial statements at the close of its fiscal year. Under the IBC Act, PIB may
+not deal with "domestic persons" as such term is defined in the IBC Act. Also,
+it may only engage in those activities authorized in the IBC Act, the
+regulations adopted thereunder and its license.
+
+         The IBC Act empowers the Office of the Commissioner to revoke or
+suspend, after a hearing, the license of an international banking entity if,
+among other things, it fails to comply with the IBC Act, regulations issued by
+the Office of the Commissioner or the terms of its license or if the Office of
+the Commissioner finds that the business of the international banking entity is
+conducted in a manner not consistent with the public interest.
+
+
+                                       13
+<PAGE>
+
+Employees
+
+         At December 31, 2002, the Corporation employed directly 10,959 persons.
+None of its employees are represented by a collective bargaining group.
+
+SEGMENT DISCLOSURE
+
+         Note 32 to the Financial Statements, "Segment Reporting" on pages 68
+and 69 is herein incorporated by reference.
+
+         The principal market for the Corporation is Puerto Rico, where the
+Corporation had $22.3 billion or 66% of its total assets as of December 31, 2002
+and earned $1.2 billion or 69% of its total revenues for the year then ended.
+Total assets, loans and deposits of commercial banks and financial institutions
+in Puerto Rico as of December 31, 2002 were estimated at $67 billion, $36
+billion and $38 billion, respectively. At that date the Corporation's commercial
+banking operation in the island had an estimated market share of 27% and 30% in
+loans and deposits, respectively.
+
+AVAILABILITY ON WEBSITE
+
+         We make available free of charge, through our investor relations
+section at our website, http://www.popularinc.com, our Form 10-K, Form 10-Q and
+Form 8-K reports and all amendments to those reports as soon as reasonably
+practicable after such material is electronically filed with or furnished to the
+Securities and Exchange Commission.
+
+         The public may read and copy any materials the Corporation files with
+the SEC at the SEC's Public Reference Room at 450 Fifth Street, NW, Washington,
+DC 20549. In addition, the public may obtain information on the operation of the
+Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an
+Internet site that contains reports, proxy and information statements, and other
+information regarding issuers that file electronically with the SEC at its web
+site (http://www.sec.gov).
+
+ITEM 2.  PROPERTIES
+
+         As of December 31, 2002, Banco Popular owned (and wholly or partially
+occupied) approximately 90 branch premises and other facilities throughout the
+Commonwealth, 27 lots held for future development or for parking facilities also
+in Puerto Rico, and one building in the U.S. Virgin Islands. In addition, as of
+such date, Banco Popular leased properties for branch operations in
+approximately 127 locations in Puerto Rico and 7 locations in the U.S. Virgin
+Islands. At December 31, 2002, BPNA had 108 offices (principally bank branches)
+of which 48 were owned and 60 were leased. These offices were located throughout
+New York, Illinois, New Jersey, California, Texas and Florida. The Corporation's
+management believes that each of its facilities is well maintained and suitable
+for its purpose. The principal properties owned by the Corporation for banking
+operations and other services are described below:
+
+         Popular Center, the San Juan metropolitan area headquarters, located at
+209 Munoz Rivera Avenue, Hato Rey, Puerto Rico, a 20 story office building.
+Approximately 50% of the office space is leased to outside tenants.
+
+         Cupey Center Complex, three buildings, one of three stories, and two of
+two stories each, located in Cupey, Rio Piedras, Puerto Rico. The computer
+center, operational and support services, and a recreational center for
+employees are some of the main activities conducted at these facilities. The
+facilities are fully occupied by Banco Popular's personnel. An adjacent
+two-story building held for future expansion is partially occupied by Banco
+Popular personnel and a parking garage building with capacity for 1,000 cars was
+completed during 2002.
+
+
+                                       14
+<PAGE>
+
+         Stop 22 - Santurce building, a twelve story structure located in
+Santurce, Puerto Rico. A branch, the accounting department, the human resources
+division and the auditing department are the main activities conducted at this
+facility, which is fully occupied by Banco Popular personnel.
+
+         Centro Europa Building - a seven-story office and retail building in
+Santurce, Puerto Rico was acquired during 2002. The Bank's training center
+occupies approximately 26% of this building. The remaining space is rented to
+outside tenants.
+
+         Old San Juan building, a twelve-story structure located at Old San
+Juan, Puerto Rico. Banco Popular occupies approximately 43% of the building for
+a branch operation, a regional office, an exhibit room and other facilities. The
+rest of the building is rented or available for rent to outside tenants.
+
+         Mortgage Loan Center, a four story building located at 167 Ponce de
+Leon Avenue, Hato Rey, Puerto Rico is fully occupied by Popular Mortgage, Inc.
+The buildings at 153 and 157 Ponce de Leon, which housed the Mortgage Servicing
+Division, were demolished during 2002 and a new office and parking building is
+under construction at the site. The Mortgage Servicing Division was relocated to
+a recently acquired two-story building at the Corporate Office Park in Guaynabo,
+Puerto Rico.
+
+         Guaynabo Corporate Office Park Building, a two story building located
+in Guaynabo. This building is occupied by Banco Popular's mortgage servicing
+departments. In addition, Popular Mortgage, Inc., Popular Insurance, Inc. and an
+outside tenant have leased spaces.
+
+         Altamira building, a new nine-story office building is under
+construction in Rio Piedras, Puerto Rico. A seven-level parking garage is also
+part of this project that will house the centralized offices of Popular
+Mortgage, Inc. and Popular Auto, Inc. It will also include a full service branch
+and the Mortgage Servicing Division of Banco Popular.
+
+         Banco Popular Virgin Islands Center, a three-story building housing a
+Banco Popular branch and centralized offices. The building is fully occupied by
+Banco Popular personnel.
+
+         New York building, a nine-story owned structure with two underground
+levels located at 7 West 51st Street, New York City. BPNA occupies approximately
+40% of the office space. The remaining space is 16% rented and 44% available for
+rent to outside tenants.
+
+         Chicago building, a six-story building located at 9600 West Bryn Mawr
+Avenue, Rosemont, Illinois, is a new location for BPNA's executive offices,
+human resources division and operations department. BPNA was relocated to these
+facilities in October 2002, renting four floors in this building, allowing it to
+consolidate these functions in one location.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         On January 16, 2003 the U.S. District Court for the District of Puerto
+Rico approved a Deferred Prosecution Agreement (the "Agreement") among Banco
+Popular, the U.S. Department of Justice, the Board of Governors of the Federal
+Reserve System, and the Financial Crimes Enforcement Network of the U.S.
+Department of the Treasury ("FinCEN"). The Agreement concludes an investigation
+related principally to the circumstances surrounding the activities of a former
+customer of the Bank, including Banco Popular's reporting and compliance
+efforts, as well as certain other customers. The former customer has pleaded
+guilty to money laundering, including in connection with transactions made
+through an account at Banco Popular. No current or former Bank officer, director
+or employee has been charged with a crime or accused of benefiting financially
+from the transactions described in the Agreement.
+
+         Under the Agreement, Banco Popular agreed to the filing of a one-count
+information charging it with failure to file suspicious activity reports in a
+timely and complete manner. The Agreement provides for Banco Popular to forfeit
+$21.6 million to the United States, and resolves all claims the United States,
+
+
+                                       15
+<PAGE>
+
+FinCEN or the Federal Reserve may have against Banco Popular arising from the
+matters that were subject to investigation.
+
+         This settlement also terminates the Written Agreement Banco Popular
+signed with the Federal Reserve Bank of New York on March 9, 2000, which
+required enhancements to Banco Popular's anti-money laundering and Bank Secrecy
+Act program. The Federal Reserve found Banco Popular to be fully compliant with
+the Written Agreement on November 26, 2001. Finally, the Agreement provides that
+the court will dismiss the information and the Deferred Prosecution Agreement
+will expire 12 months following the settlement, provided that Banco Popular
+complies with its obligations under the Agreement.
+
+         On February 19, 2003, a derivative action was filed by a shareholder of
+Popular, Inc. in the United States District Court for the District of Puerto
+Rico in connection with the above -described matters against certain current and
+former directors of Popular, Inc. alleging that the defendants breached their
+fiduciary duties by failing to take the necessary steps to comply with the Bank
+Secrecy Act and to implement sufficient controls to permit them to exercise
+their oversight responsibilities and ensure compliance with Federal and state
+laws. The action seeks, on behalf of Popular, Inc., monetary damages from the
+defendants and attorneys' fees. Popular, Inc. does not expect that the foregoing
+civil action will have a material impact on Popular, Inc.'s operations or
+consolidated financial statements.
+
+         The Corporation and its subsidiaries are defendants in various lawsuits
+arising in the ordinary course of business. Management believes, based on the
+opinion of legal counsel, that the aggregate liabilities, if any, arising from
+such actions would not have a material adverse effect on the financial position
+and results of operations of the Corporation.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         Not Applicable.
+
+                                     PART II
+
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED
+         STOCKHOLDER MATTERS
+
+         The Corporation's common stock (the "Common Stock") is traded on the
+National Association of Securities Dealers Automated Quotation System (NASDAQ)
+National Market System under the symbol BPOP. Information concerning the range
+of high and low sales prices for the Corporation's common shares for each
+quarterly period during 2002 and the previous four years, as well as cash
+dividends declared is contained under Table I, "Common Stock Performance", on
+page 18 and under the caption "Stockholders' Equity" on page 17 in the MD&A, and
+is incorporated herein by reference.
+
+         Information concerning legal or regulatory restrictions on the payment
+of dividends by the Corporation and Banco Popular is contained under the caption
+"Regulation and Supervision" in Item 1 herein.
+
+         As of February 28, 2003, the Corporation had 11,117 stockholders of
+record of its Common Stock, not including beneficial owners whose shares are
+held in record names of brokers or other nominees. The last sales price for the
+Corporation's Common Stock on such date, as quoted on the NASDAQ was $33.89 per
+share.
+
+         Effective January 22, 2002, Popular, Inc. redeemed all of the
+outstanding shares of its 8.35% Non-Cumulative Monthly Income Preferred Stock,
+1994 Series A (NASDAQ: BPOPP). The redemption payment was $25.6276 per share of
+the Series A Preferred Stock, consisting of the redemption price plus an amount
+representing accrued and unpaid dividends for the current monthly dividend
+period up to, but excluding, the redemption date.
+
+
+                                       16
+<PAGE>
+
+         On November 19, 2001, a shelf registration statement filed by the
+Corporation, PIB and PNA with the Securities and Exchange Commission on November
+13, 2001, became effective. This shelf registration statement allows the
+Corporation, PIB and PNA to issue debt securities and preferred stock in an
+aggregate amount of up to $2.0 billion, of which $1.9 billion was available as
+of December 31, 2002. On February 21, 2003 a prospectus supplement was filed by
+the Corporation under the shelf registration statement offering to the public
+6,500,000 shares of 6.375% Noncumulative Monthly Income Preferred Stock, 2003
+Series A at an offering price of $25.00 per share.
+
+         The Corporation currently has $125 million in subordinated notes
+outstanding due December 15, 2005 with interest payable semi-annually at 6.75%.
+These notes are unsecured obligations, which are subordinated in right of
+payment in full to all present and future senior indebtedness of the
+Corporation. These notes do not provide for any sinking fund.
+
+         On February 5, 1997, BanPonce Trust I, a statutory business trust
+created under the laws of the State of Delaware that is wholly-owned by PNA and
+indirectly wholly-owned by the Corporation, sold to institutional investors
+$150,000,000 of its 8.327% Capital Securities Series A (liquidation amount
+$1,000 per Capital Security) ("Capital Securities") through certain
+underwriters. The proceeds of the issuance, together with the proceeds of the
+purchase by PNA of $4,640,000 of BanPonce Trust I's 8.327% common securities
+(liquidation amount $1,000 per common security) were used to purchase
+$154,640,000 aggregate principal amount of PNA's 8.327% Junior Subordinated
+Deferrable Interest Debentures, Series A (the "Junior Subordinated Debentures").
+As of December 31, 2002, the Corporation had reacquired $6,000,000 of the
+Capital Securities. The Capital Securities qualify as Tier 1 capital, are fully
+and unconditionally guaranteed by the Corporation, and are presented in the
+Consolidated Statements of Condition as "Guaranteed Preferred Beneficial
+Interest in Popular North America's Subordinated Debentures." The obligations of
+PNA under the Junior Subordinated Debentures and its guarantees of the
+obligations of BanPonce Trust I are fully and unconditionally guaranteed by the
+Corporation. The assets of BanPonce Trust I consist of $148,640,000 of Junior
+Subordinated Debentures and a related accrued interest receivable of $4,126,000
+as of December 31, 2002. The Junior Subordinated Debentures mature on February
+1, 2027; however, under certain circumstances, the maturity of the Junior
+Subordinated Debentures may be shortened (which shortening would result in a
+mandatory redemption of the Capital Securities).
+
+         The Puerto Rico Internal Revenue Code of 1994, as amended, generally
+imposes a withholding tax on the amount of any dividends paid by corporations to
+individuals, whether residents of Puerto Rico or not, trusts, estates and
+foreign corporations or partnerships not engaged in trade or business within
+Puerto Rico at a special 10% withholding tax rate. If the recipient is a foreign
+corporation or partnership engaged in trade or business within Puerto Rico or a
+domestic corporation the dividend will be taxed at regular rates but will be
+allowed an 85% dividend received deduction.
+
+         Prior to the first dividend distribution for the taxable year,
+individuals who are residents of Puerto Rico may elect to be taxed on the
+dividends at the regular rates, in which case the special 10% tax will not be
+withheld from such year's distributions.
+
+         A United States citizen who is a non-resident of Puerto Rico will not
+be subject to Puerto Rico tax on dividends if said individual's gross income
+from sources within Puerto Rico during the taxable year does not exceed $1,300
+if single, or $3,000 if married, and form AS 2732 of the Puerto Rico Treasury
+Department, "Withholding Tax Exemption Certificate for the Purpose of Section
+1147", is filed with the withholding agent.
+
+         U.S. income tax law permits a credit against U.S. income tax liability,
+subject to certain limitations, for certain foreign income taxes paid or deemed
+paid with respect to such dividends.
+
+
+                                       17
+<PAGE>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         The information required by this item appears in Table C, "Selected
+Financial Data", on pages 4 and 5 and the text under the caption "Earnings
+Analysis" on page 8 in the MD&A, and is incorporated herein by reference.
+
+         The Corporation's ratio of earnings to fixed charges on a consolidated
+basis for each of the last five years is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                         Year ended December 31,
+                                                          ------------------------------------------------
+Ratio of Earnings to Fixed Charges:
+                                                          2002       2001       2000       1999       1998
+                                                          ------------------------------------------------
+<S>                                                       <C>        <C>        <C>        <C>        <C>
+         Excluding Interest on Deposits                    2.1        1.8        1.6        1.7        1.8
+         Including Interest on Deposits                    1.5        1.4        1.3        1.4        1.4
+
+Ratio of Earnings to Fixed Charges and
+  Preferred Stock Dividends:
+
+         Excluding Interest on Deposits                    2.1        1.8        1.6        1.7        1.8
+         Including Interest on Deposits                    1.5        1.4        1.3        1.4        1.4
+</TABLE>
+
+         For purposes of computing these consolidated ratios, earnings represent
+income before income taxes, plus fixed charges. Fixed charges represent all
+interest expense (ratios are presented both excluding and including interest on
+deposits), the portion of net rental expense, which is deemed representative of
+the interest factor and the amortization of debt issuance expense.
+
+         The Corporation's long-term senior debt and preferred stock on a
+consolidated basis as of December 31 of each of the last five years is:
+
+<TABLE>
+<CAPTION>
+                                                                 Year ended December 31,
+                                       -----------------------------------------------------------------------
+     (In thousands)                       2002            2001           2000           1999            1998
+                                       -----------------------------------------------------------------------
+<S>                                    <C>             <C>            <C>            <C>            <C>
+Long-term obligations                  $4,567,853      $4,009,211     $1,451,912     $2,127,599     $1,582,160
+Non-cumulative preferred
+ stock of the Corporation                     -0-         100,000        100,000        100,000        100,000
+</TABLE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+         AND RESULTS OF OPERATIONS
+
+         The information required by this item appears on page 2 through 34
+under the caption "MD&A", and is incorporated herein by reference.
+
+         Table K, "Maturity Distribution of Earning Assets", on page 21 in the
+MD&A, has been prepared on the basis of expected maturities. The Corporation
+does not have a policy with respect to rolling over maturing loans, but rolls
+over loans only on a case-by-case basis after review of such loans in accordance
+with the Corporation's lending criteria.
+
+
+                                       18
+<PAGE>
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         The information regarding the market risk of the Corporation's
+investments appears on page 19 through 22 under the caption " MD&A", and is
+incorporated herein by reference.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The information required by this item appears on pages 35 through 79,
+and on page 30 under the caption "Statistical Summary - 2001-2002 Quarterly
+Financial Data" in the Annual Report and is incorporated herein by reference.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+         AND FINANCIAL DISCLOSURE
+
+Not Applicable.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         The information contained under the captions "Shares Beneficially Owned
+by Directors and Executive Officers of the Corporation", "Beneficial Ownership
+Reporting Compliance", "Board of Directors and Committees" including the
+"Nominees for Election as Directors" and "Executive Officers" of the
+Corporation's definitive proxy statement to be filed with the Securities and
+Exchange Commission on or about March 18, 2003 (the "Proxy Statement") is
+incorporated herein by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+          The information under the caption "Executive Compensation Program" and
+under the caption "Popular, Inc. Performance Graph" of the Proxy Statement is
+incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+         MANAGEMENT
+
+         The information under the captions "Principal Stockholders", "Shares
+Beneficially Owned by Directors and Executive Officers of the Corporation" and
+"Equity Compensation Plan Information" of the Corporation's Proxy Statement is
+incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         The information under the caption "Family Relationships" and "Other
+Relationships, Transactions and Events" of the Corporation's Proxy Statement is
+incorporated herein by reference.
+
+ITEM 14. CONTROLS AND PROCEDURES
+
+         Within the 90-day period prior to the filing of this Annual Report on
+Form 10-K, an evaluation was carried out under the supervision and with the
+participation of Popular, Inc.'s management, including its Chief Executive
+Officer and Chief Financial Officer, of the effectiveness of the design and
+operation of our disclosure controls and procedures (as defined in Rule
+13a-14(c) under the Securities Exchange Act of 1934). Based upon that
+evaluation, the Chief Executive Officer and Chief Financial Officer concluded
+that the design and operation of these disclosure controls and procedures were
+effective. No significant changes were made in our internal controls or in other
+factors that could significantly affect these controls subsequent to the date of
+their evaluation.
+
+
+                                       19
+<PAGE>
+
+                                     PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+A.       The following financial statements and reports included on pages 35
+         through 79 of the financial review section of the Corporation's Annual
+         Report to Shareholders are incorporated herein by reference:
+
+         (1)    Financial Statements:
+
+                Report of Independent Accountants
+                Consolidated Statements of Condition as of December 31, 2002
+                  and 2001
+                Consolidated Statements of Income for each of the years in
+                  the three-year period ended December 31, 2002
+                Consolidated Statements of Cash Flows for each of the years in
+                   the three-year period ended December 31, 2002
+                Consolidated Statements of Changes in Stockholders' Equity
+                   for each of the years in the three-year period ended
+                   December 31, 2002
+                Consolidated Statements of Comprehensive Income for each of the
+                   years in the three-year period ended December 31, 2002
+                Notes to Consolidated Financial Statements
+
+         (2)    Financial Statement Schedules: No schedules are presented
+                   because the information is not applicable or is included in
+                   the Consolidated Financial Statements described in A.1 above
+                   or in the notes thereto.
+
+         (3)    Exhibits
+
+                The exhibits listed on the Exhibits Index on page xx of this
+                report are filed herewith or are incorporated herein by
+                reference.
+
+B.       The Corporation filed two reports on Form 8-K during the quarter ended
+         December 31, 2002.
+
+         Dated: October 9, 2002
+
+         Filed: October 10, 2002
+
+         Items reported: Item 5 - Other Events (Operational results for the
+         quarter and nine month period ended September 30, 2002)
+
+         Dated: November 1, 2002
+
+         Filed: November 4, 2002
+
+         Items reported: Item 5 - Other Events (Certifications of the Chief
+         Executive Officer and Chief Financial Officer required under new
+         Exchange Act Rules 13a-14 and 15d-14).
+
+
+                                       20
+
+<PAGE>
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15 (d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+                                                 POPULAR, INC.
+                                                 (Registrant)
+
+
+
+                                      By:  S\RICHARD L. CARRION
+                                           ----------------------------------
+                                           Richard L. Carrion
+                                           Chairman of the Board, President
+                                           and Chief Executive Officer
+Dated:  03-13-03                           (Principal Executive Officer)
+       ----------
+
+                                      By:  S\JORGE A. JUNQUERA
+                                           ----------------------------------
+                                           Jorge A. Junquera
+                                           Senior Executive Vice President
+Dated:  03-13-03                           (Principal Financial Officer)
+       ----------
+
+                                      By:  S\AMILCAR L. JORDAN
+                                           ----------------------------------
+                                           Amilcar L. Jordan
+                                           Senior Vice President
+Dated:  03-13-03                           (Principal Accounting Officer)
+       ----------
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+<TABLE>
+<S>                               <C>                            <C>
+S\RICHARD L. CARRION              Chairman of the Board,
+--------------------------        President and Chief
+Richard L. Carrion                Executive Officer              03-13-03
+                                                                 --------
+
+S\ANTONIO LUIS FERRE              Vice Chairman of
+--------------------------        the Board
+Antonio Luis Ferre                                               03-13-03
+                                                                 --------
+
+S\JUAN J. BERMUDEZ
+--------------------------
+Juan J. Bermudez                  Director                       03-13-03
+                                                                 --------
+
+S/JOSE B. CARRION
+-------------------------
+Jose B. Carrion Jr.               Director                       03-13-03
+                                                                 --------
+
+S\DAVID H. CHAFEY
+--------------------------
+David H. Chafey Jr.               Director                       03-13-03
+                                                                 --------
+
+S\HECTOR R. GONZALEZ
+--------------------------
+Hector R. Gonzalez                Director                       03-13-03
+                                                                 --------
+
+S\JORGE A. JUNQUERA
+--------------------------
+Jorge A. Junquera                 Director                       03-13-03
+                                                                 --------
+</TABLE>
+
+
+
+                                       21
+<PAGE>
+
+<TABLE>
+
+<S>                               <C>                            <C>
+S\MANUEL MORALES
+--------------------------
+Manuel Morales Jr.                Director                       03-13-03
+                                                                 --------
+
+S\FRANCISCO M. REXACH
+--------------------------
+Francisco M. Rexach Jr.           Director                       03-13-03
+                                                                 --------
+
+S\FELIX J. SERRALLES
+--------------------------
+Felix J. Serralles Jr.            Director                       03-13-03
+                                                                 --------
+
+S\JULIO E. VIZCARRONDO
+--------------------------
+Julio E. Vizcarrondo Jr.          Director                       03-13-03
+                                                                 --------
+</TABLE>
+
+
+
+                                       22
+<PAGE>
+
+                                  CERTIFICATION
+
+I, Richard L. Carrion, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Popular, Inc.;
+2. Based on my knowledge, this annual report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this annual
+report;
+3. Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+         a) Designed such disclosure controls and procedures to ensure that
+         material information relating to the registrant, including its
+         consolidated subsidiaries, is made known to us by others within those
+         entities, particularly during the period in which this annual report is
+         being prepared;
+         b) Evaluated the effectiveness of the registrant's disclosure controls
+         and procedures as of a date within 90 days prior to the filing date of
+         this annual report (the "Evaluation Date"); and
+         c) Presented in this annual report our conclusions about the
+         effectiveness of the disclosure controls and procedures based on our
+         evaluation as of the Evaluation Date;
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent
+functions):
+         a) All significant deficiencies in the design or operation of internal
+         controls which could adversely affect the registrant's ability to
+         record, process, summarize and report financial data and have
+         identified for the registrant's auditors any material weaknesses in
+         internal controls; and
+         b) Any fraud, whether or not material, that involves management or
+         other employees who have a significant role in the registrant's
+         internal controls; and
+6. The registrant's other certifying officer and I have indicated in this annual
+report whether there were significant changes in internal controls or in
+other factors that could significantly affect internal controls subsequent to
+the date of our most recent evaluation, including any corrective actions with
+regard to significant deficiencies and material weaknesses.
+
+Date: March 17, 2003
+                                                By:  S/ Richard L. Carrion
+                                                     -----------------------
+                                                     Chief Executive Officer
+
+
+                                       23
+<PAGE>
+
+                                CERTIFICATION
+
+I, Jorge A. Junquera, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Popular, Inc.;
+2. Based on my knowledge, this annual report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this annual
+report;
+3. Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+         a) Designed such disclosure controls and procedures to ensure that
+         material information relating to the registrant, including its
+         consolidated subsidiaries, is made known to us by others within those
+         entities, particularly during the period in which this annual report is
+         being prepared;
+         b) Evaluated the effectiveness of the registrant's disclosure controls
+         and procedures as of a date within 90 days prior to the filing date of
+         this annual report (the "Evaluation Date"); and
+         c) Presented in this annual report our conclusions about the
+         effectiveness of the disclosure controls and procedures based on our
+         evaluation as of the Evaluation Date;
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent
+functions):
+         a) All significant deficiencies in the design or operation of internal
+         controls which could adversely affect the registrant's ability to
+         record, process, summarize and report financial data and have
+         identified for the registrant's auditors any material weaknesses in
+         internal controls; and
+         b) Any fraud, whether or not material, that involves management or
+         other employees who have a significant role in the registrant's
+         internal controls; and
+6. The registrant's other certifying officer and I have indicated in this annual
+report whether there were significant changes in internal controls or in
+other factors that could significantly affect internal controls subsequent to
+the date of our most recent evaluation, including any corrective actions with
+regard to significant deficiencies and material weaknesses.
+
+Date: March 17, 2003
+                                         By:  S/ Jorge A. Junquera
+                                              ----------------------
+                                              Chief Financial Officer
+
+
+
+
+                                       24
+<PAGE>
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+EXHIBIT NO.                       DESCRIPTION
+-----------                       -----------
+<S>         <C>
+   3.1      Restated Certificate of Incorporation of Popular, Inc., as
+            amended (English Translation) (incorporated herein by
+            reference to Exhibit 4(a) to Popular's Registration Statement
+            No. 333-26941 dated May 12, 1997).
+   3.2      Bylaws of Popular, Inc., as amended (incorporated herein by
+            reference to Exhibit 4.2 of Popular's Registration Statement
+            dated June 8, 1999).
+   3.3      Form of Certificate representing Popular, Inc.'s common stock,
+            par value $6.00 (incorporated herein by reference to Exhibit
+            4.1 of Popular's Annual Report on Form 10-K for the fiscal
+            year ended December 31, 1998 (File No. 0-13818)).
+   4.3      Stockholder Protection Rights Agreement, dated as of August
+            13, 1998, between Popular, Inc. and Banco Popular de Puerto
+            Rico as Rights Agent, including Form of Rights Certificate
+            attached as Exhibit B thereto (incorporated herein by
+            reference to Exhibit 4.1 of Popular's Current Report on Form
+            8-K (File No. 0-13818), dated August 13, 1998 and filed on
+            August 21, 1998).
+   4.5      Indenture, dated February 15, 1995, as supplemented by the
+            First Supplemental Indenture thereto, dated May 8, 1997, each
+            between Popular, Inc. and First National Bank of Chicago, as
+            Trustee (incorporated herein by reference to Exhibit 4(d) of
+            Popular's Registration Statement No. 333-26941 dated May 12,
+            1997).
+   4.6      Second Supplemental Indenture, dated as of August 5, 1999, to
+            Popular's Indenture, dated as of February 15, 1995, each
+            between Popular, Inc. and The First National Bank of Chicago,
+            as Trustee (incorporated herein by reference to Exhibit 4(e)
+            of Popular's Current Report on Form 8-K (File No. 0-13818),
+            dated August 5, 1999 and filed on August 17, 1999).
+   4.7      Subordinated Indenture dated as of November 30, 1995, between
+            Popular, Inc. and First National Bank of Chicago, as Trustee
+            (incorporated herein by reference to Exhibit 4(e) of Popular's
+            Registration Statement No. 333-26941, dated May 12, 1997).
+   4.8      Indenture, dated as of October 1, 1991, among Popular North
+            America, Inc., Popular, Inc., as Guarantor, and The First
+            National Bank of Chicago, as Trustee, as supplemented by the
+            First Supplemental Indenture thereto, dated February 28, 1995,
+            and by the Second Supplemental Indenture thereto, dated as of
+            May 8, 1997 (incorporated herein by reference to Exhibit 4(f)
+            of Popular's Registration Statement No. 333-26941, dated May
+            12, 1997).
+   4.9      Third Supplemental Indenture to Popular's Indenture dated as
+            of October 1, 1991, dated as of August 8, 1999, among Popular
+            North America, Inc., Popular, Inc. as Guarantor, and The First
+            National Bank of Chicago, as Trustee (incorporated herein by
+            reference to Exhibit 4(h) of Popular's Current Report on Form
+            8-K (File No. 0-13818), dated August 5, 1999 and filed on
+            August 17, 1999).
+   4.11     Form of Fixed Rate Medium-Term Note, Series 3, of Popular,
+            Inc. (incorporated herein by reference to Exhibit 4(l) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            May 23, 1997 and filed on June 11, 1997).
+   4.12     Form of Floating Rate Medium-Term Note, Series 3, of Popular,
+            Inc. (incorporated herein by reference to Exhibit 4(m) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            May 23, 1997 and filed on June 11, 1997).
+   4.13     Form of Fixed Rate Medium-Term Note, Series D, of Popular
+            North America, Inc., guaranteed by Popular, Inc. (incorporated
+            herein by reference to Exhibit 4(n) of Popular's Current
+            Report on Form 8-K (File No. 0-13818), dated May 23, 1997 and
+            filed on June 11, 1997).
+   4.14     Form of Floating Rate Medium-Term Note, Series D, of Popular
+            North America, Inc., guaranteed by Popular, Inc. (incorporated
+            herein by reference to Exhibit 4(o) of Popular's Current
+            Report on Form 8-K (File No. 0-13818), dated May 23, 1997 and
+            filed on June 11, 1997).
+   4.15     Form of Fixed Rate Medium-Term Note, Series 4, of Popular,
+            Inc. (incorporated herein by reference to Exhibit 4(o) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            August 5, 1999 and filed on August 17, 1999).
+   4.16     Form of Floating Rate Medium-Term Note, Series 4, of Popular,
+            Inc. (incorporated by reference to Exhibit (4)(p) of Popular's
+            Current Report on Form 8-K (File No. 0-13818), dated August 5,
+            1999 and filed August 17, 1999).
+</TABLE>
+
+
+                                       25
+<PAGE>
+
+<TABLE>
+   <S>      <C>
+   4.17     Form of Fixed Rate Medium-Term Note, Series E, of Popular
+            North America, Inc., endorsed with the guarantee of Popular,
+            Inc. (incorporated herein by reference to Exhibit 4(q) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            August 5, 1999 and filed on August 17, 1999).
+   4.18     Form of Floating Rate Medium-Term Note, Series E, of Popular
+            North America, Inc., endorsed with the guarantee of Popular,
+            Inc. (incorporated herein by reference to Exhibit 4(r) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            August 5, 1999 and filed on August 17, 1999).
+   4.19     Administrative Procedures governing Medium-Term Notes, Series
+            4, of Popular, Inc. (incorporated herein by reference to
+            Exhibit 10(a) of Popular's Current Report on Form 8-K (File
+            No. 0-13818), dated August 5, 1999 and filed on August 17,
+            1999).
+   4.20     Administrative Procedures governing Medium-Term Notes, Series
+            E, of Popular North America, Inc., guaranteed by Popular, Inc.
+            (incorporated herein by reference to Exhibit 10(b) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            August 5, 1999 and filed on August 17, 1999).
+   4.21     Junior Subordinated Indenture, among BanPonce Financial Corp.,
+            (Popular North America, Inc.) BanPonce Corporation (Popular,
+            Inc) and the First National Bank of Chicago, as Debenture
+            Trustee (incorporated herein by reference to Exhibit (4)(a) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            and file on February 19, 1997).
+   4.22     Amended and Restated Trust Agreement of BanPonce Trust I,
+            among BanPonce Financial Corp., (Popular North America, Inc.)
+            as Depositor, BanPonce Corporation, (Popular, Inc.) as
+            Guarantor, The First National Bank of Chicago, as Property
+            Trustee, First Chicago Delaware, Inc., as Delaware Trustee,
+            and the Administrative Trustee named therein (incorporated
+            herein by reference to Exhibit (4)(f) of Popular's Current
+            Report on Form 8-K (File No. 0-13818) dated and filed on
+            February 19, 1997).
+   4.23     Form of Capital Security Certificate for BanPonce Trust I
+            (incorporated herein by reference to Exhibit (4)(g) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            and filed on February 19, 1997).
+   4.24     Guarantee Agreement relating to BanPonce Trust I, by and among
+            BanPonce Financial Corp., (Popular North America, Inc.) as
+            Guarantor, BanPonce Corporation, (Popular, Inc.) as Additional
+            Guarantor, and the First National Bank of Chicago, as
+            Guarantee Trustee (incorporated herein by reference to Exhibit
+            (4)(h) of Popular's Current Report on Form 8-K (File No.
+            0-13818), dated and filed on February 19, 1997).
+   4.25     Form of Junior Subordinated Deferrable Interest Debenture for
+            BanPonce Financial Corp. (Popular North America, Inc.)
+            (incorporated herein by reference to Exhibit (4)(i) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            and filed on February 19, 1997).
+   4.26     Form of Subordinated Note of Popular, Inc. (incorporated
+            herein by reference to Exhibit 4.10 of Popular's Annual Report
+            on Form 10-K for the fiscal year ended December 31, 1999 (File
+            No. 0-13818).
+   4.27     Form of Certificate representing the Popular, Inc.'s 6.375%
+            Non-Cumulative Monthly Income Preferred Stock, 2003 Series A.
+            (incorporated herein by reference to Exhibit 99.1 of Popular's
+            Current Report on Form 8-K dated and filed on February 26,
+            2003).
+   4.28     Certificate of Designation, Preference and Rights of Popular,
+            Inc.'s 6.375% Non-Cumulative Monthly Income Preferred Stock,
+            2003 Series A (incorporated herein by reference to Exhibit
+            99.1 of Popular's Current Report on Form 8-K dated and filed
+            on February 26, 2003).
+   10.1     Annual Management Incentive Compensation Plan for certain
+            Division Supervisors approved in January, 1987 (incorporated
+            herein by reference to Exhibit 10.8 of Popular's Annual Report
+            on Form 10-K for the fiscal year ended December 31, 1998 (File
+            No. 0-13818)).
+   10.2     Amendment to Popular, Inc. Senior Executive Long-Term
+            Incentive Plan, dated April 23, 1998 (incorporated herein by
+            reference to Exhibit 10.8.2. of Popular's Annual Report on
+            Form 10-K for the fiscal year ended December 31, 1998 (File
+            No. 0-13818)).
+   10.3     Popular, Inc. 2001 Stock Option Plan (incorporated by
+            reference to Exhibit 4.4 of Popular's Registration Statement
+            on Form S-8, dated May 10, 2001).
+</TABLE>
+
+
+                                       26
+<PAGE>
+
+<TABLE>
+ <S>        <C>
+   10.4     Amended and Restated 364-day Credit Agreement, dated as of
+            October 10, 2001, among Popular, Inc. and Popular North
+            America, Inc., the lenders named therein and The Chase
+            Manhattan Bank as Administrative Agent for an aggregate
+            principal amount of $315,000,000. (Incorporated herein by
+            reference to Exhibit 10.4 of Popular's Annual Report on Form
+            10-K for the fiscal year ended December 31, 2001).
+   10.5     Interest Calculation Agency Agreement, dated as of August 6,
+            1999, between Popular, Inc. and The First National Bank of
+            Chicago (incorporated herein by reference to Exhibit 10(c) of
+            Popular's Current Report on Form 8-K (File No. 0-13818), dated
+            August 5, 1999 and filed on August 17, 1999).
+   10.6     Interest Calculation Agency Agreement, dated as of August 6,
+            1999, between Popular North America, Inc. and The First
+            National Bank of Chicago (incorporated herein by reference to
+            Exhibit 10(d) of Popular's Current Report on Form 8-K (File
+            No. 0-13818), dated August 5, 1999 and filed on August 17,
+            1999).
+   10.7     Amendment No. 1, dated May 23, 1997, to the Distribution
+            Agreement, dated October 6, 1995, among Popular, Inc., Merrill
+            Lynch, Pierce, Fenner & Smith Incorporated, Chase Securities
+            Inc., Credit Suisse First Boston Corporation and First Chicago
+            Capital Markets, Inc. (incorporated herein by reference to
+            Exhibit 1(c) of Popular's Current Report on Form 8-K (File No.
+            0-13818), dated May 23, 1997, and filed on June 11, 1997).
+   10.8     Amendment No. 2, dated August 6, 1999, to the Distribution
+            Agreement, dated October 6, 1995, among Popular, Inc., Merrill
+            Lynch, Pierce, Fenner & Smith Incorporated, Credit Suisse
+            First Boston Corporation, Chase Securities Inc. and Popular
+            Securities, Inc. (incorporated herein by reference to Exhibit
+            1(d) of Popular's Current Report on Form 8-K (File No.
+            0-13818), dated August 5, 1999 and filed on August 17, 1999).
+   10.9     Distribution Agreement, dated October 11, 1991, among BanPonce
+            Financial Corp., BanPonce Corporation, Merrill Lynch, Pierce,
+            Fenner & Smith Incorporated and The First Boston Corporation
+            (incorporated herein by reference to Exhibit 1(d) of Popular's
+            Current Report on Form 8-K (File No. 0-13818), dated May 23,
+            1997 and filed on June 11, 1997).
+  10.10     Amendment No. 1, dated December 2, 1993, to the Distribution
+            Agreement, dated October 11, 1991, among BanPonce Financial
+            Corp., BanPonce Corporation, Merrill Lynch, Pierce, Fenner &
+            Smith Incorporated and Credit Suisse First Boston Corporation
+            (incorporated herein by reference to Exhibit 1(d) of Popular's
+            Current Report on Form 8-K (File No. 0-13818), dated May 23,
+            1997 and filed on June 11, 1997).
+  10.11     Amendment No. 3, dated May 23, 1997, to the Distribution
+            Agreement, dated October 11, 1991, among Popular North
+            America, Inc., Popular, Inc., Merrill Lynch, Pierce, Fenner &
+            Smith Incorporated, Chase Securities Inc., Credit Suisse First
+            Boston Corporation and First Chicago Capital Markets, Inc.
+            (incorporated herein by reference to Exhibit 1(d) of Popular's
+            Current Report on Form 8-K (File No. 0-13818), dated May 23,
+            1997 and filed on June 11, 1997).
+  10.12     Amendment No. 4, dated August 6, 1999, to the Distribution
+            Agreement, dated October 6, 1991, among Popular North America,
+            Inc., Popular, Inc., Merrill Lynch, Pierce, Fenner & Smith
+            Incorporated, Credit Suisse First Boston Corporation, Chase
+            Securities Inc. and Popular Securities, Inc. (incorporated
+            herein by reference to Exhibit 1(i) of Popular's Current
+            Report on Form 8-K (File No. 0-13818), dated August 5, 1999
+            and filed on August 17, 1999).
+  10.13     Banco Popular de Puerto Rico Employees' Stock Plan (Puerto
+            Rico) (incorporated herein by reference to Popular's
+            Registration Statement on Form S-8 (333-80169), dated June 8,
+            1999). (Incorporated herein by reference to Exhibit 10.15 of
+            Popular's Annual Report on Form 10-K for the fiscal year ended
+            December 31, 2000).
+ 10.13a     Certificate of Resolution of the Board of Director of Banco
+            Popular de Puerto Rico, authorizing Amendments to the Banco
+            Popular de Puerto Rico Employees' Stock Plan (Puerto Rico).
+            (Incorporated herein by reference to Exhibit 10.15a of
+            Popular's Annual Report on Form 10-K for the fiscal year ended
+            December 31, 2000).
+  10.14     Distribution Agreement of the Banco Popular de Puerto Rico
+            Bank Notes, dated September 24, 1996, among Banco Popular de
+            Puerto Rico, Merrill Lynch & Co., Merrill Lynch, Pierce,
+            Fenner & Smith Incorporated, Bear Stearns & Co. Inc. and
+            Credit Suisse First Boston Corporation. (Incorporated herein
+            by reference to Exhibit 10.16 of Popular's Annual Report on
+            Form 10-K for the fiscal year ended December 31, 2000).
+</TABLE>
+
+
+
+                                       27
+<PAGE>
+
+<TABLE>
+
+  <S>       <C>
+  10.15     Amendment, dated May 12, 2000, to The Distribution Agreement,
+            dated September 24, 1996, among Banco Popular de Puerto Rico,
+            Merrill Lynch & Co., Merrill Lynch, Pierce, Fenner & Smith
+            Incorporated, Bear Stearns & Co., Inc. and Credit Suisse First
+            Boston Corporation. (Incorporated herein by reference to
+            Exhibit 10.17 of Popular's Annual Report on Form 10-K for the
+            fiscal year ended December 31, 2000).
+  10.16     Issuing and Paying Agency Agreement of the Banco Popular de
+            Puerto Rico Bank Notes, dated September 24, 1996, among Banco
+            Popular de Puerto Rico and The Chase Manhattan Bank.
+            (Incorporated herein by reference to Exhibit 10.18 of
+            Popular's Annual Report on Form 10-K for the fiscal year ended
+            December 31, 2000).
+  10.17     Amendment No. 1, dated May 12, 2000 to Issuing and Paying
+            Agency Agreement, dated September 24, 1996, among Banco
+            Popular de Puerto Rico and The Chase Manhattan Bank.
+            (Incorporated herein by reference to Exhibit 10.19 of
+            Popular's Annual Report on Form 10-K for the fiscal year ended
+            December 31, 2000).
+  10.18     Interest Calculation Agreement of the Banco Popular de Puerto
+            Rico Notes, dated September 24, 1996, among Banco Popular de
+            Puerto Rico and The Chase Manhattan Bank. (Incorporated herein
+            by reference to Exhibit 10.20 of Popular's Annual Report on
+            Form 10-K for the fiscal year ended December 31, 2000).
+  10.19     Amendment No. 1, dated May 12, 2000 to the Interest
+            Calculation Agreement, dated September 24, 1996, among Banco
+            Popular de Puerto Rico and The Chase Manhattan Bank.
+            (Incorporated herein by reference to Exhibit 10.21 of
+            Popular's Annual Report on Form 10-K for the fiscal year ended
+            December 31, 2000).
+  10.20     Amended Administrative Procedures for Fixed and Floating Rate
+            Bank Notes, dated May 12, 2000 to Exhibit G of The
+            Distribution Agreement, dated September 24, 1996, among Banco
+            Popular de Puerto Rico, Merrill Lynch & Co., Merrill Lynch
+            Pierce, Fenner & Smith Incorporated, Bear Stearns & Co., Inc.
+            and Credit Suisse First Boston Corporation. (Incorporated
+            herein by reference to Exhibit 10.22 of Popular's Annual
+            Report on Form 10-K for the fiscal year ended December 31,
+            2000).
+  10.21     Form of Global Fixed and Floating Rate Bank Note of the Banco
+            Popular de Puerto Rico Bank Notes, dated September 24, 1996
+            and amended through Administrative Procedures, dated May 12,
+            2000. (Incorporated herein by reference to Exhibit 10.23 of
+            Popular's Annual Report on Form 10-K for the fiscal year ended
+            December 31, 2000).
+  10.22     Amended and Restated Credit Agreement, dated October 13, 2000,
+            among Popular, Inc., Popular North America, Inc., The Lenders
+            named Herein, The Chase Manhattan Bank, as Administrative
+            Agent for The Lenders and Bank One, N.A. and Barclays Bank
+            PLC-Miami Agency, as Agents for the Lenders and Chase
+            Securities, Inc., as advisor, arranger and book manager.
+            (Incorporated herein by reference to Exhibit 10.24 of
+            Popular's Annual Report on Form 10-K for the fiscal year ended
+            December 31, 2000).
+  10.23     Distribution Agreement, dated October 6, 1995, among BanPonce
+            Corporation (Popular, Inc.), Merrill Lynch, Pierce, Fenner &
+            Smith Incorporated, Credit Suisse First Boston Corporation and
+            First Chicago Capital Markets, Inc. (incorporated herein by
+            reference to Exhibit 10.7 of Popular's Annual Report on Form
+            10-K for the fiscal year ended December 31, 1999 (File No.
+            0-13818).
+  10.24     Amendment No. 2, dated October 6, 1995, to The Distribution
+            Agreement, dated October 11, 1991, as amended on December 2,
+            1993, and supplemented on June 16, 1993 and August 1, 1994,
+            among BanPonce Financial Corp. (Popular North America, Inc.),
+            BanPonce Corporation (Popular, Inc.), Merrill Lynch, Pierce,
+            Fenner & Smith Incorporated, Credit Suisse First Boston
+            Corporation and First Chicago Capital Markets, Inc.
+            (incorporated herein by reference to Exhibit 10.12 of
+            Popular's Annual Report on Form 10-K for the fiscal year ended
+            December 31, 1999 (File No. 0-13818).
+  10.25     Amended and Restated 364-day Credit Agreement, dated as of
+            October 11, 2002, among Popular, Inc. and Popular North
+            America, Inc., the lenders named therein and JP Morgan Chase
+            Bank as Administrative Agent for an aggregate principal amount
+            of $315,000,000.
+</TABLE>
+
+
+
+                                       28
+<PAGE>
+
+
+<TABLE>
+  <S>       <C>
+  10.26     Deferred Prosecution Agreement dated as of January 16, 2003,
+            among Banco Popular de Puerto Rico, a wholly-owned subsidiary
+            of Popular, Inc., the U.S. Department of Justice, the Board of
+            Governors of the Federal Reserve Bank System and the Financial
+            Crimes Enforcement Network of the U.S. Department of the
+            Treasury (incorporated herein by reference to Exhibit 10.25 of
+            Popular Inc.'s Current Report on Form 8-K, filed on February
+            6, 2003).
+  10.27     Equity One Inc. Savings and Retirement Plan (incorporated by
+            reference to Exhibit 4.4 of Popular, Inc.'s Registration
+            Statement on Form S-8, dated November 1, 2002).
+   12.1     Computation of Ratio of Earnings to Fixed Charges.
+   13.1     Popular's Annual Report to Shareholders for the year ended
+            December 31, 2002.
+   21.1     Schedule of Subsidiaries of Popular, Inc.
+   23.1     Consent of Independent Accountants.
+   99.1     Popular's Proxy Statement for the April 30, 2003 Annual
+            Meeting of Stockholders.
+   99.2     Code of Ethics
+
+            Popular, Inc. hereby agrees to furnish upon request to the
+            Commission a copy of each instrument defining the rights of
+            holders of senior and subordinated debt of Popular, Inc., or of
+            any of its consolidated subsidiaries.
+</TABLE>
+
+
+
+                                       29
+
+</TEXT>
+</DOCUMENT>

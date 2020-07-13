@@ -1,0 +1,2487 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a2041978z10-k.txt
+<DESCRIPTION>10-K
+<TEXT>
+
+<PAGE>
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+(Mark one)
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+
+    For the fiscal year ended  DECEMBER 31, 2000
+                               -------------------------------------------------
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+
+    For the transition period from                        to
+                                    ---------------------    -------------------
+
+       Commission file number  0-5576
+                               ------
+
+                           BIOSPHERICS(R) INCORPORATED
+--------------------------------------------------------------------------------
+             (Exact name of Registrant as specified in its Charter)
+
+
+               DELAWARE                                  52-0849320
+--------------------------------------     -------------------------------------
+    (State or other jurisdiction                     (I.R.S. Employer
+  of incorporation or organization)                 Identification No.)
+
+              12051 INDIAN CREEK COURT, BELTSVILLE, MARYLAND 20705
+--------------------------------------------------------------------------------
+                    (Address of principal executive offices)
+
+Registrant's telephone number, including area code: 301-419-3900
+                                                    ----------------------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+       Title of each class             Name of each exchange on which registered
+             NONE
+---------------------------------      -----------------------------------------
+
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                    COMMON STOCK ($.005 PAR VALUE PER SHARE)
+--------------------------------------------------------------------------------
+                                (Title of class)
+
+         Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+
+         As of February 13, 2001, the aggregate market value of the voting stock
+was $65,250,684, of which $47,671,707 was held by non-affiliates of the
+Registrant, based on the closing price of the such stock, as quoted by NASDAQ on
+such date.
+
+         There were 10,735,331 shares of the Registrant's Common Stock
+outstanding as of February 13, 2001.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+         Portions of the Biospherics Incorporated definitive Proxy Statement, to
+be filed with the Securities and Exchange Commission pursuant to Regulation 14A
+of the Securities Exchange Act of 1934 not later than 120 days after the end of
+the fiscal year to which this report relates, are incorporated by reference into
+Part III of this Form 10-K.
+
+
+
+                                  Page 1 of 37
+
+================================================================================
+
+
+<PAGE>
+
+                                     PART I
+
+         Certain statements contained in this Form 10-K, including without
+limitation, statements containing the words "believes," "estimates," "expects"
+and words of similar import, constitute "forward looking statements" within the
+meaning of Section 27A of the Securities Act of 1933 and Section 21E of the
+Securities Exchange Act of 1934. Such words and expressions are intended to
+identify such forward looking statements, but are not intended to constitute the
+exclusive means of identifying such statements. Such forward looking statements
+involve known and unknown risks, uncertainties and other factors that may cause
+the actual results, performance or achievements of the Company, or industry
+results, to be materially different from any future results, performance or
+achievements expressed or implied by such forward looking statements. Given
+these uncertainties, prospective investors are cautioned not to place undue
+reliance on such forward looking statements. The Company disclaims any
+obligation to update any such factors or to publicly announce the results of any
+revisions to any of the forward looking statements contained herein to reflect
+any events or developments. See the Company's Form 8-K filing dated March 26,
+1999, for a more detailed statement concerning forward looking statements.
+
+
+ITEM 1.  DESCRIPTION OF BUSINESS
+
+GENERAL
+
+         Biospherics Incorporated (the "Company" or "Registrant"), a Delaware
+corporation, was founded in 1967. The Company began trading as "Spherix" in
+January 2001 and anticipates formally changing the corporate name after
+obtaining shareholder approval in May 2001. The Company consists of a
+Biotechnology Division ("BioSpherix"), a Commercial Information Services
+Division ("CISD"), a Government Information Services Division ("GISD"), and an
+Information Technology Division ("ITD"). CISD, GISD and ITD are collectively
+referred to as "InfoSpherix." The Company is managed along two (2) business
+segments, BioSpherix and InfoSpherix.
+
+         The principal executive offices of the Company are located at 12051
+Indian Creek Court, Beltsville, Maryland 20705, and its telephone number is
+(301) 419-3900. The Company's internet website addresses are
+HTTP://WWW.BIOSPHERICS.COM and HTTP://WWW.SPHERIXINC.COM. The Company's Common
+Stock trades on the NASDAQ National Market System under the symbol BINC. The
+Company anticipates formally changing its symbol to SPEX after obtaining
+shareholder approval of its name change in May 2001.
+
+BIOSPHERIX DIVISION
+
+         The BioSpherix Division is the Company's biotechnology research and
+development arm, dedicated to developing proprietary products and services with
+a view toward economic commercial applications. The Company has accumulated a
+number of patents on its products.
+
+         TAGATOSE AS A LOW-CALORIE BULK SWEETENER. BioSpherix has patented the
+use of a naturally occurring sugar, tagatose, as a full-bulk, low-calorie
+sweetener. It is a true sugar that looks, feels, and tastes like table sugar.
+Tagatose is present in small amounts in a number of foods, including dairy
+products. The Company has been developing the product since receiving a patent
+for its use as a low-calorie sweetener in foods and beverages in 1988, and two
+patents for its production process (1991 and 1992).
+
+         In January 1997, the Company completed a license agreement with MD
+Foods Ingredients amba ("MDFI") of Denmark for the exclusive worldwide rights to
+manufacture, market, and distribute tagatose as a food ingredient in return for
+a non-refundable up-front payment and a royalty schedule based upon net sales of
+the sugar. In return for the exclusive license, MDFI assumed responsibility for
+all future marketing, development and regulatory expenses, including the cost of
+constructing and operating production plants. MDFI has subsequently merged with
+Swedish dairy and food products company, Arla, to form Arla Foods ("Arla"). Arla
+manufactures a wide variety of dairy products, foods and food ingredients. The
+company ranks as one of the largest dairy products manufacturers in the world.
+Arla operates cheese plants producing large amounts of whey as a by-product.
+Whey is raw material for making tagatose. Arla has stated that their resources
+for tagatose have been increased by the merger.
+
+         Total non-refundable payments of $2.5 million received from Arla
+included a $1 million advance against future royalties. The Company will receive
+running royalties once commercial sales of tagatose begin. To strengthen their
+
+
+                                      -2-
+<PAGE>
+
+cooperative efforts, the two companies established a Tagatose Advisory Committee
+to plan and review progress in bringing tagatose to its various world market
+sectors. The Committee consists of three Arla representatives and one Company
+representative. The Committee proposes strategies and actions for Arla
+management's consideration, but has no authority to enforce such
+recommendations. Arla has contracted with the Company for technological support
+in excess of $800,000 since the signing of the license agreement.
+
+         Arla plans to enter tagatose into the U.S. sweetener market first. A
+panel of experts is retained by Arla to determine whether tagatose qualifies as
+Generally Recognized As Safe (GRAS) which, under FDA regulation, would permit
+its sale in the U.S. Arla has designed a commercial plant to manufacture
+tagatose. Construction will commence after GRAS is affirmed. The GRAS Expert
+Panel has been reviewing the extensive safety data submitted to it and Arla
+advises that it expects a favorable conclusion early in 2001. Arla reports that
+it has begun the approval process for tagatose in Europe and other countries.
+Arla also reported to the Company that the US FDA has permitted labeling of
+tagatose as containing 1.5 kilocalories per gram. This value, requested by Arla,
+will permit products containing tagatose to be termed "reduced calorie." Arla
+has reserved the right to request a smaller reduced calorie rating in the
+future.
+
+         The Company believes that tagatose will fill a market not currently
+accessible to other sweetener products. That market may initially include health
+drinks, chocolate candy, confections, ice cream, frozen desserts, diet sodas,
+cereals, and frosting. Later, market applications may broaden to include baked
+goods, heat-processed foods, and other dairy products, and other products in
+which the full bulk of sugar is required. Tagatose may also be used in
+pre-biotics, pro-biotics, healthy foods, and dietary supplements. The Company
+believes that chocolate candies and health drinks are excellent introductory
+uses for its nonfattening sugar because each constitutes a large market and each
+uses sugar as a major ingredient. Manufacturers have long sought a low-calorie,
+full-bulk substitute for table sugar in chocolate candy; however, none has been
+as successful in emulating the flavor of table sugar as has tagatose. Unlike
+table sugar, tagatose has been shown to cause no tooth decay.
+
+         TAGATOSE FOR ANEMIA AND HEMOPHILIA TREATMENT. Tagatose has been shown
+to improve blood factors indicating that tagatose may be useful as a drug or
+drug adjuvant in the treatment of anemia and hemophilia. The Company has
+received a patent for the use of tagatose against anemia and hemophilia (1999).
+
+         TAGATOSE AS A TREATMENT FOR TYPE 2 DIABETES. The Company has patented
+the use of tagatose as a treatment against Type 2 diabetes (1995). Two small
+clinical trials at the University of Maryland School of Medicine have found
+tagatose effective as an adjuvant treatment of Type 2 diabetes. All subjects
+lost weight at physician-approved rates. Other than for initial laxation at high
+doses, accommodated in about two weeks, no untoward effects were found in any of
+the research. In addition, the studies found that doses of tagatose, in the
+range of 10 to 75 grams per day, produced no rise in blood glucose or insulin
+levels in diabetic or normal subjects. Tagatose taken before the consumption of
+glucose produced a blunting effect on the normally expected rise in blood
+glucose.
+
+         TAGATOSE AS AN ANTI-HYPERGLYCEMIC AGENT. The Company has patented the
+use of tagatose as an anti-hyperglycemic agent to prevent the formation of
+advanced glycosylation end-products, which is one of the major causes of aging
+(1994).
+
+         TAGATOSE AS A SYNERGISER AND FLAVOUR ENHANCER. The Company's licensee
+of the use of tagatose in foods has filed for patent on the use of tagatose as a
+flavour enhancer. The use would include combining small amounts of tagatose with
+high-intensity sweeteners to improve the flavor of diet soft drinks. It would
+open the soft drink market to tagatose, not previously thought economical. The
+Company would be paid royalties on tagatose sold for such uses.
+
+         TAGATOSE AS A PRE-BIOTIC FOOD COMPONENT. This patent application, filed
+by the Company's licensee, would protect the use of tagatose as a pre-biotic, a
+substance that improves the digestion of food and is beneficial to health.
+Pre-biotics are widely sold in Europe and Asia and are increasingly appearing in
+the U.S. The Company would be paid royalties on tagatose sold for such uses.
+
+         TAGATOSE AS AN INCREASED FERTILITY AND IMPROVED FETAL DEVELOPMENT DRUG.
+The Company has received a Notice of Allowance from the U.S. Patent Office that
+it will receive a patent on the use of tagatose to increase the fertility of
+humans and other animals, to effect higher percentages of live fetuses, and to
+cause those fetuses to be heavier, still within normal bounds, than those of
+humans or other animals not having taken tagatose.
+
+
+
+                                      -3-
+<PAGE>
+
+         JAPANESE PATENT FOR THE MANUFACTURE OF TAGATOSE. The Company obtained a
+Japanese patent (2000) on the method for the manufacture of tagatose it had
+patented in the U.S. The Company believes this protection of its method to be
+significant because of the large potential market for tagatose in Japan. The
+rights were conveyed to the Company's licensee of tagatose for food use, and,
+under the terms of the agreement, this protects the royalty rate for tagatose
+sold in Japan.
+
+         GRAS OBTAINED FOR USE OF TAGATOSE AS SWEETENER IN DRUGS. In the year
+2000, the Company achieved GRAS status for the use of tagatose as a sweetener
+(excipient) in drugs for non-chronic use by adults and children. The Company
+maintains all rights to such uses.
+
+         GRAS OBTAINED FOR USE OF TAGATOSE IN TOOTHPASTE, MOUTHWASH AND OTHER
+COSMETICS. In the year 2000, the Company achieved GRAS status for the uses of
+tagatose in toothpaste, mouthwash, lipstick and other cosmetic products. The
+Company retains all rights to such uses.
+
+         METHOD FOR EXTENDING LIFETIMES OF BIODEGRADABLE PRODUCTS. The Company
+has filed for patents on a method TO prevent or delay microbial degradation of a
+wide variety of products such as lotions, sun blocks and the like.
+
+         The Company is discussing the possibility of licensing the non-food
+uses of tagatose to appropriate product companies.
+
+         SAFE-FOR-HUMANS PESTICIDES. Sale of "FlyCracker" for use in barns,
+pens, food processing plants, and other enclosed spaces began in March of 2000.
+The active ingredient for this patented safe-for-humans pesticide is "food
+grade". It was developed for use against house flies, on which testing has been
+concentrated, but additional susceptible insects may include other types of
+flies, ants, mites, and related insects. Safe pesticides were invented by the
+Company in response to the EPA's initiative urging the development of
+alternatives to the "hard chemical" pesticides commonly used in agriculture and
+animal husbandry. These chemicals are reported to be carcinogenic or otherwise
+toxic to humans, and pose a risk to consumers of food products containing
+traces. The increasing concern over pesticide hazards in foods and the general
+environment indicates a market for an economical and effective product that
+poses no human or environmental threat. In July of 2000, the Company submitted
+an application to the Organic Materials Review Institute (OMRI) to list
+FlyCracker as "allowed" for use in organic livestock production farms. On
+January 12, 2001, OMRI accepted our application, clearing the way for the
+Company to sell FlyCracker under the "organic" label.
+
+         In addition to plans for expanded research in the food and
+pharmaceutical uses of tagatose and safe pesticides, the Company plans to
+increase research in its patent-pending method for prolonging the lifetimes of
+fragrances, sun block, lotions and other cosmetic products.
+
+         While the products under development show promise, continued progress
+is dependent upon many factors, including, but not limited to, the Company's
+having sufficient funds and resources to pursue them. The $5 million raised from
+the February 2000 private placement is principally dedicated to increase market
+penetration and sales of FlyCracker, and further the development of the products
+mentioned.
+
+INFOSPHERIX BUSINESS LINE
+
+Commercial Information Services Division
+
+         CISD's professional staff serves the needs of commercial clients, with
+a focus on health, pharmaceutical, medical data, and clinical trials management
+services ranging from inbound and outbound telesupport for information gathering
+and dissemination, to health-professional operated decision support systems
+servicing health organizations, and advanced data warehouse and data mart
+services. CISD specializes in health issues and provides information services on
+a wide range of diseases and disabilities, disease prevention, and education.
+Areas of expertise include pharmaceutical drug and product lifecycle support
+(including product launch and recalls) and clinical research support. Programs
+are staffed by health professionals and other information specialists who are
+given extensive training and strict quality control guidelines. The Company's
+clients have included many of the major U.S. pharmaceutical companies, managed
+care organizations, clinical research organizations, and their advertising
+agencies. Contracts with non-governmental parties are typically obtained
+following private negotiations. Projects range from months to years in duration.
+
+
+                                      -4-
+<PAGE>
+
+Government Information Services Division
+
+         GISD's information professionals design and operate information centers
+providing information management and materials to the public on various socially
+beneficial subjects, as well as other information services, such as reservation
+and tourism. GISD focuses on those clients who are looking to leverage
+technology in the ever advancing world of information management. GISD
+researches, collects, organizes and disseminates information by providing
+customized information center services combining advanced data collection
+systems, expert decision support systems, and tele-support utilizing live
+operators, audio libraries, and advanced telecommunication technologies like
+Interactive Voice Response (IVR). GISD answers millions of calls annually from
+professionals and the public nationwide. It operates two Maryland-based
+information centers (Beltsville and Cumberland, MD) that efficiently manage and
+track high volumes of data. Coupling GISD's expert staff with its advanced
+technologies results in an efficient and effective system to collect and
+disseminate large amounts of information.
+
+         The Company was awarded a contract from the Michigan Department of
+Natural Resources to operate its Central Reservation System, which commenced on
+August 1, 2000. The Company's Federal Information Center ("FIC") contract,
+through the General Services Administration, concluded on October 13, 2000. In
+2000, the FIC contract accounted for approximately $2.7 million in revenue or
+16% of total revenue for the period. Contracts with governmental parties are
+obtained after a competitive bidding process and are most often for terms
+ranging from two to three years, with additional option years.
+
+         CISD and GISD accounted for 40% and 59% of the Company's total revenues
+in 2000, respectively. While contracts are numerous, most of CISD and GISD's
+revenues traditionally have been generated by a few large commercial and
+government contracts. See Note 1, "Concentrations," of the Notes to the
+Financial Statements included herein pursuant to Part II of this Form 10-K.
+
+Information Technology Division
+
+         ITD provides internal and external technical services including
+software engineering, telecommunications, network infrastructure, Internet
+provision, and all other services of a computer or information systems
+technology nature. ITD has engineered the Computer Telephony Integration ("CTI")
+System, ReserveSuite, HealthSuite, and InfoSuite that have been used to deliver
+services via CISD and GISD. Historically and strategically, services and
+products of ITD are utilized and/or delivered via the other operating Divisions.
+ITD focuses on commercial and government business of an information technology
+nature, providing consulting, integration, and support services, as well as
+product development, both internally and commissioned. ITD has provided industry
+award winning E-Business solutions, a core competency exploited on the majority
+of its endeavors.
+
+GOVERNMENT CONTRACTS
+
+         Government contract awards are from time to time subject to protest
+proceedings by competitive bidders. As of December 31, 2000, none of the
+Company's awards were under protest or in default. Government contracts
+typically have terms and conditions which, while providing annual or multi-year
+terms, subject them to termination upon convenience or default.
+
+INDUSTRY SEGMENTS
+
+         See Note 12, "Information by Business Segment," of the Notes to the
+Financial Statements included herein pursuant to Part II of this Form 10-K for
+industry segment information of the Company, which information is incorporated
+herein by reference.
+
+MARKET CONCENTRATION
+
+         During 2000, 1999, and 1998, InfoSpherix contributed 99%, 99%, and 98%
+of total Company revenue. The Company's business operations are usually
+dependent upon substantial revenue from a select group of customers. In 2000,
+1999, and 1998, revenue from the following customers accounted for more than 10%
+of total Company revenues:
+
+
+
+                                      -5-
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+           2000                        1999                    1998
+----------------------------    --------------------    --------------------
+<S>                             <C>                     <C>
+U.S. Government                 U.S. Government         U.S. Government
+
+Pfizer                          Parke-Davis             Parke-Davis
+
+McKesson HBOC-PPG
+</TABLE>
+
+It is currently expected that revenue from each of the U.S. Government, the
+State of Michigan, and the State of Maryland will each account for more than 10%
+of total Company revenues in 2001.
+
+PATENTS AND TRADEMARKS
+
+         The Company has established a strong worldwide patent position for
+tagatose and an economical process for its manufacture. The Company's 1988 U.S.
+patent for the use of tagatose as a low-calorie sweetener/bulking agent has
+subsequently been obtained or filed in many countries. The Company developed a
+proprietary method for manufacture of tagatose that is protected by two U.S.
+patents, issued in 1991 and 1992, also filed in many countries. In October 1994,
+the Company received a patent for the discovery that tagatose is effective in
+reducing hyperglycemia, one of the principal causes of physical and mental
+aging. In September 1995, it received a patent for the use of tagatose in
+treating diabetes.
+
+         In November 1992, a U.S. patent was awarded to the Company for its
+safe-for-humans pesticide. In December 1997, the Company received a U.S. patent
+on another safe-for-humans pesticide. The Company has also applied for foreign
+patents for these products.
+
+         In 2000, the Company received a Notice of Allowance for the use of
+tagatose in improving fertility and fetal development. In 2000, a patent
+application was filed for a method to increase useful lifetimes of products
+subject to microbial degradation.
+
+         In 1999, patent coverage was received for use of tagatose in treating
+anemia and hemophilia. Other patents for health uses of tagatose are pending.
+
+         In December 2000, a Japanese patent was awarded to the Company for its
+process to manufacture tagatose.
+
+         With respect to all of its inventions, the Company has received
+approximately 120 patents, including foreign issues. It has several patents
+pending and many additional invention disclosures. In addition to its strong
+patent position, the Company relies on the common law protection of such
+information as trade secrets and on confidentiality agreements to protect the
+value of these assets.
+
+         The amount of royalties payable to the Company from Arla under the
+above-described license agreement is dependent upon the existence of
+relevant patents, plus five years at a lesser rate.
+
+SEASONALITY
+
+         Revenues from reservation and tourism services are greatest in the
+spring and summer when vacation planning is the heaviest. Revenues from other
+sources tend to be more evenly spread throughout the year, although the fourth
+quarter is historically the low period of the year.
+
+
+
+
+                                      -6-
+<PAGE>
+
+
+SALES BACKLOG
+
+         Sales backlog at December 31, 2000 and 1999, were as follows ($000s):
+
+<TABLE>
+<CAPTION>
+                              DECEMBER 31, 2000                                   DECEMBER 31, 1999
+                 ---------------------------------------------     ---------------------------------------------
+                   CURRENT       NON-CURRENT        TOTAL            CURRENT       NON-CURRENT        TOTAL
+                 ------------- ---------------- --------------     -------------  ---------------  -------------
+<S>              <C>           <C>              <C>                <C>            <C>              <C>
+GISD                $  10,428       $    8,732      $  19,160          $  4,921       $    6,743      $  11,664
+CISD
+                          558              191            749             2,473              495          2,968
+BioSpherix
+                            -            1,000          1,000                 -            1,000          1,000
+                 ------------- ---------------- --------------     -------------  ---------------  -------------
+                    $  10,986       $    9,923      $  20,909          $  7,394       $    8,238      $  15,632
+                 ============= ================ ==============     =============  ===============  =============
+</TABLE>
+
+
+It is anticipated that substantially all of the current GISD and CISD 2000
+year-end backlog will be completed in 2001. New backlog is expected through
+constantly on-going sales efforts.
+
+COMPETITION
+
+         The information systems industry is subject to rapid and significant
+technological change. The Company is in competition with other information
+services companies across the Nation. Many of these competitors have
+substantially greater financial and technical resources than the Company. While
+acknowledging strong competition from other information services firms, the
+Company has developed a specialized niche by concentrating on high quality,
+personalized service combined with computerization for efficiency and
+cost-effectiveness. The Company has established a reputation for rapidly
+starting up information projects to meet its clients' critical needs, while not
+compromising high quality and reasonable pricing. Over the past three years, the
+Company has invested over $2 million in state-of-the-art CTI systems and over $2
+million in the development of specialized computer software products to improve
+its competitive position.
+
+         Competitors of BioSpherix are numerous and include, among others, major
+pharmaceutical, chemical, consumer, and biotechnology companies, specialized
+firms, universities and other research institutions. There can be no assurance
+that the Company's competitors will not succeed in developing technologies and
+products that are more effective than any that are being developed by the
+Company or that would render the Company's technology and potential products
+obsolete and noncompetitive. Many of these competitors have substantially
+greater financial and technical resources and production and marketing
+capabilities than the Company.
+
+         Over the past several years, various sugar alcohols have been used in
+food products as bulk sweeteners. However, none has the taste of table sugar and
+most are more caloric than tagatose. Bulk sweeteners are used in products where
+the bulk of sugar is essential, such as baked goods, chocolates, and ice cream.
+High intensity sweeteners, such as aspartame, saccharin, and sucralose do not
+provide the bulk needed for these products.
+
+RESEARCH AND DEVELOPMENT
+
+         BioSpherix expenditures for research and development were approximately
+$281,000, $344,000 and $411,000 in 2000, 1999 and 1998, respectively. These
+expenditures were incurred primarily in the ongoing efforts to commercialize
+tagatose, including its development for drug uses, and to develop the Company's
+safe-for-humans pesticides. The efforts to support Arla were reimbursed by Arla
+in 1999 and 1998. Spending emphasis shifted to development and marketing of
+FlyCracker in 1999 and 2000.
+
+GOVERNMENTAL REGULATION
+
+         The business activities of the Company are subject to a variety of
+Federal and state compliance, licensing, and certification requirements.
+Management believes that the Company is, and has been at all times, in full
+compliance with Federal and state environmental protection and worker safety
+laws. The Company has not incurred significant expense in complying with such
+laws and does not anticipate material expense, except for the FDA approval for
+commercialization of tagatose (which is to be borne by Arla). Commercialization
+of tagatose in the United States for use as food additives will require
+successful completion of the GRAS certification being pursued by Arla.
+
+
+
+                                      -7-
+<PAGE>
+
+ENVIRONMENT
+
+         Compliance with current federal, state and local provisions regulating
+the discharge of materials into the environment, or otherwise relating to the
+protection of the environment, has not had, and in the opinion of management
+will not have, a material effect on the Company's financial position, net
+income, capital expenditures or competitive position.
+
+EMPLOYEES
+
+         In 2000, the Company employed an average of 323 persons on a full or
+part time basis. Of this total, approximately 228 were full-time employees. The
+Company's employees are not currently unionized, and management believes that
+its relations with the Company's employees are harmonious.
+
+GEOGRAPHIC AREAS
+
+         InfoSpherix's business is and has been based in the United States.
+Accordingly, InfoSpherix revenues are entirely from U.S.-based operations.
+
+         BioSpherix's licensee for tagatose's food use, Arla, is located in
+Europe. Sales of FlyCracker have occurred in the U.S., but international sales
+are being pursued.
+
+
+ITEM 2.  DESCRIPTION OF PROPERTY
+
+         In November 1997, the Company signed a new lease agreement effective
+May 1, 1998, for 51,625 square feet of office/call center/research
+labs/warehouse space in the same Beltsville, Maryland, facility previously
+occupied, under the terms of a lease that expires on February 28, 2009. This
+facility contains corporate administration, human resources, accounting, sales
+and marketing, technical services, research labs, warehousing, and call center
+operations for both InfoSpherix and BioSpherix segments.
+
+         The Company currently leases approximately 16,000 square feet of space
+for its GISD telesupport services in Cumberland, Maryland.
+
+         Throughout 2000, the Company operated at approximately 40% and 70% of
+productive capacity at the Beltsville and Cumberland facilities, respectively.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         Information required by this Item 3 is included in Note 9 "Commitments
+and Contingencies" of the Notes to Financial Statements included herein pursuant
+to Part II of this Form 10-K.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         There were no matters submitted by the Company during the fourth
+quarter of 2000 to a vote of security holders through solicitation of proxies or
+otherwise.
+
+
+
+
+                                      -8-
+<PAGE>
+
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+         The Company's common stock is traded in the over-the-counter market and
+is quoted in the NASDAQ National Market System under the symbol BINC. No cash
+dividends have been paid. The Company's loan agreement with its bank does not
+expressly restrict the payment of dividends; however, no such payments are
+anticipated in the near future.
+
+         As of February 13, 2001, the number of shareholders of record of the
+Company's common stock was approximately 5,500. The following table states the
+high and low sales prices of the Company's common stock for each quarter during
+the two year period ended December 31, 2000, as reported on the NASDAQ National
+Market System:
+
+<TABLE>
+<CAPTION>
+                              HIGH             LOW
+                           ------------    ------------
+<C>                        <C>             <C>
+1st Quarter 2000            $15             $5 1/4
+2nd Quarter 2000            $10 11/16       $4 3/4
+3rd Quarter 2000            $7 31/32        $4 7/32
+4th Quarter 2000            $7 3/32         $4 3/8
+
+1st Quarter 1999            $8              $4 13/16
+2nd Quarter 1999            $7 15/16        $6
+3rd Quarter 1999            $6 7/8          $4
+4th Quarter 1999            $7 19/32        $4 1/16
+</TABLE>
+
+         In late February 2000, the Company completed a $5 million private
+offering of 723,982 units to a single institutional investor (the "Investor").
+Such offering was exempt from registration requirements under the Securities Act
+of 1933 pursuant to the private offering exemption. Each unit consisted of one
+share of Common Stock and one and one-half (1 1/2) warrants with an exercise
+price of $6.91 per share (the "Warrant"). The Warrant is exercisable throughout
+a four year period. The Company has registered the shares sold and the shares
+covered by the Warrant on Form S-3 (Registration No. 333-32504). Private
+offerings with the same Investor were also conducted in 1997 and 1999.
+
+         During 2000, warrants for the purchase of 50,100 and 50,000 shares, at
+$4.00 and $6.40, respectively, of the Company's Common Stock were exercised,
+resulting in proceeds of $520,425. Additional warrants issued in connection with
+the 1997, 1999 and 2000 offerings for the purchase of 325,000, 1,085,973 and
+250,000 shares at $6.40, $6.91, and $8.00, respectively, are outstanding at
+December 31, 2000.
+
+         In connection with the above-described private placements, the Investor
+has agreed that it will not exercise any of the warrants to the extent that it
+would acquire shares of Common Stock exceeding 9.9% of the outstanding Common
+Stock nor to sell shares to anyone to the extent that their holdings in the
+Company would exceed 4.9% of the outstanding Common Stock.
+
+
+
+
+                                      -9-
+<PAGE>
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+                                       2000           1999           1998           1997             1996
+                                       ----           ----           ----           ----             ----
+<S>                                <C>             <C>           <C>            <C>             <C>
+Revenue                            $17,034,694    $12,698,412    $16,013,897    $13,639,319     $13,800,385
+
+Income (loss) from
+  continuing operations            $   591,070    $(5,205,097)   $(1,980,594)   $  (141,852)    $   126,566
+
+Loss from discontinued
+  operations                       $         -    $         -    $         -    $         -     $   (57,576)
+
+Net income (loss)                  $   591,070    $(5,205,097)   $(1,980,594)   $  (141,852)    $    68,990
+
+Net income (loss)
+  per share, diluted               $      0.06    $     (0.55)   $     (0.23)   $     (0.02)    $      0.01
+
+Total assets                       $13,451,258    $ 8,555,609    $11,634,238    $11,259,075     $ 5,600,910
+
+Long-term debt obligations         $   358,411    $ 1,490,765    $ 2,229,664    $ 1,517,954     $   214,546
+
+Cash dividends declared
+  per common share                 $         -    $         -    $         -    $         -     $         -
+
+</TABLE>
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+RESULTS OF OPERATIONS--2000 COMPARED WITH 1999
+
+         The Company reported net income of $591,000 ($0.06 per diluted share)
+on sales of $17,035,000 for the year ended December 31, 2000, compared with a
+net loss of $5,205,000 ($0.55 per share) on sales of $12,698,000 for the year
+ended December 31, 1999.
+
+         The Company operates via two (2) principal segments, InfoSpherix and
+BioSpherix.
+
+         InfoSpherix revenue for 2000 was $16,885,000, compared to $12,568,000
+in 1999. The $4,317,000 (34%) increase was primarily a result of the creation of
+the Company's business development group which generated new commercial and
+government business. The following schedule summarizes the break-down of
+InfoSpherix revenue between government and commercial contracts (in $000s):
+
+<TABLE>
+<CAPTION>
+
+                                            FOR THE YEAR ENDED DECEMBER 31
+                                               2000                 1999
+                                         -----------------    -----------------
+<S>                                      <C>                   <C>
+     Government                              $10,009               $8,974
+     Commercial                                6,876                3,594
+                                         -----------------    -----------------
+                                             $16,885              $12,568
+                                         =================    =================
+</TABLE>
+
+         The Company's business development group is targeting the commercial
+pharmaceutical segment, the government information center and technology
+segments, and the ReserveSuite product and services segment, for continued
+growth. Currently the Company is negotiating on several contracts along these
+business segments, although no assurance can be given that these efforts will
+result in new business for the Company.
+
+
+                                      -10-
+<PAGE>
+
+
+         The Company's Federal Information Center ("FIC") contract, through the
+General Services Administration, concluded on October 13, 2000. In 2000, the FIC
+contract accounted for approximately $2.7 million in revenue or 16% of total
+revenue for the period. The Company expects the revenue loss from the FIC
+contract to be offset beginning near the end of the first quarter of 2001 by its
+recent award of a contract from the Michigan Department of Natural Resources to
+operate its Central Reservation System. The base amount of the award is $9.5
+million over three years, excluding additional options for two one-year
+extensions.
+
+         Certain of the Company's commercial contracts provide pharmaceutical
+and medical information for a specific drug or product. The success of a
+particular drug or product will often determine whether the Company's contract
+is extended or renewed. Sales and marketing efforts have been intensified to
+re-establish and increase the Company's share of commercial business in response
+to the high level of public interest in health information. Focus has been
+placed on the pharmaceutical companies' drug development and launch support, as
+opposed to the single drug approach of previous years.
+
+         The ITD was awarded three IDIQ technical services contracts in 2000.
+The Company will begin marketing on these contracts in 2001.
+
+         Commercial contracts are typically for shorter terms than government
+contracts and that can result in substantial variations in commercial revenues.
+For example, in the first quarter of 2000, the Company obtained and
+substantially performed a pharmaceutical contract which accounted for
+approximately 15% of the Company's revenue in 2000.
+
+         BioSpherix revenue for 2000 was $150,000, compared to revenue of
+$130,000 in 1999. The $20,000 (15%) increase in revenue was as a result of the
+sale of a specialty carbohydrate manufactured by the Division net of the effect
+of reduced R&D funding from Arla as a result of the completion of the technical
+support services provided to Arla.
+
+         Selling, general and administrative expenses ("S,G&A") for 2000 was
+$3,940,000, compared to $3,674,000 in 1999. The increase of $266,000 (7%) was
+the result of increased marketing expenditures.
+
+         Depreciation and amortization expense for 2000 was $1,315,000, compared
+to $1,741,000 in 1999. The decrease of $426,000 (24%) was the result of $2
+million in assets that the Company wrote-down in 1999.
+
+         Interest, net in 2000 amounted to $180,000 of income, compared to a net
+expense of $211,000 in 1999. The $391,000 increase was the result of increased
+interest revenue earned on funds received in connection with the private
+placement and decreased borrowing on the bank line of credit and the related
+decrease in the rate of interest charged by the bank.
+
+         The Company recognized no income tax expense in connection with its
+2000 profits due to its tax loss carryforwards.
+
+         The Company's sales backlog as of December 31, 2000, was $20,909,000
+compared to $15,632,000 as of December 31, 1999. The increase in backlog between
+years is a result of the addition of new Government contracts.
+
+
+RESULTS OF OPERATIONS--1999 COMPARED WITH 1998
+
+         The Company reported a net loss of $5,205,000 ($0.55 per share) on
+sales of $12,698,000 for the year ended December 31, 1999, compared with a net
+loss of $1,981,000 ($0.23 per share) on sales of $16,014,000 for the year ended
+December 31, 1998. Results for 1999 include a $4.3 million operating loss from
+InfoSpherix and $369,000 in unrecovered costs associated with BioSpherix.
+Included in InfoSpherix's loss for 1999 is a $2 million write-down of impaired
+assets taken in the fourth quarter of 1999.
+
+         InfoSpherix revenue for 1999 was $12,568,000, compared to $15,766,000
+in 1998. The $3,198,000 (20%) decrease between years was primarily the result of
+completion of several long-term government contracts. The prior year also
+included larger than normal revenue from the initial launch of two commercial
+contracts. The following schedule summarizes the break-down of InfoSpherix
+revenue between government and commercial contracts (in $000s):
+
+
+                                      -11-
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                                            FOR THE YEAR ENDED DECEMBER 31
+                                               1999                 1998
+                                         -----------------    -----------------
+<S>                                      <C>                  <C>
+     Government                               $8,974              $11,094
+     Commercial                                3,594                4,672
+                                         -----------------    -----------------
+                                             $12,568              $15,766
+                                         =================    =================
+</TABLE>
+
+         Starting in the first quarter of 1999, the Company initiated
+significant re-engineering efforts across its business lines, through the
+reduction of labor and renegotiation of contracts, in combination with a
+marketing strategy designed to take advantage of the Company's technology
+investment. The Company targeted growth in the business line in which the
+Company is the most competitive, the health and pharmaceutical business, to make
+this line the Company's profit leader. The government business also has seen
+significant results in increased performance on all contracts. Management has
+taken steps to restructure the Company's business development plan.
+
+         BioSpherix revenue for 1999 was $130,000, compared to $248,000 in 1998.
+The $118,000 (48%) decrease was the result of the completion of the technical
+support services provided to Arla.
+
+         Selling, general and administrative expenses ("S,G&A") for 1999 was
+$3,674,000, compared to $3,799,000 in 1998. The $125,000 (3%) decrease was the
+result of staff reductions.
+
+         Depreciation and amortization expense for 1999 was $1,741,000, compared
+to $1,311,000 in 1998. The $430,000 (33%) increase was the result of the
+Company's investments in information systems and software development.
+
+         During the fourth quarter of 1999, the Company wrote-down approximately
+$2 million of capitalized software and computer technology. The write-down
+included $648,000 for InfoSuite, $633,000 for HealthSuite, and $731,000 for
+ReserveSuite/CTI. The write-downs were a result of changes made to the Company's
+marketing plan in the fourth quarter of 1999, and approved by the Board of
+Directors in February 2000. Despite efforts to market these products throughout
+1999, management acknowledges the lack of sufficient historical and forecasted
+sales. The absence of dependable sales leads related to these assets and the
+progressive shifting of the Company's marketing efforts towards the
+pharmaceutical business and BioSpherix products, cause uncertainty that
+sufficient future cashflows will be obtained to justify the value of these
+assets on the books. These assets have therefore been revalued in the fourth
+quarter under the guidelines of FAS 121 "Accounting for the Impairment of
+Long-Lived Assets and for Long-Lived Assets to Be Disposed Of." Based on the
+Company's expectation of future discounted net cash flows from these assets,
+these assets have been written-down to their expected realizable value of $1.6
+million.
+
+         Interest (net) for 1999 was a net loss of $211,000, compared to a net
+loss of $137,000 in 1998. The $74,000 (54%) increase was the result of increased
+interest expense connected with increased borrowing on the bank line of credit
+and the related increase in the rate of interest charged by the bank.
+
+         Based on the Company's losses and its accumulated deficit, the Company
+provided a full valuation allowance against the net deferred tax asset. During
+the second quarter of 1999, the Company increased the allowance in the amount of
+$300,000 to fully value the remaining net deferred tax asset recorded at
+December 31, 1998, resulting in an income tax expense for the year of $300,000.
+
+         The Company's sales backlog as of December 31, 1999, was $15,632,000
+compared to $25,828,000 as of December 31, 1998. The decrease in backlog between
+years was the result of the expiration of contracts and the decrease in sales.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         The Company renewed its Loan Agreement (the "Agreement") with Bank of
+America (the "Bank") on June 30, 2000, which provides for borrowing up to $1.5
+million, subject to advance rates as defined in the Agreement. Outstanding
+borrowings under the Agreement aggregated $386,274 at December 31, 2000, and are
+collateralized by the Company's eligible accounts receivable and $500,000 from
+the Company's money market account. The interest rate under the new agreement is
+the Bank's prime rate plus 0.25% per annum. The total amount available to the
+Company
+
+
+                                      -12-
+<PAGE>
+
+was $1,113,726 under the Agreement at December 31, 2000. The Agreement contains
+covenants that require the Company to meet certain tangible net worth and cash
+flow coverage ratios. The Company was in compliance with the bank covenants as
+of December 31, 2000. The line expires on June 30, 2001, but the Company
+anticipates that the line will be renewed in 2001. However, if the Company is
+unable to extend the line of credit, the Company believes that it has adequate
+funds to meet all of its current obligations for the balance of 2001.
+
+         Cash flow for the year ended December 31, 2000, reflects a net cash
+inflow of $4.1 million consisting of $1.7 million provided by operating
+activities, $1.9 million used in investing activities, and $4.3 million provided
+by financing activities. Cash flow from operating activities in 2000 increased
+$2.8 million from those of the prior year as a result of increased revenues from
+InfoSpherix programs. Investment in property and equipment increased by $0.5
+million, as $1.3 million was used in 2000 to buy out the Company's telephone
+equipment leases. These investments were financed through the proceeds from
+operations and the issuance of common stock via the private placement.
+
+         Working capital as of December 31, 2000, was $6,358,000, which
+represents a $6,297,000 increase from working capital of $61,000 at December 31,
+1999. The increase in working capital is principally due to the 2000 private
+placement and the profitable operations conducted by the Company in 2000.
+
+         The Company considers the upgrading of its information and
+telecommunications systems complete and adequate for the near term. Future
+capital needs to start new contracts and maintain existing programs, while
+upgrading its information and telecommunication systems, will be proportionately
+less. The Company is anticipating sufficient cash flow from operating activities
+during 2001 to cover its continuing capital needs. No dividends were paid in
+2000 and none are anticipated in 2001.
+
+IMPACT OF THE YEAR 2000
+
+         To date, the Company has not encountered any significant effects of the
+Year 2000 issue either internally or with third parties. The Company cannot
+guarantee that problems will not occur in the future or have not yet been
+detected.
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         The Company manages its debt and its available cash considering
+available investment opportunities and risks, tax consequences and overall
+financing strategies.
+
+         At year-end 2000, the Company had approximately $233,000 of fixed-rate
+indebtedness and approximately $386,000 of variable-rate indebtedness. The
+Company has not entered into any interest rate swaps or other derivatives with
+respect to its indebtedness.
+
+         Cash available for investment is typically invested in short term
+funds, which generally mature in 30 days or money-market funds. In general, such
+funds are not subject to market risk because the interest paid on such funds
+fluctuates with the prevailing interest rate. The carrying amounts approximate
+market value. It is the Company's practice to hold these investments to
+maturity.
+
+         Assuming year-end 2000 variable rate debt and cash available for
+investment, a one percent change in interest rates would impact net interest
+income by less than $55,000.
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+         In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements" (SAB
+101). SAB 101 provides guidance on the recognition, presentation, and disclosure
+of revenues in financial statements. The Company adopted SAB 101 as of January
+1, 2000. The adoption did not have a material effect on the financial results,
+as the Company's revenue recognition policies were already consistent with SAB
+101.
+
+                                      -13-
+<PAGE>
+
+
+ITEM 8.  FINANCIAL STATEMENTS
+
+         Financial statements and supplementary data required by this Item 8
+follow.
+
+<TABLE>
+<CAPTION>
+INDEX TO FINANCIAL STATEMENTS                                                                                     PAGE
+<S>                                                                                                               <C>
+Reports of Independent Accountants.................................................................................15
+Statements of Operations for the years ended December 31, 2000, 1999 and 1998......................................17
+Balance Sheets as of December 31, 2000 and 1999....................................................................18
+Statements of Changes in Stockholders' Equity for the years ended December 31, 2000, 1999 and 1998.................19
+Statements of Cash Flows for the years ended December 31, 2000, 1999 and 1998......................................20
+Notes to Financial Statements......................................................................................21
+</TABLE>
+
+
+
+
+
+
+
+
+
+                                      -14-
+<PAGE>
+
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+TO THE BOARD OF DIRECTORS
+BIOSPHERICS INCORPORATED
+
+
+We have audited the accompanying balance sheet of Biospherics Incorporated
+(the "Company") as of December 31, 2000, and the related statements of
+operations, changes in stockholders' equity and cash flows for the year
+ended. These financial statements are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these financial
+statements based on our audit.
+
+We conducted our audit in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on
+a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audit provides a reasonable basis for our opinion.
+
+In our opinion, financial statements referred to above present fairly, in all
+material respects, the financial position of Biospherics Incorporated at
+December 31, 2000, and the results of its operations and its cash flows for
+the year ended, in conformity with accounting principles generally accepted
+in the United States.
+
+/s/  Grant Thornton LLP
+
+
+Vienna, Virginia
+February 13, 2001
+
+
+
+                                      -15-
+<PAGE>
+
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+TO THE STOCKHOLDERS AND BOARD OF DIRECTORS
+BIOSPHERICS INCORPORATED
+
+
+In our opinion, the accompanying balance sheet and related statements of
+operations, changes in stockholders' equity and cash flows present fairly, in
+all material respects, the financial position of Biospherics Incorporated at
+December 31, 1999 and the results of its operations and its cash flows for the
+years ended December 31, 1999 and 1998, in conformity with accounting principles
+generally accepted in the United States of America. These financial statements
+are the responsibility of the Company's management; our responsibility is to
+express an opinion on these financial statements based on our audits. We
+conducted our audits of these statements in accordance with auditing standards
+generally accepted in the United States of America, which require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements, assessing the accounting principles used and significant estimates
+made by management, and evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+
+/s/  PricewaterhouseCoopers LLP
+
+
+Baltimore, Maryland
+February 29, 2000
+
+
+
+
+                                      -16-
+<PAGE>
+
+
+                            BIOSPHERICS INCORPORATED
+                            STATEMENTS OF OPERATIONS
+              FOR THE YEARS ENDED DECEMBER 31, 2000, 1999, AND 1998
+
+
+
+<TABLE>
+<CAPTION>
+                                                                    2000                1999                 1998
+                                                              ------------------  ------------------   ------------------
+<S>                                                           <C>                 <C>                  <C>
+REVENUE                                                           $  17,034,694       $  12,698,412        $  16,013,897
+
+OPERATING EXPENSE
+     Direct contract and operating costs                             11,087,899           9,621,882           12,457,277
+     Selling, general and administrative expense                      3,939,702           3,673,635            3,799,150
+     Research and development expense                                   281,084             343,880              410,827
+     Depreciation and amortization expense                            1,314,962           1,740,511            1,310,849
+     Write-down of impaired assets                                            -           2,012,225                    -
+                                                              ------------------  ------------------   ------------------
+     Total operating expense                                         16,623,647          17,392,133           17,978,103
+                                                              ------------------  ------------------   ------------------
+INCOME (LOSS) FROM OPERATIONS                                           411,047         (4,693,721)          (1,964,206)
+
+     Interest, net                                                      180,023           (211,376)            (137,233)
+                                                              ------------------  ------------------   ------------------
+Income (loss) before taxes                                              591,070         (4,905,097)          (2,101,439)
+Income tax expense (benefit)                                                  -             300,000            (120,845)
+                                                              ------------------  ------------------   ------------------
+NET INCOME (LOSS)                                                  $    591,070      $  (5,205,097)       $  (1,980,594)
+                                                              ------------------  ------------------   ------------------
+Net income (loss) per share, basic                                  $      0.06        $     (0.55)         $     (0.23)
+                                                              ------------------  ------------------   ------------------
+Net income (loss) per share, diluted                                $      0.06        $     (0.55)         $     (0.23)
+                                                              ------------------  ------------------   ------------------
+Weighted average shares outstanding, basic                           10,499,628           9,433,295            8,790,050
+                                                              ------------------  ------------------   ------------------
+Weighted average shares outstanding, diluted                         10,559,794           9,433,295            8,790,050
+                                                              ------------------  ------------------   ------------------
+</TABLE>
+
+
+                 See accompanying notes to financial statements.
+
+
+                                      -17-
+<PAGE>
+
+
+                            BIOSPHERICS INCORPORATED
+                                 BALANCE SHEETS
+                        AS OF DECEMBER 31, 2000 AND 1999
+
+<TABLE>
+<CAPTION>
+                                                                                 2000              1999
+                                                                           ---------------   ---------------
+<S>                                                                        <C>               <C>
+ASSETS
+Current assets
+      Cash and cash equivalents                                               $ 5,549,866       $ 1,437,280
+      Restricted cash                                                             500,000           500,000
+      Trade accounts receivable, net of allowance for
+           doubtful accounts of $75,000 and $200,000                            2,121,747         1,616,012
+      Other receivables                                                           220,855           149,149
+      Prepaid expenses and other assets                                           450,982           476,866
+                                                                           ---------------   ---------------
+                Total current assets                                            8,843,450         4,179,307
+
+      Property and equipment, net of accumulated depreciation
+           of $3,647,404 and $3,555,415                                         4,457,841         4,239,776
+      Patents, net of accumulated amortization of $115,643 and $100,085           149,967           136,526
+                                                                           ---------------   ---------------
+                Total assets                                                  $13,451,258       $ 8,555,609
+                                                                           ===============   ===============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities
+      Bank line of credit                                                      $  386,274       $ 1,277,853
+      Accounts payable and accrued expenses                                       742,830         1,095,199
+      Accrued salaries and benefits                                               974,844           682,034
+      Notes payable                                                               200,177           634,716
+      Capital lease obligations                                                    70,570           317,445
+      Deferred revenue                                                            111,161           111,161
+                                                                           ---------------   ---------------
+                Total current liabilities                                       2,485,856         4,118,408
+
+Notes payable                                                                      33,082           206,000
+Capital lease obligations                                                          54,582           332,604
+Deferred rent                                                                     161,483           116,154
+Deferred compensation                                                             136,308                 -
+Deferred revenue                                                                1,000,000         1,000,000
+                                                                           ---------------   ---------------
+                Total liabilities                                               3,871,311         5,773,166
+                                                                           ---------------   ---------------
+
+Commitments and contingencies
+
+Redeemable common stock, 3,076,307 and 3,054,273 shares
+      at December 31, 2000 and 1999, respectively                                 679,208           547,337
+                                                                           ---------------   ---------------
+
+Stockholders' equity
+      Preferred stock, $0.01 par value, 2,000,000 shares authorized;
+                none issued and outstanding                                             -                 -
+      Common stock, $0.005 par value, 50,000,000 and 18,000,000
+                shares authorized; 10,784,045 and 9,781,488 issued,
+                10,735,331 and 9,747,656 outstanding, of which
+                3,076,307 and 3,054,273 shares are classified as
+                redeemable common stock at December 31, 2000 and
+                1999, respectively                                                 38,539            33,636
+      Paid-in capital in excess of par value                                   14,147,749         7,963,339
+      Treasury stock, 48,714 and 33,838 shares, at cost at
+                December 31, 2000 and 1999, respectively                        (327,976)         (219,054)
+      Accumulated deficit                                                     (4,957,573)       (5,542,815)
+                                                                           ---------------   ---------------
+                Total stockholders' equity                                      8,900,739         2,235,106
+                                                                           ---------------   ---------------
+                Total liabilities and stockholders' equity                    $13,451,258       $ 8,555,609
+                                                                           ===============   ===============
+</TABLE>
+
+                 See accompanying notes to financial statements.
+
+
+                                      -18-
+<PAGE>
+
+
+                            BIOSPHERICS INCORPORATED
+                  STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+              FOR THE YEARS ENDED DECEMBER 31, 2000, 1999, AND 1998
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                          RETAINED
+                                                    COMMON STOCK         PAID-IN       TREASURY STOCK     EARNINGS
+                                               ----------------------   CAPITAL IN   ----------------- (ACCUMULATED STOCKHOLDERS'
+                                                 SHARES     AMOUNT    EXCESS OF PAR SHARES    AMOUNT      DEFICIT)     EQUITY
+                                               ---------- ----------- ------------- -------  ---------  ----------- ------------
+<S>                                            <C>        <C>         <C>           <C>      <C>        <C>         <C>
+Balance, December 31, 1997                      8,829,190     $28,078   $4,403,204  40,606   $(267,369)  $1,649,166   $5,813,079
+   Issuance of common stock
+     Exercise of employee stock options            12,000          60       40,690       -           -            -       40,750
+     Exercise of stock warrants                   132,501         663      529,341       -           -            -      530,004
+     Cost of stock issuance                             -           -      (60,491)      -           -            -      (60,491)
+   Net loss                                             -           -            -       -           -   (1,980,594)  (1,980,594)
+                                               ----------- ----------- ------------ ------- ----------- ------------ ------------
+Balance, December 31, 1998                      8,973,691      28,801    4,912,744  40,606    (267,369)    (331,428)   4,342,748
+   Issuance of common stock
+     Exercise of employee stock options           130,298         652      396,677       -           -            -      397,329
+     Exercise of stock warrants                   677,499       3,387    2,894,109       -           -            -    2,897,496
+     Cost of stock issuance                             -           -      (17,768)      -           -            -      (17,768)
+   Issuance of treasury stock in payment
+        of expenses                                     -           -            -  (6,768)     48,315       (6,290)      42,025
+   Net reclassification for redeemable
+        common stock                                    -         796     (222,423)      -           -            -     (221,627)
+   Net loss                                             -           -            -       -           -   (5,205,097)  (5,205,097)
+                                               ----------- ----------- ------------ ------- ----------- ------------ ------------
+Balance, December 31, 1999                      9,781,488      33,636    7,963,339  33,838    (219,054)  (5,542,815)   2,235,106
+
+   Issuance of common stock
+     Sale of common stock in private
+       placement                                  723,982       3,620    4,996,380       -           -            -    5,000,000
+     Exercise of employee stock options           178,475         892      844,033       -           -            -      844,925
+     Exercise of stock warrants                   100,100         501      519,925       -           -            -      520,426
+     Cost of stock issuance                             -           -      (44,167)      -           -            -      (44,167)
+   Acquisition of treasury stock in
+        connection with option exercises                -           -            -  17,966    (132,499)           -     (132,499)
+   Issuance of treasury stock in payment
+        of expense                                      -           -            -  (3,090)     23,577       (5,828)      17,749
+   Net reclassification for redeemable
+        common stock                                    -        (110)    (131,761)      -           -            -     (131,871)
+   Net income                                           -           -            -       -           -      591,070      591,070
+                                               ----------- ----------- ------------ ------- ----------- ------------ ------------
+Balance, December 31, 2000                     10,784,045     $38,539  $14,147,749  48,714   $(327,976) $(4,957,573)  $8,900,739
+                                               ----------- ----------- ------------ ------- ----------- ------------ ------------
+</TABLE>
+
+
+                 See accompanying notes to financial statements.
+
+                                      -19-
+<PAGE>
+
+
+                            BIOSPHERICS INCORPORATED
+                            STATEMENTS OF CASH FLOWS
+              FOR THE YEARS ENDED DECEMBER 31, 2000, 1999, AND 1998
+
+<TABLE>
+<CAPTION>
+
+                                                                       2000            1999             1998
+                                                                  ---------------  --------------  ---------------
+<S>                                                               <C>              <C>             <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income (loss)                                                     $  591,070    $ (5,205,097)     $(1,980,594)
+Adjustments to reconcile net income (loss) to net cash
+   provided by (used in) operating activities:
+     Depreciation and amortization                                     1,314,961       1,740,511        1,310,849
+       Provision for uncollectible accounts receivable                  (125,000)         55,000           60,000
+     Loss on disposal or write-down of assets                             25,484       2,037,341           99,209
+     Treasury stock issued in payment of expenses                         17,749          42,025                -
+     Changes in assets and liabilities:
+       Trade accounts receivable                                        (380,735)        (28,192)        (266,473)
+       Other receivables                                                 (71,706)         61,039          (99,875)
+       Prepaid expenses and other assets                                  11,249          81,204         (131,541)
+       Deferred income taxes                                                   -         300,000          175,526
+       Accounts payable and accrued expenses                             132,535        (165,997)         (34,549)
+       Income taxes payable                                                    -               -         (215,226)
+       Deferred rent                                                      45,329           9,231          (10,336)
+       Deferred compensation                                             136,308               -          (18,869)
+       Deferred revenue                                                        -         (33,643)         (30,471)
+                                                                  ---------------  --------------  ---------------
+
+Net cash provided by (used in) operating activities                    1,697,244      (1,106,578)      (1,142,350)
+                                                                  ---------------  --------------  ---------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+   Purchases of property and equipment                                (1,887,828)     (1,432,487)      (3,867,313)
+   Restricted cash, security deposit                                           -               -           27,408
+   Deposit                                                                     -               -          (70,000)
+   Additions to patent costs                                             (28,999)        (22,360)          (4,810)
+                                                                  ---------------  --------------  ---------------
+Net cash used in investing activities                                 (1,916,827)     (1,454,847)      (3,914,715)
+                                                                  ---------------  --------------  ---------------
+CASH FLOWS FROM FINANCING ACTIVITIES
+   Net change on bank line of credit                                    (891,579)        129,848        1,138,006
+   Restricted cash under bank line of credit                                   -        (500,000)               -
+   Net change in book overdraft                                         (144,177)       (458,134)         552,407
+   Proceeds from notes payable                                                 -         198,491          678,922
+   Payments on notes payable                                            (607,457)       (543,849)        (475,168)
+   Payments on capital lease obligations                                (213,303)       (393,541)        (287,304)
+   Proceeds from issuance of common stock                              6,232,852       3,286,675          570,754
+   Cost of issuance of common stock                                      (44,167)         (9,619)         (60,491)
+                                                                  ---------------  --------------  ---------------
+Net cash provided by financing activities                              4,332,169       1,709,871        2,117,126
+                                                                  ---------------  --------------  ---------------
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                   4,112,586        (851,554)      (2,939,939)
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR                           1,437,280       2,288,834        5,228,773
+                                                                  ---------------  --------------  ---------------
+CASH AND CASH EQUIVALENTS, END OF YEAR                               $ 5,549,866     $ 1,437,280      $ 2,288,834
+                                                                  ===============  ==============  ===============
+
+SUPPLEMENTAL CASH FLOW INFORMATION
+   Income taxes refunded                                             $   151,312     $    16,943      $    62,674
+   Interest paid                                                     $   143,903     $   290,284      $   336,345
+   Property and equipment financed by capital leases                 $         -     $         -      $   795,260
+   Property and equipment financed by accounts payable               $    72,245     $   120,162      $    55,181
+</TABLE>
+
+
+                 See accompanying notes to financial statements.
+
+
+                                      -20-
+<PAGE>
+
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+1.       SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+         NATURE OF BUSINESS
+
+         Biospherics Incorporated was founded in 1967, is incorporated in
+Delaware, and maintains two facilities in Maryland. The Company consists of a
+Biotechnology Division ("BioSpherix"), a Commercial Information Services
+Division ("CISD"), a Government Information Services Division ("GISD"), and an
+Information Technology Division ("ITD"). CISD, GISD and ITD are collectively
+referred to as "InfoSpherix." BioSpherix is dedicated to research, development,
+and productization of proprietary products. CISD and GISD operate information
+center services providing consulting, information management, and materials
+management to the public as well as reservation and tourism solutions. ITD
+provides software engineering, telecommunications, network infrastructure,
+internet provision, and other computer system services via CISD and GISD.
+
+         CASH EQUIVALENTS
+
+         The Company considers all highly liquid investments with original
+maturities of three months or less to be cash equivalents. At December 31, 2000,
+the Company had approximately $6,115,392 in deposits with a maturity of three
+months or less in one bank, which exceeds FDIC insured limits. The Company has
+not experienced any losses on its investments.
+
+         CONCENTRATIONS
+
+         At December 31, 2000, three major contracts constitute 44% of the trade
+accounts receivable, the components of which are 17%, 15%, and 12%. No other
+single contract was greater than 10% of total trade accounts receivable.
+Receivables from Federal and state agencies represented 40% of the total trade
+accounts receivable. The Company's Federal Information Center ("FIC") contract,
+through the General Services Administration, concluded on October 13, 2000. The
+FIC contract in 2000, accounted for approximately $2.7 million in revenue or 16%
+of total revenue for the period.
+
+         USE OF ESTIMATES AND ASSUMPTIONS
+
+         The accompanying financial statements have been prepared in conformity
+with generally accepted accounting principles. This requires management to make
+estimates and assumptions that affect certain reported amounts of assets and
+liabilities and disclosures of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenue and expenses during
+the period. Accordingly, actual results could differ from those estimates and
+assumptions.
+
+         PROPERTY AND EQUIPMENT AND DEPRECIATION
+
+         Property and equipment are stated at cost and consist of office
+furniture and equipment, computer hardware and software, leasehold improvements,
+and capital leases. Computer hardware and software include the cost of
+internally developed software programs which have long-term benefits. It is the
+Company's policy to capitalize software developed for internal use. The Company
+computes depreciation and amortization under the straight line method over the
+following estimated useful lives of the related assets.
+
+                    Office furniture and equipment     3 to 10 years
+                    Computer hardware and software      3 to 5 years
+
+         Leasehold improvements are depreciated or amortized over the lesser of
+the term of the related lease or the estimated useful lives of the assets
+(generally 5 to 10 years). Major additions, improvements and renewals are
+capitalized and ordinary repairs, maintenance, and renewals are expensed in the
+year incurred. Gains or losses from the sale or retirement of property and
+equipment result from the difference between sales proceeds (if any), and the
+assets' net book value, and are recorded in the Statement of Operations.
+
+
+
+
+                                      -21-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+         RESEARCH AND DEVELOPMENT COSTS
+
+         Research and development costs are charged to operations as incurred.
+
+         PATENT COSTS
+
+         Legal costs incurred in connection with patent applications and costs
+of acquiring patents are capitalized when incurred. When patents are granted,
+costs are amortized over a term representing the lesser of the life of the
+patent or the projected sales period of the product or process.
+
+         LONG-LIVED ASSETS
+
+         The Company assesses the potential impairment of long-lived assets,
+when events or circumstances indicate that the carrying amount of an asset may
+not be recoverable. In 2000, the Company recorded a loss in connection with the
+disposal of obsolete assets of $25,485. The Company recorded an impairment loss
+on software technologies of $2,012,225 in 1999 and a loss in connection with the
+disposal of obsolete assets of $25,116 in association with computer hardware and
+software technologies (see Note 4). The Company uses an estimate of its future
+undiscounted cash flows to evaluate whether the long-lived assets are
+recoverable. The amount of impairment, if any, is measured based on projected
+discounted cash flows.
+
+         REVENUE RECOGNITION
+
+         Revenue is recognized using the following methods depending upon the
+terms of the contracts: time and materials, fixed price, or cost-plus-fixed-fee.
+Revenue under time and materials contracts is recognized at contractually agreed
+upon rates based upon direct labor hours expended and other direct costs
+incurred. Revenue for fixed-price contracts is recognized using the
+percentage-of-completion and unit-of-delivery methods. Revenue for
+cost-plus-fixed-fee contracts is recognized based on the allowable total costs
+incurred plus a pro rata share of the fee. Losses, if any, on contracts are
+recorded during the period when first determined.
+
+       LICENSE FEES AND ADVANCE ROYALTIES
+
+         License fees and royalties are recognized as revenue over the fixed
+term of the contract. Non-refundable fees are recognized when they are earned in
+accordance with the applicable contractual terms. Payments received that are
+related to future performance are deferred and recorded as revenue as they are
+earned over contractually specified future performance periods. See Note 9.
+Pursuant to the contractual terms, the advance will be recovered and therefore
+recognized as revenue at the rate of 50% of such future royalties. As
+commercialization of the products subject to the royalties is not expected until
+the year 2002, the deferred revenue has been classified as noncurrent.
+
+         INCOME TAXES
+
+         Deferred income taxes are recognized for the tax consequences in future
+years of differences between the tax bases of assets and liabilities and their
+financial reporting amounts at each year end, based on enacted tax laws and
+statutory tax rates applicable to the periods in which the differences are
+expected to affect taxable income. Valuation allowances are established when
+necessary to reduce deferred tax assets to the amount expected to be realized.
+Income tax expense is the tax payable for the period and the change during the
+period in deferred tax assets and liabilities.
+
+         FAIR VALUE INFORMATION
+
+         The estimated fair value of the Company's financial instruments, which
+include cash, receivables, accounts payable, long-term notes payable, and
+short-term notes payable reported in the balance sheet, approximate their
+carrying value.
+
+
+
+
+                                      -22-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+         ACCOUNTING FOR STOCK-BASED COMPENSATION
+
+         The Company applies APB Opinion No. 25 and related interpretations in
+accounting for stock-based compensation. Accordingly, because the exercise price
+of options granted has been at market price, no compensation cost has been
+recognized. The Company elected the "disclosure only" presentation of Statement
+of Financial Accounting Standards No. 123, ACCOUNTING FOR STOCK-BASED
+COMPENSATION in 1996 and, consequently, makes no charge against income in the
+financial statements with respect to options granted with exercise prices at or
+above fair market value.
+
+         NET INCOME PER SHARE
+
+         Basic net income (loss) per common share has been computed by dividing
+net income (loss) by the weighted-average number of common shares outstanding
+during the year. Diluted net income per common share has been computed by
+dividing net income by the weighted-average number of common shares outstanding
+with an assumed increase in common shares outstanding for common stock
+equivalents, which includes outstanding options and warrants. Diluted net loss
+per common share has been computed by dividing net loss by the weighted-average
+number of common shares outstanding without an assumed increase in common shares
+outstanding for common stock equivalents, as common stock equivalents are
+antidilutive.
+
+<TABLE>
+<CAPTION>
+                                                                  2000               1999                1998
+                                                            ---------------    ---------------     ----------------
+<S>                                                         <C>                <C>                  <C>
+ Weighted average shares outstanding, basic                   10,499,628          9,433,295           8,790,050
+ Weighted average dilutive common stock equivalents               60,166                  -                   -
+                                                            ---------------    ---------------     ----------------
+ Weighted average shares outstanding, diluted                 10,559,794          9,433,295           8,790,050
+                                                            ===============    ===============     ================
+</TABLE>
+
+2.       ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+<TABLE>
+<S>                                             <C>
+ Balance, December 31, 1997                           $85,000
+     Valuation adjustment                              60,000
+                                                ----------------
+ Balance, December 31, 1998                           145,000
+     Write-off of uncollectible accounts            (151,000)
+     Valuation adjustment                             206,000
+                                                ----------------
+ Balance, December 31, 1999                           200,000
+     Write-off of uncollectible accounts            (156,000)
+     Valuation adjustment                              31,000
+                                                ----------------
+ Balance, December 31, 2000                           $75,000
+                                                ================
+</TABLE>
+
+3.       PROPERTY AND EQUIPMENT
+
+         The components of property and equipment as of December 31, 2000, at
+cost are:
+
+<TABLE>
+<CAPTION>
+                                                           2000               1999
+                                                      ---------------    ----------------
+<S>                                                   <C>                <C>
+Computer software                                        $2,363,919          $2,434,762
+Computer hardware                                         4,555,263           3,067,993
+Office furniture and equipment                              388,532             624,991
+Leasehold improvements                                      302,313             339,892
+Capital leases                                              495,218           1,327,553
+                                                      ---------------    ----------------
+Total cost                                               $8,105,245          $7,795,191
+Accumulated depreciation and amortization                (3,647,404)         (3,555,415)
+                                                      ---------------    ----------------
+Property and equipment, net                              $4,457,841          $4,239,776
+                                                      ===============    ================
+</TABLE>
+
+
+
+
+                                      -23-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+4.       WRITE-DOWN OF IMPAIRED ASSETS
+
+         In accordance with Statement of Financial Accounting Standards ("SFAS")
+No. 121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to be Disposed of," the Company uses an estimate of the future discounted
+net cash flows of the related asset or asset grouping over the estimated
+remaining life in measuring whether the assets are recoverable. During the
+fourth quarter of 1999, the Company wrote-down approximately $2 million of
+capitalized software and computer technology. The write-down included $648,000
+for InfoSuite, $633,000 for HealthSuite, and $731,000 for ReserveSuite/CTI.
+InfoSuite is a database and search-engine product, client-server based in Oracle
+and Web-enabled, used to handle large volumes of data, categorize and
+cross-reference data, perform expert searches, present results of data searches,
+and other various related functions. HealthSuite is an advanced database
+management product for clinical management, clinical demographics, demand
+management, disease management, algorithmic expert system functions, and other
+related capabilities. ReserveSuite is a comprehensive system for reserving
+elements of an inventory, reporting and full management capability, client
+server based in Oracle as well as Web-enabled. Computer Telephony Integration
+("CTI") is a technology that enables the integration of telephone systems and
+complex computer systems. The write-downs were a result of changes made to the
+Company's marketing plan in the fourth quarter of 1999, and approved by the
+Board of Directors in February 2000. Despite efforts to market these products
+throughout 1999, management acknowledged the lack of sufficient historical and
+forecasted sales. The absence of dependable sales leads related to these assets
+and the progressive shifting of the Company's marketing efforts towards the
+pharmaceutical business and BioSpherix products in 1999, caused uncertainty that
+sufficient future cashflows would be obtained to justify the value of these
+assets on the books. These assets were therefore revalued in the fourth quarter
+of 1999 under the guidelines of FAS 121. Based on the Company's expectation of
+future discounted net cash flows from these assets, these assets were
+written-down to their expected realizable value of $1.6 million. There were no
+additional write-downs in 2000.
+
+5.       DEBT
+
+         LINE OF CREDIT
+
+         The Company renewed its Loan Agreement (the "Agreement") with Bank of
+America (the "Bank") on June 30, 2000, which provides for borrowing up to $1.5
+million, subject to advance rates as defined in the Agreement. Outstanding
+borrowings under the Agreement aggregated $386,274 and $1,277,853 at December
+31, 2000 and 1999, respectively, and are collateralized by the Company's
+eligible accounts receivable and $500,000 from the Company's money market
+account. The interest rate under the new agreement is the Bank's prime rate plus
+0.25% per annum. The total amount available to the Company was $1,113,726 and
+$171,881 under the Agreement at December 31, 2000 and 1999, respectively. The
+Agreement contains covenants that require the Company to meet certain tangible
+net worth and cash flow coverage ratios. The Company was in compliance with the
+bank covenants as of December 31, 2000. The line expires on June 30, 2001, but
+the Company anticipates that the line will be renewed in 2001. However, if the
+Company is unable to extend the line of credit, the Company believes that it has
+adequate funds to meet all of its current obligations for the balance of 2001.
+
+         NOTES PAYABLE TO BANK
+
+         On May 31, 1997, the Company entered into an Equipment Line of Credit
+Agreement ("Equipment Line") with the Bank to assist in financing equipment
+purchases related to new contracts. The Equipment Line consists of a series of
+loans for the acquisition of computer hardware and telecommunication equipment
+not to exceed a maximum aggregate amount of $1 million. Additional terms include
+repayment of each loan in thirty-six (36) equal monthly installments at a fixed
+interest rate equal to the Treasury Index plus 275 basis points at the time of
+loan origination. The facility is collateralized by the equipment purchased with
+the loan proceeds. As part of this Equipment Line, the Company has entered into
+the following notes payable with the Bank:
+
+
+
+                                      -24-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+<TABLE>
+<CAPTION>
+
+                                                         BALANCE          PRINCIPAL PAYMENTS
+                        ORIGINAL    INTEREST RATE         AS OF       -------------------------
+    DATE OF NOTE         AMOUNT       PER ANNUM         12/31/00         2001         2002
+--------------------- ------------ ---------------   ---------------  ------------ ------------
+<S>                   <C>          <C>               <C>              <C>          <C>
+December 3, 1997        $ 302,415       8.59%                 8,400         8,400            -
+March 11, 1998          $ 120,240       8.33%                13,360        13,360            -
+April 29, 1998          $ 460,572       8.44%                76,762        76,762            -
+October 20, 1998        $  98,110       6.66%                29,978        29,978            -
+July 1, 1999            $ 198,491       8.75%               104,759        71,677       33,082
+                                                     ---------------  ------------ ------------
+                                                         $  233,259     $ 200,177     $ 33,082
+                                                     ===============  ============ ============
+</TABLE>
+
+
+         OTHER
+
+         Included in accounts payable is $248,623 and $392,799 related to a book
+overdraft at December 31, 2000 and 1999, respectively.
+
+6.       PRIVATE PLACEMENTS
+
+         In late February 2000, the Company completed a $5 million private
+offering of 723,982 units to a single institutional investor (the "Investor").
+Each unit consisted of one share of Common Stock and one and one-half (1 1/2)
+warrants with an exercise price of $6.91 per share (the "Warrant"). The Warrant
+is exercisable throughout a four year period. The Company has registered the
+shares sold and the shares covered by the Warrant on Form S-3 (Registration No.
+333-32504). Private offerings with the same Investor were also conducted in 1997
+and 1999.
+
+         During 2000, warrants for the purchase of 50,100 and 50,000 shares, at
+$4.00 and $6.40, respectively, of the Company's Common Stock were exercised,
+resulting in proceeds of $520,425. Warrants for the purchase of 325,000,
+1,085,973 and 250,000 shares at $6.40, $6.91, and $8.00, respectively, are
+outstanding at December 31, 2000.
+
+         In connection with the above-described private placements, the Investor
+has agreed that it will not exercise any of the warrants to the extent that it
+would acquire shares of Common Stock exceeding 9.9% of the outstanding Common
+Stock nor to sell shares to anyone to the extent that their holding in the
+Company would exceed 4.9% of the outstanding Common Stock.
+
+7.       TREASURY STOCK TRANSACTION
+
+         During 2000, the Company issued 3,090 shares of Common Stock previously
+held in the treasury in payment of expenses. The excess of the purchase price of
+the treasury stock over the value of the stock on the date of issuance has been
+charged to retained earnings in the amount of $5,828. During 2000, the Company
+also accepted 17,966 shares of Common Stock as part of a stock option exercise.
+These shares were recorded as an addition to treasury stock.
+
+         During 1999, the Company issued 6,768 shares of Common Stock previously
+held in the treasury in payment of expenses. The excess of the purchase price of
+the treasury stock over the value of the stock on the date of issuance has been
+charged to retained earnings in the amount of $6,290.
+
+8.       INCOME TAXES
+
+         The benefit for income taxes in 2000, 1999 and 1998 consists of:
+
+
+                                      -25-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+
+<TABLE>
+<CAPTION>
+                                                                   YEAR ENDED DECEMBER 31,
+                                                          2000              1999               1998
+                                                       ----------       ------------      -------------
+<S>                                                    <C>              <C>               <C>
+Current
+     Federal                                            $      -         $        -        $   (53,297)
+     State                                                     -                  -            (11,598)
+                                                       ----------       ------------      -------------
+Total current benefit                                          -                  -            (64,895)
+                                                       ----------       ------------      -------------
+Deferred
+     Federal                                                   -            245,624            (45,809)
+     State                                                     -             54,376            (10,141)
+                                                       ----------       ------------      -------------
+Total deferred provision (benefit)                             -            300,000            (55,950)
+                                                       ----------       ------------      -------------
+Total income tax provision (benefit)                    $      -         $  300,000        $  (120,845)
+                                                       ----------       ------------      -------------
+</TABLE>
+
+         The tax effect of significant temporary differences representing
+deferred tax assets as of December 31, 2000 and 1999, is as follows:
+
+<TABLE>
+<CAPTION>
+                                                             2000                                    1999
+                                                 -----------------------------          -----------------------------
+                                                  CURRENT         NON-CURRENT            CURRENT         NON-CURRENT
+                                                 ----------      -------------          ---------       -------------
+<S>                                              <C>             <C>                    <C>             <C>
+Property and equipment                            $      -         $  (536,042)         $       -        $    (58,673)
+Deferred rent                                       35,331                   -             14,260                   -
+Accrued vacation                                    29,940                   -             45,278                   -
+Allowance for doubtful accounts                     28,965                   -             77,240                   -
+Deferred revenue                                         -             386,200                  -             386,200
+Net operating loss carryforward                          -           2,870,162                  -           2,478,885
+Accrued bonus                                      144,645                   -                  -                   -
+Other                                               47,604                   -             (1,005)                  -
+                                                 ----------      -------------          ---------       -------------
+                                                   286,485           2,720,320            135,773           2,806,412
+Valuation allowance                               (286,485)         (2,720,320)          (135,773)         (2,806,412)
+                                                 ----------      -------------          ---------       -------------
+Deferred tax asset                               $       -         $         -           $      -         $         -
+                                                 ----------      -------------          ---------       -------------
+</TABLE>
+
+         Approximately $700,000 in U.S. net operating loss were utilized during
+2000 to offset taxable income. The Company has $7.4 million in net operating
+loss carryforwards which will be available to offset regular taxable U.S. income
+during the carryforward period, which will begin to expire in 2018. Based on the
+Company's losses in recent years and its accumulated deficit, the Company has
+provided a full valuation allowance against the net deferred tax asset. During
+fiscal year 2000, the Company increased the allowance in the amount of $64,200
+to fully value the net deferred tax asset at December 31, 2000. At December 31,
+2000, approximately $340,000 of the valuation allowance, related to benefits
+from stock compensation, will be credited to paid in capital when recognized in
+future periods.
+
+         Reconciliation between actual tax expense and tax computed at the
+statutory Federal rate of 34 percent for 2000, 1999, and 1998 are as follows:
+
+
+                                      -26-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+<TABLE>
+<CAPTION>
+                                                              2000               1999                1998
+                                                         ----------------   ----------------    ----------------
+<S>                                                      <C>             <C>                  <C>
+U.S. Federal income tax rate at 34%                           $  200,964      $  (1,667,747)       $   (714,489)
+State taxes, net of federal tax benefit                           27,307           (225,862)           (192,691)
+Increase in valuation allowance                                   64,620          2,188,049             758,120
+Expenses not deductible for tax purposes                           6,353              5,560               5,431
+Valuation allowance related to stock compensation               (299,244)                 -                   -
+Adjustment for prior year taxes                                        -                  -              22,784
+                                                         ----------------   ----------------    ----------------
+Income tax provision (benefit)                                 $       -      $     300,000        $   (120,845)
+                                                         ================   ================    ================
+</TABLE>
+
+9.       COMMITMENTS AND CONTINGENCIES
+
+         GOVERNMENT CONTRACTS
+
+         The principal portion of the Company's revenue has been generated
+traditionally by InfoSpherix. Several of the Company's contracts that provide
+these revenues (principally contracts with the U.S. Government) are from time to
+time subject to protest proceedings. These contracts are awarded pursuant to a
+competitive bidding process. As of December 31, 2000, none of the Company's
+contracts were under protest.
+
+         LEASES
+
+         The Company has various commitments under capital and operating leases
+through 2009 relating to computer hardware and software, office equipment, its
+call center facility in Cumberland, Maryland, and its call center and
+administrative offices in Beltsville, Maryland.
+
+         Future minimum rentals as of December 31, 2000, under noncancellable
+leases are as follows:
+
+<TABLE>
+<CAPTION>
+                                            CAPITAL       OPERATING
+YEAR ENDING DECEMBER 31,                     LEASES         LEASES
+---------------------------------------  -------------  --------------
+<C>                                      <C>             <C>
+2001                                        $ 95,554        $  525,255
+2002                                          54,950           517,695
+2003                                          16,898           530,638
+2004                                           1,102           546,124
+2005                                               -           562,507
+Thereafter                                         -         1,893,758
+                                         ------------   ---------------
+                                             168,504       $ 4,575,977
+                                                        ===============
+Less:  executory costs                        30,053
+Less:  amount representing interest           13,299
+                                         ------------
+Capital lease obligations                    125,152
+Less current portion                          70,570
+                                         ------------
+Long-term obligations                       $ 54,582
+                                         ============
+</TABLE>
+
+
+         These future minimum rentals do not include consumer price index (CPI)
+adjustments to which some of the leases are subject. The Company incurred rental
+expenses of $707,000 in 2000, $887,000 in 1999 and $1,253,000 in 1998 under
+operating leases.
+
+
+
+                                      -27-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+         The Company recorded rental income of $155,000 in 1998, under sublease
+agreements, which is offset against rent expense in the accompanying financial
+statements. No rental income was recorded in 2000 or 1999.
+
+         RELATED PARTY TRANSACTIONS
+
+         Stock Redemption Agreements
+
+         In August 1978, the Company, with stockholders' approval, entered into
+agreements, which were restated on January 15, 1996, with two
+officer-stockholders (the "Principal Stockholders") who beneficially own over
+29% of the outstanding common stock at December 31, 2000. Under the agreement,
+upon their deaths, the Company may be required to redeem from their estates the
+number of shares of the Company's stock necessary to pay estate taxes and
+administrative expenses of the estate, if any, up to $5,000,000. Shares would be
+redeemed at the then-current market price. Redeemable common stock, as of
+December 31, 2000 and 1999, consisted of 3,076,307 and 3,054,273 shares with a
+par value of $0.005 per share, respectively. The Company is the beneficiary of
+an insurance policy on the lives of these individuals, which the Company
+maintains to provide benefits of $5,000,000 for this agreement.
+
+         EMPLOYEE CONTRACT
+
+         The Company has entered into an employment agreement with its Founder,
+Chair, CEO, and Treasurer, who is a Principal Stockholder, that provides for
+certain benefits should he be terminated within the terms of the agreement for
+other than specific reasons. Benefits to be provided under this agreement
+include continued life, disability, accident and health insurance and severance
+payments equal to his annual base compensation through the term of the
+agreement. The agreement expires on November 17, 2001.
+
+         DEFERRED RENT
+
+         The Company entered into a lease for its headquarters and research
+facilities in 1998. The excess of the rent expense over the cash payments for
+rent is recorded as deferred rent and is being amortized over the life of the
+lease.
+
+         DEFERRED COMPENSATION AND CONSULTING AGREEMENTS
+
+         The Company has entered into agreements with the Principal
+Stockholders, whereby these individuals agreed to serve as full-time employees
+of the Company until their respective retirements. Under the agreements, upon
+retirement, these individuals will receive deferred compensation equal to 70% of
+their average annual total compensation less the assumed returns from investment
+of their funded pension plans and their social security payments. The deferred
+compensation plan is unfunded. At December 31, 2000, the Company's liability was
+$11,000 under the plan as actuarially determined. The Company has also agreed to
+fund long-term, continuous lifetime healthcare policies for the Principal
+Stockholders. At December 31, 2000, the Company's liability was estimated to be
+$125,000. Upon completion of their employment, the officer-stockholders also
+agreed to serve as consultants to the Company on a minimum part-time, plus
+as-needed basis, at a specified daily rate.
+
+         DEFERRED REVENUE
+
+         On September 27, 1996, the Company signed an exclusive worldwide
+licensing agreement with MD Foods Ingredients amba (MDFI) of Denmark for the
+use, manufacture and sale of Biospherics' nonfattening sugar, tagatose, as a
+sweetener in foods. The Company received a non-refundable $750,000 initial
+partial payment on signing. This $750,000 was classified as licensing revenue in
+the 1996 financial statements. The Company received an additional payment of
+$1,750,000 on January 6, 1997, subsequent to the successful completion of MDFI's
+due diligence. The $750,000 of the $1,750,000 received on January 6, 1997,
+completes the initial non-refundable payment, and was classified as licensing
+revenue in the first quarter of 1997. The remaining $1 million of the $1,750,000
+was classified as deferred revenue as this represents a non-refundable advance
+against future royalties, recoverable and to be recognized as revenue, at the
+rate of 50% of such annual royalties. The term of the Agreement is five years
+after the expiration of the last to expire present or future U.S. patent
+covering the licensed product and/or the licensed process for manufacturing
+tagatose. The Company has two U.S. patents covering the proprietary method for
+the manufacture of tagatose, which expire on July 19, 2009, and March 25, 2111,
+respectively. Additional patents have been procured and
+
+                                      -28-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+others are likely to result from ongoing research. The Company believes the new
+patents will extend the term of the royalties. Full running royalties will be
+paid to the Company on sales, which the Company believes will begin when the
+first full-scale production plant for tagatose becomes operational. Under the
+terms of the agreement, MDFI has full responsibility for all development costs,
+including any regulatory requirements to sell in the U.S. and European Countries
+and the costs of production and sales. In 2000, MDFI was merged into Arla Foods.
+
+         OTHER
+
+         The Company is also a party to legal actions arising in the ordinary
+course of business. Management of the Company, after reviewing developments to
+date with legal counsel, is of the opinion that the outcome of such matters will
+not have a materially adverse effect on the financial position or results of
+operations of the Company.
+
+10.      STOCK OPTION PLAN
+
+         The Company has an Employees' Stock Option Plan (the "Plan") which
+permits issuance of both Incentive Stock Options (ISO) and Non-Qualified Stock
+Options, whereby options may be granted to officers and other key employees to
+purchase up to 400,000 shares of common stock in amounts determined by the
+Compensation Committee of the Board of Directors through December 31, 2007. The
+Company also has some options still outstanding under an expired option plan. To
+date, all options granted have been at the then-publicly quoted price of the
+stock. During 2000, 1999, and 1998, 44,400, 18,050, and 84,000 options were
+granted, respectively. At December 31, 2000, 213,225 options were available for
+grant under the Plan. An additional 5,000, 4,000, and 5,000 options were granted
+outside the Plan in 2000, 1999, and 1998, respectively. Activity for the three
+years ended December 31, 2000, for all option grants is shown below:
+
+<TABLE>
+<CAPTION>
+                                                           2000                        1999                        1998
+                                                         WEIGHTED                    WEIGHTED                    WEIGHTED
+                                                         AVERAGE                     AVERAGE                     AVERAGE
+                                             2000        EXERCISE        1999        EXERCISE        1998        EXERCISE
+                                            SHARES        PRICE         SHARES        PRICE         SHARES        PRICE
+                                        ------------- ------------  ------------- ------------ -------------- ------------
+<S>                                     <C>           <C>           <C>            <C>         <C>            <C>
+ Outstanding at beginning of year            634,100      $  5.47      2,800,850      $  2.43      2,820,750      $  2.48
+        Granted                               49,400      $  6.53         22,050      $  6.08         89,000      $  5.87
+        Exercised                           (178,475)     $  4.73       (129,500)     $  3.07        (12,000)     $  3.40
+        Expired or forfeited                (214,525)     $  4.97     (2,059,300)     $  1.35        (96,900)     $  5.48
+                                        ------------- ------------  ------------- ------------ -------------- ------------
+ Outstanding at end of year                  290,500      $  6.55        634,100      $  5.47      2,800,850      $  2.43
+ Exercisable at end of year                  203,138                     557,600                     664,475
+
+ Price range of options
+        Outstanding                      $4.06-$7.25                 $3.31-$7.25                 $1.43-$7.25
+        Exercised                        $3.31-$7.25                 $2.88-$6.19                 $2.88-$3.50
+        Expired or forfeited             $4.68-$7.12                 $1.44-$7.25                 $2.88-$7.25
+</TABLE>
+
+         The following table summarizes information with respect to stock
+options outstanding at December 31, 2000:
+
+
+<TABLE>
+<CAPTION>
+                    NUMBER OF OPTIONS     WEIGHTED AVERAGE
+   RANGE OF          OUTSTANDING AT           REMAINING       WEIGHTED AVERAGE
+EXERCISE PRICE           12/31/00         CONTRACTUAL LIFE     EXERCISE PRICE
+----------------     ---------------     ------------------  ------------------
+<C>                  <C>                 <C>                 <C>
+$3.31 - 4.06                  2,500            2.19                $      4.06
+$4.68 - 7.00                212,625             2.8                $      6.34
+$7.08 - 7.25                 75,375            1.18                $      7.21
+----------------     ---------------     ------------------  ------------------
+$3.31 - 7.25                290,500            2.35                $      6.55
+================     ===============     ==================  ==================
+</TABLE>
+
+
+
+
+                                      -29-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+         The following table summarizes information with respect to stock
+options exercisable at December 31, 2000:
+
+<TABLE>
+<CAPTION>
+   YEAR OF OPTION          NUMBER OF       WEIGHTED AVERAGE
+     EXPIRATION             OPTIONS         EXERCISE PRICE       PRICE RANGE
+--------------------  ------------------  ------------------  ------------------
+<S>                    <C>                 <C>                <C>
+       2001                      68,375         $7.23            $7.13-$7.25
+       2002                      79,875         $6.59            $6.19-$7.00
+       2003                      43,075         $6.16            $5.78-$6.36
+       2004                       6,813         $6.07            $6.00-$6.60
+       2005                       5,000         $6.43               $6.44
+--------------------  ------------------  ------------------  ------------------
+     All Years                  203,138         $6.69            $5.78-$7.25
+====================  ==================  ==================  ==================
+</TABLE>
+
+
+         To measure stock-based compensation in accordance with SFAS 123, the
+fair value of each option grant was estimated on the date of grant using the
+Black-Scholes option-pricing model. The following tables summarize the
+assumptions used and the pro-forma net income (loss) and net income (loss) per
+share resulting from applying SFAS 123.
+
+<TABLE>
+                                                                              2000            1999            1998
+                                                                              ----            ----            ----
+<S>                                                       <C>               <C>           <C>             <C>
+Net income (loss)                                         As reported       $591,070      $(5,205,097)    $(1,980,594)
+                                                          Pro forma         $365,922      $(5,681,165)    $(2,408,248)
+
+Net income (loss) per share - basic                       As reported        $0.06          $(0.55)         $(0.23)
+                                                          Pro forma          $0.04          $(0.60)         $(0.27)
+
+Net income (loss) per share - diluted                     As reported        $0.06          $(0.55)         $(0.23)
+                                                          Pro forma          $0.04          $(0.60)         $(0.27)
+
+Expected life (years)                                                                 4               4               4
+Risk-free interest rate                                                           5.75%           5.00%           4.70%
+Volatility                                                                          73%             75%             75%
+Dividend yield                                                                     0.0%            0.0%            0.0%
+Weighted average remaining contractual life (years)                                2.35            1.68            1.32
+Weighted average fair value at date of grant                                      $3.76           $3.53           $3.34
+</TABLE>
+
+11       EMPLOYEE BENEFIT PLANS
+
+         Effective January 1, 1990, the Company established the Biospherics
+Incorporated 401(k) Retirement Plan. The Plan is a discretionary defined
+contribution plan and covers substantially all employees who have attained the
+age of 21, have completed 1 year of service, and have worked a minimum of 1,000
+hours in the past Plan or anniversary year.
+
+         Under provisions of the Plan, the Company, for any plan year, has
+contributed an amount equal to 50% of the participant's contribution or 2 1/2%
+of the participant's eligible compensation, whichever is less. The Company may,
+at its own discretion, make additional matching contributions to participants.
+Company contributions, net of forfeitures, amounted to $72,000, $59,000, and
+$69,000 in 2000, 1999 and 1998, respectively.
+
+12       INFORMATION BY BUSINESS SEGMENT
+
+         Operating segments are components of an enterprise about which separate
+financial information is available that is evaluated regularly by the chief
+operating decision maker, or decision making group, in deciding how to allocate
+resources and in assessing performance. The Company is managed along two
+business segments, InfoSpherix and BioSpherix.
+
+         Financial information by business segment for the years ended December
+31, 2000, 1999, and 1998 are summarized below:
+
+
+                                      -30-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+<TABLE>
+<CAPTION>
+                                                                                   YEAR ENDED DECEMBER 31,
+                                                                                   (DOLLARS IN THOUSANDS)
+                                                                            2000            1999              1998
+                                                                         ---------      ------------      ----------
+<S>                          <C>                                         <C>            <C>               <C>
+REVENUES                     InfoSpherix                                 $  16,885        $  12,568        $  15,766
+                             BioSpherix                                        150              130              248
+                                                                         ---------      ------------      ----------
+                             Total revenues                              $  17,035        $  12,698        $  16,014
+                                                                         =========      ============      ==========
+OPERATING PROFIT (LOSS)      InfoSpherix                                 $     870        $  (4,325)       $  (1,724)
+   AND INCOME (LOSS)         BioSpherix                                       (459)            (369)            (240)
+   BEFORE INCOME TAXES                                                   ---------      ------------      ----------
+                             Total operating income (loss)                     411           (4,694)          (1,964)
+                                  Interest income (expense), net               180             (211)            (137)
+                                                                         ---------      ------------      ----------
+                             Income (loss) from operations before
+                                  income taxes                           $     591        $  (4,905)       $  (2,101)
+                                                                         =========      ============      ==========
+IDENTIFIABLE ASSETS          InfoSpherix                                 $   6,557        $   5,338        $   7,379
+                             BioSpherix                                        164              150              171
+                             General corporate assets                        6,730            3,068            4,084
+                                                                         ---------      ------------      ----------
+                             Total assets                                $  13,451        $   8,556        $  11,634
+                                                                         =========      ============      ==========
+CAPITAL                      InfoSpherix                                 $   1,882        $   1,060        $   3,373
+   EXPENDITURES              BioSpherix                                          -                1               14
+                             General corporate assets                           21              506              277
+                                                                         ---------      ------------      ----------
+                             Total capital expenditures                  $   1,903        $   1,567        $   3,664
+                                                                         =========      ============      ==========
+DEPRECIATION                 InfoSpherix                                 $   1,186        $   1,502        $   1,017
+   AND AMORTIZATION          BioSpherix                                         20               24               20
+                             General corporate assets                          109              215              274
+                                                                         ---------      ------------      ----------
+                             Total depreciation and amortization         $   1,315        $   1,741        $   1,311
+                                                                         =========      ============      ==========
+</TABLE>
+
+         During 2000, InfoSpherix recognized revenue from four of its
+customers, including two government agencies, representing 22%, 16%, 15%, and
+12% of the total Company revenues. During 1999, InfoSpherix recognized
+revenue from three of its customers representing 28%, 24%, and 17% of the
+total Company revenues. During 1998, InfoSpherix recognized revenue from four
+of its customers representing 18%, 17%, 16%, and 11% of the total Company
+revenues. Government contracts accounted for 59% and 71% of the InfoSpherix
+revenue in 2000 and 1999, respectively.
+
+         BioSpherix has invented and patented for the Company the use of
+tagatose as a low-calorie sweetener and has invented and patented
+safe-for-humans pesticides. The Company also has filed for patents on other
+inventions. In 1996, the Company signed an exclusive worldwide licensing
+agreement with MD Foods Ingredients (MDFI) amba of Denmark for the use,
+manufacture and sale of Biospherics' low-calorie sugar, tagatose, as a
+sweetener (see Note 9 "Commitments and Contingencies"). In 2000, MDFI was
+merged into Arla Foods.
+
+         BioSpherix also developed a safe-for-humans (and animals) pesticide
+against house and stable flies, FlyCracker, and market tested it in 2000. The
+consumer response was very favorable, and the Company will greatly increase its
+marketing and sales effort for this unique, environmentally friendly product for
+the year 2001. It potentially fills an important need expressed by the EPA for
+safe pesticides to replace the harsh chemicals that the EPA cites as toxic.
+BioSpherix is also developing other proprietary products.
+
+         Operating profit (loss) consists of revenue less operating expenses. In
+computing operating profit, interest expense and income taxes were not
+considered.
+
+
+                                      -31-
+<PAGE>
+
+                            BIOSPHERICS INCORPORATED
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                 --------------
+
+         Identifiable assets by business segment are those assets used in the
+Company's operations in each segment, such as accounts receivable, inventories,
+fixed assets, and patent costs. Corporate assets are principally cash and
+certain other assets not related to a particular segment's operations.
+
+13.      SELECTED QUARTERLY INFORMATION (IN THOUSANDS, EXCEPT PER SHARE DATA),
+         UNAUDITED
+
+         The table below sets forth selected unaudited financial information for
+each quarter of the last two years.
+
+<TABLE>
+<CAPTION>
+                                                           QUARTER ENDED
+                                 ------------------------------------------------------------------------
+                                   MARCH 31,            JUNE 30,        SEPTEMBER 30,       DECEMBER 31,
+                                 ------------        -------------    ----------------    ---------------
+<S>                              <C>                 <C>                <C>                 <C>
+ 1999
+ Revenue                         $      2,966        $      3,583       $      3,473        $      2,676
+ Gross profit                    $        425        $        950       $      1,320        $        381
+ Net income (loss)               $       (994)       $       (842)      $         18        $     (3,387)
+ Net loss
+   per share, basic              $      (0.11)       $      (0.09)      $          -        $      (0.35)
+ Net loss
+   per share, diluted            $      (0.11)       $      (0.09)      $          -        $      (0.35)
+
+ 2000
+ Revenue                         $      5,254        $      4,683       $      4,419        $      2,679
+ Gross profit                    $      2,282        $      1,790       $      1,710        $        165
+ Net income (loss)               $      1,018        $        387       $        438        $     (1,252)
+ Net income (loss)
+   per share, basic              $       0.10        $       0.04       $       0.04        $      (0.12)
+ Net income (loss)
+   per share, diluted            $       0.09        $       0.03       $       0.04        $      (0.12)
+</TABLE>
+
+
+
+
+
+
+                                      -32-
+<PAGE>
+
+
+                            BIOSPHERICS INCORPORATED
+
+                                   ----------
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+         On April 5, 2000, PricewaterhouseCoopers LLP declined to stand for
+re-election as the independent accountants for Biospherics Incorporated. The
+reports of PricewaterhouseCoopers LLP on the financial statements for the years
+end December 31, 1999 and 1998 contained no adverse opinion or disclaimer of
+opinion and were not qualified or modified as to uncertainty, audit scope or
+accounting principle. In connection with its audits for 1999 and 1998 and
+through April 5, 2000, there were no disagreements with PricewaterhouseCoopers
+LLP on any matter of accounting principles or practices, financial statement
+disclosure, or auditing scope or procedure, which disagreements if not resolved
+to the satisfaction of PricewaterhouseCoopers LLP would have caused them to make
+reference thereto in their report on the financial statements for such years.
+
+         On April 27, 2000, the Company engaged Grant Thornton LLP as its new
+independent accountants. The decision to engage Grant Thornton LLP was approved
+by the Audit Committee, the Board of Directors of the Company, and Shareholders.
+
+
+                                    PART III
+
+ITEMS 10 THROUGH 13.
+
+         Information required by Part III (Items 10 through 13) of this Form
+10-K is incorporated by reference to the Company's definitive Proxy Statement
+for the Annual Meeting of Stockholders for the fiscal year ended December 31,
+2000, which will be filed with the Securities and Exchange Commission not later
+than 120 days after the end of the fiscal year to which this report relates.
+
+
+                                     PART IV
+
+ITEM 14.  EXHIBITS AND REPORTS ON FORM 8-K
+
+       (a) EXHIBITS
+
+<TABLE>
+<S>              <C>
+           (3)   Articles of Incorporation and Bylaws of the Company (incorporated by reference to the Company's
+                 Annual Proxy Statement of May 15, 1992, as filed with the Commission)
+         (3.1)   Articles of Amendment of the Company (incorporated by reference to the Company's Proxy Statement
+                 for its May 1996 and May 2000 annual meetings, as filed with the Commission).
+        (10.1)   Supplemental Executive Retirement Plan Agreement dated as of February 17, 1993, by and between
+                 Gilbert V. Levin and the Company (incorporated by reference to Form 10-KSB filed March 31, 1993)
+        (10.2)   Supplemental Executive Retirement Plan Agreement dated as of February 17, 1993, by and between
+                 M. Karen Levin and the Company (incorporated by reference to Form 10-KSB filed March 31, 1993)
+        (10.3)   Consulting Agreement dated as of February 17, 1993, by and between Gilbert V. Levin and the
+                 Company (incorporated by reference to Form 10-KSB filed March 31, 1993)
+        (10.4)   Consulting Agreement dated as of February 17, 1993, by and between M. Karen Levin and the
+                 Company (incorporated by reference to Form 10-KSB filed March 31, 1993)
+        (10.5)   Employment Agreement dated as of November 17, 1995, by and between Gilbert V. Levin and the
+                 Company (incorporated by reference to Form 10-KSB filed March 31, 1996)
+      (10.5.1)   Amendment to Employment Agreement dated as of November 17, 1995, by and between Gilbert V. Levin
+                 and the Company (incorporated by reference to Form 10-KSB filed March 15, 1999)
+        (10.6)   Restated Stock Redemption Agreement dated as of January 15, 1996, by and between Gilbert V.
+                 Levin, M. Karen Levin, and the Company  (incorporated by reference to Form 10-KSB filed March
+                 31, 1996)
+        (10.7)   Stock Purchase Warrants dated as of February 24, 2000, March 31, 1999 and May 18, 1999
+                 (incorporated by reference to Form 8-K filed March 3, 2000 and May 24, 1999)
+        (10.8)   Agreement and License between the Company and MD Foods Ingredients Amba (incorporated by
+                 reference to Form 8-K filed October 22, 1996)
+</TABLE>
+
+
+                                      -33-
+<PAGE>
+
+
+                            BIOSPHERICS INCORPORATED
+
+                                   ----------
+
+<TABLE>
+<S>              <C>
+        (10.9)   Securities Purchase Agreement dated as of February 24, 2000, by and between the Company and RGC
+                 International Investors, LDC, c/o Rose Glen Capital Management, L.P. (incorporated by reference
+                 to Form 8-K filed March 3, 2000).
+       (10.10)   Lease Agreement dated as of November 11, 1997 by and between the Company and Liberty Property
+                 Trust.
+       (10.11)   1997 Stock Option Plan (incorporated by reference from the Company's Proxy Statement for its May
+                 1998 annual meeting, as filed with the Commission).
+       (10.12)   On March 3, 2000, the Company filed a report on Form 8-K dated February 24, 2000, pursuant to
+                 Item 5 thereof, to report the issuance of 723,982 units consisting of one share of Common Stock
+                 and one and one-half warrants with an exercise price of $6.91 per share.
+       (10.13)   On April 12, 2000, the Company filed a report on Form 8-K dated April 5, 2000, pursuant to Item
+                 4 thereof, to report that PricewaterhouseCoopers LLP declined to stand for re-election as the
+                 independent accountants for the Company.
+       (10.14)   On May 2, 2000, the Company filed a report on Form 8-K dated April 27, 2000, pursuant to Item 4
+                 thereof, to report that the Board of Directors approved a resolution authorizing management of
+                 the Company to engage Grant Thornton LLP to act as its independent auditors for the calendar
+                 year 2000.
+       (10.15)   On March 6, 2001, the Company filed a report on Form 8-K dated February 16, 2001, pursuant to
+                 Item 5 thereof, to report that the Board of Directors adopted a Rights Agreement by and between
+                 the Company and American Stock Transfer & Trust Company as Rights Agent.
+         (23a)   Consent of Grant Thornton LLP
+         (23b)   Consent of PricewaterhouseCoopers LLP
+
+</TABLE>
+
+
+
+
+
+
+                                      -34-
+<PAGE>
+
+
+                            BIOSPHERICS INCORPORATED
+
+                                   ----------
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Exchange
+Act, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+                                             BIOSPHERICS INCORPORATED
+                                             ------------------------
+                                                    (Registrant)
+
+
+Date:  FEBRUARY 16, 2001                     By:  /s/  GILBERT V. LEVIN
+       -------------------------------            ------------------------------
+                                                     Gilbert V. Levin
+                                                     Chair, CEO, & Treasurer
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<S>                                              <C>                                    <C>
+/s/  GILBERT V. LEVIN                            Chair, CEO, and Treasurer              February 16, 2001
+--------------------------------------
+Gilbert V. Levin
+
+
+/s/  M. KAREN LEVIN                              Director, Vice President for
+--------------------------------------           Communications                         February 16, 2001
+M. Karen Levin
+
+
+/s/  LIONEL V. BALDWIN                           Director                               February 16, 2001
+--------------------------------------
+Lionel V. Baldwin
+
+
+/s/  THOMAS GANTT                                Director                               February 16, 2001
+--------------------------------------
+Thomas Gantt
+
+
+/s/  ANNE S. MACLEOD                             Director                               February 16, 2001
+--------------------------------------
+Anne S. MacLeod
+
+
+/s/  THOMAS G. MOORE                             Director                               February 16, 2001
+--------------------------------------
+Thomas G. Moore
+
+
+/s/  DEBORAH S. STREB                            Director                               February 16, 2001
+--------------------------------------
+Deborah S. Streb
+</TABLE>
+
+
+
+
+                                      -35-
+</TEXT>
+</DOCUMENT>

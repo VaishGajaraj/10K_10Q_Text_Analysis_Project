@@ -1,0 +1,2910 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>f70922e10-k405.txt
+<DESCRIPTION>FORM 10-K405
+<TEXT>
+
+<PAGE>   1
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+                            ------------------------
+
+                                   FORM 10-K
+
+(MARK ONE)
+
+      [X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 2000
+
+                                       OR
+
+      [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+
+         FOR THE TRANSITION PERIOD FROM ____________ TO ____________ .
+
+                         COMMISSION FILE NUMBER 1-8789
+                            ------------------------
+
+                       AMERICAN SHARED HOSPITAL SERVICES
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+<TABLE>
+<S>                                            <C>
+                  CALIFORNIA                                     94-2918118
+       (STATE OR OTHER JURISDICTION OF                         (IRS EMPLOYER
+        INCORPORATION OR ORGANIZATION)                      IDENTIFICATION NO.)
+</TABLE>
+
+  TWO EMBARCADERO CENTER, SUITE 2370, SAN FRANCISCO, CALIFORNIA     94111-3823
+               (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES) (ZIP CODE)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (415) 788-5300
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+<TABLE>
+<CAPTION>
+       TITLE OF EACH CLASS             NAME OF EACH EXCHANGE ON WHICH REGISTERED
+       -------------------             -----------------------------------------
+<S>                                 <C>
+    COMMON STOCK NO PAR VALUE                   AMERICAN STOCK EXCHANGE
+                                                    PACIFIC EXCHANGE
+</TABLE>
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT: NONE
+
+     Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes  [X]  No  [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [X]
+
+     As of March 15, 2001, the aggregate market value of the common stock held
+by non-affiliates of the registrant was approximately $7,110,000.
+
+     Number of shares of common stock of the registrant outstanding as of March
+15, 2001: 3,607,225.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the registrant's definitive Proxy Statement for the 2001 Annual
+Meeting of its Shareholders are incorporated by reference into Part III of this
+report.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>   2
+
+                                     PART I
+ITEM 1. BUSINESS
+
+GENERAL
+
+     American Shared Hospital Services ("ASHS" and, together with its
+subsidiaries, the "Company") provides Gamma Knife stereotactic radiosurgery
+services to ten medical centers in nine states. The Company provides these
+services through its 81% indirect interest in GK Financing, LLC, a California
+limited liability company ("GKF"). The remaining 19% of GKF is owned by GKV
+Investments, Inc., a wholly owned U.S. subsidiary of Elekta AG, a Swedish
+company ("Elekta"). Elekta is the manufacturer of the Leksell Gamma Knife (the
+"Gamma Knife"). GKF is a non-exclusive provider of alternative financing
+services for Elekta. Gamma Knife services accounted for 100% of the Company's
+revenues in 2000.
+
+     At present, the Company is developing its business model for "The Operating
+Room for the 21st Century(SM)" ("OR21(SM)"). The Company also is exploring
+Internet-related business opportunities, through its MedLeader.com subsidiary
+("MedLeader"), that relate strategically and operationally to its existing and
+developing lines of business. The Company has decided to delay continued
+development of MedLeader as a stand alone business. Neither OR21 nor MedLeader
+are expected to generate significant revenues within the next twelve months. The
+Company's former insurance services business did not contribute significant
+revenues and was discontinued during 1999.
+
+     In November 1998, the Company sold its diagnostic imaging business to
+affiliates of Alliance Imaging, Inc. (the "Purchaser") for $13,552,000 in cash
+and the assumption by the Purchaser of substantially all of the liabilities of
+the diagnostic imaging business, including approximately $27.1 million in debt.
+Prior to that sale, the Company provided Magnetic Resonance Imaging ("MRI"),
+Computed Axial Tomography, Ultrasound, Nuclear Medicine and Cardiac
+Catheterization Laboratory services to approximately 190 customers in 22 states.
+The diagnostic imaging business provided approximately 88% of the Company's
+revenues for the year ended December 31, 1998.
+
+     The Company was incorporated in the state of California in 1983 and its
+predecessor, Ernest A. Bates, M.D., Ltd. (d/b/a American Shared Hospital
+Services), a California limited partnership, was formed in June 1980.
+
+GAMMA KNIFE OPERATIONS
+
+     Gamma Knife stereotactic radiosurgery, a non-invasive procedure, is an
+alternative to conventional brain surgery or can be an adjunct to conventional
+brain surgery. Compared to conventional surgery, Gamma Knife surgery usually
+involves shorter patient hospitalization, lower risk of complications and can be
+provided at a lower cost. Typically, Gamma Knife patients resume their normal
+activities one or two days after treatment. The Gamma Knife treats the patient
+with 201 single doses of gamma rays that are focused with great precision on
+small and medium, well circumscribed and critically located structures in the
+brain. The Gamma Knife delivers the concentrated dose of gamma rays from 201
+sources of Cobalt 60 housed in the Gamma Knife. The 201 Cobalt 60 sources
+converge at the target area and deliver a dose that is high enough to destroy
+the diseased tissue without damaging surrounding healthy tissue.
+
+     The Gamma Knife treats selected benign brain tumors (i.e. meningiomas,
+pituitary and acoustic neuromas, craniopharyngiomas), malignant tumors (i.e.
+solitary and multiple metastatic tumors, gliomas, nasopharyngeal carcinomas and
+ocular meningiomas), arteriovenous malformations and trigeminal neuralgia
+(facial pain). Research is being conducted to determine whether the Gamma Knife
+can be effective in the treatment of epilepsy, Parkinson's Disease and other
+functional disorders.
+
+     There are currently 64 Gamma Knife units operating at 62 sites in the
+United States and approximately 155 units in operation worldwide. As of December
+31, 2000, approximately 150,000 procedures had been performed worldwide. An
+estimated percentage breakdown of these Gamma Knife procedures performed in the
+U.S. by indications treated are as follows: malignant (41%) and benign (32%)
+brain tumors, vascular disorders (17%) and functional disorders (10%).
+
+                                        1
+<PAGE>   3
+
+     The Company, as of March 9, 2001, has ten (10) Gamma Knife units operating
+at ten (10) sites in the United States. In addition, the Company has four (4)
+more hospitals that are currently under development. The Company's first Gamma
+Knife commenced operation in September 1991. The Company's Gamma Knife units had
+performed approximately 1,200 procedures in 2000 for a cumulative total of 4,200
+procedures through December 31, 2000.
+
+     Gamma Knife revenues for the Company during the five (5) years ended
+December 31, 2000 and the percentage of total revenues of the Company
+represented by the Gamma Knife for each of the last five years are set forth
+below:
+
+<TABLE>
+<CAPTION>
+                              TOTAL GAMMA KNIFE        GAMMA KNIFE/
+ YEAR ENDED DECEMBER 31,   REVENUES (IN THOUSANDS)    TOTAL REVENUES
+ -----------------------   -----------------------    --------------
+<S>                        <C>                        <C>
+2000.....................          $9,336                 100.0%
+1999.....................          $7,151                  99.9%
+1998.....................          $4,156                  11.8%
+1997.....................          $2,384                   6.4%
+1996.....................          $2,030                   5.5%
+</TABLE>
+
+     The Company conducts its Gamma Knife business through its 81% indirect
+interest in GKF. The remaining 19% interest is indirectly owned by Elekta. GKF,
+formed in October 1995, is managed by its policy committee. The policy committee
+is composed of one representative from the Company, Ernest A. Bates, M.D., the
+Company's Chairman and CEO, and one representative from Elekta. The policy
+committee sets the operating policy for GKF. The policy committee may act only
+with the unanimous approval of all of its members. The policy committee selects
+a manager to handle GKF's daily operations. Craig K. Tagawa, Chief Executive
+Officer of GKF and Chief Operating and Financial Officer of the Company, serves
+as GKF's manager.
+
+     GKF profits and/or losses and any cash distributions are allocated based on
+membership interests. GKF's Operating Agreement requires that it have a cash
+reserve of at least $50,000 before cash distributions are made to its members.
+From inception to December 31, 2000, GKF distributed $3,178,000 to the Company.
+
+RISKS OF GAMMA KNIFE BUSINESS
+
+     There are significant risks involved in the Company's Gamma Knife business,
+including the following:
+
+     - Each Gamma Knife unit requires a substantial capital investment. The
+       Company's cost for a Gamma Knife unit historically has been approximately
+       $2,775,000. In some cases, the Company contributes additional funds for
+       capital costs and/or annual operating costs such as marketing. Due to the
+       structure of its contracts with medical centers, there can be no
+       assurance that these costs will be fully recovered or that the Company
+       will earn a satisfactory return on its investment.
+
+     - There is a limited market for the Gamma Knife. Due to the substantial
+       costs of acquiring a Gamma Knife, the Company must identify medical
+       centers that possess neurosurgery and oncology departments capable of
+       performing a large number of Gamma Knife procedures. The Company has
+       identified approximately 200 such medical centers in the United States as
+       potential future sites. There currently are 64 operating Gamma Knife
+       units in the United States, ten (10) of which are Company owned units.
+       There can be no assurance that the Company will be successful in placing
+       additional units at a significant number of sites in the future.
+
+     - There currently are four companies (in addition to the Company) that
+       supply the Gamma Knife to potential customers. There are no competitor
+       companies that currently have more than four (4) Gamma Knife units in
+       operation. The Company does not currently have an exclusive relationship
+       with Elekta and has lost sales in the past to customers that choose to
+       purchase a Gamma Knife directly from Elekta. In addition, the Company may
+       continue to lose sales in the future to such customers and may also lose
+       sales to competitors of the Company. There can be no assurance that the
+       Company will be able to successfully compete against others to place
+       units in the future.
+
+                                        2
+<PAGE>   4
+
+     - There are several methods of radiosurgery (including the modified linear
+       accelerator) as well as conventional neurosurgery that compete against
+       the Gamma Knife. Currently, there are approximately 200 medical centers
+       in the United States with modified linear accelerators. Each of the
+       medical centers targeted by the Company could decide to acquire another
+       radiosurgery modality instead of a Gamma Knife. In addition,
+       neurosurgeons who are primarily responsible for referring patients for
+       Gamma Knife surgery may not be willing to make such referrals for various
+       reasons, instead opting for invasive surgery. There can be no assurance
+       that the Company will be able to secure a sufficient number of sites or
+       Gamma Knife procedures to sustain its profitability and growth.
+
+     - The amount reimbursed to medical centers for each Gamma Knife treatment
+       may decline in the future. The reimbursement decrease may come from
+       federally mandated programs (i.e. Medicare and Medicaid) or other third
+       party payor groups. Eight (8) of the Company's existing contracts are
+       reimbursed by the medical center to the Company on a fee-for-service
+       basis. The primary risk to the Company under this type of contract is
+       that actual volumes of procedures could be less than projected. However,
+       a significant reimbursement rate reduction may result in the Company
+       restructuring certain of its existing contracts. The Company also has two
+       contracts where it receives revenues based directly on the amount of
+       reimbursement received for procedures performed. Revenues under those
+       contracts and any future contracts with revenues based directly on
+       reimbursement amounts will be impacted by any reimbursement rate change.
+       Some of the Company's future contracts for Gamma Knife services may have
+       revenues based on such reimbursement rates instead of a fee-for-service
+       basis. There can be no assurance that future changes in healthcare
+       regulations and reimbursement rates will not directly or indirectly
+       adversely affect the Company's Gamma Knife revenues.
+
+     - As with other highly sophisticated medical equipment, there is constant
+       change and innovation in the market. New and improved medical equipment
+       can be introduced that could make the Gamma Knife technology obsolete and
+       that would make its operation uneconomic. During the past year, Elekta
+       introduced an upgraded Gamma Knife which costs approximately $3.4 million
+       plus applicable tax and duties. This upgrade includes an Automated
+       Patient Positioning system ("APS") and therefore involves less health
+       care provider intervention. Nine (9) of the Company's existing Gamma
+       Knife units are upgradeable. The cost to upgrade existing units to the
+       new model C Gamma Knife with APS is estimated to be approximately
+       $900,000.
+
+                                        3
+<PAGE>   5
+
+CUSTOMERS
+
+     The Company's current business is the outsourcing of Gamma Knife
+stereotactic radiosurgery services. The Company typically provides the Gamma
+Knife equipment, as well as planning, installation and marketing support
+services. Customers usually pay the Company on a fee-per-use basis. The market
+for these services primarily consists of major urban medical centers. The Gamma
+Knife business is capital intensive. The total cost of a Gamma Knife facility
+usually ranges from $3.25 million to $4 million, including equipment, site
+construction and installation. The Company's typical, historical costs for
+acquisition are approximately $2,775,000 with the medical center paying for site
+and installation costs. The following is a listing of the Company's current
+sites and sites under development as of March 9, 2001:
+
+<TABLE>
+<CAPTION>
+                                                             ORIGINAL
+                       CUSTOMER                          TERM OF CONTRACT        BASIS OF PAYMENT
+                       --------                          ----------------        ----------------
+<S>                                                      <C>                     <C>
+EXISTING SITES
+UCSF Medical Center                                          10 years              Fee per use
+  San Francisco, California
+Hoag Memorial Hospital Presbyterian ("Hoag")                 10 years              Fee per use
+  Newport Beach, California
+Southwest Texas Methodist Hospital ("STMH")                  10 years              Fee per use
+  San Antonio, Texas
+Yale New Haven Ambulatory Services Corporation ("Yale")      10 years            Revenue sharing
+  New Haven, Connecticut
+Kettering Medical Center                                     10 years              Fee per use
+  Kettering, Ohio
+New England Medical Center                                   10 years              Fee per use
+  Boston, Massachusetts
+University of Arkansas for Medical Sciences ("UAMS")         15 years            Revenue sharing
+  Little Rock, Arkansas
+Froedtert Memorial Lutheran Hospital                         10 years              Fee per use
+  Milwaukee, Wisconsin
+JFK Medical Center                                           10 years              Fee per use
+  Edison, New Jersey
+Sunrise Hospital and Medical Center                          10 years              Fee per use
+  Las Vegas, Nevada
+
+SITES UNDER DEVELOPMENT
+Central Mississippi Medical Center                           10 years              Fee per use
+  Jackson, Mississippi
+OSF Saint Francis Medical Center                             10 years              Fee per use
+  Peoria, Illinois
+Hospital Barra D'Or                                          10 years            Revenue Sharing
+  Rio de Janeiro, Brazil
+Lima, Peru                                                   10 years            Revenue Sharing
+</TABLE>
+
+     The Company's second Gamma Knife contract, with the University of Southern
+California ended in the third quarter of 1999. The customer exercised its option
+to purchase the equipment for its net book value, approximately $1.2 million.
+Currently, two of the Company's sites now under development are projected to
+become operational in the second quarter of 2001 and two additional contracts
+are expected to become operational in the fourth quarter of 2001 or in early
+2002. The Company's contract with Hospital Barra D'Or currently is being
+renegotiated with the customer in light of the changes in the Brazilian economic
+environment. If the contract cannot be successfully renegotiated, it will be
+terminated.
+
+     The Company's fee per use agreement is typically for a ten-year term. The
+fixed fee per use reimbursement amount that the Company receives from the
+customer is based on the Company's cost to provide the service and the
+anticipated volumes of the customer. The contracts signed by the Company
+typically call for a fee ranging from $7,500 to $9,500 per procedure. There are
+no minimum volume guarantees
+
+                                        4
+<PAGE>   6
+
+required of the customer. Typically, GKF is responsible for providing the Gamma
+Knife and related ongoing Gamma Knife equipment expenses (i.e. personal property
+taxes, insurance, equipment maintenance) and also helps fund the customer's
+Gamma Knife marketing. The customer generally is obligated to pay site and
+installation costs and the costs of operating the Gamma Knife. The customer can
+either renew the agreement or terminate the agreement at the end of the
+contractual term. If the customer chooses to terminate the agreement, then GKF
+removes the equipment from the medical center for possible placement at a future
+site.
+
+     The Company's revenue sharing agreements are typically for a period of ten
+to fifteen years. Instead of receiving a fixed fee, the Company receives all or
+a percentage of the reimbursement (exclusive of physician fees) received by the
+customer less the operating expenses of the Gamma Knife. The Company is at risk
+for any reimbursement rate changes for Gamma Knife services by the government or
+other third party payors. The Company is also at risk if it inefficiently
+operates the Gamma Knife. There are no minimum volume guarantees required of the
+customer.
+
+     Four customers each accounted for more than 10% of the Company's revenues
+in 2000 and 1999: Hoag, STMH, Yale and UAMS. No single customer accounted for
+10% or more of the Company's total revenues in 1998, but each of the five Gamma
+Knife customers in 1998 accounted for more than 10% of the Company's Gamma Knife
+services revenues that year.
+
+MARKETING
+
+     At the end of 2000, the Company employed no sales executive. The Company's
+new Vice President of Sales will join the Company starting April 2, 2001. The
+Company markets its services through its preferred provider status with Elekta
+and a direct sales effort. The major advantages to a health care provider in
+contracting with the Company for Gamma Knife services include:
+
+     - The medical center avoids the high cost of owning the equipment. By not
+       acquiring the Gamma Knife unit, the medical center is able to allocate
+       the funds required to purchase and/or finance the Gamma Knife to other
+       projects.
+
+     - The medical center avoids the risk of Gamma Knife under-utilization. The
+       Company does not have minimum volume requirements. The medical center
+       pays the Company only for each Gamma Knife procedure performed on a
+       patient.
+
+     - The medical center transfers the risk of technological obsolescence to
+       the Company. The medical center and its physicians are not under any
+       obligation to utilize technologically obsolete equipment.
+
+     - The Company provides planning, installation, operating and marketing
+       assistance and support to its Gamma Knife customers.
+
+FINANCING
+
+     The Company's Gamma Knife business is operated through GKF. GKF has funded
+its existing Gamma Knife units with loans from a single lender for 100% of the
+cost of each Gamma Knife, plus any sales tax, customs and duties. The loans are
+fully amortized over an 84-month period. The loans are collateralized by the
+Gamma Knife, customer contracts, and accounts receivable and are without
+recourse to the Company and Elekta.
+
+     GKF currently has loan commitments and has received progress payments from
+its primary lender for two (2) of its four (4) Gamma Knife projects under
+development. The loan commitments require that GKF have a debt to equity plus
+subordinated debt ratio of 6 to 1. GKF currently meets the ratio requirement to
+be eligible for funding of the approximately $6,100,000 remaining cash
+requirements for its four (4) projects under development.
+
+COMPETITION
+
+     Conventional neurosurgery is the primary competitor of Gamma Knife
+radiosurgery. Gamma Knife surgery is gaining acceptance as an alternative and/or
+adjunct to conventional surgery due to its more
+                                        5
+<PAGE>   7
+
+favorable morbidity outcomes for certain procedures as well as its
+non-invasiveness. Utilization of the Company's Gamma Knife units is contingent
+on the acceptance of Gamma Knife radiosurgery by the customer's neurosurgeons,
+radiation oncologists and referring physicians. In addition, the utilization of
+the Company's Gamma Knife units is impacted by the proximity of competing Gamma
+Knife centers and providers using other radiosurgery modalities.
+
+     The Company's ability to contract with additional customers for Gamma Knife
+services is dependent on its ability to compete against (i) Elekta, the
+manufacturer of the Gamma Knife, (ii) manufacturers of competing radiosurgery
+devices (primarily modified linear accelerators), and (iii) other companies that
+outsource Gamma Knife services. The Company does not have an exclusive
+relationship with Elekta and has lost sales in the past to customers that choose
+to purchase a Gamma Knife directly from Elekta. The Company may continue to lose
+sales in the future to such customers and may also lose sales to competitors of
+the Company.
+
+GOVERNMENT REGULATION
+
+     The Company's Gamma Knife services customers receive payments for patient
+care from federal government and private insurer reimbursement programs.
+Currently in the United States, the majority of Gamma Knife services are
+performed on an in-patient basis, although a significant number are performed on
+an out-patient basis.
+
+     A Prospective Payment System ("PPS") is utilized to reimburse hospitals for
+care given to hospital in-patients covered by federally funded reimbursement
+programs. Patients are classified into a Diagnosis Related Group ("DRG") in
+accordance with the patient's diagnosis, necessary medical procedures and other
+factors. Patient reimbursement is limited to a predetermined amount for each
+DRG. The reimbursement payment may not necessarily cover the cost of all medical
+services actually provided because the payment is predetermined. Effective
+October 1, 1997, Gamma Knife services for Medicare hospital in-patients were
+reclassified from DRG 1 to either DRG 7 or DRG 8. This reclassification is
+estimated to have reduced medical center revenues from the Medicare DRG program
+by approximately 30%.
+
+     In 1986 and again in 1990, Congress enacted legislation requiring the
+Department of Health and Human Services ("DHHS") to develop proposals for a PPS
+for Medicare out-patient services. DHHS has proposed a new payment system,
+Ambulatory Product Classifications ("APC"), which affects all out-patient
+services, performed in a hospital based facility. APC implementation took place
+in the third quarter of 2000.
+
+     The APC consists of 346 clinically, homogenous classifications or groupings
+of codes that are typically used in out-patient billing. Out-patient services
+are bundled with fixed rates of payment determined according to specific
+regional and national factors, similar to that of the in-patient PPS.
+
+     Gamma Knife patients, with Medicare as their primary insurer and treated on
+either an in-patient or out-patient basis, comprise an estimated 20% to 30% of
+the total Gamma Knife patients treated. The reimbursement for Medicare patients
+receiving Gamma Knife services on an out-patient basis is estimated to have
+decreased approximately 40% under the APC system. The Company has two contracts
+from which revenues are directly affected by changes in payment rates under the
+APC system. Currently, these two contracted hospitals are primarily treating
+Medicare Gamma Knife patients on an in-patient basis and therefore the Company
+believes that adoption of APC's has not had a significant impact on the revenues
+of the Company. However, some of the Company's fee-per-use customers treat
+patients on an out-patient basis and may have experienced a reduction in
+Medicare payment. There can be no assurance that the adoption of APC's will not
+have a negative impact directly or indirectly on the Company's revenues in the
+future.
+
+     The payment of remuneration to induce the referral of health care business
+has been a subject of increasing governmental and regulatory focus in recent
+years. Section 1128B(b) of the Social Security Act (sometimes referred to as the
+"federal anti-kickback statute") provides criminal penalties for individuals or
+entities that knowingly and willfully offer, pay, solicit or receive
+remuneration in order to induce referrals for items or services for which
+payment may be made under the Medicare and Medicaid programs and certain other
+government funded programs. The Social Security Act provides authority to the
+Office of Inspector
+
+                                        6
+<PAGE>   8
+
+General through civil proceedings to exclude an individual or entity from
+participation in the Medicare and state health programs if it is determined any
+such party has violated Section 1128B(b) of the Social Security Act. The Company
+believes that it is in compliance with the federal anti-kickback statute.
+Additionally, the Omnibus Budget Reconciliation Act of 1993, often referred to
+as "Stark II", bans physician self-referrals to providers of designated health
+services with which the physician has a financial relationship. The term
+"designated health services" includes, among others, radiation therapy services
+and in-patient and outpatient hospital services. On January 1, 1995, the
+Physician Ownership and Referral Act of 1993 became effective in California.
+This legislation prohibits physician self-referrals for covered goods and
+services, including radiation oncology, if the physician (or the physician's
+immediate family) concurrently has a financial interest in the entity receiving
+the referral. The Company believes that it is in compliance with these rules and
+regulations.
+
+     A range of federal civil and criminal laws target false claims and
+fraudulent billing activities. One of the most significant is the Federal False
+Claims Act, which prohibits the submission of a false claim or the making of a
+false record or statement in order to secure a reimbursement from a
+government-sponsored program. In recent years, the federal government has
+launched several initiatives aimed at uncovering practices which violate false
+claims or fraudulent billing laws. Claims under these laws may be brought either
+by the government or by private individuals on behalf of the government, through
+a "whistleblower" or "qui tam" action. The Company believes that it is in
+compliance with the Federal False Claims Act; however, because such actions are
+filed under seal and may remain secret for years, there can be no assurance that
+the Company or one of its affiliates is not named in a material qui tam action.
+
+     Legislation in various jurisdictions requires that health facilities obtain
+a Certificate of Need ("CON") prior to making expenditures for medical
+technology in excess of specified amounts. Two of the Company's existing
+customers were required to obtain a CON or its equivalent. Two more of the
+Company's more recently signed contracts were subject to CONs. The CON procedure
+can be expensive and time consuming and may impact the length of time before
+Gamma Knife services commence. CON requirements vary from state to state in
+their application to the operations of both the Company and its customers. In
+some jurisdictions the Company is required to comply with CON procedures to
+provide its services and in other jurisdictions customers must comply with CON
+procedures before using the Company's services.
+
+     The Company's Gamma Knife units contain Cobalt 60 radioactive sources. The
+medical centers that house the Company's Gamma Knife units are responsible for
+obtaining possession and user's licenses for the Cobalt 60 source.
+
+     The Company believes it is in substantial compliance with the various rules
+and regulations that affect its businesses.
+
+INSURANCE AND INDEMNIFICATION
+
+     The Company's contracts with equipment vendors generally do not contain
+indemnification provisions. The Company maintains a comprehensive insurance
+program covering the value of its property and equipment, subject to
+deductibles, which the Company believes are reasonable.
+
+     The Company's customer contracts generally contain mutual indemnification
+provisions. The Company maintains general and professional liability insurance.
+The Company is not involved in the practice of medicine and therefore believes
+its present insurance coverage and indemnification agreements are adequate for
+its business.
+
+EMPLOYEES
+
+     At December 31, 2000, the Company employed eight (8) employees on a
+full-time basis. None of these employees is subject to a collective bargaining
+agreement and there is no union representation within the Company. The Company
+maintains various employee benefit plans and believes that its employee
+relations are good.
+
+                                        7
+<PAGE>   9
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+     The following table provides current information concerning those persons
+who serve as executive officers of the Company. The executive officers were
+appointed by the Board of Directors and serve at the discretion of the Board of
+Directors.
+
+<TABLE>
+<CAPTION>
+                NAME:                  AGE:                  POSITION:
+                -----                  ----                  ---------
+<S>                                    <C>    <C>
+Ernest A. Bates, M.D. ...............   64    Chairman of the Board of Directors,
+                                              Chief Executive Officer
+Craig K. Tagawa......................   47    Senior Vice President -- Chief Operating
+                                              and Financial Officer
+</TABLE>
+
+     Ernest A. Bates, M.D., founder of the Company, has served in the positions
+listed above since the incorporation of the Company. He is currently a member of
+the Board of Trustees of The Johns Hopkins University and the University of
+Rochester, a Chairman of the Industrial Policy Advisory Committee of the
+Engineering Research Center for Computer-Integrated Surgical Systems and
+Technology at The Johns Hopkins University, a member of the Board of Overseers
+of the University of California at San Francisco School of Nursing, a member of
+the State of California High Speed Rail Authority, and a member of the Board of
+Directors of Salzburg Seminar. Dr. Bates is a graduate of The Johns Hopkins
+University and the University of Rochester School of Medicine.
+
+     Craig K. Tagawa has served as Chief Operating Officer since February 1999
+in addition to serving as Chief Financial Officer since May 1996. Mr. Tagawa
+also served as Chief Financial Officer from January 1992 through October 1995.
+Previously a Vice President in such capacity, Mr. Tagawa became a Senior Vice
+President on February 28, 1993. He is also the Chief Executive Officer of GK
+Financing, LLC. From September 1988 through January 1992, Mr. Tagawa served in
+various positions with the Company. Mr. Tagawa received his Undergraduate degree
+from the University of California at Berkeley and his M.B.A from Cornell
+University.
+
+ITEM 2. PROPERTIES
+
+     The Company's corporate offices are located at Two Embarcadero Center,
+Suite 2370, San Francisco, California, where it leases approximately 2,550
+square feet for $11,497 per month. This lease runs through September 2002.
+
+     For the year ended December 31, 2000 the Company's aggregate net rental
+expenses for all properties and equipment were approximately $188,000.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     There are no material pending legal proceedings involving the Company or
+any of its property. The Company knows of no legal or administrative proceedings
+against the Company contemplated by governmental authorities.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     None.
+
+                                        8
+<PAGE>   10
+
+                                    PART II
+
+ITEM 5.MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     The Company's common shares, no par value (the "Common Shares"), are
+currently traded on the American Stock Exchange ("AMEX") and the Pacific
+Exchange. The table below sets forth the high and low closing sale prices of the
+Common Shares of the Company on the American Stock Exchange Consolidated
+Reporting System for each full quarter for the last two fiscal years.
+
+                            PRICES FOR COMMON SHARES
+
+<TABLE>
+<CAPTION>
+                   QUARTER ENDING                      HIGH      LOW
+                   --------------                      -----    -----
+<S>                                                    <C>      <C>
+March 31, 1999.......................................  $1.69    $0.94
+June 30, 1999........................................  $3.00    $1.50
+September 30, 1999...................................  $6.25    $2.38
+December 31, 1999....................................  $5.38    $3.44
+March 31, 2000.......................................  $4.75    $3.38
+June 30, 2000........................................  $4.25    $2.81
+September 30, 2000...................................  $2.88    $2.00
+December 31, 2000....................................  $2.44    $1.75
+</TABLE>
+
+     The Company estimates that there were approximately 1,200 beneficial
+holders of its Common Shares at December 31, 2000.
+
+     The Board of Directors also authorized in March 1999 the repurchase of up
+to 500,000 shares of the Company's Common Stock in the open market from time to
+time at prevailing prices. Approximately 330,000 shares were repurchased in the
+open market pursuant to that authorization, through December 31, 2000, at a cost
+of approximately $806,000. The Board of Directors on February 2, 2001 authorized
+the repurchase of up to another 500,000 shares of the Company's common stock in
+the open market from time to time at prevailing prices.
+
+     During 2000 holders of warrants and of options to acquire the Company's
+common stock exercised their respective rights pursuant to such securities,
+resulting in the Company issuing approximately 92,000 new shares of common stock
+for approximately $150,000.
+
+     On March 22, 1999, the Company adopted a Shareholder Rights Plan ("Plan").
+Under the Plan, the Company made a dividend distribution of one Right for each
+outstanding share of the Company's common stock as of the close of business on
+April 1, 1999. The Rights become exercisable only if any person or group, with
+certain exceptions, becomes an "acquiring person" (acquires 15 percent or more
+of the Company's outstanding common stock) or announces a tender or exchange
+offer to acquire 15 percent or more of the Company's outstanding common stock.
+The Company's Board of Directors adopted the Plan to protect shareholders
+against a coercive or inadequate takeover offer. The Board of Directors is not
+aware that any person or group intends to make a takeover offer for the Company.
+
+     At December 31, 2000 the Company had 5,537,663 fully diluted shares
+outstanding, including 3,711,292 issued and outstanding common shares, 1,820,000
+common shares reserved for options, and 5,504 shares reserved pursuant to the
+Company's Shareholder Rights Plan.
+
+     Shareholders of record on March 15, 2001 will be paid a dividend of $0.10
+per common share on April 2, 2001. The Board of Directors anticipates declaring
+and paying annual cash dividends in similar amounts in the future subject to
+evaluation of the Company's level of earnings, balance sheet position and
+availability of cash. The Company did not pay cash dividends in 2000.
+
+                                        9
+<PAGE>   11
+
+ITEM 6. SELECTED FINANCIAL DATA SUMMARY OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                                YEAR ENDED DECEMBER 31,
+                                                     ---------------------------------------------
+                                                      2000     1999     1998      1997      1996
+                                                     ------   ------   -------   -------   -------
+                                                     (AMOUNTS IN THOUSANDS EXCEPT PER SHARE DATA)
+<S>                                                  <C>      <C>      <C>       <C>       <C>
+Medical services revenues..........................  $9,336   $7,156   $35,162   $37,172   $36,989
+                                                     ======   ======   =======   =======   =======
+Costs of operations................................   3,435    2,165    25,826    27,044    28,071
+Selling and administrative expense.................   2,655    1,803     5,116     5,901     5,309
+Interest expense...................................   2,118    1,309     3,186     3,671     4,199
+                                                     ------   ------   -------   -------   -------
+Total costs and expenses...........................   8,208    5,277    34,128    36,616    37,579
+                                                     ------   ------   -------   -------   -------
+                                                      1,128    1,879     1,034       556      (590)
+Gain (loss) on sale of assets and early termination
+  of capital leases................................      25       10        (2)      821         3
+Gain on disposal of product line...................       0        0    20,478         0         0
+Interest and other income..........................     804      603       220       118       170
+Minority interest..................................    (645)    (501)     (166)       37        57
+                                                     ------   ------   -------   -------   -------
+Income (loss) before income taxes..................   1,312    1,991    21,564     1,532      (360)
+Income tax benefit (expense).......................       0      716    (1,513)      (10)        7
+                                                     ------   ------   -------   -------   -------
+Net income (loss)..................................  $1,312   $2,707   $20,051   $ 1,522   $  (353)
+                                                     ======   ======   =======   =======   =======
+Earnings (loss) per common share basic:
+  Net income (loss)................................  $ 0.34   $ 0.68   $  4.23   $  0.32   $ (0.08)
+                                                     ======   ======   =======   =======   =======
+Earnings (loss) per common share assuming dilution:
+  Net income (loss)................................  $ 0.24   $ 0.48   $  3.15   $  0.24   $ (0.08)
+                                                     ======   ======   =======   =======   =======
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                              YEAR ENDED DECEMBER 31,
+                                                  ------------------------------------------------
+                                                   2000      1999      1998      1997       1996
+                                                  -------   -------   -------   -------   --------
+                                                    (AMOUNTS IN THOUSANDS EXCEPT PER SHARE DATA)
+                                                  ------------------------------------------------
+<S>                                               <C>       <C>       <C>       <C>       <C>
+BALANCE SHEET DATA
+Cash............................................  $12,421   $12,903   $11,114   $    17   $    368
+Restricted cash.................................       50        50     2,226       651        218
+Working capital (deficiency)....................   10,155    11,125     9,088    (8,039)   (10,888)
+Total assets....................................   40,209    36,986    26,919    30,209     32,969
+Current portion of long-term debt...............    4,126     2,545     1,885    10,929     13,182
+Long-term debt, less current portion............   20,300    19,887     8,823    21,569     23,935
+Shareholders' equity (Net capital deficiency)...  $13,658   $12,639   $11,096   $(8,953)  $(10,475)
+</TABLE>
+
+See accompanying note
+
+(1) In October 1995, the Company entered into an operating agreement granting to
+    American Shared Radiosurgery Services (a California corporation and a
+    wholly-owned subsidiary of the Company) an 81% ownership interest in GK
+    Financing, LLC. ASHS incorporated a new wholly-owned subsidiary, OR21, Inc.
+    ("OR21") in November 1999, and a new wholly-owned subsidiary, MedLeader.com,
+    Inc. ("MedLeader") in April 2000. Accordingly, the financial data for the
+    Company presented above include the results of GKF for 1996 through 2000,
+    OR21 for 1999 and 2000, and MedLeader for 2000.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+GENERAL
+
+     During the years ended December 31, 2000, 1999 and 1998, approximately
+100%, 100% and 12% respectively, of the Company's revenues were derived from its
+Gamma Knife business. The Company in November 1998 sold its diagnostic imaging
+business which accounted for 0%, 0% and 88% of the Company's total revenues
+during the years ended December 31, 2000, 1999 and 1998, respectively. As a
+result, the
+
+                                        10
+<PAGE>   12
+
+Company was relieved of substantially all of the liabilities of the imaging
+division, consisting of approximately $27,100,000 of debt and other obligations,
+and received approximately $13,500,000 in cash. The sale of its imaging division
+resulted in a one-time gain of $20,478,000 in 1998, which eliminated the
+Company's capital deficiency. Following the sale, the Company's operations were
+significantly reduced and it has substantially reduced its staff. Accordingly
+the discussions below related to 1998 predominantly reflect the Company's
+operations prior to the sale of its imaging division.
+
+     The Company had net income of $1,312,000 ($0.34 per share) on medical
+services revenues of $9,336,000 in 2000. Net income in 2000 included
+restructuring expenses of $120,000 and startup costs of $228,000 for its OR21
+and MedLeader subsidiaries. The Company had net income of $2,707,000 ($0.68 per
+share) on medical services revenues of $7,156,000 in 1999. Included in net
+income for 1999 is an insurance expense credit of $325,000 and an income tax
+benefit of $716,000. The Company had net income of $20,051,000 ($4.23 per share)
+on medical services revenues of $35,162,000 in 1998. Included in net income for
+1998 is a $20,478,000 gain on disposal of product line less related income taxes
+of $1,500,000.
+
+TOTAL REVENUES
+
+<TABLE>
+<CAPTION>
+                                                      INCREASE                INCREASE
+                                            2000     (DECREASE)     1999     (DECREASE)     1998
+                                           ------    ----------    ------    ----------    -------
+                                                               (IN THOUSANDS)
+<S>                                        <C>       <C>           <C>       <C>           <C>
+Medical services.........................  $9,336       30.5%      $7,156      (79.6)%     $35,162
+</TABLE>
+
+     Medical services revenues increased 30.5% in 2000 compared to 1999, and
+decreased 79.6% in 1999 compared to 1998. The increase in 2000 compared to 1999
+is primarily attributable to an increase in the number of Gamma Knife units in
+operation and increased revenues at Gamma Knife locations in operation for more
+than one year. The decrease in 1999 compared to 1998 is primarily attributable
+to the sale of the Company's imaging division, which occurred in November 1998.
+
+     Gamma Knife revenues increased $2,185,000 and $2,995,000 in 2000 and 1999,
+respectively, compared to the prior years. The 2000 increase was due to the full
+year inclusion of four new Gamma Knife units which started at various times
+during 1999, the commencement of its newest Gamma Knife unit in April 2000, and
+a 20% increase in revenues for Gamma Knife units in operation more than one
+year. The increase was partially offset by the expiration of the Company's
+second Gamma Knife contract in the fourth quarter of 1999. The customer
+purchased the Gamma Knife after the expiration of the contract for $1,200,000 in
+cash. The 1999 increase was primarily due to the commencement of four new Gamma
+Knife contracts during 1999 (one in second quarter, two in third quarter, and
+one in fourth quarter), full year inclusion of two Gamma Knife units that began
+operation during 1998 (first and third quarters), and a 24% increase in revenues
+for Gamma Knife units in operation more than one year. The Company had nine,
+eight and five Gamma Knife units in operation at December 31, 2000, 1999 and
+1998, respectively.
+
+     The Company did not have MRI, non-MRI diagnostic imaging services, or
+contract service (Respiratory Therapy services and Cardiac Catheterization
+Laboratory) revenues in 2000 and 1999. In 1998, MRI revenues were $26,498,000,
+non-MRI diagnostic imaging services revenues were $3,345,000, and contract
+services revenues were $1,150,000. The revenue decrease in 1999 compared to 1998
+was attributable to the sale of the imaging division, which was comprised of
+MRI, non-MRI diagnostic imaging services and contract services. In 1998, MRI
+revenues were 75%, non-MRI diagnostic imaging services were 10%, and contract
+services revenues were 3% of total medical services revenues.
+
+COSTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                      INCREASE                INCREASE
+                                            2000     (DECREASE)     1999     (DECREASE)     1998
+                                           ------    ----------    ------    ----------    -------
+                                                               (IN THOUSANDS)
+<S>                                        <C>       <C>           <C>       <C>           <C>
+Costs of operations......................  $3,435       58.7%      $2,165      (91.6)%     $25,826
+Percentage of revenue....................    36.8%                   30.3%                    73.4%
+</TABLE>
+
+     The Company's costs of operations, consisting of payroll, maintenance and
+supplies, depreciation and amortization, equipment rental and other operating
+expenses (such as vehicle fuel, building rents, regional
+
+                                        11
+<PAGE>   13
+
+office costs, insurance, property taxes, bad debt expense, fees and training
+expenses) increased $1,270,000 in 2000 as compared to 1999 and decreased
+$23,661,000 in 1999 as compared to 1998.
+
+     Medical services payroll decreased by $3,000 in 2000 compared to 1999 and
+by $7,084,000 in 1999 compared to 1998. This decrease is due to the sale of the
+imaging division and the fact that the Company does not currently provide labor
+as a component of its Gamma Knife services. Medical services payroll costs, as a
+percent of medical services revenues, were 0% in 2000, less than 1% in 1999 and
+20% in 1998.
+
+     The Company's maintenance and supplies costs were 2%, 2% and 15% of medical
+service revenues in 2000, 1999 and 1998, respectively. Maintenance and supplies
+costs increased $44,000 in 2000 compared to 1999 and decreased $5,041,000 in
+1999 compared to 1998. The increase in 2000 was primarily due to the expiration
+of the warranty period on three Gamma Knife units. The decrease in 1999 was
+primarily due to the sale of the imaging division. Maintenance and supply costs
+for Gamma Knife services increased $63,000 in 1999 compared to 1998 primarily
+due to the expiration of the warranty period on three units.
+
+     Depreciation and amortization increased $652,000 in 2000 compared to 1999
+and decreased $3,940,000 in 1999 compared to 1998. The increase in 2000 was due
+to the addition of a new Gamma Knife unit in second quarter 2000 and a full
+year's depreciation on four new Gamma Knife units that started operation during
+1999. The decrease in 1999 was primarily attributable to the sale of the imaging
+division. The decrease was partially offset by the addition of four Gamma Knife
+units during 1999. Depreciation and amortization for Gamma Knife services in
+2000 and in 1999 increased $652,000 and $573,000, respectively, compared to
+prior years. The increase in 1999 was mitigated because the Company's second
+Gamma Knife unit, which was sold, was depreciated to its salvage value during
+third quarter 1999.
+
+     Equipment rental as a percentage of medical services revenues was 0% in
+2000 and 1999 and 12% in 1998. The Company's Gamma Knife services currently do
+not require the rental of equipment. Equipment rental decreased $4,064,000 in
+1999 compared to 1998. The decrease in 1999 was due to the sale of the imaging
+division.
+
+     Other costs of operations as a percentage of medical services revenues were
+10%, 6% and 11% in 2000, 1999 and 1998, respectively. The increase of $577,000
+in 2000 compared to 1999 is due to operating expenses at the Company's retail
+site that started in September 1999, increased property taxes and insurance due
+to additional Gamma Knife units, and increased marketing costs. The decrease of
+$3,532,000 in 1999 compared to 1998 was primarily attributable to the sale of
+the imaging division. Other costs of operations for Gamma Knife services
+increased $135,000 in 1999 compared to 1998. This increase was primarily due to
+increased insurance costs and property taxes because of additional Gamma Knife
+units, as well as increased marketing costs.
+
+SELLING AND ADMINISTRATIVE
+
+<TABLE>
+<CAPTION>
+                                                       INCREASE                INCREASE
+                                             2000     (DECREASE)     1999     (DECREASE)     1998
+                                            ------    ----------    ------    ----------    ------
+                                                                (IN THOUSANDS)
+<S>                                         <C>       <C>           <C>       <C>           <C>
+Selling and administrative costs..........  $2,655       47.3%      $1,803      (64.8)%     $5,116
+Percentage of revenue.....................    28.4%                   25.2%                   14.5%
+</TABLE>
+
+     The Company's selling and administrative costs increased $852,000 in 2000
+compared to 1999 and decreased $3,313,000 in 1999 compared to 1998. The increase
+in 2000 was primarily due to startup costs of approximately $228,000 on the
+Company's two newest ventures, OR21 and MedLeader, management and employee
+bonuses of approximately $125,000, and restructuring costs of approximately
+$120,000 resulting in the elimination of two senior management positions. The
+increase in 2000 was also caused by inclusion in 1999 of a $325,000 credit due
+to a change in estimate regarding the need for and the corresponding cost of
+liability insurance related to divested operations. The decrease in 1999 was
+primarily due to the sale of the imaging division, as well as the previously
+mentioned insurance expense credit.
+
+                                        12
+<PAGE>   14
+
+INTEREST EXPENSE
+
+<TABLE>
+<CAPTION>
+                                                       INCREASE                INCREASE
+                                             2000     (DECREASE)     1999     (DECREASE)     1998
+                                            ------    ----------    ------    ----------    ------
+                                                                (IN THOUSANDS)
+<S>                                         <C>       <C>           <C>       <C>           <C>
+Interest expense..........................  $2,118       61.8%      $1,309      (58.9)%     $3,186
+Percentage of revenue.....................    22.7%                   18.3%                    9.1%
+</TABLE>
+
+     The Company's interest expense increased $809,000 in 2000 compared to 1999
+and decreased $1,877,000 in 1999 compared to 1998. The increase in 2000 was
+primarily due to the addition of five new Gamma Knife units during 1999 and
+2000, all of which were financed. The decrease in 1999 was primarily
+attributable to the sale of the imaging division offset by increased interest
+related to Gamma Knife units. Interest expense for Gamma Knife units increased
+$811,000 and $528,000 in 2000 and 1999 compared to prior years. Interest as a
+percentage of revenue increased from 18.3% in 1999 to 22.7% in 2000 because all
+of the Company's operating Gamma Knife units are financed by means of interest
+bearing debt. Five of the Company's nine Gamma Knife units have been in
+operation for less than two years, and have higher interest expense than units
+with more mature loans because interest expense decreases with each subsequent
+loan payment.
+
+OTHER INCOME AND EXPENSE
+
+<TABLE>
+<CAPTION>
+                                                      INCREASE               INCREASE
+                                            2000     (DECREASE)    1999     (DECREASE)     1998
+                                            -----    ----------    -----    ----------    -------
+                                                               (IN THOUSANDS)
+<S>                                         <C>      <C>           <C>      <C>           <C>
+Gain (loss) on sale of assets and early
+  termination of capital leases...........  $  25      150.0%      $  10      600.0%      $    (2)
+Percentage of revenue.....................    0.3%                   0.1%                     0.0%
+Gain on sale of product line..............  $   0         NM       $   0      100.0%      $20,478
+Percentage of revenue.....................    0.0%                   0.0%                    58.2%
+Interest and other income.................  $ 804       33.3%      $ 603      174.1%      $   220
+Percentage of revenue.....................    8.6%                   8.4%                     0.6%
+Minority interest.........................  $(645)      28.7%      $(501)     201.8%      $  (166)
+Percentage of revenue.....................   (6.9)%                 (7.0)%                   (0.5)%
+</TABLE>
+
+     The Company's gain on sale of product line decreased to $0 in 2000 and 1999
+from $20,478,000 in 1998. The gain on sale of product line in 1998 represents
+the gain associated with the sale of the imaging division. The gain was net of
+transaction costs of approximately $2,700,000. Transaction costs include legal,
+investment banking and management bonuses related to the sale of the imaging
+division; employee severance costs; and the costs related to the discontinuance
+of the diagnostic imaging division. Gain on sale of assets and early termination
+of capital leases increased $15,000 in 2000 and increased $12,000 in 1999
+compared to prior years.
+
+     Interest and other income increased $201,000 in 2000 and $383,000 in 1999
+compared to prior years. The increase in both 2000 and 1999 was primarily due to
+additional interest income from higher cash balances that are invested in
+overnight securities.
+
+     Minority interest increased $144,000 in 2000 and $335,000 in 1999 compared
+to prior years. Minority interest represents the pre-tax income earned by the
+minority member's 19% interest in GKF. The increase in minority interest
+reflects the increased profitability of GKF.
+
+INCOME TAXES
+
+<TABLE>
+<CAPTION>
+                                                       INCREASE               INCREASE
+                                              2000    (DECREASE)    1999     (DECREASE)     1998
+                                              ----    ----------    -----    ----------    -------
+                                                                 (IN THOUSANDS)
+<S>                                           <C>     <C>           <C>      <C>           <C>
+Income tax benefit (expense)................  $  0      (100.0)%    $ 716      147.3%      $(1,513)
+Percentage of revenue.......................   0.0%                  10.0%                    (4.3)%
+</TABLE>
+
+     The Company recorded no income tax expense or benefit in 2000 because a
+valuation allowance was provided for its entire deferred tax asset in excess of
+its deferred tax liability. Future profits of the Company
+
+                                        13
+<PAGE>   15
+
+are expected to generate tax expense, as the Company anticipates that future
+deferred tax liability will exceed future deferred tax assets and thus the
+valuation allowance will be eliminated. The Company received an income tax
+benefit of $716,000 in 1999 compared to an income tax provision of $1,513,000 in
+1998, a decrease in income tax expense of $2,229,000. The $716,000 income tax
+benefit is primarily a result of an overestimate of the federal and state income
+tax provision in 1998 resulting from the sale of the imaging division. The
+overestimate was adjusted in 1999 when tax returns were completed for filing
+with taxing agencies. The Company had a net operating loss carryforward for
+federal income tax return purposes at December 31, 2000 of approximately
+$8,411,000.
+
+NET INCOME
+
+<TABLE>
+<CAPTION>
+                                                      INCREASE                INCREASE
+                                            2000     (DECREASE)     1999     (DECREASE)     1998
+                                           ------    ----------    ------    ----------    -------
+                                                  (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+<S>                                        <C>       <C>           <C>       <C>           <C>
+Net income...............................  $1,312      (51.5)%     $2,707      (86.5)%     $20,051
+Net income per share.....................  $ 0.34      (50.0)%     $ 0.68      (83.9)%     $  4.23
+</TABLE>
+
+     The Company had net income of $1,312,000 in 2000 compared to $2,707,000 in
+1999 and $20,051,000 in 1998. Net income for 2000 included restructuring costs
+of $120,000 and startup costs for OR21 and MedLeader of $228,000. Net income for
+1999 included an insurance expense credit of $325,000 and a tax benefit of
+$716,000. Net income for 1998 included a $18,978,000 gain net of income taxes
+($1,500,000) primarily from the sale of the imaging division. Net income for
+1998 exclusive of the net gain from the sale of product line was $1,073,000.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     The Company had cash and cash equivalents of $12,421,000 at December 31,
+2000 compared to $12,903,000 at December 31, 1999. The Company's cash position
+decreased $482,000 due primarily to deposits of $375,000 on a future Gamma
+Knife, payments of approximately $440,000 to repurchase 193,750 shares of the
+Company's stock, and an increase in accounts receivable of $1,173,000.
+
+     Restricted cash of $50,000 at December 31, 2000 reflects cash that may only
+be used for the operations of GK Financing, LLC.
+
+     The Company's trade accounts receivable increased to $2,155,000 at December
+31, 2000 from $982,000 at December 31, 1999. This increase was due to higher
+revenue volume and a longer collection period for the two Gamma Knife retail
+contracts compared to the fee per use contracts.
+
+     The Company invests its cash in overnight repurchase agreements and
+commercial paper pending use in the Company's operations. The Company believes
+its cash position combined with its working capital is adequate to service the
+Company's cash requirements in 2001.
+
+     Working capital decreased $970,000 primarily due to the inclusion in
+current liabilities of approximately $1,000,000 in debt which had previously
+been classified in long-term debt. This debt can be either paid off or
+refinanced for a longer period when it comes due in July 2001.
+
+IMPACT OF INFLATION AND CHANGING PRICES
+
+     The Company does not believe that inflation has had a significant impact on
+operations because a substantial majority of the costs that it incurs under its
+customer contracts are fixed through the term of the contract.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     See the Index to Consolidated Financial Statements and Financial Statement
+Schedules included at page A-1 of this report.
+
+                                        14
+<PAGE>   16
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+     On December 31, 1999 the local Grant Thornton offices that provided
+accounting and tax services for the Company were sold to Moss Adams LLP, an
+accounting and consulting firm.
+
+     The Company elected to retain Moss Adams as its independent auditors and
+tax advisors. The Company on December 14, 1998 had engaged Grant Thornton, LLP
+as its independent accountant to audit the Company's financial statements for
+the year ended December 31, 1998. The Company and Grant Thornton had a long
+established relationship as Grant Thornton had served as the Company's tax
+advisor since 1990. Ernst & Young had served as the Company's auditor from 1983
+through 1997.
+
+     The Company, during its two prior fiscal years (1999 and 1998) and any
+subsequent interim period preceding its change of independent accountant, did
+not have any disagreements with the former accountants on any matter of
+accounting principles or practices, financial statement disclosure, or auditing
+scope or procedure.
+
+                                        15
+<PAGE>   17
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     Information regarding directors is incorporated herein by reference from
+the Company's definitive Proxy Statement for the 2001 Annual Meeting of
+Shareholders (the "2001 Proxy Statement"). Information regarding executive
+officers of the Company, included herein under the caption "Executive Officers
+of the Registrant" in Part I, Item 1 above, is incorporated herein by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     Incorporated herein by reference from the 2001 Proxy Statement.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     Incorporated herein by reference from the 2001 Proxy Statement.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Incorporated herein by reference from the 2001 Proxy Statement.
+
+                                        16
+<PAGE>   18
+
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a) FINANCIAL STATEMENTS AND SCHEDULES.
+
+     The following Financial Statements and Schedules are filed with this
+Report:
+
+       Report of Independent Auditors
+        Audited Consolidated Financial Statements
+        Consolidated Balance Sheets
+        Consolidated Statements of Income
+        Consolidated Statements of Shareholders' Equity
+        Consolidated Statements of Cash Flows
+        Notes to Consolidated Financial Statements
+        Financial Statement Schedules
+        Valuation and Qualifying Accounts
+
+     (All other schedules are omitted since the required information is not
+present or is not present in amounts sufficient to require submission of the
+schedule, or because the information required is included in the financial
+statements and notes thereto.)
+
+(b) EXHIBITS.
+
+     The following Exhibits are filed with this Report.
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                            DESCRIPTION
+-------                           -----------
+<C>       <S>
+  2.1     Securities Purchase Agreement, dated as of March 12, 1998,
+          by and among Alliance Imaging, Inc.; Embarcadero Holding
+          Corp. I; Embarcadero Holding Corp. II; American Shared
+          Hospital Services; and MMRI, Inc.(1)
+  3.1     Articles of Incorporation of the Company, as amended.(2)
+  3.2     By-laws of the Company, as amended.(3)
+  4.6     Form of Common Stock Purchase Warrant of American Shared
+          Hospital Services.(3)
+  4.8     Registration Rights Agreement, dated as of May 17, 1995, by
+          and among American Shared Hospital Services, the Holders
+          referred to in the Note Purchase Agreement, dated as of May
+          12, 1995 and General Electric Company, acting through GE
+          Medical Systems.(3)
+ 10.1     The Company's 1984 Stock Option Plan, as amended.(4)
+ 10.2     The Company's 1995 Stock Option Plan, as amended.(5)
+ 10.3     Form of Indemnification Agreement between American Shared
+          Hospital Services and members of its Board of Directors.(4)
+ 10.4     Ernest A. Bates Stock Option Agreement dated as of August
+          15, 1995.(6)
+ 10.5     Operating Agreement for GK Financing, LLC, dated as of
+          October 17, 1995.(3)
+ 10.6     Amendments dated as of October 26, 1995 and as of December
+          20, 1995 to the GK Financing, LLC Operating Agreement, dated
+          as of October 17, 1995.(7)
+ 10.7     Amendment dated as of October 16, 1996 to the GK Financing,
+          LLC Operating Agreement, dated as of October 17, 1995.(1)
+ 10.8     Amendment dated as of March 31, 1998 ("Fourth Amendment") to
+          the GK Financing, LLC Operating Agreement dated as of
+          October 17, 1995.(8)
+ 10.9     Amendment dated as of March 31, 1998 ("Fifth Amendment") to
+          the GK Financing, LLC Operating Agreement dated as of
+          October 17, 1995.(8)
+ 10.10    Amendment dated as of June 5, 1998 to the GK Financing, LLC
+          Operating Agreement dated as of October 17, 1995.(8)
+</TABLE>
+
+                                        17
+<PAGE>   19
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                            DESCRIPTION
+-------                           -----------
+<C>       <S>
+ 10.11a   Assignment and Assumption Agreement, dated as of December
+          31, 1995, between American Shared Radiosurgery Services
+          (assignor) and GK Financing, LLC (assignee).(8)
+ 10.11b   Assignment and Assumption Agreement, dated as of November 1,
+          1995, between American Shared Hospital Services (assignor)
+          and American Shared Radiosurgery Services (assignee).(4)
+ 10.11c   Amendment Number One dated as of August 1, 1995 to the Lease
+          Agreement for a Gamma Knife Unit between The Regents of the
+          University of California and American Shared Hospital
+          Services. (Confidential material appearing in this document
+          has been omitted and filed separately with the Securities
+          and Exchange Commission in accordance with Rule 24b-2,
+          promulgated under the Securities and Exchange Act of 1934,
+          as amended. Omitted information has been replaced with
+          asterisks.)(8)
+ 10.11d   Lease Agreement dated as of July 3, 1990 for a Gamma Knife
+          Unit between American Shared Hospital Services and The
+          Regents of the University of California. (Confidential
+          material appearing in this document has been omitted and
+          filed separately with the Securities and Exchange Commission
+          in accordance with Rule 24b-2, promulgated under the
+          Securities and Exchange Act of 1934, as amended. Omitted
+          information has been replaced with asterisks.)(8)
+ 10.12    Amendment Number Two dated as of February 6, 1998 to the
+          Lease Agreement for a Gamma Knife Unit between UCSF-Stanford
+          Health Care and GK Financing, LLC. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)(8)
+ 10.13    Assignment and Assumption Agreement, dated as of February 3,
+          1996, between American Shared Radiosurgery Services
+          (assignor) and GK Financing, LLC (assignee).(4)
+ 10.14    Lease Agreement for a Gamma Knife Unit dated as of April 6,
+          1994, between Ernest A. Bates, M.D. and NME Hospitals, Inc.
+          dba USC University Hospital. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)(8)
+ 10.15    Assignment and Assumption and Agreement dated as of February
+          1, 1996 between Ernest A. Bates, M.D. and GK Financing, LLC
+          with respect to the Lease Agreement for a Gamma Knife dated
+          as of April 6, 1994 between Ernest A. Bates, M.D. and NME
+          Hospitals, Inc. dba USC University Hospital.(8)
+ 10.16    Lease Agreement for a Gamma Knife Unit dated as of October
+          31, 1996 between Hoag Memorial Hospital Presbyterian and GK
+          Financing, LLC. (Confidential material appearing in this
+          document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(8)
+ 10.17    Addendum to Lease Agreement for a Gamma Knife Unit dated as
+          of December 1, 1998 between Hoag Memorial Hospital
+          Presbyterian and GK Financing, LLC. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)(8)
+ 10.18    Lease Agreement for a Gamma Knife Unit dated as of October
+          29, 1996 between Methodist Healthcare Systems of San
+          Antonio, Ltd., dba Southwest Texas Methodist Hospital and GK
+          Financing, LLC. (Confidential material appearing in this
+          document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(8)
+</TABLE>
+
+                                        18
+<PAGE>   20
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                            DESCRIPTION
+-------                           -----------
+<C>       <S>
+ 10.19    Lease agreement for a Gamma Knife Unit dated as of April 10,
+          1997 between Yale-New Haven Ambulatory Services Corporation
+          and GK Financing, LLC. (Confidential material appearing in
+          this document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(8)
+ 10.20    Lease Agreement for a Gamma Knife Unit dated as of June 1,
+          1998 between GK Financing, LLC and Kettering Medical Center.
+          (Confidential material appearing in this document has been
+          omitted and filed separately with the Securities and
+          Exchange Commission in accordance with Rule 24b-2,
+          promulgated under the Securities and Exchange Act of 1934,
+          as amended. Omitted information has been replaced with
+          asterisks.)(9)
+ 10.21    Addendum to Contract with GKF and KMC/WKNI, dated June 1,
+          1998 between GK Financing, LLC and Kettering Medical Center.
+          (Confidential material appearing in this document has been
+          omitted and filed separately with the Securities and
+          Exchange Commission in accordance with Rule 24b-2,
+          promulgated under the Securities and Exchange Act of 1934,
+          as amended. Omitted information has been replaced with
+          asterisks.)(9)
+ 10.22    Lease Agreement for a Gamma Knife Unit dated as of October
+          5, 1998 between GK Financing, LLC and New England Medical
+          Center Hospitals, Inc. (Confidential material appearing in
+          this document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(9)
+ 10.23    Equipment Lease Agreement dated as of October 29, 1998
+          between GK Financing, LLC and the Board of Trustees of the
+          University of Arkansas on behalf of The University of
+          Arkansas for Medical Sciences. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)(9)
+ 10.24    First Amendment to Lease Agreement for a Gamma Knife Unit
+          effective as of August 2, 1999 between GK Financing, LLC and
+          Tenet HealthSystems Hospitals, Inc. (formerly known as NME
+          Hospitals, Inc.) dba USC University Hospital. (Confidential
+          material appearing in this document has been omitted and
+          filed separately with the Securities and Exchange Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(9)
+ 10.25    Addendum Two, dated as of October 1, 1999, to Lease
+          Agreement for a Gamma Knife Unit dated as of October 31,
+          1996 between Hoag Memorial Hospital Presbyterian and GK
+          Financing, LLC. (Confidential material appearing in this
+          document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(10)
+ 10.26    Lease Agreement for a Gamma Knife Unit dated as of May 28,
+          1999 between Froedtert Memorial Lutheran Hospital and GK
+          Financing, LLC. (Confidential material appearing in this
+          document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(10)
+ 10.27    Addendum dated June 24, 1999 to Lease Agreement for a Gamma
+          Knife Unit dated as of May 28, 1999 between Froedtert
+          Memorial Lutheran Hospital and GK Financing, LLC.(10)
+ 10.28    Amendment dated July 12, 1999 to Lease Agreement for a Gamma
+          Knife Unit dated May 28, 1999 between Froedtert Memorial
+          Lutheran Hospital and GK Financing, LLC.(10)
+</TABLE>
+
+                                        19
+<PAGE>   21
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                            DESCRIPTION
+-------                           -----------
+<C>       <S>
+ 10.29    Amendment dated August 24, 1999 to Lease Agreement for a
+          Gamma Knife Unit dated May 28, 1999 between Froedtert
+          Memorial Lutheran Hospital and GK Financing, LLC.(10)
+ 10.30    Lease Agreement for a Gamma Knife Unit dated as of December
+          11, 1996 between The Community Hospital Group, Inc. dba JFK
+          Medical Center and GK Financing, LLC. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)
+ 21.      Subsidiaries of American Shared Hospital Services.
+</TABLE>
+
+---------------
+ (1) These documents were filed as Exhibits 2.1 and 10.13b, respectively, to the
+     registrant's Annual Report on Form 10-K for the fiscal year ended December
+     31, 1997, which is incorporated herein by this reference.
+
+ (2) This document was filed as Exhibit 3.1 to registrant's Registration
+     Statement on Form S-2 (Registration No. 33-23416), which is incorporated
+     herein by this reference.
+
+ (3) These documents were filed as Exhibits 3.2, 4.6 and 4.8, respectively, to
+     registrant's Registration Statement on Form S-1 (Registration No. 33-63721)
+     filed on October 26, 1995, which is incorporated herein by this reference.
+
+ (4) These documents were filed as Exhibits 10.24 and 10.35 respectively, to
+     registrant's Registration Statement on Form S-2 (Registration No.
+     33-23416), which is incorporated herein by this reference.
+
+ (5) This document was filed as Exhibit A to registrant's Proxy Statement, filed
+     on August 31, 1995, which is incorporated herein by this reference.
+
+ (6) This document was filed as Exhibit B to registrant's Proxy Statement, filed
+     on August 31, 1995, which is incorporated herein by this reference.
+
+ (7) These documents were filed as Exhibits 4.14 and 10.13, respectively, to the
+     registrant's Pre-Effective Amendment No. 1 to registrant's Registration
+     Statement on Form S-1 (Registration No. 33-63721) filed on March 29, 1996,
+     which is incorporated herein by this reference.
+
+ (8) These documents were filed as Exhibits 10.8, 10.9, 10.10, 10.11a, 10.11c,
+     10.11d, 10.12, 10.14, 10.15, 10.16, 10.17, 10.18 and 10.19, respectively,
+     to the registrant's Annual Report on Form 10-K for the fiscal year ended
+     December 31, 1998, which is incorporated herein by this reference.
+
+ (9) These documents were filed as Exhibits 10.20, 10.21, 10.22, 10.23, and
+     10.24, respectively, to the registrant's Quarterly Report on Form 10-Q for
+     the quarterly period ended September 30, 1999, which is incorporated herein
+     by this reference.
+
+(10) These documents were filed as Exhibits 10.25, 10.26, 10.27, 10.28 and
+     10.29, respectively, to the registrant's Quarterly Report on Form 10-Q for
+     the quarterly period ended December 31, 1999, which is incorporated herein
+     by this reference.
+
+(c) REPORTS ON FORM 8-K:
+
+     None.
+
+                                        20
+<PAGE>   22
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                          AMERICAN SHARED HOSPITAL SERVICES
+                                          (Registrant)
+
+April 2, 2001                             By:      /s/ ERNEST A. BATES
+                                            ------------------------------------
+                                                      Ernest A. Bates
+                                                 Chairman of the Board and
+                                                  Chief Executive Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+                     SIGNATURE                                       TITLE                     DATE
+                     ---------                                       -----                     ----
+<S>                                                    <C>                                 <C>
+
+                /s/ ERNEST A. BATES                     Chairman of the Board and Chief    April 2, 2001
+---------------------------------------------------            Executive Officer
+                  Ernest A. Bates
+
+               /s/ WILLIE R. BARNES                          Director and Secretary        April 2, 2001
+---------------------------------------------------
+                 Willie R. Barnes
+
+                /s/ JOHN F. RUFFLE                                  Director               April 2, 2001
+---------------------------------------------------
+                  John F. Ruffle
+
+            /s/ STANLEY S. TROTMAN, JR.                             Director               April 2, 2001
+---------------------------------------------------
+              Stanley S. Trotman, Jr.
+
+               /s/ CHARLES B. WILSON                                Director               April 2, 2001
+---------------------------------------------------
+                 Charles B. Wilson
+
+                /s/ CRAIG K. TAGAWA                    Chief Operating Officer and Chief   April 2, 2001
+---------------------------------------------------       Financial Officer (Principal
+                  Craig K. Tagawa                             Accounting Officer)
+</TABLE>
+
+                                        21
+<PAGE>   23
+
+                       CONSOLIDATED FINANCIAL STATEMENTS
+                        AND INDEPENDENT AUDITOR'S REPORT
+
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+                  YEARS ENDED DECEMBER 31, 2000, 1999 AND 1998
+<PAGE>   24
+
+                                    CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                              PAGE
+                                                              ----
+<S>                                                           <C>
+INDEPENDENT AUDITOR'S REPORT................................  F-2
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS..........  F-3
+CONSOLIDATED FINANCIAL STATEMENTS
+  BALANCE SHEETS............................................  F-4
+  STATEMENTS OF INCOME......................................  F-5
+  STATEMENT OF SHAREHOLDERS' EQUITY.........................  F-6
+  STATEMENTS OF CASH FLOWS..................................  F-7
+  NOTES TO FINANCIAL STATEMENTS.............................  F-8
+</TABLE>
+
+                                       F-1
+<PAGE>   25
+
+                          INDEPENDENT AUDITOR'S REPORT
+
+The Board of Directors and Shareholders
+American Shared Hospital Services
+
+     We have audited the accompanying consolidated balance sheets of American
+Shared Hospital Services as of December 31, 2000 and 1999, and the related
+consolidated statements of income, shareholders' equity, and cash flows for the
+two years then ended. These financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position of
+American Shared Hospital Services at December 31, 2000 and 1999, and the
+consolidated results of their operations and consolidated cash flows for the two
+years then ended in conformity with generally accepted accounting principles.
+
+                                          /s/ MOSS ADAMS LLP
+
+Stockton, California
+January 12, 2001
+
+                                       F-2
+<PAGE>   26
+
+               REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+The Board of Directors and Shareholders
+American Shared Hospital Services
+
+     We have audited the accompanying consolidated statements of income,
+shareholders' equity, and cash flows of American Shared Hospital Services for
+the year ended December 31, 1998. These financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audit.
+
+     We conducted our audit in accordance with auditing standards generally
+accepted in the United States of America. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audit provides a
+reasonable basis for our opinion.
+
+     In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated results of operations
+and consolidated cash flows of American Shared Hospital Services for the year
+ended December 31, 1998, in conformity with accounting principles generally
+accepted in the United States of America.
+
+                                          /s/ GRANT THORNTON LLP
+                                          --------------------------------------
+                                          GRANT THORNTON LLP
+
+San Francisco, California
+March 12, 1999
+
+                                       F-3
+<PAGE>   27
+
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+                          CONSOLIDATED BALANCE SHEETS
+                                  DECEMBER 31,
+
+                                     ASSETS
+
+<TABLE>
+<CAPTION>
+                                                                 2000           1999
+                                                              -----------    -----------
+<S>                                                           <C>            <C>
+CURRENT ASSETS
+  Cash and cash equivalents.................................  $12,421,000    $12,903,000
+  Restricted cash...........................................       50,000         50,000
+  Trade accounts receivable.................................    2,155,000        982,000
+  Other receivables.........................................       52,000        244,000
+  Prepaid expenses and other current assets.................      573,000        516,000
+                                                              -----------    -----------
+          Total current assets..............................   15,251,000     14,695,000
+PROPERTY AND EQUIPMENT
+  Medical equipment and facilities..........................   29,942,000     23,560,000
+  Office equipment..........................................      225,000        617,000
+  Deposits and construction in progress.....................    1,819,000      3,276,000
+                                                              -----------    -----------
+                                                               31,986,000     27,453,000
+  Accumulated depreciation and amortization.................   (7,237,000)    (5,397,000)
+                                                              -----------    -----------
+          Net property and equipment........................   24,749,000     22,056,000
+OTHER ASSETS................................................      209,000        235,000
+                                                              -----------    -----------
+                                                              $40,209,000    $36,986,000
+                                                              ===========    ===========
+
+                          LIABILITIES AND SHAREHOLDERS' EQUITY
+
+CURRENT LIABILITIES
+  Accounts payable..........................................  $    81,000    $   101,000
+  Accrued interest..........................................      153,000        229,000
+  Employee compensation and benefits........................      190,000         87,000
+  Other accrued liabilities.................................      546,000        608,000
+  Current portion of long-term debt.........................    4,126,000      2,545,000
+                                                              -----------    -----------
+          Total current liabilities.........................    5,096,000      3,570,000
+LONG-TERM DEBT, less current portion........................   20,300,000     19,887,000
+MINORITY INTEREST...........................................    1,155,000        890,000
+SHAREHOLDERS' EQUITY
+  Common stock, no par value; Authorized -- 10,000,000
+     shares; Issued and outstanding shares -- 3,711,000 in
+     2000 and 3,813,000 in 1999.............................    9,746,000     10,036,000
+  Common stock options issued to officer....................    2,414,000      2,414,000
+  Additional paid-in capital................................      814,000        817,000
+  Retained earnings (accumulated deficit)...................      684,000       (628,000)
+                                                              -----------    -----------
+          Total shareholders' equity........................   13,658,000     12,639,000
+                                                              -----------    -----------
+                                                              $40,209,000    $36,986,000
+                                                              ===========    ===========
+</TABLE>
+
+        The accompanying notes are an integral part of these statements
+                                       F-4
+<PAGE>   28
+
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+                                                                YEAR ENDED DECEMBER 31,
+                                                        ---------------------------------------
+                                                           2000          1999          1998
+                                                        ----------    ----------    -----------
+<S>                                                     <C>           <C>           <C>
+REVENUES:
+  Medical services....................................  $9,336,000    $7,156,000    $35,162,000
+COSTS AND EXPENSES:
+  Costs of operations:
+     Medical services payroll.........................           -         3,000      7,087,000
+     Maintenance and supplies.........................     187,000       143,000      5,184,000
+     Depreciation.....................................   2,268,000     1,616,000      5,556,000
+     Equipment rental.................................           -             -      4,064,000
+     Other............................................     980,000       403,000      3,935,000
+     Selling and administrative.......................   2,655,000     1,803,000      5,116,000
+     Interest.........................................   2,118,000     1,309,000      3,186,000
+                                                        ----------    ----------    -----------
+          Total costs and expenses....................   8,208,000     5,277,000     34,128,000
+                                                        ----------    ----------    -----------
+                                                         1,128,000     1,879,000      1,034,000
+  Gain (loss) on sale of assets, early termination of
+     capital leases, and other........................      25,000        10,000         (2,000)
+  Gain on sale of product line........................           -             -     20,478,000
+  Interest and other income...........................     804,000       603,000        220,000
+  Minority interest...................................    (645,000)     (501,000)      (166,000)
+                                                        ----------    ----------    -----------
+  Income before income taxes..........................   1,312,000     1,991,000     21,564,000
+  Income tax benefit (expense)........................           -       716,000     (1,513,000)
+                                                        ----------    ----------    -----------
+  Net income..........................................  $1,312,000    $2,707,000    $20,051,000
+                                                        ==========    ==========    ===========
+Earnings per common share:
+  Earnings per common share -- basic..................  $      .34    $      .68    $      4.23
+                                                        ==========    ==========    ===========
+  Earnings per common share -- assuming dilution......  $      .24    $      .48    $      3.15
+                                                        ==========    ==========    ===========
+</TABLE>
+
+        The accompanying notes are an integral part of these statements.
+                                       F-5
+<PAGE>   29
+
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+                 CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+                      THREE YEARS ENDED DECEMBER 31, 2000
+
+<TABLE>
+<CAPTION>
+                                                               COMMON
+                                                               STOCK                     RETAINED
+                                                              OPTIONS     ADDITIONAL     EARNINGS
+                                    COMMON       COMMON      ISSUED TO     PAID-IN     (ACCUMULATED
+                                    SHARES        STOCK       OFFICER      CAPITAL       DEFICIT)        TOTAL
+                                   ---------   -----------   ----------   ----------   ------------   -----------
+<S>                                <C>         <C>           <C>          <C>          <C>            <C>
+Balances at January 1, 1998......  4,769,000   $11,089,000   $2,414,000   $ 930,000    $(23,386,000)  $(8,953,000)
+  Repurchase of Common Stock.....   (225,000)       (2,000)          --          --              --        (2,000)
+     Net income..................         --            --           --          --      20,051,000    20,051,000
+                                   ---------   -----------   ----------   ---------    ------------   -----------
+Balances at December 31, 1998....  4,544,000    11,087,000    2,414,000     930,000      (3,335,000)   11,096,000
+  Options exercised..............      9,000        16,000           --          --              --        16,000
+  Exercise of warrants...........     28,000        21,000           --          --              --        21,000
+  Repurchase of common stock.....   (768,000)   (1,088,000)          --          --              --    (1,088,000)
+  Repurchase of warrants.........         --            --           --    (113,000)             --      (113,000)
+     Net income..................         --            --           --          --       2,707,000     2,707,000
+                                   ---------   -----------   ----------   ---------    ------------   -----------
+Balances at December 31, 1999....  3,813,000    10,036,000    2,414,000     817,000        (628,000)   12,639,000
+  Options exercised..............     92,000       150,000           --          --              --       150,000
+  Repurchase of common stock.....   (194,000)     (440,000)          --          --              --      (440,000)
+  Repurchase of warrants.........         --            --           --      (3,000)             --        (3,000)
+     Net income..................         --            --           --          --       1,312,000     1,312,000
+                                   ---------   -----------   ----------   ---------    ------------   -----------
+Balances at December 31, 2000....  3,711,000   $ 9,746,000   $2,414,000   $ 814,000    $    684,000   $13,658,000
+                                   =========   ===========   ==========   =========    ============   ===========
+</TABLE>
+
+        The accompanying notes are an integral part of these statements.
+
+                                       F-6
+<PAGE>   30
+
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                      YEAR ENDED DECEMBER 31,
+                                                              ----------------------------------------
+                                                                 2000          1999           1998
+                                                              -----------   -----------   ------------
+<S>                                                           <C>           <C>           <C>
+OPERATING ACTIVITIES
+  Net income................................................  $ 1,312,000   $ 2,707,000   $ 20,051,000
+  Adjustments to reconcile net income to net cash from
+    operating activities:
+  Gain on sale of product line..............................           --            --    (20,478,000)
+  (Gain) loss on sale of assets, early termination of
+    capital leases and other non-cash transactions..........      (25,000)      (10,000)         2,000
+  Depreciation and amortization.............................    2,357,000     1,621,000      6,095,000
+  Deferred income tax benefit...............................           --            --       (164,000)
+  Change in estimate of accrued exit costs..................           --      (375,000)            --
+  Changes in operating assets and liabilities:
+    Decrease (increase) in restricted cash..................           --     2,176,000     (1,575,000)
+    (Increase) decrease in receivables......................     (981,000)      106,000       (154,000)
+    (Increase) decrease in prepaid expenses and other
+      assets................................................      (94,000)     (263,000)       187,000
+    (Decrease) increase in accounts payable, accrued
+      liabilities and income taxes payable..................      (54,000)   (2,375,000)     3,767,000
+                                                              -----------   -----------   ------------
+Net cash from operating activities..........................    2,515,000     3,587,000      7,731,000
+INVESTING ACTIVITIES
+Proceeds from sale of product line, net of selling costs....           --            --     12,240,000
+Payment of accrued exit costs...............................           --      (609,000)            --
+Proceeds from sale and disposition of equipment.............           --     1,210,000          4,000
+Increase in minority interest...............................      265,000       159,000        143,000
+Payment for purchase of property and equipment..............     (542,000)     (131,000)      (746,000)
+                                                              -----------   -----------   ------------
+Net cash from investing activities..........................     (277,000)      629,000     11,641,000
+FINANCING ACTIVITIES
+Principal payments on long-term debt and obligations under
+  capital leases............................................   (2,427,000)   (1,513,000)    (8,291,000)
+Proceeds from issuance of long-term debt....................           --       250,000        855,000
+Proceeds from exercise of stock warrants and options........      150,000        37,000             --
+Net payments on revolving line of credit....................           --            --       (837,000)
+Repurchase of stock warrants................................       (3,000)     (113,000)            --
+Repurchase of common stock..................................     (440,000)   (1,088,000)        (2,000)
+                                                              -----------   -----------   ------------
+Net cash from financing activities..........................   (2,720,000)   (2,427,000)    (8,275,000)
+                                                              -----------   -----------   ------------
+Net (decrease) increase in cash and cash equivalents........     (482,000)    1,789,000     11,097,000
+Cash and cash equivalents at beginning of year..............   12,903,000    11,114,000         17,000
+                                                              -----------   -----------   ------------
+Cash and cash equivalents at end of year....................  $12,421,000   $12,903,000   $ 11,114,000
+                                                              ===========   ===========   ============
+SUPPLEMENTAL CASH FLOW DISCLOSURE
+Interest paid...............................................  $ 2,194,000   $ 1,135,000   $  3,163,000
+                                                              ===========   ===========   ============
+Income taxes paid...........................................  $    14,000   $ 1,059,000   $     36,000
+                                                              ===========   ===========   ============
+SCHEDULE OF NONCASH INVESTING AND FINANCING ACTIVITIES
+Acquisition of equipment with lease/debt financing..........  $ 4,444,000   $13,311,000   $  6,952,000
+Net liabilities, primarily trade accounts receivable and
+  payable, property and equipment, capital lease
+  obligations, and long-term debt, assumed by buyer in sale
+  of product line...........................................  $        --   $        --   $  9,808,000
+</TABLE>
+
+        The accompanying notes are an integral part of these statements.
+
+                                       F-7
+<PAGE>   31
+
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+NOTE A -- BUSINESS AND BASIS OF PRESENTATION
+
+  1. Business
+
+     American Shared Hospital Services (the "Company") provides Gamma Knife
+units to nine medical centers in California, Texas, Connecticut, Ohio,
+Massachusetts, Arkansas, Wisconsin and New Jersey. The Company provided shared
+diagnostic imaging services to health care providers located in various
+geographic regions of the United States through November of 1998. The diagnostic
+imaging services provided by the Company were Magnetic Resonance Imaging,
+Computed Axial Tomography Scanning, Ultrasound, Nuclear Medicine, and Cardiac
+Catheterization Laboratory services. On November 13, 1998, the diagnostic
+imaging services product line was sold to a third party.
+
+     In June 1995, African American Church Health and Economic Services, Inc.
+(ACHES) and ACHES Insurance Services, Inc. ("AIS") were incorporated. AIS is a
+wholly owned subsidiary of ACHES. AIS is an insurance agency qualified to sell
+life, health, and disability insurance in the states of California and New York.
+ACHES, through AIS, sells life, health and disability insurance primarily to the
+African-American Community. In 1999, the operations of ACHES and AIS were
+discontinued.
+
+     On October 17, 1995, the Company (through American Shared Radiosurgery
+Services ("ASRS")) and Elekta AB, the manufacturer of the Gamma Knife (through
+its wholly owned United States subsidiary GKV Investments, Inc. ("GKV")),
+entered into an operating agreement which formed GK Financing, LLC ("GKF"). GKF
+provides alternative financing of Elekta Gamma Knife units and is the preferred
+provider for Elekta AB of financing arrangements, such as fee-for-service lease
+arrangements with health care institutions.
+
+     In November, 1999, OR21, Inc., was incorporated. This wholly-owned
+subsidiary of the Company will provide the product "The Operating Room for the
+21st Century(sm)", which is currently under development.
+
+     In April, 2000, MedLeader.com, Inc., was incorporated. This wholly-owned
+subsidiary of the Company will provide continuing medical education online and
+through videos for doctors, nurses and other healthcare workers.
+
+     The consolidated financial statements include the accounts of the Company,
+its wholly owned subsidiaries, CuraCare, Inc. ("CuraCare"), MMRI, Inc., European
+Shared Medical Services Ltd., OR21, Inc., MedLeader.com, Inc., ACHES and its
+wholly-owned subsidiary, AIS, and ASRS and its majority-owned subsidiary, GK
+Financing, LLC. The stock of CuraCare was sold on November 13, 1998 in
+conjunction with the sale of the diagnostic imaging services product line. On
+April 28, 2000, European Shared Medical Services, Ltd. was dissolved.
+
+     All significant intercompany accounts and transactions have been eliminated
+in consolidation.
+
+NOTE B -- ACCOUNTING POLICIES
+
+  1. Use of Estimates in the Preparation of Financial Statements
+
+     In preparing financial statements in conformity with generally accepted
+accounting principles, management makes estimates and assumptions that affect
+the reported amounts of assets and liabilities and disclosures of contingent
+assets and liabilities at the date of the financial statements, as well as the
+reported amounts of revenues and expenses during the reporting period. Actual
+results could differ from those estimates.
+
+                                       F-8
+<PAGE>   32
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+  2. Cash and Cash Equivalents
+
+     The Company considers all liquid investments with original maturities of
+three months or less at the date of purchase to be cash equivalents. Restricted
+cash is not considered a cash equivalent for purposes of the consolidated
+statements of cash flows.
+
+  3. Restricted Cash
+
+     Restricted cash represents the minimum cash that, by agreement, must be
+maintained in GK Financing LLC (GKF) to fund operations.
+
+  4. Accounts Receivable
+
+     Substantially all of the Company's revenue is provided by nine customers.
+These customers constitute accounts receivable at December 31, 2000. The Company
+performs credit evaluations of its customers and generally does not require
+collateral. At December 31, 2000, the Company did not maintain an allowance for
+doubtful accounts because management believes that accounts receivable are fully
+collectible.
+
+  5. Accounting for Majority-Owned Subsidiary
+
+     The Company accounts for GKF as a consolidated entity due to its 81%
+majority-equity interest.
+
+  6. Property and Equipment
+
+     Property and equipment are stated at cost less accumulated depreciation and
+amortization. Depreciation is determined using the straight-line method over the
+estimated useful lives of the assets which for medical and office equipment is
+generally 3 - 15 years. The Company capitalized interest of $168,000 and $79,000
+in 2000 and 1999, respectively, as costs of medical equipment.
+
+  7. Operating Leases
+
+     The Company leases Gamma Knife equipment to its customers under
+arrangements accounted for as operating leases. Revenue is provided for and
+recognized on a fee-for-service or contingent rental basis when the service is
+delivered. The lease agreements are generally over ten to fifteen year terms. At
+December 31, 2000, the Company held equipment under operating lease contracts
+with customers with an original cost of $29,246,000 and accumulated depreciation
+of $7,007,000.
+
+  8. Income Taxes
+
+     The liability method is used to account for income taxes. Under this
+method, deferred tax assets and liabilities are determined based on differences
+between the financial reporting and tax bases of assets and liabilities and are
+measured using the enacted tax rates and laws that will be in effect when the
+differences are expected to reverse.
+
+  9. Earnings Per Share
+
+     Basic earnings per share excludes dilution and is computed by dividing
+income available to common stockholders by the weighted average number of common
+shares outstanding for the year. Diluted earnings per share reflect the
+potential dilution that could occur if common shares were issued pursuant to the
+exercise of
+
+                                       F-9
+<PAGE>   33
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+options or warrants. The following table illustrates the computations of basic
+and diluted earnings per share for the years ended December 31, 2000, 1999 and
+1998.
+
+<TABLE>
+<CAPTION>
+                                                           2000          1999          1998
+                                                        ----------    ----------    -----------
+<S>                                                     <C>           <C>           <C>
+Numerator for basic and diluted earnings per share....  $1,312,000    $2,707,000    $20,051,000
+Denominator:
+  Denominator for basic earnings per
+     share -- weighted-average shares.................   3,810,000     3,967,000      4,735,000
+  Effect of dilutive securities
+     Employee stock options/warrants..................   1,593,000     1,679,000      1,631,000
+                                                        ----------    ----------    -----------
+  Denominator for diluted earnings per
+     share -- adjusted weighted-average shares........   5,403,000     5,646,000      6,366,000
+                                                        ==========    ==========    ===========
+Earning per share -- basic............................  $      .34    $      .68    $      4.23
+                                                        ==========    ==========    ===========
+Earning per share -- assuming dilution................  $      .24    $      .48    $      3.15
+                                                        ==========    ==========    ===========
+</TABLE>
+
+     Options to purchase 52,667 and 15,000 shares of common stock at $3.00 and
+$3.06 per share, respectively, were outstanding during 2000. They were not
+included in the computation of earnings per share assuming dilution because the
+exercise price of the options were greater than the average market price of the
+common shares.
+
+  10. Stock-Based Compensation
+
+     SFAS No. 123, "Accounting for Stock-Based Compensation," encourages but
+does not require companies to record compensation cost for stock-based employee
+compensation plans at fair value. The Company has chosen to continue to account
+for stock-based employee compensation using the intrinsic value method
+prescribed in Accounting Principles Board (APB) Opinion No. 25, "Accounting for
+Stock Issued to Employees," and related interpretations. Accordingly,
+compensation cost for stock options granted to employees is measured as the
+excess, if any, of the quoted market price of the Company's stock at the date of
+the grant over the amount an employee must pay to acquire the stock. Disclosure
+requirements in accordance with SFAS No. 123 are included in Note E.
+
+  11. Fair Value of Financial Instruments
+
+     The carrying amounts of financial instruments, including cash and cash
+equivalents, restricted cash, accounts receivable, accounts payable, and other
+accrued liabilities approximated their fair value as of December 31, 2000 and
+1999, because of the relatively short maturity of these instruments. The
+carrying amounts of the Company's various debt obligations approximated fair
+value as of December 31, 2000 and 1999, based upon interest rates that are
+currently available for the Company for issuance of instruments with similar
+terms and remaining maturities.
+
+  12. Recent Accounting Pronouncements
+
+     In December 1999, the Securities and Exchange Commission (SEC) issued Staff
+Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements" (SAB
+101). SAB 101, as amended, summarizes certain aspects of the SEC's views in
+applying generally accepted accounting principles to revenue recognition in
+financial statements. The company was required to adopt SAB 101 in the fourth
+quarter of 2000. The adoption of SAB 101 did not have a material effect on the
+Company's operations or financial position.
+
+     In September 1999, the FASB issued Emerging Issues Task Force Topic No.
+D-83, "Accounting for Payroll Taxes Associated with Stock Option Exercises"
+(EITF D-83). EITF D-83 requires that payroll taxes
+
+                                       F-10
+<PAGE>   34
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+paid on the difference between the exercise price and the fair value of acquired
+stock in association with an employee's exercise of stock options be recorded as
+operating expenses. The Company was required to adopt EITF D-83 in the fourth
+quarter of 1999. There was no material effect on the Company's operations or
+financial position as a result of adoption.
+
+     In June 1998, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 133, "Accounting for Derivative
+Instruments and Hedging Activities" (SFAS No. 133). SFAS No. 133, as amended,
+establishes accounting and reporting standards for derivative instruments and
+hedging activities. It requires an entity to recognize all derivatives as either
+assets or liabilities on the balance sheet and measure those instruments at fair
+value. Management does not expect adoption of SFAS No. 133 to have a material
+effect on the Company's operations or financial position. SFAS No. 133 is
+effective for all fiscal quarters of all fiscal years beginning after June 15,
+2000.
+
+NOTE C -- LONG-TERM DEBT
+
+     Long-term debt consists primarily of 9 notes with a financing company,
+related to Gamma Knife construction and installation, totaling $23,075,000.
+These notes accrue interest at fixed annual rates between 10.5% and 10.7%, are
+payable in 84 monthly installments, mature between September, 2004, and
+December, 2007, and are collateralized by the respective Gamma Knives.
+Additionally, the Company has $1,351,000 in borrowings outstanding for deposits
+for two Gamma Knives under construction at December 31, 2000 (Note H). These
+borrowings accrue interest at prime plus 2% (11% at December 31, 2000), are
+payable when the Gamma Knife units commence operation, and are collateralized by
+the equipment. The following are contractual maturities of long-term debt by
+year at December 31, 2000:
+
+<TABLE>
+<CAPTION>
+                  YEAR ENDING DECEMBER 31,
+                  ------------------------
+<S>                                                           <C>
+2001........................................................  $ 4,126,000
+2002........................................................    5,019,000
+2003........................................................    4,068,000
+2004........................................................    4,437,000
+2005........................................................    3,753,000
+Thereafter..................................................    3,023,000
+                                                              -----------
+                                                              $24,426,000
+                                                              ===========
+</TABLE>
+
+                                       F-11
+<PAGE>   35
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+NOTE D -- INCOME TAXES
+
+     Significant components of the Company's deferred tax liabilities and assets
+as of December 31, 2000 and 1999 are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                 2000           1999
+                                                              -----------    -----------
+<S>                                                           <C>            <C>
+Deferred tax liabilities:
+  Fixed assets..............................................  $(3,141,000)   $(2,389,000)
+                                                              -----------    -----------
+Total deferred tax liabilities..............................   (3,141,000)    (2,389,000)
+Deferred tax assets:
+  Net operating loss carryforwards..........................    2,976,000      2,941,000
+  State income taxes........................................        4,000             --
+  Accrued reserves..........................................       41,000          5,000
+  Other -- net..............................................      253,000        300,000
+                                                              -----------    -----------
+Total deferred tax assets...................................    3,274,000      3,246,000
+Valuation allowance for deferred tax assets.................     (133,000)      (857,000)
+                                                              -----------    -----------
+Net deferred tax assets.....................................    3,141,000      2,389,000
+                                                              -----------    -----------
+Net deferred tax liabilities................................  $        --    $        --
+                                                              ===========    ===========
+</TABLE>
+
+     The components of the provision (benefit) for income taxes consist of the
+following:
+
+<TABLE>
+<CAPTION>
+                                                            2000         1999          1998
+                                                          ---------    ---------    ----------
+<S>                                                       <C>          <C>          <C>
+Current:
+  Federal...............................................  $      --    $      --    $  360,000
+  State.................................................         --     (716,000)    1,317,000
+                                                          ---------    ---------    ----------
+Deferred:
+  Federal...............................................         --           --            --
+  State.................................................         --           --      (164,000)
+                                                          ---------    ---------    ----------
+                                                          $      --    $(716,000)   $1,513,000
+                                                          =========    =========    ==========
+</TABLE>
+
+     The provision (benefit) for income taxes differs from the amount computed
+by applying the U.S. federal statutory tax rate (34% in 2000, 1999 and 1998) to
+income before taxes as follows:
+
+<TABLE>
+<CAPTION>
+                                                         2000          1999           1998
+                                                       ---------    -----------    -----------
+<S>                                                    <C>          <C>            <C>
+Computed expected tax................................  $ 450,000    $   677,000    $ 7,500,000
+Change in valuation allowance........................   (724,000)        62,000     (7,205,000)
+State income taxes, net of federal benefit...........     77,000        116,000      1,400,000
+Change in carryovers and tax attributes..............    197,000     (1,571,000)            --
+Other................................................         --             --       (182,000)
+                                                       ---------    -----------    -----------
+                                                       $      --    $  (716,000)   $ 1,513,000
+                                                       =========    ===========    ===========
+</TABLE>
+
+     At December 31, 2000, the Company had a net operating loss carryforward for
+federal income tax return purposes of approximately $8,411,000 which expires
+between 2002 and 2020. A substantial part of this carryforward is subject to
+separate return limitations. The Company's ability to utilize its net operating
+loss carryforwards and other deferred tax assets may be limited in the event of
+a 50% or more ownership change within any three-year period.
+
+     The Company recorded no income tax expense or benefit in 2000 because a
+valuation allowance was provided for its entire deferred tax asset in excess of
+its deferred tax liability.
+
+                                       F-12
+<PAGE>   36
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+     The Company's estimated income tax liability for the year ended December
+31, 1998 was overstated by approximately $700,000. This change in estimate is
+the result of finalization of unresolved details associated with the 1998 sale
+of the diagnostic imaging services product line. The effect of the resolution of
+these details was estimated in the 1998 financial statements. The effect of the
+final resolution was a reduction of the company's income tax liability resulting
+in an income tax benefit for the year ended December 31, 1999 as well as an
+increase in the net operating loss carryforwards available to the Company. The
+tax effected amount of the increase in net operating losses is approximately
+$1,571,000 and is reflected as a change in carryovers and tax attributes in the
+reconciliation from expected to actual income tax expense above.
+
+NOTE E -- SHAREHOLDERS' EQUITY
+
+  1984 Stock Option Plan
+
+     Under the Company's 1984 Stock Option Plan (the "Plan"), as amended, a
+total of 475,000 stock options were authorized for grant. The Plan terminated
+according to its terms on March 1, 1994. Options granted pursuant to the Plan
+generally had lives of 10 years from the date of grant, subject to earlier
+expiration in certain cases, such as termination of the grantee's employment.
+
+  1995 Stock Option Plan
+
+     The Company's 1995 Stock Option Plan, providing for nonqualified stock
+options and "incentive stock options," was approved by the Company's Board of
+Directors on August 15, 1995, subject to shareholder approval, which was given
+on October 6, 1995. Under the 1995 Plan, 330,000 common shares are reserved for
+awards to officers and other key employees, non-employee directors, and
+advisors. Provisions of the 1995 Stock Option Plan include an automatic grant to
+each non-employee director of options to purchase up to 4,000 shares annually on
+the date of the Company's Annual Shareholder Meeting, at an exercise price equal
+to the market price of the Company's common shares on that date, until the
+non-employee director has options for a total of 12,000 shares of the Company's
+common stock in all Company plans. Directors who are appointed or elected to the
+Company's Board of Directors on a date other than that of the Annual Shareholder
+Meeting receive a pro-rata grant of such options, at an exercise price equal to
+the market price of the Company's common shares on the date of grant.
+
+     Changes in options outstanding under the 1984 and 1995 Stock Option Plans
+from January 1, 1998 to December 31, 2000 are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                        WEIGHTED
+                                                         NUMBER         AVERAGE
+                                                       OF OPTIONS    EXERCISE PRICE
+                                                       ----------    --------------
+<S>                                                    <C>           <C>
+Balance at January 1, 1998...........................   429,000          $1.627
+  Forfeited..........................................   (40,000)          1.625
+                                                        -------
+Balance at December 31, 1998.........................   389,000           1.628
+  Granted............................................    53,000           3.000
+  Exercised..........................................    (9,000)          1.660
+  Forfeited..........................................   (58,000)          1.625
+                                                        -------
+Balance at December 31, 1999.........................   375,000           1.820
+  Granted............................................    15,000           3.063
+  Exercised..........................................   (92,000)          1.625
+                                                        -------
+Balance at December 31, 2000.........................   298,000          $1.943
+                                                        =======
+</TABLE>
+
+     At December 31, 2000, 28,000 options were available for grant under the
+1995 Plan.
+
+                                       F-13
+<PAGE>   37
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+  Shares and Options Issued to Officer
+
+     On August 15, 1995, the Company's Chairman and Chief Executive Officer was
+granted a ten-year, immediately exercisable option to purchase 1,495,000 common
+shares for an exercise price of $.01 per share for which the Company recorded
+compensation expense of $2,414,000. These options were granted to the officer as
+final consideration for personal guarantees of credit facilities and for
+continued employment with the Company.
+
+     The following table summarizes information about all options outstanding at
+December 31, 2000:
+
+<TABLE>
+<CAPTION>
+                           OPTIONS OUTSTANDING
+                  -------------------------------------    OPTIONS EXERCISABLE
+                                  WEIGHTED                ----------------------
+                                  AVERAGE      WEIGHTED                 WEIGHTED
+                                 REMAINING     AVERAGE                  AVERAGE
+   RANGE OF         NUMBER      CONTRACTUAL    EXERCISE     NUMBER      EXERCISE
+EXERCISE PRICES   OUTSTANDING   LIFE (YEARS)    PRICE     EXERCISABLE    PRICE
+---------------   -----------   ------------   --------   -----------   --------
+<S>               <C>           <C>            <C>        <C>           <C>
+$0.01..........    1,495,000        4.83        $ 0.01     1,495,000     $ 0.01
+ 1.625 - 3.063       298,000        5.23         1.943       286,000      1.893
+--------------     ---------        ----        ------     ---------     ------
+$  .01 - 3.063     1,793,000        4.90        $ .331     1,781,000     $ .312
+                   =========        ====        ======     =========     ======
+</TABLE>
+
+     At December 31, 2000 and 1999, 1,781,000 and 1,856,000 options,
+respectively, were vested and exercisable.
+
+  Pro Forma Information related to Option Grants
+
+     Pro forma information regarding net income and earnings per share is
+required by SFAS 123 for awards granted after December 31, 1995, as if the
+Company had accounted for its stock-based awards to employees under the fair
+value method of SFAS 123. The fair value of the Company's stock-based awards to
+employees was estimated using a Black-Scholes option pricing model. The
+Black-Scholes options valuation model was developed for use in estimating the
+fair value of traded options which have no vesting restrictions and are fully
+transferable. In addition, the Black-Scholes model requires the input of highly
+subjective assumptions including the expected stock price volatility. Because
+the Company's stock-based awards to employees have characteristics significantly
+different from those of traded options, and because changes in the subjective
+input assumptions can materially affect the fair value estimate, in management's
+opinion, the existing models do not necessarily provide a reliable single
+measure of the fair value of its stock-based awards to employees. The fair value
+of the Company's option grants under the 1984 and 1995 Plans was estimated
+assuming no expected dividends and the following weighted-average assumptions:
+
+<TABLE>
+<CAPTION>
+                                                         2000    1999    1998
+                                                         ----    ----    ----
+<S>                                                      <C>     <C>     <C>
+Expected life (years)..................................   9.5     9.5     9.5
+Expected volatility....................................  74.0%   82.0%   93.8%
+Risk-free interest rate................................   6.4%    5.9%    6.3%
+</TABLE>
+
+     No options were granted during 1998. The weighted-average fair values of
+options granted during 2000 and 1999 were $2.49 and $2.54, respectively. For pro
+forma purposes, the estimated fair value of the
+
+                                       F-14
+<PAGE>   38
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+Company's options is amortized over the options' vesting period. The Company's
+pro forma information follows:
+
+<TABLE>
+<CAPTION>
+                                                   2000          1999          1998
+                                                ----------    ----------    -----------
+<S>                                             <C>           <C>           <C>
+Net income
+  As reported.................................  $1,312,000    $2,707,000    $20,051,000
+  Pro forma...................................   1,272,000     2,595,000     20,040,000
+Earnings per share -- basic
+  As reported.................................         .34           .68           4.23
+  Pro forma...................................         .33           .65           4.23
+Earnings per share -- assuming dilution
+  As reported.................................         .24           .48           3.15
+  Pro forma...................................         .24           .46           3.15
+</TABLE>
+
+  Repurchase of Common Stock and Common Stock Warrants
+
+     On March 8, 1999, the Board of Directors authorized the repurchase of
+572,000 shares from two shareholders who were previous bondholders of the
+Company. These shares were originally issued in conjunction with a debt
+restructuring. On March 22, 1999, the Board of Directors approved a resolution
+authorizing the Company to repurchase up to 500,000 shares of its own stock on
+the open market. Correspondingly, the Company repurchased 194,000 and 196,000
+shares of its own stock on the open market during the years ending December 31,
+2000 and 1999, respectively. As the Company's stock has no par value, the entire
+repurchase price of the stock is recorded as a reduction to common stock.
+
+     In previous years, the Company had issued 314,000 common stock warrants
+with an exercise price of $.75 per share in conjunction with the restructuring
+of certain debt and lease obligations of the Company. During 2000 and 1999, the
+Company repurchased all of the common stock warrants. The original issue of the
+warrants was recorded as an addition to additional paid-in capital and the
+repurchase has correspondingly been recorded as a decrease to additional paid-in
+capital.
+
+NOTE F -- RETIREMENT PLAN
+
+     The Company has a defined contribution retirement plan for which
+substantially all full-time employees are eligible. The plan does not currently
+provide for a Company matching distribution.
+
+NOTE G -- OPERATING LEASES
+
+     The Company leases office space and equipment under operating leases
+expiring at various dates through 2005.
+
+     Future minimum payments under noncancelable operating leases having initial
+terms of more than one year consisted of the following at December 31, 2000:
+
+<TABLE>
+<S>                                                 <C>
+YEAR ENDING DECEMBER 31,
+     2001.........................................  $167,000
+     2002.........................................   123,000
+     2003.........................................    16,000
+     2004.........................................     8,000
+     2005.........................................     7,000
+                                                    --------
+                                                    $321,000
+                                                    ========
+</TABLE>
+
+                                       F-15
+<PAGE>   39
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+     Payments for repair and maintenance agreements are included in the future
+minimum operating lease payments shown above.
+
+     Rent expense was $188,000, $117,000, and $4,696,000 for the years ended
+December 31, 2000, 1999 and 1998, respectively, and includes the above operating
+leases as well as month-to-month rental and certain executory costs.
+
+NOTE H -- COMMITMENTS AND CONTINGENCIES
+
+     Under the terms of three Gamma Knife quotation agreements, the Company is
+committed to purchase Gamma Knife equipment for $5,720,000 when the equipment is
+placed in service at each customer location. At December 31, 2000, the Company
+had $1,726,000 in deposits related to these purchase commitments which are
+classified as construction in progress.
+
+NOTE I -- REPORTABLE SEGMENTS
+
+     The Company has one reportable segment: The Gamma Knife segment engages in
+the business of leasing equipment to healthcare providers that treats certain
+vascular malformations and intracranial tumors without surgery. Prior to
+November, 1998, the Company also had a Diagnostic Imaging Services segment which
+used medical diagnostic imaging systems to facilitate treatment and the
+diagnosis of diseases and disorders.
+
+     The accounting policies of the segments are the same as those described in
+the summary of significant accounting policies. The Company evaluates
+performance based on profit or loss from operations before income taxes not
+including nonrecurring gains and losses. Applicable general and administrative
+expenses were allocated to segments based on relative percentage of revenues.
+Certain corporate expenses were not allocated to the segments.
+
+     The Company did not have significant intersegment sales transactions. The
+segments shared common expenses and provided management activities to one
+another for which they charged management fees. These management fees were not
+significant.
+
+     The Company's reportable segments were strategic business units that
+offered different products and services. They were managed separately because
+each business required different technology and marketing strategies.
+
+REPORTABLE SEGMENT INFORMATION
+
+<TABLE>
+<CAPTION>
+                                                                       GAMMA KNIFE
+                                                                       (THOUSANDS)
+                                                              -----------------------------
+                                                               2000       1999       1998
+                                                              -------    -------    -------
+<S>                                                           <C>        <C>        <C>
+Revenues....................................................  $ 9,336    $ 7,151    $ 4,156
+Interest expense............................................    2,116      1,305        773
+Depreciation and amortization...............................    2,276      2,135      1,042
+Segment profit..............................................    3,394      2,637      1,115
+Segment assets..............................................   31,192     28,920     15,125
+Other significant noncash items:
+  Acquisition of equipment with lease/debt financing........    4,444     13,311      6,132
+</TABLE>
+
+                                       F-16
+<PAGE>   40
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+<TABLE>
+<CAPTION>
+                                                               DIAGNOSTIC IMAGING SERVICES
+                                                                       (THOUSANDS)
+                                                              -----------------------------
+                                                               2000       1999       1998
+                                                              -------    -------    -------
+<S>                                                           <C>        <C>        <C>
+Revenues....................................................  $    --    $    --    $30,993
+Interest expense............................................       --         --      1,770
+Depreciation and amortization...............................       --         --      4,514
+Segment profit..............................................       --         --        156
+Segment assets..............................................       --         --         --
+Other significant noncash items:
+  Acquisition of equipment with lease/debt financing........       --         --        820
+  Capitalized lease restructuring...........................       --         --         --
+  Accounts payable converted to notes payable...............       --         --         --
+</TABLE>
+
+RECONCILIATION TO CONSOLIDATED AMOUNTS
+
+<TABLE>
+<CAPTION>
+                                                               2000       1999       1998
+                                                              -------    -------    -------
+                                                                       (THOUSANDS)
+<S>                                                           <C>        <C>        <C>
+REVENUES
+Total revenues for reportable segments......................  $ 9,336    $ 7,151    $35,149
+Other revenues..............................................       --          5         13
+                                                              -------    -------    -------
+  Total consolidated revenues...............................  $ 9,336    $ 7,156    $35,162
+
+PROFIT OR LOSS
+Total profit for reportable segments........................  $ 3,394    $ 2,637    $ 1,271
+Gain on sale of product line................................       --         --     20,478
+Other.......................................................   (2,082)      (646)      (185)
+                                                              -------    -------    -------
+Income before income taxes..................................  $ 1,312    $ 1,991    $21,564
+
+ASSETS
+Total assets for reportable segments........................  $31,192    $28,920    $15,025
+Other assets................................................    9,017      8,066     12,042
+Elimination of receivables from corporate headquarters......       --         --       (148)
+                                                              -------    -------    -------
+  Consolidated total........................................  $40,209    $36,986    $26,919
+</TABLE>
+
+OTHER SIGNIFICANT ITEMS
+
+<TABLE>
+<CAPTION>
+                                                            SEGMENT                   CONSOLIDATED
+                                                            TOTALS     ADJUSTMENTS       TOTALS
+                                                            -------    -----------    ------------
+                                                                             2000
+                                                            --------------------------------------
+                                                                         (THOUSANDS)
+<S>                                                         <C>        <C>            <C>
+Interest expense..........................................  $2,116        $   2          $2,118
+Expenditures for assets...................................     479           63             542
+Depreciation and amortization.............................   2,276           (8)          2,268
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                                             1999
+                                                            --------------------------------------
+                                                                         (THOUSANDS)
+<S>                                                         <C>        <C>            <C>
+Interest expense..........................................  $1,305        $   4          $1,309
+Expenditures for assets...................................      --          131             131
+Depreciation and amortization.............................   2,135         (514)          1,621
+</TABLE>
+
+                                       F-17
+<PAGE>   41
+                       AMERICAN SHARED HOSPITAL SERVICES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2000, 1999 AND 1998
+
+<TABLE>
+<CAPTION>
+                                                                             1998
+                                                            --------------------------------------
+                                                                         (THOUSANDS)
+<S>                                                         <C>        <C>            <C>
+Interest expense..........................................  $2,543        $ 643          $3,186
+Expenditures for assets...................................      50            5              55
+Depreciation and amortization.............................   5,556           --           5,556
+</TABLE>
+
+     Adjustments to reconcile reportable segment totals to consolidated totals
+include unallocated amounts and amounts from non-reportable segments.
+
+MAJOR CUSTOMERS
+
+     Revenues from the Company's Gamma Knife segment were provided by nine
+customers in 2000, nine customers in 1999, and five customers in 1998.
+
+     In 2000, revenues from four customers of $2,192,000, $1,454,000,
+$1,254,000, and $1,114,000, respectively, exceeded 10% of the Company's total
+revenue. In 1999, revenues from four customers of $1,590,000, $1,543,000,
+$1,437,000, and $884,000, respectively, exceeded 10% of the Company's total
+revenue. In 1998, no individual customers accounted for 10% of the Company's
+total revenue.
+
+NOTE J -- SALE OF PRODUCT LINE
+
+     On November 13, 1998, the Company consummated a sale of its diagnostic
+imaging services product line to a third party. The diagnostic imaging services
+line included Magnetic Resonance Imaging (MRI), Computed Axial Tomography
+Scanning (CT), Ultrasound, Nuclear Medicine and Cardiac Catheterization
+Laboratory services. The Company sold the assets of this product line for $13.5
+million in cash and the assumption by the third party of approximately $27.1
+million in liabilities of the Company. The Company recognized a gain on disposal
+of product line of approximately $20 million in conjunction with this
+transaction.
+
+     In conjunction with the product line sale, one of the Company's facilities
+which provided certain administrative and scheduling functions was closed during
+1999. At December 31, 1998, in accordance with the Emerging Issues Task Force
+(EITF) Abstract 94-3, the Company accrued certain future exit costs related to
+the sale of the product line and corresponding facility closure which totaled
+$995,000 at December 31, 1998. The accrued costs include employee compensation
+of $215,000, liability tail insurance coverage costs of $500,000, legal and
+professional fees of $105,000, administrative costs of $115,000 and other costs
+totaling $60,000. Insurance costs of approximately $400,000 were classified as
+long-term as they were intended to be incurred subsequent to 1999. During 1999,
+management revised its estimate regarding the use and corresponding cost of
+liability tail insurance coverage. This change in estimate resulted in a
+$325,000 decrease to selling and administrative expenses in the corresponding
+Statement of Income for the year ended December 31, 1999.
+
+     The revenue and net operating income or losses from the disposed diagnostic
+imaging services line for fiscal year ended 1998 is presented at Note I.
+
+                                       F-18
+<PAGE>   42
+
+                               INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+EXHIBIT                                                                 SEQUENTIAL
+NUMBER                            DESCRIPTION                           PAGE NUMBER
+-------                           -----------                           -----------
+<S>       <C>                                                           <C>
+ 2.1      Securities Purchase Agreement, dated as of March 12, 1998,
+          by and among Alliance Imaging, Inc.; Embarcadero Holding
+          Corp. I; Embarcadero Holding Corp. II; American Shared
+          Hospital Services; and MMRI, Inc.(1)........................       *
+ 3.1      Articles of Incorporation of the Company, as amended.(2)....       *
+ 3.2      By-laws of the Company, as amended.(3)......................       *
+ 4.6      Form of Common Stock Purchase Warrant of American Shared
+          Hospital Services.(3).......................................       *
+ 4.8      Registration Rights Agreement, dated as of May 17, 1995, by
+          and among American Shared Hospital Services, the Holders
+          referred to in the Note Purchase Agreement, dated as of May
+          12, 1995 and General Electric Company, acting through GE
+          Medical Systems.(3).........................................       *
+10.1      The Company's 1984 Stock Option Plan, as amended.(4)........       *
+10.2      The Company's 1995 Stock Option Plan, as amended.(5)........       *
+10.3      Form of Indemnification Agreement between American Shared
+          Hospital Services and members of its Board of
+          Directors.(4)...............................................       *
+10.4      Ernest A. Bates Stock Option Agreement dated as of August
+          15, 1995.(6)................................................       *
+10.5      Operating Agreement for GK Financing, LLC, dated as of
+          October 17, 1995.(3)........................................       *
+10.6      Amendments dated as of October 26, 1995 and as of December
+          20, 1995 to the GK Financing, LLC Operating Agreement, dated
+          as of October 17, 1995.(7)..................................       *
+10.7      Amendment dated as of October 16, 1996 to the GK Financing,
+          LLC Operating Agreement, dated as of October 17, 1995.(1)...       *
+10.8      Amendment dated as of March 31, 1998 ("Fourth Amendment") to
+          the GK Financing, LLC Operating Agreement dated as of
+          October 17, 1995.(8)........................................       *
+10.9      Amendment dated as of March 31, 1998 ("Fifth Amendment") to
+          the GK Financing, LLC Operating Agreement dated as of
+          October 17, 1995.(8)........................................       *
+10.10     Amendment dated as of June 5, 1998 to the GK Financing, LLC
+          Operating Agreement dated as of October 17, 1995.(8)........       *
+10.11a    Assignment and Assumption Agreement, dated as of December
+          31, 1995, between American Shared Radiosurgery Services
+          (assignor) and GK Financing, LLC (assignee).(8)                    *
+10.11b    Assignment and Assumption Agreement, dated as of November 1,
+          1995, between American Shared Hospital Services (assignor)
+          and American Shared Radiosurgery Services (assignee).(4)....       *
+10.11c    Amendment Number One dated as of August 1, 1995 to the Lease
+          Agreement for a Gamma Knife Unit between The Regents of the
+          University of California and American Shared Hospital
+          Services. (Confidential material appearing in this document
+          has been omitted and filed separately with the Securities
+          and Exchange Commission in accordance with Rule 24b-2,
+          promulgated under the Securities and Exchange Act of 1934,
+          as amended. Omitted information has been replaced with
+          asterisks.)(8)..............................................       *
+</TABLE>
+<PAGE>   43
+
+<TABLE>
+<CAPTION>
+EXHIBIT                                                                 SEQUENTIAL
+NUMBER                            DESCRIPTION                           PAGE NUMBER
+-------                           -----------                           -----------
+<S>       <C>                                                           <C>
+10.11d    Lease Agreement dated as of July 3, 1990 for a Gamma Knife
+          Unit between American Shared Hospital Services and The
+          Regents of the University of California. (Confidential
+          material appearing in this document has been omitted and
+          filed separately with the Securities and Exchange Commission
+          in accordance with Rule 24b-2, promulgated under the
+          Securities and Exchange Act of 1934, as amended. Omitted
+          information has been replaced with asterisks.)(8)...........       *
+10.12     Amendment Number Two dated as of February 6, 1998 to the
+          Lease Agreement for a Gamma Knife Unit between UCSF-Stanford
+          Health Care and GK Financing, LLC. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)(8).......................       *
+10.13     Assignment and Assumption Agreement, dated as of February 3,
+          1996, between American Shared Radiosurgery Services
+          (assignor) and GK Financing, LLC (assignee).(4).............       *
+10.14     Lease Agreement for a Gamma Knife Unit dated as of April 6,
+          1994, between Ernest A. Bates, M.D. and NME Hospitals, Inc.
+          dba USC University Hospital. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)(8).......................       *
+10.15     Assignment and Assumption Agreement dated as of February 1,
+          1996 between Ernest A. Bates, M.D. and GK Financing, LLC
+          with respect to the Lease Agreement for a Gamma Knife dated
+          as of April 6, 1994 between Ernest A. Bates, M.D. and NME
+          Hospitals, Inc. dba USC University Hospital.(8).............       *
+10.16     Lease Agreement for a Gamma Knife Unit dated as of October
+          31, 1996 between Hoag Memorial Hospital Presbyterian and GK
+          Financing, LLC. (Confidential material appearing in this
+          document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(8)                                                     *
+10.17     Addendum to Lease Agreement for a Gamma Knife Unit dated as
+          of December 1, 1998 between Hoag Memorial Hospital
+          Presbyterian and GK Financing, LLC. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)(8).......................       *
+10.18     Lease Agreement for a Gamma Knife Unit dated as of October
+          29, 1996 between Methodist Healthcare Systems of San
+          Antonio, Ltd., dba Southwest Texas Methodist Hospital and GK
+          Financing, LLC. (Confidential material appearing in this
+          document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(8)..............................................       *
+</TABLE>
+<PAGE>   44
+
+<TABLE>
+<CAPTION>
+EXHIBIT                                                                 SEQUENTIAL
+NUMBER                            DESCRIPTION                           PAGE NUMBER
+-------                           -----------                           -----------
+<S>       <C>                                                           <C>
+10.19     Lease Agreement for a Gamma Knife Unit dated as of April 10,
+          1997 between Yale-New Haven Ambulatory Services Corporation
+          and GK Financing, LLC. (Confidential material appearing in
+          this document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the Securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(8)..............................................       *
+10.20     Lease Agreement for a Gamma Knife Unit dated as of June 1,
+          1998 between GK Financing, LLC and Kettering Medical Center.
+          (Confidential material appearing in this document has been
+          omitted and filed separately with the Securities and
+          Exchange Commission in accordance with Rule 24b-2,
+          promulgated under the securities and Exchange Act of 1934,
+          as amended. Omitted information has been replaced with
+          asterisks.)(9)..............................................       *
+10.21     Addendum to Contract with GKF and KMC/WKNI, dated June 1,
+          1998 between GK Financing, LLC and Kettering Medical Center.
+          (Confidential material appearing in this document has been
+          omitted and filed separately with the Securities and
+          Exchange Commission in accordance with Rule 24b-2,
+          promulgated under the securities and Exchange Act of 1934,
+          as amended. Omitted information has been replaced with
+          asterisks.)(9)..............................................       *
+10.22     Lease Agreement for a Gamma Knife Unit dated as of October
+          5, 1998 between GK Financing, LLC and New England Medical
+          Center Hospitals, Inc. (Confidential material appearing in
+          this document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(9)..............................................       *
+10.23     Equipment Lease Agreement dated as of October 29, 1998
+          between GK Financing, LLC and the Board of Trustees of the
+          University of Arkansas on behalf of The University of
+          Arkansas for Medical Sciences. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)(9).......................       *
+10.24     First Amendment to Lease Agreement for a Gamma Knife Unit
+          effective as of August 2, 1999 between GK Financing, LLC and
+          Tenet HealthSystems Hospitals, Inc. (formerly known as NME
+          Hospitals, Inc.) dba USC University Hospital. (Confidential
+          material appearing in this document has been omitted and
+          filed separately with the Securities and Exchange Commission
+          in accordance with Rule 24b-2, promulgated under the
+          securities and Exchange Act of 1934, as amended. Omitted
+          information has been replaced with asterisks.)(9)...........       *
+10.25     Addendum Two, dated as of October 1, 1999, to Lease
+          Agreement for a Gamma Knife Unit dated as of October 31,
+          1996 between Hoag Memorial Hospital Presbyterian and GK
+          Financing, LLC. (Confidential material appearing in this
+          document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(10).............................................       *
+</TABLE>
+<PAGE>   45
+
+<TABLE>
+<CAPTION>
+EXHIBIT                                                                 SEQUENTIAL
+NUMBER                            DESCRIPTION                           PAGE NUMBER
+-------                           -----------                           -----------
+<S>       <C>                                                           <C>
+10.26     Lease Agreement for a Gamma Knife Unit dated as of May 28,
+          1999 between Froedtert Memorial Lutheran Hospital and GK
+          Financing, LLC. (Confidential material appearing in this
+          document has been omitted and filed separately with the
+          Securities and Exchange Commission in accordance with Rule
+          24b-2, promulgated under the securities and Exchange Act of
+          1934, as amended. Omitted information has been replaced with
+          asterisks.)(10).............................................       *
+10.27     Addendum dated June 24, 1999 to Lease Agreement for a Gamma
+          Knife Unit dated as of May 28, 1999 between Froedtert
+          Memorial Lutheran Hospital and GK Financing, LLC.(10).......       *
+10.28     Addendum dated July 12, 1999 to Lease Agreement for a Gamma
+          Knife Unit dated as of May 28, 1999 between Froedtert
+          Memorial Lutheran Hospital and GK Financing, LLC. (10)......       *
+10.29     Addendum dated August 24, 1999 to Lease Agreement for a
+          Gamma Knife Unit dated as of May 28, 1999 between Froedtert
+          Memorial Lutheran Hospital and GK Financing, LLC.(10).......       *
+10.30     Lease Agreement for a Gamma Knife Unit dated as of December
+          11, 1996 between The Community Hospital Group, Inc. dba JFK
+          Medical Center and GK Financing, LLC. (Confidential material
+          appearing in this document has been omitted and filed
+          separately with the Securities and Exchange Commission in
+          accordance with Rule 24b-2, promulgated under the Securities
+          and Exchange Act of 1934, as amended. Omitted information
+          has been replaced with asterisks.)
+21.       Subsidiaries of American Shared Hospital Services.                --
+</TABLE>
+
+---------------
+ (1) These documents were filed as Exhibits 2.1 and 10.13b, respectively, to the
+     registrant's Annual Report on Form 10-K for the fiscal year ended December
+     31, 1997, which is incorporated herein by this reference.
+
+ (2) This document was filed as Exhibit 3.1 to registrant's Registration
+     Statement on Form S-2 (Registration No. 33-23416), which is incorporated
+     herein by this reference.
+
+ (3) These documents were filed as Exhibits 3.2, 4.6 and 4.8, respectively, to
+     registrant's Registration Statement on Form S-1 (Registration No. 33-63721)
+     filed on October 26, 1995, which is incorporated herein by this reference.
+
+ (4) These documents were filed as Exhibits 10.24 and 10.35 respectively, to
+     registrant's Registration Statement on Form S-2 (Registration No.
+     33-23416), which is incorporated herein by this reference.
+
+ (5) This document was filed as Exhibit A to registrant's Proxy Statement, filed
+     on August 31, 1995, which is incorporated herein by this reference.
+
+ (6) This document was filed as Exhibit B to registrant's Proxy Statement, filed
+     on August 31, 1995, which is incorporated herein by this reference.
+
+ (7) These documents were filed as Exhibits 4.14 and 10.13, respectively, to the
+     registrant's Pre-Effective Amendment No. 1 to registrant's Registration
+     Statement on Form S-1 (Registration No. 33-63721) filed on March 29, 1996,
+     which is incorporated herein by this reference.
+
+ (8) These documents were filed as Exhibits 10.8, 10.9, 10.10, 10.11a, 10.11c,
+     10.11d, 10.12, 10.14, 10.15, 10.16, 10.17, 10.18 and 10.19, respectively,
+     to the registrant's Annual Report on Form 10-K for the fiscal year ended
+     December 31, 1998, which is incorporated herein by this reference.
+
+ (9) These documents were filed as Exhibits 10.20, 10.21, 10.22, 10.23, and
+     10.24, respectively, to the registrant's Quarterly Report on Form 10-Q for
+     the quarterly period ended September 30, 1999, which is incorporated herein
+     by this reference.
+<PAGE>   46
+
+(10) These documents were filed as Exhibits 10.25, 10.26, 10.27, 10.28 and
+     10.29, respectively, to the registrant's Quarterly Report on Form 10-Q for
+     the quarterly period ended December 31, 1999, which is incorporated herein
+     by this reference.
+</TEXT>
+</DOCUMENT>

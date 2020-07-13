@@ -1,0 +1,3492 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>relm10k.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+            [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended DECEMBER 31, 2004
+
+                                       OR
+
+          [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+             For the transition period from __________ to __________
+
+                        Commission file number 000-07336
+
+                            RELM WIRELESS CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+                     Nevada                              59-3486297
+         (State of other jurisdiction of              (I.R.S. Employer
+          incorporation or organization              Identification No.)
+
+
+              7100 Technology Drive
+             West Melbourne, Florida                        32904
+    (Address of principal executive offices)             (Zip Code)
+
+       Registrant's telephone number, including area code: (321) 984-1414
+
+        Securities registered pursuant to Section 12(b) of the Act: NONE
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          COMMON STOCK, PAR VALUE $.60
+
+                                (Title of Class)
+
+         Indicate by check mark whether the registrant: (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X]      No [ ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+
+         Indicate by check mark whether the registrant is an accelerated filer
+Yes [ ]      No [X]
+
+         The aggregate market value of the voting and non-voting common equity
+held by non-affiliates of the registrant on March 1, 2005, based on the closing
+price of such stock on the OTC Bulletin Board on such date, was $16,630,625.
+
+         As of March 1, 2005, 12,890,118 shares of the registrant's Common Stock
+were outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE: Portions of the registrant's proxy
+statement for its 2005 annual shareholders' meeting are incorporated by
+reference in Part III of this report. The registrant's proxy statement will be
+filed within 120 days after December 31, 2004.
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+                                                                           PAGE
+                                                                           ----
+Part I                                                                         1
+     Item 1.   Business                                                        1
+     Item 2.   Properties                                                      7
+     Item 3.   Legal Proceedings                                               8
+     Item 4.   Submission of Matters to a Vote of Security Holders             8
+
+Part II                                                                        9
+     Item 5.   Market for Registrant's Common Equity, Related Stockholders
+               Matters and Issuer Purchases of Equity Securities               9
+     Item 6.   Selected Financial Data                                        10
+     Item 7.   Management's Discussion and Analysis of Financial Condition
+               and Results of Operations                                      11
+     Item 7A.  Quantitative and Qualitative Disclosures About Market Risks    20
+     Item 8.   Financial Statements and Supplementary Data                    27
+     Item 9.   Changes in and Disagreements with Accountants on Accounting
+               and Financial Disclosure                                       28
+     Item 9A.  Controls and Procedures                                        28
+     Item 9B.  Other Information                                              28
+
+Part III                                                                      29
+     Item 10.  Directors and Executive Officers of the Registrant             29
+     Item 11.  Executive Compensation                                         29
+     Item 12.  Security Ownership of Certain Beneficial Owners and
+               Management and Related Stockholder Matters                     29
+     Item 13.  Certain Relationships and Related Transactions                 29
+     Item 14.  Principal Accountant Fees and Services                         29
+
+Part IV                                                                       30
+     Item 15.  Exhibits and Financial Statement Schedules                     30
+
+SIGNATURES                                                                    33
+
+                                       i
+<PAGE>
+
+                                     PART I
+
+ITEM 1.   BUSINESS.
+
+GENERAL
+
+RELM Wireless Corporation, in business for over 57 years, designs, manufactures
+and markets wireless communications products, principally two-way land mobile
+radios (LMR) and related products. Our products are marketed using three
+distinct brand names, BK Radio, RELM, and Uniden. These products are sold in two
+primary markets:
+
+1.   The government and public safety market, which includes fire, rescue, law
+     enforcement, and emergency medical personnel, as well as the military and
+     various agencies of federal, state, and local governments; and
+
+2.   The business and industrial market, which consists of enterprises requiring
+     fast, inexpensive communication among a discrete group of users. Examples
+     include corporate disaster recovery, hotels, construction companies,
+     schools, airports, and taxies.
+
+Generally, BK Radio-branded products serve the government and public safety
+market. RELM and Uniden-branded products serve the business and industrial
+market.
+
+Our principal executive offices are located at 7100 Technology Drive, West
+Melbourne, Florida 32904 and the telephone number is (321) 984-1414. More
+information about the company and our products is also available through the
+Internet at "http://www.relm.com." The information provided on our website is
+not incorporated by reference into this report.
+
+EVENTS OF 2004
+
+DIGITAL ENCRYPTION
+
+We completed development of digital encryption capabilities for our flagship DPH
+digital portable radio. Also, operational and validation testing has been
+successfully completed on the cryptographic module. The new encryption
+capability meets Digital Encryption Standard (DES) and Advanced Encryption
+Standard (AES) specifications, and our DPH meets or exceeds technical
+specifications for compliance with the Association of Public Safety
+Communication Officials (APCO) Project 25 standard for digital public safety
+radio equipment, including encryption. Encryption enables secured two-way
+communications and is important to many LMR users particularly those involved in
+public safety, security and disaster recovery functions.
+
+EXPANDED BAND VHF DIGITAL PORTABLE RADIO
+
+We introduced a new APCO Project 25 digital radio, which features expanded
+band-width capability. The frequency range for this product is 136-174 MHz,
+compared to a range of 147-174 MHz for our DPH model. The additional band-width
+includes a frequency band often assigned to and favored by high-specification
+radio users in public safety and homeland security agencies, as well as military
+units. The expanded band enables us to address markets and users that we could
+not serve prior to this development, including certain public safety and
+homeland security applications.
+
+                                       1
+<PAGE>
+
+REVOLVING CREDIT FACILITY
+
+In February 2004, our lender increased our revolving credit facility by $1
+million to $3.5 million, and the maturity date was extended to January 1, 2005.
+In October 2004, the maturity date of the facility was further extended until
+January 1, 2007. Additionally, certain terms and conditions were modified that
+have reduced related costs. The original agreement of August 2003 with Silicon
+Valley Bank provided a $2.5 million revolving line of credit for one year,
+secured by substantially all of the Company's assets, principally trade
+receivables and inventory.
+
+COMMON STOCK WARRANTS
+
+We completed in June 2004 the redemption of all our outstanding public warrants
+to purchase common stock. On April 30, 2004, the Company announced the
+redemption of the public warrants. The public warrants, with an exercise price
+of $1.05, were exercisable for one share of common stock until 5:00 p.m. (New
+York time) on May 30, 2004. Prior to completion of the redemption, approximately
+99.4 percent of the public warrants were exercised, generating net proceeds to
+the Company of approximately $3.4 million and a 3,673,527 share increase in
+outstanding shares of the Company's common stock. After that date, the warrants
+were no longer exercisable, and holders had the right to receive only the
+redemption price of $0.10 per warrant. The redemption concluded the Company's
+2002 public rights offering.
+
+CONVERTIBLE NOTES
+
+The convertible notes matured on December 31, 2004. Notes totaling $2.25 million
+were repaid and retired on that date. As of December 31, 2004, notes totaling
+$700,000 remained outstanding. The rights for these notes to convert and to earn
+interest expired on December 31, 2004. Notes totaling $550,000 were tendered,
+repaid and retired in January 2005. One note totaling $150,000 remains
+outstanding.
+
+INDUSTRY OVERVIEW
+
+LMR communications consist of hand-held (portable) and mobile (vehicle mounted)
+two-way radios commonly used by the public safety sector (e.g., police, fire,
+and emergency medical personnel), businesses (e.g., corporate disaster recovery,
+hotels, airports, farms, taxis, and construction firms), and government agencies
+within the United States and abroad. LMR systems are constructed to meet an
+organization's specific communication needs. The cost of a system varies widely,
+starting at approximately $60,000 for a basic configuration. The cost of radio
+sets can range from under $200 for a basic analog portable, to over $3,000 for a
+digital unit, depending upon features. Typically, there are no recurring airtime
+usage charges. Accordingly, LMR usage patterns are considerably different from
+those for cellular and other wireless communications tools. LMR usage is
+characterized by frequent calls of short duration. The majority of users make 20
+to 50 calls per day, with most calls lasting less than 30 seconds. The average
+useful life is 8 years for a portable radio and 11 years for a mobile.
+
+LMR systems are the oldest form of wireless dispatch communications used in the
+U.S., having been first deployed by the Detroit Police Department in 1921. LMR
+is also the most widely used form of dispatch communications in the U.S., with
+current users estimated to exceed 16.3 million. Initially, LMR was used almost
+exclusively by law enforcement. At that time all radio communications were
+transmitted in an analog format. Analog transmissions typically consist of a
+voice or other signal modulated directly onto a continuous radio carrier wave.
+Over time, advances in technology decreased the cost of LMR products and
+increased its popularity and usage by businesses and other agencies. To respond
+to the growing usage, additional spectrum was allocated for LMR use.
+
+                                       2
+<PAGE>
+
+In recent years LMR has been characterized by slow growth. This growth rate is a
+reflection of several factors:
+
+     o   LMR is a mature industry, having been in existence for over 70 years;
+
+     o   some LMR users are in mature industry segments that are themselves
+         experiencing slow growth rates; and
+
+     o   most significantly, growth has been hampered by the lack of available
+         radio spectrum, which has prevented existing users from expanding their
+         systems and hindered efforts of many potential new users from obtaining
+         licenses for new systems.
+
+As a result of the lack of available spectrum, the Federal Communications
+Commission (FCC) has mandated that new LMR equipment utilize technology that is
+more spectrum-efficient. This effectively requires LMR users to migrate to
+digital systems. Responding to the mandate, APCO, in concert with several LMR
+manufacturers (including RELM), recommended an industry standard for digital LMR
+devices that would meet the FCC requirements and provide solutions to several
+problems experienced primarily by public safety users. The standard is called
+Project 25. The primary objectives of Project 25 are to i) allow effective and
+reliable communication among users of compliant equipment, regardless of its
+manufacturer, ii) maximize radio spectrum efficiency, and iii) promote
+competition among LMR providers through an open system architecture.
+
+Although the FCC does not require public safety agencies or APCO to purchase
+Project 25 equipment or otherwise adopt the standard, compliance with the
+standard is increasingly becoming the key consideration for government and
+public safety purchasers. Accordingly, we anticipate that the demand for APCO
+Project 25 equipment will fuel significant LMR market growth as users upgrade
+equipment to achieve interoperability and comply with the FCC mandate.
+
+By some estimates, the LMR industry is as large as $5.7 billion in annual sales.
+Presently, one manufacturer dominates the market. However, the open architecture
+of the APCO Project 25 standard effectively eliminates the ability of one or
+more major companies to lockout competitors. Formerly, because of proprietary
+characteristics incorporated in many conventional analog LMR systems, a customer
+was effectively precluded from purchasing additional LMR products from a company
+other than the initial provider of the system. Additionally, the system
+infrastructure technology was prohibitive for smaller communications companies
+to develop. APCO Project 25 provides an environment under which users will have
+a wider selection of LMR suppliers, including smaller companies such as RELM.
+
+DESCRIPTION OF PRODUCTS
+
+We design, manufacture, and market wireless communications equipment consisting
+of two-way radios, repeaters, base stations, and related components and
+subsystems. Two-way radios can be units that are hand-held (portable) or
+installed in vehicles (mobile). Repeaters expand the range of two-way radios,
+enabling them to operate over a wider area. Base station components and
+subsystems are installed at radio transmitter sites to improve performance by
+reducing or eliminating signal interference and to enable the use of one antenna
+for both transmission and reception.
+
+We employ both analog and digital technologies in our products. Our digital
+products are compliant with APCO Project 25 specifications.
+
+                                       3
+<PAGE>
+
+We sell our products under the BK Radio, RELM and Uniden brand names. Generally,
+BK Radio-branded products serve the government and public safety market, while
+RELM and Uniden-branded products serve the business and industrial market.
+
+BK Radio (formerly "Bendix King") branded products consist of
+higher-specification land-mobile radios whose primary market focus is
+professional radio users in the government and public safety sectors. The BK
+Radio products have more extensive features and capabilities than the products
+offered in the RELM and Uniden product lines. Our APCO Project 25 digital
+products are marketed under the BK Radio brand.
+
+RELM and Uniden branded products provide basic, inexpensive, yet feature rich
+and reliable, two-way communications for business and industrial users, such as
+hotels, construction companies, schools, taxicab and limousine companies, and
+airports. Typically these users are not radio professionals, and require easy,
+fast, inexpensive communication among a defined group of users.
+
+DESCRIPTION OF MARKETS
+
+GOVERNMENT AND PUBLIC SAFETY MARKET
+
+The government and public safety market includes the military, fire, rescue, law
+enforcement, emergency medical personnel, as well as various agencies of
+federal, state, and local government. In most instances, BK Radio branded
+products serve this market and are sold either directly to end-users, or through
+two-way communications dealers. Government and public safety sales represented
+approximately 76% of total sales for 2004, 82% of total sales for 2003 and 78%
+of total sales for 2002.
+
+Most government and public safety users currently use products that employ
+analog technology. However, users in the United States and certain other
+countries are migrating at an increasing rate to digital products that comply
+with the APCO Project 25 standard. The evolution of the standard and compliant
+digital products is explained in the INDUSTRY OVERVIEW section starting on page
+2 of this report.
+
+BUSINESS AND INDUSTRIAL MARKET
+
+This market includes businesses and enterprises of all sizes that require fast,
+push-to-talk communication among a defined group of users such as hotels,
+construction companies, schools, taxicab and limousine companies, and airports.
+We offer products to this market under the RELM and Uniden brand names. Most of
+our sales in this market are to dealers and distributors who then resell the
+products to end-users. Our sales to this market represented approximately 24% of
+total sales for 2004, 18% of total sales for 2003 and 22% of total sales for
+2002.
+
+ENGINEERING, RESEARCH AND DEVELOPMENT
+
+Our engineering and development activities are conducted in two locations by a
+team of 19 employees. Their primary development focus is the execution of our
+plan to design APCO Project 25 digital products. Our first APCO Project 25
+digital product, named the DPH, was introduced to the market in 2003. Also in
+2003, the DPH was added to the contract to supply agencies of the U.S.
+Department of Interior (DOI) with digital two-way communications equipment. In
+2004, we completed development of digital encryption capabilities for the DPH.
+The new encryption capabilities meet DES and AES specs, and the DPH meets or
+exceeds technical specifications for compliance with the APCO Project 25
+standard for digital public safety radio equipment, including encryption.
+Encryption enables secured two-way communications and is important to many LMR
+users particularly those involved in public safety, security and disaster
+
+                                       4
+<PAGE>
+
+recovery functions. Also in 2004, we developed and introduced an additional APCO
+Project 25 digital portable radio with an expanded frequency band of 136-174
+MHz. The original DPH functions with a frequency range of 147-174 MHz. The
+additional band-width includes frequency bands often assigned to and favored by
+high-specification radio users in public safety and homeland security agencies,
+as well as military units. This enables us to address markets and users that we
+could not serve prior to this development, including certain public safety and
+homeland security applications. We plan to develop a broad range of additional
+APCO Project 25 digital products and capabilities during the next few years.
+
+A segment of our engineering team is responsible for product specifications
+based on customer requirements and supervising quality assurance activities.
+They also have primary responsibility for applied engineering, production
+engineering and the specification compliance of contract manufacturers.
+
+For 2004, 2003 and 2002, our engineering and development expenditures were
+approximately $1.9 million, $1.5 million and $1.9 million, respectively.
+
+INTELLECTUAL PROPERTY
+
+We presently have no United States patents in force. We hold several trademarks
+related to the names "RELM" and "BK Radio" and certain product names. We also
+rely on trade secret laws and employee and third party non-disclosure agreements
+to protect our intellectual property rights.
+
+MANUFACTURING AND RAW MATERIALS
+
+Our manufacturing strategy is to utilize the highest quality and most cost
+effective resources available for every aspect of our manufacturing. Consistent
+with that strategy, we have successfully implemented several outside contract
+manufacturing arrangements. These arrangements, some of which are with offshore
+concerns, have been instrumental in decreasing our product costs significantly,
+allowing us to improve our competitive position and gross margins.
+
+Contract manufacturers produce various subassemblies and products on our behalf.
+Generally, the contract manufacturers procure raw materials from RELM-approved
+sources and complete manufacturing activities in accordance with our
+specifications. An Original Equipment Manufacturer (OEM) manufacturing agreement
+governs the business relationship with each contract manufacturer. These
+agreements typically have a five-year term and may be renewed upon agreement by
+both parties. The scope of the contracts may also be expanded to include new
+products in the future.
+
+We plan to continue to utilize contract manufacturing where it furthers our
+business objectives. This strategy allows us to focus on our core technological
+competencies of product design and development, and to reduce the substantial
+capital investment required to manufacture our products. We also believe that
+our use of experienced, high-volume manufacturers will provide greater
+manufacturing specialization and expertise, higher levels of flexibility and
+responsiveness, and faster delivery of product. To ensure that products
+manufactured by others meet our standards, our West Melbourne production and
+engineering team works closely with its ISO9002 industry-qualified contract
+manufacturers in all key aspects of the production process. We establish product
+specifications, select the components and, in some cases, the suppliers. We
+retain all document control. We also work with our contract manufacturers to
+improve process control and product design, and to conduct periodic on-site
+inspections.
+
+We rely upon a limited number of both domestic and foreign suppliers for several
+key products and components. We place purchase orders from time to time with
+these suppliers and have no guaranteed supply arrangements. In addition, we
+
+                                       5
+<PAGE>
+
+obtain certain components from a single source. The amount of these components
+is not material relative to total component and raw material purchases. During
+2004, 2003, and 2002, our operations have not been impaired due to delays from
+single source suppliers. However, the absence of a single source component could
+delay the manufacture of finished products. We manage the risk of such delays by
+securing second sources and redesigning products in response to component
+shortages or obsolescence. We strive to maintain strong relations with all our
+suppliers. We anticipate that the current relationships, or others that are
+comparable, will be available to us in the future.
+
+SEASONAL IMPACT
+
+Demand for our "BK Radio" LMR products is typically the greatest during the
+summer season because of the increased forest fire activity during that time of
+year.
+
+SIGNIFICANT CUSTOMERS
+
+Sales to the United States Government represented approximately 46%, 50% and 39%
+of our total sales for the years ended December 31, 2004, 2003 and 2002,
+respectively. These sales were primarily to the United States Forest Service
+(USFS) and the DOI.
+
+Sales to the USFS represented approximately 23%, 27%, and 22% of total sales for
+the years ended December 31, 2004, 2003 and 2002, respectively. Our new digital
+portable radio, the DPH, was added to the DOI contract in July 2003. For the
+years ended December 31, 2004 and 2003 sales to the DOI represented
+approximately 22% and 12% of total sales, respectively.
+
+BACKLOG
+
+Our order backlog was approximately $2.7 million, $2.8 million, and $1.7 as of
+December 31, 2004, 2003, and 2002, respectively.
+
+COMPETITION
+
+The worldwide land mobile radio markets are estimated by various industry market
+studies to exceed $5 billion annually with annual growth of approximately 2%. We
+compete with many domestic and foreign companies in these markets. One
+competitor holds a share of the market estimated to exceed 70%. We compete in
+these markets by capitalizing on our advantages and strengths, which include
+price, quality, speed, and customer responsiveness.
+
+EMPLOYEES
+
+As of December 31, 2004, we had 76 full-time employees, most of whom are located
+at our West Melbourne, Florida facility; 36 of these employees are engaged in
+direct manufacturing or manufacturing support, 19 in engineering, 13 in sales
+and marketing, and 8 in general and administrative activities. Our employees are
+not represented by any collective bargaining agreements, nor has there ever been
+a labor-related work stoppage. We believe our relations with our employees are
+good.
+
+                                       6
+<PAGE>
+
+INFORMATION RELATING TO DOMESTIC AND EXPORT SALES
+
+The following table summarizes our sales of wireless communications equipment by
+location of our customers:
+
+                                  2004         2003         2002
+                                -------      -------      -------
+                                          (in Millions)
+
+     United States              $  20.3      $  18.5      $  14.9
+     Other International            0.4          1.2          1.0
+                                -------      -------      -------
+     Total                      $  20.7      $  19.7      $  15.9
+                                =======      =======      =======
+
+ACCESS TO COMPANY INFORMATION
+
+We electronically file with, or furnish to, the Securities and Exchange
+Commission ("SEC"), reports and information, including our Annual Report on Form
+10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all
+exhibits and amendments to these reports. The public may read and copy any of
+the reports that are filed with the SEC at the SEC's Public Reference Room at
+450 Fifth Street, N.W., Washington, D.C. 20549. The public may obtain
+information on the operation of the Public Reference Room by calling the SEC at
+1-800-SEC-0330. The SEC maintains an Internet site (http://www.sec.gov) that
+contains reports, proxy and information statements, and other information
+regarding issuers that file electronically.
+
+We make available, free of charge, by responding to requests addressed to our
+investor relations department, our Annual Report on Form 10-K, Quarterly Reports
+on Form 10-Q, Current Reports on Form 8-K, and all exhibits and amendments to
+these reports. These reports are available as soon as reasonably practicable
+after such reports are electronically filed with, or furnished to, the SEC. In
+addition, we make available, free of charge, by responding to requests addressed
+to our investor relations department, our Code of Business Conduct and Ethics,
+and our Corporate Governance Guidelines.
+
+As discussed, Item 101(e) of Regulation S-K does not require this disclosure.
+
+ITEM 2.   PROPERTIES
+
+OWNED
+
+We do not currently own any real estate.
+
+LEASED
+
+We lease approximately 54,000 square feet of industrial space at 7100 Technology
+Drive in West Melbourne, Florida. The original lease term is five years, which
+expires on June 30, 2005, with a renewal option of five years. We exercised the
+renewal option in February 2005. Rental, maintenance and tax expenses for this
+facility were approximately $378,000, $384,000 and $395,000 in 2002, 2003 and
+2004, respectively. We also lease 3,800 square feet of office space in Lawrence,
+Kansas, to accommodate a segment of our engineering team. This lease has a term
+of two years and expires on April 15, 2005. Rental, maintenance and tax expenses
+for this facility were approximately $20,000, $33,000 and $32,000 for 2002,
+
+                                       7
+<PAGE>
+
+2003, and 2004, respectively. In April 2005, our engineering team will relocate
+to 8,111 square feet of leased office and laboratory space, which is in close
+proximity to its present location. In January 2005, we executed a lease for this
+space, which expires December 31, 2009.
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+In 1993, a civil action was brought against us by a plaintiff to recover losses
+sustained on the note of a former affiliate totaling $1.7 million plus interest
+at 12% per annum. The plaintiff alleged violations of federal securities and
+other laws by us in collateral arrangements with the former affiliate. In
+February 1994, the liquidator of the former affiliate filed a complaint claiming
+that intentional and negligent conduct by us and others caused the former
+affiliate to suffer millions of dollars of losses leading to its ultimate
+failure. In response, we filed motions for summary judgment to dismiss these
+complaints. On September 12, 2002, the Court granted in significant part the
+motions for summary judgment filed by us and one of our directors. The lone
+remaining claim sought damages against us for non-payment of the note. We
+contended that this note was canceled and released for fair consideration in
+1993 and that there was no basis in law or fact for the liquidator's claim. On
+March 1, 2004, we reached a settlement agreement with the plaintiff. Under the
+terms of the settlement, we paid to the plaintiff cash totaling $120,000 and
+issued 6,452 shares of restricted common stock valued at $3.10 per share, the
+closing price on March 1, 2004. A written settlement agreement and release was
+executed by both parties on August 24, 2004. In accordance with the agreement,
+on August 24, 2004, we paid $60,000 in cash, and on October 20, 2004, we issued
+the shares. We made the remaining cash payment in November 2004.
+
+Such settlement agreement was accrued in the accompanying 2003 balance sheet
+under the caption "Accrued other expenses and other current liabilities."
+
+In June 1997, substantially all of the assets of a RELM specialty-manufacturing
+subsidiary were sold. The asset purchase agreement contains indemnification
+provisions, which could result in liability for both parties. Presently, one
+indemnification claim is pending against us. On August 26, 2002, a products
+liability lawsuit was filed in the Probate Court of Galveston County, Texas.
+RELM Wireless Corporation, RELM Communications, Incorporated, and the purchaser
+of the assets of our former specialty-manufacturing subsidiary are named
+defendants in the lawsuit. We have insurance coverage for this matter. Counsel
+named by our insurer is continuing to vigorously defend this claim. Counsel
+believes we have meritorious defenses and the likelihood of an unfavorable
+outcome is remote.
+
+We are involved in various claims and legal actions arising in the ordinary
+course of our business. It is the opinion of management that the ultimate
+disposition of these matters would not have a material effect upon our
+consolidated financial position or results of operations.
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None.
+
+                                       8
+<PAGE>
+
+                                     PART II
+
+ITEM 5.   MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDERS MATTERS
+          AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+The following tables set forth the high and low closing sale price for our
+common stock for the periods indicated, as reported by the OTC Bulletin Board.
+These quotations reflect inter-dealer prices, without retail mark-up, markdown,
+or commission and may not necessarily represent actual transactions.
+
+                                  Common Stock
+
+          2004 Quarter Ended                 High              Low
+          ------------------                -----             -----
+          March 31, 2004                    $3.70             $1.46
+          June 30, 2004                      3.29              1.85
+          September 30, 2004                 2.78              1.49
+          December 31, 2004                  2.52              1.71
+
+          2003 Quarter Ended                 High              Low
+          ------------------                -----             -----
+          March 31, 2003                    $0.67             $0.37
+          June 30, 2003                      0.77              0.15
+          September 30, 2003                 1.60              0.47
+          December 31, 2003                  1.80              1.40
+
+On March 1, 2005, there were 1,216 holders of record of our common stock.
+
+We have never declared or paid cash dividends on our common stock. We currently
+intend to retain all available funds and any future earnings for use in the
+operation and expansion of our business and do not anticipate paying any cash
+dividends in the foreseeable future. In addition, our loan agreement with
+Silicon Valley Bank prohibits us from paying dividends on our common stock.
+
+EQUITY COMPENSATION PLAN INFORMATION
+
+<TABLE>
+<CAPTION>
+
+                                                                                             (c)
+                                                                                   Number of securities
+                                        (a)                     (b)               remaining available for
+                               Number of securities to    Weighted average      future issuance under equity
+                               be issued upon exercise   exercise price of      compensation plan (excluding
+                               of outstanding options,  outstanding options,      securities reflected in
+       Plan Category           warrants, and rights     warrants and rights              column (a)
+-----------------------------  -----------------------  --------------------    ----------------------------
+<S>                                  <C>                   <C>                            <C>
+Equity compensation plans
+approved by security holders         1,565,500             $   1.74                         134,500
+                                     ---------             --------                       ---------
+Equity compensation plans not
+approved by security holders                --                   --                              --
+                                     ---------             --------                       ---------
+Total                                1,565,500             $   1.74                         134,500
+                                     =========             ========                       =========
+
+</TABLE>
+
+                                       9
+<PAGE>
+
+ITEM 6.   SELECTED FINANCIAL DATA
+
+The following table summarizes selected financial data of RELM, which are
+derived from and should be read in conjunction with the Consolidated Financial
+Statements and notes thereto and "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" included elsewhere in this
+report:
+
+                            STATEMENT OF OPERATIONS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<TABLE>
+<CAPTION>
+
+                                                                      YEAR ENDED DECEMBER 31
+                                                2004           2003            2002            2001            2000
+                                             ----------     ----------      ----------      ----------      ----------
+
+<S>                                          <C>            <C>                 <C>         <C>             <C>
+Sales                                        $   20,656     $   19,728          15,978      $   22,809      $   21,054
+
+Income (Loss) From Continuing
+   Operations                                     1,660            881          (3,631)            122          (1,162)
+Loss From Discontinued Operations                    --             --              --              --            (266)
+
+                                             ----------     ----------      ----------      ----------      ----------
+Net Income (Loss)                            $    7,877     $      868      $   (3,631)     $      122      $   (1,428)
+                                             ==========     ==========      ==========      ==========      ==========
+
+Income (loss) Per Share-Basic:
+Income (loss) Per Share From
+   Continuing Operations                     $     0.68     $     0.10      $    (0.47)     $     0.02      $    (0.22)
+
+Income (loss) Per Share From
+   Discontinued Operations                           --             --              --              --           (0.05)
+                                             ----------     ----------      ----------      ----------      ----------
+Net Income (loss) Per Share                  $     0.68     $     0.10      $    (0.47)     $     0.02      $    (0.27)
+                                             ==========     ==========      ==========      ==========      ==========
+
+Income (loss) Per Share-Diluted:
+  Income (loss) Per Share From
+  Continuing Operations                      $     0.65     $     0.09      $    (0.47)     $     0.02      $    (0.22)
+
+Income (loss) Per Share From
+  Discontinued Operations                            --             --              --              --           (0.05)
+                                             ----------     ----------      ----------      ----------      ----------
+Net Income (loss) Per Share                  $     0.65     $     0.09      $    (0.47)     $     0.02      $    (0.27)
+                                             ==========     ==========      ==========      ==========      ==========
+</TABLE>
+
+o    Results for 2004 include an approximately $6.3 million net deferred tax
+     asset on our balance sheet and a corresponding tax benefit on our statement
+     of operations. The deferred tax asset and tax benefit is more fully
+     explained under "Management's Discussion and Analysis of Financial
+     Condition and Results of Operations - Income Taxes" on page 14.
+
+                                       10
+<PAGE>
+
+o    Results for 2002 include, 1) a $900,000 note receivable valuation allowance
+     related to the purchase of the assets of the Company's former
+     paper-manufacturing subsidiary in the first quarter, 2) a collection
+     allowance of $175,333 for a note receivable from the purchaser of the
+     assets of our former specialty-manufacturing subsidiary, 3) the write-off
+     of a technology agreement with a book value of $210,981, 4) the write-off
+     of an investment banking services agreement with a book value of $119,851,
+     and 5) $185,270 in costs related to the restructuring of our sales and
+     marketing organization.
+
+o    Results for 2000 include a $984,000 net gain on the sale of our
+     manufacturing facility and the sale of certain manufacturing and test
+     equipment.
+
+BALANCE SHEET (IN THOUSANDS)
+
+                                                 DECEMBER 31
+                               2004       2003       2002       2001      2000
+                             -------    -------    -------    -------    -------
+
+Working Capital              $10,951    $ 5,273    $ 5,734    $ 9,262    $ 7,679
+
+Total Assets                  19,693     12,229     12,856     17,623     18,422
+
+Long-Term Debt                   -0-      1,272      3,150      6,998      6,353
+
+Total Stockholders' Equity    17,454      5,985      4,872      6,482      6,360
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+          RESULTS OF OPERATIONS
+
+EXECUTIVE SUMMARY
+
+Our operating results for the year ended December 31, 2004 improved compared to
+last year. Sales for 2004 increased by approximately $0.9 million (4.7%)
+compared to 2003 while gross margins as a percent of sales in 2004 improved to
+44.0% from 38.6% in 2003. Pretax income of approximately $1.7 million in 2004
+was approximately 88.4% higher than in 2003. Net income increased $7.0 million
+to approximately $7.9 million, or $0.68 per basic and $0.65 per fully dilute
+share compared to last year's net income of approximately $0.9 million or $0.10
+per basic and $0.09 per fully diluted share.
+
+Our balance sheet as of December 31, 2004 also improved significantly compared
+to the period ending December 31, 2003, including an approximately $1.8 million
+(142.9%) increase in cash and the satisfaction of the majority of all long-term
+debt on December 31, 2004.
+
+Sales in 2004 of new products, including digital APCO Project 25 radios used by
+government and public-safety agencies and our RP-Series analog radios targeted
+for commercial and industrial applications, increased approximately $4.7 million
+(83.7%) compared to the same period last year. The growth was derived from an
+overall increase in customer order volume, rather than from a few large orders,
+with many coming from new customers and customers returning after several years.
+More new products, including additional APCO Project 25 digital products, are
+planned for later this year and next year. Sales of conventional analog products
+in 2004 declined $3.8 million (27.1%) compared to the same period last year as
+customers, particularly government and public safety users, migrated to newer
+products, particularly those featuring digital technology.
+
+                                       11
+<PAGE>
+
+Gross margins improved as we continued to expand our use of contract
+manufacturers, successfully reducing manufacturing support costs while improving
+manufacturing efficiencies and inventory management. Also, our new products
+incorporate recent, more cost-effective product designs.
+
+Selling, general and administrative ("SG&A") expenses increased as we continued
+to invest in new product development and sales and marketing initiatives. The
+additional spending in these areas is intended to drive sales growth by
+expediting the introduction of new products, including additional APCO Project
+25 digital products, and intensifying our sales activities.
+
+In the fourth quarter 2004, we evaluated the realizability of our net operating
+loss carryforwards and other deferred tax assets in accordance with SFAS
+Statement No. 109 and reduced the valuation allowance against deferred tax
+assets. Consequently, we recognized a net deferred tax asset and a corresponding
+deferred tax benefit totaling approximately $6.2 million for the fourth quarter
+and year ended 2004. The deferred tax asset and income tax benefit are explained
+under "Management's Discussion and Analysis of Financial Condition and Results
+of Operations - Income Taxes" starting on page 14.
+
+In October 2004, our revolving line of credit was extended until January 2007.
+Also, certain terms and conditions were modified that will reduce costs and
+reporting requirements associated with the facility. Earlier in 2004, the
+facility's term was extended to January 2005 from August 2004 and its credit
+limit was increased from $2.5 million to $3.5 million.
+
+RESULTS OF OPERATIONS
+
+As an aid to understanding our operating results, the following table shows
+items from our consolidated statement of operations expressed as a percent of
+sales:
+
+                                             Percent of Net Sales
+                                          for Year Ended December 31
+                                           2004       2003       2002
+                                          -----      -----      -----
+
+Sales                                     100.0%     100.0%     100.0%
+Cost of Products                           56.0       61.4       73.6
+                                          -----      -----      -----
+Gross Margin                               44.0       38.6       26.4
+Selling, General, and Administrative      (34.7)     (32.2)     (40.5)
+   Expenses
+
+Loss on notes receivable                     --         --       (6.7)
+Interest Expense                           (1.4)      (2.2)      (2.9)
+Other Income                                0.1        0.3        1.0
+                                          -----      -----      -----
+Pretax Income (loss)                        8.0        4.5      (22.7)
+Income Tax Benefit (Expense)               30.1       (0.1)        --
+                                          -----      -----      -----
+Net Income (loss)                          38.1%       4.4%     (22.7%)
+                                          =====      =====      =====
+
+FISCAL YEAR 2004 COMPARED WITH FISCAL YEAR 2003
+
+SALES
+
+Net sales for the year ended December 31, 2004 increased approximately $0.9
+million (4.7%) to approximately $20.7 million from $19.7 million for 2003.
+
+                                       12
+<PAGE>
+
+Sales from new products for both of our market segments (government and public
+safety, and business and industrial) increased approximately $4.7 million
+(83.7%) for the year ended December 31, 2004 compared to the same period last
+year. This includes sales of our BK Radio-brand digital products that are
+compliant with the APCO Project 25 standard and sold principally to agencies of
+federal, state and local governments, as well as sales of RELM-brand products
+sold to business and commercial concerns. These products were introduced at
+various times during 2003 and 2004. Sales of conventional analog products
+decreased approximately $3.8 million (27.1%) for the year ended December 30,
+2004 compared to the same period last year, as users migrated to newer, more
+feature-rich products, in many cases with digital APCO Project 25 technology.
+More new products are planned for introduction in 2005, including additional
+APCO Project 25 digital products. We believe these planned new products combined
+with the new products that have already been introduced will contribute to the
+growth of total sales.
+
+To capitalize on the advantages of our new products and the accelerating
+migration to APCO Project 25 digital products, we expanded our sales and
+marketing staff and activities in 2004. We expect to continue this focus in
+2005, to aggressively pursue opportunities with both state and federal
+government agencies.
+
+COST OF SALES AND GROSS MARGINS
+
+Cost of sales as a percentage of sales for the year ended December 31, 2004
+decreased to 56.0% from 61.4% for 2003.
+
+Contract manufacturing relationships have helped improve our production
+efficiencies and reduce material and labor costs. They have also enabled us to
+effectively control internal manufacturing support expenses. Furthermore,
+increased sales volumes have enabled us to more fully utilize and absorb our
+base of manufacturing support expenses. As volumes increase, we believe
+additional efficiencies and cost reductions can be realized. We continuously
+evaluate manufacturing alternatives to improve quality and reduce our product
+costs. We anticipate that the current contract manufacturing relationships or
+comparable alternatives will be available to us in the future.
+
+The mix of products in our total sales has also contributed to improved margins.
+Sales of higher-specification products to government and public-safety
+customers, including APCO Project 25 digital products, and sales of new RELM
+analog products comprised a greater portion of our total sales for 2004 compared
+to 2003.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+
+Selling, general and administrative ("SG&A") expenses consist of marketing,
+sales, commissions, engineering, development, management information systems,
+accounting and headquarters expenses. For the year ended December 31, 2004, SG&A
+expenses totaled approximately $7.2 million (34.7% of sales) compared to
+approximately $6.4 million (32.2% of sales) for 2003.
+
+The overall increase in SG&A expenses is attributed primarily to increases in
+product development and selling and marketing initiatives.
+
+Product development and engineering staff and expenses increased by
+approximately $0.4 million (27.4%) for the year ended December 31, 2004 compared
+to 2003. This increase is intended to expedite the completion and introduction
+of new products, including additional APCO Project 25 digital products. Bringing
+such products to market and achieving a significant share of the market will
+continue to require substantial investment. Our internal development efforts are
+focused on our digital product program. This program is planned to yield
+
+                                       13
+<PAGE>
+
+additional products through 2006. We anticipate that these products will be a
+primary source of sales growth in the future.
+
+Sales and marketing expenses increased by approximately $0.4 million (16.0%) for
+the year ended December 31, 2004 compared to 2003. We incurred additional
+marketing and promotion expenses for initiatives designed to drive sales growth,
+particularly from government and public safety opportunities for APCO Project 25
+digital products. Sales commissions as a percentage of sales decreased during
+the year as a greater portion of our sales were made through direct channels or
+at reduced rates, partially offsetting the additional staff and expenses.
+
+General and administrative expenses for the year ended December 31, 2004
+remained constant compared to 2003, totaling approximately $2.3 million (10.9%
+of sales).
+
+OPERATING INCOME
+
+Operating income for the year ended December 31, 2004 increased approximately
+$0.7 million (52.0%) to approximately $1.9 million compared to approximately
+$1.3 million for 2003. The improvement is attributed to sales growth and product
+mix as well as product and manufacturing improvements which reduced product
+costs.
+
+INTEREST EXPENSE
+
+For the year ended December 31, 2004, interest expense decreased by
+approximately $151,000 (34.2%) to $291,000 from $442,000 for 2003. We incurred
+interest expense on our revolving line of credit and our subordinated
+convertible notes. The interest rate on our revolving line of credit is variable
+and will fluctuate with the prime lending rate. The interest rate on the mature
+convertible notes was 8% per annum. Primarily as a result of cash generated from
+improved operations and warrant exercises, the outstanding principal balance on
+the revolving line of credit was lower during 2004 compared to the prior year.
+
+The convertible notes matured on December 31, 2004. Notes totaling $2.25 million
+were repaid and retired on that date. As of December 31, 2004, notes totaling
+$700,000 remained outstanding. The rights for these notes to convert and to earn
+interest expired on December 31, 2004. Notes totaling $550,000 were tendered,
+repaid and retired in January 2005. One note totaling $150,000 presently remains
+outstanding.
+
+INCOME TAXES
+
+The income tax benefit for the year ended December 31, 2004 was approximately
+$6.2 million compared to income tax expense of $13,000 for 2003.
+
+As of December 31, 2004, we recognized a deferred tax asset of approximately
+$6.3 million, net of a valuation allowance of approximately $7.0 million. This
+asset is primarily composed of net operating loss carry forwards (NOL's). These
+NOL's total $29.2 million for federal purposes and $31.0 million for state
+purposes, with expirations starting in 2005 through 2024.
+
+In order to fully realize the net deferred tax asset, we will need to generate
+sufficient taxable income in future years prior to the expiration of our NOL's.
+Statement of Financial Accounting Standards No. 109, "Accounting for Income
+Taxes" (Statement 109) requires us to analyze all positive and negative evidence
+to determine if, based on the weight of available evidence, we are more likely
+
+                                       14
+<PAGE>
+
+than not to realize the benefit of the net deferred tax asset. The recognition
+of the net deferred tax asset and corresponding tax benefit is based upon our
+conclusions regarding, among other considerations, our estimates of future
+earnings based on information currently available, our current and anticipated
+customers, contracts and product introductions, as well as recent operating
+results during 2004, 2003 and 2002, and certain tax planning strategies.
+
+We have evaluated the available evidence and the likelihood of realizing the
+benefit of our net deferred tax asset. From our evaluation we have concluded
+that based on the weight of available evidence we are more likely than not to
+realize the benefit of our net deferred tax assets recorded at December 31,
+2004. Therefore, in the fourth quarter 2004, we reduced our valuation allowance
+to approximately $7.0 million at December 31, 2004 from $13.2 million at
+December 31, 2003, recognizing a net deferred tax asset on our balance sheet of
+approximately $6.3 million and a corresponding deferred tax benefit on our
+statement of operations of $6.2 million.
+
+We cannot presently estimate what, if any, changes to the valuation of our
+deferred tax asset may be deemed appropriate in the future. If we incur future
+losses, it may be necessary to reduce some or the entire net deferred net tax
+asset recognized as of December 31, 2004.
+
+FISCAL YEAR 2003 COMPARED WITH FISCAL YEAR 2002
+
+SALES
+
+Total sales for the year ended December 31, 2003 increased $3.7 million (23.1%)
+to approximately $19.7 million from approximately $16.0 million for the year
+2002.
+
+Sales for BK Radio products, targeted for the government and public safety
+market of the LMR market, increased approximately $3.5 million (29.6%) compared
+to the prior year. The increase in sales for the BK Radio product line, as well
+as the increase in total sales, were driven principally by the introduction of a
+new digital portable radio, the DPH. The DPH complies with the Project 25
+Standard of APCO. This product received approval from the FCC in March 2003, and
+in July 2003 was included on the U.S. Department of Interior contract for
+digital LMR equipment. We are aggressively pursuing additional opportunities
+with various federal and state government agencies for this product. Additional
+APCO Project 25 digital products are planned for 2004 and 2005.
+
+For the year ended December 31, 2003, sales in the business and industrial
+market, served by RELM-branded and Uniden-branded products, increased
+approximately $0.2 million (6.0%) when compared to the prior year. During 2003,
+we introduced a new line of portable radios to address this market, the RELM RP
+Series. The RP products are full-featured but low-cost, allowing us to compete
+more effectively in the highly competitive business and industrial market. We
+also expanded our channels to market for these products. Growth in revenues for
+RELM-branded products was partially offset by declines in other products, due in
+part to the migration of some customers to the new RP Series.
+
+To capitalize on the advantages of our new products, we expanded our sales and
+marketing efforts in 2003. We initially established regional direct sales
+resources in other parts of the U.S, among other initiatives. These efforts are
+under the direction of a sales and marketing management team that was put in
+place in 2003. As sales increase we anticipate further expanding sales and
+marketing initiatives.
+
+                                       15
+<PAGE>
+
+COST OF SALES AND GROSS MARGINS
+
+Cost of sales as a percentage of sales for the year ended December 31, 2003
+decreased to 61.4% from 73.6% for the prior year. Continuing programs initiated
+in 2000 further expanded our use of contract manufacturing resources. All of our
+products are now produced using such resources. Our contract manufacturing
+relationships have improved efficiencies and resulted in lower material and
+labor costs for all our products. They have enabled us to also reduce our
+internal manufacturing support expenses. Furthermore, increased sales volumes
+have enabled us to more fully utilize and absorb the smaller base of
+manufacturing support expenses. As volumes increase, we believe additional
+efficiencies and cost reductions may be realized.
+
+We continuously evaluate manufacturing alternatives to further reduce our
+product costs. We anticipate that the current contract manufacturing
+relationships or comparable alternatives will be available to the company in the
+future.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+
+For the year ended December 31, 2003, SG&A expenses decreased approximately
+$126,000 (2.0%) to $6.4 million or 32.2% of sales from $6.5 million or 40.5% of
+sales for the prior year.
+
+This decrease is primarily the result of reduced administrative staffing and
+expenses as well as the completion of certain engineering initiatives. Also,
+several non-recurring expenses were recognized in the prior year, all of which
+pertained to old business lines and were unrelated to our current LMR
+operations. They included the following items: (1) writing-off the unamortized
+cost ($211,000) of a technology license, 2) writing-off the unamortized cost
+($120,000) of an investment banking agreement, and 3) severance and other
+expenses ($195,000) associated with restructuring our sales and marketing
+organization.
+
+The aforementioned decreases enabled us to expand our digital development
+program in 2003, with the objective of speeding the completion of additional
+APCO Project 25 products to complement the DPH. Bringing such products to market
+and achieving a significant share of the market will continue to require
+substantial investment to complete research and development and to achieve
+market penetration.
+
+Our internal development efforts are focused entirely on our digital product
+development program. During 2003, expenses related to this project totaled
+approximately $0.8 million.
+
+We also increased our investment in sales and marketing initiatives during 2003
+to capitalize on the advantages of our new products. Regional direct sales
+resources were placed in parts of the U.S., among other initiatives. As sales
+increase we anticipate expanding sales and marketing initiatives. Generally
+selling commission expenses vary in approximate proportion to sales. Increased
+selling commission expenses in 2003 were driven by sales growth.
+
+General and administrative expenses include a one-time charge of $140,000
+related to the March 2004 settlement of a legal matter described in Item 3 of
+this report.
+
+INTEREST EXPENSE
+
+For the year ended December 31, 2003, interest expense decreased by
+approximately $14,000 (3.1%) to $442,000 from $456,000 in 2002. We incur
+interest expense on our revolving line of credit and our subordinated
+convertible notes. The interest rate on our revolving line of credit is variable
+
+                                       16
+<PAGE>
+
+and fluctuated with the prime lending rate. The interest rate on the convertible
+notes is 8% per annum. The effective interest rate on our revolving line of
+credit was lower during 2003 as a result of the reductions in the prime lending
+rate, and our new revolving line of credit. Also, primarily as a result of
+improved operations, the outstanding principal balance on the revolver and our
+new revolver was reduced during the second half of 2003.
+
+INCOME TAXES
+
+Income tax expense for the years ended December 31, 2003 and 2002 was
+approximately $13,000 and $0, and represented effective tax rates of 1.3% and
+0%. These tax rates are made up of a 34% effective tax rate, the respective
+state tax rates where we do business, and changes in valuation allowances
+related to deferred tax assets. For tax purposes, as of December 31, 2003 and
+2002, we have federal and state net operating loss carryforwards of
+approximately $34.0 million and $35.0 million, respectively. These net operating
+loss carryforwards begin to expire, for federal and state purposes, in 2004. In
+accordance with Statement 109, valuation allowances are provided against
+deferred tax assets if, based on the weight of available evidence, it is more
+likely than not that some or all of the deferred tax assets will not be
+realized. We evaluated the realizability of the deferred tax assets on our
+balance sheet and believe that we have not met the more likely than not
+criteria; therefore we have established a valuation allowance in the amount of
+approximately $13.2 and $14.4 million against our deferred tax assets at
+December 31, 2003 and 2002, respectively. The federal and state net operating
+loss and tax credit carryforwards could be subject to limitation if, within any
+three year period prior to the expiration of the applicable carryforward period,
+there is a greater than 50% change in ownership of RELM.
+
+INFLATION AND CHANGING PRICES
+
+Inflation and changing prices for the years ended December 31, 2004, 2003, and
+2002 have contributed to increases in wages, facilities, and certain raw
+material costs. These inflationary effects were more than offset by reduced
+manufacturing costs associated our initiatives to utilize low-cost contract
+manufacturers.
+
+DIVIDENDS
+
+No cash dividends have been paid with respect to our common stock during the
+past five years. We intend to retain our earnings to fund growth and, therefore,
+do not intend to pay dividends in the foreseeable future. In addition, our
+revolving credit line restricts our ability to pay dividends.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+For the year ended December 31, 2004, net cash provided by operating activities
+totaled approximately $2.3 million compared to $0.3 million in 2003. The
+increase in cash provided by operations is primarily attributable to net income
+for the year of approximately $7.9 million compared to net income of
+approximately $0.9 million for 2003. The increase in net income was largely
+offset by the recognition in 2004 of a net deferred tax asset totaling $6.3
+million. Last year, deferred tax assets were fully reserved and effectively not
+recognized. Changes in components of working capital, particularly inventory,
+also contributed to cash provided by operations.
+
+Inventory net of reserve decreased in 2004 by approximately $1.0 million as a
+result of improved sales from items in existing inventory compared to an
+inventory reduction of approximately $2.2 million during the same period last
+year. Accounts payable in 2004 decreased approximately $0.4 million compared to
+a reduction of approximately $1.2 million for the same period last year. Sales
+
+                                       17
+<PAGE>
+
+growth during 2004 and extended terms offered during the year to certain
+customers increased accounts receivable by approximately $0.8 million, compared
+to an increase of approximately $2.1 million for 2003. Depreciation and
+amortization totaled approximately $0.7 million for 2004, which was
+approximately the same as in 2003.
+
+Cash used in investing activities was primarily to fund the acquisition of
+equipment pertaining to our development of new digital products and computer
+equipment. Capital expenditures for 2004 were approximately $0.3 million
+compared to approximately $0.2 million last year. We anticipate that future
+capital expenditures will be funded through existing cash balances, operating
+cash flow and our revolving line of credit.
+
+Net cash totaling approximately $0.1 million was used in financing activities
+for 2004 compared to approximately $0.5 million last year. During 2004, we
+repaid the entire balance, approximately $1.3 million, on our revolving line of
+credit, compared to repayments totaling $0.7 million last year. We also repaid
+$2.25 million of our subordinated convertible notes in 2004. There were no note
+repayments last year. We received approximately $3.4 million in net proceeds
+from the exercise of our outstanding public warrants prior to the completion of
+our redemption of the warrants in June 2004.
+
+In October 2004, our revolving line of credit was extended until January 2007.
+Also, certain terms and conditions of the credit agreement were modified, which
+will reduce related costs and ease reporting requirements. The original
+agreement of August 2003 provided a $2.5 million revolving line of credit for
+one year, secured by substantially all of the Company's assets, principally
+trade receivables and inventory. Earlier in 2004, the facility's term was
+extended to January 2005 from August 2004 and its credit limit was increased
+from $2.5 million to $3.5 million. Under the formula for calculating the
+available credit on our facility, approximately $3.4 million was available as of
+December 31, 2004. The credit agreement contains covenants with which we must
+comply. As of December 31, 2004, we were in compliance with all such covenants.
+
+During the year ended December 31, 2004, certain of our convertible subordinated
+notes were converted into 106,384 shares of common stock. As a result of the
+conversions, the total amount due under the notes was reduced by $0.2 million.
+The convertible subordinated notes matured on December 31, 2004. Notes totaling
+$2.25 million were repaid and retired on that date. As of December 31, 2004,
+notes totaling $700,000 remained outstanding. The rights for these notes to
+convert to RELM common stock and to earn interest expired on December 31, 2004.
+Notes totaling $550,000 were tendered, repaid and retired in January 2005.
+Currently, one note totaling $150,000 remains outstanding.
+
+Our cash balance at December 31, 2004 was approximately $3.1 million. We believe
+these funds combined with cash generated from operations and borrowing
+availability under our credit facility are sufficient to meet our current
+working capital requirements for the next twelve months. If sales volumes
+increase substantially, additional sources of working capital may be required to
+fulfill the demand.
+
+                                       18
+<PAGE>
+
+The following table sets forth the Company's future contractual obligations as
+of December 31, 2004:
+
+                                 (IN THOUSANDS)
+
+                                        2005     2006     2007     2008     2009
+                                       -----    -----    -----    -----    -----
+Future minimum lease commitments         493      486      486      486      486
+                                       -----    -----    -----    -----    -----
+Convertible subordinated notes           700        0        0        0        0
+                                       -----    -----    -----    -----    -----
+Revolving credit facility                  0        0        0        0        0
+                                       -----    -----    -----    -----    -----
+Purchase orders                        3,737        0        0        0        0
+                                       -----    -----    -----    -----    -----
+
+We lease approximately 54,000 square feet of industrial space at 7100 Technology
+Drive in West Melbourne, Florida. The original lease term is five years, which
+expires on June 30, 2005, with a renewal option of 5 years. We exercised the
+renewal option in February 2005. Rental, maintenance and tax expenses for this
+facility were approximately $378,000, $384,000 and $395,000 in 2002, 2003 and
+2004, respectively. We also lease 3,800 square feet of office space in Lawrence,
+Kansas, to accommodate a segment of our engineering team. This lease has a term
+of two years and expires on April 15, 2005. Rental, maintenance and tax expenses
+for this facility were approximately $20,000, $33,000 and $32,000 in 2002, 2003,
+and 2004, respectively. In April 2005, our engineering team will relocate to
+8,111 square feet of leased office and laboratory space, which is in close
+proximity to its present location. In January 2005, we executed a lease for this
+space, which expires December 31, 2009.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+In November 2004, the FASB issued Statement of Financial Accounting Standards
+No. 151, "Inventory Costs - an amendment of ARB No. 43, Chapter 4" (Statement
+151). This statement amends the guidance in ARB No. 43, Chapter 4, "Inventory
+Pricing," to clarify the accounting for abnormal amounts of idle facility
+expense, freight, handling costs, and wasted material (spoilage). As currently
+worded in ARB 43, Chapter 4, the term "so abnormal" was not defined and its
+application could lead to unnecessary noncomparability of financial reporting.
+This Statement eliminates that term and requires that those items be recognized
+as current-period charges regardless of whether they meet the criterion of "so
+abnormal." In addition, this Statement requires that allocation of fixed
+production overhead to the costs of conversion be based on the normal capacity
+of the production facilities. The adoption of Statement 151 will not have a
+material impact on the Company's consolidated financial statements.
+
+In December 2004, the FASB issued Statement of Financial Accounting Standards
+No. 152, "Accounting For Real Estate Time-Sharing Transactions - an amendment of
+FASB Statements No. 66 and 67" (Statement 152). This Statement amends FASB
+Statement No. 66, "Accounting for Sales of Real Estate", to reference the
+financial accounting and reporting guidance for real estate time-sharing
+transactions that is provided in AICPA Statement of Position (SOP) 04-2,
+"Accounting for Real Estate Time-Sharing Transactions." This Statement also
+amends FASB Statement No. 67, "Accounting for Costs and Initial Rental
+Operations of Real Estate Projects," to state that the guidance for (a)
+incidental operations and (b) costs incurred to sell real estate projects does
+not apply to real estate time-sharing transactions. The accounting for those
+operations and costs is subject to the guidance in SOP 04-2. This Statement is
+effective for financial statements for fiscal years beginning after June 15,
+2005. The adoption of Statement 152 will not have a material impact the
+Company's consolidated financial statements.
+
+In December 2004, the FASB issued Statement of Financial Accounting Standards
+No. 153, "Exchanges of Non-monetary Assets - an amendment of APB Opinion No. 29"
+(Statement 153). This Statement amends Opinion 29 to eliminate the exception for
+non-monetary exchanges of similar productive assets and replaces it with a
+general exception for exchanges of non-monetary assets that do not have
+commercial substance. A non-monetary exchange has commercial substance if the
+future cash flows of the entity are expected to change significantly as a result
+of the exchange. The adoption of FAS 153 will not have a material impact on the
+Company's consolidated financial statements.
+
+                                       19
+<PAGE>
+
+In December 2004, the FASB issued a revision to Statement of Financial
+Accounting Standards No. 123, "Share-Based Payment" (Statement 123). This
+Statement requires a public entity to measure the cost of employee services
+received in exchange for an award of equity instruments based on the grant-date
+fair value of the award (with limited exceptions). That cost will be recognized
+over the period during which the employee is required to provide service in
+exchange for the award requisite service period (usually the vesting period). No
+compensation cost is recognized for equity instruments for which employees do
+not render the requisite service. Employee share purchase plans will not result
+in recognition of compensation cost if certain conditions are met; those
+conditions are much the same as the related conditions in Statement 123. This
+Statement is effective for public entities that do not file as a small business
+issuers as of the beginning of the first interim or annual reporting period that
+begins after June 15, 2005. This Statement applies to all awards granted after
+the required effective date and to awards modified, repurchased, or cancelled
+after that date. The cumulative effect of initially applying this Statement, if
+any, is recognized as of the required effective date and is not expected to have
+a material impact of the Company's consolidated financial statements.
+
+FORWARD-LOOKING STATEMENTS
+
+This report contains certain forward-looking statements within the meaning of
+Section 27A of the Securities Act and Section 21E of the Securities Exchange Act
+of 1934, as amended. Such forward-looking statements concern the Company's
+operations, economic performance and financial condition. Such statements
+involve known and unknown risks, uncertainties and other factors that may cause
+the actual results, performance or achievements of the Company, or industry
+results, to be materially different from any future results, performance or
+achievements expressed or implied by such forward-looking statements. Such
+factors include, among others, the following: general economic and business
+conditions; changes in customer preferences; competition; changes in technology;
+the integration of any acquisitions; changes in business strategy; the
+indebtedness of the Company; quality of management, business abilities and
+judgment of the Company's personnel; the availability, terms and deployment of
+capital; and various other factors referenced in this Report under "Risk
+Factors" and elsewhere. The words "believe," "estimate," "expect," "intend,"
+"anticipate" and similar expressions and variations thereof identify certain of
+such forward-looking statements. The forward-looking statements are made as of
+the date of this Report, and the Company assumes no obligation to update the
+forward-looking statements or to update the reasons why actual results could
+differ from those projected in the forward-looking statements. Readers are
+cautioned not to place undue reliance on these forward-looking statements.
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISKS
+
+We are subject to the risk of fluctuating interest rates in the ordinary course
+of business for borrowings under our revolving credit facility. The lender
+presently charges interest at the 1.00% over the prime rate.
+
+Our primary exposure to market risk is to changes in interest rates. We have no
+variable rate debt under our revolving line of credit as of December 31, 2004.
+As debt instruments mature, we refinance such debt at the existing market
+interest rates, which may be more or less than interest rates on the maturing
+debt. Interest rate changes on variable debt impacts the interest incurred and
+cash flows but does not impact the net market value of the debt instrument.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+In response to the SEC's financial reporting release, FR-60, Cautionary Advice
+Regarding Disclosure About Critical Accounting Policies, we have selected for
+disclosure our revenue recognition process and our more subjective accounting
+
+                                       20
+<PAGE>
+
+estimation processes. These processes affect our reported revenues and current
+assets and are therefore critical in assessing the financial and operation
+status of the Company. The processes for determining the allowance for
+collection of trade receivables and the reserves for excess or obsolete
+inventory involve certain assumptions that if incorrect could create an adverse
+impact on the Company's operations and financial position.
+
+REVENUE
+
+Sales revenue are recognized when the earnings process is complete and
+collection is reasonably assured. The earnings process is generally complete
+when the product is shipped, or received by the customer, depending upon whether
+the title to the goods, as well as the risks and benefits of ownership are
+transferred to the customer at point of shipment or point of delivery. We
+periodically review our revenue recognition procedures to assure that such
+procedures are in accordance with accounting principles generally accepted in
+the United States and Staff Accounting Bulletin No. 104.
+
+ALLOWANCE FOR COLLECTION LOSSES
+
+The allowance for collection losses was approximately $89,000 on gross trade
+receivables of approximately $3.8 million as of December 31, 2004. This
+allowance is used to state trade receivables at a net realizable value or the
+amount that we estimate will be collected on our gross receivables as of
+December 31, 2004. Because the amount that we will actually collect on the
+receivables outstanding as of December 31, 2004 cannot be known with certainty
+as of this document's effective date, we rely on prior experience. Our
+historical collection losses have typically been infrequent with write-offs of
+trade receivables being significantly less than 1% of sales. We maintain a
+general allowance of approximately 1% to 5% of the gross trade receivables
+balance in order to allow for future collection losses that arise from customer
+accounts that do not indicate the inability to pay but turn out to have such an
+inability. Currently, our allowance on trade receivables is 2.3% of gross
+receivables. We believe that revenues and total receivables will increase during
+2005, and accordingly, we may experience an increase in this allowance balance.
+We also maintain a specific allowance for customer accounts that we know may not
+be collectible due to various reasons such as bankruptcy and other customer
+liquidity issues. We analyze our trade receivable portfolio based on the age of
+each customer's invoice. In this way, we can identify those accounts that are
+more likely than not to have collection problems. We may reserve a portion or
+all of the customer's balance.
+
+INVENTORY RESERVE
+
+The reserve for slow-moving, excess, or obsolete inventory was $2.5 million at
+December 31, 2004 as compared to $2.8 million in 2003. The reserve for excess or
+obsolete inventory is used to state our inventories at the lower of cost or
+market. Because the amount of inventory that we will actually recoup through
+sales of our inventory as of December 31, 2004 cannot be known with certainty as
+of this document's effective date, we rely on past sales experience, future
+sales forecasts, and our strategic business plans. Generally, in analyzing our
+inventory levels, we classify inventory as having been used or unused during the
+past year. For raw material inventory with no usage in the past year, we reserve
+85% of its cost which takes into account a 15% scrap value while for finished
+goods inventory with no usage in the past year we reserve 80% of its costs. For
+inventory with usage in the past year, we review the average annual usage over
+the past three years, project that amount over five years, and then reserve 25%
+of the excess amount (in which the excess amount equals inventory on hand less a
+five year projected usage amount). We believe that 25% represents the value of
+excess inventory we would not be able to recover due to new product
+introductions and other technological advancements over the next five years.
+
+                                       21
+<PAGE>
+
+INCOME TAXES
+
+The Company accounts for income taxes using the asset and liability method.
+Deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using the enacted tax
+rates expected to apply in the period in which the deferred tax asset or
+liability is expected to be realized. The effect of changes in net deferred tax
+assets and liabilities is recognized on the Company's balance sheet and
+statement of operations in the period in which the change is recognized.
+Valuation allowances are provided to the extent that impairment of tax assets
+are more likely than not. In determining whether a tax asset is realizable, the
+Company considers among other things, estimates of future earnings based on
+information currently available, current and anticipated customers, contracts
+and new product introductions, as well as recent operating results during 2004,
+2003 and 2002, and certain tax planning strategies. If the Company fails to
+achieve the future results anticipated in the calculation and valuation of net
+deferred tax assets, the Company may be required to reduce its deferred tax
+assets in the future.
+
+                                  RISK FACTORS
+
+OUR INDUSTRY IS CHARACTERIZED BY RAPIDLY CHANGING TECHNOLOGY
+
+Our business could suffer if we are unable to keep pace with rapid technological
+changes and product development in our industry. The market for our LMR products
+is characterized by ongoing technological development, evolving industry
+standards and frequent product introductions. The LMR industry is experiencing a
+transition from analog LMR products to digital LMR products. In addition, a new
+standard for LMR equipment (the APCO 25 Standard) is being increasingly adopted
+and the market demand for APCO 25 products is growing.
+
+WE DEPEND ON THE SUCCESS OF OUR LMR PRODUCT LINE
+
+We currently depend on our LMR products as our sole source of sales. A decline
+in the price of or demand for LMR products as a result of competition,
+technological change, the introduction of new products by us or others, a
+failure to manage product transitions successfully, could cause our business,
+financial condition and results of operations to suffer. In addition, our future
+success will largely depend on the successful introduction and sale of new
+analog and digital LMR products. Even if we successfully develop these products,
+we cannot guarantee that they will achieve market acceptance.
+
+WE ARE ENGAGED IN A HIGHLY COMPETITIVE INDUSTRY
+
+We face intense competition from other LMR manufacturers, and the failure to
+compete effectively could adversely affect our market share and results of
+operations. We face intense competition from several companies currently
+offering LMR products. The largest producer of LMR products in the world
+currently is estimated to have in excess of 70% of the market for LMR products.
+This producer is also the world's largest producer of APCO 25 products. Some of
+our competitors are significantly larger and have longer operating histories,
+greater name recognition, larger customer bases and significantly greater
+financial, technical and marketing resources than we have. Some also have
+established reputations for success in developing and producing LMR products.
+These advantages may allow them:
+
+                                       22
+<PAGE>
+
+     o   to respond more quickly to new or emerging technologies and changes in
+         customer requirements which may render our products obsolete or less
+         marketable;
+
+     o   to engage in more extensive research and development;
+
+     o   to undertake more far-reaching marketing campaigns;
+
+     o   to be able to take advantage of acquisitions and other opportunities;
+
+     o   to adopt more aggressive pricing policies; and
+
+     o   make more attractive offers to potential employees, strategic partners
+         and advertisers.
+
+Many of our competitors have established extensive networks of retail locations
+and multiple distribution channels, and so enjoy a competitive advantage over us
+in these areas as well. We may not be able to compete successfully and
+competitive pressures may materially and adversely affect our business, results
+of operations and financial condition.
+
+An increase in the demand for APCO Project 25 products, could benefit
+competitors who are better financed and have inventories that will meet such
+demand. APCO 25 products have already been brought to the market by several of
+our competitors. Our first APCO Project 25 portable radio was brought to market
+in 2003. Bringing such products to market and achieving a significant market
+penetration for these products will continue to require substantial expenditure
+of funds. There can be no assurance that we will be successful in developing and
+marketing, on a timely basis, fully functional product enhancements or new
+products that respond to these and other technological advances, or that our new
+products will be accepted by customers. An inability to successfully develop
+products could have a material adverse effect on our business, results of
+operations and financial condition.
+
+GOVERNMENT AGENCIES MAY INCUR BUDGET DEFICITS AND BUDGETS MAY BE LIMITED
+
+Government budget deficits at the federal, state and local levels continue to be
+a spending factor for certain government agencies. We expect continued
+prioritization of limited funds for public safety applications. However, we have
+no assurance that funding for areas where our products may be deployed will not
+be reduced or even eliminated.
+
+WE DEPEND ON A FEW MANUFACTURERS TO PRODUCE OUR PRODUCTS AND ON A FEW SUPPLIERS
+OF COMPONENTS
+
+We contract with manufacturers to produce our products and our dependence on a
+limited number of contract manufacturers exposes us to certain risks, including
+shortages of manufacturing capacity, reduced control over delivery schedules,
+quality assurance, production yield and costs. If any of our manufacturers
+terminate production or cannot meet our production requirements, we may have to
+rely on other contract manufacturing sources or identify and qualify new
+contract manufacturers. The lead-time required to qualify a new manufacturer
+could range from approximately two to six months. Despite efforts to do so, we
+may not be able to identify or qualify new contract manufacturers in a timely
+and cost effective manner and these new manufacturers may not allocate
+sufficient capacity to us in order to meet our requirements. Any significant
+delay in our ability to obtain adequate quantities of our products from our
+
+                                       23
+<PAGE>
+
+current or alternative contract manufacturers could cause our business,
+financial condition and results of operations to suffer.
+
+In addition, our dependence on limited and sole source suppliers of components
+involves several risks, including a potential inability to obtain an adequate
+supply of components, price increases, late deliveries and poor component
+quality. Disruption or termination of the supply of these components could delay
+shipments of our products. The lead-time required for orders of some of our
+components is as much as six months. In addition, the lead-time required to
+qualify new suppliers for our components is as much as six months. If we are
+unable to accurately predict our component needs, or if our component supply is
+disrupted, we may miss market opportunities by not being able to meet the demand
+for our products. This may damage our relationships with current and prospective
+customers.
+
+WE DEPEND HEAVILY ON SALES TO THE UNITED STATES GOVERNMENT
+
+We are subject to risks associated with our reliance on sales to the U.S.
+Government. For the year ended December 31, 2004, approximately 46% of our LMR
+sales were to agencies and departments of the federal government. These sales
+were primarily to the USFS and DOI. There can be no assurance that we will be
+able to maintain this government business. Our ability to maintain our
+government business will depend on many factors outside of our control,
+including competitive factors, changes in government personnel making contract
+decisions, and political factors. The loss of sales to the U.S. Government would
+have a material adverse effect on our business, financial condition and results
+of operations.
+
+RETENTION OF OUR EXECUTIVE OFFICERS AND KEY PERSONNEL IS CRITICAL TO OUR
+BUSINESS
+
+Our success is largely dependent on the personal efforts of our President and
+Chief Executive Officer, our Chief Financial Officer, our Vice President of
+Operations and our Engineering Vice Presidents. We do not have employment
+agreements with these individuals, and we cannot be sure that we will retain
+their services. The loss of any of their services could have a material adverse
+effect on our operations. In addition, we have not obtained key-person life
+insurance on any of our executive officers or key employees.
+
+Our success is also dependent upon our ability to hire and retain qualified
+operations, development and other personnel. Competition for qualified personnel
+in our industry is intense. There can be no assurance that we will be able to
+hire or retain necessary personnel. The inability to attract and retain
+qualified personnel could cause our business, financial condition, and results
+of operations to suffer.
+
+WE MAY NOT BE ABLE TO MANAGE OUR GROWTH
+
+Acquisitions and other business transactions may disrupt or otherwise have a
+negative impact on our business and results of operations. There can be no
+assurance that we will complete any additional asset purchases or other business
+transactions or that any such transactions which are completed will prove
+favorable to our business. We do not intend to seek stockholder approval for any
+such transactions unless required by applicable law or regulation. We hope to
+grow rapidly, and the failure to manage our growth could adversely affect our
+business. Our business plan contemplates, among other things, continued
+development of our LMR product lines through internal development as well as
+acquisitions, and, as a result, significant growth in our customer base. This
+growth and continued development, if it materializes, could place a significant
+strain on our management, employees, operations and financial capabilities. In
+the event of this expansion, we have to continue to implement and improve our
+operating systems and to expand, train, and manage our employee base. If we are
+
+                                       24
+<PAGE>
+
+unable to manage and integrate our expanding operations effectively, our
+business, results of operations, and financial condition could be adversely
+affected.
+
+WE ARE SUBJECT TO GOVERNMENT REGULATION
+
+Failure to comply with government regulations applicable to our business could
+result in penalties. Our LMR products are regulated by the Federal
+Communications Commission. We believe that we are in substantial compliance with
+all applicable federal regulations governing our operations and we believe that
+we have obtained all licenses necessary for the operation of our business.
+Failure to comply with these requirements and regulations or to respond to
+changes in these requirements and regulations could result in penalties on us
+such as fines, restrictions on operations or a temporary or permanent closure of
+our facility. These penalties could harm our operating results and cause a
+decline of our stock price. In addition, there can be no assurance that we will
+not be adversely affected by existing or new regulatory requirements or
+interpretations.
+
+WE ENGAGE IN BUSINESS WITH MANUFACTURERS LOCATED IN OTHER COUNTRIES
+
+We place a substantial amount of emphasis on manufacturing our product in other
+countries and, accordingly, we are subject to special considerations and
+significant risks not typically associated with companies operating in the
+United States. These include the risks associated with the political, economic
+and legal environments, among others. Our results may be affected by, among
+other things, changes in the political and social conditions in these countries,
+and changes in government policies with respect to laws and regulations,
+anti-inflation measures, currency conversion and rates and method of taxation.
+
+The governments of these countries may implement economic reform policies at any
+time. It is possible that changes in leadership could lead to changes in
+economic policy. Additionally, the laws and regulations applicable to us may be
+subject to change, which could have a material adverse effect on our business.
+
+WE CARRY SUBSTANTIAL QUANTITIES OF INVENTORY
+
+We carry a significant amount of inventory to service customer requirements in a
+timely manner. If we are unable to sell this inventory over a commercially
+reasonable time, we may be required to take inventory markdowns in the future,
+which could reduce our net sales and gross margins. In addition, it is critical
+to our success that we accurately predict trends in consumer demand, including
+seasonal fluctuations, in the future and do not overstock unpopular products or
+fail to sufficiently stock popular products. Both scenarios could harm our
+operating results.
+
+WE RELY ON A COMBINATION OF CONTRACT, TRADEMARK AND TRADE SECRET LAWS TO PROTECT
+OUR INTELLECTUAL PROPERTY RIGHTS
+
+The United States patents that we owned have expired. We have no plans to renew
+them. We hold several trademarks related to the "RELM" and BK Radio names. As
+part of our confidentiality procedures, we generally enter into non-disclosure
+agreements with our employees, distributors and customers, and limit access to
+and distribution of our proprietary information. We also rely on trade secret
+laws to protect our intellectual property rights. Although we believe that
+trademark protection, trade secret laws and non-disclosure agreements should
+prevent another party from manufacturing and selling competing products under
+one or more of our trademarks or otherwise violating our intellectual property
+rights, there can be no assurance that the steps we have taken to protect our
+
+                                       25
+<PAGE>
+
+intellectual property rights will be successful. It may also be particularly
+difficult to protect our products and intellectual property under the laws of
+certain countries in which our products are or may be manufactured or sold.
+
+OUR FLUCTUATING QUARTERLY OPERATING RESULTS COULD CAUSE VOLATILITY IN OUR STOCK
+PRICE
+
+Our quarterly operating results may fluctuate significantly from quarter to
+quarter and may be below the expectations of public market analysts and
+investors, resulting in volatility for the market price for our common stock.
+Other factors affecting the volatility of our stock price include:
+
+     o   future announcements concerning us or our competitors;
+
+     o   the announcement or introduction of technological innovations or new
+         products by us or our competitors;
+
+     o   changes in product pricing policies by us or our competitors;
+
+     o   changes in earnings estimates of us or our competitors by securities
+         analysts;
+
+     o   additions or departures of key personnel; and
+
+     o   sales of our common stock.
+
+RISK OF WAR AND TERRORISM
+
+Terrorist acts or acts of war (wherever located around the world) may cause
+damage or disruption to our business, employees, suppliers, distributors and
+resellers, and customers that could have an adverse effect on our operations and
+financial results. The economic uncertainty stemming from the terrorist attacks
+of September 11, 2001 may continue. While we cannot predict what impact a
+prolonged war on terrorism will have on the United States economy, we plan to
+control expenses, continue to invest in our business and make capital
+expenditures when they will increase productivity, profitably, or revenue.
+
+WE MAY BE SUBJECT TO COSTLY LITIGATION RESULTING IN AN ADVERSE AFFECT ON OUR
+FINANCIAL CONDITION
+
+We are currently involved in two lawsuits as a defendant or plaintiff. While
+there is no way to predict the success or failure of any litigation, we are
+vigorously defending those actions in which we are defendants. Although we
+believe our products and technology do not infringe on any proprietary rights of
+others, as the number of competing products available in the market increases
+and the functions of those products further overlap, infringement claims may
+increase. Any such claims, with or without merit, could result in costly
+litigation or might require us to enter into royalty or licensing agreements.
+Such royalty or licensing agreements, if required, may not be available on terms
+acceptable to us or at all. Any successful infringement claim could have a
+material adverse effect upon our business, results of operations and financial
+condition. In addition, agreements regarding the purchase or sale of certain
+assets and businesses require us to indemnify the purchasers or buyers of such
+assets or businesses for any damages they may suffer if third party claims give
+rise to losses. One indemnification claim is pending, for which we are insured.
+We cannot guarantee that there will not be future claims. Any such claims could
+require us to pay substantial damages, which could cause our business, financial
+condition and results of operations to suffer.
+
+                                       26
+<PAGE>
+
+CERTAIN PROVISIONS IN OUR CHARTER DOCUMENTS AND NEVADA LAW MAY DISCOURAGE A
+POTENTIAL TAKEOVER
+
+Certain provisions of our articles of incorporation and Nevada law could
+discourage or prevent potential acquisitions of our company that stockholders
+may consider favorable. Our articles of incorporation authorize the issuance of
+1,000,000 shares of "blank check" preferred stock with such designations, rights
+and preferences as may be determined from time to time by our Board of
+Directors. Preferred stock could be issued, under certain circumstances, as a
+method of discouraging, delaying or preventing a change in control of our
+company, which could be beneficial to our shareholders.
+
+OUTSTANDING STOCK OPTIONS AND WARRANTS MAY CAUSE DILUTION TO EXISTING
+SHAREHOLDERS AND LIMIT OUR ABILITY TO RAISE CAPITAL
+
+If outstanding warrants and options to purchase our common stock are exercised
+at a time when we otherwise could obtain a price for the sale of shares of our
+common stock which is higher than such securities' exercise prices, then
+existing shareholders would suffer dilution in the value of their shares of
+common stock. The exercise of the options and warrants and/or the conversion of
+outstanding notes, or the possibility of such exercise or conversion, may impede
+our ability to seek financing in the future through the sale of additional
+securities.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                                       27
+<PAGE>
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and Stockholders of
+RELM Wireless Corporation
+Melbourne, Florida
+
+We have audited the accompanying consolidated balance sheets of RELM Wireless
+Corporation (the "Company") as of December 31, 2004 and 2003, and the related
+consolidated statements of operations, changes in stockholders' equity, and cash
+flows for each of the years in the three-year period ended December 31, 2004.
+These financial statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements based
+on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes consideration of
+internal control over financial reporting as a basis for designing audit
+procedures that are appropriate in the circumstances, but not for the purpose of
+expressing an opinion on the effectiveness of the Company's internal control
+over financial reporting. Accordingly, we express no such opinion. An audit also
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, as well as evaluating the
+overall financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of RELM
+Wireless Corporation as of December 31, 2004 and 2003, and the consolidated
+results of its operations and its cash flows for each of the years in the
+three-year period ended December 31, 2004, in conformity with accounting
+principles generally accepted in the United States of America.
+
+                                                      /s/ BDO Seidman LLP
+                                                      -------------------
+                                                      BDO Seidman LLP
+
+Miami, Florida
+February 25, 2005
+
+                 See notes to consolidated financial statements.
+
+                                       F-1
+<PAGE>
+
+                            RELM Wireless Corporation
+                           Consolidated Balance Sheets
+                        (in Thousands, except share data)
+
+                                                        DECEMBER 31  December 31
+                                                            2004       2003
+                                                          -------     -------
+ASSETS
+------
+Current assets:
+    Cash and cash equivalents                             $ 3,140     $ 1,293
+    Trade accounts receivable (net of allowance for
+    doubtful accounts of $89 in 2004 and $61 in 2003)       3,651       2,880
+    Inventories, net                                        4,735       5,698
+    Deferred tax assets, net                                1,338          --
+    Prepaid expenses and other current assets                 326         374
+                                                          -------     -------
+Total current assets                                       13,190      10,245
+
+Property, plant and equipment, net                          1,291       1,468
+Debt issuance costs, net                                       --         171
+Deferred tax assets, net                                    4,924          --
+Other assets                                                  288         345
+                                                          -------     -------
+Total assets                                              $19,693     $12,229
+                                                          =======     =======
+
+                 See notes to consolidated financial statements.
+
+                                       F-2
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                     Consolidated Balance Sheets (continued)
+                        (in Thousands, except share data)
+<TABLE>
+<CAPTION>
+                                                                   December 31  December 31
+                                                                       2004         2003
+                                                                     --------     --------
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+------------------------------------
+<S>                                                                  <C>          <C>
+Current Liabilities:
+    Current maturities of long-term debt                             $    700     $  3,150
+    Accounts payable                                                      520          891
+    Accrued compensation and related taxes                                549          547
+    Accrued warranty expense                                              118           82
+    Accrued other expenses and other current liabilities                  352          302
+                                                                     --------     --------
+Total current liabilities                                               2,239        4,972
+
+Long-term debt                                                             --        1,272
+
+Commitments and Contingencies
+Stockholders' equity:
+    Preferred stock; $1.00 par value; 1,000,000
+    authorized shares none issued or outstanding                           --           --
+    Common stock; $.60 par value; 20,000,000 authorized shares:
+    12,872,618 and 9,073,085 issued and outstanding shares at
+    December 31, 2004 and 2003, respectively                            7,723        5,443
+    Additional paid-in capital                                         22,794       21,482
+    Accumulated deficit                                               (13,063)     (20,940)
+                                                                     --------     --------
+Total stockholders' equity                                             17,454        5,985
+
+                                                                     --------     --------
+Total liabilities and stockholders' equity                           $ 19,693     $ 12,229
+                                                                     ========     ========
+</TABLE>
+
+                 See notes to consolidated financial statements.
+
+                                       F-3
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                      Consolidated Statements of Operations
+                        (in Thousands, except share data)
+
+                                                   YEAR ENDED DECEMBER 31
+                                               2004         2003         2002
+                                             --------     --------     --------
+
+Sales                                        $ 20,656     $ 19,728     $ 15,978
+Expenses
+       Cost of products                        11,571       12,112       11,760
+       Selling, general & administrative        7,161        6,350        6,476
+       Loss on notes receivable                    --           --        1,075
+                                             --------     --------     --------
+                                               18,732       18,462       19,311
+                                             --------     --------     --------
+
+Operating income (loss)                         1,924        1,266       (3,333)
+Other income (expense):
+       Interest expense                          (291)        (442)        (456)
+       Other income (expense)                      27           57          158
+                                             --------     --------     --------
+Total other income (expense)                     (264)        (385)        (298)
+                                             --------     --------     --------
+
+Income (loss) before income taxes               1,660          881       (3,631)
+
+Income tax benefit (expense)                    6,217          (13)          --
+
+                                             --------     --------     --------
+Net income (loss)                            $  7,877     $    868     $ (3,631)
+                                             ========     ========     ========
+
+Net income (loss) per share-basic:           $   0.68     $   0.10     $  (0.47)
+
+Net income (loss) per share-diluted:         $   0.65     $   0.09     $  (0.47)
+
+Weighted average shares outstanding-basic      11,536        9,002        7,787
+                                             ========     ========     ========
+Weighted average shares outstanding-diluted    12,151        9,173        7,787
+                                             ========     ========     ========
+
+                 See notes to consolidated financial statements.
+
+                                       F-4
+
+<PAGE>
+
+                            RELM Wireless Corporation
+           Consolidated Statements of Changes in Stockholders' Equity
+                        (in Thousands, except share data)
+<TABLE>
+<CAPTION>
+                                                                        Additional
+                                         Common Stock                     Paid-In       Accumulated
+                                            Shares         Amount         Capital         Deficit          Total
+                                         -----------    -----------     -----------     -----------     -----------
+
+<S>                                        <C>          <C>             <C>             <C>             <C>
+Balance at December 31, 2001               5,346,174    $     3,207     $    21,452     $   (18,177)    $     6,482
+
+      Public rights offering               3,191,250          1,915             106              --           2,021
+
+      Other                                    2,664              1              (1)             --              --
+
+Net loss                                          --             --              --          (3,631)         (3,631)
+
+                                         -----------    -----------     -----------     -----------     -----------
+Balance at December 31, 2002               8,540,088          5,123          21,557         (21,808)          4,872
+
+      Common stock issued                    500,000            300              --              --             300
+      Common stock option exercise            32,500             20              (2)             --              18
+      Fees for registration of shares             --             --             (73)             --             (73)
+      Other                                      497             --              --              --              --
+      Net income                                  --             --              --             868             868
+
+                                         -----------    -----------     -----------     -----------     -----------
+Balance at December 31, 2003               9,073,085          5,443          21,482         (20,940)          5,985
+
+      Common stock issued                      6,542              4              16              --              20
+      Common stock option exercise            12,500              8               4              --              12
+      Common stock warrant exercise        3,673,527          2,204           1,156              --           3,360
+      Note conversion                        106,384             64             136              --             200
+      Other                                      580             --              --              --              --
+      Net income                                  --             --              --           7,877           7,877
+                                         -----------    -----------     -----------     -----------     -----------
+Balance at December 31, 2004              12,872,618    $     7,723     $    22,794     $   (13,063)    $    17,454
+                                         ===========    ===========     ===========     ===========     ===========
+</TABLE>
+
+                 See notes to consolidated financial statements.
+
+                                       F-5
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+                      Consolidated Statements of Cash Flow
+                (in Thousands, Except Share Data and Percentages)
+<TABLE>
+<CAPTION>
+
+                                                                  YEAR ENDED DECEMBER 31
+                                                               2004        2003        2002
+                                                             -------     -------     -------
+<S>                                                          <C>         <C>         <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income (loss)                                            $ 7,877     $   868     $(3,631)
+Adjustments to reconcile net income (loss) to net cash
+provided by operating activities:
+   Loss on notes receivable                                       --          --       1,075
+    Allowance for doubtful accounts                               28          (8)     (1,471)
+    Inventories reserve                                         (324)        200         283
+    Deferred tax benefit                                      (6,262)         --          --
+   Write down of investment banking agreement                     --          --         120
+   Write down of technology agreement                             --          --         211
+    Allowance for note receivable                                 --          35          --
+   Depreciation and amortization                                 678         675         787
+   Change in operating assets and liabilities:
+     Accounts receivable                                        (799)     (2,107)      4,303
+     Inventories                                               1,287       1,964         816
+     Accounts payable                                           (371)     (1,237)     (1,043)
+     Prepaid expenses and other current assets                    33         (63)        (13)
+     Other assets                                                 57        (243)        222
+     Accrued compensation and related taxes                        2          81         (66)
+     Accrued warranty expense                                     36         (21)         24
+     Accrued other expenses and other current liabilities         73         134         (83)
+                                                             -------     -------     -------
+NET CASH PROVIDED BY OPERATING ACTIVITIES                      2,315         278       1,534
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchases of property, plant and equipment                      (330)       (170)       (157)
+Payment for technology agreement                                  --          --        (125)
+Collections on notes receivable                                   15           7           9
+Proceeds from disposals of facility and equipment                 --          --           2
+                                                             -------     -------     -------
+NET CASH USED IN INVESTING ACTIVITIES                           (315)       (163)       (271)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Repayment of debt and capital lease obligations                   --          --         (10)
+Proceeds from issuance of common stocks                        3,369         318          --
+Repayment of debt                                             (2,250)         --          --
+Net increase (decrease) in revolving credit lines             (1,272)       (698)     (1,978)
+Financing transaction costs                                       --         (73)         --
+Rights offering                                                   --          --       2,021
+                                                             -------     -------     -------
+NET CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES             (153)       (453)         33
+                                                             -------     -------     -------
+Increase (decrease) in cash                                    1,847        (338)      1,296
+Cash and cash equivalents, beginning of year                   1,293       1,631         335
+                                                             -------     -------     -------
+Cash and cash equivalents, end of year                       $ 3,140     $ 1,293     $ 1,631
+                                                             =======     =======     =======
+SUPPLEMENTAL DISCLOSURE
+Interest paid                                                $   291     $   442     $   476
+                                                             =======     =======     =======
+Income tax paid                                              $    13          --          --
+                                                             =======     =======     =======
+NON-CASH FINANCING ACTIVITY
+    Conversion of notes to stockholders' equity              $   200     $    --     $    --
+    Common stock issued for settlement of legal matter       $    23     $    --     $    --
+                                                             =======     =======     =======
+</TABLE>
+
+                 See notes to consolidated financial statements.
+
+                                       F-6
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+                   Notes to Consolidated Financial Statements
+                (in Thousands, Except Share Data and Percentages)
+
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+DESCRIPTION OF BUSINESS
+
+The Company's primary business is the designing, manufacturing, and marketing of
+wireless communications equipment consisting primarily of two-way land mobile
+radios and related products which are sold in two primary markets: (1) the
+government and public safety market and (2) business and industrial market. The
+Company has only one reportable business segment.
+
+PRINCIPLES OF CONSOLIDATION
+
+The accounts of the Company and its subsidiary have been included in the
+accompanying consolidated financial statements. All significant intercompany
+balances and transactions have been eliminated in consolidation.
+
+INVENTORIES
+
+Inventories are stated at the lower of cost (determined by the average cost
+method) or market. Shipping and handling costs are classified as a component of
+cost of products in the consolidated statements of operations.
+
+PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant and equipment is carried at cost. Expenditures for maintenance,
+repairs and minor renewals are expensed as incurred. When properties are retired
+or otherwise disposed of, the related cost and accumulated depreciation are
+removed from the respective accounts and the resulting gain or loss is reflected
+in operations for the period.
+
+Depreciation is generally computed on the straight-line method using lives of 3
+to 10 years on machinery and equipment and 5 to 30 years on buildings and
+building improvements.
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+Management reviews long-lived assets and intangible assets for impairment
+whenever events or changes in circumstances indicate that the carrying amount of
+an asset may not be recoverable. Recoverability of assets to be held and used is
+measured by a comparison of the carrying amount of an asset to future net cash
+flows expected to be generated by the asset. If such assets are considered to be
+impaired, the impairment to be recognized is measured by the amount by which the
+carrying amount of the assets exceeds the fair value of the assets which
+considers the discounted future net cash flows. During 2002, the Company
+recorded the following asset impairments:
+
+On May 12, 2000, the Company engaged an investment banking firm. In connection
+with the engagement, the Company granted warrants, valued at $226 to purchase
+
+                                      F-7
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+166,153 shares of the Company's common stock at an aggregate purchase price of
+one hundred dollars. The warrants had a five-year term and an exercise price of
+$3.25 per share. The value of the warrants was being amortized on a
+straight-line basis over the estimated life of the contract. Accumulated
+amortization at December 31, 2002 was $120. During the fourth quarter of 2002,
+the Company was notified that the investment banking firm had closed its New
+York office, and no longer employed the principals who handled the Company's
+account. Therefore, the Company did not anticipate receiving further services
+under this agreement. Accordingly, the Company elected to write-off the
+remaining value of the warrants totaling approximately $120 during the fourth
+quarter of 2002.
+
+In March 1998, the Company entered into a technology agreement which, among
+other things, licensed the Company to use the licensor's digital APCO Project 25
+technology under specified terms and conditions. The cost of the technology
+license was $300 and was being amortized over a period of eight years. The
+Company has since developed its own APCO Project 25 digital technology, which
+was completed in the fourth quarter 2002. Consequently, the Company does not
+anticipate utilizing the technology provided for by this agreement. Accordingly,
+the Company elected to write-off the remaining value of the technology agreement
+totaling $211 during the fourth quarter of 2002.
+
+CASH EQUIVALENTS
+
+The Company considers all highly liquid investments with a maturity of three
+months or less when purchased to be cash equivalents.
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+The Company records an allowance for doubtful accounts based on specifically
+identified amounts that the Company believes to be uncollectible. The Company
+also records additional allowance based on certain percentages of the Company's
+aged receivables, which are determined based on historical experience and the
+Company's assessment of the general financial conditions affecting the Company's
+customer base. If the Company's actual collections experience changes, revisions
+to the Company's allowance may be required. After all attempts to collect a
+receivable have failed, the receivable is written off against the allowance. In
+addition, with respect to notes receivable, the Company stops accruing interest
+when collection of a note becomes doubtful. Based on the information available,
+management believes the allowance for doubtful accounts as of December 31, 2004
+is adequate.
+
+REVENUE RECOGNITION
+
+Sales revenue is recognized when persuasive evidence of an arrangement exists,
+the goods are shipped, except for sales to the U.S. Government, which are
+recognized when the goods are delivered, the pricing is fixed and determinable
+and collectively is reasonably assured.
+
+                                       F-8
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+INCOME TAXES
+
+The Company accounts for income taxes using the asset and liability method
+specified by Statement of Financial Accounting Standard No. 109, "Accounting for
+Income Taxes." Deferred tax assets and liabilities are recognized for the future
+tax consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using the enacted tax
+rates expected to apply in the period in which the deferred tax asset or
+liability is expected to be realized. The effect of changes in net deferred tax
+assets and liabilities is recognized on the Company's balance sheet and
+statement of operations in the period in which the change is recognized.
+Valuation allowances are provided to the extent that impairment of tax assets
+are more likely than not. In determining whether a tax asset is realizable, the
+Company considers among other things, estimates of future earnings based on
+information currently available, current and anticipated customers, contracts
+and new product introductions, as well as recent operating results during 2004,
+2003 and 2002, and certain tax planning strategies. If the Company fails to
+achieve the future results anticipated in the calculation and valuation of net
+deferred tax assets, the Company may be required to reduce its deferred tax
+assets in the future.
+
+CONCENTRATION OF CREDIT RISK
+
+The Company is in the business of designing, manufacturing, and marketing of
+wireless communications equipment consisting primarily of two-way land mobile
+radios and related products. The Company performs periodic credit evaluations of
+its customers' financial condition and generally does not require collateral. At
+December 31, 2004 and 2003, accounts receivable from governmental customers were
+approximately $2,324 and $2,183, respectively. Receivables generally are due
+within 30 days. Credit losses relating to customers consistently have been
+within management's expectations and are comparable to losses for the portfolio
+as a whole.
+
+The Company primarily maintains cash balances at one financial institution.
+Accounts are insured by the Federal Deposit Insurance Corporation (FDIC) up to
+$100. From time to time, the Company had cash in financial institutions in
+excess of federally insured limits. As of December 31, 2004, the Company had
+cash in excess of FDIC limits of approximately $3,040.
+
+USE OF ESTIMATES
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities at the date of the financial statements and the reported amounts of
+sales and expenses during the reporting period. Actual results could differ from
+those estimates.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The Company's management believes that carrying amounts of cash and cash
+equivalents, accounts receivable, accounts payable and other accrued liabilities
+approximates fair value because of the short-term nature of these financial
+
+                                       F-9
+<PAGE>
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+instruments. The fair value of short-term and long-term debt approximates
+market, as the interest rates on these financial instruments approximate current
+rates available to the Company.
+
+ADVERTISING COSTS
+
+The cost for advertising is expensed as incurred. The total advertising expense
+for 2004, 2003, and 2002 was $363, $241, and $202, respectively.
+
+ENGINEERING, RESEARCH AND DEVELOPMENT COSTS
+
+Included in selling, general and administrative expenses for 2004, 2003, and
+2002 are research and development costs of $1,853, $1,455, and $1,865,
+respectively.
+
+STOCK BASED COMPENSATION
+
+In December 2002, the FASB issued SFAS No. 148, "Accounting for Stock-Based
+Compensation-Transition and Disclosure, an amendment of FASB Statement No. 123."
+This Statement amends methods of transition for a voluntary change to the fair
+value method of accounting for stock-based employee compensation. In addition,
+this Statement amends the disclosure requirements of Statement No. 123 to
+require prominent disclosures in both annual and interim financial statements.
+Certain of the disclosure modifications are required for fiscal years ended
+after December 15, 2002 and are included in the Notes to Consolidated Financial
+Statements.
+
+In December 2004, the FASB issued a revision to SFAS No. 123, "Share-Based
+Payment" (Statement 123). This Statement requires a public entity to measure the
+cost of employee services received in exchange for an award of equity
+instruments based on the grant-date fair value of the award (with limited
+exceptions). That cost will be recognized over the period during which the
+employee is required to provide service in exchange for the award requisite
+service period (usually the vesting period). No compensation cost is recognized
+for equity instruments for which employees do not render the requisite service.
+Employee share purchase plans will not result in recognition of compensation
+cost if certain conditions are met; those conditions are much the same as the
+related conditions in Statement 123. This Statement is effective for public
+entities that do not file as a small business issuers as of the beginning of the
+first interim or annual reporting period that begins after June 15, 2005. This
+Statement applies to all awards granted after the required effective date and to
+awards modified, repurchased, or cancelled after that date. The cumulative
+effect of initially applying this Statement, if any, is recognized as of the
+required effective date and is not expected to have a material impact on the
+Company's consolidated financial statements.
+
+The Company accounts for stock options issued using the intrinsic value method
+and, accordingly, no compensation cost has been recognized for stock options
+granted as such options granted had an exercise price greater than or equal to
+the market value of the underlying common stock on the date of the grant. If the
+Company determined compensation cost based on the fair value of the options at
+
+                                      F-10
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+
+the grant date, the Company's net income (loss) and basic and diluted net income
+(loss) per common share would have reflected the pro forma amounts shown below:
+
+                                                      Year ended December 31
+                                                     2004      2003       2002
+                                                    ------    ------     ------
+
+     Net income (loss) as reported                  $7,877    $  868    $(3,631)
+                                                    ------    ------    -------
+     Add: Stock-based employee compensation             --        --         --
+     expense included in reported net income,
+     net of related tax effects
+                                                    ------    ------    -------
+     Deduct: Total stock-based employee               (124)      (84)      (676)
+     compensation expense determined under fair
+     value based method for all awards, net of
+     related tax effects
+                                                    ------    ------    -------
+     Pro-forma net income (loss)                    $7,753    $  784    $(4,307)
+                                                    ======    ======    =======
+     EARNINGS PER SHARE:
+     ---------------------------------------------------------------------------
+     ---------------------------------------------------------------------------
+     Basic--as reported                             $ 0.68    $ 0.10    $ (0.47)
+     Basic--pro forma                                 0.67      0.09      (0.55)
+     Diluted--as reported                             0.65      0.10      (0.47)
+     Diluted--pro forma                             $ 0.64    $ 0.09    $ (0.55)
+     ---------------------------------------------------------------------------
+
+EARNINGS (LOSS) PER SHARE
+
+Earnings (loss) per share amounts are computed and presented for all periods in
+accordance with SFAS No. 128, Earnings per Share.
+
+COMPREHENSIVE INCOME (LOSS)
+
+Pursuant to SFAS No. 130, Reporting Comprehensive Income, the Company is
+required to report comprehensive income (loss) and its components in its
+consolidated financial statements. The Company does not have any significant
+components of other comprehensive income (loss) to be reported under SFAS No.
+130. Total comprehensive income (loss) is equal to net income (loss) reported in
+the consolidated financial statements.
+
+                                      F-11
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+PRODUCT WARRANTY
+
+The Company offers two-year warranties to its customers depending on the
+specific product and terms of the customer purchase agreement. The Company's
+typical warranties require it to repair and replace defective products during
+the warranty period at no cost to the customer. At the time the product revenue
+is recognized, the Company records a liability for estimated costs under its
+warranties. The costs are estimated based on historical experience. The Company
+periodically assesses the adequacy of its recorded liability for product
+warranties and adjusts the amount as necessary.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+In November 2004, the FASB issued SFAS No. 151, "Inventory Costs - an amendment
+of ARB No. 43, Chapter 4" (Statement 151). This statement amends the guidance in
+ARB No. 43, Chapter 4, "Inventory Pricing," to clarify the accounting for
+abnormal amounts of idle facility expense, freight, handling costs, and wasted
+material (spoilage). As currently worded in ARB 43, Chapter 4, the term "so
+abnormal" was not defined and its application could lead to unnecessary
+noncomparability of financial reporting. This Statement eliminates that term and
+requires that those items be recognized as current-period charges regardless of
+whether they meet the criterion of "so abnormal." In addition, this Statement
+requires that allocation of fixed production overhead to the costs of conversion
+be based on the normal capacity of the production facilities. The adoption of
+Statement 151 will not have a material impact on the Company's consolidated
+financial statements.
+
+In December 2004, the FASB issued SFAS No. 152, "Accounting For Real Estate
+Time-Sharing Transactions - an amendment of FASB Statements No. 66 and 67"
+(Statement 152). This Statement amends FASB Statement No. 66, "Accounting for
+Sales of Real Estate", to reference the financial accounting and reporting
+guidance for real estate time-sharing transactions that is provided in AICPA
+Statement of Position (SOP) 04-2, "Accounting for Real Estate Time-Sharing
+Transactions." This Statement also amends FASB Statement No. 67, "Accounting for
+Costs and Initial Rental Operations of Real Estate Projects," to state that the
+guidance for (a) incidental operations and (b) costs incurred to sell real
+estate projects does not apply to real estate time-sharing transactions. The
+accounting for those operations and costs is subject to the guidance in SOP
+04-2. This Statement is effective for financial statements for fiscal years
+beginning after June 15, 2005. The adoption of Statement 152 will not have a
+material impact on the Company's consolidated financial statements.
+
+In December 2004, the FASB issued SFAS No. 153, "Exchanges of Non-monetary
+Assets - an amendment of APB Opinion No. 29" (Statement 153). This Statement
+amends Opinion 29 to eliminate the exception for non-monetary exchanges of
+similar productive assets and replaces it with a general exception for exchanges
+of non-monetary assets that do not have commercial substance. A non-monetary
+exchange has commercial substance if the future cash flows of the entity are
+expected to change significantly as a result of the exchange. The adoption of
+FAS 153 will not have a material impact on the Company's consolidated financial
+statements.
+
+                                      F-12
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+In December 2004, the FASB issued a revision to SFAS No. 123, "Share-Based
+Payment" (Statement 123). This Statement requires a public entity to measure the
+cost of employee services received in exchange for an award of equity
+instruments based on the grant-date fair value of the award (with limited
+exceptions). That cost will be recognized over the period during which the
+employee is required to provide service in exchange for the award requisite
+service period (usually the vesting period). No compensation cost is recognized
+for equity instruments for which employees do not render the requisite service.
+Employee share purchase plans will not result in recognition of compensation
+cost if certain conditions are met; those conditions are much the same as the
+related conditions in Statement 123. This Statement is effective for public
+entities that do not file as a small business issuers as of the beginning of the
+first interim or annual reporting period that begins after June 15, 2005. This
+Statement applies to all awards granted after the required effective date and to
+awards modified, repurchased, or cancelled after that date. The cumulative
+effect of initially applying this Statement, if any, is recognized as of the
+required effective date and is not expected to have a material impact on the
+Company's consolidated financial statements.
+
+RECLASSIFICATIONS
+
+Certain prior year amounts have been reclassified to conform to the current year
+presentation.
+
+2.  RESOLUTION OF GOING CONCERN UNCERTAINTIES
+
+The Company's consolidated financial statements are presented on the going
+concern basis, which contemplates the realization of assets and the satisfaction
+of liabilities in the normal course of business. For the year ended December 31,
+2002, the Company suffered a substantial net loss and was in default of its then
+revolving line of credit. At that time, these conditions raised substantial
+doubt about the Company's ability to continue as a going concern.
+
+During the years ended December 31, 2004 and 2003, however, the Company realized
+income before income taxes of approximately $1.7 million and $0.9 million,
+respectively. The Company also obtained a revolving line of credit with a new
+lender (see Note 8 Debt), starting with a credit line of $2.5 million in August
+2003, which has since been increased to $3.5 million and extended through
+January 2007. The Company is in compliance with all terms, conditions and
+covenants of the credit agreement as of December 31, 2004.
+
+Although there is no assurance, the Company believes that recent operating
+results are an indicator that the Company will generate sufficient working
+capital to enable the Company to continue as a going concern.
+
+                                      F-13
+
+<PAGE>
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+3.  INVENTORIES
+
+Inventory, which is presented net of allowance for obsolete and slow moving
+inventory, consisted of the following:
+
+                                              December 31
+                                           2004         2003
+                                          ------       ------
+
+         Finished goods                   $1,952       $3,052
+         Work in process                     851          743
+         Raw materials                     1,932        1,903
+                                          ------       ------
+                                          $4,735       $5,698
+                                          ======       ======
+
+The allowance for obsolete and slow moving inventory is as follows:
+
+                                              Year ended December 31
+                                             2004       2003         2002
+                                            ------     ------       ------
+
+         Balance, beginning of year         $2,802     $2,602       $2,319
+         Charged to cost of sales             (324)       200          283
+                                            ------     ------        -----
+                                            $2,478     $2,802       $2,602
+                                            ======     ======       ======
+
+4.  ALLOWANCE FOR DOUBTFUL ACCOUNTS
+
+The allowance for doubtful accounts is composed of the following:
+
+                                              Year ended December 31
+                                              2004       2003         2002
+                                      --------------------------------------
+
+         Balance, beginning of year           $ 61       $ 69       $ 1,540
+         Provision for doubtful
+           accounts                             54         17           (26)
+         Uncollectible accounts
+           written off                         (28)       (25)       (1,445)
+                                      --------------------------------------
+                                              $ 89       $ 61       $    69
+                                      ======================================
+
+5.  DEBT ISSUANCE COSTS
+
+On March 16, 2000, the Company completed the private placement of $3,250 of
+convertible subordinated notes. The debt issuance costs included grants of
+50,000 shares of the Company's stock valued at $163 and warrants to purchase
+300,000 shares of the Company's common stock valued at $409. The debt issuance
+costs, which originally totaled $817, were amortized on a straight-line basis
+over the life of the notes (5 years). At December 31, 2004 the issuance costs
+have been fully amortized.
+
+The warrants, expiring in May 2005, had an original exercise price of $3.25 per
+share. They contain provisions that protect the warrant holders against dilution
+should the Company issue shares of common stock at a price less than the
+warrants' exercise price then in effect. These provisions provide for an
+adjustment in the warrants' exercise price and the number of shares into which
+
+                                      F-14
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+the warrants may be exercised. On two occasions, in March 2002 and August 2003,
+the Company issued shares of stock at a price below the warrants' exercise price
+then in effect. Accordingly, the exercise price of the warrants has been
+adjusted to $1.88, which was the effective exercise price as of December 31,
+2004.
+
+6.  PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant, and equipment as of December 31, 2004, and 2003 includes the
+following:
+
+                                               Year ended December 31
+                                                 2004          2003
+                                               -------       -------
+
+         Leasehold improvements                $   125       $   109
+         Machinery and equipment                 9,174         8,861
+         Less accumulated depreciation          (8,008)       (7,502)
+                                               -------        ------
+         Net property, plant and equipment     $ 1,291       $ 1,468
+                                               =======       =======
+
+Depreciation expense for 2004, 2003, and 2002 was $507, $493, and $519,
+respectively.
+
+7.  NOTES RECEIVABLE
+
+In April 2002, the Company became aware that the purchaser of its former
+paper-manufacturing subsidiary, had ceased operations. The purchaser owed the
+Company $900 plus accrued interest under the terms of two secured promissory
+notes and had defaulted on its obligations to make principal and interest
+payments. With guidance from counsel, management evaluated alternatives and took
+all prudent actions to maximize the possibility of recovery. However, after a
+comprehensive assessment, the Company believed that the value of purchaser's
+assets and the assets of the guarantor were insufficient to provide any recovery
+of the amounts due under the notes. Accordingly, the Company wrote-off the
+amount owed in the first quarter 2002.
+
+During 2002, the purchaser of the Company's former specialty manufacturing
+subsidiary, ceased making payments in accordance with an agreement. The original
+amount of the agreement was approximately $355. As of December 31, 2002, the
+amount due under the note was approximately $175 plus accrued interest. This
+note resulted from a 1997 agreement for the sale of the assets of the Company's
+former specialty-manufacturing subsidiary. Since its inception, the terms of the
+obligation have been restructured several times to accommodate the purchaser.
+The last payment was received in March 2002. Since then, attempts to contact the
+purchaser and collect the past-due installment payments have been unsuccessful.
+In February 2003, the Company started legal proceedings to recover the remaining
+amount due under the note plus accrued interest. These proceedings are pending.
+The Company cannot be certain that it will be able to collect the debt.
+Accordingly, a collection allowance was established in the fourth quarter 2002
+for the entire principal amount of the note.
+
+                                      F-15
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+8.  DEBT
+
+Long term debt consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                        December 31
+                                                                                      2004        2003
+                                                                                     -------    -------
+<S>                                                                                  <C>        <C>
+Line of credit (interest rate is Prime Rate plus 1%, the                             $     0    $ 1,272
+  minimum rate is 6.25%)
+Convertible subordinated note, matures December 31, 2004, interest                       700      3,150
+   only payments at 8% per annum through December 31, 2004, at which
+   time principal is due; the rights to earn interest and to convert
+   expired on December 31, 2004
+                                                                                     -------    -------
+Total debt                                                                               700      4,422
+Less current portion                                                                    (700)    (3,150)
+                                                                                     -------    -------
+Long-term debt                                                                       $     0    $ 1,272
+                                                                                     =======    =======
+</TABLE>
+
+The Company's revolving line of credit was initially established in August 2003
+with a maximum credit limit of $2.5 million. In February 2004, the lender
+increased the credit facility by $1 million, to $3.5 million, and the maturity
+date was extended to January 1, 2005. In October 2004, the line was further
+extended until January 2007. Also, certain terms and conditions of the credit
+agreement were modified, which will reduce related costs and ease reporting
+requirements. The line is secured by substantially all of the Company's assets,
+consisting principally of trade receivables and inventory. The credit agreement
+contains certain covenants with which the Company must comply. As of December
+31, 2004, the Company was in compliance with all such covenants. Under the
+formula for calculating available credit under the facility, the Company had
+approximately $3.4 million in available unused credit as of December 31, 2004.
+The Company's revolving line of credit restricts the Company's ability to pay
+dividends.
+
+During 2004, certain of our convertible subordinated notes were converted into
+106,384 shares of common stock. As a result of the conversions, the total amount
+due under the notes was reduced by $0.2 million. The remaining convertible
+subordinated notes matured on December 31, 2004. Notes totaling $2.25 million
+were repaid and retired on that date. As of December 31, 2004, notes totaling
+$700,000 remained outstanding. The rights for these notes to convert to RELM
+common stock and to earn interest expired on December 31, 2004. Notes totaling
+$550 were tendered, repaid and retired in January 2005. Presently, one note
+totaling $150 remains outstanding.
+
+                                      F-16
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+9.  LEASES
+
+The Company leases approximately 54,000 square feet of industrial space at 7100
+Technology Drive in West Melbourne, Florida. The original lease term is five
+years, which expires on June 30, 2005, with a renewal option of 5 years. The
+Company exercised the renewal option in February 2005. Rental, maintenance and
+tax expenses for this facility were approximately $378, $384 and $395 in 2002,
+2003 and 2004, respectively. The Company also leases 3,800 square feet of office
+space in Lawrence, Kansas, to accommodate a segment of the Company's engineering
+team. This lease has a term of two years and expires on April 15, 2005. Rental,
+maintenance and tax expenses for this facility were approximately $20, $33 and
+$32 in 2002, 2003, and 2004, respectively. In April 2005, the Company's
+engineering team will relocate to 8,111 square feet of leased office and
+laboratory space, which is in close proximity to its present location. In
+January 2005, the Company executed a lease for this space, which expires
+December 31, 2009.
+
+At December 31, 2004, the future minimum lease commitments are as follows: $493
+in 2005, and $486 in 2006 through 2009.
+
+10. INCOME TAXES
+
+The provisions for income taxes are summarized as follows:
+
+                                  2004        2003         2002
+                                -------     -------      --------
+         Current:
+         Federal                $    45     $    13      $     --
+         State                       --          --            --
+                                -------     -------      --------
+                                     45          13            --
+                                -------     -------      --------
+
+         Deferred:
+         Federal                 (5,614)         --            --
+         State                     (648)         --            --
+                                -------     -------      --------
+                                 (6,262)         --            --
+                                -------     -------      --------
+                                $(6,217)    $    13      $     --
+                                =======     =======      ========
+
+A reconciliation of the statutory United States income tax rate to the effective
+income tax rate follows:
+
+<TABLE>
+<CAPTION>
+                                                          2004              2003              2002
+                                                        --------          --------          -------
+<S>                                                      <C>               <C>               <C>
+         Statutory U.S. income tax rate                    34.00%            34.00%          (34.00)%
+         States taxes, net of federal benefit               3.63%             3.63%           (3.63)%
+         Permanent differences                              0.52%             0.90%            0.21%
+         Change in valuation allowance                   (372.39)%         (140.95)%          62.19%
+         Change in net operating loss
+           carryforwards and tax credits                  (33.10)%           73.03%              --
+         Other                                             (7.13)%           30.88%          (24.77)%
+                                                        --------          --------          -------
+
+         Effective income tax rate                       (374.47)%            1.49%            0.00%
+                                                        ========          ========          =======
+</TABLE>
+                                      F-17
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+The components of the deferred income tax assets (liabilities) are as follows:
+<TABLE>
+<CAPTION>
+                                                             December 31
+                                                    2004                       2003
+                                           ----------------------     ---------------------
+                                             Current     Long Term     Current     Long Term
+                                           ---------     --------     --------     --------
+<S>                                         <C>          <C>          <C>          <C>
+         Deferred tax assets:
+            Operating loss carryforwards    $  1,503     $  9,541     $  1,071     $ 10,957
+            Tax credits                           --          137           --           65
+            Section 263A costs                   100           --          129           --
+            Research & development costs         139          951           --           --
+
+            Asset reserves:
+              Bad debts                           34           --           36           --
+              Inventory reserve                  933           --        1,054           --
+
+            Accrued expenses:
+              Compensation                       124           --           89           --
+               Accrued settlement                 --           --           53           --
+              All other                           44           --           33           --
+                                           ---------     --------     --------     --------
+         Total deferred tax assets             2,877       10,629        2,465       11,022
+
+         Deferred tax liabilities:
+            Depreciation                          --         (255)          --         (316)
+                                           ---------     --------     --------     --------
+         Total deferred tax liabilities           --         (255)          --         (316)
+                                           ---------     --------     --------     --------
+         Subtotal                              2,877       10,374        2,465       10,706
+
+         Valuation allowance                  (1,539)      (5,450)      (2,465)     (10,706)
+                                           ---------     --------     --------     --------
+         Net deferred tax assets           $   1,338     $  4,924     $     --     $     --
+                                           =========     ========     ========     ========
+</TABLE>
+
+As of December 31, 2004, the Company recognized a deferred tax asset of
+approximately $6,262 net of a valuation allowance of approximately $6,989. This
+asset is primarily composed of net operating loss carry forwards (NOL's). The
+NOL's total $29,199 for federal purposes and $30,952 for state purposes, with
+expirations starting in 2005 through 2024. During 2004 and 2003 the Company
+utilized $2,402 and $1,056, respectively, of its NOL's.
+
+
+                                      F-18
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+In order to fully realize the net deferred tax asset recorded at December 31,
+2004, the Company will need to generate sufficient taxable income in future
+years prior to the expiration of its NOL's. SFAS Statement 109 requires that all
+positive and negative evidence be analyzed to determine if, based on the weight
+of available evidence, the Company is more likely than not to realize the
+benefit of the deferred tax asset. The recognition of the net deferred tax asset
+and corresponding tax benefit is based upon management's conclusions regarding,
+among other considerations, estimates of future earnings based on information
+currently available, and current and anticipated customers and contracts,
+product introductions, as well as recent operating results during 2004, 2003 and
+2002, and certain tax planning strategies.
+
+The Company has evaluated the available evidence and the likelihood of realizing
+the benefit of its net deferred tax asset. From its evaluation, management has
+concluded based upon the weight of available evidence that the Company, more
+likely than not, will realize the benefit of its net deferred tax assets
+recorded at December 31, 2004. Accordingly, in the fourth quarter 2004, the
+valuation allowance was reduced to approximately $7.0 million from $13.2 million
+in 2003, recognizing a deferred tax asset on the Company's balance sheet of
+approximately $6.3 million and a corresponding deferred tax benefit on its
+statement of operations of approximately $6.2 million.
+
+Should the factors underlying management's analysis change, future valuation
+adjustments to the Company's net deferred tax asset may be necessary. If future
+losses are incurred, it may be necessary reduce some or the entire net deferred
+tax asset recognized as of December 31, 2004. It cannot presently be estimated
+what, if any, changes to the valuation of our net deferred tax asset may be
+deemed appropriate in the future.
+
+The decrease in the total valuation allowance for the year ended December 31,
+2003 was $1,243 and relates to the Company's expectations regarding utilization
+of its net deferred tax assets, including available net operating loss and tax
+credit carryforwards. The increase in the total valuation allowance for the year
+ended December 31, 2002 was $2,195 and relates primarily to an increase in
+available net operating loss carryforwards as a result of the Company's net loss
+during 2002.
+
+The federal and state net operating loss and tax credit carryforwards could be
+subject to limitation if, within any three year period prior to the expiration
+of the applicable carryforward period, there is a greater than 50% change in
+ownership of the Company.
+
+For the year ended December 31, 2004 and 2003, the Company incurred $45 and $13,
+respectively in alternative minimum tax expense in connection with the federal
+limitation on alternative tax net operating loss carryforwards.
+
+                                      F-19
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+11.  INCOME (LOSS) PER SHARe
+
+The following table sets the computation of basic and diluted loss per share:
+
+<TABLE>
+<CAPTION>
+                                                                       Year ended December 31
+                                                                 2004           2003          2002
+                                                             -----------    ----------     ----------
+<S>                                                          <C>            <C>            <C>
+Numerator:
+   Net income (loss) (numerator for basic and diluted        $     7,877    $      868     $   (3,631)
+     earnings (loss) per share)
+Denominator:
+   Denominator for basic earnings per share-weighted          11,536,014     9,001,660      7,787,230
+     average shares
+   Denominator for diluted earnings per share-weighted        12,151,183     9,105,964      7,787,230
+     average shares
+Basic income (loss) per share                                $      0.68    $     0.10     $    (0.47)
+                                                             -----------    ----------     ----------
+Diluted income (loss) per share                              $      0.65    $     0.09     $    (0.47)
+                                                             ===========    ==========     ==========
+</TABLE>
+
+For 2002, a total of 1,675,531 shares related to convertible debt are not
+included in the computation of earnings per share. For 2003, a total of
+7,295,968 shares related to options and warrants and convertible debt are not
+included in the computation of loss per share because to do so would have been
+anti-dilutive for these periods.
+
+12.  Stock Option and Other Stock Option Plans
+
+The Company has two plans whereby eligible officers, directors and employees can
+be granted options for the future purchase of Company common stock at the market
+price on the grant date. The options, if not exercised within five-year or
+ten-year periods, expire.
+
+The following table summarizes information about fixed stock options outstanding
+at December 31, 2004:
+
+                                       Shares       Option         Weighted
+                                        Under        Price          Average
+                                       Option      per Share     Exercise Price
+                                   --------------------------------------------
+
+Balance at December 31, 2001         1,408,500    $0.406-$4.06       $1.84
+Options granted                         90,000     0.61-1.10          0.94
+Options expired or terminated          (80,000)    1.00-4.06          2.36
+                                    ----------    ------------       -----
+Balance at December 31, 2002         1,418,500     0.61-3.06          1.76
+Options granted                        125,000     0.26-1.14          0.41
+Options exercised                      (32,500)    0.406-1.00         0.54
+Options expired or terminated         (147,000)    1.00-3.06          2.23
+                                    ----------    ------------       -----
+Balance at December 31, 2003         1,364,000     0.26-3.06          1.67
+Options granted                        260,000     2.35-2.05          2.24
+
+
+                                      F-20
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+                                       Shares       Option        Weighted
+                                        Under        Price         Average
+                                       Option      per Share    Exercise Price
+                                    ----------     -----------    --------
+Options exercised                      (12,500)    0.80-1.03          0.93
+Options expired or terminated          (46,000)    0.80-2.875         2.39
+                                    ----------     -----------    --------
+Balance at December 31, 2004         1,565,500     $0.26-$3.06    $   1.74
+                                    ==========     ===========    ========
+Exercisable at December 31, 2004     1,283,250     $0.26-$3.06    $   1.68
+                                    ==========     ===========    ========
+
+
+At December 31, 2004, 134,500 options were available for issuance under the two
+plans.
+
+The weighted average contractual life of stock options outstanding as of
+December 31, 2004, 2003, and 2002 was 6.1, 7, and 7.3 years, respectively.
+Generally, employee options have a 10-year life and vest over a 4-year period
+from grant date. Director options have a five-year life and vest in eleven
+months from the grant date.
+
+At December 31, 2004, 1,565,500 shares of common stock were reserved for
+issuance under outstanding options and 134,500 shares of common stock were
+reserved for the granting of additional options. In addition, 806,642 shares of
+common stock were reserved for issuance under warrants.
+
+The weighted average fair value of options granted during the years ended
+December 31, 2004, 2003 and 2002 was $1.59, $0.26 and $0.62 respectively, using
+the Black-Scholes option- pricing method. The following weighted-average
+assumptions were utilized:
+
+                                                     Year ended December 31
+                                                   2004       2003      2002
+                                                -------------------------------
+         Black Scholes Pricing Assumptions:
+            Expected volatility                   106.5%      99.3%    49.6%
+            Risk free interest rate                 3.5%       2.3%     3.0%
+            Expected dividends                     None       None      None
+            Expected life in years                  4           4        4
+
+13.  EQUITY
+
+In June 2004 the Company completed the redemption of all its outstanding public
+warrants to purchase common stock. Prior to completion of the redemption,
+approximately 99.4 percent of the public warrants were exercised, generating net
+proceeds to the Company of approximately $3,400 and a 3,424,470 share increase
+in outstanding shares of the Company's common stock. Any public warrant or
+certificate representing a public warrant is invalid and no longer in force or
+effect. The redemption concluded the Company's 2002 public rights offering.
+
+From March 2002 through June 2004, the offering generated approximately $5,500
+in total net proceeds, and resulted in the issuance of 6,864,777 shares of RELM
+common stock. The offering originated in March 2002, and the securities offered
+
+                                      F-21
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+were "units." A unit was comprised of one share of RELM common stock and one
+warrant to purchase one share of RELM common stock. Units were offered initially
+to RELM's equity holders in the form of a rights offering. The "right" allowed
+investors in the offering to purchase units at a 10 percent discount to the
+market price of a share of common stock. The warrant component gave investors
+the opportunity to buy the Company's shares at a later date at a fixed price,
+and provided the opportunity for the Company to realize additional capital upon
+their exercise. On April 30, 2004, the Company announced the redemption of the
+public warrants. The public warrants, with an exercise price of $1.05, were
+exercisable for one share of common stock until 5:00 p.m. (New York time) on May
+30, 2004. After that date, the warrants were no longer exercisable, and holders
+have the right to receive only the redemption price of $0.10 per warrant.
+
+In August 2003, the Company established a revolving line of credit with a new
+lender. Concurrent with the transaction, three funds affiliated with the Company
+directly purchased an aggregate of 500,000 shares of our common stock at $0.60
+per share, which was the closing market price on the date the transaction was
+approved.
+
+In 2004, a total of 46,000 shares of the Company's common stock were issued as a
+result of the exercise of employee stock options.
+
+The Company had no shares of its $1.00 par value preferred stock issued as of
+December 31, 2004 and 2003.
+
+14.  SIGNIFICANT CUSTOMERS
+
+Sales to the United States government and to foreign markets as a percentage of
+the Company's total sales were as follows for the year ended December 31:
+
+                                       2004       2003       2002
+                                    --------------------------------------
+         U.S.  Government              46%         50%       39%
+         Foreign markets                2%          6%        6%
+
+Sales to the United States Government represented approximately 46%, 50% and 39%
+of our total sales for the years ended December 31, 2004 and 2003, and 2002,
+respectively. These sales were primarily to the various government agencies,
+including those within the U.S. Forest Service (USFS), and U.S. Department of
+the Interior (DOI). Sales to USFS agencies represented approximately 23%, 27%,
+and 22% of total sales for the years ended December 31, 2004, 2003, and 2002,
+respectively. For the years ended December 31, 2004 and 2003, sales to DOI
+agencies represented approximately 22% and 12% of total sales, respectively.
+
+15.  PENSION PLANS
+
+The Company sponsors a participant contributory retirement (401K) plan, which is
+available to all employees. The Company's contribution to the plan is either a
+
+                                      F-22
+
+<PAGE>
+
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+percentage of the participants contribution (50% of the participants
+contribution up to a maximum of 6%) or a discretionary amount. In 2003, the
+Company elected to not contribute to the participants' retirement plan. In 2004
+and 2002 total contributions made by the Company were $61 and $79, respectively.
+
+16.  COMMITMENTS AND CONTINGENCIES
+
+ROYALTY COMMITMENT
+
+In 2002, the Company entered into a technology license related to its
+development of digital products. Under this agreement, the Company is obligated
+to pay a royalty for each product sold that utilizes the technology covered by
+this agreement. The Company paid $34, $6, and $0 in 2004, 2003 and 2002,
+respectively. The agreement has an indefinite term, and can be terminated by
+either party under certain conditions.
+
+LIABILITY FOR PRODUCT WARRANTIES
+
+Changes in the Company's liability for product warranties during the years ended
+December 31, 2004, 2003 and 2002 are as follows:
+
+                         Balance at     Warranties     Warranties     Balance at
+                         Beginning      Issued         Settled        End
+                         of year                                      of year
+                         -------------------------------------------------------
+         2004            $  82          154            (118)          $118
+
+         2003            $ 103           38             (59)          $ 82
+
+         2002            $  79          103             (79)          $103
+
+LEGAL PROCEEDINGS
+
+In 1993, a civil action was brought against the Company by a plaintiff to
+recover losses sustained on the note of a former affiliate totaling $1.7 million
+plus interest at 12% per annum. The plaintiff alleged violations of federal
+securities and other laws by us in collateral arrangements with the former
+affiliate. In February 1994, the liquidator of the former affiliate filed a
+complaint claiming that intentional and negligent conduct by us and others
+caused the former affiliate to suffer millions of dollars of losses leading to
+its ultimate failure. In response, the Company filed motions for summary
+judgment to dismiss these complaints. On September 12, 2002, the Court granted
+in significant part the motions for summary judgment filed by us and one of our
+directors. The lone remaining claim sought damages against the Company for
+non-payment of the note. The Company contended that this note was canceled and
+released for fair consideration in 1993 and that there was no basis in law or
+fact for the liquidator's claim. On March 1, 2004, the Company reached a
+settlement agreement with the plaintiff. Under the terms of the settlement, the
+Company paid to the plaintiff cash totaling $120 and issued 6,452 shares of
+restricted common stock valued at $3.10 per share, the closing price on March 1,
+2004. A written settlement agreement and release was executed by both parties on
+
+                                      F-23
+
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+August 24, 2004. In accordance with the agreement, on August 24, 2004 the
+Company paid $60 in cash, and on October 20, 2004 issued the shares. The
+remaining cash payment was made in November 2004. Such settlement agreement was
+accrued in the accompanying 2003 balance sheet under the caption of accrued
+other expenses and other current liabilities.
+
+In June 1997, substantially all of the assets of a RELM specialty-manufacturing
+subsidiary were sold. The asset purchase agreement contains indemnification
+provisions, which could result in liability for both parties. Presently, one
+indemnification claim is pending against the Company. On August 26, 2002, a
+products liability lawsuit was filed in the Probate Court of Galveston County,
+Texas. RELM Wireless Corporation, RELM Communications, Incorporated, and the
+purchaser of the assets of its former specialty-manufacturing subsidiary are
+named defendants in the lawsuit. The Company has insurance coverage for this
+matter. Counsel named by the Company's insurer is continuing to vigorously
+defend this claim. Management believes the Company has meritorious defenses and
+the likelihood of an unfavorable outcome is remote.
+
+The Company is involved in various claims and legal actions arising in the
+ordinary course of its business. It is the opinion of the Company's management
+that the ultimate disposition of these matters would not have a material effect
+upon the Company's consolidated financial position or results of operations.
+
+17.  QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+Selected quarterly financial data is summarized below:
+
+                                                Quarters Ended
+                               March 31    June 30   September 30    December 31
+                                 2004        2004        2004           2004
+                              -------------------------------------------------
+
+Fiscal 2004
+
+Sales                           $4,970     $4,947       $5,186         $5,553
+Gross profit                     2,099      2,335        2,428          2,223
+Net income                         340        400          502          6,635
+Earnings per share-basic          0.04       0.04         0.04           0.52
+Earning per share-diluted         0.03       0.03         0.04           0.50
+
+
+                                      F-24
+<PAGE>
+
+                            RELM Wireless Corporation
+                                December 31, 2004
+             Notes to Consolidated Financial Statements (continued)
+                (in Thousands, Except Share Data and Percentages)
+
+                                                           Quarters Ended
+                                    March 31  June 30  September 30  December 31
+                                      2003     2003       2003          2003
+                                    --------------------------------------------
+
+Fiscal 2003
+
+Sales                                 $3,596   $5,231    $5,000       $5,901
+Gross profit                           1,077    1,765     1,991        2,783
+Net income (loss)                       (377)     122       291          832
+Earnings  (loss) per share-basic       (0.04)    0.01      0.03         0.09
+Earnings  (loss) per share-diluted     (0.04)    0.01      0.03         0.08
+
+The increase in net income for the quarter ended December 31, 2004 was primarily
+due to an income tax benefit of approximately $6.2 million resulting from a
+reduction in the valuation allowance against the Company's deferred tax asset.
+The deferred tax asset is comprised largely of net operating loss carry forwards
+(NOLs). Prior to December 31, 2004, deferred tax assets were fully reserved and
+effectively not recognized.
+
+In the fourth quarter 2003, we recognized an expense totaling $140 related to
+the settlement of a legal matter discussed in Note 16, Commitments and
+Contingencies.
+
+
+
+                                      F-25
+
+<PAGE>
+
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES
+
+Our Chief Executive Officer and Chief Financial Officer (who serves as our
+principal financial and accounting officer) have evaluated the effectiveness of
+our disclosure controls and procedures (as defined in the Securities Exchange
+Act of 1934 Rules 13a-15(e) and 15d-15(e)) as of December 31, 2004. Based on
+this evaluation, they have concluded that our disclosure controls and procedures
+were effective as of December 31, 2004.
+
+CHANGES IN INTERNAL CONTROLS
+
+There was no change in our internal controls over financial reporting identified
+in connection with the evaluation required by paragraph (d) of Exchange Act
+Rules 13a-15 or 15d-15 that occurred during the three months ended December 31,
+2004 that has materially affected, or is reasonably likely to materially affect,
+our internal control over financial reporting.
+
+ITEM 9B. OTHER INFORMATION
+
+None.
+
+
+                                       28
+
+<PAGE>
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The information required by this item is incorporated by reference to RELM's
+definitive proxy statement to be filed within 120 days of its fiscal year end in
+connection with solicitation of proxies for its 2005 annual meeting of
+shareholders.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+Information required by this item is incorporated by reference to RELM's
+definitive proxy statement to be filed within 120 days of its fiscal year end in
+connection with solicitation of proxies for its 2005 annual meeting of
+stockholders.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS
+
+Except for the Equity Compensation Plan Information set forth below, the
+information required by this item is incorporated by reference to RELM's
+definitive proxy statement to be filed within 120 days of its fiscal year end in
+connection with solicitation of proxies for its 2005 annual meeting of
+stockholders.
+
+The following table provides information as of December 31, 2004 about our
+common stock that may be issued upon the exercise of options, warrants and
+rights under all of our existing equity compensation plans, including the 1996
+Stock Option Plan for Non-Employee Directors and the 1997 Stock Option Plan.
+
+<TABLE>
+<CAPTION>
+-------------------------------------------------------------------------------------------------------------------
+<S>                            <C>                         <C>                        <C>
+                                         ( a )                       ( b )                       ( c )
+                                                                                      Number of securities
+                                                                                      remaining available for
+                               Number of securities to                                future issuance under
+                               be issued upon exercise     Weighted average           equity compensation plan
+                               of outstanding options,     exercise price of          (excluding securities
+Plan Category                  warrants and rights         outstanding options,       reflected in column (a)
+Equity compensation plans
+approved by security holders        1,565,500                   $1.74                        134,500
+                                    ---------                   -----                       --------
+Equity compensation plans                  --                      --                             --
+not approved by security
+holders
+
+                                    ---------                   -----                       --------
+Total                               1,565,500                   $1.74                        134,500
+                                    =========                   =====                       ========
+</TABLE>
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Information required by this item is incorporated by reference to RELM's
+definitive proxy statement to be filed within 120 days of its fiscal year end in
+connection with solicitation of proxies for its 2005 annual meeting of
+stockholders.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+The information required by this item is incorporated by reference to RELM's
+definitive proxy statement to be filed within 120 days of its fiscal year end in
+connection with solicitation of proxies for its 2005 annual meeting of
+stockholders.
+
+
+                                       29
+<PAGE>
+
+                                     PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+(a)  The following documents are filed as a part of this report:
+
+     1.  Consolidated Financial Statements listed below:
+                                                                         Page
+                                                                      ----------
+Report of Independent Registered Public Accounting Firm BDO
+    Seidman LLP                                                       F-1
+
+Consolidated Balance Sheets as of December 31, 2004 and 2003          F-2 - F3
+
+Consolidated Statements of Operations - years ended
+    December 31, 2004, 2003 and 2002                                  F-4
+
+  Consolidated Statements of Changes in  Stockholders' Equity
+    - years ended December 31, 2004, 2003 and 2002                    F-5
+
+  Consolidated Statements of Cash Flows
+    - years ended December 31, 2004, 2003 and 2002                    F-6
+
+   Notes to Consolidated Financial Statements                         F-7 - F-25
+
+
+                                       30
+<PAGE>
+
+(b) Exhibits: The exhibits listed below are filed as a part of, or incorporated
+    by reference into this report:
+
+Number    Exhibit
+-------   ----------------------------------------------------------------------
+3(i)      Articles of Incorporation (2)
+3(ii)     By-Laws (2)
+10.1      1996 Stock Option Plan for Non-Employee Directors (1)
+10.2      1997 Stock Option Plan, as amended (3)
+10.3      Workers Compensation Close Out Agreement (4)
+10.4      Simmonds Agreement(5)
+10.5      Contract for Sale of West Melbourne Fl.  Real Estate (6)
+10.6      Sub Lease Agreement (5)
+10.7      Uniden Asset Purchase Agreement (6)
+10.8      OEM Uniden Manufacturing Agreement (6)
+10.9      Uniden ESAS Technology Agreement (6)
+10.10     Manufacturing Agreement (7)
+10.11     Transaction Agreement for Real Estate Sale and Contract
+          Manufacturing(6)
+10.12     Change of Control Agreement between RELM Wireless Corporation and
+          David P. Storey dated May 27, 2004 (12)
+10.13     Change of Control Agreement between RELM Wireless Corporation and
+          William P. Kelly dated May 27, 2004 (12)
+10.14     Change of Control Agreement between RELM Wireless Corporation and
+          Harold B. Cook dated May 27, 2004 (12)
+10.15     Certificate of Amendment to Articles of Incorporation (7)
+10.16     Security and Loan Agreement (9)
+10.17     Loan Modification Agreement (11)
+14.1      Code of Ethics (10)
+16.1      Letter to the Commission regarding change in certifying account (8)
+21        Subsidiary of Registrant (8)
+23.1      Consent of BDO Seidman LLP relating to RELM Wireless Corporation's
+          Registration Statements on Form S-8 (Registration No. 333-112446 and
+          Registration No. 333-25795)*
+24        Power of Attorney (included on signature page)
+31.1      Certification Pursuant to Item 601(b)(31) of Regulation S-K, as
+          adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002*
+31.2      Certification Pursuant to Item 601(b)(31) of Regulation S-K, as
+          adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002*
+32.1      Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+          to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished pursuant
+          to Item 601(b)(32) of Regulation S-K)*
+32.2      Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+          to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished pursuant
+          to Item 601(b)(32) of Regulation S-K)*
+
+                                       31
+<PAGE>
+
+ *    Included with this filing
+(1)   Incorporated by reference from the Adage, Inc. (predecessor to RELM
+      Wireless Corporation) report on form 10-K for the year ended December 31,
+      1996.
+(2)   Incorporated by reference from the Company's report on form 10-K for the
+      year ended December 31, 1997.
+(3)   Incorporated by reference from the Company's report on form 10-K for the
+      year ended December 31, 1998.
+(4)   Incorporated by reference from the Company's report on form 10-Q for the
+      quarter ended March 31, 1999 filed May 12, 1999.
+(5)   Incorporated by reference from the Company's report on form 10-K for the
+      year ended December 31, 1999.
+(6)   Incorporated by reference from the Company's report on form 10-K/A-1 for
+      the year ended December 31, 1999, filed April 12, 2000.
+(7)   Incorporated by reference from the Company's report on form 10-Q for the
+      quarter ended September 30, 2001 dated November 1, 2001.
+(8)   Incorporated by reference from the Company's report on form 8-K dated
+      December 6, 2002, filed on December 6, 2002.
+(9)   Incorporated by reference from the Company's report on form 8-K dated
+      September 5, 2003, filed on September 5, 2003
+(10)  Incorporated by reference from the Company's annual report on Form 10-K
+      for the fiscal year ended December 31, 2003.
+(11)  Incorporated by reference from the Company's report on form 8-K dated
+      February 27, 2004, filed on February 27, 2004.
+(12)  Incorporated by reference from the Company's report on Form 8-K dated May
+      27, 2004.
+
+Each management contract or compensation plan or arrangement required to be
+filed as an exhibit to this report pursuant to Item 15 is listed in exhibit
+10.1, 10.2, 10.12, 10.13, and 10.14.
+
+(d) Consolidated Financial Statement Schedules:
+
+All schedules have been omitted because they are inapplicable or not material,
+or the information called for thereby is included in the Consolidated Financial
+Statements and notes thereto.
+
+                                       32
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized in the City of West
+Melbourne, Florida on the 25th day of March 2005.
+
+                                       RELM WIRELESS CORPORATION
+
+                                       By: /s/ David P. Storey
+                                           -------------------------------------
+                                           David P. Storey
+                                           President and Chief Executive Officer
+
+
+                                POWER OF ATTORNEY
+
+Each person whose signature appears below hereby constitutes and appoints David
+P. Storey and William P. Kelly and each of them, his attorneys-in-fact, each
+with the power of substitution, for him and in his name, place and stead, in any
+and all capacities, to sign any and all amendments to this report on Form 10-K,
+and to file the same, with all exhibits thereto and all documents in connection
+therewith, with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them full power and authority to do
+and perform each and every act and all intents and purposes as he might or could
+do in person, hereby ratifying and confirming all that such attorneys-in-fact
+and agents or any of them or his or their substitute or substitutes, may
+lawfully do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+
+SIGNATURE                        TITLE                                  DATE
+---------                        -----                                  -----
+<S>                              <C>                                    <C>
+/s/George N. Benjamin, III       Chairman of the Board                  March 25, 2005
+-----------------------------
+George N. Benjamin, III
+
+
+/s/David P. Storey               President, Chief Executive Officer,    March 25, 2005
+------------------------------   and Director (Principal Executive
+David P. Storey                  Officer)
+
+
+/s/William P. Kelly              Executive Vice President - Finance     March 25, 2005
+------------------------------   and Chief Financial Officer
+William P. Kelly                 (Principal Financial Officer and
+                                 Accounting Officer)
+
+
+/s/Donald F. U. Goebert          Director                               March 25, 2005
+------------------------------
+Donald F. U. Goebert
+
+
+/s/James C. Gale                 Director                               March 25, 2005
+------------------------------
+James C. Gale
+
+
+/s/Ralph R. Whitney Jr.          Director                               March 25, 2005
+------------------------------
+Ralph R. Whitney Jr.
+
+
+/s/Randolph K. Piechocki         Director                               March 25, 2005
+------------------------------
+Randolph K. Piechocki
+</TABLE>
+
+                                       33
+<PAGE>
+
+                                INDEX TO EXHIBITS
+
+Number    Exhibit
+-------   ----------------------------------------------------------------------
+23.1      Consent of BDO Seidman LLP relating to RELM Wireless Corporation's
+          Registration Statements on Form S-8 (Registration No. 333-112446 and
+          Registration No. 333-25795)
+24        Power of Attorney (included on signature page)
+31.1      Certification Pursuant to Item 601(b)(31) of Regulation S-K, as
+          adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002*
+31.2      Certification Pursuant to Item 601(b)(31) of Regulation S-K, as
+          adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002*
+32.1      Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+          to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished pursuant
+          to Item 601(b)(32) of Regulation S-K)*
+32.2      Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+          to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished pursuant
+          to Item 601(b)(32) of Regulation S-K)*
+</TEXT>
+</DOCUMENT>

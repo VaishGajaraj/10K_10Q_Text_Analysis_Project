@@ -1,0 +1,1539 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>l09472ae10vk.txt
+<DESCRIPTION>APPLIED INDUSTRIAL TECHNOLOGIES, INC.  10-K/FISCAL YEAR END 6-30-04
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+[X]      Annual report pursuant to Section 13 or 15(d) of the Securities
+         Exchange Act of 1934
+         For the fiscal year ended June 30, 2004 or
+
+[ ]      Transition report pursuant to Section 13 or 15(d) of the Securities
+         Exchange Act of 1934
+         For the transition period from _________ to _________
+
+                          Commission file number 1-2299
+
+                      APPLIED INDUSTRIAL TECHNOLOGIES, INC.
+             (Exact name of registrant as specified in its charter)
+
+                Ohio                                         34-0117420
+  -----------------------------------                        ----------
+  (State or other jurisdiction of                        (I.R.S. Employer
+  incorporation or organization)                         Identification No.)
+
+                    One Applied Plaza, Cleveland, Ohio 44115
+                    ----------------------------------------
+               (Address of principal executive offices) (Zip Code)
+
+       Registrant's telephone number, including area code: (216) 426-4000.
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+         Title of each class           Name of each exchange on which registered
+         -------------------           -----------------------------------------
+
+   Common Stock, without par value                 New York Stock Exchange
+   Preferred Stock Purchase Rights
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+<PAGE>
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act). Yes [X] No [ ]
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of
+the last business day of the registrant's most recently completed second fiscal
+quarter (December 31, 2003): $446,092,883.
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of the latest practicable date.
+
+<TABLE>
+<CAPTION>
+           Class                           Outstanding at August 24, 2004
+           -----                           ------------------------------
+<S>                                        <C>
+Common Stock, without par value                       19,601,724
+</TABLE>
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Listed hereunder are the documents, portions of which are incorporated by
+reference, and the Parts of this Form 10-K into which such portions are
+incorporated:
+
+         (1)  Applied Industrial Technologies, Inc. Annual Report to
+              shareholders for the fiscal year ended June 30, 2004, portions of
+              which are incorporated by reference into Parts I, II and IV of
+              this Form 10-K; and,
+
+         (2)  Applied Industrial Technologies, Inc. Proxy Statement dated
+              September 9, 2004, portions of which are incorporated by reference
+              into Parts II, III, and IV of this Form 10-K.
+
+                                       1
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                             Page
+                                                                             ----
+<S>                                                                          <C>
+CAUTIONARY STATEMENT UNDER PRIVATE SECURITIES                                  3
+         LITIGATION REFORM ACT
+
+PART I                                                                         4
+Item 1.  Business                                                              4
+Item 2.  Properties                                                           10
+Item 3.  Legal Proceedings                                                    11
+Item 4.  Submission of Matters to a Vote of Security Holders                  11
+
+EXECUTIVE OFFICERS OF THE REGISTRANT                                          11
+
+PART II
+Item 5.  Market for Registrant's Common Equity, Related
+         Stockholder Matters and Issuer Purchases of Equity Securities        13
+Item 6.  Selected Financial Data                                              14
+Item 7.  Management's Discussion and Analysis                                 14
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk           14
+Item 8.  Financial Statements and Supplementary Data                          14
+Item 9.  Changes in and Disagreements with Accountants on
+         Accounting and Financial Disclosure                                  15
+Item 9A. Controls and Procedures                                              15
+Item 9B. Other Information                                                    15
+
+PART III
+Item 10. Directors and Executive Officers of the Registrant                   16
+Item 11. Executive Compensation                                               16
+Item 12. Security Ownership of Certain Beneficial Owners and
+         Management and Related Stockholder Matters                           16
+Item 13. Certain Relationships and Related Transactions                       17
+Item 14. Principal Accountant Fees and Services                               17
+
+PART IV
+Item 15. Exhibits and Financial Statement Schedules                           17
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC
+ACCOUNTING FIRM                                                               23
+
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS                               24
+
+SIGNATURES                                                                    25
+EXHIBITS
+</TABLE>
+
+                                       2
+
+<PAGE>
+
+                              CAUTIONARY STATEMENT
+                 UNDER PRIVATE SECURITIES LITIGATION REFORM ACT
+
+         THIS REPORT, INCLUDING THE DOCUMENTS INCORPORATED BY REFERENCE,
+CONTAINS STATEMENTS THAT ARE FORWARD-LOOKING, BASED ON MANAGEMENT'S CURRENT
+EXPECTATIONS ABOUT THE FUTURE. FORWARD-LOOKING STATEMENTS ARE OFTEN IDENTIFIED
+BY QUALIFIERS SUCH AS "EXPECT," "BELIEVE," "INTEND," "WILL," AND SIMILAR
+EXPRESSIONS. APPLIED INTENDS THAT THE FORWARD-LOOKING STATEMENTS BE SUBJECT TO
+THE SAFE HARBORS ESTABLISHED IN THE PRIVATE SECURITIES LITIGATION REFORM ACT OF
+1995 AND BY THE SECURITIES AND EXCHANGE COMMISSION IN ITS RULES, REGULATIONS,
+AND RELEASES.
+
+         READERS ARE CAUTIONED NOT TO PLACE UNDUE RELIANCE ON ANY
+FORWARD-LOOKING STATEMENTS. ALL FORWARD-LOOKING STATEMENTS ARE BASED ON CURRENT
+EXPECTATIONS REGARDING IMPORTANT RISK FACTORS, MANY OF WHICH ARE OUTSIDE
+APPLIED'S CONTROL. ACCORDINGLY, ACTUAL RESULTS MAY DIFFER MATERIALLY FROM THOSE
+EXPRESSED IN THE FORWARD-LOOKING STATEMENTS, AND THE MAKING OF THOSE STATEMENTS
+SHOULD NOT BE REGARDED AS A REPRESENTATION BY APPLIED OR ANY OTHER PERSON THAT
+THE RESULTS EXPRESSED IN THE STATEMENTS WILL BE ACHIEVED. IN ADDITION, APPLIED
+ASSUMES NO OBLIGATION PUBLICLY TO UPDATE OR REVISE ANY FORWARD-LOOKING
+STATEMENTS, WHETHER BECAUSE OF NEW INFORMATION OR EVENTS, OR OTHERWISE.
+
+         APPLIED BELIEVES ITS PRIMARY RISK FACTORS INCLUDE, BUT ARE NOT LIMITED
+TO, THOSE IDENTIFIED IN "NARRATIVE DESCRIPTION OF BUSINESS," IN PART I, ITEM 1,
+SECTION (c), BELOW, AND THE FOLLOWING: CHANGES IN THE ECONOMY OR SPECIFIC
+CUSTOMER INDUSTRY SECTORS; REDUCED DEMAND FOR OUR PRODUCTS IN TARGETED MARKETS
+DUE TO CONSOLIDATION IN CUSTOMER INDUSTRIES AND THE TRANSFER OF MANUFACTURING
+CAPACITY TO FOREIGN COUNTRIES; CHANGES IN INTEREST RATES AND INFLATION; CHANGES
+IN CUSTOMER PROCUREMENT POLICIES AND PRACTICES; CHANGES IN PRODUCT MANUFACTURER
+SALES POLICIES AND PRACTICES; THE AVAILABILITY OF PRODUCTS AND LABOR; CHANGES IN
+OPERATING EXPENSES; PRICE INCREASES OR DECREASES; CHANGES IN RELATIONSHIPS WITH
+EXISTING CUSTOMERS AND SUPPLIERS; THE VARIABILITY AND TIMING OF NEW BUSINESS
+OPPORTUNITIES INCLUDING ACQUISITIONS, ALLIANCES, CUSTOMER RELATIONSHIPS, AND
+SUPPLIER AUTHORIZATIONS; OUR ABILITY TO REALIZE THE ANTICIPATED BENEFITS OF
+ACQUISITIONS AND OTHER BUSINESS STRATEGIES; THE INCURRENCE OF DEBT AND
+CONTINGENT LIABILITIES IN CONNECTION WITH ACQUISITIONS; CHANGES IN ACCOUNTING
+POLICIES AND PRACTICES; ORGANIZATIONAL CHANGES WITHIN THE COMPANY; THE EMERGENCE
+OF NEW COMPETITORS, INCLUDING FIRMS WITH GREATER FINANCIAL RESOURCES; RISKS AND
+UNCERTAINTIES ASSOCIATED WITH OUR FOREIGN OPERATIONS, INCLUDING INFLATION,
+RECESSIONS, AND FOREIGN CURRENCY EXCHANGE RATES; ADVERSE RESULTS IN SIGNIFICANT
+LITIGATION MATTERS; ADVERSE REGULATION AND LEGISLATION; AND THE OCCURRENCE OF
+EXTRAORDINARY EVENTS (INCLUDING PROLONGED LABOR DISPUTES, NATURAL EVENTS AND
+ACTS OF GOD, TERRORIST ACTS, FIRES, FLOODS, AND ACCIDENTS).
+
+                                       3
+
+<PAGE>
+
+                                     PART I.
+
+                                ITEM 1. BUSINESS.
+
+         In this Annual Report on Form 10-K, "Applied" refers to Applied
+Industrial Technologies, Inc. References to "we," "us," "our," and "the company"
+refer to Applied and its subsidiaries.
+
+         The company is one of North America's leading distributors of
+industrial products and fluid power products and systems. In addition, we
+provide fluid power, mechanical, electrical, and rubber shop services. We offer
+technical application support for our products and provide creative solutions to
+help customers minimize downtime and reduce overall procurement costs. Although
+we do not generally manufacture the products we sell, we do assemble and repair
+various products and systems. Our customers are primarily North American
+industrial companies, who use our products to maintain and to repair their
+machinery and equipment. We also sell for original equipment manufacturing uses.
+
+         Applied and its predecessor companies have engaged in this business
+since 1923. Applied reincorporated in Ohio in 1988.
+
+         Applied's Internet address is www.applied.com. The following documents
+are available free of charge at the investor relations area of our website:
+
+         -        Our annual report on Form 10-K, quarterly reports on Form
+                  10-Q, current reports on Form 8-K, and amendments to those
+                  reports, together with Section 16 insider beneficial stock
+                  ownership reports, as soon as reasonably practicable after
+                  they are electronically filed with, or furnished to, the
+                  Securities and Exchange Commission
+
+         -        Our Code of Business Ethics
+
+         -        Our Board of Directors Governance Principles and Practices
+
+         -        Charters for the Audit, Corporate Governance, and Executive
+                  Organization & Compensation Committees of our Board of
+                  Directors
+
+         The information contained on our website is not incorporated into this
+annual report on Form 10-K. The documents referenced above are also available in
+print to any shareholder who sends a written request to our Vice President-Chief
+Financial Officer & Treasurer at One Applied Plaza, Cleveland, Ohio 44115-5014.
+
+         (a)      General Development of Business.
+
+         In November 2003, we acquired Rodamientos y Bandas de la Laguna, S.A.
+de C.V. ("Rybalsa"), a Mexican distributor of bearings and power transmission
+components with annual sales of approximately US $10 million. Its operations
+have been integrated with our existing Applied Mexico business.
+
+                                       4
+
+<PAGE>
+
+         Additional information regarding developments in our business can be
+found in our 2004 Annual Report to shareholders under the caption "Management's
+Discussion and Analysis" on pages 10 through 17, which is incorporated here by
+reference.
+
+         (b)      Financial Information about Segments.
+
+         We have identified only one reportable business segment, service
+center-based distribution. This business provides customers with solutions to
+their maintenance, repair, and original equipment manufacturing needs by
+distributing, through our service center network, bearings and seals, linear
+motion products, power transmission products, fluid power products, industrial
+rubber products, general maintenance and safety products, and tools. We also
+offer technical support and provide creative solutions to help customers
+minimize their production downtime and reduce overall procurement costs.
+
+         In addition to service center-based distribution, we operate several
+specialized fluid power companies that primarily sell products and services
+directly to customers rather than through the service centers.
+
+         Segment financial information can be found in the 2004 Annual Report to
+shareholders in note 12 to the financial statements on pages 32 and 33, and that
+information is incorporated here by reference.
+
+         (c)      Narrative Description of Business.
+
+         Overview. Our field operating structure is built on two primary
+platforms - industrial products, and fluid power products and systems:
+
+         -        Industrial Products. Through our service centers, located in
+                  47 states, four Canadian provinces, Puerto Rico, and Mexico,
+                  we distribute industrial products, including bearings and
+                  seals, linear motion products, power transmission products,
+                  fluid power components, industrial rubber products, general
+                  maintenance and safety products, and tools. Customers
+                  primarily purchase our products for scheduled maintenance of
+                  their machinery and equipment and for emergency repairs. In
+                  addition, we operate regional fabricated rubber shops, which
+                  modify and repair conveyor belts and assemble hose apparatuses
+                  in accordance with customer requirements, and rubber service
+                  field crews, which install and repair belts and rubber linings
+                  at customer locations. The industrial products business
+                  accounts for a substantial majority of our field operations
+                  and sales dollars. While the industrial products business
+                  operates in the U.S. using the Applied Industrial Technologies
+                  trade name, we also are known as Bearing & Transmission and
+                  IECO in Canada, Applied Mexico in Mexico, and Rafael Benitez
+                  Carrillo in Puerto Rico.
+
+         -        Fluid Power. Our specialized fluid power businesses primarily
+                  market their products and services directly to customers, but
+                  also through the service center network. In
+
+                                       5
+
+<PAGE>
+
+                  addition to distributing fluid power components, the
+                  businesses operate shops that assemble fluid power systems and
+                  components, perform equipment repair, and offer technical
+                  advice to customers. Customers include businesses purchasing
+                  for maintenance and repair applications, as well as for
+                  original equipment manufacturing applications. Our fluid power
+                  businesses operate in various geographic areas under the
+                  following names: Air and Hydraulics Engineering (Southeast),
+                  Air Draulics Engineering (Mississippi Valley), Dees Fluid
+                  Power (Mid-Atlantic and Northeast), Elect-Air (West Coast),
+                  Engineered Sales (Midwest), ESI Power Hydraulics (Midwest),
+                  HyPower (Western Canada), and Kent Fluid Power (West Coast).
+
+         Products. We are one of North America's leading distributors of
+industrial and fluid power products and systems. Industrial products include
+bearings and seals, linear motion products, power transmission products,
+industrial rubber products, general maintenance and safety products, and tools.
+Fluid power products include hydraulic, pneumatic, lubrication, and filtration
+components and systems.
+
+         These products are generally manufactured by other companies for whom
+we serve as a non-exclusive distributor. These suppliers also may provide us
+product training, as well as sales and marketing support. We believe that these
+relationships are generally good. The loss of certain suppliers could adversely
+affect our business. Authorizations to represent particular suppliers and
+product lines may vary by geographic region.
+
+         Our product suppliers generally confine their direct sales activities
+to large-volume transactions, mainly with original equipment manufacturers. Our
+suppliers generally do not sell maintenance and repair products directly to the
+customer but instead refer the customer to us or another distributor. Of course,
+there is no assurance that this practice will continue, however, and its
+discontinuance could adversely affect our business.
+
+         Net sales by product category for the past three fiscal years can be
+found in the 2004 Annual Report to shareholders in note 12 to the financial
+statements on page 33, and that information is incorporated here by reference.
+
+         Services. Our service center associates advise and assist customers
+with respect to product selection and application, and industrial product
+inventory management. We consider this advice and assistance to be an integral
+part of our sales efforts. Beyond traditional parts distribution services, we
+offer product and process solutions involving multiple technologies, helping to
+reduce production downtime, as well as overall procurement and maintenance costs
+for customers. By providing high levels of service, product and industry
+expertise, and technical support, while at the same time offering competitive
+pricing, we believe we develop closer, longer-lasting, and more profitable
+customer relationships.
+
+         Our sales associates include customer sales and service representatives
+and account managers, as well as product and industry specialists. Customer
+sales and service representatives receive, process, and expedite customer
+orders, provide product and pricing information, and assist
+
+                                       6
+<PAGE>
+
+account managers in serving customers. Account managers make on-site calls to
+current and potential customers to provide product and price information,
+identify customer requirements, provide recommendations, and assist in
+implementing equipment maintenance and storeroom management programs, including
+our automated storeroom replenishment system, AppliedSTORE Plus(SM). Account
+managers also measure and document for customers the value of cost savings and
+increased productivity generated by our services and recommendations. Product
+and industry specialists assist with applications in their areas of technical
+expertise.
+
+         We maintain inventory levels at each service center tailored to the
+local market. These inventories consist of standard items as well as other items
+specific to local customers' immediate needs. Eight distribution centers
+replenish service center inventories and also may ship products direct to
+customers. The inventory maintained at our facilities allows us to satisfy our
+customers' just-in-time product needs.
+
+         Timely delivery of products is an integral part of our service,
+particularly when customers require products for emergency repairs to their
+machinery or equipment. Service centers and distribution centers use the most
+effective method of transportation available to meet customer needs, including
+our own delivery vehicles, dedicated third-party transportation providers, as
+well as both surface and air common carrier and courier services.
+
+         Our information systems enhance our ability to serve customers. While
+we have long transacted with customers through electronic data interchange
+(EDI), customers increasingly turn to our electronic commerce website to search
+for products in a comprehensive electronic database, research product
+attributes, view prices, check inventory levels, place orders, and track order
+status. We are continuing to enhance the functionality of the site. Sales
+through the website still represent a small portion of our overall sales, but
+are growing. We also interface with customers' technology platforms and plant
+maintenance systems.
+
+         Along with our electronic capabilities, we support our service center
+network with paper catalogs. The Maintenance America(R) product catalog
+facilitates the purchase of general maintenance and safety products, and tools.
+And our Fluid Power Connection(R) catalog of hydraulic and pneumatic components
+facilitates buying these products from our service centers. Products from both
+specialty catalogs are also available online at www.applied.com.
+
+         We now supplement the service center product offering with our
+MaintenancePro(SM) fee-based technical training seminars. These courses provide
+customer personnel with information on maintenance, troubleshooting, component
+application, and failure analysis in the product areas of hydraulics and
+pneumatics, lubrication, bearings, and power transmission.
+
+         In addition to distributing products, we offer shop services in select
+geographic areas. Our fabricated rubber shops modify and repair conveyor belts
+and provide hose assemblies (also available at select service centers and
+distribution centers) in accordance with customer requirements. We also provide
+field crews that perform services, including the installation and repair of
+belts and rubber lining, primarily at customer locations. Among the other
+services we
+
+                                       7
+
+<PAGE>
+
+offer, either performed by us directly or by third party providers, are the
+rebuilding and assembly of speed reducers, pumps, valves, cylinders, and
+electric and hydraulic motors, and custom machining.
+
+         Our fluid power businesses generally operate independently of the
+service centers, but as product distributors, share the same focus on customer
+service. Product and application recommendations, inventory availability, and
+delivery speed are all key to the businesses' success. The fluid power
+businesses distinguish themselves, though, from most component distributors by
+also offering engineering, design, system fabrication, installation, and repair
+services. Each business has account managers with extensive technical knowledge,
+who handle sophisticated projects for customers primarily within the business'
+geographic region. The businesses also provide additional technical support to
+our service centers.
+
+         Markets. We purchase from several thousand product manufacturers and
+resell the products to many thousands of customers in a wide variety of
+industries, including agriculture and food processing, automotive, chemical
+processing, forest products, industrial machinery and equipment, mining, primary
+metals, transportation, and utilities. Customers range from the largest
+industrial concerns in North America, with whom we may have multiple-location
+relationships, to the smallest. We are not significantly dependent on a single
+customer or group of customers, the loss of which would have a material adverse
+effect on our business as a whole, and no single customer accounts for more than
+4% of our net sales.
+
+         Competition. We consider our business to be highly competitive. In
+addition, our markets present few economic or technological barriers to entry,
+contributing to a high fragmentation of market share in our industry.
+Longstanding supplier and customer relationships, geographic coverage, name
+recognition, and our associates' experience do, however, support our competitive
+position. Competition is based generally on breadth and quality of product and
+service offerings, product availability, price, catalogs and online capability,
+and having a local presence.
+
+         Our principal competitors are other bearing, power transmission,
+industrial rubber, fluid power, linear motion, and general maintenance and
+safety product distributors, and, to a lesser extent, mill supply and catalog
+companies. These competitors include local, regional, national, and
+international operations. We also compete with original equipment manufacturers
+and their distributors in the sale of maintenance and replacement components.
+Some competitors have greater financial resources than we do. The identity and
+number of our competitors vary throughout the geographic and product markets in
+which we operate.
+
+         Although we are one of the leading distributors in North America for
+the major product categories we carry, our market share for those products in
+any given geographic area may be relatively small compared to the portion of the
+market served by original equipment manufacturers and other distributors.
+
+         Backlog Orders and Seasonality. Because of our product resources and
+distribution network, we do not have a substantial backlog of orders, nor are
+backlog orders significant at any given time. Our business has exhibited minor
+seasonality - in particular, sales per day during the
+
+                                       8
+<PAGE>
+
+first half of our fiscal year have tended to be slightly lower compared with the
+second half due, in part, to the impact of customer plant shutdowns and
+holidays.
+
+         Patents, Trademarks, and Licenses. Customer recognition of our service
+marks and trade names, including Applied Industrial Technologies(R), Applied(R),
+and AIT(R), is an important contributing factor to our sales. Patents and
+licenses are not of material importance to our business.
+
+         Raw Materials and General Business Conditions. Our operations are
+dependent on general industrial and economic conditions and would be adversely
+affected by the unavailability of raw materials to our suppliers, prolonged
+labor disputes experienced by suppliers or customers, or by any recession or
+depression that has an adverse effect on industrial activity generally or on key
+customer industries served by us.
+
+         Number of Employees. On August 30, 2004, we had 4,312 employees.
+
+         Working Capital. Our working capital position is discussed in
+"Management's Discussion and Analysis" in the 2004 Annual Report to shareholders
+on pages 12 through 14.
+
+         We require substantial working capital related to accounts receivable
+and inventories. Significant amounts of inventory are carried to meet rapid
+delivery requirements of customers. We generally require payments for sales on
+account within 30 days. Returns are not considered to have a material effect on
+our working capital requirements. We believe these practices are generally
+consistent among companies in our industry.
+
+         Environmental Laws. We believe that compliance with laws regulating the
+discharge of materials into the environment or otherwise relating to
+environmental protection will not have a material adverse effect on our capital
+expenditures, earnings, or competitive position.
+
+         (d)      Financial Information about Geographic Areas.
+
+         Net sales by our Canadian and Mexican operations represented 8.6% of
+our total net sales in fiscal 2004, 6.8% in 2003, and 5.5% in 2002. The Canadian
+operations' sales (in U.S. dollars) were $119.4 million in 2004, $94.1 million
+in 2003, and $74.3 million in 2002. Long-lived assets located outside the United
+States are not and have not been material.
+
+         Our U.S. operations' export sales during the fiscal year ended June 30,
+2004, and prior fiscal years, were less than 2% of net sales, and were not
+concentrated in a specific geographic area.
+
+         Additional information regarding our foreign operations is included in
+the 2004 Annual Report to shareholders in note 12 to the financial statements on
+page 33, and in "Quantitative and Qualitative Disclosures About Market Risk" on
+page 17, and that information is incorporated here by reference.
+
+                                       9
+
+<PAGE>
+
+                               ITEM 2. PROPERTIES.
+
+         We believe that having a local presence is important to serving our
+customers, so we maintain service centers and other operations in local markets
+in 47 states, four Canadian provinces, Puerto Rico, and Mexico. At June 30,
+2004, we owned real properties at 152 locations and leased 258 locations.
+
+         Our principal owned real properties (each of which has more than 20,000
+square feet of floor space) at June 30, 2004 were:
+
+         -        the distribution center in Atlanta, Georgia
+
+         -        the distribution center in Florence, Kentucky
+
+         -        the service center in West Monroe, Louisiana
+
+         -        the service center and rubber shop in Omaha, Nebraska
+
+         -        the distribution center in Carlisle, Pennsylvania
+
+         -        the distribution center and rubber shop in Fort Worth, Texas
+
+         Our principal leased real properties (each of which has more than
+20,000 square feet of floor space) at June 30, 2004 were:
+
+         -        the corporate headquarters facility in Cleveland, Ohio
+
+         -        the distribution center, rubber shop, and service center in
+                  Fontana, California
+
+         -        the service center in Long Beach, California
+
+         -        the service center in San Jose, California
+
+         -        the rubber shop and fluid power shop in Tracy, California
+
+         -        the distribution center and service center in Denver, Colorado
+
+         -        the fluid power sales office and warehouse in Joppa, Maryland
+
+         -        the service center in Grand Rapids, Michigan
+
+         -        the service center and fluid power shop in Iron Mountain,
+                  Michigan
+
+         -        the service center and offices in Romulus, Michigan
+
+         -        the service center in Kansas City, Missouri
+
+         -        the inventory return center in Elyria, Ohio
+
+         -        the distribution center in Portland, Oregon
+
+         -        the service center in Longview, Washington
+
+         -        the rubber shop in Longview, Washington
+
+         -        the offices, service center, and rubber shop in Appleton,
+                  Wisconsin
+
+         -        the service center in Delta, British Columbia
+
+         -        the service center and distribution center in Winnipeg,
+                  Manitoba
+
+         -        the offices and fluid power shop in Saskatoon, Saskatchewan
+
+         -        the service center in Monterrey, Mexico
+
+                                       10
+
+<PAGE>
+
+         Except for the Joppa facility, all of the properties listed above are
+used in our service center-based distribution segment. The Tracy, Longview,
+Delta, Saskatoon, and Winnipeg facilities are used in operations both inside and
+outside the service center-based distribution segment.
+
+         We consider our properties generally sufficient to meet our
+requirements for office space and inventory stocking. A service center's size is
+primarily influenced by the amount of inventory the service center requires to
+meet customers' needs. We use all of our owned and leased properties except for
+certain properties which in the aggregate are not material and are either for
+sale, lease, or sublease to third parties due to a relocation or closing. We
+also may lease or sublease to others unused portions of buildings.
+
+         In recent years, when opening new locations, we have tended to lease
+rather than own real property. We do not consider any of our service center,
+distribution center, or shop properties to be material, because we believe that,
+if it becomes necessary or desirable to relocate an operation, other suitable
+property could be found.
+
+         Additional information regarding our properties is included in the 2004
+Annual Report to shareholders in note 11 to the financial statements on page 32,
+and that information is incorporated here by reference.
+
+                           ITEM 3. LEGAL PROCEEDINGS.
+
+         Applied and/or one of its subsidiaries is a party to various judicial
+and administrative proceedings. Based on circumstances currently known, we do
+not believe that any liabilities that may result from these proceedings are
+reasonably likely to have a material adverse effect on our consolidated
+financial position, results of operations, or cash flows.
+
+          ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+         No matters were submitted to a vote of Applied's security holders
+during the last quarter of fiscal 2004.
+
+                      EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+         Applied's executive officers are elected by the Board of Directors for
+a term of one year, or until their successors are chosen and qualified, at the
+Board's organizational meeting held following the annual meeting of
+shareholders. The following is a list of the executive officers and a
+description of their business experience during the past five years. Except as
+otherwise stated, the positions and offices indicated are with Applied, and the
+persons were elected to their current positions on October 21, 2003:
+
+                                       11
+
+<PAGE>
+
+                  David L. Pugh. Mr. Pugh is Chairman & Chief Executive Officer
+         (since October 2000) and has served as a member of the Board of
+         Directors since January 2000. He was President & Chief Executive
+         Officer (from January 2000 to October 2000), and prior to that was
+         President & Chief Operating Officer (from 1999 to January 2000). He is
+         55 years of age.
+
+                  Bill L. Purser. Mr. Purser is President & Chief Operating
+         Officer (since October 2000). Prior to that he was Vice President-Chief
+         Marketing Officer (from 1999 to October 2000). He is 61 years of age.
+
+                  Todd A. Barlett. Mr. Barlett is Vice President-Acquisitions
+         and Global Business Development (since July 2004). He had served as
+         Vice President-Global Business Development (from October 2000 to July
+         2004), Vice President-Alliance Systems (from January 2000 to October
+         2000) and Vice President-National Accounts & Alliance Systems (from
+         1998 to January 2000). He is 49 years of age.
+
+                  Fred D. Bauer. Mr. Bauer is Vice President-General Counsel
+         (since April 2002) and Secretary (since October 2001). He had served as
+         Vice President-Legal Services (from May 2000 to April 2002) and
+         Assistant Secretary (from 1994 to October 2001), and had also been
+         Assistant General Counsel (from 1994 to May 2000). He is 38 years of
+         age.
+
+                  Michael L. Coticchia. Mr. Coticchia is Vice President-Human
+         Resources and Administration (since April 2002). Prior to that, he
+         served as Vice President-Human Resources and Risk Management (from 1998
+         to April 2002) and Assistant Secretary (from 1990 to January 2002). He
+         is 41 years of age.
+
+                  Mark O. Eisele. Mr. Eisele is Vice President-Chief Financial
+         Officer & Treasurer (since January 2004). Prior to that, he had been
+         Vice President & Controller (from 1997 to December 2003). He is 47
+         years of age.
+
+                  James T. Hopper. Mr. Hopper is Vice President-Chief
+         Information Officer (since January 2000). He had served as Vice
+         President-Information Systems (from 1995 to January 2000). He is 61
+         years of age.
+
+                  Jeffrey A. Ramras. Mr. Ramras is Vice President-Marketing and
+         Supply Chain Management (since September 2002). He had served as Vice
+         President-Supply Chain Management (from January 2000 to September 2002)
+         and as Vice President-Logistics (from 1995 to January 2000). He is 49
+         years of age.
+
+                  Richard C. Shaw. Mr. Shaw is Vice President-Communications and
+         Learning (since January 2000). He had served as Vice
+         President-Communications, Organizational Learning & Quality Standards
+         (from 1996 to January 2000). He is 55 years of age.
+
+                                       12
+
+<PAGE>
+
+                                    PART II.
+
+             ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED
+         STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.
+
+         Applied's common stock, without par value, is listed for trading on the
+New York Stock Exchange under the ticker symbol AIT. Information concerning the
+principal market for Applied's common stock, the quarterly stock prices and
+dividends for the fiscal years ended June 30, 2004, 2003, and 2002 and the
+number of shareholders of record as of August 16, 2004 is set forth in the 2004
+Annual Report to shareholders on page 37, under the caption "Quarterly Operating
+Results and Market Data," and that information is incorporated here by
+reference.
+
+         Information concerning securities authorized for issuance under
+Applied's equity compensation plans is set forth in Applied's proxy statement
+dated September 9, 2004 under the caption, "Equity Compensation Plan
+Information" on page 15, and that information is incorporated here by reference.
+
+         Applied did not make any repurchases of its common stock in the quarter
+ended June 30, 2004 except as referenced in note (1) to the table below:
+
+<TABLE>
+<CAPTION>
+                                                         (c) Total Number of   (d) Maximum Number of
+                                                         Shares Purchased as    Shares that May Yet
+                           (a) Total      (b) Average      Part of Publicly      Be Purchased Under
+                           Number of     Price Paid per   Announced Plans or       the Plans or
+    Period                 Shares (1)        Share              Programs            Programs (2)
+----------------------------------------------------------------------------------------------------
+<S>                        <C>           <C>             <C>                   <C>
+April 1, 2004 to               0              --                  0                   841,375
+April 30, 2004
+----------------------------------------------------------------------------------------------------
+May 1, 2004 to                 0              --                  0                   841,375
+May 31, 2004
+----------------------------------------------------------------------------------------------------
+June 1, 2004 to                0              --                  0                   841,375
+June 30, 2004
+----------------------------------------------------------------------------------------------------
+Total                          0              --                  0                   841,375
+----------------------------------------------------------------------------------------------------
+</TABLE>
+
+(1)      During the quarter ended June 30, 2004, Applied did purchase 3,007
+         shares in connection with the exercise of stock options and other
+         employee benefit programs. These purchases are not counted within the
+         Board of Directors authorization described in footnote (2).
+
+(2)      On July 16, 2003, Applied announced that the Board of Directors had
+         authorized the purchase of up to 1,000,000 shares of common stock. The
+         purchases may be made in the open market or in privately negotiated
+         transactions. This authorization is in effect until all shares are
+         purchased or the authorization is revoked or amended by the Board.
+
+                                       13
+
+<PAGE>
+
+                        ITEM 6. SELECTED FINANCIAL DATA.
+
+         The summary of selected financial data for the last five years is set
+forth in the 2004 Annual Report to shareholders in the table on pages 38 and 39
+under the caption "10 Year Summary" and is incorporated here by reference.
+
+            ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                      CONDITION AND RESULTS OF OPERATIONS.
+
+         "Management's Discussion and Analysis" is set forth in the 2004 Annual
+Report to shareholders on pages 10 through 17 and is incorporated here by
+reference.
+
+                ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES
+                               ABOUT MARKET RISK.
+
+         The disclosures about market risk required by this item are set forth
+in Applied's 2004 Annual Report to shareholders on page 17, which information is
+incorporated here by reference. For further information relating to borrowing
+and interest rates, see the Liquidity and Capital Resources section of
+"Management's Discussion and Analysis" and Notes 6 and 7 to the Consolidated
+Financial Statements in Applied's 2004 Annual Report to shareholders on pages
+12-14, 26 and 27, respectively, which information is incorporated here by
+reference. In addition, please see "Cautionary Statement under Private
+Securities Litigation Reform Act" at page 3, above, for additional risk factors
+relating to our business.
+
+         ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+         The following consolidated financial statements and supplementary data
+of Applied and its subsidiaries and the independent auditors' report listed
+below, which are included in the 2004 Annual Report to shareholders at the pages
+indicated, are incorporated here by reference and filed with this Report:
+
+<TABLE>
+<CAPTION>
+              Caption                                                       Page No.
+              -------                                                       --------
+<S>                                                                         <C>
+Financial Statements:
+
+         Statements of Consolidated Income
+         for the Years Ended
+         June 30, 2004, 2003, and 2002                                          18
+
+         Consolidated Balance Sheets
+         June 30, 2004 and 2003                                                 19
+</TABLE>
+
+                                       14
+
+<PAGE>
+
+<TABLE>
+<S>                                                                          <C>
+         Statements of Consolidated Cash Flows
+         for the Years Ended
+         June 30, 2004, 2003, and 2002                                          20
+
+         Statements of Consolidated Shareholders'
+         Equity for the Years Ended
+         June 30, 2004, 2003, and 2002                                          21
+
+         Notes to Consolidated Financial Statements
+         for the Years Ended
+         June 30, 2004, 2003, and 2002                                       22 - 34
+
+Report of Independent Registered Public Accounting Firm                         35
+
+Supplementary Data:
+
+         Quarterly Operating Results and Market Data                            37
+</TABLE>
+
+             ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+                     ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+
+                                 Not applicable.
+
+                        ITEM 9A. CONTROLS AND PROCEDURES.
+
+         Management, under the supervision and with the participation of the
+chief executive officer and the chief financial officer, has evaluated Applied's
+disclosure controls and procedures as of the end of the period covered by this
+report. Based on that evaluation, the chief executive officer and chief
+financial officer have concluded that the disclosure controls and procedures are
+effective in timely alerting them to material information about Applied required
+to be included in our Exchange Act reports.
+
+         Management has not identified any change in internal control over
+financial reporting occurring during the fourth quarter that has materially
+affected, or is reasonably likely to materially affect, our internal control
+over financial reporting.
+
+                           ITEM 9B. OTHER INFORMATION.
+
+                                 Not applicable.
+
+                                       15
+
+<PAGE>
+
+                                    PART III.
+
+          ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+         The information required by this Item as to Applied's directors is set
+forth in Applied's Proxy Statement dated September 9, 2004 on pages 4 through 7
+under the caption "Election of Directors" and is incorporated here by reference.
+The information required by this Item as to Applied's executive officers has
+been furnished in this Report on pages 11 and 12 in Part I, after Item 4, under
+the caption "Executive Officers of the Registrant."
+
+         The information required by this Item as to compliance with Section
+16(a) of the Securities Exchange Act of 1934 is set forth in Applied's Proxy
+Statement on page 22 under the caption "Section 16(a) Beneficial Ownership
+Reporting Compliance" and is incorporated here by reference.
+
+         Applied has a code of ethics, entitled the Code of Business Ethics,
+that applies to our employees, including our chief executive officer, chief
+financial officer, and controller. The Code of Business Ethics is posted at the
+investor relations area of our www.applied.com website.
+
+                        ITEM 11. EXECUTIVE COMPENSATION.
+
+         The information required by this Item is set forth in Applied's Proxy
+Statement dated September 9, 2004, under the captions "Compensation of
+Directors" on page 10, "Deferred Compensation Plan for Non-Employee Directors"
+on page 11, "Summary Compensation" on page 13, "Option Grants in Last Fiscal
+Year" and "Aggregated Option Exercises and Fiscal Year-End Option Values" on
+page 14, "Long-Term Incentive Plans - Awards in Last Fiscal Year" on page 15,
+"Estimated Retirement Benefits Under Supplemental Executive Retirement Benefits
+Plan" and "Deferred Compensation Plan" on page 16, and "Change in Control
+Agreements and Other Related Arrangements" on page 17, and is incorporated here
+by reference.
+
+          ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+                  MANAGEMENT AND RELATED STOCKHOLDER MATTERS.
+
+         Information concerning the security ownership of certain beneficial
+owners and management and related stockholder matters is set forth in Applied's
+proxy statement dated September 9, 2004, under the captions "Beneficial
+Ownership of Certain Applied Shareholders and Management" on page 12 and "Equity
+Compensation Plan Information" on page 15, and is incorporated here by
+reference.
+
+                                       16
+
+<PAGE>
+
+            ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+                                 Not applicable.
+
+                ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES.
+
+         The information required by this Item is set forth in Applied's Proxy
+Statement dated September 9, 2004 on page 7 under the caption "Item 2 -
+Ratification of Auditors" and is incorporated here by reference.
+
+                                    PART IV.
+
+              ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+(a)1. Financial Statements.
+
+         The following consolidated financial statements, notes thereto, the
+report of independent registered public accounting firm, and supplemental data
+are included in the 2004 Annual Report to shareholders on pages 18 through 35
+and page 37, and are incorporated by reference in Item 8 of this Report.
+
+                                    Caption
+
+                  Statements of Consolidated Income for the
+                  Years Ended June 30, 2004, 2003, and 2002
+
+                  Consolidated Balance Sheets at
+                  June 30, 2004 and 2003
+
+                  Statements of Consolidated Cash Flows for
+                  the Years Ended June 30, 2004, 2003, and 2002
+
+                  Statements of Consolidated Shareholders'
+                  Equity for the Years Ended June 30, 2004,
+                  2003, and 2002
+
+                  Notes to Consolidated Financial Statements
+                  for the Years Ended June 30, 2004, 2003, and 2002
+
+                  Report of Independent Registered Public Accounting Firm
+
+                                       17
+
+<PAGE>
+
+                  Supplementary Data:
+                    Quarterly Operating Results and Market Data
+
+(a)2.    Financial Statement Schedule.
+
+         The following report and schedule are included in this Part IV, and are
+found in this Report at the pages indicated:
+
+<TABLE>
+<CAPTION>
+                Caption                                       Page No.
+                -------                                       --------
+<S>                                                           <C>
+Report of Independent Registered Public
+Accounting Firm                                                  23
+
+Schedule II - Valuation and
+Qualifying Accounts                                              24
+</TABLE>
+
+         All other schedules for which provision is made in the applicable
+accounting regulation of the Securities and Exchange Commission have been
+omitted because they are not required under the related instructions, are not
+applicable, or the required information is included in the consolidated
+financial statements and notes thereto.
+
+(a)3.    Exhibits.
+
+* Asterisk indicates an executive compensation plan or arrangement.
+
+<TABLE>
+<CAPTION>
+Exhibit
+  No.                                  Description
+  ---                                  -----------
+<S>             <C>
+3(a)            Amended and Restated Articles of Incorporation of Applied
+                Industrial Technologies, Inc., as amended on October 8, 1998
+                (filed as Exhibit 3(a) to Applied's Form 10-Q for the quarter
+                ended September 30, 1998, SEC File No. 1-2299, and incorporated
+                here by reference).
+
+3(b)            Code of Regulations of Applied Industrial Technologies, Inc., as
+                amended on October 19, 1999 (filed as Exhibit 3(b) to Applied's
+                Form 10-Q for the quarter ended September 30, 1999, SEC File No.
+                1-2299, and incorporated here by reference).
+
+4(a)            Certificate of Merger of Bearings, Inc. (Ohio) and Bearings,
+                Inc. (Delaware) filed with the Ohio Secretary of State on
+                October 18, 1988, including an Agreement and Plan of
+                Reorganization dated September 6, 1988 (filed as Exhibit 4(a) to
+                Applied's Registration
+</TABLE>
+
+                                       18
+
+<PAGE>
+
+<TABLE>
+<S>             <C>
+                Statement on Form S-4 filed May 23, 1997, Registration No.
+                333-27801, and incorporated here by reference).
+
+4(b)            Private Shelf Agreement dated as of November 27, 1996, as
+                amended on January 30, 1998, between Applied and The Prudential
+                Insurance Company of America (filed as Exhibit 4(f) to Applied's
+                Form 10-Q for the quarter ended March 31, 1998, SEC File No.
+                1-2299, and incorporated here by reference).
+
+4(c)            Amendment dated October 24, 2000 to November 27, 1996 Private
+                Shelf Agreement between Applied and The Prudential Insurance
+                Company of America (filed as Exhibit 4(e) to Applied's Form 10-Q
+                for the quarter ended September 30, 2000, SEC File No. 1-2299,
+                and incorporated here by reference).
+
+4(d)            Amendment dated November 14, 2003 to 1996 Private Shelf
+                Agreement between Applied and The Prudential Insurance Company
+                of America (filed as Exhibit 4(d) to Applied's Form 10-Q for the
+                quarter ended December 31, 2003, SEC File No. 1-2299, and
+                incorporated here by reference).
+
+4(e)            Amendment dated February 25, 2004 to 1996 Private Shelf
+                Agreement between Applied and The Prudential Insurance Company
+                of America (filed as Exhibit 4(e) to Applied's Form 10-Q for the
+                quarter ended March 31, 2004, SEC File No. 1-2299, and
+                incorporated here by reference).
+
+4(f)            $100,000,000 Credit Agreement dated as of October 31, 2003 among
+                Applied, KeyBank National Association as Agent, and various
+                financial institutions (filed as Exhibit 4(e) to Applied's Form
+                10-Q for the quarter ended December 31, 2003, SEC File No.
+                1-2299, and incorporated here by reference).
+
+4(g)            Rights Agreement, dated as of February 2, 1998, between Applied
+                and Computershare Investor Services LLP (successor to Harris
+                Trust and Savings Bank), as Rights Agent, which includes as
+                Exhibit B thereto the Form of Rights Certificate (filed as
+                Exhibit No. 1 to Applied's Registration Statement on Form 8-A
+                filed July 20, 1998, SEC File No. 1-2299, and incorporated here
+                by reference).
+
+*10(a)          Form of Change in Control Agreement (amended and restated as of
+                August 8, 2001) between Applied and each of its executive
+                officers (filed as Exhibit 10 to Applied's Form 10-Q for the
+                quarter ended
+</TABLE>
+
+                                       19
+
+<PAGE>
+
+<TABLE>
+<S>             <C>
+                December 31, 2001, SEC File No. 1-2299, and incorporated here
+                by reference).
+
+*10(b)          A written description of Applied's director compensation program
+                is found in Applied's Proxy Statement dated September 9, 2004,
+                SEC File No. 1-2299, on page 10, under the caption "Compensation
+                of Directors," and is incorporated here by reference.
+
+*10(c)          Applied Deferred Compensation Plan for Non-Employee Directors
+                (September 1, 2003 Restatement) (filed as Exhibit 10(c) to
+                Applied's Form 10-K for the year ended June 30, 2003, SEC File
+                No. 1-2299, and incorporated here by reference).
+
+*10(d)          A written description of Applied's Life and Accidental Death and
+                Dismemberment Insurance for executive officers (filed as Exhibit
+                10(b) to Applied's Form 10-Q for the quarter ended December 31,
+                1997, SEC File No. 1-2299, and incorporated here by reference).
+
+*10(e)          A written description of Applied's Long-Term Disability
+                Insurance for executive officers (filed as Exhibit 10(c) to
+                Applied's Form 10-Q for the quarter ended December 31, 1997, SEC
+                File No. 1-2299, and incorporated here by reference).
+
+*10(f)          Form of Director and Officer Indemnification Agreement entered
+                into between Applied and each of its directors and executive
+                officers (filed as Exhibit 10(g) to Applied's Registration
+                Statement on Form S-4 filed May 23, 1997, Registration No.
+                333-27801, and incorporated here by reference).
+
+*10(g)          Applied Supplemental Executive Retirement Benefits Plan
+                (January 1, 2002 Restatement) in which current and certain
+                former executive officers participate (filed as Exhibit 10 to
+                Applied's Form 10-Q for the quarter ended March 31, 2002, SEC
+                File No. 1-2299, and incorporated here by reference).
+
+*10(h)          Applied Deferred Compensation Plan (September 1, 2003
+                Restatement) (filed as Exhibit 10(h) to Applied's Form 10-K for
+                the year ended June 30, 2003, SEC File No. 1-2299, and
+                incorporated here by reference).
+
+*10(i)          First Amendment to the Company's Deferred Compensation Plan
+                (September 1, 2003 Restatement) (filed as Exhibit 10 to
+                Applied's Form 10-Q for the quarter ended December 31, 2003, SEC
+                File No. 1-2299, and incorporated here by reference).
+</TABLE>
+
+                                       20
+
+<PAGE>
+
+<TABLE>
+<S>             <C>
+*10(j)          1997 Long-Term Performance Plan re-adopted by Shareholders on
+                October 22, 2002 (filed as Exhibit 10(a) to Applied's Form 10-Q
+                for the quarter ended December 31, 1997, SEC File No. 1-2299,
+                and incorporated here by reference).
+
+*10(k)          Amendment No. 1 to 1997 Long-Term Performance Plan, effective as
+                of August 8, 2003 (filed as Exhibit 10(j) to Applied's Form 10-K
+                for the year ended June 30, 2003, SEC File No. 1-2299, and
+                incorporated here by reference).
+
+*10(l)          Applied Supplemental Defined Contribution Plan (January 1, 1997
+                Restatement) (filed as Exhibit 10(m) to Applied's Registration
+                Statement on Form S-4 filed May 23, 1997, Registration No.
+                333-27801, and incorporated here by reference).
+
+*10(m)          First Amendment to Applied Supplemental Defined Contribution
+                Plan effective as of October 1, 2000 (filed as Exhibit 10(a) to
+                Applied's Form 10-Q for the quarter ended September 30, 2000,
+                SEC File No. 1-2299, and incorporated here by reference).
+
+*10(n)          Second Amendment to Applied Supplemental Defined Contribution
+                Plan effective as of January 16, 2001 (filed as Exhibit 10(a) to
+                Applied's Form 10-Q for the quarter ended March 31, 2001, SEC
+                File No. 1-2299, and incorporated here by reference).
+
+*10(o)          Retention Program for James T. Hopper, Vice President-Chief
+                Information Officer, dated March 30, 2000 (filed as Exhibit
+                10(o) to Applied's Form 10-K for the year ended June 30, 2000,
+                SEC File No. 1-2299, and incorporated here by reference).
+
+10(p)           Lease dated as of March 1, 1996 between Applied and the
+                Cleveland-Cuyahoga County Port Authority (filed as Exhibit 10(n)
+                to Applied's Registration Statement on Form S-4 filed May 23,
+                1997, Registration No. 333-27801, and incorporated here by
+                reference).
+
+*10(q)          Non-qualified Deferred Compensation Agreement between Applied
+                and J. Michael Moore effective as of December 31, 1997 (filed as
+                Exhibit 10(a) to Applied's Form 10-Q for the quarter ended March
+                31, 1998, SEC File No. 1-2299, and incorporated here by
+                reference).
+</TABLE>
+
+                                       21
+
+<PAGE>
+
+<TABLE>
+<S>      <C>
+13       Applied 2004 Annual Report to shareholders (not deemed "filed" as part
+         of this Form 10-K except for those portions that are expressly
+         incorporated by reference).
+
+21       Applied's subsidiaries at June 30, 2004.
+
+23       Consent of Independent Registered Public Accounting Firm.
+
+24       Powers of attorney.
+
+31       Rule 13a-14(a)/15d-14(a) certifications.
+
+32       Section 1350 certifications.
+</TABLE>
+
+         Applied will furnish a copy of any exhibit described above and not
+contained herein upon payment of a specified reasonable fee which shall be
+limited to Applied's reasonable expenses in furnishing the exhibit.
+
+         Certain instruments with respect to long-term debt have not been filed
+as exhibits because the total amount of securities authorized under any one of
+the instruments does not exceed 10 percent of the total assets of Applied and
+its subsidiaries on a consolidated basis. Applied agrees to furnish to the
+Securities and Exchange Commission, upon request, a copy of each such
+instrument.
+
+                                       22
+
+<PAGE>
+
+         REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Shareholders and Board of Directors
+Applied Industrial Technologies, Inc.
+
+         We have audited the consolidated financial statements of Applied
+Industrial Technologies, Inc. and its subsidiaries (the "Company") as of June
+30, 2004 and 2003, and for each of the three years in the period ended June 30,
+2004, and have issued our report thereon dated August 6, 2004 (which report
+expresses an unqualified opinion and includes explanatory paragraphs concerning
+the adoption of new accounting principles in fiscal 2004 and 2002); such
+consolidated financial statements and report are included in your 2004 Annual
+Report to Shareholders and are incorporated herein by reference. Our audits also
+included the consolidated financial statement schedule of the Company, listed in
+Item 15(a)2. This consolidated financial statement schedule is the
+responsibility of the Company's management. Our responsibility is to express an
+opinion based on our audits. In our opinion, such consolidated financial
+statement schedule, when considered in relation to the basic consolidated
+financial statements taken as a whole, presents fairly in all material respects
+the information set forth therein.
+
+/s/ Deloitte & Touche, LLP
+
+Cleveland, Ohio
+August 6, 2004
+
+                                       23
+
+<PAGE>
+
+              APPLIED INDUSTRIAL TECHNOLOGIES, INC. & SUBSIDIARIES
+
+                        VALUATION AND QUALIFYING ACCOUNTS
+                FOR THE YEARS ENDED JUNE 30, 2004, 2003 AND 2002
+                                 (in thousands)
+
+<TABLE>
+<CAPTION>
+                COLUMN A                      COLUMN B                    COLUMN C             COLUMN D             COLUMN E
+                --------                      --------          --------------------------     --------             --------
+                                                                ADDITIONS        ADDITIONS
+                                             BALANCE AT         CHARGED TO       CHARGED TO   DEDUCTIONS             BALANCE
+                                             BEGINNING          COSTS AND          OTHER         FROM               AT END OF
+               DESCRIPTION                   OF PERIOD           EXPENSES         ACCOUNTS      RESERVE              PERIOD
+-----------------------------------------------------------------------------------------------------------------------------
+<S>                                          <C>                <C>              <C>          <C>                   <C>
+YEAR ENDED JUNE 30 2004:
+Reserve deducted from assets to
+which it applies - accounts receivable
+allowances                                     $6,100            $2,525            $ 60 (B)      $ 2,285 (A)           $6,400
+
+YEAR ENDED JUNE 30 2003:
+Reserve deducted from assets to
+which it applies - accounts receivable
+allowances                                     $5,600            $2,510            $500 (B)      $ 2,510 (A)           $6,100
+
+YEAR ENDED JUNE 30 2002:
+Reserve deducted from assets to
+which it applies - accounts receivable
+allowances                                     $5,400            $4,488                          $ 3,888 (A)           $5,600
+                                                                                                     400 (B)
+</TABLE>
+
+(A) Amounts represent uncollectible accounts charged off.
+
+(B) Amounts represent reserves for the return of merchandise by customers.
+
+                                   SCHEDULE II
+
+<PAGE>
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 of the Securities Exchange
+Act of 1934, the Registrant has duly caused this Report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                      APPLIED INDUSTRIAL TECHNOLOGIES, INC.
+
+/s/ David L. Pugh                            /s/ Bill L. Purser
+-----------------------------------------    -----------------------------------
+David L. Pugh, Chairman &                    Bill L. Purser, President &
+Chief Executive Officer                      Chief Operating Officer
+
+/s/ Mark O. Eisele                            /s/ Daniel T. Brezovec
+-----------------------------------------     ----------------------------------
+Mark O. Eisele                                Daniel T. Brezovec
+Vice President-Chief Financial Officer        Corporate Controller
+& Treasurer                                   (Principal Accounting Officer)
+
+Date: September 9, 2004
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this Report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the date indicated.
+
+         *                                           *
+_______________________________________     ____________________________________
+William G. Bares, Director                  Dr. Roger D. Blackwell, Director
+
+         *                                           *
+_______________________________________     ____________________________________
+William E. Butler, Director                 Thomas A. Commes, Director
+
+         *                                           *
+_______________________________________     ____________________________________
+Peter A. Dorsman, Director                  Russell R. Gifford, Director
+
+         *                                           *
+_______________________________________     ____________________________________
+L. Thomas Hiltz, Director                   Edith Kelly-Green, Director
+
+         *                                  /s/ David L. Pugh
+_______________________________________     ------------------------------------
+J. Michael Moore, Director                  David L. Pugh, Chairman & Chief
+                                            Executive Officer and Director
+
+         *                                           *
+_______________________________________     ____________________________________
+Dr. Jerry Sue Thornton, Director            Stephen E. Yates, Director
+
+/s/ Fred D. Bauer
+---------------------------------------
+Fred D. Bauer, as attorney in fact
+for persons indicated by "*"
+
+Date: September 9, 2004
+
+<PAGE>
+
+                      APPLIED INDUSTRIAL TECHNOLOGIES, INC.
+
+                                  EXHIBIT INDEX
+                  TO FORM 10-K FOR THE YEAR ENDED JUNE 30, 2004
+
+<TABLE>
+<CAPTION>
+Exhibit
+  No.                               Description
+  ---                               -----------
+<S>      <C>
+3(a)     Amended and Restated Articles of Incorporation of Applied Industrial
+         Technologies, Inc., as amended on October 8, 1998 (filed as Exhibit
+         3(a) to Applied's Form 10-Q for the quarter ended September 30, 1998,
+         SEC File No. 1-2299, and incorporated here by reference).
+
+3(b)     Code of Regulations of Applied Industrial Technologies, Inc., as
+         amended on October 19, 1999 (filed as Exhibit 3(b) to Applied's Form
+         10-Q for the quarter ended September 30, 1999, SEC File No. 1-2299, and
+         incorporated here by reference).
+
+4(a)     Certificate of Merger of Bearings, Inc. (Ohio) and Bearings, Inc.
+         (Delaware) filed with the Ohio Secretary of State on October 18, 1988,
+         including an Agreement and Plan of Reorganization dated September 6,
+         1988 (filed as Exhibit 4(a) to Applied's Registration Statement on Form
+         S-4 filed May 23, 1997, Registration No. 333-27801, and incorporated
+         here by reference).
+
+4(b)     Private Shelf Agreement dated as of November 27, 1996, as amended on
+         January 30, 1998, between Applied and The Prudential Insurance Company
+         of America (filed as Exhibit 4(f) to Applied's Form 10-Q for the
+         quarter ended March 31, 1998, SEC File No. 1-2299, and incorporated
+         here by reference).
+
+4(c)     Amendment dated October 24, 2000 to November 27, 1996 Private Shelf
+         Agreement between Applied and The Prudential Insurance Company of
+         America (filed as Exhibit 4(e) to Applied's Form 10-Q for the quarter
+         ended September 30, 2000, SEC File No. 1-2299, and incorporated here by
+         reference).
+
+4(d)     Amendment dated November 14, 2003 to 1996 Private Shelf Agreement
+         between Applied and The Prudential Insurance Company of America (filed
+         as Exhibit 4(d) to Applied's Form 10-Q for the quarter ended December
+         31, 2003, SEC File No. 1-2299, and incorporated here by reference).
+
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>             <C>
+4(e)            Amendment dated February 25, 2004 to 1996 Private Shelf
+                Agreement between Applied and the Prudential Insurance Company
+                of America (filed as Exhibit 4(e) to Applied's Form 10-Q for the
+                quarter ended March 31, 2004, SEC File No. 1-2299, and
+                incorporated here by reference).
+
+4(f)            $100,000,000 Credit Agreement dated as of October 31, 2003 among
+                Applied, KeyBank National Association as Agent, and various
+                financial institutions (filed as Exhibit 4(e) to Applied's Form
+                10-Q for the quarter ended December 31, 2003, SEC File No.
+                1-2299, and incorporated here by reference).
+
+4(g)            Rights Agreement, dated as of February 2, 1998, between Applied
+                and Computershare Investor Services LLP (successor to Harris
+                Trust and Savings Bank), as Rights Agent, which includes as
+                Exhibit B thereto the Form of Rights Certificate (filed as
+                Exhibit No. 1 to Applied's Registration Statement on Form 8-A
+                filed July 20, 1998, SEC File No. 1-2299, and incorporated here
+                by reference).
+
+*10(a)          Form of Change in Control Agreement (amended and restated as of
+                August 8, 2001) between Applied and each of its executive
+                officers (filed as Exhibit 10 to Applied's Form 10-Q for the
+                quarter ended December 31, 2001, SEC File No. 1-2299, and
+                incorporated here by reference).
+
+*10(b)          A written description of Applied's director compensation program
+                is found in Applied's Proxy Statement dated September 9, 2004,
+                SEC File No. 1-2299, on page 10, under the caption "Compensation
+                of Directors," and is incorporated here by reference.
+
+*10(c)          Applied Deferred Compensation Plan for Non-Employee Directors
+                (September 1, 2003 Restatement) (filed as Exhibit 10(c) to
+                Applied's Form 10-K for the year ended June 30, 2003, SEC File
+                No. 1-2299, and incorporated here by reference).
+
+*10(d)          A written description of Applied's Life and Accidental Death and
+                Dismemberment Insurance for executive officers (filed as Exhibit
+                10(b) to Applied's Form 10-Q for the quarter ended December 31,
+                1997, SEC File No. 1-2299, and incorporated here by reference).
+
+*10(e)          A written description of Applied's Long-Term Disability
+                Insurance for executive officers (filed as Exhibit 10(c) to
+                Applied's Form 10-Q for the quarter ended December 31, 1997, SEC
+                File No. 1-2299, and incorporated here by reference).
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>             <C>
+*10(f)          Form of Director and Officer Indemnification Agreement entered
+                into between Applied and each of its directors and executive
+                officers (filed as Exhibit 10(g) to Applied's Registration
+                Statement on Form S-4 filed May 23, 1997, Registration No.
+                333-27801, and incorporated here by reference).
+
+*10(g)          Applied Supplemental Executive Retirement Benefits Plan (January
+                1, 2002 Restatement) in which current and certain former
+                executive officers participate (filed as Exhibit 10 to Applied's
+                Form 10-Q for the quarter ended March 31, 2002, SEC File No.
+                1-2299, and incorporated here by reference).
+
+*10(h)          Applied Deferred Compensation Plan (September 1, 2003
+                Restatement) (filed as Exhibit 10(h) to Applied's Form 10-K for
+                the year ended June 30, 2003, SEC File No. 1-2299, and
+                incorporated here by reference).
+
+*10(i)          First Amendment to the Company's Deferred Compensation Plan
+                (September 1, 2003 Restatement) (filed as Exhibit 10 to
+                Applied's Form 10-Q for the quarter ended December 31, 2003, SEC
+                File No. 1-2299, and incorporated here by reference).
+
+*10(j)          1997 Long-Term Performance Plan re-adopted by Shareholders on
+                October 22, 2002 (filed as Exhibit 10(a) to Applied's Form 10-Q
+                for the quarter ended December 31, 1997, SEC File No. 1-2299,
+                and incorporated here by reference).
+
+*10(k)          Amendment No. 1 to 1997 Long-Term Performance Plan, effective as
+                of August 8, 2003. (filed as Exhibit 10(j) to Applied's Form
+                10-K for the year ended June 30, 2003, SEC File No. 1-2299, and
+                incorporated here by reference).
+
+*10(l)          Applied Supplemental Defined Contribution Plan (January 1, 1997
+                Restatement) (filed as Exhibit 10(m) to Applied's Registration
+                Statement on Form S-4 filed May 23, 1997, Registration No.
+                333-27801, and incorporated here by reference).
+
+*10(m)          First Amendment to Applied Supplemental Defined Contribution
+                Plan effective as of October 1, 2000 (filed as Exhibit 10(a) to
+                Applied's Form 10-Q for the quarter ended September 30, 2000,
+                SEC File No. 1-2299, and incorporated here by reference).
+
+*10(n)          Second Amendment to Applied Supplemental Defined Contribution
+                Plan effective as of January 16, 2001 (filed as Exhibit 10(a) to
+                Applied's Form 10-Q for the quarter ended March 31, 2001, SEC
+                File No. 1-2299, and incorporated here by reference).
+
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>             <C>                                                                     <C>
+*10(o)          Retention Program for James T. Hopper, Vice President-Chief
+                Information Officer, dated March 30, 2000 (filed as Exhibit
+                10(o) to Applied's Form 10-K for the year ended June 30, 2000,
+                SEC File No. 1-2299, and incorporated here by reference).
+
+10(p)           Lease dated as of March 1, 1996 between Applied and the
+                Cleveland-Cuyahoga County Port Authority (filed as Exhibit 10(n)
+                to Applied's Registration Statement on Form S-4 filed May 23,
+                1997, Registration No. 333-27801, and incorporated here by
+                reference).
+
+*10(q)          Non-qualified Deferred Compensation Agreement between Applied
+                and J. Michael Moore effective as of December 31, 1997 (filed as
+                Exhibit 10(a) to Applied's Form 10-Q for the quarter ended March
+                31, 1998, SEC File No. 1-2299, and incorporated here by
+                reference).
+
+13              Applied 2004 Annual Report to shareholders (not deemed "filed"
+                as part of this Form 10-K except for those portions that are
+                expressly incorporated by reference).                                   Attached
+
+21              Applied's subsidiaries at June 30, 2004.                                Attached
+
+23              Consent of Independent Registered Public Accounting Firm.               Attached
+
+24              Powers of attorney.                                                     Attached
+
+31              Rule 13a-14(a)/15d-14(a) certifications.                                Attached
+
+32              Section 1350 certifications.                                            Attached
+</TABLE>
+
+</TEXT>
+</DOCUMENT>

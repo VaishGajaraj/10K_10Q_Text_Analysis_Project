@@ -1,0 +1,3451 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>k60887e10-k405.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>   1
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+
+                                   FORM 10-K
+
+<TABLE>
+<S>    <C>
+
+[X]        ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                     SECURITIES EXCHANGE ACT OF 1934
+
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 2000
+                                       OR
+
+[ ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                     SECURITIES EXCHANGE ACT OF 1934
+
+          FOR THE TRANSITION PERIOD FROM              TO
+
+                  COMMISSION FILE NUMBER: 1-12928
+</TABLE>
+
+                            ------------------------
+
+                            AGREE REALTY CORPORATION
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+<TABLE>
+<S>                                              <C>
+                   MARYLAND                                        38-3148187
+        (State or other jurisdiction of                         (I.R.S. Employer
+        incorporation or organization)                         Identification No.)
+
+          31850 NORTHWESTERN HIGHWAY                             (248) 737-4190
+       FARMINGTON HILLS, MICHIGAN 48334                  (Registrant's telephone number,
+   (Address of principal executive offices)                   including area code)
+</TABLE>
+
+                            ------------------------
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+      TITLE OF EACH CLASS               NAME OF EACH EXCHANGE ON
+        ---------------                     WHICH REGISTERED
+ Common Stock, $.0001 par value         -----------------------
+                                        New York Stock Exchange
+
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                                      NONE
+                                (Title of Class)
+
+                            ------------------------
+
+Indicate by check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports); and (2) has been subject to such
+filing requirements for the past 90 days.  Yes  X    No
+                                               ---     ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.   X
+            ---
+
+Shares of common stock outstanding as of March 13, 2001: 4,416,869. The
+aggregate market value of the Registrant's shares of common stock held by
+non-affiliates on such date was approximately $73,540,869.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+<TABLE>
+<CAPTION>
+                          DOCUMENT                            INCORPORATED INTO FORM 10-K
+                          --------                            ---------------------------
+<S>                                                           <C>
+Portions of the Registrant's Proxy Statement for its                   Part III
+  Annual Meeting of Shareholders to be held on May 7, 2001            Items 10-13
+</TABLE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>   2
+                               TABLE OF CONTENTS
+
+
+                           PART I
+                                                                           PAGE
+                                                                         NUMBERS
+
+Item 1             Business                                                    3
+
+Item 2             Properties                                                  7
+
+Item 3             Legal Proceedings                                          15
+
+Item 4             Submission of Matters to a Vote of
+                     Security Holders                                         16
+
+                           PART II
+
+Item 5             Market for Registrant's Common Equity
+                     and Related Stockholder Matters                          16
+
+Item 6             Selected Financial Data                                    17
+
+Item 7             Management's Discussion and Analysis of
+                     Financial Condition and Results of
+                     Operations                                               18
+
+Item 7A            Quantitative and Qualitative Disclosures
+                     About Market Risk                                        23
+
+Item 8             Financial Statements and Supplementary Data                23
+
+Item 9             Changes and Disagreements With Accountants
+                     on Accounting and Financial Disclosure                   24
+
+                          PART III
+
+Item 10            Directors and Executive Officers of the
+                     Registrant                                               24
+
+Item 11            Executive Compensation                                     24
+
+Item 12            Security Ownership of Certain Beneficial
+                     Owners and Management                                    24
+
+Item 13            Certain Relationships and Related Transactions             24
+
+
+                           PART IV
+
+Item 14            Exhibits, Financial Statements, Schedules and
+                     Reports on Form 8-K                                      25
+
+SIGNATURES                                                                    28
+
+
+
+                                      -2-
+<PAGE>   3
+
+
+                                     PART 1
+
+
+     This Form 10-K, together with other statements and information publicly
+disseminated by the Company, contains certain forward-looking statements within
+the meaning of Section 27A of the Securities Act of 1933, as amended, and
+Section 21E of the Securities Exchange Act of 1934, as amended. Such statements
+are based on assumptions and expectations which may not be realized and are
+inherently subject to risks and uncertainties, many of which cannot be predicted
+with accuracy and some of which might not even be anticipated. Future events and
+actual results, financial and otherwise, may differ materially from the results
+discussed in the forward-looking statements. Risks and other factors that might
+cause such a difference include, but are not limited to, the effect of economic
+and market conditions; risks that the Company's acquisition and development
+projects will fail to perform as expected; financing risks, such as the
+inability to obtain debt or equity financing on favorable terms; the level and
+volatility of interest rates; loss or bankruptcy of one or more of the Company's
+major retail tenants; and failure of the Company's properties to generate
+additional income to offset increases in operating expenses, as well as other
+risks listed herein under "Item 1. Business" and from time to time in the
+Company's reports filed with the Securities and Exchange Commission or otherwise
+publicly disseminated by the Company.
+
+         References herein to the "Company" include Agree Realty Corporation,
+together with its wholly-owned subsidiaries and its majority owned partnership,
+Agree Limited Partnership (the "Operating Partnership"), unless the context
+otherwise requires.
+
+ITEM 1.    BUSINESS
+
+General
+
+              The Company is a self-administered, self-managed real estate
+investment trust (a "REIT") which develops, acquires, owns and operates
+properties which are primarily leased to major national and regional retail
+companies under net leases. As of December 31, 2000, the Company owned, either
+directly or through interests in joint ventures, a portfolio of 45 properties
+(the "Properties") located in 13 states and containing an aggregate of
+approximately 3.5 million square feet of gross leasable area. During 2000 the
+Company completed the development of three (3) free-standing Properties which
+added 53,395 square feet of gross leasable area to the Company's operating
+portfolio and cost approximately $9.9 million. Two (2) of the Properties are
+leased to Walgreen and one (1) Property is leased to Borders. The Properties
+consist of 14 neighborhood and community shopping centers and 31 free-standing
+properties. The Company independently owns 24 of the free-standing properties
+and owns the other seven through joint ventures (the "Joint Venture
+Properties"). As of December 31, 2000, approximately 97% of gross leasable area
+in the portfolio was leased, and approximately 95% of the Company's base rental
+income was attributable to national and regional retailers. Such retailers
+include Kmart Corporation ("Kmart"), Borders, Inc. ("Borders") and Walgreen Co.
+("Walgreen") which, as of December 31, 2000, collectively represented
+approximately 63% of the Company's base rental income. See "Major Tenants." The
+Company developed all 14 of the shopping centers and 27 of the 31 free-standing
+properties.
+
+
+
+                                      -3-
+<PAGE>   4
+
+     The Company was formed in December 1993 to continue and expand the retail
+property business founded in 1971 by its current Chairman of the Board of
+Directors and President, Richard Agree. Since 1971, the Company and its
+predecessors have specialized in building properties to suit for national and
+regional retailers who have signed long-term net leases prior to commencement of
+construction. The Company believes that this strategy provides it with a
+predictable source of income from primarily national and regional retail tenants
+in its existing properties and also provides opportunities for development of
+additional properties at attractive returns on investment, without the lease-up
+risks inherent in speculative development.
+
+         The Company's headquarters are located at 31850 Northwestern Highway,
+Farmington Hills, MI 48334 and its telephone number is (248) 737-4190.
+
+Description of Business
+
+Objectives
+
+     The Company's primary objectives are (i) to realize steady and predictable
+cash flows through the ownership of high quality properties leased primarily to
+national and regional retailers, and (ii) to maximize stockholder returns
+through the development or acquisition of additional properties. The Company
+intends to achieve these objectives by implementing the growth, operating and
+financial strategies outlined below.
+
+-    Developing or acquiring each property with the objective of holding it for
+     long-term investment value.
+
+-    Developing or acquiring properties in what the Company considers to be
+     attractive long-term locations. Such locations typically have (i)
+     convenient access to transportation arteries with traffic count that is
+     higher than average for the local market; (ii) concentrations of other
+     retail properties; and (iii) demographic characteristics which are
+     attractive to the retail tenant which will lease the property.
+
+-    Generally, purchasing land and beginning development of a property only
+     upon the execution of a lease with a national or regional retailer on terms
+     that provide a return on estimated cost which is attractive relative to the
+     Company's cost of capital.
+
+-    Directing all aspects of development, including construction, design,
+     leasing and management. Property management and the majority of the leasing
+     activities are handled directly by Company personnel. The Company believes
+     that this approach to development and management enhances the ability of
+     the Company to develop and maintain assets of high construction quality
+     which are designed, leased and maintained to maximize long-term value and
+     enables it to operate efficiently.
+
+     The Company believes that the relationships established by its principals
+with national and regional retailers as well as the financing relationships its
+principals have developed with lenders provide it with opportunities not
+generally available to its competitors, thereby providing the Company with an
+advantage in achieving its objectives.
+
+
+
+                                      -4-
+<PAGE>   5
+Major Tenants
+
+         As of December 31, 2000, approximately 63% of the Company's gross
+leasable area, including the Joint Venture Properties, was leased to Kmart,
+Borders and Walgreen and approximately 63% of total annualized base rents was
+attributable to these tenants. At December 31, 2000, Kmart occupied
+approximately 38% of the Company's gross leasable area, including the Joint
+Venture Properties, and accounted for approximately 25% of the annualized base
+rent. At December 31, 2000, Borders occupied approximately 21% of the Company's
+gross leasable area, including the Joint Venture Properties, and accounted for
+approximately 24% of the annualized base rent. At December 31, 2000, Walgreen
+occupied approximately 4% of the company's gross leasable area, including the
+Joint Venture Properties, and accounted for approximately 14% of the annualized
+base rent. No other tenant accounted for more than 10% of gross leasable area or
+annualized base rent in 2000. The loss of any of these anchor tenants or the
+inability of any of them to pay rent could have an adverse effect on the
+Company's business.
+
+Financing Strategy
+
+     As of December 31, 2000, the Company's ratio of indebtedness to market
+capitalization was approximately 60%. The Company intends to maintain a ratio of
+total debt (including construction and acquisition financing) to market
+capitalization of 65% or less. The Company plans to begin construction of
+additional pre-leased developments and may acquire additional properties that
+will initially be financed by its Credit Facility and Line of Credit (each as
+hereinafter defined). Management intends to periodically refinance short-term
+construction and acquisition financing with long-term debt and / or equity in
+order to reduce its ratio of total debt to market capitalization to 50% or less.
+Nevertheless, the Company may operate with debt levels or ratios that are in
+excess of 50% for extended periods of time prior to the completion of this
+long-term financing process.
+
+     The Company may from time to time re-evaluate its borrowing policies in
+light of then current economic conditions, relative costs of debt and equity
+capital, market value of properties, growth and acquisition opportunities and
+other factors. There is no contractual limit on the Company's ratio of debt to
+total market capitalization and, accordingly, the Company may modify its
+borrowing policy and may increase or decrease its ratio of debt to market
+capitalization without stockholder approval.
+
+
+Tax Status
+
+     The Company has operated and intends to operate in a manner to qualify as a
+REIT under Sections 856 through 860 of the Internal Revenue Code of 1986, as
+amended (the "Code"). In order to maintain qualification as a REIT, the Company
+must, among other things, distribute at least 95% of its real estate investment
+trust income and meet certain other asset and income tests. Additionally, the
+Company's charter limits ownership of the Company, directly or constructively,
+by any single person to 9.8% of the total number of outstanding shares, subject
+to certain exceptions. As a REIT, the Company is not subject to federal income
+tax with respect to that portion of its income that meets certain criteria and
+is distributed annually to the stockholders.
+
+
+
+                                      -5-
+<PAGE>   6
+
+Competition
+
+     The Company faces competition in seeking properties for acquisition and
+tenants who will lease space in these properties from insurance companies,
+credit companies, pension funds, private individuals, investment companies and
+other REITs, many of which have greater financial and other resources than the
+Company. There can be no assurance that the Company will be able to successfully
+compete with such entities in its development, acquisition and leasing
+activities in the future.
+
+Potential Environmental Risks
+
+     Investments in real property create a potential for environmental liability
+on the part of the owner or operator of such real property. If hazardous
+substances are discovered on or emanating from a property, the owner or operator
+of the property (including the Company) may be held strictly liable for all
+costs and liabilities relating to such hazardous substances. The Company has had
+a Phase I environmental study (which involves inspection without soil sampling
+or ground water analysis) conducted on each Property by independent
+environmental consultants. Furthermore, the Company has adopted a policy of
+conducting a Phase I environmental study on each property it acquires and if
+necessary conducting additional investigation as warranted.
+
+     The Company conducted a Phase I environmental study on each of the three
+Properties it developed in 2000. The results of the Phase I study on two (2) of
+these Properties required the Company to perform a Phase II environmental study
+(which involves soil sampling or ground water analysis). The results of the
+Phase II environmental study conducted on these two Properties indicated that no
+further action was required by the Company. In addition, the Company has no
+knowledge of any hazardous substances existing on any of its Properties in
+violation of any applicable laws; however, no assurance can be given that such
+substances are not located on any of the Properties. The Company carries no
+insurance coverage for the types of environmental risks described above.
+
+     The Company believes that it is in compliance, in all material respects,
+with all federal, state and local ordinances and regulations regarding hazardous
+or toxic substances. The Company has not been notified by any governmental
+authority of any noncompliance, liability or other claim in connection with any
+of the Properties.
+
+Employees
+
+     As of March 15, 2001, the Company employed seven persons. Employee
+responsibilities include accounting, construction, leasing, property
+coordination and administrative functions for the Properties. The Company's
+employees are not covered by a collective bargaining agreement and the Company
+considers its employee relations to be satisfactory.
+
+Financial Information About Industry Segments
+
+         The Company is in the business of development, acquisition and
+management of shopping centers and free-standing properties. The Company
+considers its activities to consist of a single industry segment. See the
+Consolidated Financial Statements and Notes thereto included in Item 8 of this
+Annual Report on Form 10-K for certain information required in Item 1.
+
+
+
+
+                                      -6-
+<PAGE>   7
+ITEM 2.  PROPERTIES
+
+
+     The Properties consist of 14 neighborhood and community shopping centers
+and 31 free-standing properties. As of December 31, 2000, approximately 97% of
+the Gross Leasable Area ("GLA") in the portfolio was leased, and approximately
+95% of the Company's base rental income was attributable to, national and
+regional retailers. Such retailers include Kmart, Borders, and Walgreen which,
+at December 31, 2000, collectively represented approximately 63% of current base
+rental income.
+
+
+     A substantial portion of the Company's income consists of rent received
+under net leases. Most of the leases provide for the payment of fixed base
+rentals monthly in advance and for the payment by tenants of a pro rata share of
+the real estate taxes, insurance, utilities and common area maintenance of the
+shopping center as well as payment to the Company of a percentage of such
+tenant's sales. However, the payments of percentage rents to the Company
+historically have not been material and the Company does not anticipate that
+they will become material in the future. Although a majority of the leases
+require the Company to make roof and structural repairs, as needed, a number of
+leases place that responsibility on the tenant. The Company's management places
+a strong emphasis on sound construction and maintenance on its properties.
+
+
+                     LOCATION OF PROPERTIES IN THE PORTFOLIO
+<TABLE>
+<CAPTION>
+                                   Total Gross        Percent of
+                  Number of        Leasable Area     GLA Leased on
+     State        Properties       (Sq. feet)        December 31, 2000
+    ---------  ----------------    ------------     ------------------
+<S>                <C>             <C>                 <C>
+   California         1               38,015              100%
+   Florida            5 (1)          492,305               86
+   Indiana            1 (1)           15,844              100
+   Illinois           1               20,000              100
+   Kansas             2               45,000              100
+   Kentucky           1              135,009              100
+   Maryland           2               53,000              100
+   Michigan          20 (1)        1,904,037               99
+   Nebraska           2 (1)           55,000              100
+   Ohio               2              108,543              100
+   Oklahoma           4 (1)           99,282              100
+   Pennsylvania       1               37,004              100
+   Wisconsin          3              523,036              100
+                   ----------    --------------     ---------
+
+
+     Total/Average   45            3,526,075               97%
+                   ----------    --------------     ------------
+</TABLE>
+
+------------
+
+         (1) Includes Joint Venture Properties in which the Company owns
+             interests ranging from 8% to 20%.
+
+
+
+
+
+                                      -7-
+<PAGE>   8
+
+COMMUNITY SHOPPING CENTERS
+
+Fourteen of the Company's properties are community shopping centers ranging in
+size from 20,000 to 241,458 square feet of gross leasable area. The centers are
+located in 5 states as follows: Florida (2), Illinois (1), Kentucky (1),
+Michigan (7) and Wisconsin (3). The location, general character and primary
+occupancy information with respect to the community shopping centers at December
+31, 2000 are set forth below:
+
+SUMMARY OF COMMUNITY SHOPPING CENTERS AT DECEMBER 31, 2000
+
+<TABLE>
+<CAPTION>
+
+                                               (4)         Gross            (1)
+                                  Year         Land      Leasable        Annualized
+                               Completed/      Area        Area             Base
+Property Location               Expanded     (acres)     (Sq. Ft.)          Rent
+----------------------------------------------------------------------------------------
+
+<S>                               <C>         <C>          <C>        <C>
+Capital Plaza                     1978/       11.58        135,009    $      418,768
+  Frankfort, KY                   1991
+
+
+Charlevoix Commons                1991        14.79        137,375           658,495
+  Charlevoix, MI
+
+Chippewa Commons                  1991        16.37        168,311           904,983
+  Chippewa Falls, WI
+
+
+Iron Mountain Plaza               1991        21.20        176,352           851,023
+  Iron Mountain, MI
+
+
+Ironwood Commons                  1991        23.92        185,535           945,234
+  Ironwood, MI
+
+
+
+Marshall Plaza                    1990        10.74        119,279           644,091
+  Marshall, MI
+
+
+
+
+<CAPTION>
+                                 (2)         (3)
+                               Average     Percent      Percent
+                                Base      Leased at     Occupied               Anchor Tenants
+                              Rent per     Dec 31,     at Dec 31,            (Lease expiration/
+Property Location              Sq. Ft.      2000          2000               Option expiration)
+-----------------------------------------------------------------------------------------------------------
+
+<S>                            <C>          <C>          <C>       <C>
+Capital Plaza                    3.10       100%          75%      Kmart (2003/2053)
+  Frankfort, KY                                                    Winn Dixie (2010/2035)
+                                                                   Fashion Bug (2005/2025)
+
+Charlevoix Commons               4.97        96%          96%      Kmart (2015/2065)
+  Charlevoix, MI                                                   Roundy's  (2011/2031)
+
+Chippewa Commons                 5.38       100%         100%      Kmart (2014/2064)
+  Chippewa Falls, WI                                               Roundy's  (2011/2031)
+                                                                   Fashion Bug (2006/2021)
+
+Iron Mountain Plaza              4.96        97%          97%      Kmart (2015/2065)
+  Iron Mountain, MI                                                Roundy's (2011/2031)
+                                                                   Fashion Bug (2002/2022)
+
+Ironwood Commons                 5.09       100%         100%      Kmart (2015/2065)
+  Ironwood, MI                                                     Super Value (2011/2036)
+                                                                   J.C. Penney Co. (2006/2026)
+                                                                   Fashion Bug (2002/2022)
+
+Marshall Plaza                   5.40       100%         100%      Kmart (2015/2065)
+  Marshall, MI                                                     Fashion Bug (2002/2022)
+</TABLE>
+
+
+                                     -8-
+<PAGE>   9
+
+
+SUMMARY OF COMMUNITY SHOPPING CENTERS AT DECEMBER 31, 2000 (CONTINUED)
+
+<TABLE>
+<CAPTION>
+
+
+                                                (4)         Gross             (1)
+                                   Year         Land       Leasable        Annualized
+                                Completed/      Area         Area             Base
+Property Location                Expanded     (acres)     (Sq. Ft.)           Rent
+------------------------------------------------------------------------------------------
+
+<S>                                <C>         <C>           <C>           <C>
+Mt Pleasant Shopping               1973/       24.51         241,458       $  1,055,519
+  Center                           1997
+    Mt. Pleasant, MI
+
+
+North Lakeland Plaza               1987        16.67         171,334          1,263,386
+  Lakeland, FL
+
+
+Petoskey Town Center               1990        22.08         174,870            909,018
+  Petoskey, MI
+
+
+Plymouth Commons                   1990        16.30         162,031            893,069
+  Plymouth, WI
+
+
+Rapids Associates                  1990        16.84         173,557            993,827
+  Big Rapids, MI
+
+
+Shawano Plaza                      1990        17.91         192,694          1,012,448
+  Shawano, WI
+
+
+
+West Frankfort Plaza               1982         1.45          20,000            131,000
+  West Frankfort, IL
+
+
+
+<CAPTION>
+
+                                      (2)         (3)
+                                    Average     Percent       Percent
+                                     Base      Leased at     Occupied                Anchor Tenants
+                                   Rent per     Dec 31,     at Dec 31,             (Lease expiration/
+Property Location                   Sq. Ft.      2000          2000                Option expiration)
+-----------------------------------------------------------------------------------------------------------------
+
+<S>                                  <C>         <C>           <C>      <C>
+Mt Pleasant Shopping                 $ 4.37      100%          100%      Kmart (2008/2048)
+  Center                                                                 J.C. Penney Co. (2005/2020)
+    Mt. Pleasant, MI                                                     Staples, Inc. (2005/2025)
+                                                                         Fashion Bug (2006/2026)
+
+North Lakeland Plaza                   7.37      100%          100%      Kmart (2011/2061)
+  Lakeland, FL                                                           Best Buy (2013/2028)
+
+
+Petoskey Town Center                   5.59       93%           93%      Kmart (2015/2065)
+  Petoskey, MI                                                           Roundy's  (2010/2030)
+                                                                         Fashion Bug (2002/2022)
+
+Plymouth Commons                       5.51      100%          100%      Kmart (2015/2065)
+  Plymouth, WI                                                           Roundy's  (2010/2030)
+                                                                         Fashion Bug (2004/2021)
+
+Rapids Associates                      5.73      100%          100%      Kmart (2015/2065)
+  Big Rapids, MI                                                         Roundy's  (2010/2030)
+                                                                         Fashion Bug (2004/2021)
+
+Shawano Plaza                          5.25      100%          100%      Kmart (2014/2064)
+  Shawano, WI                                                            Roundy's  (2010/2030)
+                                                                         J.C. Penney Co. (2005/2025)
+                                                                         Fashion Bug (2004/2021)
+
+West Frankfort Plaza                   6.55      100%          100%      Fashion Bug (2002/2007)
+  West Frankfort, IL
+</TABLE>
+
+
+
+                                     -9-
+<PAGE>   10
+
+
+SUMMARY OF COMMUNITY SHOPPING CENTERS AT DECEMBER 31, 2000 (CONTINUED)
+
+<TABLE>
+<CAPTION>
+
+                                                (4)              Gross                     (1)
+                                   Year         Land            Leasable                Annualized
+                                Completed/      Area              Area                     Base
+Property Location                Expanded     (acres)          (Sq. Ft.)                   Rent
+--------------------------------------------------------------------------------------------------
+
+<S>                                <C>         <C>             <C>                     <C>
+Winter Garden Plaza                1988/        22.34            233,512               $   964,677
+  Winter Garden, FL                2000
+
+                                             -----------------------------------------------------
+     TOTAL/AVERAGE                             236.70          2,291,317               $11,645,538
+                                             =====================================================
+
+
+
+<CAPTION>
+                                 (2)         (3)
+                               Average     Percent       Percent
+                                 Base     Leased at     Occupied                Anchor Tenants
+                               Rent per     Dec 31,    at Dec 31,             (Lease expiration/
+Property Location              Sq. Ft.       2000         2000                Option expiration)
+--------------------------------------------------------------------------------------------------
+
+<S>                             <C>          <C>           <C>      <C>
+Winter Garden Plaza             $ 5.83       71%           71%      Kmart (2013/2063)
+  Winter Garden, FL                                                 Kash N Karry (2020/2040)
+
+                                ------------------------------------
+     TOTAL/AVERAGE              $ 5.29       96%           95%
+                                ====================================
+</TABLE>
+
+
+  (1)  Total annualized base rents of the Company as of December 31, 2000
+
+  (2) Calculated as total annualized base rents, divided by gross leasable area
+actually leased as of December 31, 2000
+
+  (3) Roundy's has sub-leased the space it leases at Iron Mountain Plaza (35,285
+square feet, rented at a rate of $5.87 per square foot) and Charlevoix Commons
+(35,896 square feet, rented at a rate of $5.97 per square foot). Both of these
+leases expire in 2011 (assuming they are not extended by Roundy's). Winn Dixie
+leases but does not currently occupy, the 33,617 square feet it leases at
+Capital Plaza. This lease expires in 2010 and is rented at a rate of $4.06 per
+square foot.
+
+  (4) All community shopping centers except Capital Plaza (which is subject to a
+long-term ground lease expiring in 2053 from a third party) are wholly-owned by
+the Company.
+
+
+                                    -10-
+
+
+
+<PAGE>   11
+                ANNUALIZED BASE RENT OF THE COMPANY'S PROPERTIES
+
+         The following is a breakdown of base rents in place at December 31,
+2000 for each type of retail tenant:
+
+
+<TABLE>
+<CAPTION>
+                                                         Percent of
+                            Annualized                   Annualized
+      Type of Tenant        Base Rent (1)                 Base Rent
+      ---------------       ---------------           -------------
+
+<S>                         <C>                        <C>
+   National (2)             $19,006,299                     86%
+   Regional (3)               1,956,817                      9
+   Local                      1,087,132                      5
+                             -----------                  ----
+
+     Total                  $22,050,248                    100%
+                           -------------                  ----
+</TABLE>
+
+--------------------
+
+(1) Includes the Company's share of annualized base rent for each of the Joint
+Venture Properties.
+
+(2) Includes the following national tenants: Kmart, Borders, Walgreen, Fashion
+Bug, Winn Dixie, Rite Aid, JC Penney, Avco Financial, GNC Group, Radio Shack, On
+Cue, Super Value, Maurices, Payless Shoes, Food Lion, Blockbuster Video, Family
+Dollar, H&R Block, Sally Beauty, Jo Ann Fabrics, Staples, Best Buy, Dollar Tree,
+A&P, TGI Friday's and Circuit City.
+
+(3) Includes the following regional tenants: Roundy's, Dunham's Sports, Brauns
+Fashions and Hollywood Video.
+
+
+
+
+FREE-STANDING PROPERTIES
+
+     Thirty-one (31) of the Properties are free-standing properties net leased
+to A&P (1), Borders (18), Circuit City Stores (1), Kmart (3) and Walgreen (8),
+which Properties contain, in the aggregate, approximately 1,234,758 square feet
+of gross leasable area. The free-standing properties range in size from 13,686
+to 226,000 square feet of gross leasable area and are located in the following
+states: California (1), Florida (3), Indiana (1), Kansas (2), Maryland (2),
+Michigan (13), Nebraska (2), Ohio (2), Oklahoma (4) and Pennsylvania (1).
+Included in the Company's retail Properties are 7 Joint Venture Properties in
+which the Company owns interests ranging from 8% to 20% and 24 wholly-owned
+Properties. The Company's 24 wholly owned free-standing Properties provide
+$9,710,391 of annualized base rent at an average base rent per square foot of
+$12.40 during the 12 months ended December 31, 2000. The Company (or the joint
+ventures in which the Company has an interest) owns each of the thirty-one (31)
+free-standing properties in fee, except as indicated below. The location, and
+general occupancy information with respect to the wholly-owned free-standing
+properties are set forth in the following table:
+
+
+
+
+                                      -11-
+<PAGE>   12
+                      WHOLLY-OWNED FREE STANDING PROPERTIES
+
+<TABLE>
+<CAPTION>
+                         Year                       Lease expiration (2)
+Tenant/Location        Completed      Total GLA    (Option expiration)
+------------------------------------------------------------------------
+<S>                        <C>         <C>         <C>
+A&P, Roseville, MI         1977        104,000     May 21, 2002 (2022)
+
+Borders, (1)
+  Aventura, FL             1996         30,000     Jan 31, 2016 (2036)
+Borders, Columbus, OH      1996         21,000     Jan 23, 2016 (2036)
+Borders,
+  Monroeville, PA          1996         37,004     Nov 8, 2016 (2036)
+Borders, Norman, OK        1996         24,641     Sep 20, 2016 (2036)
+Borders, Omaha, NE         1995         30,000     Nov 3, 2015 (2035)
+Borders,
+ Santa Barbara, CA         1995         38,015     Nov 17, 2015 (2035)
+Borders, Wichita, KS       1995         25,000     Nov 10, 2015 (2035)
+Borders, (1)
+   Lawrence, KS            1997         20,000     Oct 16, 2022 (2042)
+Borders, Tulsa, OK         1998         25,000     Oct 16, 2022 (2042)
+Borders, Columbia, MD      1999         28,000     Oct 16, 2022 (2042)
+Borders, Germantown, MD    2000         25,000     Oct 16, 2022 (2042)
+
+Circuit City Stores
+   Boynton Beach, FL       1996         32,459     Dec 15, 2016 (2036)
+
+Kmart, Grayling, MI        1984         52,320     Sep 30, 2009 (2059)
+Kmart, Oscoda, MI          1984         90,470     Sep 30, 2009 (2059)
+Kmart, Perrysburg, OH      1983         87,543     Oct 31, 2008 (2058)
+
+Walgreen, Waterford, MI    1997         13,905     Feb 28, 2018 (2058)
+Walgreen, Chesterfield, MI 1998         13,686     July 31, 2018 (2058)
+Walgreen, Pontiac, MI      1998         13,905     Oct 31, 2018 (2058)
+Walgreen, Grand Blanc, MI  1998         13,905     Feb 28, 2019 (2059)
+Walgreen, Rochester, MI    1998         13,905     June 30, 2019 (2059)
+Walgreen, Ypsilanti, MI    1999         15,120     Dec 31, 2019 (2059)
+Walgreen (1), Petoskey, MI 2000         13,905     Apr 30, 2020 (2060)
+Walgreen, Flint, MI        2000         14,490     Dec 31, 2020 (2060)
+                                       -------
+
+       TOTAL                           783,273
+                                       -------
+</TABLE>
+
+(1)     These properties are subject to long-term ground leases where a third
+        party owns the underlying land and has leased the land to the Company to
+        construct or operate three free-standing properties. The Company pays
+        rent for the use of the land and generally is responsible for all costs
+        and expenses associated with the building and improvements. At the end
+        of the lease terms, as extended (Aventura, FL 2036, Lawrence, KS 2027
+        and Petoskey, MI 2049), the land together with all improvements revert
+        to the land owner. The Company has an option to purchase the Lawrence
+        property during the period October 1, 2006 to September 30, 2016 and to
+        purchase the Petoskey property after August 7, 2019.
+
+(2)     At the expiration of tenant's initial lease term, each tenant has an
+        option, subject to certain requirements, to extend its lease for an
+        additional period of time.
+
+
+
+                                      -12-
+<PAGE>   13
+JOINT VENTURE PROPERTIES
+
+     During 1996, the Company developed or acquired seven free-standing
+Properties which are leased to Borders, including Borders' current corporate
+headquarters, its former headquarters building and Properties operated as
+Borders Books and Music. Each of these Properties is owned by a separate limited
+liability company or a limited partnership that is owned jointly by the Company
+and an affiliate of Borders (the "Joint Ventures"). The Company's economic
+interest in the Joint Ventures ranges from 8% to 20%. The financing for the
+development of the Joint Venture Properties was provided through a financing
+facility established by Borders and its affiliates (the "Borders Financing
+Facility").
+
+     The lease between Borders and each of the Joint Ventures has a term
+expiring October 16, 2002, unless the Borders Financing Facility is extended or
+earlier terminated. At any time during the term of the lease, Borders has the
+right to refinance the Properties or to purchase the Properties for various
+percentages of total project costs, provided that, prior to such refinancing or
+purchase, the Company may elect to provide alternative financing for the
+Properties or purchase the Properties and purchase the interest of the Borders'
+affiliate in the Joint Venture. In the event the Company elects to provide
+financing or to purchase the Properties, and is subsequently unable to obtain
+the requisite financing, or in the event that the Company defaults in its
+development obligations to the Joint Venture, Borders may purchase the
+Properties. If the Company provides refinancing or purchases the Properties, the
+Company will be required to acquire the interest of the Borders' affiliate in
+the Joint Ventures, and Borders and the Joint Ventures will enter into a new
+lease providing for a term of 20 years, with four five-year extension options.
+
+     Under certain circumstances, the Company may elect to allow Borders to
+place long-term financing on such Properties, in which case, the Company will
+maintain its current interest in the Joint Venture and become the sole equity
+member of the entity which owns such Property. In such a circumstance, the
+Company will own the Property subject to a first mortgage loan which could
+exceed 90% of the Property's estimated value, and lease payments received by the
+Company would be adjusted to reflect Borders' financing.
+
+     The Company's investment in the seven Joint Venture Properties currently
+yields approximately $690,000 annualized base rent. Of this amount, the Company
+estimates that approximately $125,000 is variable based on short-term financing.
+Under certain circumstances relating to refinancing of such assets, the rents
+paid pursuant to such leases are subject to adjustment. The following table
+provides additional information on the Joint Venture Properties.
+
+
+
+
+
+
+                                      -13-
+<PAGE>   14
+                            JOINT VENTURE PROPERTIES
+
+<TABLE>
+<CAPTION>
+                           The Company's
+Tenant / Location          Interest        Total GLA    Lease Expirations
+--------------------------------------------------------------------------------
+<S>                        <C>            <C>         <C>
+Borders, Inc.
+  Ann Arbor, MI            11%            110,000     October 16, 2002
+Borders, Inc.
+  Ann Arbor, MI             8%            226,000     October 16, 2002
+Borders, Inc.
+  Boynton Beach, FL        12%             25,000     October 16, 2002
+Borders, Inc.
+  Indianapolis, IN          8%             15,844     October 16, 2002
+Borders, Inc.
+  Oklahoma City, OK        20%             24,641     October 16, 2002
+Borders, Inc.
+  Omaha, NE                18%             25,000     October 16, 2002
+Borders, Inc.
+  Tulsa, OK                15%             25,000     October 16, 2002
+                                          -------
+
+         Total                            451,485
+                                          -------
+</TABLE>
+
+
+MAJOR TENANTS
+
+
+     The following table sets forth certain information with respect to the
+Company's major tenants:
+
+<TABLE>
+<CAPTION>
+                                     Annualized Base        Percent of Total
+                       Number         Rent as of         Annualized Base Rent as
+                       of Leases     December 31, 2000     of December 31, 2000
+                       --------------------------------------------------------
+<S>                    <C>         <C>                   <C>
+Kmart                    16           $5,492,667               25%
+Borders                  18            5,297,430 (1)           24
+Walgreen                  9            3,158,930               14
+                       --------------------------------------------
+
+
+     Total               43          $13,949,027               63%
+                       --------------------------------------------
+</TABLE>
+
+--------------
+
+
+         (1)  Includes the Company's percentage of base rent for each of the
+Joint Venture Properties
+
+         Sixteen of the Properties are anchored by Kmart, a publicly-traded
+retailer with over 2,100 stores. Kmart's principal business is general
+merchandise retailing through a chain of department stores and it is one of the
+world's largest retailers based on sales volume. The Company derived
+approximately 25% of its base rental income for the year ended December 31, 2000
+from, and approximately 26% of the Company's future minimum rentals are
+attributable to, Kmart.
+
+         Borders Group, Inc. ("BGI"), is a leading global retailer of books,
+music, video and other information and entertainment items. BGI is the parent
+company of Borders, Inc., which operates 335 Borders Books and
+
+
+                                      -14-
+<PAGE>   15
+Music stores offering a broad selection of books and multi-media products. In
+addition, BGI owns Walden Book Company, Inc., which has approximately 900
+Waldenbooks stores in malls, shopping centers and airports across the country.
+The Company derived approximately 24% of its base rental income for the year
+ended December 31, 2000 from, and approximately 29% of the Company's future
+minimum rentals are attributable to, Borders.
+
+         Walgreen is a leader of the U.S. chain drugstore industry and operates
+over 3,250 stores nationwide. The Company derived approximately 14% of its base
+rental income for the year ended December 31, 2000 from, and approximately 22%
+of the Company's future minimum rentals are attributable to, Walgreen.
+
+
+LEASE EXPIRATIONS
+
+         The following table shows lease expirations for the next 10 years for
+the Company's community shopping centers and wholly-owned free-standing
+properties, assuming that none of the tenants exercise renewal options.
+
+<TABLE>
+<CAPTION>
+                                    December 31, 2000
+                                    -----------------
+                       Gross Leasable Area     Annualized Base Rent
+             Number    -------------------     --------------------
+Expiration   of Leases  Square    Percent                 Percent
+   Year      Expiring   Footage   of Total     Amount     of Total
+--------------------------------------------------------------------------------
+<C>         <C>        <C>        <C>        <C>          <C>
+2001           11        32,500     1.06%     $ 294,301      1.38%
+
+2002           27       320,613    10.43      2,262,329     10.59
+
+2003           25       185,892     6.05        961,090      4.50
+
+2004           10        43,100     1.40        332,650      1.56
+
+2005           23       183,577     5.97      1,094,887      5.13
+
+2006           18       124,314     4.04        817,550      3.83
+
+2007            1         2,000     0.07         19,000      0.09
+
+2008            2       167,942     5.46        539,935      2.53
+
+2009            2       142,790     4.64        542,414      2.54
+
+2010            5       206,735     6.72      1,176,729      5.50
+              ---------------------------------------------------
+
+Total         124     1,409,463    45.84%    $8,040,885     37.65%
+              ----------------------------------------------------
+</TABLE>
+
+
+         Leases on the seven Joint Venture Properties are for an initial term
+through October 16, 2002. In the event a refinancing is consummated, Borders is
+required to enter into a twenty year net lease with a fixed lease rate.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         The Company is not presently involved in any litigation nor, to
+management's knowledge, is any litigation threatened against the Company, except
+for routine litigation arising in the ordinary course of business which is
+expected to be covered by the Company's liability insurance.
+
+
+
+
+                                      -15-
+<PAGE>   16
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         No matter was submitted to a vote of security holders during the fourth
+quarter of 2000.
+
+                                 PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+           MATTERS
+
+         The Company's Common Stock is traded on the New York Stock Exchange
+under the symbol "ADC". The following table sets forth the high and low sales
+prices of the Company's Common Stock, as reported on the New York Stock Exchange
+Composite Tape, and the dividends declared per share of Common Stock by the
+Company for each calendar quarter in the last two fiscal years. Dividends were
+paid in the periods immediately subsequent to the periods in which such
+dividends were declared.
+
+<TABLE>
+<CAPTION>
+Market Information
+------------------
+                                                         Dividends Per
+                              High              Low      Common Share
+                              ----              ---      ------------
+Quarter Ended
+<S>                           <C>           <C>               <C>
+  March 31, 1999              $19.125       $15.875           $0.46
+  June 30, 1999               $18.875       $15.938           $0.46
+  September 30, 1999          $18.938       $16.375           $0.46
+  December 31, 1999           $16.750       $13.375           $0.46
+
+  March 31, 2000              $14.375       $13.063           $0.46
+  June 30, 2000               $16.937       $12.875           $0.46
+  September 30, 2000          $17.375       $13.750           $0.46
+  December 31, 2000           $15.063       $13.625           $0.46
+</TABLE>
+
+         At December 31, 2000, there were 4,394,669 shares of the Company's
+Common Stock issued and outstanding which were held by approximately 255
+stockholders of record. The stockholders of record do not reflect persons or
+entities who held their shares in nominee or "street" name.
+
+         The Company intends to continue to declare quarterly dividends to its
+stockholders. However, distributions by the Company are determined by the Board
+of Directors and will depend on a number of factors, including the amount of
+funds from operations, the financial and other condition of its Properties, its
+capital requirements, the annual distribution requirements under the provisions
+of the Code applicable to REITs and such other factors as the Board of Directors
+deems relevant.
+
+         During the year ended December 31, 2000, there were no sales of
+unregistered securities by the Company, except the grant, under the Company's
+1994 Stock Incentive Plan (the "Plan"), of 33,802 shares of restricted stock to
+certain employees of the Company. The transfer restrictions on such shares lapse
+in equal annual installments over a five-year period from the date of the grant,
+but the holder thereof is entitled to receive dividends on all such shares from
+the date of the grant. On April 13, 2000 the Company redeemed 4,000 shares of
+restricted stock previously issued under the Plan.
+
+
+
+
+                                      -16-
+<PAGE>   17
+ITEM 6.                 SELECTED FINANCIAL DATA
+
+     The following table sets forth selected financial information for the
+Company on a historical basis and should be read in conjunction with
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" and all of the financial statements and notes thereto included
+elsewhere in this Form 10-K. The balance sheet data for the periods ended
+December 31, 1996 through December 31, 2000 and operating data for each of the
+periods presented were derived from the audited financial statements of the
+Company.
+
+<TABLE>
+<CAPTION>
+                                                                    (In thousands, except per share information)
+
+                                                        Year             Year              Year             Year             Year
+                                                       Ended            Ended             Ended            Ended            Ended
+                                                      Dec 31,          Dec 31,           Dec 31,          Dec 31,          Dec 31,
+Operating Data                                          2000             1999             1998              1997             1996
+-----------------------------------------------------------------------------------------------------------------------------------
+<S>                                          <C>                      <C>               <C>              <C>              <C>
+Total Revenue                                        $ 23,730         $ 21,931          $ 19,674         $ 18,234         $ 16,291
+                                             --------------------------------------------------------------------------------------
+
+Expenses
+  Property expense (1)                                  3,775            3,512             3,050            2,785            2,485
+  General and administrative                            1,557            1,425             1,170            1,107            1,105
+  Interest                                              7,045            5,771             5,231            5,552            6,101
+  Depreciation and amortization                         3,689            3,436             3,073            2,782            2,620
+                                             --------------------------------------------------------------------------------------
+        Total Expenses                                 16,066           14,144            12,524           12,226           12,311
+                                             --------------------------------------------------------------------------------------
+
+Other Income (Expense) (2)                                522               69               168              155              653
+                                             --------------------------------------------------------------------------------------
+Income  before extraordinary
+  item and minority interest                            8,186            7,856             7,318            6,163            4,633
+Extraordinary Item - Early
+  Extinguishment of Debt                                    -                -              (319)               -                -
+                                             --------------------------------------------------------------------------------------
+Income  before Minority Interest                        8,186            7,856             6,999            6,163            4,633
+Minority Interest                                       1,088            1,050               912              943              899
+                                             --------------------------------------------------------------------------------------
+Net Income                                           $  7,098         $  6,806          $  6,087         $  5,220         $  3,734
+                                             ======================================================================================
+
+Funds from Operations (3)                            $ 12,257         $ 12,093          $ 11,055         $  9,581         $  7,076
+                                             ======================================================================================
+Number of Properties                                       45               42                39               34               32
+                                             ======================================================================================
+Number of Square Feet                                   3,526            3,468             3,411            3,103            3,068
+                                             ======================================================================================
+Per Share Data
+----------------------------------
+Net income (4)                                       $   1.61         $   1.56          $   1.40         $   1.41         $   1.41
+                                             ======================================================================================
+Cash dividends                                       $   1.84         $   1.84          $   1.84         $   1.82         $   1.80
+                                             ======================================================================================
+Weighted average of common
+  shares outstanding                                    4,396            4,365             4,346            3,695            2,649
+                                             ======================================================================================
+
+Balance Sheet Data
+Real Estate
+  (before accumulated depreciation)                 $ 191,048        $ 179,858         $ 166,921        $ 142,748        $ 132,474
+Total Assets                                        $ 166,052        $ 158,196         $ 149,648        $ 130,492        $ 121,382
+Total debt, including accrued interest              $ 104,407        $  95,762         $  85,650        $  65,419        $  88,252
+</TABLE>
+
+---------------------------
+
+     (1)  Property expense includes real estate taxes, property maintenance,
+          insurance, utilities and land lease expense.
+     (2)  Other income (expense) is composed of development fee income, gain on
+          land sales, and equity in net income (loss) of unconsolidated
+          entities.
+     (3)  See "Funds From Operations" discussed under Item 7
+     (4)  Net income per share has been computed by dividing the net income by
+          the weighted average number of shares of Common Stock outstanding. The
+          per share amounts shown are presented in accordance with SFAS No. 128
+          "Earnings per Share". The Company's basic and diluted earnings per
+          share are the same
+
+
+
+                                      -17-
+<PAGE>   18
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+         CONDITION AND RESULTS OF OPERATIONS
+
+OVERVIEW
+
+     The Company was established to continue to operate and expand the retail
+property business of its predecessors. The Company commenced its operations in
+April 1994. The assets of the Company are held by, and all operations are
+conducted through, Agree Limited Partnership (the "Operating Partnership"), of
+which the Company is the sole general partner and held an 86.71% interest as of
+December 31, 2000. The Company is operating so as to qualify as a real estate
+investment trust ("REIT") for federal income tax purposes.
+
+     The following should be read in conjunction with the Consolidated Financial
+Statements of Agree Realty Corporation, including the respective notes thereto,
+which are included elsewhere in this Form 10-K.
+
+COMPARISON OF YEAR ENDED DECEMBER 31, 2000 TO YEAR ENDED DECEMBER 31, 1999
+
+     Minimum rental income increased $1,645,000, or 9%, to $20,864,000 in 2000,
+compared to $19,219,000 in 1999. The increase was the result of the development
+of three Properties in 1999 and three Properties in 2000.
+
+         Percentage rental income increased $84,000, or 39%, to $301,000 in
+2000, compared to $217,000 in 1999. The increase was the result of increased
+tenant sales.
+
+     Operating cost reimbursement, which represents additional rent required by
+substantially all of the Company's leases to cover the tenants' proportionate
+share of property operating expenses, increased $70,000, or 3%, to $2,522,000 in
+2000, compared to $2,452,000 in 1999. Operating cost reimbursement increased due
+to the increase in real estate taxes and property operating expenses from 1999
+to 2000, as explained below.
+
+     Management fees and other income remained relatively constant at $43,000 in
+2000 compared to $42,000 in 1999.
+
+     Real estate taxes increased $26,000, or 2%, to $1,727,000 in 2000 compared
+to $1,701,000 in 1999. The increase is the result of general assessment
+increases on the Properties.
+
+     Property operating expenses (shopping center maintenance, insurance and
+utilities) increased $95,000, or 7%, to $1,364,000 in 2000, compared $1,269,000
+in 1999. The increase consisted of increased snow removal costs due to heavy
+snow falls in Northern Michigan and Wisconsin of $169,000; a decrease in
+shopping center maintenance costs of $90,000; an increase in utility costs of
+$14,000; and a increase in insurance costs of $2,000 in 2000 versus 1999.
+
+     Land lease payments increased $143,000, or 26%, to $685,000 in 2000
+compared to $542,000 in 1999 as a result of the Company leasing land for its
+Petoskey, Michigan development completed in 2000.
+
+
+
+                                      -18-
+<PAGE>   19
+
+     General and administrative expenses increased $132,000, or 9%, to
+$1,557,000 in 2000 compared to $1,425,000 in 1999. The increase was primarily
+the result of an increase in compensation-related expenses related to the
+addition of an employee and wage increases. General and administrative expenses
+as a percentage of total rental income increased from 7.3% for 1999 to 7.4% for
+2000.
+
+     Depreciation and amortization increased $254,000, or 7%, to $3,690,000 in
+2000 compared to $3,436,000 in 1999. The increase was the result of the
+development of six new Properties in 1999 and 2000.
+
+     Interest expense increased $1,274,000, or 22%, to $7,045,000 in 2000, from
+$5,771,000 in 1999. The increase in interest expense was the result of the
+Company's additional borrowing to finance its development of properties and
+increased rates on variable rate notes payable.
+
+     The Company received development fee income of $41,000 in 1999; there was
+no development fee income in 2000.
+
+     Equity in net income of unconsolidated entities increased $494,000 to
+$522,000 in 2000 compared to $28,000 in 1999 as a result of depreciation expense
+no longer being allocated to the Company pursuant to the agreements relating to
+the Joint Ventures in which the Company holds interests ranging from 8% to 20%.
+
+     The Company's income before minority interest increased $329,000, or 4%, to
+$8,186,000 in 2000, from $7,857,000 in 1999 as a result of the foregoing
+factors.
+
+COMPARISON OF YEAR ENDED DECEMBER 31, 1999 TO YEAR ENDED DECEMBER 31, 1998
+
+     Minimum rental income increased $1,802,000, or 10%, to $19,219,000 in 1999,
+compared to $17,417,000 in 1998. The increase was the result of the development
+and acquisition of four Properties in 1998 and three Properties in 1999.
+
+         Percentage rental income increased $128,000, or 145%, to $217,000 in
+1999, compared to $89,000 in 1998. The increase was the result of increased
+tenant sales.
+
+     Operating cost reimbursement, which represents additional rent required by
+substantially all of the Company's leases to cover the tenants' proportionate
+share of property operating expenses, increased $360,000, or 17%, to $2,452,000
+in 1999, compared to $2,092,000 in 1998. Operating cost reimbursement increased
+due to the increase in real estate taxes and property operating expenses from
+1998 to 1999, as explained below.
+
+     Management fees and other income decreased $34,000, or 45%, to $42,000 in
+1999, compared to $76,000 in 1998. The decrease was the result of a reduction in
+management fees due to the Company's acquisition of a Property it previously
+managed.
+
+     Real estate taxes increased $145,000, or 9%, to $1,701,000 in 1999 compared
+to $1,556,000 in 1998. The increase is the result of the addition of new
+Properties.
+
+     Property operating expenses increased $321,000, or 34%, to $1,269,000 in
+1999 compared to $948,000 in 1998. The increase was the result (i) additional
+property expenses of $83,000 as a result of the
+
+
+
+                                      -19-
+<PAGE>   20
+
+acquisition of a shopping center in 1998 and (ii) an increase of $238,000
+consisting of increased snow removal costs of $155,000; an increase in shopping
+center maintenance costs of $94,000; a decrease in utility costs of ($12,000);
+and an increase in insurance costs of $1,000 in 1999 versus 1998.
+
+     Land lease payments remained relatively constant at $542,000 in 1999
+compared to $545,000 in 1998.
+
+     General and administrative expenses increased $255,000, or 22%, to
+$1,425,000 in 1999 compared to $1,170,000 in 1998. The increase was primarily
+the result of an increase in compensation related expenses, property management
+expenses and state and local taxes. General and administrative expenses as a
+percentage of rental income increased from 6.7% for 1998 to 7.3% for 1999.
+
+     Depreciation and amortization increased $363,000, or 12%, to $3,436,000 in
+1999 compared to $3,073,000 in 1998. The increase was the result of the
+development and acquisition of seven new Properties in 1998 and 1999.
+
+     Interest expense increased $540,000, or 10%, to $5,771,000 in 1999, from
+$5,231,000 in 1998. The increase in interest expense was the result of the
+Company's additional borrowing to finance its continued acquisition and
+development of properties.
+
+     Development fee income decreased $135,000, to $41,000 in 1999, from
+$176,000 in 1998. Development fee income is not included in the Company's
+calculation of Funds from Operations, due to the non-recurring nature of this
+type of income.
+
+     Equity in net income (loss) of unconsolidated entities increased $36,000 to
+$28,000 in 1999 versus ($8,000) in 1998 as a result of decreased depreciation
+expense in 1999 pursuant to the agreements relating to the Joint Ventures in
+which the Company holds interests ranging from 8% to 20%.
+
+         The Company recognized an extraordinary item of $319,000 in 1998
+relating to the prepayment of a mortgage on a property located in Winter Garden,
+Florida. There were no extraordinary items in 1999.
+
+     The Company's income before minority interest increased $858,000, or 12%,
+to $7,857,000 in 1999, from $6,999,000 in 1998 as a result of the foregoing
+factors.
+
+
+FUNDS FROM OPERATIONS
+
+     Management considers Funds from Operations ("FFO") to be a supplemental
+measure of the Company's operating performance. FFO is defined by the National
+Association of Real Estate Investment Trusts, Inc. to mean net income computed
+in accordance with generally accepted accounting principles ("GAAP"), excluding
+gains (or losses) from debt restructuring and sales of property, plus real
+estate related depreciation and amortization, and after adjustments for
+unconsolidated entities in which the REIT holds an interest. FFO does not
+represent cash generated from operating activities in accordance with GAAP and
+is not necessarily indicative of cash available to fund cash needs. FFO should
+not be considered as an alternative to net income as the primary indicator of
+the Company's operating performance or as an alternative to cash flow as a
+measure of liquidity.
+
+
+
+                                      -20-
+<PAGE>   21
+
+     The following table illustrates the calculation of FFO for the years-ended
+December 31, 2000, 1999 and 1998:
+<TABLE>
+<CAPTION>
+                                               Year ended December 31,
+                                               -----------------------
+
+                                        2000           1999            1998
+                                     ------------------------------------------
+<S>                                  <C>           <C>             <C>
+Income before extraordinary
+  item and minority interest         $ 8,185,808   $  7,856,901    $  7,318,160
+Depreciation of real estate assets     3,589,757      3,349,739       3,003,211
+Amortization of leasing costs             73,723         67,090          52,542
+Amortization of stock awards             236,126        193,972         156,106
+Depreciation of real estate assets
+  held in unconsolidated entities        171,980        666,579         700,880
+Development fee income                      --          (40,873)       (176,193)
+                                     ------------------------------------------
+
+Funds from Operations                $12,257,394   $ 12,093,408    $ 11,054,706
+                                     ------------------------------------------
+
+Weighted average shares and
+  OP Units outstanding                 5,069,353      5,038,414       4,997,435
+                                     ------------------------------------------
+</TABLE>
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     The Company's principal demands for liquidity are distributions to its
+stockholders, debt repayment, development of new properties and future property
+acquisitions.
+
+     During the quarter ended December 31, 2000, the Company declared a
+quarterly dividend of $.46 per share. The dividend was paid on January 4, 2001
+to holders of record on December 22, 2000.
+
+     As of December 31, 2000, the Company had total mortgage indebtedness of
+$52,119,770 with a weighted average interest rate of 6.95%. Future scheduled
+annual maturities of mortgages payable for the years ending December 31 are as
+follows: 2001 - $1,389,919; 2002 - $1,509,245; 2003 - $1,616,568; 2004 -
+$1,731,562; 2005 - $2,354,668. The mortgage debt is all fixed rate debt.
+
+     In addition, the Operating Partnership has in place a $50 million line of
+credit facility (the "Credit Facility") which is guaranteed by the Company. The
+loan matures in August 2003 and can be extended by the Company for an additional
+three years. Advances under the Credit Facility bear interest within a range of
+one-month to six-month LIBOR plus 150 basis points to 213 basis points or the
+lender's prime rate, at the option of the Company, based on certain factors such
+as debt to property value and debt service coverage. The Credit Facility is used
+to fund property acquisitions and development activities and is secured by most
+of the Properties which are not otherwise encumbered and properties to be
+acquired or developed. As of December 31, 2000, $33,158,232 was outstanding
+under the Credit Facility.
+
+     The Company also has in place a $5 million line of credit (the "Line of
+Credit"), which matures on February 19, 2002, and which the Company expects to
+renew for an additional 12-month period. The Line of Credit bears interest at
+the lender's prime rate less 50 basis points or 175 basis points in excess of
+the one-month LIBOR rate, at the option of the Company. The purpose of the Line
+of Credit is to provide working capital to the Company and fund land options and
+start-up costs associated with new projects. As of December 31, 2000, $2,200,000
+was outstanding under the Line of Credit.
+
+
+
+                                      -21-
+<PAGE>   22
+
+     The Company's wholly-owned subsidiaries have obtained construction
+financing of approximately $16,100,000 to fund the development of four retail
+properties. The notes require quarterly interest payments, based on a weighted
+average interest rate based on LIBOR, computed by the lender. The notes mature
+on October 16, 2002 and are secured by the underlying land and buildings. As of
+December 31, 2000, $14,896,962 was outstanding under these notes.
+
+     The Company has received funding from an unaffiliated third party for the
+construction of certain of its Properties. Advances under this arrangement bear
+no interest. The advances are secured by the specific land and buildings being
+developed. As of December 31, 2000, $1,717,040 was outstanding under this
+arrangement.
+
+     The Company has two development projects under construction that will add
+an additional 29,610 square feet of retail space to the Company's portfolio. The
+projects are expected to be completed during the first and second quarter of
+2001. Additional Company funding required for these projects is estimated to be
+$2,050,000 and will come from the Credit Facility.
+
+     The Company intends to meet its short-term liquidity requirements,
+including capital expenditures related to the leasing and improvement of the
+Properties, through its cash flow provided by operations and the Line of Credit.
+Management believes that adequate cash flow will be available to fund the
+Company's operations and pay dividends in accordance with REIT requirements. The
+Company may obtain additional funds for future development or acquisitions
+through other borrowings or the issuance of additional shares of capital stock.
+The Company intends to incur additional debt in a manner consistent with its
+policy of maintaining a ratio of total debt (including construction and
+acquisition financing) to total market capitalization of 65% or less. The
+Company believes that these financing sources will enable the Company to
+generate funds sufficient to meet both its short-term and long-term capital
+needs.
+
+     The Company plans to begin construction of additional pre-leased
+developments and may acquire additional properties, which will initially be
+financed by the Credit Facility and Line of Credit. Management intends to
+periodically refinance short-term construction and acquisition financing with
+long-term debt and / or equity.
+
+INFLATION
+
+     The Company's leases generally contain provisions designed to mitigate the
+adverse impact of inflation on net income. These provisions include clauses
+enabling the Company to pass through to tenants certain operating costs,
+including real estate taxes, common area maintenance, utilities and insurance,
+thereby reducing the Company's exposure to increases in costs and operating
+expenses resulting from inflation. Certain of the Company's leases contain
+clauses enabling the Company to receive percentage rents based on tenants' gross
+sales, which generally increase as prices rise, and, in certain cases,
+escalation clauses, which generally increase rental rates during the terms of
+the leases. In addition, expiring tenant leases permit the Company to seek
+increased rents upon re-lease at market rates if rents are below the then
+existing market rates.
+
+
+
+
+                                      -22-
+<PAGE>   23
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+         In June 1998, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 133, Accounting for Derivative
+Instruments and Hedging Activities ("SFAS 133"). The FASB issued SFAS No 137 in
+June 1999 to delay the effective date of SFAS 133 to the first quarter of the
+fiscal year beginning after June 15, 2000 (January 1, 2001 for the Company). The
+adoption of SFAS 133, as amended by SFAS 137, will not have any effect on the
+Company's results of operations or its financial position.
+
+ITEM 7A  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         The Company is exposed to interest rate risk primarily through its
+borrowing activities. There is inherent roll over risk for borrowings as they
+mature and are renewed at current market rates. The extent of this risk is not
+quantifiable or predictable because of the variability of future interest rates
+and the Company's' future financing requirements.
+
+         Mortgages payable - As of December 31, 2000 the Company had four
+mortgages outstanding. The first mortgage in the amount of $32,462,433 bears
+interest at 7.00%. The mortgage matures on November 15, 2005. The second
+mortgage in the amount of $7,320,686 bears interest at 7.00%. The mortgage
+matures on April 1, 2013 and is subject to a rate review after the 7th year
+(April 1, 2006). The third mortgage in the amount of $11,836,651 bears interest
+at 6.63%. The mortgage matures on February 5, 2017. The fourth mortgage in the
+amount of $500,000 bears interest at 10%. The mortgage matures on October 5,
+2005.
+
+         Construction loans - As of December 31, 2000 the Company had
+Construction loans outstanding of $14,896,962. Under the terms of the
+construction loans the Company bears no interest rate risk.
+
+         Notes payable - As of December 31, 2000 the Company had $35,358,232
+outstanding on its Secured and Unsecured Lines-of-Credit all of which had a
+variable interest rate, based on LIBOR.
+
+         The Company does not enter into financial instruments transactions for
+trading or other speculative purposes or to manage interest rate exposure.
+
+         A 10% adverse change in interest rates on the portion of the Company's
+debt bearing interest at variable rates would result in an increase in interest
+expense of approximately $280,000.
+
+
+ITEM 8   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+         The financial statements and supplementary data are listed in the Index
+to Financial Statements and Financial Statement Schedules appearing on Page F-1
+of this Form 10-K and are included in this Form 10-K following page F-1.
+
+
+
+
+                                      -23-
+<PAGE>   24
+
+
+
+ITEM 9   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+            AND FINANCIAL DISCLOSURE
+
+
+         During the Company's last two fiscal years, there have been no changes
+in the independent accountants nor disagreements with such accountants as to
+accounting and financial disclosures of the type required to be disclosed in
+this Item 9.
+
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         Incorporated herein by reference to the Company's definitive proxy
+statement to be filed with the Securities and Exchange Commission within 120
+days after the year covered by this Form 10-K with respect to its Annual Meeting
+of Stockholders to be held on May 7, 2001.
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+         Incorporated herein by reference to the Company's definitive proxy
+statement to be filed with the Securities and Exchange Commission within 120
+days after the year covered by this Form 10-K with respect to its Annual Meeting
+of Stockholders to be held on May 7, 2001.
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+            MANAGEMENT
+
+         Incorporated herein by reference from the Company's definitive proxy
+statement to be filed with the Securities and Exchange Commission within 120
+days after the end of the fiscal year covered by this Form 10-K with respect to
+its Annual Meeting of Stockholders to be held on May 7, 2001.
+
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         Incorporated herein by reference from the Company's definitive proxy
+statement to be filed with the Securities and Exchange Commission within 120
+days after the end of the fiscal year covered by this Form 10-K with respect to
+its Annual Meeting of Stockholders to be held on May 7, 2001.
+
+
+
+
+                                      -24-
+<PAGE>   25
+                                     PART IV
+
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENTS SCHEDULES AND REPORTS ON
+               FORM 8-K
+
+         (a) The following documents are filed as part of this Report
+
+                  (1)(2) The financial statements indicated by Part II,
+                              Item 8, Financial Statements and Supplementary
+                              Data.
+
+                  (3) Exhibits
+
+3.1               Articles of Incorporation and Articles of Amendment of the
+                  Company (incorporated by reference to Exhibit 3.1 to the
+                  Company's Registration Statement on Form S-11 (Registration
+                  Statement No. 33-73858, as amended ("Agree S-11"))
+
+3.2               Bylaws of the Company (incorporated by reference to Exhibit
+                  3.3 to Agree S-11)
+
+4.1               Rights Agreement by and between Agree Realty Corporation and
+                  BankBoston, N.A. as Rights Agent Dated as of December 7, 1998
+                  (incorporated by reference to Exhibit 4.1 to the Company's
+                  Form 8-K filed on December 7, 1998)
+
+10.1              Loan Modification Agreement, dated April 22, 1994, by and
+                  among Shawano Plaza, Plymouth Commons, Chippewa Commons and
+                  Nationwide Life Insurance Company (incorporated by reference
+                  to Exhibit 10.1 to the Company's Annual Report on Form 10-K
+                  for the year ended December 31, 1996 (the "1996 Form 10-K"))
+
+10.2              Loan Modification Agreement, dated April 22, 1994, by and
+                  among Rapids Associates, Marshall Plaza Phase Two, Petoskey
+                  Town Center, Charlevoix Commons and Nationwide Life Insurance
+                  Company (incorporated by reference to Exhibit 10.2 to the 1996
+                  Form 10-K)
+
+10.3              First Amended and Restated Agreement of Limited Partnership of
+                  Agree Limited Partnership, dated as of April 22, 1994, by and
+                  among the Company, Richard Agree, Edward Rosenberg and Joel
+                  Weiner (incorporated by reference to Exhibit 10.6 to the 1996
+                  Form 10-K)
+
+10.4              Amended and Restated Registration Rights Agreement, dated July
+                  8, 1994 by and among the Company, Richard Agree, Edward
+                  Rosenberg and Joel Weiner (incorporated by reference to
+                  Exhibit 10.2 to the Company's Annual Report on Form 10-K for
+                  the year ended December 31, 1994)
+
+10.5     +        1994 Stock Incentive Plan of the Company (incorporated by
+                  reference to Exhibit 10.8 to the 1996 Form 10-K)
+
+10.6              Management Agreement, dated April 22, 1994, by and among Mt
+                  Pleasant Shopping Center, Angola Plaza, Shiloh Plaza and the
+                  Company (incorporated by reference to Exhibit 10.9 to the 1996
+                  Form 10-K)
+
+
+                                      -25-
+<PAGE>   26
+
+10.7              Contribution Agreement, dated as of April 21, 1994, by and
+                  among the Company, Richard Agree, Edward Rosenberg and the
+                  co-partnerships named therein (incorporated by reference to
+                  Exhibit 10.10 to the 1996 Form 10-K)
+
+10.8      +       Agree Realty Corporation Profit Sharing Plan (incorporated
+                  by reference to Exhibit 10.13 to the 1996 Form 10-K)
+
+10.9              Business Loan Agreement, dated as of September 21, 1995, by
+                  and between Agree Limited Partnership and Michigan National
+                  Bank (incorporated by reference to Exhibit 10.9 to the
+                  Company's Annual Report on Form 10-K for the year ended
+                  December 31, 1995 (the "1995 Form 10-K"))
+
+10.10             Line of Credit Agreement by and among Agree Limited
+                  Partnership, the Company, the lenders parties thereto, and
+                  Michigan National Bank as Agent (incorporated by reference to
+                  Exhibit 10.10 to the 1995 Form 10-K)
+
+10.11             First amendment to $50 million line-of-credit agreement dated
+                  August 7, 1997 among Agree Realty Corporation and Michigan
+                  National Bank, as agent (incorporated by reference to Exhibit
+                  10.1 to the Company's Quarterly Report on Form 10-Q for the
+                  period ending September 30, 1997 (the "September 1997 Form
+                  10-Q"))
+
+10.12             First amendment to $5 million business loan agreement dated
+                  September 21, 1997 between Agree Limited Partnership and
+                  Michigan National Bank (incorporated by reference to Exhibit
+                  10.2 to the September 1997 Form 10-Q)
+
+10.13             Second amendment to $50 million line-of-credit agreement dated
+                  November 17, 1997 among Agree Realty Corporation and Michigan
+                  National Bank, as agent (incorporated by reference to Exhibit
+                  10.19 to the Company's Annual Report on Form 10-K for the year
+                  ended December 31, 1997)
+
+10.14             Second amendment to amended and restated $5 million business
+                  Loan agreement dated October 19, 1998 between Agree Limited
+                  Partnership and Michigan National Bank (incorporated by
+                  reference to Exhibit 10.17 to the Company's Annual Report on
+                  Form 10-K for the year ended December 31, 1998)
+
+10.15     +       Employment Agreement, dated July 1, 1999, by and between the
+                  Company, and Richard Agree (incorporated by reference to
+                  exhibit 10.5 to the Company's Quarterly Report on Form 10-Q
+                  for the period ending June 30, 1999 (the "June 1999 Form 10-
+                  Q))
+
+10.16     +       Employment Agreement, dated July 1, 1999, by and between the
+                  Company, and Kenneth R. Howe (incorporated by reference to
+                  exhibit 10.6 to the June 1999 Form 10-Q)
+
+10.17             Third amendment to amended and restated $5 million business
+                  Loan agreement dated December 19, 1999 between Agree Limited
+                  Partnership and Michigan National Bank (incorporated by
+                  reference to exhibit 10.17 to the 1999 Form 10-K)
+
+
+                                      -26-
+<PAGE>   27
+10.18             Assumption Agreement, Mortgage Modification and Amended and
+                  Restated Mortgage and Security Agreement, dated as of March
+                  31, 1999 by Agree Limited Partnership to and in favor of
+                  Nationwide Life Insurance Company (incorporated by reference
+                  to exhibit 10.1 to the June 1999 Form 10-Q)
+
+10.19             Project Loan Agreement dated as of April 30, 1999 between
+                  Wilmington Trust Company not in its individual capacity, but
+                  solely as Owner Trustee and Agree - Columbia Crossing Project
+                  L.L.C. (incorporated by reference to exhibit 10.2 to the June
+                  1999 Form 10-Q)
+
+10.20             Project Loan Agreement dated as of June 11, 1999 between
+                  Wilmington Trust Company not in its individual capacity, but
+                  solely as Owner Trustee and Agree - Milestone Center Project
+                  L.L.C. (incorporated by reference to exhibit 10.3 to the June
+                  1999 Form 10-Q)
+
+10.21             Trust Mortgage dated as of June 27, 1999 from Agree Facility
+                  No. 1, L.L.C. as Grantor to Manufacturers and Traders Trust
+                  Company (incorporated by reference to exhibit 10.4 to the June
+                  1999 Form 10-Q)
+
+10.22     +       Employment Agreement, dated January 10, 2000, by and between
+                  the Company, and David J. Prueter (incorporated by reference
+                  to exhibit 10.1 to the Company's Quarterly Report on Form 10-Q
+                  for the period ended March 31, 2000
+
+10.23             Third amendment to $50 million line-of-credit agreement dated
+                  August 7, 2000 among Agree Realty Corporation and Michigan
+                  National Bank, as agent (incorporated by reference To exhibit
+                  10.1 to the Company's Quarterly report on Form 10-Q for the
+                  period ended September 30, 2000
+
+10.24     *       Fourth amendment to amended and restated $5 million business
+                  Loan agreement dated February 19, 2001 between Agree Limited
+                  Partnership and Michigan National Bank
+
+21.1      *       Subsidiaries of Agree Realty Corporation
+
+23        *       Consent of BDO Seidman, LLP
+
+
+-------------------------------------------------------------------------------
+
+
+         *        Filed herewith
+
+         +        Management contract or compensatory plan or arrangement
+
+      (b) Reports on Form 8-K
+
+                  No reports on form 8-K were filed by the Company during the
+                  quarter ending December 31, 2000
+
+
+
+
+                                      -27-
+<PAGE>   28
+                                   SIGNATURES
+
+
+     PURSUANT to the requirements of Section 13 or 15 (d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+
+                                    AGREE REALTY CORPORATION
+
+
+                                    By:    /s/ Richard Agree
+                                       -----------------------------------
+                                    Name:  Richard Agree
+                                           President and Chairman of the
+                                                Board of Directors
+                                    Date:  March 23, 2001
+
+     PURSUANT to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities indicated on the 23rd day of March 2001.
+
+
+By:           /s/Richard Agree             By:   /s/ Farris G. Kalil
+           --------------------------           ---------------------
+           Richard Agree                        Farris G. Kalil
+           President and Chairman of the        Director
+              Board of Directors
+           (Principal Executive Officer)
+
+                                           By:   /s/ Michael Rotchford
+                                                ---------------------
+                                                Michael Rotchford
+                                                Director
+
+By:          /s/Kenneth R. Howe
+           -------------------------
+           Kenneth R. Howe
+           Vice President, Finance         By:   /s/ Ellis G. Wachs
+            and Secretary                       -----------------------
+           (Principal Financial and               Ellis G. Wachs
+           Accounting Officer)                    Director
+
+
+                                           By:   /s/ Gene Silverman
+                                                -------------------
+                                                Gene Silverman
+                                                Director
+
+
+
+                                      -28-
+<PAGE>   29
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      [THIS PAGE INTENTIONALLY LEFT BLANK]
+<PAGE>   30
+                                                        AGREE REALTY CORPORATION
+
+                                                                           INDEX
+
+
+
+<TABLE>
+<CAPTION>
+
+
+                                                                                         Page
+               <S>                                                                       <C>
+               REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS                         F-2
+
+
+               FINANCIAL STATEMENTS
+                  Consolidated Balance Sheets                                             F-3
+                  Consolidated Statements of Income                                       F-5
+                  Consolidated Statements of Stockholders' Equity                         F-6
+                  Consolidated Statements of Cash Flows                                   F-7
+
+
+               NOTES TO FINANCIAL STATEMENTS                                              F-9
+
+
+               SCHEDULE III - Real Estate and Accumulated Depreciation                    F-22
+</TABLE>
+
+
+                                      F-1
+
+<PAGE>   31
+
+
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+
+To the Board of Directors and Owners of
+Agree Realty Corporation
+Farmington Hills, Michigan
+
+We have audited the accompanying consolidated balance sheets of Agree Realty
+Corporation (the "Company") as of December 31, 2000 and 1999, and the related
+consolidated statements of income, stockholders' equity and cash flows for each
+of the three years in the period ended December 31, 2000. We have also audited
+the schedule listed in the accompanying index. These financial statements and
+the schedule are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and the
+schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements and the schedule are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements and the schedule. An audit also includes assessing the
+accounting principles used and significant estimates made by management, as well
+as evaluating the overall presentation of the financial statements and the
+schedule. We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Agree Realty
+Corporation at December 31, 2000 and 1999, and the results of its operations and
+its cash flows for each of the three years in the period ended December 31, 2000
+in conformity with accounting principles generally accepted in the United States
+of America.
+
+Also, in our opinion, the schedule presents fairly, in all material respects,
+the information set forth therein.
+
+
+
+
+
+                                                                BDO SEIDMAN, LLP
+
+Troy, Michigan
+February 8, 2001
+
+
+
+
+                                      F-2
+
+<PAGE>   32
+
+
+
+
+                                                        AGREE REALTY CORPORATION
+
+                                                     CONSOLIDATED BALANCE SHEETS
+
+
+
+
+<TABLE>
+<CAPTION>
+
+
+December 31,                                                                2000            1999
+-------------------------------------------------------------------------------------------------
+<S>                                                               <C>             <C>
+ASSETS
+
+REAL ESTATE INVESTMENTS (Notes 3, 4 and 5)
+  Land                                                            $   45,028,679  $   40,270,367
+  Buildings                                                          143,474,205     135,709,128
+  Property under development                                           2,545,018       3,878,611
+-------------------------------------------------------------------------------------------------
+
+                                                                     191,047,902     179,858,106
+  Less accumulated depreciation                                      (29,907,682)    (26,342,296)
+-------------------------------------------------------------------------------------------------
+
+NET REAL ESTATE INVESTMENTS                                          161,140,220     153,515,810
+
+CASH AND CASH EQUIVALENTS                                              1,119,072       1,064,241
+
+ACCOUNTS RECEIVABLE - TENANTS                                            741,565         565,133
+
+INVESTMENTS IN AND ADVANCES TO
+  UNCONSOLIDATED ENTITIES                                                266,449         449,676
+
+UNAMORTIZED DEFERRED EXPENSES
+  Financing costs                                                      1,476,100       1,587,397
+  Leasing costs                                                          310,424         282,629
+
+OTHER ASSETS                                                             998,260         730,651
+-------------------------------------------------------------------------------------------------
+
+                                                                  $  166,052,090  $  158,195,537
+=================================================================================================
+</TABLE>
+
+                    See accompanying notes to consolidated financial statements.
+
+
+
+                                      F-3
+
+<PAGE>   33
+
+
+
+
+                                                        AGREE REALTY CORPORATION
+
+                                                     CONSOLIDATED BALANCE SHEETS
+
+
+
+
+<TABLE>
+<CAPTION>
+
+December 31,                                                                2000            1999
+-------------------------------------------------------------------------------------------------
+<S>                                                               <C>             <C>
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+MORTGAGES PAYABLE (Note 3)                                        $   52,119,770  $   52,936,571
+
+CONSTRUCTION LOANS (Note 4)                                           16,614,002      15,322,071
+
+NOTES PAYABLE (Note 5)                                                35,358,232      27,158,232
+
+DIVIDENDS AND DISTRIBUTIONS PAYABLE (Note 6)                           2,331,379       2,317,670
+
+ACCRUED INTEREST PAYABLE                                                 314,607         344,875
+
+ACCOUNTS PAYABLE
+  Capital expenditures                                                 1,110,673       1,315,597
+  Operating                                                            1,017,493         855,886
+
+TENANT DEPOSITS                                                           51,240          52,073
+-------------------------------------------------------------------------------------------------
+
+TOTAL LIABILITIES                                                    108,917,396     100,302,975
+-------------------------------------------------------------------------------------------------
+
+MINORITY INTEREST (Note 7)                                             5,707,608       5,859,012
+-------------------------------------------------------------------------------------------------
+
+STOCKHOLDERS' EQUITY (Note 6)
+  Common stock, $.0001 par value; 20,000,000
+    shares authorized; 4,394,669 and 4,364,867
+    shares issued and outstanding                                            440             436
+  Additional paid-in capital                                          63,632,433      63,217,235
+  Deficit                                                            (11,663,446)    (10,673,302)
+-------------------------------------------------------------------------------------------------
+
+                                                                      51,969,427      52,544,369
+Less: unearned compensation - restricted stock (Note 11)                (542,341)       (510,819)
+-------------------------------------------------------------------------------------------------
+
+TOTAL STOCKHOLDERS' EQUITY                                            51,427,086      52,033,550
+-------------------------------------------------------------------------------------------------
+
+                                                                  $  166,052,090  $  158,195,537
+=================================================================================================
+</TABLE>
+                    See accompanying notes to consolidated financial statements.
+
+
+                                      F-4
+
+<PAGE>   34
+                                                        AGREE REALTY CORPORATION
+
+                                               CONSOLIDATED STATEMENTS OF INCOME
+
+
+
+<TABLE>
+<CAPTION>
+
+Year Ended December 31,                                         2000             1999            1998
+------------------------------------------------------------------------------------------------------
+<S>                                                      <C>             <C>              <C>
+REVENUES
+  Minimum rents                                          $20,864,329     $ 19,219,219     $17,416,990
+  Percentage rents                                           301,474          217,475          88,835
+  Operating cost reimbursement                             2,521,947        2,452,208       2,091,633
+  Management fees and other (Note 8)                          42,695           41,838          76,094
+------------------------------------------------------------------------------------------------------
+
+TOTAL REVENUES                                            23,730,445       21,930,740      19,673,552
+------------------------------------------------------------------------------------------------------
+
+OPERATING EXPENSES
+  Real estate taxes                                        1,726,751        1,700,850       1,556,172
+  Property operating expenses                              1,363,663        1,268,559         947,619
+  Land lease payments                                        685,043          541,993         545,194
+  General and administrative                               1,556,817        1,424,602       1,170,122
+  Depreciation and amortization                            3,689,526        3,435,711       3,073,469
+------------------------------------------------------------------------------------------------------
+
+TOTAL OPERATING EXPENSES                                   9,021,800        8,371,715       7,292,576
+------------------------------------------------------------------------------------------------------
+
+INCOME FROM OPERATIONS                                    14,708,645       13,559,025      12,380,976
+------------------------------------------------------------------------------------------------------
+
+OTHER INCOME (EXPENSE)
+  Interest expense                                        (7,045,176)      (5,770,736)     (5,231,088)
+  Equity in net income (loss) of unconsolidated entities     522,339           27,739          (7,921)
+  Development fee income                                           -           40,873         176,193
+------------------------------------------------------------------------------------------------------
+
+TOTAL OTHER EXPENSE                                       (6,522,837)      (5,702,124)     (5,062,816)
+------------------------------------------------------------------------------------------------------
+
+INCOME BEFORE EXTRAORDINARY ITEM AND MINORITY INTEREST     8,185,808        7,856,901       7,318,160
+
+EXTRAORDINARY ITEM - LOSS ON EXTINGUISHMENT
+  OF DEBT (Note 9)                                                 -                -         319,422
+------------------------------------------------------------------------------------------------------
+
+INCOME BEFORE MINORITY INTEREST                            8,185,808        7,856,901       6,998,738
+
+MINORITY INTEREST                                          1,087,921        1,050,496         911,962
+------------------------------------------------------------------------------------------------------
+NET INCOME                                               $ 7,097,887     $  6,806,405     $ 6,086,776
+======================================================================================================
+
+EARNINGS PER SHARE (Note 2)
+  Income before extraordinary item                       $      1.61     $       1.56     $      1.46
+  Extraordinary item                                               -               -             (.06)
+------------------------------------------------------------------------------------------------------
+
+EARNINGS PER SHARE                                       $      1.61     $       1.56     $      1.40
+======================================================================================================
+</TABLE>
+                    See accompanying notes to consolidated financial statements.
+
+
+                                      F-5
+
+<PAGE>   35
+
+
+
+
+                                                        AGREE REALTY CORPORATION
+
+                                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+
+<TABLE>
+<CAPTION>
+
+
+
+
+                                        Common Stock          Additional                          Unearned
+                                  -------------------------      Paid-In                     Compensation -
+                                       Shares      Amount        Capital         Deficit   Restricted Stock
+----------------------------------------------------------------------------------------------------------
+<S>                                 <C>            <C>       <C>            <C>            <C>
+BALANCE, January 1, 1998            4,328,980        $433    $62,503,487    $ (7,537,911)     $  (305,597)
+
+Issuance of shares under the
+Stock                                                   2
+  Incentive Plan                       19,033                    405,828               -         (227,850)
+Vesting of restricted stock                 -           -              -               -          156,106
+Shares redeemed under the Stock
+  Incentive Plan                       (1,700)          -        (35,328)              -                -
+Dividends declared, $1.84 per share         -           -              -      (7,997,216)               -
+Net income                                  -           -              -       6,086,776                -
+----------------------------------------------------------------------------------------------------------
+
+BALANCE, December 31, 1998          4,346,313         435     62,873,987      (9,448,351)        (377,341)
+
+Issuance of shares under the Stock
+  Incentive Plan                       18,554           1        343,248               -         (327,450)
+Vesting of restricted stock                 -           -              -               -          193,972
+Dividends declared,  $1.84  per share       -           -              -      (8,031,356)               -
+Net income                                  -           -              -       6,806,405                -
+----------------------------------------------------------------------------------------------------------
+
+BALANCE, December 31, 1999          4,364,867         436     63,217,235     (10,673,302)        (510,819)
+
+Issuance of shares under the Stock
+  Incentive Plan                       33,802           4        471,198               -         (267,648)
+Shares redeemed under the Stock
+  Incentive Plan                       (4,000)          -        (56,000)              -                -
+Vesting of restricted stock                 -           -              -               -          236,126
+Dividend declared, $1.84 per share          -           -              -      (8,088,031)               -
+Net income                                  -           -              -       7,097,887                -
+----------------------------------------------------------------------------------------------------------
+
+BALANCE, December 31, 2000          4,394,669        $440    $63,632,433    $(11,663,446)     $  (542,341)
+==========================================================================================================
+</TABLE>
+                    See accompanying notes to consolidated financial statements.
+
+
+                                      F-6
+
+<PAGE>   36
+
+
+
+                                                        AGREE REALTY CORPORATION
+
+                                           CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+<TABLE>
+<CAPTION>
+
+Year Ended December 31,                                         2000           1999            1998
+-----------------------------------------------------------------------------------------------------
+<S>                                                    <C>             <C>              <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net income                                           $   7,097,887   $  6,806,405     $ 6,086,776
+  Adjustments to reconcile net income to net
+    cash provided by operating activities
+      Depreciation                                         3,602,678      3,350,133       2,993,886
+      Amortization                                           453,094        448,767         511,407
+      Stock-based compensation                               236,126        193,972         156,106
+      Write-off of deferred finance costs                          -              -         226,162
+      Equity in net (income) loss of
+        unconsolidated entities                             (522,339)       (27,739)          7,921
+      Minority interests                                   1,087,921      1,050,496         911,962
+      Decrease (increase) in accounts receivable            (176,432)        79,919        (171,134)
+      Decrease (increase) in other assets                   (306,780)        (6,955)        249,298
+      Increase (decrease) in accounts payable                161,607        134,401         118,623
+      Increase (decrease) in accrued interest                (30,268)        26,513          69,620
+      Increase (decrease) in tenant deposits                    (833)         3,467          (3,467)
+-----------------------------------------------------------------------------------------------------
+
+NET CASH PROVIDED BY OPERATING ACTIVITIES                 11,602,661     12,059,379      11,157,160
+-----------------------------------------------------------------------------------------------------
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Acquisition of real estate investments (including
+    capitalized interest of $394,400 in 2000,
+    $452,000 in 1999 and $470,671 in 1998)               (10,079,123)   (11,621,507)    (13,688,468)
+  Distributions from unconsolidated entities                 694,320        702,226         655,665
+-----------------------------------------------------------------------------------------------------
+
+NET CASH USED IN INVESTING ACTIVITIES                     (9,384,803)   (10,919,281)    (13,032,803)
+-----------------------------------------------------------------------------------------------------
+</TABLE>
+
+                    See accompanying notes to consolidated financial statements.
+
+
+                                      F-7
+
+<PAGE>   37
+
+
+
+                                                        AGREE REALTY CORPORATION
+
+                                           CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+<TABLE>
+<CAPTION>
+
+Year Ended December 31,                                        2000            1999            1998
+-----------------------------------------------------------------------------------------------------
+<S>                                                     <C>            <C>              <C>
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Dividends and limited partners' distributions paid    $(9,313,647)   $ (9,262,149)    $(9,179,457)
+  Line-of-credit net borrowings (payments)                8,200,000      (8,000,000)     26,517,216
+  Payments of mortgages payable                          (1,316,801)       (752,858)    (15,830,943)
+  Proceeds from construction loans                        1,291,931       6,447,745       3,299,235
+  Payments of payables for capital expenditures          (1,112,043)     (1,428,718)     (1,338,399)
+  Mortgage proceeds                                         500,000      12,390,135               -
+  Payments for financing costs                             (254,949)       (417,146)        (58,000)
+  Payments of leasing costs                                (101,518)        (47,025)        (83,131)
+  Redemption of restricted stock                            (56,000)              -         (35,328)
+  Payment of related party payables                               -               -      (1,757,359)
+  Payment of note payable                                         -               -        (450,000)
+-----------------------------------------------------------------------------------------------------
+
+NET CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES      (2,163,027)     (1,070,016)      1,083,834
+-----------------------------------------------------------------------------------------------------
+
+NET INCREASE (DECREASE) IN CASH
+  AND CASH EQUIVALENTS                                       54,831          70,082        (791,809)
+
+CASH AND CASH EQUIVALENTS, beginning of year              1,064,241         994,159       1,785,968
+-----------------------------------------------------------------------------------------------------
+
+CASH AND CASH EQUIVALENTS, end of year                  $ 1,119,072    $  1,064,241     $   994,159
+=====================================================================================================
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+  Cash paid for interest (net of amounts
+capitalized)                                            $ 6,718,068    $  5,395,192     $ 4,790,000
+=====================================================================================================
+
+SUPPLEMENTAL DISCLOSURE OF NON-CASH TRANSACTIONS
+  Dividends and limited partners' distributions
+    declared and unpaid                                 $ 2,331,379    $  2,317,670     $ 2,309,136
+  Real estate investments financed with accounts
+    payable                                             $ 1,110,673    $  1,315,597     $ 1,444,517
+  Shares issued under Stock Incentive Plan              $   471,202    $    343,249     $   405,830
+  Operating partnership units issued for purchase
+    of real estate                                      $         -    $          -     $   691,119
+=====================================================================================================
+</TABLE>
+                    See accompanying notes to consolidated financial statements.
+
+
+                                      F-8
+<PAGE>   38
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+1.   THE COMPANY                 Agree Realty Corporation (the "Company") is a
+                                 self-administered, self-managed real estate
+                                 investment trust which develops, acquires, owns
+                                 and operates properties which are primarily
+                                 leased to national and regional retail
+                                 companies under net leases. At December 31,
+                                 2000, the Company's properties are comprised of
+                                 fourteen shopping centers and twenty-four
+                                 single tenant retail facilities located in
+                                 thirteen states. In addition, the Company owns
+                                 joint venture interests ranging from 8% to 20%
+                                 in seven free-standing retail properties.
+                                 During the year ended December 31, 2000,
+                                 approximately 95% of the Company's base rental
+                                 revenues were received from national and
+                                 regional tenants under long-term leases,
+                                 including approximately 25% from Kmart
+                                 Corporation, 24% from Borders, Inc. and 14%
+                                 from Walgreen Co.
+
+2.   SUMMARY OF SIGNIFICANT      PRINCIPLES OF CONSOLIDATION
+     ACCOUNTING POLICIES
+                                 The consolidated financial statements of Agree
+                                 Realty Corporation include the accounts of the
+                                 Company, its majority-owned partnership, Agree
+                                 Limited Partnership (the "Operating
+                                 Partnership"), and its wholly-owned
+                                 subsidiaries. The Company controlled, as the
+                                 sole general partner, 86.71% and 86.63% of the
+                                 Operating Partnership as of December 31, 2000
+                                 and 1999, respectively. All material
+                                 intercompany accounts and transactions are
+                                 eliminated.
+
+                                 USE OF ESTIMATES
+
+                                 The preparation of financial statements in
+                                 conformity with generally accepted accounting
+                                 principles, requires management to make
+                                 estimates and assumptions that affect the
+                                 reported amounts of (1) assets and liabilities
+                                 and the disclosure of contingent assets and
+                                 liabilities as of the date of the financial
+                                 statements, and (2) revenues and expenses
+                                 during the reporting period. Actual results
+                                 could differ from those estimates.
+
+
+                                      F-9
+<PAGE>   39
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+                                 FAIR VALUES OF FINANCIAL INSTRUMENTS
+
+                                 The carrying amounts of the Company's financial
+                                 instruments, which consist of cash, cash
+                                 equivalents, receivables, notes payable,
+                                 accounts payable and long-term debt,
+                                 approximate their fair values.
+
+                                 VALUATION OF LONG-LIVED ASSETS
+
+                                 Long-lived assets such as real estate
+                                 investments are evaluated for impairment when
+                                 events or changes in circumstances indicate
+                                 that the carrying amount of the assets may not
+                                 be recoverable through the estimated
+                                 undiscounted future cash flows from the use of
+                                 these assets. When any such impairment exists,
+                                 the related assets will be written down to fair
+                                 value. No impairment loss recognition has been
+                                 required through December 31, 2000.
+
+                                 REAL ESTATE INVESTMENTS
+
+                                 Real estate assets are stated at cost less
+                                 accumulated depreciation. All costs related to
+                                 planning, development and construction of
+                                 buildings prior to the date they become
+                                 operational, including interest and real estate
+                                 taxes during the construction period, are
+                                 capitalized for financial reporting purposes
+                                 and recorded as "Property under development"
+                                 until construction has been completed. As of
+                                 December 31, 2000, the cost to complete the
+                                 properties under development is approximately
+                                 $2,100,000.
+
+                                 Subsequent to completion of construction,
+                                 expenditures for property maintenance are
+                                 charged to operations as incurred, while
+                                 significant renovations are capitalized.
+                                 Depreciation of the buildings is recorded on
+                                 the straight-line method using an estimated
+                                 useful life of forty years.
+
+                                 CASH AND CASH EQUIVALENTS
+
+                                 Cash and cash equivalents include cash and
+                                 money market accounts.
+
+
+                                      F-10
+<PAGE>   40
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+                                 ACCOUNTS RECEIVABLE - TENANTS
+
+                                 Accounts receivable from tenants reflect
+                                 primarily reimbursement of specified common
+                                 area expenses. No allowance for uncollectible
+                                 accounts is considered necessary due to past
+                                 collection results.
+
+                                 INVESTMENTS IN UNCONSOLIDATED ENTITIES
+
+                                 The Company uses the equity method of
+                                 accounting for investments in non-majority
+                                 owned entities where the Company has the
+                                 ability to exercise significant influence over
+                                 operating and financial policies.
+
+                                 The Company's initial investment is recorded at
+                                 cost, and the carrying amount of the investment
+                                 is (a) increased by the Company's share of the
+                                 investees' earnings (as defined in the limited
+                                 liability company agreements), and (b) reduced
+                                 by distributions paid from the investees to the
+                                 Company.
+
+                                 UNAMORTIZED DEFERRED EXPENSES
+
+                                 Deferred expenses are stated net of total
+                                 accumulated amortization. The nature and
+                                 treatment of these capitalized costs are as
+                                 follows: (1) financing costs, consisting of
+                                 expenditures incurred to obtain long-term
+                                 financing, are being amortized using the
+                                 interest method over the term of the related
+                                 loan, and (2) leasing costs, which are
+                                 amortized on a straight-line basis over the
+                                 term of the related lease.
+
+                                 OTHER ASSETS
+
+                                 The Company records prepaid expenses, deposits
+                                 and miscellaneous receivables as "other assets"
+                                 in the accompanying balance sheets.
+
+                                 ACCOUNTS PAYABLE - CAPITAL EXPENDITURES
+
+                                 Included in accounts payable are amounts
+                                 related to the construction of buildings. Due
+                                 to the nature of these expenditures, they are
+                                 reflected in the statements of cash flows as a
+                                 financing activity.
+
+
+                                      F-11
+<PAGE>   41
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+                                 MINORITY INTEREST
+
+                                 This amount represents the limited partners'
+                                 interest ("OP Units") of 13.29% and 13.37%
+                                 (convertible into 673,547 shares) in the
+                                 Operating Partnership as of December 31, 2000
+                                 and 1999, respectively.
+
+                                 REVENUE RECOGNITION
+
+                                 Minimum rental income attributable to leases is
+                                 recorded when due from tenants. Certain leases
+                                 provide for additional percentage rents based
+                                 on tenants' sales volume. These percentage
+                                 rents are recognized as received by the
+                                 Company. In addition, leases for certain
+                                 tenants contain rent escalations and/or free
+                                 rent during the first several months of the
+                                 lease term; however, such amounts are not
+                                 material.
+
+                                 The Company acts as the construction developer
+                                 on certain properties. Related development fee
+                                 income is recognized upon completion of
+                                 construction.
+
+                                 OPERATING COST REIMBURSEMENT
+
+                                 Substantially all of the Company's leases
+                                 contain provisions requiring tenants to pay as
+                                 additional rent a proportionate share of
+                                 operating expenses such as real estate taxes,
+                                 repairs and maintenance, insurance, etc. The
+                                 related revenue from tenant billings is
+                                 recognized in the same period the expense is
+                                 recorded.
+
+                                 INCOME TAXES
+
+                                 The Company elected to be taxed as a REIT under
+                                 the Internal Revenue Code of 1986, as amended
+                                 (the "Code") and began operating as such on
+                                 April 22, 1994. As a result, the Company is not
+                                 subject to federal income taxes to the extent
+                                 that it distributes annually at least 95% of
+                                 its taxable income to its shareholders and
+                                 satisfies certain other requirements defined in
+                                 the Code. Accordingly, no provision was made
+                                 for federal income taxes in the accompanying
+                                 consolidated financial statements.
+
+
+                                      F-12
+<PAGE>   42
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+                                 The Company declared dividends of $1.84 per
+                                 share during the years ended December 31, 2000,
+                                 1999, and 1998; the dividends have been
+                                 reflected for federal income tax purposes as
+                                 follows:
+
+<TABLE>
+<CAPTION>
+
+                                 December 31,                     2000        1999         1998
+                                 ----------------------------------------------------------------
+                                 <S>                           <C>        <C>          <C>
+                                 Ordinary income               $  1.52    $   1.44     $   1.32
+                                 Return of capital                 .32         .40          .52
+                                 ----------------------------------------------------------------
+
+                                 TOTAL                         $  1.84    $   1.84     $   1.84
+                                 ================================================================
+</TABLE>
+                                 The aggregate federal income tax basis of Real
+                                 Estate Investments is approximately $18.2
+                                 million less than the financial statement
+                                 basis.
+
+                                 EARNINGS PER SHARE
+
+                                 Earnings per share reflected in the
+                                 consolidated statements of operations are
+                                 presented for all periods in accordance with
+                                 SFAS No. 128, "Earnings per Share". In
+                                 connection therewith, any conversion of OP
+                                 Units to common stock would have no effect on
+                                 the earnings per share calculation since the
+                                 allocation of earnings to an OP Unit is
+                                 equivalent to earnings allocated to a share of
+                                 common stock.
+
+                                 The following table sets forth the computation
+                                 of basic and diluted earnings per share:
+
+<TABLE>
+<CAPTION>
+
+                                 December 31,                          2000       1999      1998
+                                 ----------------------------------------------------------------
+                                 <S>                            <C>         <C>        <C>
+                                 NUMERATOR
+                                   Net income                   $7,097,887  $6,806,405 $6,086,776
+                                   Income allocated to minority
+                                   interests                     1,087,921   1,050,496    911,962
+                                 ----------------------------------------------------------------
+
+                                 NUMERATOR FOR BASIC AND DILUTED
+                                 EARNINGS PER SHARE - INCOME
+                                 AVAILABLE TO SHAREHOLDERS
+                                 AFTER ASSUMED CONVERSIONS      $8,185,808  $7,856,901 $6,998,738
+                                 ================================================================
+</TABLE>
+
+
+
+                                      F-13
+<PAGE>   43
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+<TABLE>
+<CAPTION>
+
+                                 December 31,                        2000       1999     1998
+                                 ----------------------------------------------------------------
+                                 <S>                             <C>        <C>       <C>
+                                 DENOMINATOR
+                                   Weighted average shares
+                                   outstanding                    4,395,806 4,364,867  4,346,313
+                                   Weighted average OP Units
+                                   outstanding,
+                                        Assuming conversion         673,547   673,547    651,122
+                                 ----------------------------------------------------------------
+
+                                 DENOMINATOR FOR BASIC EARNINGS
+                                 PER SHARE - ADJUSTED WEIGHTED
+                                 AVERAGE   SHARES  AND  ASSUMED
+                                 CONVERSIONS                      5,069,353  5,038,414 4,997,435
+
+                                 EMPLOYEE STOCK OPTIONS                   -          -       685
+                                 ----------------------------------------------------------------
+
+                                 DENOMINATOR FOR DILUTED
+                                   EARNINGS PER SHARE             5,069,353  5,038,414 4,998,120
+                                 ================================================================
+</TABLE>
+                                 RECLASSIFICATIONS
+
+                                 Certain amounts in prior years' financial
+                                 statements have been reclassified to conform
+                                 with current year's presentation.
+
+                                 RECENT ACCOUNTING PRONOUNCEMENTS
+
+                                 In June 1998, the Financial Accounting
+                                 Standards Board ("FASB") issued Statement of
+                                 Financial Accounting Standards No. 133,
+                                 Accounting for Derivative Instruments and
+                                 Hedging Activities ("SFAS 133"). The FASB
+                                 issued SFAS No. 137 in June 1999 to delay the
+                                 effective date of SFAS 133 to the first quarter
+                                 of the fiscal year beginning after June 15,
+                                 2000 (January 1, 2001 for the Company). The
+                                 adoption of SFAS 133, as amended by SFAS 137,
+                                 will not have any effect on the Company's
+                                 results of operations or its financial
+                                 position.
+
+
+
+                                      F-14
+
+<PAGE>   44
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+3.   MORTGAGES PAYABLE           Mortgages payable consisted of the following:
+
+
+<TABLE>
+<CAPTION>
+
+                                 December 31,                               2000            1999
+                                 -------------------------------------------------------------------
+                                  <S>                                   <C>            <C>
+                                 Note payable in monthly
+                                   installments of $249,750
+                                   including interest at 7.0%
+                                   per annum, with the
+                                   remaining balance due
+                                   November 2005; collateralized
+                                   by related real estate and tenants'
+                                   leases                               $  32,462,433  $  33,160,787
+
+                                 Note payable in monthly
+                                   installments of $99,598
+                                   including interest at 6.63%
+                                   per annum, with the
+                                   remaining balance due                   11,836,651     12,232,692
+                                   February 2017;
+                                   collateralized by related
+                                   real estate and tenants'
+                                   leases
+
+                                 Note payable in monthly
+                                   installments of $61,948
+                                   including interest at 7.0%
+                                   per annum (with rate to be
+                                   modified to prevailing
+                                   interest rate in December
+                                   2005), collateralized by
+                                   related real estate and
+                                   tenants' leases, final
+                                   balloon installment                      7,320,686      7,543,092
+                                   scheduled to be due April
+                                   2013
+
+                                 Note payable in monthly
+                                   interest only installments
+                                   of $4,168 including interest
+                                   at 10.0% per annum,
+                                   collateralized by related
+                                   real estate, final balloon
+                                   payment due on October 5,                  500,000              -
+                                   2005
+                                 -------------------------------------------------------------------
+
+                                 TOTAL                                  $  52,119,770  $  52,936,571
+                                 ===================================================================
+</TABLE>
+
+
+                                      F-15
+
+<PAGE>   45
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+                                 Future scheduled annual maturities of mortgages
+                                 payable for years ending December 31 are as
+                                 follows: 2001 - $1,389,919; 2002 - $1,509,245;
+                                 2003 - $1,616,568; 2004 - $1,731,528; 2005 -
+                                 $2,354,668 and $43,517,842 thereafter.
+
+4.   CONSTRUCTION LOANS          The Company's wholly-owned subsidiaries have
+                                 obtained construction financing totalling
+                                 approximately $16,100,000, which is available
+                                 to fund the development of four retail
+                                 properties. Quarterly interest payments are
+                                 made based on LIBOR. The notes mature on
+                                 October 16, 2002 and are secured by the related
+                                 land and buildings. The Company owed
+                                 $14,896,962 and $13,591,581 for these loans at
+                                 December 31, 2000 and 1999, respectively.
+
+                                 The Company has also received funding from an
+                                 unaffiliated third party for certain of its
+                                 single tenant retail properties. Borrowings
+                                 under this arrangement bear no interest. The
+                                 advances are secured by the specific land and
+                                 buildings being developed. The Company owed
+                                 $1,717,040 and $1,730,490 for these advances as
+                                 of December 31, 2000 and 1999, respectively.
+
+5.   NOTES PAYABLE               The Operating Partnership has in place a $50
+                                 million line-of-credit agreement which is
+                                 guaranteed by the Company. The agreement
+                                 expires in August 2003 and can be extended,
+                                 solely at the option of the Operating
+                                 Partnership, for an additional three years.
+                                 Advances under the Credit Facility bear
+                                 interest within a range of one-month to
+                                 six-month LIBOR plus 150 basis points to 213
+                                 basis points or the bank's prime rate, at the
+                                 option of the Company, based on certain factors
+                                 such as debt to property value and debt service
+                                 coverage. The Credit Facility is used to fund
+                                 property acquisitions and development
+                                 activities and is secured by most of the
+                                 Company's Properties which are not otherwise
+                                 encumbered and properties to be acquired or
+                                 developed. At December 31, 2000 and 1999,
+                                 $33,158,232 and $27,158,232, respectively, was
+                                 outstanding under this facility.
+
+                                 In addition, the Company maintains a $5,000,000
+                                 line-of-credit agreement with a bank. Monthly
+                                 interest payments are required, either at the
+                                 bank's prime rate less 50 basis points, or 175
+                                 basis points in excess of the one-month LIBOR
+                                 rate, at the option of the Company. At December
+                                 31, 2000 and 1999, $2,200,000 and $-0-
+                                 respectively, was outstanding under this
+                                 agreement.
+
+
+                                      F-16
+<PAGE>   46
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+6.   DIVIDENDS AND               On December 4, 2000, the Company declared a
+     DISTRIBUTIONS PAYABLE       dividend of $.46 per share for the quarter
+                                 ended December 31, 2000; approximately 18%
+                                 percent of the dividend represented a return of
+                                 capital. The holders of OP Units were entitled
+                                 to an equal distribution per OP Unit held as of
+                                 December 31, 2000. The dividends and
+                                 distributions payable are recorded as
+                                 liabilities in the Company's balance sheet at
+                                 December 31, 2000. The dividend has been
+                                 reflected as a reduction of stockholders'
+                                 equity and the distribution has been reflected
+                                 as a reduction of the limited partners'
+                                 minority interest. These amounts were paid on
+                                 January 4, 2001.
+
+7.   MINORITY INTEREST           The following summarizes the changes in
+                                 minority interest since January 1, 1998:
+
+<TABLE>
+<S>                              <C>                                               <C>
+                                 MINORITY INTEREST AT JANUARY 1, 1998              $   5,651,347
+                                 Acquisition of Mt. Pleasant Shopping Center
+                                   (see Note 8)                                          691,119
+                                 Minority interests' share of income for the
+                                   year                                                  911,962
+                                 Distributions for the year                           (1,206,585)
+                                 ----------------------------------------------------------------
+
+                                 MINORITY INTEREST AT DECEMBER 31, 1998                6,047,843
+                                 Minority interests' share of income for the
+                                   year                                                1,050,496
+                                 Distributions for the year                           (1,239,327)
+                                 ----------------------------------------------------------------
+
+                                 MINORITY INTEREST AT DECEMBER 31, 1999                5,859,012
+                                 Minority interests' share of income for the
+                                 year                                                  1,087,921
+                                 Distributions for the year                           (1,239,325)
+                                 ----------------------------------------------------------------
+
+                                 MINORITY INTEREST AT DECEMBER 31, 2000            $   5,707,608
+                                 ================================================================
+</TABLE>
+
+
+                                      F-17
+<PAGE>   47
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+8.   RELATED PARTY               In August 1998 the Operating Partnership
+     TRANSACTIONS                purchased the Mt. Pleasant Shopping Center. An
+                                 independent appraisal determined the purchase
+                                 price of $9,076,000. Payment consisted of
+                                 $8,385,000 in debt assumption, with the balance
+                                 paid through the issuance of 35,588 OP Units.
+                                 The sellers are members of the Agree
+                                 organization and are existing limited partners
+                                 in the Operating Partnership.
+
+                                 The Company currently manages certain
+                                 additional properties which are owned by
+                                 certain officers and directors of the Company,
+                                 but are not included in the consolidated
+                                 financial statements. Income related to these
+                                 activities is reflected as "Management fees and
+                                 other" in the accompanying consolidated
+                                 statements of income.
+
+9.   EXTRAORDINARY ITEM          During the fourth quarter of 1998, the Company
+                                 recognized an extraordinary loss related to
+                                 loan prepayment penalties and the write-off of
+                                 deferred financing costs for debt that was
+                                 repaid prior to its scheduled due date.
+
+10.  STOCK INCENTIVE PLAN        The Company has established a stock incentive
+                                 plan (the "Plan") under which options were
+                                 granted in April 1994. The options, which have
+                                 an exercise price equal to the initial public
+                                 offering price ($19.50/share), can be exercised
+                                 in increments of 25% on each anniversary of the
+                                 date of the grant. The total of 23,275 options
+                                 were exercisable at December 31, 2000 and 1999.
+                                 No options were exercised during either 2000 or
+                                 1999.
+
+                                 The Company has adopted the disclosure-only
+                                 provisions of SFAS No. 123 "Accounting for
+                                 Stock-Based Compensation." However, since no
+                                 compensation cost would have been recognized
+                                 pursuant to SFAS No. 123 under the Plan in
+                                 either 2000 or 1999, there is no effect on the
+                                 Company's net income for these years.
+
+
+                                      F-18
+<PAGE>   48
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+11.  UNEARNED COMPENSATION       As part of the Company's stock incentive plan,
+     -RESTRICTED STOCK           restricted common shares are granted to certain
+                                 employees. The restricted shares vest in
+                                 increments of 20% per year for five years. Plan
+                                 participants are entitled to receive the
+                                 quarterly dividends on their respective
+                                 restricted shares. The following table
+                                 summarizes the restricted shares for the years
+                                 ended December 31, 2000, 1999 and 1998:
+
+<TABLE>
+<CAPTION>
+                                                                       2000      1999      1998
+                                 ----------------------------------------------------------------
+<S>                                                                <C>       <C>       <C>
+                                 Restricted shares outstanding
+                                 January 1                           85,332    66,778    49,445
+                                 Restricted shares granted
+                                   during the year                   33,802    18,554    19,033
+                                 Restricted shares redeemed
+                                   during the year                   (4,000)        -    (1,700)
+                                 ----------------------------------------------------------------
+
+                                 Restricted shares outstanding
+                                   December 31                      115,134    85,332    66,778
+                                 ================================================================
+                                 COMPENSATION EXPENSE RECORDED
+                                   RELATED TO RESTRICTED COMMON
+                                   SHARES                          $236,126  $193,972  $156,106
+                                 ================================================================
+</TABLE>
+
+12.  PROFIT-SHARING PLAN         The Company has a discretionary profit-sharing
+                                 plan whereby it contributes to the plan such
+                                 amounts as the Board of Directors of the
+                                 Company determines. The participants in the
+                                 plan cannot make any contributions to the plan.
+                                 Contributions to the plan are allocated to the
+                                 employees based on their percentage of
+                                 compensation to the total compensation of all
+                                 employees for the plan year. Participants in
+                                 the plan become fully vested after six years of
+                                 service. No contributions were made to the plan
+                                 in 2000, 1999 or 1998.
+
+13.  RENTAL INCOME               The Company leases premises in its properties
+                                 to tenants pursuant to lease agreements which
+                                 provide for terms ranging generally from 5 to
+                                 25 years. The majority of leases provide for
+                                 additional rents based on tenants' sales
+                                 volume; however, such amounts earned by the
+                                 Company historically have not been material.
+
+
+
+
+                                      F-19
+<PAGE>   49
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+                                 As of December 31, 2000, the future minimum
+                                 revenues for the next five years from rental
+                                 property under the terms of all noncancellable
+                                 tenant leases, assuming no new or renegotiated
+                                 leases are executed for such premises, are as
+                                 follows (in thousands):
+
+<TABLE>
+<S>                              <C>                                 <C>
+                                 2001                                $    21,298
+                                 2002                                     20,328
+                                 2003                                     19,391
+                                 2004                                     18,785
+                                 2005                                     18,168
+                                 Thereafter                              161,008
+                                 ------------------------------------------------
+
+                                 TOTAL                               $   258,978
+                                 ================================================
+</TABLE>
+
+                                 Of these future minimum rentals, approximately
+                                 26% of the total is attributable to Kmart
+                                 Corporation, approximately 29% is attributable
+                                 to Borders, Inc. and approximately 22% is
+                                 attributable to Walgreen Company. Kmart's
+                                 principal business is general merchandise
+                                 retailing through a chain of discount
+                                 department stores, Borders is a major operator
+                                 of book superstores in the United States and
+                                 Walgreen operates in the national chain
+                                 drugstore industry.
+
+14.   LEASE COMMITMENTS          The Company has entered into certain land lease
+                                 agreements for four of its properties. As of
+                                 December 31, 2000, future annual lease
+                                 commitments under these agreements are as
+                                 follows:
+
+<TABLE>
+<CAPTION>
+                                 Year Ended December 31,
+                                 ================================================================
+<S>                              <C>                                               <C>
+                                 2001                                              $     721,160
+                                 2002                                                    723,149
+                                 2003                                                    725,443
+                                 2004                                                    725,443
+                                 2005                                                    764,768
+                                 Thereafter                                           13,582,273
+                                 ----------------------------------------------------------------
+
+                                 TOTAL                                             $  17,242,236
+                                 ================================================================
+</TABLE>
+
+
+                                      F-20
+<PAGE>   50
+                                                        AGREE REALTY CORPORATION
+
+                                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+
+
+15.  INTERIM RESULTS        The following summary represents the unaudited
+     (UNAUDITED)            results of operations of the Company, expressed in
+                            thousands except per share amounts, for the periods
+                            from January 1, 1999 through December 31, 2000:
+
+<TABLE>
+<CAPTION>
+                                                        Three Months Ended
+                            ----------------------------------------------------------------------------
+                            2000                           March 31, June 30, September 30, December 31,
+                            ----------------------------------------------------------------------------
+
+<S>                                                          <C>       <C>      <C>          <C>
+                            REVENUES                         $ 5,813   $5,804   $   5,998    $   6,115
+                            ============================================================================
+                            Income before minority interest  $ 1,868   $2,025   $   2,155    $   2,138
+                            Minority interest                    248      269         287          284
+                            ----------------------------------------------------------------------------
+
+                            NET INCOME                       $ 1,620   $1,756   $   1,868    $   1,854
+                            ============================================================================
+
+                            EARNINGS PER SHARE               $   .37   $   .40  $     .43    $     .41
+                            ============================================================================
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                        Three Months Ended
+                            ----------------------------------------------------------------------------
+                            1999                           March 31, June 30, September 30, December 31,
+                            ----------------------------------------------------------------------------
+
+<S>                                                          <C>       <C>      <C>          <C>
+                            REVENUES                         $ 5,382   $5,374   $   5,490    $   5,685
+                            ============================================================================
+                            Income before minority interest  $ 1,832   $2,037   $   2,020    $   1,968
+                            Minority interest                    245      272         270          263
+                            ----------------------------------------------------------------------------
+
+                            NET INCOME                       $ 1,587   $1,765   $   1,750    $   1,705
+                            ============================================================================
+
+                            EARNINGS PER SHARE               $   .36   $  .40   $     .40    $     .40
+                            ============================================================================
+</TABLE>
+
+
+
+
+                                      F-21
+<PAGE>   51
+                                                        AGREE REALTY CORPORATION
+
+                         SCHEDULE III - REAL ESTATE AND ACCUMULATED DEPRECIATION
+                                                               DECEMBER 31, 2000
+
+
+<TABLE>
+<CAPTION>
+
+       Column A                   Column B           Column C                  Column D
+-----------------------         -----------    ---------------------------  ---------------
+
+
+
+
+                                                      Initial Cost                  Costs
+                                               ---------------------------    Capitalized
+                                                             Buildings and  Subsequent to
+Description                     Encumbrance        Land       Improvements    Acquisition
+-------------------------------------------------------------------------------------------
+COMPLETED RETAIL FACILITIES
+<S>                             <C>          <C>             <C>          <C>
+  Borman Center, MI             $  993,617   $  550,000      $  562,404     $1,066,115
+  Capital Plaza, KY              1,271,682        7,379       2,240,607        534,115
+  Charlevoix Common, MI          3,846,798      305,000       5,152,992        106,718
+  Chippewa Commons, WI           4,931,044    1,197,150       6,367,560        224,769
+  Grayling Plaza, MI               904,637      200,000       1,778,657              -
+  Iron Mountain Plaza, MI        3,740,895      677,820       7,014,996        491,900
+  Ironwood Commons, MI           3,926,271      167,500       8,181,306        244,753
+  Marshall Plaza Two, MI         3,291,691            -       4,662,230         88,481
+  North Lakeland Plaza, FL       7,320,686    1,641,879       6,364,379        812,023
+  Oscoda Plaza, MI                 938,004      183,295       1,872,854              -
+  Perrysburg Plaza, OH                   -       21,835       2,291,651        354,703
+  Petoskey Town Center, MI       5,388,764      875,000       8,895,289         52,323
+  Plymouth Commons, WI           4,648,620      535,460       5,667,504        279,073
+  Rapids Associates, MI          4,947,275      705,000       6,854,790         27,767
+  Shawano Plaza, WI              5,408,241      190,000       9,133,934        101,471
+  West Frankfort Plaza, IL         426,366        8,002         784,077        143,258
+  Winter Garden Plaza, FL                -    1,631,448       8,459,024        322,435
+  Omaha Store, NE                1,720,293    1,705,619       2,053,615          2,152
+  Wichita Store, KS              1,256,852    1,039,195       1,690,644         24,666
+  Santa Barbara Store, CA        2,558,194    2,355,423       3,240,557          2,650
+  Monroeville, PA                3,922,564    6,332,158       2,249,724              -
+  Norman, OK                     1,145,626      879,562       1,626,501              -
+  Columbus, OH                   1,445,936      826,000       2,336,791              -
+  Aventura, FL                   1,449,643            -       3,173,121              -
+  Boyton Beach, FL               2,350,572    3,103,942       2,043,122              -
+  Lawrence, KS                   3,181,670            -       3,000,000        155,407
+  Waterford, MI                  2,850,265      971,009       1,562,869        135,390
+  Chesterfield Township, MI      3,129,610    1,350,590       1,757,830        (46,164)
+
+
+
+<CAPTION>
+
+       Column A                                 Column E
+-----------------------             --------------------------------
+
+
+                                     Gross Amount at Which Carried
+                                           at Close of Period
+                                    --------------------------------
+                                              Buildings and
+Description                              Land  Improvements   TOTAL
+-----------------------------------------------------------------------
+COMPLETED RETAIL FACILITIES
+<S>                               <C>        <C>          <C>
+  Borman Center, MI               $  550,000   $1,628,519  $ 2,178,519
+  Capital Plaza, KY                    7,379    2,774,722    2,782,101
+  Charlevoix Common, MI              305,000    5,259,710    5,564,710
+  Chippewa Commons, WI             1,197,150    6,592,329    7,789,479
+  Grayling Plaza, MI                 200,000    1,778,657    1,978,657
+  Iron Mountain Plaza, MI            677,820    7,506,896    8,184,716
+  Ironwood Commons, MI               167,500    8,426,059    8,593,559
+  Marshall Plaza Two, MI                   -    4,750,711    4,750,711
+  North Lakeland Plaza, FL         1,641,879    7,176,402    8,818,281
+  Oscoda Plaza, MI                   183,295    1,872,854    2,056,149
+  Perrysburg Plaza, OH               345,538    2,322,651    2,668,189
+  Petoskey Town Center, MI           875,000    8,947,612    9,822,612
+  Plymouth Commons, WI               535,460    5,946,577    6,482,037
+  Rapids Associates, MI              705,000    6,882,557    7,587,557
+  Shawano Plaza, WI                  190,000    9,235,405    9,425,405
+  West Frankfort Plaza, IL             8,002      927,335      935,337
+  Winter Garden Plaza, FL          1,631,448    8,781,459   10,412,907
+  Omaha Store, NE                  1,705,619    2,055,767    3,761,386
+  Wichita Store, KS                1,039,195    1,715,310    2,754,505
+  Santa Barbara Store, CA          2,355,423    3,243,207    5,598,630
+  Monroeville, PA                  6,332,158    2,249,724    8,581,882
+  Norman, OK                         879,562    1,626,501    2,506,063
+  Columbus, OH                       826,000    2,336,791    3,162,791
+  Aventura, FL                             -    3,173,121    3,173,121
+  Boyton Beach, FL                 3,103,942    2,043,122    5,147,064
+  Lawrence, KS                             -    3,155,407    3,155,407
+  Waterford, MI                      971,009    1,698,259    2,669,268
+  Chesterfield Township, MI        1,350,590    1,711,666    3,062,256
+
+
+
+
+<CAPTION>
+
+       Column A                   Column F      Column G          Column H
+-----------------------         -----------    ----------       ------------
+                                                                        Life
+                                                                    on Which
+                                                                Depreciation
+                                                                   in Latest
+                                                                      Income
+                                Accumulated      Date of           Statement
+Description                     Depreciation   Construction      is Computed
+----------------------------------------------------------------------------
+COMPLETED RETAIL FACILITIES
+<S>                             <C>                <C>            <C>
+  Borman Center, MI             $1,041,111          1977           40 Years
+  Capital Plaza, KY              1,342,197          1978           40 Years
+  Charlevoix Common, MI          1,320,817          1991           40 Years
+  Chippewa Commons, WI           1,710,632          1990           40 Years
+  Grayling Plaza, MI               757,625          1984           40 Years
+  Iron Mountain Plaza, MI        1,724,984          1991           40 Years
+  Ironwood Commons, MI           1,998,341          1991           40 Years
+  Marshall Plaza Two, MI         1,147,781          1990           40 Years
+  North Lakeland Plaza, FL       2,338,884          1987           40 Years
+  Oscoda Plaza, MI                 791,734          1984           40 Years
+  Perrysburg Plaza, OH             990,794          1983           40 Years
+  Petoskey Town Center, MI       2,218,926          1990           40 Years
+  Plymouth Commons, WI           1,485,072          1990           40 Years
+  Rapids Associates, MI          1,755,392          1990           40 Years
+  Shawano Plaza, WI              2,432,897          1990           40 Years
+  West Frankfort Plaza, IL         372,384          1982           40 Years
+  Winter Garden Plaza, FL        2,536,289          1988           40 Years
+  Omaha Store, NE                  263,388          1995           40 Years
+  Wichita Store, KS                219,698          1995           40 Years
+  Santa Barbara Store, CA          415,527          1995           40 Years
+  Monroeville, PA                  231,750          1996           40 Years
+  Norman, OK                       172,623          1996           40 Years
+  Columbus, OH                     287,227          1996           40 Years
+  Aventura, FL                     373,503          1996           40 Years
+  Boyton Beach, FL                 208,381          1996           40 Years
+  Lawrence, KS                     246,091          1997           40 Years
+  Waterford, MI                    126,338          1997           40 Years
+  Chesterfield Township, MI        107,557          1998           40 Years
+</TABLE>
+
+<PAGE>   52
+                                                        AGREE REALTY CORPORATION
+
+                         SCHEDULE III - REAL ESTATE AND ACCUMULATED DEPRECIATION
+                                                               DECEMBER 31, 2000
+
+
+<TABLE>
+<CAPTION>
+       Column A            Column B           Column C                    Column D
+-----------------------  ------------- ---------------------------      ------------
+
+
+
+
+                                            Initial Cost                        Costs
+                                       ---------------------------        Capitalized
+                                                     Buildings and      Subsequent to
+Description              Encumbrance        Land     Improvements         Acquisition
+-------------------------------------------------------------------------------------
+
+<S>                     <C>          <C>           <C>                 <C>
+  Grand Blanc, MI         2,989,938    1,104,285      1,998,919             13,968
+  Pontiac, MI             2,866,838    1,144,190      1,808,955           (113,506)
+  Mt. Pleasant Shopping
+    Center, MI                    -      907,600      8,081,968            200,662
+  Tulsa, OK               4,002,873    1,100,000      2,394,512                  -
+  Columbia, MD            3,972,243    1,545,509      2,093,700            231,138
+  Rochester, MI           2,113,291    2,438,740      2,188,050              1,949
+  Ypsilanti, MI           1,964,989    2,050,000      2,222,097             31,401
+  Germantown, MD          3,740,176    1,400,000      2,288,890                  -
+  Petoskey, MI            1,064,060            -      2,332,473                  -
+  Flint, MI               1,783,320    2,026,625      1,879,700                  -
+-------------------------------------------------------------------------------------
+
+SUB TOTAL               101,493,544   41,177,215    138,308,292          5,489,617
+-------------------------------------------------------------------------------------
+
+RETAIL FACILITIES
+  UNDER DEVELOPMENT
+    Waterford, MI           519,054      800,081        335,965                  -
+    New Baltimore, MI       500,000    1,250,000        204,691                  -
+    Flint, MI             1,579,406    1,477,680      1,971,003                  -
+    Other                         -            -         33,358                  -
+-------------------------------------------------------------------------------------
+
+                          2,598,460    3,527,761      2,545,017                  -
+-------------------------------------------------------------------------------------
+
+TOTAL                  $104,092,004  $44,704,976   $140,853,309         $5,489,617
+-------------------------------------------------------------------------------------
+
+
+
+<CAPTION>
+       Column A                             Column E                     Column F      Column G       Column H
+-----------------------     ----------------------------------------   ------------   -----------  ------------
+                                                                                                           Life
+                                                                                                       on Which
+                                 Gross Amount at Which Carried                                     Depreciation
+                                      at Close of Period                                              in Latest
+                            ----------------------------------------                                     Income
+                                        Buildings and                  Accumulated      Date of       Statement
+Description                       Land   Improvements          Total   Depreciation   Construction  is Computed
+---------------------------------------------------------------------------------------------------------------
+<S>                        <C>          <C>             <C>            <C>            <C>          <C>
+  Grand Blanc, MI            1,104,285      2,012,887      3,117,172        100,991           1998   40 Years
+  Pontiac, MI                1,144,190      1,695,449      2,839,639         97,078           1998   40 Years
+  Mt. Pleasant Shopping
+    Center, MI                 907,600      8,282,630      9,190,230        642,956           1973   40 Years
+  Tulsa, OK                  1,100,000      2,394,512      3,494,512        145,849           1998   40 Years
+  Columbia, MD               1,545,509      2,324,838      3,870,347         72,047           1999   40 Years
+  Rochester, MI              2,438,740      2,189,999      4,628,739         82,101           1999   40 Years
+  Ypsilanti, MI              2,050,000      2,253,498      4,303,498         56,337           1999   40 Years
+  Germantown, MD             1,400,000      2,288,890      3,688,890         51,431           2000   40 Years
+  Petoskey, MI                    --        2,332,473      2,332,473         40,949           2000   40 Years
+  Flint, MI                  2,026,625      1,879,700      3,906,325           --             2000   40 Years
+---------------------------------------------------------------------------------------------------------------
+
+SUB TOTAL                   41,500,918    143,474,206    184,975,124     29,907,682
+---------------------------------------------------------------------------------------------------------------
+
+RETAIL FACILITIES
+  UNDER DEVELOPMENT
+    Waterford, MI              800,081        335,965      1,136,046           --              N/A        N/A
+    New Baltimore, MI        1,250,000        204,691      1,454,691           --              N/A        N/A
+    Flint, MI                1,477,680      1,971,003      3,448,683           --              N/A        N/A
+    Other                         --           33,358         33,358           --              N/A        N/A
+---------------------------------------------------------------------------------------------------------------
+
+                             3,527,761      2,545,017      6,072,778          --
+---------------------------------------------------------------------------------------------------------------
+
+TOTAL                      $45,028,679   $146,019,223   $191,047,902    $29,907,682
+---------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+                                      F-23
+
+
+<PAGE>   53
+                                                        AGREE REALTY CORPORATION
+
+                                                           NOTES TO SCHEDULE III
+                                                               DECEMBER 31, 2000
+
+
+
+
+1)   RECONCILIATION OF REAL ESTATE PROPERTIES
+
+
+     The following table reconciles the Real Estate Properties from January 1,
+     1998 to December 31, 2000:
+
+<TABLE>
+<CAPTION>
+
+
+                                                     2000              1999             1998
+---------------------------------------------------------------------------------------------
+<S>                                        <C>                <C>             <C>
+Balance at January 1                       $  179,858,106     $ 166,921,002   $  142,748,449
+Construction and acquisition costs             11,189,796        12,937,104       24,172,553
+---------------------------------------------------------------------------------------------
+
+Balance at December 31                     $  191,047,902     $ 179,858,106   $  166,921,002
+=============================================================================================
+</TABLE>
+
+2)   RECONCILIATION OF ACCUMULATED DEPRECIATION
+
+     The following table reconciles the accumulated depreciation from January 1,
+     1998 to December 31, 2000:
+
+<TABLE>
+<CAPTION>
+
+                                                     2000              1999             1998
+---------------------------------------------------------------------------------------------
+<S>                                        <C>                <C>             <C>
+Balance at January 1                       $   26,342,296     $  23,022,291   $   20,043,235
+Current year depreciation expense               3,565,386         3,320,005        2,979,056
+---------------------------------------------------------------------------------------------
+
+Balance at December 31                     $   29,907,682     $  26,342,296    $  23,022,291
+=============================================================================================
+</TABLE>
+
+3)   TAX BASIS OF BUILDINGS AND IMPROVEMENTS
+
+     The aggregate cost of Building and Improvements for federal income tax
+     purposes is approximately $1,249,000 less than the cost basis used for
+     financial statement purposes.
+
+
+
+
+                                      F-24
+<PAGE>   54
+
+                                 Exhibit Index
+                                 -------------
+
+
+<TABLE>
+<CAPTION>
+Exhibit No.                   Description
+-----------                   -----------
+
+<S>                           <C>
+10.24                         Fourth Amendment to Amended and Restated Business
+                              Loan Agreement
+
+21.1                          Agree Realty Corporation Subsidiaries of the
+                              Registrant as of December 31, 2000.
+
+23                            Consent of Independent Certified Public
+                              Accountants.
+</TABLE>
+</TEXT>
+</DOCUMENT>

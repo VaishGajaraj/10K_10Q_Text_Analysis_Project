@@ -1,0 +1,2705 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>acme_10k05.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D. C. 20549
+                                    FORM 10-K
+
+      (X) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+          EXCHANGE ACT OF 1934
+
+          For the fiscal year ended December 31, 2005
+
+          OR
+
+      ( ) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF
+          THE SECURITIES EXCHANGE ACT OF 1934
+
+                         Commission file number 01-07698
+                             ACME UNITED CORPORATION
+              Exact name of registrant as specified in its charter
+
+             Connecticut                                         06-0236700
+   (State or other jurisdiction of                            (I.R.S. Employer
+    incorporation or organization)                           Identification No.)
+
+          60 Round Hill Road
+        Fairfield, Connecticut                                     06824
+(Address of principal executive offices)                         (Zip Code)
+
+        Registrant's telephone number, including area code (203) 254-6060
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+                                                        Name of each exchange on
+Title of each class                                         which registered
+-------------------                                     ------------------------
+$2.50 par value Common Stock                             American Stock Exchange
+
+        Securities registered pursuant to Section 12 (g) of the Act: None
+
+Indicate by check mark whether the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. Yes |_| No |X|
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes |_| No |X|
+
+Indicate by check mark whether the registrant (l) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+Yes |X| No |_|
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.
+Yes |X| No |_|
+
+                                      (1)
+<PAGE>
+
+Indicate by check mark whether the registrant is a shell company as defined in
+Rule 12b-2 of the Exchange Act. Yes |_| No |X|
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act (Check
+one).
+Large accelerated filer |_|   Accelerated filer |_|   Non-accelerated filer |X|
+
+The aggregate market value of the voting stock held by non-affiliates of the
+registrant as of the last business day of the registrant's most recently
+completed second fiscal quarter was $52,239,371. Registrant had 3,484,833 shares
+outstanding as of March 7, 2006 of its $2.50 par value Common Stock.
+
+Documents Incorporated By Reference
+
+(1) Proxy Statement for the annual meeting scheduled for April 24, 2006 is
+incorporated into the Company's 2005 10-K, Part III.
+
+                                      (2)
+<PAGE>
+                                                                           Page
+                                                                           ----
+Part I
+
+    Item 1.  Business                                                        4
+
+    Item 1A. Risk Factors                                                    5
+
+    Item 1B. Unresolved Staff Comments                                       6
+
+    Item 2.  Properties                                                      6
+
+    Item 3.  Legal Proceedings                                               6
+
+    Item 4.  Submission of Matter to a Vote of Security Holders              7
+
+Part II
+
+    Item 5.  Market for the Company's Common Equity, Related
+             Stockholder Matters and Issuer Purchases of Equity Securities   8
+
+    Item 6.  Selected Financial Data                                         8
+
+    Item 7.  Management's Discussion and Analysis of Financial Condition
+             and Results of Operations                                       9
+
+    Item 7A. Quantitative and Qualitative Disclosures About Market Risk     14
+
+    Item 8.  Financial Statements and Supplementary Data                    16
+
+    Item 9.  Changes in and Disagreements with Accountants on
+             Accounting and Financial Disclosure                            37
+
+    Item 9A. Controls and Procedures                                        37
+
+    Item 9B. Other Information                                              37
+
+Part III
+
+    Item 10. Directors and Executive Officers of the Company                37
+
+    Item 11. Executive Compensation                                         38
+
+    Item 12. Security Ownership of Certain Beneficial Owners and
+             Management and Related Stockholder Matters                     38
+
+    Item 13. Related Party Transactions                                     39
+
+    Item 14. Principal Accountant Fees and Services                         39
+
+Part IV
+
+    Item 15. Exhibits and Financial Statement Schedules                     40
+
+             Schedule II - Valuation and Qualifying Accounts                42
+
+             Signatures                                                     43
+
+                                      (3)
+<PAGE>
+
+PART I
+Item 1.  Business
+
+General
+-------
+Acme United Corporation (together with its subsidiaries the "Company") was
+organized as a partnership in l867 and incorporated in l882 under the laws of
+the State of Connecticut. Acme United is a leading worldwide supplier of
+innovative cutting, measuring and safety products to the school, home, office
+and industrial markets. The Company's operations are in the United States,
+Canada, Europe (sited in Germany) and Asia (sited in Hong Kong and China). The
+operations in the United States, Canada and Europe are primarily involved in
+product development, manufacturing, marketing, sales, administrative and
+distribution activities. The operation in Asia is involved in sourcing, quality
+control and sales activities. Net sales in 2005 were the following: United
+States - $37.5 million, Canada - $6.8 million, Europe - $4.0 million and Hong
+Kong - $1.6 million.
+
+The Company has grouped it operations into three reportable segments based on
+the Company's geographical organization and structure, (1) United States; (2)
+Canada and (3) Europe. The Company sells cutting devices, measuring instruments
+and safety products for school, office, home and industrial use in the United
+States, Canada and Europe. The company competes with many companies in each
+market and geographic area. The major competitor in the cutting category is
+Fiskars Corporation. The major competitor in the measuring category is Helix
+International Ltd. The major competitor in the safety category is Johnson and
+Johnson. Refer to Note 10 of the Notes to Consolidated Financial Statements for
+additional segment information.
+
+Our business strategy includes the following key elements:
+
+o a commitment to technological innovation achieved through consumer insight,
+  creativity and speed to market;
+o a broad selection of products in both brand and private label;
+o prompt response and same-day shipping;
+o superior customer service; and
+o value pricing.
+
+Principal products within the cutting device category are scissors, shears,
+guillotine paper trimmers, rotary paper trimmers, rotary cutters, hobby knives
+and blades, utility knives and medical cutting instruments. Products introduced
+in 2004 and 2005 included proprietary titanium bonded scissors and trimmers, a
+new line of Clauss hot forged scissors, and electric and manual pencil
+sharpeners. Principal products within the measuring instrument category are
+rulers, math tools and tape measures. Products introduced in 2005 included a new
+line of Westcott tearing rulers and professional grade aluminum rulers.
+Principal products within the safety product category are first aid kits,
+personal protection products and over-the-counter medication refills. Products
+introduced in 2005 included new Physicians Care(TM) branded over-the-counter
+medications.
+
+Independent manufacturer representatives and direct sales are primarily used to
+sell the Company's line of consumer products to wholesale, contract and retail
+stationery distributors, office supply super stores, school supply distributors,
+industrial distributors, wholesale florists and mass market retailers. The
+Company had three customers with sales of 10% or more of total sales in 2005.
+Net sales to the Company's three major customers represented approximately 41%
+of total net sales in 2005, 43% in 2004 and 46% in 2003.
+
+Traditionally, the Company's sales are stronger in the second and third quarters
+of the fiscal year due to the seasonal nature of the back-to-school business.
+
+On May 28, 2004, the Company purchased the scissor and cutting business of
+Clauss Cutlery, a division of Alco Industries, Inc. The purchase price was the
+aggregate value of inventory, trademarks and brand names totaling $446,754.
+Sales of Clauss products for seven months in 2004 were $1.7 million and sales
+for the year ended December 31, 2005 were $3.3 million. Clauss Cutlery was
+founded in 1877 in Fremont, Ohio and at one time was the largest manufacturer of
+scissors in the world. Clauss products have a strong presence in the industrial
+and floral markets. Its scissors and cutting tools are distributed by most major
+industrial distributors and are sold to the auto, textile, food processing, and
+electronic industries. The Clauss business has been integrated into the
+Company's existing operations.
+
+                                      (4)
+<PAGE>
+
+Other
+-----
+Environmental Rules and Regulations - The Company believes that it is in
+compliance with applicable environmental laws. As discussed in Note 19 of the
+Notes to the Consolidated Financial Statement, the Company has accrued a $1.5
+million charge related to the requirement by the City of Bridgeport, CT that the
+Company demolish its former manufacturing facility. Included in the loss accrual
+are estimates for removal of asbestos, lead and two abandoned oil tanks. This is
+the only environmental liability recorded by the Company. The Company believes
+that there are no other environmental matters that could have a significant
+financial impact. The Company believes no major financial impact is expected to
+result from current and future compliance with environmental rules and
+regulations.
+
+Employment - As of year-end 2005, the Company employed 116 people, all of whom
+are full time and none of whom are covered by union contracts. Employee
+relations are considered good and no foreseeable problems with the work force
+are evident.
+
+
+Item 1A.  Risk Factors
+
+The Company is subject to a number of significant risks that might cause the
+Company's actual results to vary materially from its forecasts, targets or
+projections, including:
+----------------------------------------------------------------------------
+o achieving planned revenue and profit growth in each of the Company's
+  business segments;
+o changes in customer requirements and in the volume of sales to principal
+  customers;
+o the timing of orders and shipments;
+o emergence of new competitors or consolidation of existing competitors;
+o industry demand fluctuations.
+
+Our expectations for both short- and long-term future net revenues are based on
+our own estimates of future demand. Orders from our principal customers are
+ultimately based on demand from end-users and such prospective end-user demand
+can be difficult to measure. Low end-user demand, would negatively affect orders
+we receive from distributors and other principal customers and this would mean
+that our revenues in any fiscal period could be adversely impacted. If our
+estimates of sales are not accurate and we experience unforeseen variability in
+our revenues and operating results, we may be unable to adjust our expense
+levels accordingly and our profit margins will be adversely affected.
+
+A number of our products are sold through distributors and large retailers. No
+assurances can be given that any or all such distributors or retailers will
+continue their relationship with us. Distributors and other significant retail
+customers cannot easily be replaced and the loss of revenues and our inability
+to reduce expenses to compensate for the loss of revenues could adversely affect
+our net revenues and profit margins.
+
+Loss of a Major Customer could result in a decrease in our future sales and
+earnings.
+---------------------------------------------------------------------------
+Sales to our top three customers have accounted for approximately 41%, 43%, and
+46% of total net revenues for the years ended December 31, 2005, 2004 and 2003,
+respectively. We anticipate that a limited number of customers may account for a
+substantial portion of our total net revenues for the foreseeable future. The
+loss of a major customer or a disruption in sales to such a customer could
+result in a decrease of our future sales and earnings.
+
+Reliance on foreign suppliers could negatively impact our business.
+-------------------------------------------------------------------
+We purchase the majority of our products from foreign manufacturing partners
+and, as a result, our business is exposed to increased risks due to:
+
+o Increases in transportation costs;
+o New or increased import duties;
+o Transportation delays;
+o Work stoppages;
+o Exchange rate fluctuations that could increase the cost of foreign
+  manufactured goods.
+
+                                      (5)
+<PAGE>
+
+The loss of key management could affect our ability to run our business.
+------------------------------------------------------------------------
+Our success depends to a large extent on the continued service of our executive
+management team, operating officers and other key personnel. The Company must
+therefore continue to recruit, retain and motivate management and operating
+personnel sufficient to maintain its current business and support it projected
+growth.
+
+Our inability to meet our staffing requirements in the future could negatively
+impact our results of operations.
+
+
+Failure to protect our proprietary rights, or the costs of protecting these
+rights could negatively impact our business.
+---------------------------------------------------------------------------
+The Company's success depends in part on its ability to obtain patents and
+licenses and to preserve other intellectual property rights covering its
+products and processes. The Company obtained certain domestic and foreign
+patents and intends to continue to seek patents on its inventions when
+appropriate. The process of seeking patent protection can be time consuming and
+expensive. There can be no assurance that pending patents related to any of the
+Company's products will be issued, in which case the Company may not be able to
+legally prevent others from producing compatible competing products. If other
+companies were to sell compatible products, the Company's results of operations
+could be adversely affected. Furthermore, there can be no assurance that the
+Company's efforts to protect its intellectual property will be successful. Any
+infringement of the Company's intellectual property or legal defense of such
+action could have a material adverse effect on the Company.
+
+The Company may need to raise additional capital to fund its operations.
+------------------------------------------------------------------------
+The Company's management currently believes, under current conditions, that the
+Company's current cash and cash equivalents, cash generated by operations,
+together with the borrowing availability under the Revolving Loan agreement,
+will be sufficient to fund planned operations for the next twelve months.
+However, if we are unable to generate sufficient cash from operations, we may be
+required to find additional funding sources. If adequate financing is
+unavailable or is unavailable on acceptable terms, we may be unable to maintain,
+develop or enhance our operations, products and services, take advantage of
+future opportunities or respond to competitive pressures.
+
+We may not be able to maintain or to raise prices in response to inflation and
+increasing costs.
+------------------------------------------------------------------------------
+Future market and competitive pressures may prohibit the Company from raising
+prices to offset increased product costs, freight costs and other inflationary
+items. The inability to pass these costs through to our customers could have a
+negative impact on our results of operations.
+
+
+Item 1B. Unresolved Staff Comments
+
+The Company had no unresolved Securities and Exchange Commission staff comments
+at December 31, 2005.
+
+Item 2.  Properties
+
+Acme United Corporation is headquartered at 60 Round Hill Road, Fairfield,
+Connecticut in 7,500 square feet of leased space. The Company owns and leases,
+manufacturing and warehousing facilities in the United States totaling 130,000
+square feet and leases 44,000 square feet of warehousing space in Canada. The
+Company also leases approximately 2,000 square feet of office space in Canada.
+Distribution for Europe is presently being conducted at a 35,000 square foot
+owned facility in Solingen, Germany. The Company also leases 2,100 square feet
+of office space in Hong Kong and 1,500 square feet in Guangzhou, China.
+
+Management believes that the Company's facilities, whether leased or owned, are
+adequate to meet its current needs and should continue to be adequate for the
+foreseeable future.
+
+Item 3.  Legal Proceedings
+
+The Company is involved from time to time in disputes and other litigation in
+the ordinary course of business, including certain environmental and other
+matters. The Company presently believes that none of these matters, individually
+or in the aggregate, would be likely to have a material adverse impact on its
+financial position, results of operations, or liquidity from these matters.
+
+                                      (6)
+
+<PAGE>
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+There were no matters submitted to a vote of the security holders of the Company
+through the solicitation of proxies or otherwise during the fourth quarter of
+the year ended December 31, 2005.
+
+                                      (7)
+<PAGE>
+
+PART II
+Item 5.  Market for the Registrant's Common Stock and Related Security Holder
+         Matters
+
+The Company's Common Stock is traded on the American Stock Exchange under the
+symbol "ACU". The following table sets forth the high and low sale prices on the
+American Stock Exchange for the Common Stock for the periods indicated:
+
+                                                                     Dividends
+  Year Ended December 31, 2005           High            Low         Declared
+  --------------------------------- -------------- -------------- --------------
+  Fourth Quarter                        $16.15         $13.01         $ .03
+  --------------------------------- -------------- -------------- --------------
+  Third Quarter                          20.90          12.75           .03
+  --------------------------------- -------------- -------------- --------------
+  Second Quarter                         21.00          13.30           .03
+  --------------------------------- -------------- -------------- --------------
+  First Quarter                          19.75          12.27           .02
+  --------------------------------- -------------- -------------- --------------
+
+  --------------------------------- -------------- -------------- --------------
+  Year Ended December 31, 2004
+  --------------------------------- -------------- -------------- --------------
+  Fourth Quarter                        $16.50         $ 8.58         $ .02
+  --------------------------------- -------------- -------------- --------------
+  Third Quarter                           9.28           6.66           .02
+  --------------------------------- -------------- -------------- --------------
+  Second Quarter                          7.74           5.31           .02
+  --------------------------------- -------------- -------------- --------------
+  First Quarter                           6.39           5.22
+  --------------------------------- -------------- -------------- --------------
+
+As of March 7, 2006 there were approximately 2,300 holders of record of the
+Company's Common Stock.
+
+Issuer Purchases of Equity Securities
+
+On October 4, 2005, the Company announced a stock repurchase program of 150,000
+shares. The program does not have an expiration date. The following table
+discloses the shares repurchased under the program for the quarter ended
+December 31, 2005:
+
+<TABLE>
+<CAPTION>
+                                                   Total Number of shares        Maximum Number of
+                                                    Purchased as Part of      Shares that may yet be
+           Total Number of      Average Price        Publicly Announced         Purchased Under the
+Period     Shares Purchased     Paid per Share             Program                    Program
+----------------------------------------------------------------------------------------------------
+<S>             <C>                 <C>                    <C>                        <C>
+2005            25,000              $14.49                 25,000                     125,000
+</TABLE>
+
+Item 6. Selected Financial Data
+<TABLE>
+FIVE YEAR SUMMARY OF SELECTED FINANCIAL DATA
+(All figures in thousands except per share data)
+<CAPTION>
+                                                           2005         2004         2003         2002         2001
+-------------------------------------------------------------------------------------------------------------------
+<S>                                                    <C>          <C>          <C>          <C>          <C>
+N
+-------------------------------------------------------------------------------------------------------------------
+Net sales                                              $ 49,947     $ 43,381     $ 34,975     $ 30,884     $ 33,082
+-------------------------------------------------------------------------------------------------------------------
+Net income                                             $  2,937     $  3,238     $  1,222     $    660     $  1,280
+-------------------------------------------------------------------------------------------------------------------
+Total assets                                           $ 28,194     $ 22,967     $ 19,743     $ 17,614     $ 20,173
+-------------------------------------------------------------------------------------------------------------------
+Long-term debt, less current portion                   $  5,577     $  1,434     $  2,752     $  2,032     $  2,875
+-------------------------------------------------------------------------------------------------------------------
+Net income
+   Per share (Basic)                                   $   0.84     $   0.96     $   0.37     $   0.19     $   0.37
+   Per share (Diluted)                                 $   0.78     $   0.85     $   0.34     $   0.19     $   0.36
+Dividends per share                                    $   0.11     $   0.06     $      -     $      -     $      -
+</TABLE>
+
+                                      (8)
+<PAGE>
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations
+
+Forward-Looking Information
+---------------------------
+Forward-looking statements in this report, including without limitation,
+statements related to the Company's plans, strategies, objectives, expectations,
+intentions and adequacy of resources, are made pursuant to the safe harbor
+provisions of the Private Securities Litigation Reform Act of 1995. Investors
+are cautioned that such forward-looking statements involve risks and
+uncertainties including without limitation the following: (i) the Company's
+plans, strategies, objectives, expectations and intentions are subject to change
+at any time at the discretion of the Company; (ii) the Company's plans and
+results of operations will be affected by the Company's ability to manage its
+growth and inventory; and (iii) other risks and uncertainties indicated from
+time to time in the Company's filings with the Securities and Exchange
+Commission.
+
+Critical Accounting Policies
+----------------------------
+The following discussion and analysis of financial condition and results of
+operations are based upon the Company's consolidated financial statements, which
+have been prepared in conformity with accounting principles generally accepted
+in the United States of America. The Company's significant accounting policies
+are more fully described in Note 2 of Notes to Consolidated Financial
+Statements. However, certain accounting estimates are particularly important to
+the understanding of the Company's financial position and results of operations
+and require the application of significant judgment by the Company's management
+or can be materially affected by changes from period to period in economic
+factors or conditions that are outside the control of management. The Company's
+management uses their judgment to determine the appropriate assumptions to be
+used in the determination of certain estimates. Those estimates are based on
+historical operations, future business plans and projected financial results,
+the terms of existing contracts, the observance of trends in the industry,
+information provided by customers and information available from other outside
+sources, as appropriate. The following discusses the Company's critical
+accounting policies and estimates.
+
+Estimates. Operating results may be affected by certain accounting estimates.
+The most sensitive and significant accounting estimates in the financial
+statements relate to customer rebates, valuation allowances for deferred income
+tax assets, obsolete and slow moving inventories, potentially uncollectible
+accounts receivable, and accruals for income taxes. Accruals for customer
+rebates are based on executed contracts and anticipated sales levels, which are
+monitored monthly. Management critically evaluates the potential realization of
+deferred income tax benefits as well as the likely usefulness of inventories and
+the collectability of accounts receivable. Accruals for income taxes or benefits
+often require interpretations of complex tax rules and regulations, which may be
+subsequently challenged. Although the Company's management has used available
+information to make judgments on the appropriate estimates to record for the
+above matters, there can be no assurance that future events will not
+significantly affect the estimated amounts related to these areas where
+estimates are required.
+
+Revenue Recognition. The Company recognizes revenue from sales of its products
+when ownership transfers to the customers. Ownership generally transfers from
+the Company to its customer upon shipment of the Company's products. When right
+of return exists, the Company recognizes revenue in accordance with SFAS 48,
+Revenue Recognition When Right of Return Exists.
+
+Intangible Assets. Intangible assets with a finite useful life are recorded at
+cost upon acquisition and amortized over the term of the related contract.
+Intangible assets held by the Company with a finite useful life include deferred
+financing costs, patents, and trademarks. Deferred financing costs are amortized
+over the term of the related debt. Patents and trademarks are amortized over
+their estimated useful life. The weighted average amortization period of
+intangible assets at December 31, 2005 is 14 years. The Company reviews the
+value recorded for intangibles to assess recoverability from future operations
+using undiscounted cash flows. Impairments are recognized in operating results
+to the extent the carrying value exceeds fair value determined based on the net
+present value of estimated future cash flows. The projection of future cash
+flows requires the Company to make estimates about the amount of future
+revenues. The actual future results could differ significantly from these
+estimates, and resulting changes in the estimates of future cash flows could be
+significant and could affect the recoverability of intangible assets. During
+2005, the Company's net book value of intangible assets increased from $559,646
+to $769,852.
+
+Accounting for Stock-Based Compensation. At December 31, 2005, the Company has
+one stock-based employee compensation plan. The Company has elected to adopt the
+disclosure only provisions of Statement of Financial Accounting Standards No.
+123, Accounting for Stock-Based Compensation, and continues to measure costs for
+its employee stock compensation plans by using the accounting methods prescribed
+by APB Opinion No. 25, Accounting for Stock Issued to Employees, which allows
+that no compensation cost be recognized unless the exercise price of the options
+granted is less than the fair market value of the Company's stock at date of
+grant.
+
+                                      (9)
+<PAGE>
+
+Results of Operations 2005 Compared with 2004
+
+Net Sales
+---------
+Net sales increased $6,565,726 or 15% (14% in constant currency) in 2005 to
+$49,946,374 compared to $43,380,648 in 2004. U.S. and Hong Kong sales increased
+by $5,319,117 or 16%. Hong Kong sales were to global customers, primarily direct
+imports to U.S. customers. Sales increased in Canada by $852,313 or 14% and 6%
+in local currency. European sales increased by $394,296 or 11% both in US
+dollars and local currency.
+
+The 16% sales increase in the United States was mainly due to the success of new
+products and a full year effect of the Clauss Cutlery business acquired in June
+of 2004. Clauss sales approximated $3,300,000 in 2005 and $1,700,000 for seven
+months in 2004. The major driver in new product sales was the expansion of the
+Company's patented titanium bonded scissors. The ability for the Company to
+expand its customer base with titanium products attributed to sales growth. The
+expansion into titanium sewing scissors also contributed to the growth. Other
+new product sales included hot forged sewing scissors, Critters scissors, Kids
+scissors, Craft scissors and the launch of several innovative rulers.
+
+The 6% sales increase in local currency in Canada was mainly the result of
+additional placement in one of the major superstores and a new major retailer.
+
+The 11% sales increase in Europe was due to the additional placement of manicure
+scissors into a major retailer in Germany and new sales of paper trimmers into a
+multinational superstore across Europe.
+
+Gross Profit
+------------
+Gross profit was 45% of net sales in both 2005 and 2004. Excluding the
+unfavorable impact of an unusually high amount of airfreight expense to meet new
+product and new customer requirements, the comparison would have been 47% in
+2005 versus 46% in 2004. The increased percentage of new products with higher
+gross margins and sales of a more profitable product mix in Europe were
+partially offset by an unfavorable product mix, higher raw material costs and
+price pressure in the U.S. business.
+
+Selling, General and Administrative
+-----------------------------------
+Selling, general and administrative expenses were $15,512,488 in 2005 compared
+with $14,162,082 in 2004, an increase of $1,350,406. SG&A expenses were 31% of
+net sales in 2005 compared to 33% in 2004. Higher sales commission and freight
+costs associated with higher sales amounted to $682,000. Other major
+contributors to the increase in SG&A expenses were market research, new product
+development, an expansion of the sourcing and quality control office in Hong
+Kong and the addition of sales and marketing personnel in North America and
+Europe.
+
+Non -Recurring Charge
+---------------------
+The Company is the owner of certain commercial property located in Bridgeport,
+Connecticut. Buildings, totaling approximately 150,000 square feet, are located
+on this property. The Company ceased using the Bridgeport property as a
+manufacturing facility in September 1996 and operations were consolidated into
+Acme's North Carolina facility. For approximately the next two years, the
+Company continued to pay property taxes, insurance, maintenance and other
+operating costs which totaled approximately $107,000 annually and the Company
+leased a small part of the property for $32,000 resulting in a net cost of
+$75,000 annually. In October 1998, the Company leased the entire property to an
+unrelated commercial real estate company for a term of 24 years. The lease had
+provided for the payment of one dollar ($1.00) per year as base rent and
+required that the tenant pay all taxes, insurance and other expenses in
+connection with the property. At the time, Acme considered the cost savings from
+leasing the property, for which Acme had no specific use, an appropriate basis
+for the arrangement.
+
+The Company had written off the book value of the property by the end of 1998.
+
+Since October 1998, the tenant leased portions of buildings to subtenants,
+primarily for use as commercial warehouses. Approximately 30% of the total
+square footage is subject to subleases. The remainder has been empty since 1996.
+
+On July 28, 2005, the Building Department of Bridgeport informed Acme United
+that pursuant to a call from the Bridgeport Fire Department, an inspection of
+the premises was made on July 21, 2005. The roof of a portion of a building had
+collapsed that day. The Company received notice that it must either repair
+certain portions of the damaged building and two others or demolish them because
+of unsafe conditions. The Company was ordered to begin the necessary work to
+make the buildings safe within 30 days from receipt of the letter.
+
+                                      (10)
+<PAGE>
+
+The lessee filed an insurance claim on August 24, 2005. The insurance company
+investigated the facts and circumstances surrounding the claim and determined
+that the roof had collapsed due to wear, tear, deterioration, wet rot, dry rot
+and lack of maintenance of the premises. They stated in a letter dated October
+18, 2005 that the causes of the loss were not insured perils under the tenant's
+policy and denied coverage.
+
+On July 29, 2005, the Company notified the tenant of the action by the building
+inspector and that under the terms of the lease the tenant had the entire
+responsibility for compliance with the order. The lessee subsequently refused to
+assume responsibility for the repair or demolition. Acme considered legal action
+under the terms of the lease to force the lessee to pay for the repair or
+demolition. However, the Company believed that the city would require action
+over a time period shorter than the time required to file a lawsuit and to bring
+the action to a conclusion.
+
+As a result of discussions between the Company and the tenant regarding the
+required repair or demolition, the Company and the tenant agreed to terminate
+the lease. Pursuant to a Termination of Lease agreement entered into by the
+Company and the tenant on September 16, 2005, the parties terminated this lease,
+effective September 1, 2005. As part of the lease termination, the Company paid
+$400,000 to the tenant in exchange for rights to the rental income from the
+leases with current sub-tenants.
+
+The Company also decided to demolish all unoccupied structures on the property.
+The unoccupied structures are abandoned manufacturing buildings that had been
+constructed over one hundred years ago.
+
+Several subtenants continue to occupy portions of the property and are paying
+rent presently totaling approximately $190,000 per year to the Company. In
+addition, the principal subtenant pays a portion of the taxes and insurance
+expenses related to the property it leases.
+
+In the quarter ended September 30, 2005, the Company accrued a charge of
+approximately $1.5 million related to the estimated cost to demolish the
+structures and remove certain environmentally hazardous material included in the
+buildings to be demolished. After the demolition is complete, the Company will
+explore options to sell the property.
+
+The estimated costs are based on a third party contractor's estimate.
+Adjustments to the cost will be recorded when better estimates or actual costs
+are known.
+
+
+Operating Income
+----------------
+Operating income was $5,342,201 in 2005 compared with $5,490,448 in 2004, a
+decrease of $148,247. The decrease is due to the $1,500,000 charge on the
+Bridgeport property. Operating income for the United States excluding the
+$1,500,000 charge increased by approximately $973,000 or 18%. Operating income
+increased in Canada by $21,000 or 5%. The European operating loss decreased by
+$505,000 or 76%. The results of the European operations are improving due to
+higher sales and a more profitable product mix. The higher sales are primarily
+due to increases in the sales force and increases in advertising.
+
+Interest Expense, Net
+---------------------
+Interest expense for 2005 was $234,868 compared with $157,335 for 2004, a
+$77,533 increase. The increase in interest expense was primarily the result of
+higher borrowings on the Company's bank revolving credit agreement.
+
+Other (Expense) Income, Net
+---------------------------
+Net other expense was $341,267 in 2005 compared to net other income of $7,203 in
+2004. The change from 2004 is primarily due to higher foreign exchange
+transaction losses in 2005.
+
+Income Tax
+----------
+The effective tax rate in 2005 was 38% compared to 39% in 2004. The lower
+effective tax rate is principally due to lower losses in Europe for which there
+is no recorded tax benefit because the losses in Europe cannot be utilized to
+offset earnings in other countries.
+
+                                      (11)
+<PAGE>
+
+Results of Operations 2004 Compared with 2003
+
+Net Sales
+---------
+Net sales increased $8,405,988 or 24% in 2004 to $43,380,648 compared to
+$34,974,660 in 2003. Excluding the favorable effect of currency gains in Canada
+and Europe net sales increased 22%. The sales increase was mainly driven by a
+27% growth in the U.S. due to the success of new products, market share gains
+and the newly acquired Clauss Cutlery business. Clauss contributed approximately
+$1,700,000 to 2004 net sales. Combined sales in Europe and Canada increased by
+14% (5% in constant currency). The new business in Hong Kong generated
+$1,230,000 in 2004. These were primarily shipments to global customers.
+
+Gross Profit
+------------
+Gross profit was 45% of net sales in 2004 compared to 38% of net sales in 2003.
+The increased percentage of new products coupled with positive impacts from
+product rationalization efforts in Europe were the main reasons for the improved
+gross margins. The Company also improved productivity due to higher volumes and
+cost cutting measures.
+
+Selling, General and Administrative
+-----------------------------------
+Selling, general and administrative expenses were $14,162,082 in 2004 compared
+with $10,646,395 in 2003, an increase of $3,515,687. SG&A expenses were 33% of
+net sales in 2004 compared to 30% in 2003. Direct selling related expenses
+increased by $516,000. Other major contributors to the increase in SG&A expenses
+were market research, new product development, the new sourcing and quality
+control office in Hong Kong and the addition of sales and marketing personnel in
+North America and Europe.
+
+Operating Income
+----------------
+Operating income was $5,490,448 in 2004 compared with $2,486,364 in 2003, an
+increase of $3,004,084. Operating income for the United States increased by
+approximately $2.4 million. Canada's operating income was $463,000 in 2004
+compared to $249,000 in 2003. The European operating loss was $664,000 in 2004
+compared to an operating loss of $859,000 in 2003.
+
+Interest Expense, Net
+---------------------
+Interest expense for 2004 was $157,335 compared with $235,265 for 2003, a
+$77,930 decrease. This is attributable to the decline in average debt.
+
+Other (Expense) Income, Net
+---------------------------
+Net other income was $7,203 in 2004 compared to net other income of $91,172 in
+2003. The change primarily relates to foreign currency transaction losses of
+$110,519 the Company incurred in 2004, as opposed to a foreign currency gain of
+$105,984 in 2003. The 2003 results were partially offset by the settlement of a
+$175,000 lawsuit in Germany in March of 2003.
+
+The effective tax rate in 2004 was 39% compared to 48% in 2003. The improvement
+is principally due to the lower losses in Europe, for which the benefit cannot
+be utilized to offset taxable earnings in North America.
+
+Contractual Obligations
+-----------------------
+The following table summarizes the amounts of payments due during the periods
+specified under the Company's contractual obligations as of December 31, 2005:
+
+<TABLE>
+<CAPTION>
+                                                                             Payments Due by Period
+(dollars in thousands)                                             ------------------------------------------
+Contractual                                                        Less than     2--3       4--5    More than
+  Obligations                                                        1 Year     Years      Years     5 Years
+-------------                                                      ---------  ---------  ---------  ---------
+<S>                                                                   <C>        <C>        <C>        <C>
+Long-Term Debt Obligations........................................    $   10     $5,561     $   16          -
+
+Operating Lease Obligations.......................................       493        659        550          -
+                                                                   ---------  ---------  ---------  ---------
+Total.............................................................    $  503     $6,220     $  566          -
+                                                                   =========  =========  =========  =========
+</TABLE>
+
+                                      (12)
+<PAGE>
+
+Off-Balance Sheet Transactions
+------------------------------
+The Company did not engage in any off-balance sheet transactions during 2005.
+
+Liquidity and Capital Resources
+-------------------------------
+The Company's working capital, current ratio and long-term debt to equity ratio
+follow:
+                                                          2005          2004
+--------------------------------------------------------------------------------
+Working Capital                                       $16,325,098   $12,927,438
+Current Ratio                                                3.17          2.85
+Long-Term Debt to Equity Ratio                              39.7%         10.3%
+
+The increase in working capital in 2005 is attributable to a 49% increase in
+inventory. Inventory turnover decreased from 2.9 in 2004 to 2.6 in 2005,
+calculated using a twelve month average inventory balance. The inventory buildup
+was mainly in response to anticipated product demand and increased customer
+specific inventory. Additionally, given the lengthy lead times associated with
+product availability and our customer's requirements for complete and on-time
+deliveries, the Company's management decided to increase inventory levels. Also,
+the Company increased safety stock during supply chain system upgrades in 2005.
+The majority of the increase is attributed to the operations in the United
+States.
+
+The average number of days sales outstanding in accounts receivable was 59 days
+in 2005 and 61 days in 2004.
+
+Total debt in 2005 increased by $4,153,446 compared to total debt at December
+31, 2004, principally as a result of $3,564,165 of repurchases of Company stock
+and the buildup of inventory.
+
+
+During September 2004, the Company renewed its revolving loan agreement, which
+originally allowed for borrowings up to a maximum of $10,000,000 based on a
+borrowing base formula, which applied specific percentages to balances of
+accounts receivable and inventory. The renewal modified several characteristics
+of the original agreement, the most significant of which are reducing the
+interest rate to LIBOR plus 1.50 percent from LIBOR plus 1.75%, eliminating the
+borrowing base formula, allowing the Company to borrow up to $10,000,000,
+regardless of its inventory and receivable levels, and extending the maturity of
+the loan to June 30, 2007. As of December 31, 2005, $5,544,500 was outstanding
+and $4,455,500 was available for borrowing under this agreement. Prior year
+outstanding balances under this loan agreement have been reclassified to
+long-term debt to conform to current year classification.
+
+Due to the provisions of the revolving loan agreement, the Company, among other
+things, is restricted with respect to additional borrowings, investments,
+mergers and property and equipment purchases. Further, the Company is required
+to maintain specific amounts of tangible net worth, and a specified debt service
+coverage ratio, and a fixed charge coverage ratio, all as defined by the
+agreement. The Company was in compliance with all covenants as of and through
+December 31, 2005 and believes these financial covenants will continue to be met
+for the remainder of the term of the debt.
+
+Capital expenditures during 2005 were $1,430,530, which were, in part, financed
+with debt. Included in capital expenditures in 2005 was $455,000 associated with
+the capitalization of the lease termination and associated costs (Refer to Note
+19 Non-Recurring Charge for additional information). Capital expenditures in
+2006 are not expected to differ materially from recent years.
+
+The Company believes that cash generated from operating activities together with
+funds available under the revolving loan agreement, is expected, under current
+conditions, to be sufficient to finance the Company's planned operations for the
+next twelve months.
+
+The funding of the demolition and asbestos removal costs of $1,500,000 are
+expected to be incurred in the first half of 2006. The costs will be paid with
+funds borrowed under the Company's existing revolving credit facility and will
+not have a material impact on the Company's liquidity.
+
+                                      (13)
+<PAGE>
+
+Recently Issued Accounting Standards
+------------------------------------
+In December 2004, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 123 (revised 2004) ("Statement
+123 (R)"), "Share-Based Payment", which revised SFAS No. 123, "Accounting for
+Stock-Based Compensation". This statement supersedes APB Opinion No. 25,
+"Accounting for Stock Issued to Employees". The revised statement addresses the
+accounting for share-based payment transactions with employees and other third
+parties, eliminates the ability to account for share-based compensation
+transactions using APB 25 and requires that the compensation costs relating to
+such transactions be recognized in the consolidated statement of operations.
+Acme will adopt the provisions of the statement effective January 1, 2006 as
+required. The impact of adoption of Statement 123 (R) cannot be predicted at
+this time because it will depend on levels of share-based payments granted in
+the future. However, had Acme adopted Statement 123 in prior periods, the impact
+of that standard would have approximated the impact of Statement 123 as
+described in the disclosure of pro forma net income (loss) and net income (loss)
+per share in the stock-based compensation accounting policy note included in
+Note 2 to the consolidated financial statements.
+
+In November 2004, the FASB issued SFAS No. 151, "Inventory Costs, an amendment
+of ARB No. 43, Chapter 4," to clarify that abnormal amounts of idle facility
+expense, freight, handling costs and wasted material (spoilage) should be
+recognized as current period charges, and that fixed production overheads should
+be allocated to inventory based on normal capacity of production facilities.
+This statement is effective for Acme's fiscal year 2006. We do not expect the
+adoption of this standard to have a material effect on our financial position,
+results of operations or cash flows.
+
+Item 7A. Qualitative and Quantitative Disclosure about Market Risk
+
+The Company's debt portfolio and associated interest rates follow:
+<TABLE>
+<CAPTION>
+(dollars in thousands)
+                             2006      2007      2008      2009      2010     Thereafter    Total    Fair Value
+-----------------------------------------------------------------------------------------------------------------
+<S>                          <C>     <C>         <C>       <C>       <C>         <C>       <C>           <C>
+Long-term Debt (including current portion):
+Amount at fixed rate          $10        $8        $8        $8        $8          $0         $42           $42
+Average interest rate        6.5%      6.5%      6.5%      6.5%      6.5%        0.0%        6.5%
+Amount at variable rate        $0    $5,545        $0        $0        $0          $0      $5,545        $5,545
+Average interest rate        0.0%      5.9%      0.0%      0.0%      0.0%        0.0%        0.0%
+</TABLE>
+
+Interest Rate Risk:
+-------------------
+The Company's interest expense on debt is most sensitive to changes in the level
+of United States interest rates. To mitigate the impact of these fluctuations,
+the Company periodically evaluates alternative interest rate arrangements.
+
+Foreign Currency Risk:
+----------------------
+The Company's currency exposures vary, but are concentrated in the Canadian
+dollar, British pound, and Euro. Purchases of inventory by the Hong Kong office
+are in U.S. dollars.
+
+At times, the Company utilizes forward foreign exchange contracts to hedge
+specific transactions with third parties denominated in foreign currencies. The
+terms of these forward foreign exchange contracts are typically 90 days to a
+year. Because the contracts are acquired for specific transactions, they are an
+effective hedge against fluctuations in the value of the foreign currency
+underlying the transaction. The Company's Canadian subsidiary had entered into a
+forward foreign exchange contract to reduce the risk of inventory purchases in a
+currency other than its functional currency, the Canadian dollar. The Company
+hedged the risk of foreign currency fluctuations for approximately $1.5 million
+of inventory purchases in 2005 by the Canadian subsidiary. The foreign exchange
+contract expired at December 31, 2005. Adjustments to the fair value were
+reported as a component of accumulated other comprehensive loss in the statement
+of changes in stockholders' equity.
+
+The Company does not enter into financial instruments for speculation or trading
+purposes.
+
+The Company and its foreign subsidiaries utilize bank loans to finance their
+operations. To mitigate foreign currency risk, foreign loans are denominated in
+the local currency of the foreign subsidiary wherever possible.
+
+                                      (14)
+<PAGE>
+
+Inflation
+---------
+Inflation had a negligible effect on the Company's operations during 2005 and
+2004. The Company estimates that any inflationary effects, in the aggregate,
+were generally recovered or offset through increased pricing or cost reductions
+in both years.
+
+                                      (15)
+<PAGE>
+
+Item 8.  Financial Statements and Supplementary Data
+
+<TABLE>
+Acme United Corporation and Subsidiaries
+CONSOLIDATED STATEMENTS OF OPERATIONS
+<CAPTION>
+                                                                           For the years ended December 31,
+                                                                    -----------------------------------------------
+                                                                           2005            2004            2003
+                                                                    -----------------------------------------------
+<S>                                                                   <C>             <C>             <C>
+Net sales                                                             $ 49,946,374    $ 43,380,648    $ 34,974,660
+
+Costs and expenses:
+  Cost of goods sold                                                    27,591,685      23,728,118      21,841,901
+  Selling, general and administrative expenses                          15,512,488      14,162,082      10,646,395
+  Provision for loss on property demolition                              1,500,000               -               -
+                                                                    -----------------------------------------------
+Operating income                                                         5,342,201       5,490,448       2,486,364
+
+Non operating items:
+  Interest expense, net                                                    234,868         157,335         235,265
+  Other (expense) income, net                                             (341,267)          7,203          91,172
+                                                                    -----------------------------------------------
+  Income before income taxes                                             4,766,066       5,340,316       2,342,271
+  Income tax expense                                                     1,828,756       2,101,911       1,120,440
+                                                                    -----------------------------------------------
+Net income                                                            $  2,937,310    $  3,238,405    $  1,221,831
+                                                                    ===============================================
+Earnings per share:
+    Basic                                                             $       0.84    $       0.96    $       0.37
+    Diluted                                                           $       0.78    $       0.85    $       0.34
+
+</TABLE>
+
+See accompanying notes.
+
+                                      (16)
+<PAGE>
+<TABLE>
+Acme United Corporation and Subsidiaries
+CONSOLIDATED BALANCE SHEETS
+<CAPTION>
+                                                                 December 31,    December 31,
+                                                                     2005            2004
+                                                              --------------------------------
+<S>                                                              <C>             <C>
+ASSETS
+Current assets:
+   Cash and cash equivalents                                     $  1,076,489    $  1,888,510
+   Accounts receivable, less allowance                              9,391,546       8,884,807
+   Inventories                                                     12,530,454       8,389,228
+   Deferred income taxes                                              324,919         279,201
+   Prepaid expenses and other current assets                          541,991         484,532
+                                                              --------------------------------
+Total current assets                                               23,865,399      19,926,278
+
+Property, plant and equipment:
+   Land                                                               152,363         250,692
+   Buildings                                                        2,953,515       2,796,286
+   Machinery and equipment                                          6,525,213       6,101,802
+                                                              --------------------------------
+Total property, plant and equipment                                 9,631,091       9,148,780
+Less accumulated depreciation                                       6,845,051       6,853,349
+                                                              --------------------------------
+Net plant, property and equipment                                   2,786,040       2,295,431
+Goodwill                                                               88,828          88,828
+Intangible assets, less accumulated amortization                      769,852         559,646
+Intangible pension asset                                               87,760          96,536
+Deferred income taxes non-current                                     596,087               -
+                                                              --------------------------------
+Total assets                                                     $ 28,193,966    $ 22,966,719
+                                                              ================================
+
+LIABILITIES
+Current liabilities:
+   Accounts payable                                              $  2,174,051    $  2,316,480
+   Other accrued liabilities                                        3,859,100       4,682,360
+   Accrual for property demolition                                  1,497,150               -
+   Current portion of long-term debt                                   10,000               -
+                                                              --------------------------------
+Total current liabilities                                           7,540,301       6,998,840
+Deferred income taxes                                                 140,774         131,228
+Long-term debt                                                      5,577,382       1,433,936
+Other                                                                 870,515         420,251
+                                                              --------------------------------
+Total liabilities                                                  14,128,972       8,984,255
+
+STOCKHOLDERS' EQUITY
+Common stock, par value $2.50: authorized 8,000,000
+  shares; issued - 4,161,824 shares in 2005 and
+  3,849,512 shares in 2004, including treasury stock               10,404,560       9,623,780
+Treasury stock, at cost,  678,991 shares in 2005 and
+  436,091 shares in 2004                                           (5,438,776)     (1,874,611)
+Additional paid-in capital                                          2,623,887       2,231,003
+Accumulated other comprehensive loss                               (1,071,236)     (1,031,587)
+Retained earnings                                                   7,546,559       5,033,879
+                                                              --------------------------------
+Total stockholders' equity                                         14,064,994      13,982,464
+                                                              --------------------------------
+Total liabilities and stockholders' equity                       $ 28,193,966    $ 22,966,719
+                                                              ================================
+</TABLE>
+
+See accompanying notes.
+
+                                      (17)
+<PAGE>
+<TABLE>
+Acme United Corporation and Subsidiaries
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+<CAPTION>
+                                                                                       Accumulated
+                              Outstanding                                Additional       Other
+                               Shares of       Common       Treasury       Paid-In    Comprehensive    Retained
+                             Common Stock       Stock         Stock        Capital    Income (Loss)    Earnings       Total
+-------------------------------------------------------------------------------------------------------------------------------
+<S>                             <C>         <C>          <C>            <C>           <C>             <C>          <C>
+Balances, December 31, 2002     3,383,251   $ 9,130,780  $(1,151,709)   $ 2,029,105   $ (2,316,814)   $  788,443   $ 8,479,805
+Net income                                                                                             1,221,831     1,221,831
+Translation adjustment                                                                     670,941                     670,941
+Change in fair value of
+   derivative financial
+   instruments                                                                              26,974                      26,974
+Income taxes relating
+   to derivative financial
+   instruments                                                                              (9,401)                     (9,401)
+Change in
+   minimum pension
+   liability                                                                               412,912                     412,912
+Income taxes relating
+   to minimum pension
+   liability                                                                              (155,053)                   (155,053)
+                                                                                                                   ------------
+      Comprehensive income                                                                                           2,168,204
+Issuance of common stock              500         1,250                        (531)                                       719
+Purchase of treasury stock       (118,200)                  (470,104)                                                 (470,104)
+-------------------------------------------------------------------------------------------------------------------------------
+Balances, December 31, 2003     3,265,551   $ 9,132,030  $(1,621,813)   $ 2,028,574   $ (1,370,441)   $2,010,274   $10,178,624
+Net income                                                                                             3,238,405     3,238,405
+Translation Adjustment                                                                     328,028                     328,028
+Change in fair value of
+   derivative financial
+   instruments                                                                             (82,268)                    (82,268)
+Change in
+   minimum pension
+   liability                                                                               132,463                     132,463
+Income taxes relating
+   to minimum pension
+   liability                                                                               (39,369)                    (39,369)
+                                                                                                                   ------------
+      Comprehensive income                                                                                           3,577,259
+Distribution to shareholders                                                                            (214,800)     (214,800)
+Issuance of common stock          196,700       491,750                     202,429                                    694,179
+Purchase of treasury stock        (48,830)                  (252,798)                                                 (252,798)
+-------------------------------------------------------------------------------------------------------------------------------
+Balances, December 31, 2004     3,413,421   $ 9,623,780  $(1,874,611)   $ 2,231,003   $ (1,031,587)   $5,033,879   $13,982,464
+Net Income                                                                                             2,937,310     2,937,310
+Translation adjustment                                                                     170,432                     170,432
+Change in fair value of
+   derivative financial
+   instruments                                                                              82,268                      82,268
+Change in
+   minimum pension
+   liability                                                                              (471,532)                   (471,532)
+Income taxes relating
+   to minimum pension
+   liability                                                                               179,183                     179,183
+                                                                                                                   ------------
+      Comprehensive income                                                                                           2,897,661
+Tax benefit from exercise of
+   employee stock options                                                   326,713                                    326,713
+Distribution to shareholders                                                                            (424,630)     (424,630)
+Issuance of common stock          312,312       780,780                      66,171                                    846,951
+Purchase of treasury stock       (242,900)                (3,564,165)                                               (3,564,165)
+-------------------------------------------------------------------------------------------------------------------------------
+Balances, December 31, 2005     3,482,833   $10,404,560  $(5,438,776)   $ 2,623,887   $ (1,071,236)   $7,546,559   $14,064,994
+</TABLE>
+
+See accompanying notes.
+
+                                      (18)
+<PAGE>
+<TABLE>
+Acme United Corporation and Subsidiaries
+CONSOLIDATED STATEMENTS OF CASH FLOW
+<CAPTION>
+                                                                                For the years ended December 31,
+                                                                       ---------------------------------------------------
+                                                                               2005             2004             2003
+                                                                       ---------------------------------------------------
+<S>                                                                        <C>              <C>              <C>
+Operating activities:
+Net income                                                                 $ 2,937,310      $ 3,238,405      $ 1,221,831
+Adjustments to reconcile net income to net
+  cash (used) provided by operating activities
+    Depreciation                                                               610,509          492,361          433,645
+    Amortization                                                                42,263           29,986           24,406
+    Deferred income taxes                                                     (462,621)         (56,958)         540,600
+    Loss (gain) on disposal of property, plant and equipment                    64,254           59,156         (174,528)
+    Tax benefit on stock options                                               326,713                -                -
+    Changes in operating assets and liabilities
+      Accounts receivable                                                     (297,236)      (1,974,964)        (342,197)
+      Inventories                                                           (4,248,853)         (64,949)      (1,017,075)
+      Prepaid expenses and other current assets                                (71,910)        (213,326)         286,147
+      Accounts payable                                                        (107,819)         540,792          311,798
+      Other accrued liabilities                                                768,779        2,218,454          468,000
+                                                                       ---------------------------------------------------
+Total adjustments                                                           (3,375,921)       1,030,552          530,796
+                                                                       ---------------------------------------------------
+Net cash (used) provided by operating activities                              (438,611)       4,268,957        1,752,627
+                                                                       ---------------------------------------------------
+Investing activities:
+Purchase of property, plant and equipment                                   (1,430,530)        (443,330)        (424,537)
+Purchase of patents and trademarks                                            (252,468)        (336,673)        (115,615)
+Proceeds from sale of property, plant and equipment                            160,045           51,583          250,196
+                                                                       ---------------------------------------------------
+Net cash used by investing activities                                       (1,522,953)        (728,420)        (289,956)
+                                                                       ---------------------------------------------------
+Financing activities:
+Net borrowings (repayments) of long-term debt                                4,159,274       (3,467,595)        (197,251)
+Distributions to shareholders                                                 (380,978)        (143,007)               -
+Purchase of treasury stock                                                  (3,564,165)        (252,798)        (470,247)
+Issuance of common stock                                                       846,951          694,179              862
+                                                                       ---------------------------------------------------
+Net cash provided (used) by financing activities                             1,061,082       (3,169,221)        (666,636)
+Effect of exchange rate changes                                                 88,461          126,553           (3,064)
+                                                                       ---------------------------------------------------
+Net change in cash and cash equivalents                                       (812,021)         497,869          792,971
+Cash and cash equivalents at beginning of year                               1,888,510        1,390,641          597,670
+                                                                       ---------------------------------------------------
+Cash and cash equivalents at end of year                                   $ 1,076,489      $ 1,888,510      $ 1,390,641
+                                                                       ===================================================
+Supplemental cash flow information
+          Cash paid for income taxes                                       $ 1,716,028      $ 1,390,967      $   850,600
+          Cash paid for interest                                           $   234,523      $   157,335      $   235,265
+</TABLE>
+
+See accompanying notes.
+
+                                      (19)
+<PAGE>
+
+Acme United Corporation and Subsidiaries
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.  Operations
+
+The operations of Acme United Corporation (the "Company") consist of three
+reportable segments. The operations of the Company are structured and evaluated
+based on geographic location. The three reportable segments operate in the
+United States, Canada and Germany. Principal products across all segments are
+scissors, shears, rulers, first aid kits, and related products which are sold
+primarily to wholesale, contract and retail stationery distributors, office
+supply super stores, school supply distributors, drug store retailers and mass
+market retailers.
+
+2.  Accounting Policies
+
+Estimates - The preparation of financial statements in conformity with
+accounting principles generally accepted in the United States requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and the disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. The most sensitive and significant
+accounting estimates relate to customer rebates, valuation allowances for
+deferred income tax assets, obsolete and slow-moving inventories, potentially
+uncollectible accounts receivable and accruals for income taxes. Actual results
+could differ from those estimates.
+
+Principles of Consolidation - The consolidated financial statements include the
+accounts of the Company and its subsidiaries, all of which are wholly owned. All
+significant intercompany accounts and transactions are eliminated in
+consolidation.
+
+Translation of Foreign Currency - For foreign operations, assets and liabilities
+are translated at rates in effect at the end of the year; revenues and expenses
+are translated at average rates in effect during the year. Resulting translation
+adjustments are made directly to accumulated other comprehensive loss. Foreign
+currency transaction gains and losses are recognized in operations. Foreign
+currency transaction gains (losses), which are included in other (expense)
+income, net, were ($397,535) in 2005, ($110,519) in 2004, and $105,984 in 2003.
+
+Cash Equivalents - Investments with an original maturity of three months or less
+at the date of purchase are considered cash equivalents.
+
+Accounts Receivable - Accounts receivable are shown less an allowance for
+doubtful accounts of $136,050 in 2005 and $210,914 in 2004.
+
+Inventories - Inventories are stated at the lower of cost, determined by the
+first in, first out method, or market.
+
+Property, Plant and Equipment and Depreciation - Property, plant and equipment
+is recorded at cost. Depreciation is computed by the straight-line method over
+the estimated useful lives of the assets which range from 3 to 30 years.
+
+Asset Impairments - The Company evaluates the propriety of the carrying amounts
+of its long-lived assets, including goodwill, at least annually, or when current
+events and circumstances indicate a potential impairment. The Company believes
+that there are no significant impairments of the carrying amounts of such assets
+and no reduction in their estimated useful lives is warranted.
+
+Intangible Assets - Intangible assets with a finite useful life are recorded at
+cost upon acquisition and amortized over the term of the related contract.
+Intangible assets held by the Company with a finite useful life include deferred
+financing costs, patents, and trademarks. Deferred financing costs are amortized
+over the term of the related debt. Patents and trademarks are amortized over
+their estimated useful life. The weighted average amortization period of
+intangible assets at December 31, 2005 is 14 years.
+
+Goodwill - As of January 1, 2002, the Company adopted Financial Accounting
+Standards Board ("FASB") Statement No. 142, Goodwill and Other Intangible Assets
+(FAS 142) and as such no longer amortizes goodwill but rather tests it annually
+for impairment. There was no impairment of goodwill at December 31, 2005 and
+December 31, 2004.
+
+                                      (20)
+<PAGE>
+
+Deferred Income Taxes - Deferred income taxes are provided on the differences
+between the financial statement and tax bases of assets and liabilities, and on
+operating loss carryovers, using enacted tax rates in effect in years in which
+the differences are expected to reverse.
+
+Accounting for Stock-Based Compensation - At December 31, 2005, the Company has
+one stock-based employee compensation plan, which is described more fully in
+Note 11. The Company has elected to adopt the disclosure only provisions of
+Statement of Financial Accounting Standards ("SFAS") No. 123, Accounting for
+Stock-Based Compensation, and continues to measure costs for its employee stock
+compensation plans by using the accounting methods prescribed by APB Opinion No.
+25, Accounting for Stock Issued to Employees, which allows that no compensation
+cost be recognized unless the exercise price of the options granted is less than
+the fair market value of the Company's stock at date of grant. Accordingly, no
+stock-based employee compensation cost is reflected in net income, as all
+options granted had an exercise price equal to the market value of the
+underlying common stock on the date of grant. The following table illustrates
+the effect on net income and earnings per share as if the Company had applied
+the fair value method under SFAS No. 123, Accounting for Stock Based
+Compensation, to stock based employee compensation.
+
+<TABLE>
+<CAPTION>
+                                                     2005           2004           2003
+============================================================================================
+<S>                                              <C>            <C>            <C>
+Net income, as reported                          $ 2,937,310    $ 3,238,405    $ 1,221,831
+Deduct: total stock-based employee
+  compensation expense determined
+  under fair value based method for all
+  awards, net of related tax effects                (272,904)       (76,929)       (84,985)
+--------------------------------------------------------------------------------------------
+Pro forma net income                             $ 2,664,406    $ 3,161,476    $ 1,136,846
+============================================================================================
+
+Basic-as reported                                $      0.84    $      0.96    $      0.37
+Basic-pro forma                                  $      0.76    $      0.94    $      0.34
+
+Diluted-as reported                              $      0.78    $      0.85    $      0.34
+Diluted-pro forma                                $      0.70    $      0.83    $      0.32
+</TABLE>
+
+Revenue Recognition - The Company recognizes revenue from sales of its products
+when ownership transfers to the customers. Ownership generally transfers from
+the Company to its customer upon shipment of the Company's products. When right
+of return exists, the Company recognizes revenue in accordance with SFAS 48,
+Revenue Recognition When Right of Return Exists.
+
+Research and Development - Research and development costs ($244,904 in 2005,
+$456,905 in 2004 and $347,130 in 2003) are expensed as incurred.
+
+Shipping Costs - Shipping costs ($2,310,596 in 2005, $1,684,448 in 2004 and
+$1,439,615 in 2003) are included in selling, general and administrative
+expenses.
+
+Advertising Costs - The Company expenses the production costs of advertising the
+first time the advertising takes place. Advertising costs ($1,252,366 in 2005,
+$1,109,217 in 2004 and $669,065 in 2003) are included in selling, general and
+administrative expenses.
+
+Concentrations - The Company performs ongoing credit evaluations of its
+customers and generally does not require collateral. Allowances for credit
+losses are provided and have been within management's expectations. Net sales to
+the Company's three major customers represented approximately 41% in 2005, 43%
+in 2004 and 46% in 2003.
+
+                                      (21)
+<PAGE>
+
+Derivatives - The Company accounts for derivative financial instruments
+consistent with the requirements of FASB Statement No. 133, Accounting for
+Derivative Instruments and Hedging Activities and its amendments, Statements
+137, Accounting for Derivative Instruments and Hedging Activities-Deferral of
+the Effective Date of FASB Statement No. 133, and Statement No. 138, Accounting
+for Derivative Instruments and Certain Hedging Activities. The Company
+recognizes all derivative financial instruments, such as interest rate swap
+contracts, forward foreign exchange contracts, and foreign currency option
+contracts, in the consolidated financial statements at fair value regardless of
+the purpose or intent for holding the instrument. Changes in the fair value of
+derivative financial instruments are either recognized periodically in
+operations or in stockholders' equity as a component of accumulated other
+comprehensive income (loss) depending on whether the derivative financial
+instrument qualifies for hedge accounting, and if so, whether it qualifies as a
+fair value hedge or cash flow hedge. Generally, changes in fair values of
+derivatives accounted for as fair value hedges are recorded in operations along
+with the portions of the changes in the fair values of the hedged items that
+relate to the hedged risk(s). Changes in fair values of derivatives accounted
+for as cash flow hedges, to the extent they are effective as hedges, are
+recorded in other comprehensive (loss) income, net of deferred income taxes.
+Changes in fair value of derivatives used as hedges of the net investment in
+foreign operations are reported in other comprehensive income (loss) as part of
+the cumulative translation adjustment. Changes in fair values of derivatives not
+qualifying as hedges are reported in operations.
+
+Recently Issued Accounting Standards - In December 2004, the Financial
+Accounting Standards Board ("FASB") issued Statement of Financial Accounting
+Standards No. 123 (revised 2004) ("Statement 123 (R)"), "Share-Based Payment",
+which revised SFAS No. 123, "Accounting for Stock-Based Compensation". This
+statement supersedes APB Opinion No. 25, "Accounting for Stock Issued to
+Employees". The revised statement addresses the accounting for share-based
+payment transactions with employees and other third parties, eliminates the
+ability to account for share-based compensation transactions using APB 25 and
+requires that the compensation costs relating to such transactions be recognized
+in the consolidated statement of operations. Acme will adopt the provisions of
+the statement effective January 1, 2006 as required. The impact of adoption of
+Statement 123 (R) cannot be predicted at this time because it will depend on
+levels of share-based payments granted in the future. However, had Acme adopted
+Statement 123 in prior periods, the impact of that standard would have
+approximated the impact of Statement 123 as described in the disclosure of pro
+forma net income (loss) and net income (loss) per share in the stock-based
+compensation accounting policy note included in Note 2 to the consolidated
+financial statements.
+
+In November 2004, the FASB issued SFAS No. 151, "Inventory Costs, an amendment
+of ARB No. 43, Chapter 4," to clarify that abnormal amounts of idle facility
+expense, freight, handling costs and wasted material (spoilage) should be
+recognized as current period charges, and that fixed production overheads should
+be allocated to inventory based on normal capacity of production facilities.
+This statement is effective for Acme's fiscal year 2006. We do not expect the
+adoption of this standard to have a material effect on our financial position,
+results of operations or cash flows.
+
+Reclassifications - Certain prior year amounts have been reclassified to conform
+to the current year presentation.
+
+3.  Inventories
+
+Inventories consist of:                          2005           2004
+------------------------------------------------------------------------
+Finished goods                              $ 11,691,337   $  7,739,109
+Work in process                                  116,377         91,697
+Materials and supplies                           722,740        558,422
+------------------------------------------------------------------------
+                                            $ 12,530,454   $  8,389,228
+========================================================================
+
+Inventories are stated net of valuation allowances for obsolescence of $453,369
+in 2005 and $620,538 in 2004.
+
+4.  Intangible Assets
+
+Intangible assets consist of:                    2005           2004
+------------------------------------------------------------------------
+Deferred financing costs                     $  70,577      $  70,577
+Patents                                        457,086        283,866
+Trademarks                                     361,886        282,637
+------------------------------------------------------------------------
+                                               889,549        637,080
+Accumulated amortization                       119,697         77,434
+------------------------------------------------------------------------
+                                             $ 769,852      $ 559,646
+========================================================================
+
+                                      (22)
+<PAGE>
+
+Amortization expense for deferred financing costs for the years ended December
+31, 2005, 2004 and 2003 was $12,658, $13,615 and $21,262, respectively.
+Amortization expense for patents and trademarks for the years ended December 31,
+2005, 2004 and 2003 was $29,605, $16,371 and $3,144, respectively. The estimated
+aggregate amortization expense for each of the next five succeeding years is as
+follows: 2006 -$31,887; 2007 - $31,887; 2008 - $31,887; 2009 - $31,887 and 2010
+- $31,887.
+
+5.  Other Accrued Liabilities
+
+Other accrued liabilities consist of:            2005             2004
+--------------------------------------------------------------------------
+Vendor rebates                               $ 2,657,403      $ 2,517,666
+Accrual for demolition cost                    1,497,150                -
+Other                                          2,072,212        2,584,945
+--------------------------------------------------------------------------
+                                             $ 6,226,765      $ 5,102,611
+==========================================================================
+
+6.  Pension and Profit Sharing
+
+United States employees, hired prior to July 1, 1993, are covered by a funded,
+defined benefit pension plan. The benefits are based on years of service and the
+average compensation of the highest three consecutive years during the last ten
+years of employment. In December 1995, the Company's Board of Directors approved
+an amendment to the United States pension plan ceasing all future benefit
+accruals as of February 1, 1996, without terminating the pension plan. The
+Company uses a December 31 measurement date for the pension plan.
+
+The plan asset weighted average allocation at December 31, 2005, by asset
+category, is as follows:
+
+Asset Category                               2005             2004
+-------------------------------------------------------------------------
+Equity                                        67%              71%
+Fixed Income                                  30%              25%
+Other                                          3%               4%
+-------------------------------------------------------------------------
+Total                                        100%             100%
+=========================================================================
+
+The Company's investment policy is to minimize risk by balancing investments
+between equity and fixed income, utilizing a weighted average approach of 65%
+equity securities, 30% fixed income funds, and 5% cash investments. Plan funds
+are invested in long-term obligations with a history of moderate to low risk.
+
+At December 31, 2005 and 2004, equity securities include 10,000 and 30,000
+shares of the Company's Common Stock having a market value of $139,600 and
+$471,000 at those dates, respectively.
+
+                                      (23)
+<PAGE>
+
+Other disclosures related to the pension plan follow:
+<TABLE>
+<CAPTION>
+                                                                        2005             2004
+                                                             ---------------------------------
+<S>                                                             <C>              <C>
+Assumptions used to determine benefit obligation:
+  Discount rate                                                         5.50%            5.75%
+Changes in benefit obligation:
+Benefit obligation at beginning of year                         $ (3,481,433)    $ (3,527,592)
+Interest cost                                                       (204,229)        (206,327)
+Service cost                                                         (35,000)         (35,000)
+Actuarial loss                                                      (326,375)        (173,813)
+Benefits and plan expenses paid                                      430,681          461,299
+----------------------------------------------------------------------------------------------
+Benefit obligation at end of year                                 (3,616,356)      (3,481,433)
+----------------------------------------------------------------------------------------------
+
+Changes in plan assets:
+Fair value of plan assets at beginning of year                     3,452,495        3,418,066
+Actual return on plan assets                                          48,727          495,728
+Benefits and plan expenses paid                                     (430,681)        (461,299)
+----------------------------------------------------------------------------------------------
+Fair value of plan assets at end of year                           3,070,541        3,452,495
+----------------------------------------------------------------------------------------------
+Funded status                                                       (545,815)         (28,938)
+Unrecognized actuarial loss                                        1,435,732          964,199
+Unrecognized prior service costs                                      87,760           96,536
+Minimum pension liability, including intangible
+   pension asset of $87,760 in 2005 and $96,536 in 2004           (1,523,492)      (1,060,735)
+----------------------------------------------------------------------------------------------
+Accrued benefit costs                                           $   (545,815)    $    (28,938)
+==============================================================================================
+</TABLE>
+
+Accrued benefits costs are included in other accrued liabilities (non-current).
+
+<TABLE>
+<CAPTION>
+                                                                       2005             2004            2003
+==============================================================================================================
+<S>                                                                <C>              <C>             <C>
+Assumptions used to determine net periodic benefit cost:
+  Discount rate                                                        5.75%            6.00%           6.50%
+  Expected return on plan assets                                       8.00%            8.00%           8.00%
+--------------------------------------------------------------------------------------------------------------
+Components of net benefit expense:
+Interest cost                                                      $ 204,229        $ 206,327       $ 221,265
+Service cost                                                          35,000           35,000          35,000
+Expected return on plan assets                                      (260,089)        (257,424)       (246,124)
+Amortization of prior service costs                                    8,776            8,776           8,776
+Amortization of actuarial gain                                        66,204           67,972          80,687
+--------------------------------------------------------------------------------------------------------------
+Net periodic benefit cost                                          $  54,120        $  60,651       $  99,604
+==============================================================================================================
+</TABLE>
+
+Acme United Corporation employs a building block approach in determining the
+long-term rate of return for plan assets. Historical markets are studied and
+long-term historical relationships between equities and fixed income are
+preserved congruent with the widely-accepted capital market principle that
+assets with higher volatility generate return over the long run. Current market
+factors such as inflation and interest rates are evaluated before long-term
+capital market assumptions are determined.
+
+The following table discloses the change in other comprehensive income:
+
+<TABLE>
+<CAPTION>
+                                                                       2005             2004            2003
+                                                             -------------------------------------------------
+<S>                                                               <C>               <C>             <C>
+(Increase) decrease in minimum liability included in other
+ comprehensive income, excluding income tax effect                $ (471,532)       $ 132,463       $ 412,912
+</TABLE>
+
+                                      (24)
+<PAGE>
+
+The following benefits, which reflect expected future service, as appropriate,
+are expected to be paid:
+
+2006                                                       $   387,691
+2007                                                           376,100
+2008                                                           380,736
+2009                                                           371,046
+2010                                                           352,276
+Years 2011 - 2015                                            1,495,168
+
+The Company also has a qualified, non-contributory profit sharing plan covering
+substantially all United States employees. Annual Company contributions are
+determined by the Compensation Committee. For the years ended December 31, 2005,
+2004 and 2003, contributions amounted to a 50% match up to the first 6% of
+employee contributions. Total contribution expense under this plan approximated
+$60,000, $63,000 and $61,000 for 2005, 2004 and 2003, respectively.
+
+7.  Income Taxes
+
+The amounts of income taxes (benefit) reflected in operations follow:
+                                       2005            2004          2003
+-----------------------------------------------------------------------------
+Current:
+    Federal                        $ 1,817,861     $ 1,714,456   $   513,057
+    State                              236,019         211,927        66,783
+    Foreign                            237,497         232,486             -
+-----------------------------------------------------------------------------
+                                     2,291,377       2,158,869       579,840
+-----------------------------------------------------------------------------
+Deferred:
+    Federal                           (393,334)        (70,436)      557,886
+    State                              (69,287)          4,397         2,813
+    Foreign                                              9,081       (20,099)
+-----------------------------------------------------------------------------
+                                      (462,621)        (56,958)      540,600
+-----------------------------------------------------------------------------
+                                   $ 1,828,756     $ 2,101,911   $ 1,120,440
+=============================================================================
+
+The current state tax provision is comprised of taxes on income, the minimum
+capital tax and other franchise taxes related to the jurisdictions in which the
+Company's facilities are located.
+
+A summary of United States and foreign income (loss) before income taxes
+follows:
+
+                                       2005            2004          2003
+-----------------------------------------------------------------------------
+United States                      $ 4,288,531     $ 4,927,741   $ 3,142,489
+Foreign                                477,535         412,575      (800,218)
+-----------------------------------------------------------------------------
+                                   $ 4,766,066     $ 5,340,316   $ 2,342,271
+=============================================================================
+
+                                      (25)
+<PAGE>
+
+The following schedule reconciles the amounts of income taxes computed at the
+ United States statutory rate to the actual amounts reported in operations.
+
+                                       2005            2004          2003
+-------------------------------------------------------------------------------
+Federal income
+  taxes at
+  34% statutory rate               $ 1,620,462     $ 1,815,707   $   796,372
+State and local
+  taxes, net of
+  federal income
+  tax effect                           155,773         147,373        80,199
+Permanent items                         65,935         (31,907)      (25,710)
+Foreign tax rate difference            (92,908)
+Non-recognition
+  of foreign tax loss
+  carryforwards                         79,494         170,738       269,579
+-------------------------------------------------------------------------------
+  Provision for income taxes       $ 1,828,756     $ 2,101,911   $ 1,120,440
+===============================================================================
+
+Income taxes paid, net of refunds received, were $1,716,028 in 2005, $1,390,967
+in 2004 and $850,600 in 2003.
+
+                                                         2005           2004
+--------------------------------------------------------------------------------
+Deferred income tax liabilities:
+Plant, property and equipment                        $   140,774    $   156,227
+--------------------------------------------------------------------------------
+                                                         140,774        156,227
+Deferred income tax assets:
+Asset valuations                                         255,131        195,048
+Operating loss carryforwards and credits               1,482,907      1,418,433
+Pension                                                  168,424         24,999
+Other                                                    429,945          1,627
+--------------------------------------------------------------------------------
+                                                       2,336,407      1,640,107
+--------------------------------------------------------------------------------
+Net deferred income tax asset
+  before valuation allowance                           2,195,633      1,483,880
+Valuation allowance                                   (1,415,401)    (1,335,907)
+--------------------------------------------------------------------------------
+Net deferred income tax asset                        $   780,232    $   147,973
+================================================================================
+
+The Company provides deferred income taxes on foreign subsidiary earnings, which
+are not considered permanently reinvested. Earnings permanently reinvested would
+become taxable upon the sale or liquidation of a foreign subsidiary or upon the
+remittance of dividends. Foreign subsidiary earnings of $2,300,000 and
+$2,189,000 are considered permanently reinvested as of December 31, 2005 and
+2004, respectively, and the amount of deferred income taxes thereon cannot be
+readily determined.
+
+                                      (26)
+<PAGE>
+
+In December 2004, the FASB issued FSP No. FAS 109-2, Accounting and Disclosure
+Guidance for the Foreign Earnings Repatriation provision within the American
+Jobs Creation Act of 2004 ("AJCA"). The AJCA provides a one-time 85% dividends
+received deduction for certain foreign earnings that are repatriated under a
+plan for reinvestment in the United States, provided certain criteria are met.
+FSP No. 109-2 is effective immediately and provides accounting and disclosure
+guidance for the repatriation provision. FSP No. 109-2 allows companies
+additional time to evaluate the effects of the law on its unremitted earnings
+for the purpose of applying the "indefinite reversal criteria" under APB Opinion
+No. 23, Accounting for Income Taxes - Special Areas, and requires explanatory
+disclosures from companies that have not yet completed the evaluation. Under the
+provisions of the AJCA, the Company repatriated approximately $500,000 of
+qualifying dividends in the fourth quarter of 2005, which resulted in additional
+income tax expense of approximately $28,000 for the year.
+
+Due to the uncertain nature of the realization of the Company's deferred income
+tax assets based on past performance and carry forward expiration dates, the
+Company has recorded a valuation allowance for the amount of deferred income tax
+assets which are not expected to be realized. This valuation allowance is
+subject to periodic review, and if the allowance is reduced, the tax benefit
+will be recorded in future operations as a reduction of the Company's tax
+expense.
+
+At December 31, 2005, the Company has tax operating loss carry forwards
+aggregating $4,718,004, all of which are applicable to Germany, and can be
+carried forward indefinitely.
+
+8. Debt
+
+Long term debt consists of:
+                                                       2005          2004
+-----------------------------------------------------------------------------
+Notes payable:
+  North American arrangements                      $ 5,544,500   $ 1,207,500
+  Other                                                 42,882       226,436
+-----------------------------------------------------------------------------
+                                                     5,587,382     1,433,936
+Less current portion                                    10,000             -
+-----------------------------------------------------------------------------
+                                                   $ 5,577,382   $ 1,433,936
+=============================================================================
+
+During September 2004, the Company renewed its revolving loan agreement, which
+originally allowed for borrowings up to a maximum of $10,000,000 based on a
+borrowing base formula, which applied specific percentages to balances of
+accounts receivable and inventory. The renewal modified several characteristics
+of the original agreement, the most significant of which are reducing the
+interest rate to LIBOR plus 1.50% from LIBOR plus 1.75%, eliminating the
+borrowing base formula, allowing the Company to borrow up to $10,000,000,
+regardless of its inventory and receivable levels, and extending the maturity of
+the loan to June 30, 2007. As of December 31, 2005, $5,544,500 was outstanding
+and $4,455,500 was available for borrowing under this agreement. Amounts
+outstanding under the Agreement bear interest at the LIBOR rate plus 1.50%
+(5.89% at December 31, 2005). Prior year outstanding balances under this loan
+agreement have been reclassified to long-term debt to conform to current year
+classification.
+
+The Company, among other things, is restricted with respect to additional
+borrowings, investments, mergers, and property and equipment acquisitions.
+Further, the Company is required to maintain specific amounts of tangible net
+worth, a specified debt service coverage ratio, and a fixed charge coverage
+ratio, all as defined in the revolving loan agreement. The Company was in
+compliance with these financial covenants at December 31, 2005.
+
+Maturities of long-term debt for the next five years follow: 2006 - $10,000;
+2007- $5,553,000; 2008 - $8,000; 2009 - $8,000; and 2010 - $8,000.
+
+Interest paid was $234,523 in 2005, $157,335 in 2004 and $235,265 in 2003.
+
+                                      (27)
+<PAGE>
+
+9. Commitments and Contingencies
+
+The Company leases certain office, manufacturing and warehouse facilities and
+various equipment under non-cancelable operating leases. Total rent expense was
+$332,644 in 2005, $309,107 in 2004 and $252,294 in 2003. Minimum annual rental
+commitments under non-cancelable leases with initial or remaining terms of one
+year or more as of December 31, 2005 to their expiration follow: 2006 -
+$492,435; 2007 - $363,207; 2008 - $295,305; 2009 - $290,000 and 2010 - $260,000.
+
+The Company is involved from time to time in disputes and other litigation in
+the ordinary course of business, including certain environmental and other
+matters. The Company presently believes that none of these matters, individually
+or in the aggregate, would be likely to have a material adverse impact on
+financial position, results of operations, or liquidity from these matters.
+
+10. Segment Information
+
+Prior to 2005, the Company reported only one business segment. In 2005, the
+Company reassessed its business segments for reporting purposes and is reporting
+financial information based on the organization structure used by management for
+making operating and investment decisions and for assessing performance. The
+Company's reportable business segments include (1) United States; (2) Canada and
+(3) Europe. The financial results of the Company's Asian operating segment have
+been aggregated with the results of the United States to form one reportable
+segment. The determination of reportable segments is based on the guidance set
+forth in SFAS No. 131, "Disclosures about Segments of an Enterprise and Related
+Information". Each reportable segment derives its revenue from the sales of
+cutting devices, measuring instruments and safety products for school, office,
+home and industrial use.
+
+The Chief Operating Decision Maker evaluates the performance of each operating
+segment based on segment revenues and operating income. Segment revenues are
+defined as total revenues, including both external customer revenue and
+intersegment revenue. Segment operating earnings are defined as segment revenues
+less cost of goods sold and operating expenses. Identifiable assets by segment
+are those assets used in the respective reportable segment's operations.
+Intersegment amounts are eliminated to arrive at consolidated financial results.
+
+Net sales to the Company's top three customers amounted to approximately 18%,
+12% and 11%, of total net sales in 2005, 18%, 14% and 11% in 2004, and 20%, 15%
+and 11% in 2003. Sales to no other customer exceeded 10% of consolidated net
+sales.
+
+                                      (28)
+<PAGE>
+<TABLE>
+<CAPTION>
+Financial data by segment:
+(000's omitted)
+
+              2005
+              ----                           United States      Canada      Europe    Elimination   Consolidated
+<S>                                               <C>          <C>         <C>                        <C>
+Sales to unaffiliated customers                   $ 39,060     $ 6,837     $ 4,049                    $ 49,946
+InterCompany sales                                      75           5       1,115     $ (1,195)             -
+                                            --------------------------------------------------------------------
+Net sales                                           39,135       6,842       5,164       (1,195)        49,946
+
+Operating income                                     5,010         484        (159)           7          5,342
+Assets                                              21,734       5,490       2,754       (1,784)        28,194
+Additions to property, plant and equipment           1,299          80          52            0          1,431
+Depreciation and amortization                          511          51          91            -            653
+
+              2004
+              ----
+Sales to unaffiliated customers                   $ 33,741     $ 5,986     $ 3,654     $              $ 43,381
+InterCompany sales                                      84           3         656         (743)             -
+                                            --------------------------------------------------------------------
+Net sales                                           33,825       5,989       4,310         (743)        43,381
+
+Operating income                                     5,537         463        (664)         154          5,490
+Assets                                              16,401       5,413       2,835       (1,682)        22,967
+Additions to property, plant and equipment             291          57          95            -            443
+Depreciation and amortization                          366          44         112            -            522
+
+                        2003
+
+Sales to unaffiliated customers                   $ 26,482     $ 5,611     $ 2,882     $              $ 34,975
+InterCompany sales                                     155           6         901       (1,062)             -
+                                            --------------------------------------------------------------------
+Net sales                                           26,637       5,617       3,783       (1,062)        34,975
+
+Operating income                                     3,179         249        (859)         (83)         2,486
+Assets                                              13,613       4,498       3,013       (1,381)        19,743
+Additions to property, plant and equipment             398          10          17            -            425
+Depreciation and amortization                          302          45         111            -            458
+</TABLE>
+
+11.  Stock Option Plans
+
+The Company has two stock option plans: the 2002 Employee Stock Option Plan, as
+amended (the "Employee's Plan") and the 2005 Non-Salaried Director Stock Option
+Plan (the "Director Plan").
+
+With respect to the Employee's Plan, in connection with the April 2005 Annual
+Meeting of Shareholders, the shareholders approved an increase to the maximum
+number of shares reserved and authorized for issuance to 300,000 shares of Acme
+United Common Stock. The Employee's Plan provides for the issuance of incentive
+and nonqualified stock options at an exercise price equal to the Fair Market
+Value of the Common Stock on the date the option is granted. The terms of the
+options granted are subject to the provisions of the Employee's Plan. As of
+December 31, 2005, the number of shares available for grant under the Employee's
+Plan was 108,688.
+
+                                      (29)
+<PAGE>
+
+The Director Plan, approved by shareholders at the Annual Meeting of
+Shareholders on April 25, 2005, provides for the issuance of up to 50,000
+nonqualified stock options of the Company's Common Stock to non-salaried
+directors. Directors elected on April 25, 2005 and at subsequent Annual Meetings
+who have not received any prior grant under this or previous plans shall receive
+an initial grant of an option to purchase 5,000 shares of Common Stock (the
+"Initial Option"). Each elected Director not receiving an initial grant will
+receive a 2,500 share option (the "Annual Option"). The Initial Option vests 25%
+on the date of grant and 25% in each of the next three years. The Annual Option
+becomes exercisable one day after the date of grant. The exercise price of all
+options granted shall equal the Fair Market Value of the Common Stock on the
+date the option is granted and shall expire ten (10) years from the date of
+grant. As of December 31, 2005, the number of shares available for grant under
+the Director Plan was 42,500.
+
+A summary of changes in options issued under the Company's stock option plans
+follows:
+
+<TABLE>
+<CAPTION>
+                                                        2005          2004          2003
+-----------------------------------------------------------------------------------------
+<S>                                                 <C>           <C>           <C>
+Options outstanding at the beginning of the year     673,200       867,150       766,850
+Options granted                                      111,500         6,500       102,500
+Options forfeited                                       (938)       (3,750)       (1,700)
+Options exercised                                   (312,312)     (196,700)         (500)
+-----------------------------------------------------------------------------------------
+Options outstanding at the end of the year           471,450       673,200       867,150
+=========================================================================================
+Options exercisable at the end of the year           368,700       622,263       747,940
+=========================================================================================
+Common stock available for future grants
+  at the end of the year                             151,188        60,500        64,500
+=========================================================================================
+Weighted average price of options:
+ Granted                                            $  15.64      $   5.50      $   3.89
+ Forfeited                                              4.00          4.33          2.67
+ Exercised                                              2.71          3.53          2.53
+ Outstanding                                            6.56          3.27          3.31
+ Exercisable                                            4.62          3.19          3.26
+</TABLE>
+
+A summary of options outstanding at December 31, 2005 follows:
+<TABLE>
+<CAPTION>
+                                                             Options Outstanding                        Options Exercisable
+----------------------------------------------------------------------------------------------     ----------------------------
+                                                                  Weighted-
+                                                                   Average                                             Weighted-
+                                                                  Remaining      Weighted-                              Average
+                                                     Number      Contractual      Average                  Number      Exercise
+Range of Exercise Prices                          Outstanding    Life (Years)  Exercise Price           Exercisable      Price
+----------------------------------------------------------------------------------------------     ----------------------------
+<C>                                                  <C>              <C>         <C>                     <C>           <C>
+$1.25 to $2.49                                        46,600          4           $ 2.07                   46,600       $ 2.07
+$2.50 to $3.65                                       158,850          6             3.11                  155,225         3.10
+$3.66 to $5.00                                        73,750          5             4.08                   62,875         4.10
+$5.01 to $7.25                                        80,750          3             5.65                   76,125         5.66
+$7.26 to $17.02                                      111,500         10            15.64                   27,875        16.53
+----------------------------------------------------------------------------------------------     ----------------------------
+                                                     471,450                                              368,700
+                                             ================                                      ===============
+</TABLE>
+
+The weighted average remaining contractual life of outstanding stock options is
+5 years.
+
+The Company applies APB Opinion No. 25, Accounting for Stock Issued to Employees
+and related interpretations to recognize compensation expense under its stock
+option plans. As such, no expense is recognized if, at the date of grant, the
+exercise price of the option is at least equal to the fair market value of the
+Company's Common Stock. No compensation expense related to the Company's stock
+option plans was required to be recognized for its plans in 2005, 2004 and 2003
+except as discussed in Note 2.
+
+                                      (30)
+<PAGE>
+
+The weighted average fair value at the date of grant for options granted during
+2005, 2004, and 2003 was $7.42, $2.59, and $1.79 per option, respectively.
+
+The fair value of options at the date of grant was estimated using the
+Black-Scholes model with the following weighted average assumptions:
+
+                                       2005             2004          2003
+                            -----------------------------------------------
+Expected life in years                    5                5             5
+Interest rate                         3.84%            3.84%         3.00%
+Volatility                            0.546            0.527         0.480
+Dividend yield                        0.70%            1.09%            0%
+
+12.  Earnings Per Share
+
+The calculation of earnings per share follows:
+<TABLE>
+<CAPTION>
+                                                           2005          2004           2003
+------------------------------------------------------------------------------------------------
+<S>                                                    <C>           <C>            <C>
+Numerator:
+   Net income                                          $ 2,937,310   $ 3,238,405    $ 1,221,831
+------------------------------------------------------------------------------------------------
+Denominator:
+   Denominator for basic earnings per share
+      Weighted average shares outstanding                3,509,031     3,364,033      3,317,231
+   Effect of dilutive employee stock options               279,913       442,995        240,663
+------------------------------------------------------------------------------------------------
+   Denominator for dilutive earnings per share           3,788,944     3,807,028      3,557,894
+------------------------------------------------------------------------------------------------
+   Basic earnings per share                            $      0.84   $      0.96    $      0.37
+------------------------------------------------------------------------------------------------
+   Dilutive earnings per share                         $      0.78   $      0.85    $      0.34
+------------------------------------------------------------------------------------------------
+</TABLE>
+
+For 2005 and 2003, 9,500 and 87,000 stock options were excluded from diluted
+earnings per share calculations because they would have been anti-dilutive.
+There were no anti-dilutive stock options for 2004.
+
+                                      (31)
+<PAGE>
+
+13.    Accumulated Other Comprehensive Loss
+
+The components of the accumulated other comprehensive loss follow:
+<TABLE>
+<CAPTION>
+                                                              Derivative             Minimum
+                                          Translation          Financial             Pension
+                                          Adjustment          Instruments           Liability           Total
+-----------------------------------------------------------------------------------------------------------------
+<S>                                      <C>                  <C>               <C>                 <C>
+Balances, December 31, 2003              $ (679,544)                            $ (690,897)         $ (1,370,441)
+Change in fair value of
+   derivative financial
+   Instruments                                                $ (82,268)                                 (82,268)
+Change in minimum pension liability                                                132,463               132,463
+Income taxes relating
+   to minimum pension
+   liability                                                                       (39,369)              (39,369)
+Translation adjustment                      328,028                                                      328,028
+-----------------------------------------------------------------------------------------------------------------
+Balances, December 31, 2004                (351,516)            (82,268)          (597,803)           (1,031,587)
+Change in fair value of
+   derivative financial
+   Instruments                                                   82,268                                   82,268
+Change in minimum pension liability                                               (471,532)             (471,532)
+Income taxes relating
+   to minimum pension
+   liability                                                                       179,183               179,183
+Translation adjustment                      170,432                                                      170,432
+-----------------------------------------------------------------------------------------------------------------
+Balances, December 31, 2005              $ (181,084)          $       -         $ (890,152)         $ (1,071,236)
+=================================================================================================================
+</TABLE>
+
+14.  Financial Instruments
+
+The following methods and assumptions were used by the Company in estimating its
+fair value disclosures for financial instruments:
+
+Cash and cash equivalents: The carrying amount reported in the balance sheet for
+cash and cash equivalents approximates fair value.
+
+Accounts receivable and accounts payable: The carrying amounts reported in the
+balance sheet for accounts receivable and accounts payable approximate fair
+value.
+
+Long-and short-term debt: The carrying amounts of the Company's borrowings under
+its short-term notes payable and revolving credit arrangements approximate their
+fair value. The fair values of the Company's long-term debt are estimated using
+discounted cash flow analyses, based on the Company's current incremental
+borrowing rates for similar types of borrowing arrangements.
+
+Forward foreign exchange contracts and interest rate swaps: The fair values of
+the Company's forward foreign currency contracts and interest rate swaps are
+estimated based on dealer quotes.
+
+The carrying amounts and fair values of the Company's financial instruments
+follow (000's omitted):
+
+                                      (32)
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                   2005                           2004
+                                        --------------------------     ---------------------------
+                                            Carrying       Fair             Carrying        Fair
+                                             Amount        Value             Amount        Value
+--------------------------------------------------------------------------------------------------
+<S>                                          <C>          <C>                <C>          <C>
+Cash and cash equivalent                     $ 1,076      $ 1,076            $ 1,889      $ 1,889
+Accounts receivable                            9,392        9,392              8,885        8,885
+Accounts payable                              (2,174)      (2,174)            (2,316)      (2,316)
+Long term debt                                (5,587)      (5,587)            (1,434)      (1,434)
+Forward foreign exchange contract                  -            -                (82)         (82)
+</TABLE>
+
+Derivative Financial Instruments
+
+The Company uses derivatives for cash flow hedging purposes as part of its risk
+management strategy. Following is a summary of the Company's risk management
+strategies and derivatives and the effect of them on the Company's consolidated
+financial statements.
+
+The Company and its foreign subsidiaries utilize bank loans to finance their
+operations. To mitigate foreign currency risk, foreign loans are denominated in
+the local currency of the foreign subsidiary wherever possible.
+
+In September 2004, the Company entered into a forward foreign currency contract
+to hedge forecasted 2005 inventory purchases by the Company's Canadian
+subsidiary in a foreign currency other than the Canadian subsidiary's functional
+currency, the Canadian dollar. The fair value of the forward foreign currency
+contract totaled $0 and $82,268 at December 31, 2005 and 2004, respectively, and
+was reflected as a liability and component of accumulated other comprehensive
+loss in the accompanying consolidated balance sheet. In 2005, the Company
+recognized a loss on the forward foreign currency contract of $116,000.
+
+In 2000, the Company entered into an interest-rate swap agreement that
+effectively converted a portion of its floating-rate debt to a fixed-rate basis
+through January 19, 2003, the agreement maturity date, thus reducing the impact
+of interest-rate changes on future income. During 2003, the Company recognized
+expense of $26,874, related to the net amounts paid and accrued on interest rate
+swaps, which are included in interest expense in that year's consolidated
+statements of income.
+
+15.  Quarterly Data (unaudited)
+<TABLE>
+<CAPTION>
+                                          Quarters (000's omitted, except per share data)
+
+2005                                  First        Second        Third         Fourth         Total
+----------------------------------------------------------------------------------------------------
+<S>                                <C>           <C>          <C>            <C>           <C>
+Net sales                          $ 10,583      $ 14,904     $ 13,400       $ 11,059      $ 49,946
+----------------------------------------------------------------------------------------------------
+Cost of goods sold                    5,722         8,173        7,234          6,463        27,592
+----------------------------------------------------------------------------------------------------
+Net income                              650         1,314          200            773         2,937
+----------------------------------------------------------------------------------------------------
+Basic earnings per share           $   0.19      $   0.37     $   0.06       $   0.22      $   0.84
+Diluted earnings per share         $   0.17      $   0.34     $   0.05       $   0.21      $   0.78
+
+2004                                  First        Second        Third         Fourth         Total
+----------------------------------------------------------------------------------------------------
+Net sales                          $  8,567      $ 12,298     $ 11,595       $ 10,921      $ 43,381
+----------------------------------------------------------------------------------------------------
+Cost of goods sold                    4,848         6,779        6,142          5,959        23,728
+----------------------------------------------------------------------------------------------------
+Net income                              392         1,075        1,017            754         3,238
+----------------------------------------------------------------------------------------------------
+Basic earnings per share           $   0.12      $   0.32     $   0.30       $   0.22      $   0.96
+Diluted earnings per share         $   0.11      $   0.29     $   0.26       $   0.19      $   0.85
+</TABLE>
+
+Earnings per share are computed independently for each of the quarters
+presented. Therefore, the sum of the quarterly earnings per share may not
+necessarily equal the total for the year.
+
+                                      (33)
+<PAGE>
+
+16.  Capital Structure
+
+In 2005, the Company issued 312,312 shares of common stock with proceeds of
+$846,951 upon the exercise of outstanding stock options. The Company also
+repurchased 242,900 shares of common stock in open market transactions for
+treasury. The shares were purchased at fair market value, with a total cost to
+the Company of $3,564,165.
+
+17.  Business Combination
+
+On May 28, 2004, the Company purchased Clauss Cutlery, a division of Alco
+Industries, Inc. The purchase price was the aggregate value of inventory,
+trademarks and brand names totaling $446,754. Included in the purchase price was
+a stand-by letter of credit the Company issued in the amount of $230,000 for a
+trademark from Alco Industries, Inc. that was renewed by the U.S. Patent and
+Trademark Office on July 13, 2004. The letter of credit was set-up to expire on
+May 28, 2005, if the trademark was not renewed. Since the trademark was renewed
+prior to the expiration date, Alco Industries, Inc. enforced the letter of
+credit and drew down the funds. Included in the accompanying Statement of
+Operations are the operations of the acquired business since the date of
+acquisition. Proforma operating information for the periods prior to the
+acquisition is not provided because of the immateriality of the transaction on a
+proforma basis.
+
+18.  Impairment of Equipment
+
+During the second quarter of 2004, the Company abandoned its ruler manufacturing
+equipment. In accordance with FASB 144, Accounting for the Impairment or
+Disposal of Long-Lived Assets, the Company recorded an impairment loss of
+$84,820, or $0.02 a share, for the full amount of the assets at the time of
+abandonment. There was no such impairment charge recorded during the year ended
+December 31, 2005.
+
+19.  Non-Recurring Charge
+
+The Company is the owner of certain commercial property located in Bridgeport,
+Connecticut. Buildings, totaling approximately 150,000 square feet, are located
+on this property. The Company ceased using the Bridgeport property as a
+manufacturing facility in September 1996 and operations were consolidated into
+Acme's North Carolina facility. For approximately the next two years, the
+Company continued to pay property taxes, insurance, maintenance and other
+operating costs which totaled approximately $107,000 annually and the Company
+leased a small part of the property for $32,000 resulting in a net cost of
+$75,000 annually. In October 1998, the Company leased the entire property to an
+unrelated commercial real estate company for a term of 24 years. The lease had
+provided for the payment of one dollar ($1.00) per year as base rent and
+required that the tenant pay all taxes, insurance and other expenses in
+connection with the property. At the time, Acme considered the cost savings from
+leasing the property, for which Acme had no specific use, an appropriate basis
+for the arrangement.
+
+The Company had written off the book value of the property by the end of 1998.
+
+Since October 1998, the tenant leased portions of the buildings to subtenants,
+primarily for use as commercial warehouses. Approximately 30% of the total
+square footage is subject to subleases. The remainder has been empty since 1996.
+
+On July 28, 2005, the Building Department of Bridgeport informed Acme United
+that pursuant to a call from the Bridgeport Fire Department, an inspection of
+the premises was made on July 21, 2005. The roof of a portion of a building had
+collapsed that day. The Company received notice that it must either repair
+certain portions of the damaged building and two others or demolish them because
+of unsafe conditions. The Company was ordered to begin the necessary work to
+make the buildings safe within 30 days from receipt of the letter.
+
+The lessee filed an insurance claim on August 24, 2005. The insurance company
+investigated the facts and circumstances surrounding the claim and determined
+that the roof had collapsed due to wear, tear, deterioration, wet rot, dry rot
+and lack of maintenance of the premises. They stated in a letter dated October
+18, 2005 that the causes of the loss were not insured perils under the tenant's
+policy and denied coverage.
+
+On July 29, 2005, the Company notified the tenant of the action by the building
+inspector and that under the terms of the lease the tenant had the entire
+responsibility for compliance with the order. The lessee subsequently refused to
+assume responsibility for the repair or demolition. Acme considered legal action
+under the terms of the lease to force the lessee to pay for the repair or
+demolition. However, the Company believed that the city would require action
+over a time period shorter than the time required to file a lawsuit and to bring
+the action to a conclusion.
+
+                                      (34)
+<PAGE>
+
+As a result of discussions between the Company and the tenant regarding the
+required repair or demolition, the Company and the tenant agreed to terminate
+the lease. Pursuant to a Termination of Lease agreement entered into by the
+Company and the tenant on September 16, 2005, the parties terminated this lease,
+effective September 1, 2005. As part of the lease termination, the Company paid
+$400,000 to the tenant in exchange for rights to the rental income from the
+leases with current sub-tenants. This cost has been deferred and is being
+amortized over the term of the subleases.
+
+The Company also decided to demolish all unoccupied structures on the property.
+The unoccupied structures are abandoned manufacturing buildings that had been
+constructed over one hundred years ago.
+
+Several subtenants continue to occupy portions of the property and are paying
+rent presently totaling approximately $190,000 per year to the Company. In
+addition, the principal subtenant pays a portion of the taxes and insurance
+expenses related to the property it leases.
+
+In the quarter ended September 30, 2005, the Company accrued a charge of
+approximately $1.5 million related to the estimated cost to demolish the
+structures and remove certain environmentally hazardous material included in the
+buildings to be demolished. The estimated costs are based on a third party
+contractor's estimate. Adjustments to the cost will be recorded when better
+estimates or actual costs are known. After the demolition is complete, the
+Company will explore options to sell the property.
+
+20. Subsequent Event
+
+On March 6, 2006, the Company modified its Revolving Loan Agreement (the
+Modified Loan Agreement) with Wachovia Bank. The Modified Loan Agreement amends
+certain provisions of the original agreement. The amendments include an increase
+in the maximum borrowing amount from $10 million to $15 million; an extension of
+the maturity date to June 30, 2009; a decrease in the interest rate to LIBOR
+plus 1% from LIBOR plus 1.5% as well as modifications to certain covenant
+restrictions. Funds borrowed under the Modified Loan Agreement will be used for
+working capital and general operating expenses.
+
+                                      (35)
+<PAGE>
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Stockholders of Acme United Corporation
+
+We have audited the accompanying consolidated balance sheets of Acme United
+Corporation and subsidiaries as of December 31, 2005 and 2004, and the related
+consolidated statements of operations, changes in stockholders' equity, and cash
+flows for each of the three years in the period ended December 31, 2005. Our
+audits also included the financial statement schedule listed in the Index at
+Item 15(a). These financial statements and schedule are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements and schedule based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. We were not engaged to perform an
+audit of the Company's internal control over financial reporting. Our audits
+included consideration of internal control over financial reporting as a basis
+for designing audit procedures that are appropriate in the circumstances, but
+not for the purpose of expressing an opinion on the effectiveness of the
+Company's internal control over financial reporting. Accordingly, we express no
+such opinion. An audit also includes examining on a test basis, evidence
+supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Acme United
+Corporation and subsidiaries at December 31, 2005 and 2004, and the consolidated
+results of their operations and their cash flows for each of the three years in
+the period ended December 31, 2005, in conformity with U.S. generally accepted
+accounting principles. Also, in our opinion, the related financial statement
+schedule, when considered in relation to the basic financial statements taken as
+a whole, presents fairly in all material respects the information set forth
+therein.
+
+
+                                               /s/Ernst & Young LLP
+
+
+Hartford, Connecticut
+February 28, 2006, except for Note 20,
+as to which the date is March 9, 2006
+
+                                      (36)
+<PAGE>
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+        Financial Disclosure
+
+There have been no disagreements with accountants related to accounting and
+financial disclosures in 2005.
+
+
+Item 9A.  Controls and Procedures
+
+(a)  Evaluation of Internal Controls and Procedures
+
+Our Chief Executive Officer and Chief Financial Officer have reviewed and
+evaluated the effectiveness of our disclosure controls and procedures, which
+included inquiries made to certain other of our employees. Based on their
+evaluation, our Chief Executive Officer and Chief Financial Officer have each
+concluded that, as of December 31, 2005, our disclosure controls and procedures
+were effective and sufficient to ensure that we record, process, summarize and
+report information required to be disclosed by us in our periodic reports filed
+under the Securities and Exchange Commission's rules and forms.
+
+(b)  Changes in Internal Control over Financial Reporting
+
+During the quarter ended December 31, 2005, there were no changes in our
+internal control over financial reporting that materially affected, or was
+reasonably likely to materially affect, this control.
+
+Item 9B.  Other Information
+
+None
+
+
+PART III
+
+Item 10.  Directors and Executive Officers of the Registrant
+
+The following table sets forth certain information with respect to the directors
+and executive officers of the Company. All directors of the Company hold office
+until the next annual meeting of the shareholders or until their successors have
+been elected and qualified. Executive officers are elected by the Board of
+Directors to hold office until their successors are elected and qualified.
+
+Name                       Age   Position Held with Company
+--------------------------------------------------------------------------------
+Walter C. Johnsen          55    President, Chief Executive Officer and Director
+Gary D. Penisten           74    Chairman of the Board and Director
+Brian S. Olschan           49    Executive Vice President, Chief Operating
+                                 Officer and Director
+Paul G. Driscoll           45    Vice President, Chief Financial Officer,
+                                 Secretary and Treasurer
+George R. Dunbar           82    Director
+Richmond Y. Holden, Jr.    52    Director
+Wayne R. Moore             73    Director
+Stevenson E. Ward III      60    Director
+Susan H. Murphy            54    Director
+
+Walter C. Johnsen has served as director since 1995 and as President and Chief
+Executive Officer since November 30, 1995. Prior to that he was Executive Vice
+President since January 24, 1995. Before joining the Company he was Vice
+Chairman and a principal of Marshall Products, Inc., a medical supply
+distributor.
+
+Gary D. Penisten has served as director since 1994 and Chairman of the Board
+since February 27, 1996. From 1977 to 1988, he was Senior Vice President of
+Finance, Chief Financial Officer and a Director of Sterling Drug Inc. in New
+York City. From 1974 to 1977 he served as Assistant Secretary of the United
+States Navy. Prior to that he was employed by General Electric for twenty-one
+years.
+
+Brian S. Olschan served as Senior Vice President-Sales and Marketing from
+September 10, 1996 until February 22, 1999. Effective January 23, 1999, he was
+promoted to Executive Vice President and Chief Operating Officer. From 1984 to
+1996, he was employed by General Cable Corporation in various executive
+positions including Vice President and General Manager of the Cordset and
+Assembly Business from 1994 to 1996.
+
+Paul G. Driscoll has served as Vice President and Chief Financial Officer,
+Secretary and Treasurer since October 2, 2002. Mr. Driscoll joined Acme as
+Director International Finance on March 19, 2001. From 1997 to 2001 he was
+employed by Ernest and Julio Gallo Winery including Director of Finance and
+Operations in Japan. Prior to Gallo he served in several increasingly
+responsible positions in Sterling Winthrop Inc. in New York City and Sanofi S.A.
+in France.
+
+                                      (37)
+<PAGE>
+
+George R. Dunbar has served as director since 1977. He is currently President of
+The U.S. Baird Corporation and Dunbar Associates, a municipal management
+consulting firm. He is a former Chief Administrative Officer for the City of
+Bridgeport and served as President (1972-1987) of the Bryant Electric Division
+of Westinghouse Electric Corporation, manufacturer of electrical distribution
+and utilization products, Bridgeport, Connecticut.
+
+Richmond Y. Holden, Jr. has served as director since 1998. He has served as
+President and Chief Executive Officer of J.L. Hammett Co. since 1992; Executive
+Vice President from 1989 to 1992. J.L. Hammett Co. is a distributor and online
+retailer of educational products throughout the United States, and is one of the
+largest distributors to the K-12 educational marketplace.
+
+Wayne R. Moore has served as director since 1976. He is presently Chairman
+Emeritus of The Producto Machine Company, manufacturer of machine tools, special
+machines, and tool die and mold components. He was Chairman of the Board of The
+Producto Machine Company and the Moore Special Tool Company, manufacturer of
+machine tools, measuring machines and metrology products. Mr. Moore was Chairman
+of the U.S. Machine Tool Builders/ Association for Manufacturing Technology
+(1985-1986) and Committee Member of U.S. Eximbank (1984). He is a Trustee of the
+American Precision Museum and on the Board of advisors of the Fairfield
+University School of Engineering.
+
+Stevenson E. Ward III has served as director since 2001. He is presently Vice
+President and Chief Financial Officer of Triton Thalassic Technologies, Inc.
+From 1999 through 2000, Mr. Ward served as Senior Vice President -
+Administration of Sanofi-Synthelabo, Inc. He also served as Executive Vice
+President (1996 - 1999) and Chief Financial Officer (1994 - 1995) of Sanofi,
+Inc. and Vice President, Pharmaceutical Group, Sterling Winthrop, Inc. (1992 -
+1994). Prior to joining Sterling he was employed by General Electric.
+
+Susan H. Murphy has served as director since 2003. She is presently Vice
+President for Student and Academic Services at Cornell University. From 1985
+through 1994, Ms. Murphy served as Dean of Admissions and Financial Aid. Ms.
+Murphy has been employed at Cornell since 1978.
+
+The Company has adopted a Code of Conduct that is applicable to our employees,
+including the Chief Executive Officer, Chief Financial Officer and Controller.
+The Code of Conduct is available in the investor relations section on our
+website at www.acmeunited.com
+
+If we make any substantive amendments to the Code of Conduct which apply to our
+Chief Executive Officer, Chief Financial Officer or Controller or grant any
+waiver, including any implicit waiver, from a provision of the Code of Conduct
+to our executive officers, we will disclose the nature of the amendment or
+waiver on our website or in a report on Form 8-K.
+
+Item 11.  Executive Compensation
+
+          Information with respect to executive compensation is incorporated
+          herein by reference to the section entitled "Executive Compensation"
+          contained in our Proxy Statement to be filed with the Securities and
+          Exchange Commission in connection with our 2006 Annual Meeting of
+          Shareholders.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+
+          Information regarding security ownership of certain beneficial owners,
+          directors and executive officers is incorporated herein by reference
+          to the information in the section entitled "Security Ownership of
+          Directors and Officers" contained in our Proxy Statement to be filed
+          with the Securities and Exchange Commission in connection with our
+          2006 Annual Meeting of Shareholders.
+
+
+                                      (38)
+<PAGE>
+
+Item 13.  Certain Relationships and Related Transactions
+
+          (None)
+
+Item 14.  Principal Accountant Fees and Services
+
+          Information regarding principal accountant fees and services is
+          incorporated herein by reference to the section entitled "Fees to
+          Auditors" contained in our Proxy Statement to be filed with the
+          Securities and Exchange Commission in connection with our 2006
+          Annual Meeting of Shareholders.
+
+
+                                      (39)
+<PAGE>
+
+PART IV
+
+Item 15.  Exhibits and Financial Statement Schedules
+
+(a)(1) Financial Statements.
+
+     o    Consolidated Balance Sheets
+
+     o    Consolidated Statements of Operations
+
+     o    Consolidated Statements of Changes in Stockholders' Equity
+
+     o    Consolidated Statements of Cash Flows
+
+     o    Notes to Consolidated Financial Statements
+
+     o    Report of Independent Registered Public Accounting Firm
+
+(a)(2) Financial Statement Schedules
+
+     o    Schedule 2--Valuation and Qualifying Accounts
+
+     o    Schedules other than those listed above have been omitted because of
+          the absence of conditions under which they are required or because the
+          required information is presented in the Financial Statements or Notes
+          thereto.
+
+(a)(3) The exhibits listed under Item 15(b) are filed or incorporated by
+       reference herein.
+
+(b) Exhibits.
+
+The exhibits listed below are filed as part of this Annual Report on form 10-K.
+Certain of the exhibits, as indicated, have been previously filed and are
+incorporated herein by reference.
+
+------------- ------------------------------------------------------------------
+Exhibit No.                   Identification of Exhibit
+------------- ------------------------------------------------------------------
+3(i)          Certificate of Organization of the Company (1)
+------------- ------------------------------------------------------------------
+              Amendment to Certificate of Organization of Registrant dated
+              September 24, 1968 (1)
+------------- ------------------------------------------------------------------
+              Amendment to Certificate of Incorporation of the Company dated
+              April 27, 1971 (2)
+------------- ------------------------------------------------------------------
+              Amendment to Certificate of Incorporation of the Company dated
+              June 29, 1971 (2)
+------------- ------------------------------------------------------------------
+3(ii)         Amendment to the Company's Bylaws (10)
+------------- ------------------------------------------------------------------
+4             Specimen of Common Stock certificate (2)
+------------- ------------------------------------------------------------------
+10.1          Non-Salaried Director Stock Option Plan dated April 22, 1996* (3)
+------------- ------------------------------------------------------------------
+10.1(a)       Amendment No. 1 to the Non-Salaried Director Stock Option Plan*(4)
+------------- ------------------------------------------------------------------
+
+                                      (40)
+<PAGE>
+
+------------- ------------------------------------------------------------------
+10.1(b)       Amendment No. 2 to the Non-Salaried Director Stock Option Plan*(5)
+------------- ------------------------------------------------------------------
+10.2          1992 Amended and Restated Stock Option Plan* (6)
+------------- ------------------------------------------------------------------
+10.2(a)       Amendment No. 1 to the Amended and Restated Stock Option Plan* (7)
+------------- ------------------------------------------------------------------
+10.2(b)       Amendment No. 2 to the Amended and Restated Stock Option Plan* (8)
+------------- ------------------------------------------------------------------
+10.2(c)       Amendment No. 3 to the Amended and Restated Stock Option Plan* (9)
+------------- ------------------------------------------------------------------
+10.2(d)       Amendment No. 4 to the Amended and Restated Stock Option Plan* (9)
+------------- ------------------------------------------------------------------
+10.3          Acme United Employee Stock Option Plan dated February 26, 2002*
+              as amended (11)
+------------- ------------------------------------------------------------------
+10.4          Severance Pay Plan dated September 28, 2004*
+------------- ------------------------------------------------------------------
+10.5          Salary Continuation Plan dated September 28, 2004*
+------------- ------------------------------------------------------------------
+10.6          2005 Non-Salaried Director Stock Option Plan (12)
+------------- ------------------------------------------------------------------
+10.7          Second Modification to Revolving Promissory Note and Revolving
+              Credit and Security Agreement, and Reaffirmation of Guaranty
+------------- ------------------------------------------------------------------
+21            Subsidiaries of the Registrant
+------------- ------------------------------------------------------------------
+23            Consent of Ernst & Young, Independent Auditors
+------------- ------------------------------------------------------------------
+31.1          Certification of Walter Johnsen pursuant to Rule 13a-14(a) and
+              15d-14(a) and Section 302 of the Sarbanes-Oxley Act of 2002
+------------- ------------------------------------------------------------------
+31.2          Certification of Paul Driscoll pursuant to Rule 13a-14(a) and
+              15d-14(a) and Section 302 of the Sarbanes-Oxley Act of 2002
+------------- ------------------------------------------------------------------
+32.1          Certification of Walter Johnsen pursuant to Section 906 of the
+              Sarbanes-Oxley Act of 2002
+------------- ------------------------------------------------------------------
+32.2          Certification of Paul Driscoll pursuant to Section 906 of the
+              Sarbanes-Oxley Act of 2002
+------------- ------------------------------------------------------------------
+
+     *    Indicates a management contract or a compensatory plan or arrangement
+
+     (1)  Previously filed in S-1 Registration Statement No. 230682 filed with
+          the Commission on November 7, 1968 and amended by Amendment No. 1 on
+          December 31, 1968 and by Amendment No. 2 on January 31, 1969.
+
+     (2)  Previously filed as an exhibit to the Company's Form 10-K filed in
+          1971.
+
+     (3)  Previously filed in the Company's Form S-8 Registration Statement No.
+          333-26739 filed with the Commission on May 9, 1997.
+
+     (4)  Previously filed in the Company's Form S-8 Registration Statement No.
+          333-84505 filed with the Commission on August 4, 1999.
+
+     (5)  Previously filed in the Company's Form S-8 Registration Statement No.
+          333-70348 filed with the Commission on September 21, 2000.
+
+     (6)  Previously filed as an exhibit to the Company's Proxy Statement filed
+          on March 29, 1996.
+
+     (7)  Previously filed in the Company's Form S-8 Registration Statement No.
+          333-26737 filed with the Commission on May 9, 1997.
+
+                                      (41)
+<PAGE>
+
+     (8)  Previously filed in the Company's Form S-8 Registration Statement No.
+          333-84499 filed with the Commission on August 4, 1999.
+
+     (9)  Previously filed in the Company's Form S-8 Registration Statement No.
+          333-70346 filed with the Commission on September 27, 2001.
+
+     (10) Previously filed in the Company's form 8-K filed on February 28, 2006.
+
+     (11) Previously filed in the Company's Proxy statement for the 2005 Annual
+          Meeting of Shareholders.
+
+     (12) Previously filed in the Company's Form S-8 Registration Statement No.
+          333-126478 filed with the Commission on July 8, 2005.
+
+
+<TABLE>
+
+SCHEDULE II
+Acme United Corporation and Subsidiaries
+VALUATION AND QUALIFYING ACCOUNTS
+For the years ended December 31, 2005, 2004 and 2003
+<CAPTION>
+                                                           Balance at     Charged to        Deductions    Balance at
+                                                          Beginning of    Costs and          and Other      End of
+                                                             Period        Expenses         Adjustments     Period
+--------------------------------------------------------------------------------------------------------------------
+<S>                                                       <C>             <C>               <C>         <C>
+2005
+Allowance for doubtful accounts                           $   210,914     $ (60,971)        $  13,893   $   136,050
+Allowance for inventory obsolescence                          620,538       218,269           385,438       453,369
+Deferred income tax asset valuation allowance               1,335,907        79,494                 -     1,415,401
+--------------------------------------------------------------------------------------------------------------------
+2004
+Allowance for doubtful accounts                           $   199,102     $ 123,809         $ 111,997   $   210,914
+Allowance for inventory obsolescence                          374,665       425,127           179,253       620,538
+Deferred income tax asset valuation allowance               1,139,875       196,032                 -     1,335,907
+--------------------------------------------------------------------------------------------------------------------
+2003
+Allowance for doubtful accounts                           $   205,213     $  61,924         $  68,035   $   199,102
+Allowance for inventory obsolescence                          407,881       273,447           306,663       374,665
+Deferred income tax asset valuation allowance               1,130,777         9,098                 -     1,139,875
+--------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+                                      (42)
+<PAGE>
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized, on March 10, 2006.
+
+
+ACME UNITED CORPORATION
+(Registrant)
+
+Signatures                             Titles
+
+/s/ Walter C. Johnsen
+--------------------------
+Walter C. Johnsen                      President, Chief Executive Officer
+                                       and Director
+
+/s/ Gary D. Penisten
+--------------------------
+Gary D. Penisten                       Chairman of the Board and Director
+
+/s/ Brian S. Olschan
+--------------------------
+Brian S. Olschan                       Executive Vice President, Chief
+                                       Operating Officer and Director
+
+/s/ Paul G. Driscoll
+--------------------------
+Paul G. Driscoll                       Vice President, Chief Financial Officer,
+                                       Secretary and Treasurer
+
+/s/ George R. Dunbar
+--------------------------
+George R. Dunbar                       Director
+
+/s/ Richmond Y. Holden, Jr.
+--------------------------
+Richmond Y. Holden, Jr.                Director
+
+/s/ Wayne R. Moore
+--------------------------
+Wayne R. Moore                         Director
+
+/s/ Susan H. Murphy
+--------------------------
+Susan H. Murphy                        Director
+
+/s/ Stevenson E. Ward III
+--------------------------
+Stevenson E. Ward III                  Director
+
+                                      (43)
+</TEXT>
+</DOCUMENT>

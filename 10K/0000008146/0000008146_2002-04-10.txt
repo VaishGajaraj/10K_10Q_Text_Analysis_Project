@@ -1,0 +1,2392 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.txt
+<DESCRIPTION>FORM 10-K FOR 01/31/2002
+<TEXT>
+<PAGE>
+
+================================================================================
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+
+                               -----------------
+
+                                   FORM 10-K
+
+                               -----------------
+
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934]
+For the fiscal year ended January 31, 2002
+
+                                      OR
+
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934]
+For the transition period from_ to _
+
+
+                        Commission file number 0-13200
+
+                               -----------------
+
+
+                                Astro-Med, Inc.
+            (Exact name of registrant as specified in its charter)
+
+
+<TABLE>
+<S>                                        <C>
+              Rhode Island                              05-0318215
+    (State or other jurisdiction of        (I.R.S. Employer Identification No.)
+     incorporation or organization)
+
+       600 East Greenwich Avenue,                         02893
+       West Warwick, Rhode Island                       (Zip Code)
+(Address of principal executive offices)
+</TABLE>
+
+      Registrant's telephone number, including area code: (401) 828-4000
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+<TABLE>
+<CAPTION>
+                                         Name of each exchange
+                 Title of each class      on which registered
+             -   ------------------- -   --------------------- -
+             <S> <C>                 <C> <C>                   <C>
+                        None                     None
+</TABLE>
+
+          Securities registered pursuant to Section 12(g) of the Act:
+                         Common Stock, $.05 Par Value
+                               (Title of Class)
+
+   Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  [X]
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]   No [_]
+
+         State the aggregate market value of the voting stock held by
+            non-affiliates of the registrant as of March 22, 2002.
+                  Common Stock, $0.05 Par Value: $11,190,674
+
+
+     Indicate the number of shares outstanding (excluding treasury shares)
+     of each of the issuer's classes of common stock as of March 22, 2002.
+                Common Stock, $0.05 Par Value: 4,267,373 shares
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+   Portions of the Company's definitive proxy statement for the 2002 annual
+meeting of shareholders are incorporated by reference into Part III.
+
+================================================================================
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+                            FORM 10-K ANNUAL REPORT
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                                                Page
+                                                                                                -----
+<S>       <C>                                                                                   <C>
+PART I
+ Item 1.  Business............................................................................. 5-10
+ Item 2.  Properties...........................................................................  10
+ Item 3.  Legal Proceedings....................................................................  10
+ Item 4.  Submission of Matters to a Vote of Security Holders..................................  10
+
+PART II
+ Item 5.  Market for the Registrant's Common Stock and Related Stockholder Matters.............  11
+ Item 6.  Selected Financial Data..............................................................  12
+ Item 7.  Management's Discussion and Analysis of Financial Condition and Results of Operations 12-16
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk...........................  16
+ Item 8.  Financial Statements and Supplementary Data..........................................  16
+ Item 9.  Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.  16
+
+PART III
+ Item 10. Directors and Executive Officers of the Registrant................................... 17-18
+ Item 11. Executive Compensation...............................................................  18
+ Item 12. Security Ownership of Certain Beneficial Owners and Management.......................  18
+ Item 13. Certain Relationships and Related Transactions.......................................  18
+
+PART IV
+ Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K...................... 18-20
+</TABLE>
+
+4
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+                                    PART I
+
+Item 1. Business
+
+                                    General
+
+   Astro-Med, Inc., (the Company) is a diversified enterprise that is
+strategically organized into three product groups: Test & Measurement (T&M),
+QuickLabel(R) Systems (QLS), and Grass-Telefactor (G-T). T&M develops and
+manufactures data acquisition instruments that serve the test and measurement
+market. QLS develops and manufactures digital printers and consumable products
+that serve the product identification market. Grass-Telefactor develops and
+manufactures clinical neurophysiology (EEG and epilepsy monitoring),
+polysomnography (PSG - Sleep monitoring), biomedical research instrumentation
+and supplies that serve the life sciences market. The Company's products are
+distributed both in North America and internationally through its direct sales
+force and authorized distributors and agents located in approximately forty
+countries. Approximately 28% of the Company's sales were made outside of the
+United States.
+
+   The Company and its subsidiaries and their representatives may from time to
+time make written or oral statements, including statements contained in the
+Company's filings with the Securities and Exchange Commission (SEC) and in its
+reports to shareholders, including this annual report, which constitute or
+contain "forward-looking statements" as is defined in the Private Securities
+Litigation Reform Act of 1995 or by the SEC in its rules, regulations and
+releases.
+
+   All statements, other than statements of historical facts included in this
+annual report regarding the Company's financial position and operating and
+strategic initiatives and addressing industry developments are forward-looking
+statements. Where, in any forward-looking statement, the Company or its
+management expresses an expectation or belief as to future results, such
+expectation or belief is expressed in good faith and believed to have a
+reasonable basis, but there can be no assurance that the statement of
+expectation or belief will result or be achieved or accomplished. Factors which
+could cause actual results to differ materially from those anticipated include,
+but are not limited to, general economic, financial and business conditions;
+declining demand in the test and measurement markets, especially defense and
+aerospace; competition in the specialty printer industry; ability to develop
+market acceptance of the QLS color printer products and effective design of
+customer required features; competition in the data acquisition industry;
+competition in the neurophysiology industry; the impact of changes in foreign
+currency exchange rates on the results of operations; the ability to
+successfully integrate acquisitions; the business abilities and judgment of
+personnel and changes in business strategy.
+
+                       Narrative Description of Business
+
+Products
+
+Overview
+
+   The Company develops and manufactures systems that have the ability to
+acquire electronic data, process, analyze, store and present the data in a
+variety of useable forms. The T&M data acquisition systems record scientific
+signals and print the output onto charts or electronic media. The QLS digital
+printer systems and media products create product and packaging labels and tags
+in one or many colors. The Grass-Telefactor products electronically record
+signals that reflect the physiological status of living creatures for digital
+or analog access. The Company supplies a range of products that include the
+hardware, software, and supplies to customers who are in a variety of
+industries.
+
+                                                                             5
+
+<PAGE>
+
+  T&M Products
+
+   The Company's T&M products are a comprehensive line of data recording
+instruments for the aerospace, automotive, pulp and paper, metal mill,
+transportation and manufacturing industries. These recording solutions provide
+customers with a complete record of their data, whether they are
+troubleshooting a process, performing preventative maintenance or gathering
+mission critical data. Using contemporary technologies, T&M products are
+designed to handle customers ever-changing requirements now and into the future.
+
+  Telemetry Recorders
+
+   The Everest Telemetry-Recorder Workstation is the flagship product of T&M's
+line of telemetry recorders. Designed for the unique requirements of the
+aerospace and defense industries, the Everest provides engineers with vital
+data on test products during pre-flight checkout and flight tests. Intended to
+seamlessly integrate into off-the-shelf telemetry systems, the Everest is used
+to test fighter planes, missiles, helicopters, satellites and commercial
+aircraft.
+
+   During flight test, the Everest provides engineers with real-time access to
+data to allow them to make split second decisions and prevent costly retesting.
+After flight test, data from the Everest is available in both paper and digital
+formats, allowing engineers to analyze data faster than ever before.
+
+  Dash Series Data Acquisition Recorders
+
+   The Company's Dash Series recorders are used as maintenance and
+troubleshooting tools for pulp and paper mills, power plants, transportation
+test centers, steel mills, automotive R&D centers and manufacturing plants.
+With downtime costing these facilities tens of thousands of dollars per day,
+the Dash Series data acquisition recorders can pay for themselves by preventing
+a single outage. Completely self-contained in rugged aluminum cases, the Dash
+Series data acquisition recorders are ideally suited for use in harsh
+environments where computer-based or other systems will not perform.
+
+   Six data acquisition recorders form the Dash series line: the Dash 2, Dash
+4u, Dash 8n, Dash 8u, Dash 16u and Dash 18. Priced from $5,000 to $23,000, the
+company offers a product for any budget. The Dash 18 is the latest portable
+data acquisition recorder to be introduced. With such leading edge technology
+as a touchscreen display, waveform, audio and video data input, integral Web
+browser and network interface, the Dash 18 is an important troubleshooting tool
+for virtually any environment.
+
+  QLS Products
+
+   The Company's QLS product line is composed of an array of high-technology
+digital color label printers, automatic labelers, and print and apply systems,
+as well as labeling software and consumables. Innovative QLS products continue
+to change the way companies do business by providing just-in-time, in-plant
+label production capabilities and labeling automation through the Company's
+advanced digital thermal transfer printing technologies. QLS's packaging,
+barcoding and labeling solutions are used throughout the world.
+
+  Digital Color Label Printers
+
+   QLS digital color labels printers are designed to print multiple colors,
+text and barcodes in a single pass on labels, tags and tickets of all kinds.
+Using Astro-Med's proprietary MicroCell(TM) color halftoning technology, these
+printers create near lithographic quality labels that can be generated on and
+printed directly from a customer's personal computer, mainframe or AS/400
+midrange computing platform.
+
+   In January of 2002, the Company introduced a new and advanced four color
+digital label printer, the QLS-4100X. The QLS-4100X, priced at $17,995, is the
+Company's fourth-generation process color printer, which
+
+6
+
+<PAGE>
+
+incorporates new features deriving from the Company's research and development,
+thermal printing experience, and feedback from users around the world. With the
+Company's patented Ribbon Ration(TM) technology for economizing thermal
+transfer ribbon, enhanced mechanical design for precise color registration,
+robust performance for long runs, and more user-friendly operation, the
+QLS-4100X is QLS's flagship.
+
+   QLS's digital color label printer offering also includes the following
+models: the QLS-2000, QLS-2001, QLS-3000, QLS-3001. With either two or three
+print stations, the QLS-2000 and QLS-3000 printers represent the Company's
+value line of color printers, providing color-labeling solutions for general
+product identification applications at price points of $6,550 and $10,995
+respectively. The QLS-2001 and QLS-3001 models, priced at $6,995 and $9,995,
+are used in specialty and niche applications, including the printing of Tyvek
+pouches used in the packaging of surgical instruments. These models also
+comprise the core of QLS's Apparel Printing Systems, designed to print apparel
+care tags, hang tags and price tickets in manufacturing environments, retail
+applications, and service bureau operations worldwide.
+
+   Marketing of the QLS printers expanded in fiscal year-end 2002 to target
+applications such as the private labeling of foods and beverages, chemicals and
+cleaning supplies, pharmaceutical and medical products, personal care products,
+and others.
+
+  Barcode Label Printers
+
+   QLS has a new family of barcode label printers: the Pronto series. This new
+line of low-cost, feature-rich barcode printers includes the Pronto 442 at
+$757, Pronto 472 at $995, both with 203 dpi resolution; the high-resolution 400
+dpi Pronto 474 at $2,195; and the 8.6" wide Pronto 843 at $2,195. These
+competitively-priced Pronto models mark the Company's re-entry into mainline
+barcode printing applications and serve as important vehicles for the sale of
+QLS's thermal transfer ribbon and label products.
+
+   QLS's barcode printer line also includes the robust, industrial monochrome
+barcode printer, the Top Hand(TM) QLS-500 printer. With a rugged design for
+harsh environment applications, the $2,995 Top Hand printer produces labels up
+to 5 inches wide at speeds of up to 10 inches per second.
+
+  QuickLabel Software
+
+   An important component of the Company's digital printing systems is the
+software that produces the label formatting and the printing functionality
+required for successful in-plant printing. This software, marketed under the
+brand name Color QuickLabel(TM), allows customers to tap the true power
+inherent in the QuickLabel printers. CQL99, a 32-bit Windows(R)-based label
+creation and printing suite, supports high-color imaging, MicroCell(TM) image
+halftoning, full network printing, and multiple database compatibility. CQL99
+software further advances integration of the QuickLabel Systems printers within
+today's high-technology production environments.
+
+  QuickLabel Automatic Label Applicators and Print & Apply Systems
+
+   To complement the QLS printers, the Company manufactures a complete line of
+automatic labelers that can apply labels to all types of products, from cartons
+to primary product packaging to cylindrical containers. Applicator models
+include the AD-2800 and AD-2600 roll-on label applicators. In Fiscal 2001, the
+Company introduced a new high-speed bottle labeling system utilizing its
+AD-2800 label applicator. The CPA-350, the Company's ruggedized print and apply
+system, offers companies the ability to print a label on-demand and apply it to
+a product as it passes on a conveyor. The CPA-350 can be configured with air
+tamp, air blast, dual apply or corner wrap applicator heads to apply a label to
+two sides of the same carton or pallet.
+
+  Consumables: Thermal Transfer Ribbon and Labels
+
+   Rounding out the QLS products is a wide array of printer consumables
+including thermal transfer ribbons in many colors and formulations, and both
+paper and synthetic labels and tags. A full line of high quality materials,
+
+                                                                             7
+
+<PAGE>
+
+developed and qualified by the Company, is available to guarantee a finished
+label that meets almost any requirements from single-use paper labels to
+garment labels, to outdoor signage and product labels.
+
+  Grass-Telefactor Products
+
+   The Grass-Telefactor product group offers a range of instrumentation and
+supplies for clinical and biomedical research applications.
+
+   Grass-Telefactor enjoys a reputation built on decades of innovative
+technology and thoughtful design. The clinical product line includes in-lab or
+in-hospital integrated systems for clinical EEG, epilepsy diagnosis and
+surgery, critical care and intraoperative neuromonitoring and features
+networking, database and report generation capabilities in addition to powerful
+data acquisitions and analysis tools. The clinical product line also includes
+portable laptop-based systems for EEG or PSG (Polysomnography) systems that
+allow patients to be recorded in out-of-lab settings. Grass-Telefactor utilizes
+a Windows(R)-based product line which includes the Beehive(TM) Millennium used
+for long term epilepsy monitoring, the Aurora(TM) digital EEG system and the
+recently introduced Aurora(TM) digital PSG system. The products and services
+offered by Grass-Telefactor are used worldwide by universities, medical
+centers, and companies engaged in a variety of clinical and research activities.
+
+   On the research side, Grass-Telefactor offers hardware and software for data
+acquisition and analysis of signals in biomedical research. The research
+product line builds on a strong foundation with world-renowned Grass
+amplifiers, such as the 15RX modular, computer-controlled biomedical amplifier
+system.
+
+   Grass-Telefactor offers a complete line of clinical and research supplies,
+including stimulators, transducers, electrodes and consumables.The supplies and
+accessories product line now uses e-commerce to reach an even wider market
+through the Grass-Telefactor Online Store, www.grass-telefactor.com.
+
+Technology
+
+   The core technologies of the Company relate to (1) acquiring data, (2)
+conditioning the data, (3) displaying the data on hard copy, monitor, or
+electronic storage media, and finally (4) analyzing the data. All three-product
+groups of the Company--T&M, QLS and G-T use these technologies.
+
+   These core technologies are constantly being developed to the level of
+cutting edge performance and enable the Company to lead the competition with
+innovative industry-level products.
+
+Patents and Copyrights
+
+   The Company holds a number of product patents in the United States and in
+foreign countries. It has filed applications for other patents that are
+pending. The Company has patents covering its T&M recording products as well as
+several patents for its QLS dual sided label printers and four-color label
+printers.In addition, the Company has two other patents pending on its
+multi-color printing technology. The Company considers its patents to be
+important but does not believe that its business is materially dependent on
+them. The Company copyrights its extensive software and registers its
+trademarks.
+
+Manufacturing and Supplies
+
+   The Company designs its products and manufactures many of the component
+parts. The balance of the parts is produced to the Company's specifications by
+suppliers. Raw materials required for the manufacture of products, including
+parts produced to the Company's specifications, are generally available from
+numerous suppliers.
+
+Product Development
+
+   The Company has maintained an active program of product research and
+development since its inception. During fiscal 2002, 2001 and 2000, the Company
+incurred costs of $3.7 million, $4.3 million, and $3.4 million,
+
+8
+
+<PAGE>
+
+respectively, on Company-sponsored product development. The Company is
+committed to product development as a requisite to its growth and expects to
+continue its focus on research and development efforts in fiscal 2003.
+
+Marketing and Competition
+
+   The Company competes worldwide in many markets including clinical and
+research medicine, aerospace, automotive and general manufacturing. The Company
+retains a competitive position in its respective markets by virtue of
+proprietary technology, product reputation, delivery, technical assistance and
+service to customers.
+
+   The products of the Company are marketed worldwide by advertising and
+promotion using major national and international trade journals, scientific
+meetings and trade shows, direct mailing campaigns, and the internet.
+
+   The products are sold by direct field sales persons as well as independent
+dealers and representatives. In the United States, the Company has twenty-two
+direct field sales people located in major cities from coast to coast
+specializing in either T&M's Recorders and Data Acquisitions systems, QLS's
+Color Label printers and media systems, or G-T Neurological Instrumentation
+products. Additionally, the Company has direct field sales and service centers
+in Canada, England, France, Germany, Italy, and Holland. In the remaining parts
+of the world, the Company utlitizes approximately 80 independent dealers and
+representatives selling and marketing its products in 40 countries. In fiscal
+2002, 28% of the Company's revenues were from international sales.
+
+   The Company has a number of competitors in each of the three products groups
+and markets that it serves. In the T&M area, the Company feels that it leads
+the field in Data Acquisition Recorders. It competes with the Gould Instrument
+Division of Nicolet, a Thermo Electron company and Western Graphtec, the US
+subsidiary of Graphtec, a Japanese company.
+
+   In the Color Label Printer product group, the Company feels it leads the
+world in color printing using the thermal transfer printing technology. The
+Company introduced the very first thermal transfer color printers late in 1995
+and to this date faces only one competitor, TEC.
+
+   The Grass-Telefactor products of the Company are devoted to clinical
+applications in EEG, Polysomnography (PSG), and Long Term Epilepsy Monitoring
+(LTM). There are about fourteen companies that compete in one or more of the
+three modalities (EEG, PSG, LTM) but none are the clear leader. The Company
+feels it offers superior products based upon its long history and pioneering
+the field since 1935. The Company, unlike most of its competitors, designs,
+manufactures, and produces complete systems including transducers, amplifiers,
+sensors, and Windows based application software. Additionally, the Company
+produces a range of life science products for the research market. Many of the
+latter products eventually find their way into clinical applications.
+
+   No single customer accounted for 10% of the Company's net sales in any of
+the last three fiscal years. The Company's products were sold to approximately
+4,100 customers.
+
+International Sales
+
+   The Company had a Foreign Sales Corporation subsidiary that qualified for
+certain tax benefits on its exports. Effective December 31, 2001, the Company
+dissolved this subsidiary as a result of rule changes made by the World Trade
+Organization and tax authorities.
+
+   In fiscal 2002, 2001 and 2000, net sales to customers in various geographic
+areas outside the United States, primarily in Canada and Western Europe,
+amounted to $13.8 million, $13.9 million, and $12.5 million, respectively.
+
+Order Backlog
+
+   The backlog fluctuates regularly. It consists of a blend of orders for end
+user customers as well as original equipment manufacturer customers.
+Manufacturing is geared to forecasted demands and applies a rapid turn
+
+                                                                             9
+
+<PAGE>
+
+cycle to meet customer expectations. Accordingly, the amount of order backlog
+does not indicate future sales trends and the Company does not normally carry
+any material backlog.
+
+Other Information
+
+   The Company's business is not seasonal in nature.
+
+   Most of the Company's products are generally warranted for one year against
+defects in materials or workmanship. Warranty expenses have generally averaged
+approximately $200,000 a year for the Company's last five fiscal years.
+
+   As of March 22, 2002 the Company employed approximately 370 persons. The
+Company is generally able to satisfy its employment requirements. No employees
+are represented by a union. The Company believes that employee relations are
+good.
+
+Item 2. Properties
+
+   The following table sets forth information regarding the Company's principal
+owned properties, all of which are included in the consolidated balance sheet
+appearing elsewhere in this report.
+
+<TABLE>
+<CAPTION>
+                        Approximate
+                          Square
+       Location           Footage              Principal Use
+       --------         ----------- ------------------------------------
+       <S>              <C>         <C>
+       West Warwick, RI   116,000   Corporate headquarters, research and
+                                    development, manufacturing
+       Braintree, MA...    91,000   Manufacturing
+       Slough, England.     1,700   Sales and service
+</TABLE>
+
+   The Company also leases facilities in eight locations. The following
+information pertains to each location:
+
+<TABLE>
+<CAPTION>
+        Location          Approximate Square Footage                Principal Use
+        --------          --------------------------                -------------
+<C>                       <C>                        <S>
+West Conshohocken, PA....           10,000           Research & development and sales and service
+Longueuil, Quebec, Canada            3,800           Sales and service
+Rodgau, Germany..........            3,014           Manufacturing, sales and service
+Trappes, France..........            2,164           Sales and service
+Zwolle, Netherlands......            1,300           Sales and service
+Schaumburg, IL...........            1,131           Sales and service
+Costa Mesa, CA...........              980           Sales and service
+Milano, Italy............              753           Sales and service
+</TABLE>
+
+   The Company believes its facilities are well maintained, in good operating
+condition and generally adequate to meet its needs for the foreseeable future.
+
+Item 3. Legal Proceedings
+
+   There are no pending or threatened legal proceedings against the Company
+believed to be material to the financial position or results of operations of
+the Company.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+   No matters were submitted to a vote of the Company's security holders,
+through solicitation of proxies or otherwise, during the last quarter of the
+period covered by this report.
+
+10
+
+<PAGE>
+
+                                    PART II
+
+Item 5. Market for the Registrant's Common Stock and Related Stockholder Matters
+
+   The Company's common stock trades on The NASDAQ Stock Market under the
+symbol ALOT. The following table sets forth dividend data and the range of high
+and low closing prices, as furnished by NASDAQ, for the periods indicated.
+
+<TABLE>
+<CAPTION>
+                                                     Dividends
+                 Years Ended January 31, High   Low  Per Share
+                 ----------------------- ----- ----- ---------
+                 <S>                     <C>   <C>   <C>
+                    2002
+                      First Quarter..... $5.00 $3.87   $0.04
+                     Second Quarter..... $4.94 $4.10   $0.04
+                      Third Quarter..... $4.40 $3.40   $0.04
+                     Fourth Quarter..... $4.48 $3.50   $0.04
+                    2001
+                      First Quarter..... $7.50 $5.19   $0.04
+                     Second Quarter..... $6.63 $5.00   $0.04
+                      Third Quarter..... $6.00 $4.75   $0.04
+                     Fourth Quarter..... $4.93 $3.09   $0.04
+</TABLE>
+
+   The Company had approximately 400 shareholders of record on March 22, 2002,
+which does not reflect shareholders with beneficial ownership in shares held in
+nominee name.
+
+Shareholder Services
+
+   Shareholders of Astro-Med, Inc. who desire information about the Company are
+invited to contact the Investor Relations Department, Astro-Med, Inc., 600 East
+Greenwich Avenue, West Warwick, RI 02893 or call (401) 828-4000. Visit our
+Investor Relations website at www.astro-med.com.
+
+Dividend Policy
+
+   The Company began a program of paying quarterly cash dividends in the second
+quarter of fiscal 1992. Previously, no cash dividends had been declared or paid
+by the Company since inception. The Company anticipates that it will continue
+to pay cash dividends on a quarterly basis.
+
+                                                                             11
+
+<PAGE>
+
+Item 6. Selected Financial Data
+
+               (Dollars in Thousands, Except Per Share Amounts)
+
+<TABLE>
+<CAPTION>
+                                               2002     2001    2000    1999    1998
+                                              -------  ------- ------- ------- -------
+<S>                                           <C>      <C>     <C>     <C>     <C>
+Results of Operations:
+   Net Sales................................. $49,391  $51,688 $46,143 $42,166 $44,377
+   Net Income (Loss)......................... $  (233) $   302 $   937 $   496 $ 1,041
+   Net Income (Loss) per Common Share--Basic
+     and Diluted............................. $ (0.05) $  0.07 $  0.21 $  0.11 $  0.21
+   Dividends Declared per Common Share....... $  0.16  $  0.16 $  0.16 $  0.16 $  0.16
+Financial Condition:
+   Working Capital........................... $21,455  $21,908 $22,453 $25,507 $27,111
+   Total Assets.............................. $38,404  $41,059 $45,385 $41,754 $42,814
+   Long-Term Debt, less Current Maturities... $    --  $    25 $    72 $    17 $   228
+</TABLE>
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operations
+
+Results of Operations
+
+Fiscal 2002 compared to Fiscal 2001
+
+   The Company's sales in fiscal 2002 decreased $2.3 million to $49.4 million,
+a 4.7% decrease over fiscal 2001 sales of $51.7 million. Domestic sales
+declined $2.2 million to $35.6 million a 6.6% decrease over fiscal 2001, while
+international sales declined less than $0.1 million to $13.8 million. With the
+decline in sales, the Company incurred a net loss in fiscal 2002 of $0.2
+million versus net income of $0.3 million in fiscal 2001. Net loss per share on
+a diluted basis was $0.05 in fiscal 2002 as compared with $0.07 net income per
+diluted share in fiscal 2001.
+
+   Gross profit decreased 8.2% to $19.1 million in fiscal 2002 from $20.8
+million in fiscal 2001. The Company's gross profit margin declined to 38.7%
+from 40.2%. The decline in gross profit can be attributed primarily to the
+decline in sales, lower margins on T&M's new products and lower margins on QLS
+products.
+
+   Selling, general and administrative spending (SG&A) declined 2.4% to $16.1
+million from $16.5 million.The Research & Development (R&D) expenses declined
+to $3.7 million in fiscal 2002 from $4.3 million in fiscal 2001. R&D as a
+percentage of sales declined to 7.6% in this fiscal year as compared 8.2% in
+the prior year. The decline in both the SG&A and R&D expenses can be attributed
+to the workforce reductions undertaken over the past two years and certain
+temporary lay-offs at the end of fiscal 2002.
+
+   Interest and dividend income declined in fiscal 2002 to $248,000 from
+$458,000 in fiscal 2001. The decrease is due to lower investment levels and
+lower yields on investments. Other income for fiscal 2002 was $192,000 as
+compared to last fiscal year's expense of $126,000. The favorable $318,000
+change in other income/expense, net is attributed primarily to the following; a
+$165,000 gain on the settlement of litigation, $68,000 of grant income relating
+to research performed for the National Institute of Health, and a $94,000
+improvement in foreign exchange losses. In the prior year, the net foreign
+exchange loss was $116,000 as compared to a net foreign exchange loss for the
+current year of $22,000.
+
+12
+
+<PAGE>
+
+   The Company has redefined its reporting segments into segments that mirror
+the Company's sales product groups (i.e., T&M, QLS and G-T). As a result, the
+Company has restated its prior years' segment data to present all periods on a
+comparable basis. The company evaluates segment performance based on the
+operating segment's profit before corporate and financial administration
+expenses.
+
+   T&M's sales decreased to $12.1 million in fiscal 2002 from $13.9 million, a
+12.9% decrease from the previous year. Both T&M's domestic and international
+sales were lower as a result of the delays in the introduction of the new Dash
+18 recorder. The decline in T&M sales can also be attributed to the 34%
+decrease in international sales. T&M's segment profit margin declined to 5.6%
+in fiscal 2002 from 11.8% in the previous year. The decline in T&M's margin is
+attributed to higher material costs and manufacturing inefficiencies associated
+with its new state-of-the-art products.
+
+   QLS's sales increased to $20.9 million in fiscal 2002 from $19.9 million, a
+5.0% increase over the previous year. Fiscal 2002 domestic sales were
+essentially flat with the previous year and fiscal 2002 international sales
+were 17.8% higher than the previous year. QLS's fiscal 2002 segment profit
+margin declined to 4.1% down from 6.5% in the previous year. The decline in
+margin is attributed to higher international sales with lower margins.
+
+   G-T's sales decreased to $16.4 million in fiscal 2002 from $17.9 million, a
+8.4% decrease over the previous year. The decline in G-T's sales is attributed
+to the lower domestic clinical sales resulting from the delay in the
+introduction of the new PSG (sleep) software application and high turnover in
+the clinical sales force. The G-T segment operating margin improved to 5.0% in
+fiscal 2002 from 3.0% in the previous year. The margin improvement can be
+attributed to the workforce reduction undertaken over the last two years.
+
+   Changes in the effective income tax rate from year to year are explained in
+Note 6 of Notes to Consolidated Financial Statements included elsewhere herein.
+
+Fiscal 2001 compared to Fiscal 2000
+
+   The Company's sales in fiscal 2001 increased $5.6 million to $51.7 million,
+a 12.1% increase over fiscal 2000 sales of $46.1 million. The $5.6 million
+sales increase is due primarily to the sales growth for the QLS and G-T product
+lines as well as the incremental sales derived from the Telefactor acquisition.
+The Company's net income in fiscal 2001 was $0.3 million versus net income of
+$0.9 million in fiscal 2000. Net income per share on a diluted basis was $0.07
+in fiscal 2001 as compared with $0.21 net income per diluted share in fiscal
+2000.
+
+   Gross profit increased 10.1% to $20.8 million in fiscal 2001 from $18.9
+million in fiscal 2000. The Company's gross profit margin declined to 40.2%
+from 40.9% primarily as a result of the Telefactor acquisition and lower
+margins on T&M products. In the third quarter of fiscal 2001, the Telefactor
+manufacturing facility in Pennsylvania was closed and the manufacturing was
+transferred to the Grass manufacturing facility in Braintree, Massachusetts.
+
+   Selling, general and administrative spending rose 12.2% to $16.5 million
+from $14.7 million. The increase in selling, general and administrative
+expenses is attributable to the Telefactor acquisition and the increase in use
+of outside services. Selling, general and administrative expenses as a percent
+of sales remained flat at 32% fiscal year 2001 as compared to the prior year.
+
+   Research & development expenses rose to $4.3 million in fiscal 2001 from
+$3.4 million in fiscal 2000. The increase is a result of the additions of
+engineering personnel from Telefactor as well as salaries and product
+development related research projects. Research & development as a percentage
+of sales rose to 8.2% in this fiscal year as compared to 7.3% in the prior year.
+
+   Interest and dividend income declined in fiscal 2001 to $458,000 from
+$666,000 in fiscal 2000. The decrease is due to lower investment levels
+resulting from the Telefactor acquisition and Company's stock buyback program.
+Other expense for fiscal 2001 was $126,000, down from last fiscal year's
+expense of $190,000. These expenses consist primarily of net losses on foreign
+currency exchange with our European branches. These foreign currency exchange
+losses declined as the U.S. dollar weakened.
+
+                                                                             13
+
+<PAGE>
+
+   T&M's sales declined to $13.9 million in fiscal year 2001, down 6.1% from
+$14.8 million from the previous year. T&M's sales declined as a result of the
+new Everest Telemetry Recorder Workstation product taking longer than
+anticipated to gain acceptance in the marketplace. T&M's segment operating
+margin declined to 11.8% in fiscal 2001 from 13.5% the previous year. The
+decline in T&M's margin is attributed to higher material costs and
+manufacturing inefficiencies associated with the new Everest.
+
+   QLS's sales increased to $19.9 million in fiscal year 2001, up 11.2% from
+$17.9 million in the prior year. QLS's segment operating margin improved to
+6.4% from 3.8% in the prior year as a result of the overall increase in sales
+volume and a higher level of sales to original equipment manufacturers which
+generally yields higher margins.
+
+   G-T's sales increased to $17.9 million in fiscal year 2001, up 33.6% from
+$13.4 million in the prior year. Excluding the impact of Telefactor sales,
+Grass sales increased 9.0%. This sales growth is attributable primarily to the
+EEG and PSG products in the high growth sleep monitoring device market. G-T's
+segment operating profit margin declined to 3.0% in fiscal 2001 from 10.1% in
+fiscal 2000 as a result of additional costs incurred with the Telefactor
+acquisition.
+
+   Changes in the effective income tax rate from year to year are explained in
+Note 6 of Notes to Consolidated Financial Statements included elsewhere herein.
+
+Liquidity and Capital Resources
+
+   The Company expects to finance its future working capital needs, capital
+expenditures and acquisition requirements through internal funds. To the extent
+the Company's capital and liquidity requirements are not satisfied internally,
+the Company may utilize a $3.5 million unsecured bank line of credit, all of
+which is currently available. Borrowings under this line of credit bear
+interest at the bank's prime rate.
+
+   The Company's Statements of Cash Flows for the three years ending January
+31, 2002, 2001 and 2000 are included on page 25. Net cash flow provided by
+operating activities was $1.3 million in fiscal 2002 versus net cash flow used
+by operating activities of $2.6 million in fiscal 2001 and net cash flow
+provided by operating activities of $4.7 million in fiscal 2000. The increase
+in net cash flow from operations in fiscal 2002 is attributed primarily to the
+lower accounts receivable and inventory balances; timing of payments to
+vendors; and the decrease in income tax payments. Working capital balances at
+January 31, 2002 were $21.5 million, a 2% reduction from the $21.9 million at
+January 31, 2001. The composition of fiscal 2002 year-end working capital
+balance includes cash and marketable securities of $5.9 million as compared to
+$6.2 million of cash and marketable securities at the end of last year. The
+Company's cash collection cycle decreased to 60 days sales outstanding from the
+prior year's 66 days.
+
+   Net cash flow provided by investing activities was $1.2 million and $0.9
+million, respectively in fiscal 2002 and 2001 versus net cash flow used by
+investing activities of $4.2 million in fiscal 2000. The significant use of
+cash in fiscal 2000 is attributed to the acquisition of Telefactor. Capital
+expenditures were $911,000, $1,204,000 and $975,000 in fiscal 2002, 2001 and
+2000, respectively.
+
+   Net cash used by financing activities was $0.7 million in fiscal 2002, $1.5
+million in fiscal 2001 and $1.4 million in fiscal 2000. This category includes
+dividends paid to shareholders and the cost of repurchasing the Company's
+common stock. Dividends paid for the three-years ended fiscal 2002, 2001, and
+2000 were $681,000, $700,000 and $709,000, respectively. The Company's annual
+dividend per share was $0.16 in all three years. In fiscal 2001 and 2000 the
+Company repurchased common stock at a cost of $807,900 and $451,000,
+respectively. Since the inception of the stock buy back program in fiscal 1997,
+the Company has repurchased 867,824 shares of its common stock. At January 31,
+2002, the Company has Board of Directors' authorization to purchase an
+additional 290,000 shares of the Company's common stock in the future.
+
+Other
+
+   The Company has a contingent obligation relating to the Telefactor
+acquisition that requires the Company to pay additional consideration to the
+sellers if certain sales amounts are achieved during the seventy-two months
+following the closing of the transaction. At January 31, 2002, no additional
+consideration was owed to the sellers.
+
+14
+
+<PAGE>
+
+   Critical accounting policies are defined as those that are reflective of
+significant judgments and uncertainties, and could potentially result in
+materially different results under different assumptions and conditions. We
+believe that our most critical accounting policies upon which our financial
+condition depends, and which involve the most complex or subjective decisions
+or assessments as follows:
+
+   Revenue Recognition: The majority of the Company's product sales are
+recorded at the time of shipment and when persuasive evidence of an arrangement
+exists, the seller's price to the buyer is fixed or determinable and
+collectibility is reasonably assured. Provisions are made at the time the
+related revenue is recognized for the cost of any installation obligations.
+When other significant obligations remain after products are delivered, revenue
+is recognized only after such obligation are fulfilled.
+
+   Warranty Claims and Bad Debts: Provisions for the estimated costs for future
+product warranty claims and bad debts are recorded in cost of sales and
+selling, general and administrative expense, respectively, at the time a sale
+is recorded. The amounts recorded are generally based upon historically derived
+percentages while also factoring in any new business conditions that might
+impact the historical analysis such as new product introduction for warranty
+and bankruptcies of particular customers for bad debts. The Company also
+periodically evaluates the adequacy of its reserves for warranty and bad debts
+recorded in its consolidated balance sheet as a further test to ensure the
+adequacy of the recorded provisions. Warranty claims can extend far into the
+future and bad debt analysis often involves subjective analysis of a particular
+customer's ability to pay. As a result, significant judgment is required by the
+Company in determining the appropriate amounts to record and such judgments may
+prove to be incorrect in the future. The Company believes that its procedures
+for estimating such amounts are reasonable and historically have not resulted
+in material adjustments in subsequent periods when the estimates are adjusted
+to the actual amounts.
+
+   Customer Returns: Customer returns are recorded on an actual basis
+throughout the year and also include an estimate at the end of each reporting
+period for future customer returns related to sales recorded prior to the end
+of the period. The Company generally estimates customer returns based upon its
+historical experience while making adjustments for any changes in business
+conditions.
+
+   Inventories: Inventories are stated at the lower of cost (first-in,
+first-out) or market. The Company records provisions to write-down obsolete and
+excess inventory at its estimated net realizable value. The process for
+evaluating obsolete and excess inventory consists of the Company analyzing the
+inventory supply on hand and estimating the net realizable value of the
+inventory based on historical experience, current business conditions and
+anticipated future sales.
+
+   Income taxes: The Company accounts for income taxes in accordance with
+Statement of Financial Accounting Standard (SFAS) No. 109, Accounting for
+Income Taxes. This SFAS requires that deferred income taxes be determined based
+on estimated future tax effects of differences between the tax and book bases
+of assets and liabilities considering the provisions of enacted tax laws. The
+Company has historically had prepaid income tax assets due principally to the
+unfavorable tax consequences of recording expenses for required book reserves
+for such things as, bad debts, inventory valuation, and warranty that cannot be
+deducted for income tax purposes until such expenses are actually paid. The
+Company's deferred tax liabilities consist primarily of favorable tax
+consequences associated with accelerated depreciation methods for tax purposes.
+The Company believes that the amounts recorded as prepaid income tax assets
+will be recoverable either through future taxable income generated by the
+Company or by the fact that the Company has deferred tax liabilities that can
+be used to offset the amount of the prepaid income tax assets; however, there
+can be no absolute assurance that all recognized prepaid income tax assets will
+be fully recovered.
+
+   Long-Lived Assets: The Company evaluates the recoverability of long-lived
+assets, including goodwill whenever events or changes in circumstances, such as
+a decline in sales, earnings or cashflow or material adverse changes in the
+business climate indicate that the carrying amount of an asset may not be
+recoverable. The Company performs the impairment review in accordance with SFAS
+No. 121 "Accounting for the Impairment of
+
+                                                                             15
+
+<PAGE>
+
+Long-Lived Assets and for Long-Lived Assets to Be Disposed Of" ("SFAS No.
+121"). Subsequent to January 31, 2002, the Company will account for acquired
+goodwill and goodwill impairment in accordance with SFAS No.141, "Business
+Combinations" and SFAS No. 142, "Goodwill and Other Intangible Assets" which
+are more fully described in Note 1 of the Notes to the Consolidated Financial
+Statements. These new pronouncements will require considerable judgment. The
+Company has not yet determined the impact (if any) of the adoption of these new
+accounting standards.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+
+Foreign Exchange Risk
+
+   The Company's financial results are affected by changes in foreign currency
+exchange rates or weak economic conditions in the foreign markets in which
+products are sold. The Company's primary currency exposures are European Common
+Currency (Euro), British Pound, and Canadian Dollar. At January 31, 2002, the
+Company's investment in foreign assets was $2.9 million. An overall unfavorable
+change in foreign exchange rates of 10% would have resulted in an additional
+net loss of approximately $26,000 and a $260,000 reduction in shareholders'
+equity as a result of the impact on the cumulative translation adjustment.
+
+   The Company utilizes foreign exchange option contracts to minimize its
+exposure associated with unfavorable changes in foreign exchanges rates on
+certain foreign denominated receivables. At January 31, 2002, the Company did
+not have open contracts.
+
+   The functional currencies of the Company's foreign affiliates are their
+respective local operating currencies, which are translated for consolidated
+financial reporting purposes into U.S. dollars.
+
+Item 8. Financial Statements and Supplementary Data
+
+   The consolidated financial statements required under this item are submitted
+as a separate section of this report on the pages indicated at Item 14(a)(1).
+The supplementary data regarding quarterly results of operations is set forth
+in the following table.
+
+                     QUARTERLY FINANCIAL DATA (Unaudited)
+
+               (Dollars in Thousands, Except Per Share Amounts)
+
+<TABLE>
+<CAPTION>
+                                                                    Quarters Ended
+                                                      -------------------------------------------
+                                                       May 5,   August 4, November 3, January 31,
+                                                        2001      2001       2001        2002
+                                                      --------- --------- ----------- -----------
+<S>                                                   <C>       <C>       <C>         <C>
+Net Sales............................................  $12,436   $12,132    $12,399     $12,424
+Gross Profit.........................................  $ 5,052   $ 4,766    $ 4,441     $ 4,847
+Net Income (Loss)....................................  $   150   $  (194)   $  (230)    $    41
+Net Income (Loss) Per Common Share--Basic and Diluted  $  0.04   $ (0.05)   $ (0.05)    $  0.01
+
+                                                      April 29, July 29,  October 28, January 31,
+                                                        2000      2000       2000        2001
+                                                      --------- --------- ----------- -----------
+Net Sales............................................  $12,530   $13,384    $11,881     $13,893
+Gross Profit.........................................  $ 5,170   $ 5,403    $ 4,233     $ 5,986
+Net Income (Loss)....................................  $   158   $   268    $  (698)    $   573
+Net Income (Loss) Per Common Share--Basic and Diluted  $  0.04   $  0.06    $ (0.16)    $  0.13
+</TABLE>
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+   None.
+
+16
+
+<PAGE>
+
+                                   PART III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+   The response to this item is incorporated by reference to the Company's
+definitive proxy statement for the 2002 annual meeting of shareholders.
+
+   The following is a list of the names and ages of, and the positions and
+offices presently held by, all executive officers of the Company. All officers
+serve at the pleasure of the Board of Directors.
+
+<TABLE>
+<CAPTION>
+        Name         Age                       Position
+        ----         ---                       --------
+ <C>                 <C> <S>
+ Albert W. Ondis.... 76  Chairman, Chief Executive Officer and Director
+ Everett V. Pizzuti. 65  President, Chief Operating Officer and Director
+ Terence J. Jones... 55  Senior Vice President
+ Joseph P. O'Connell 58  Vice President and Treasurer, Chief Financial Officer
+ John B. Chatten.... 74  President, Grass--Telefactor Product Group
+ Elias G. Deeb...... 59  Vice President--Media Manufacturing
+ Michael J. Sullivan 51  Vice President and Chief Technology Officer
+ Stephen M. Petrarca 39  Vice President--Instrument Manufacturing
+ Michael F. Silveira 36  Corporate Controller
+</TABLE>
+
+   All of the persons named above have held the positions identified since
+January 31, 1985, except as indicated below.
+
+   Mr. Ondis has been a Director and Chief Executive Officer since 1969. He was
+previously President and the Chief Financial Officer (Treasurer) of the Company
+from 1969 to 1985.
+
+   Mr. Pizzuti was previously a Vice President of the Company functioning as
+Chief Operating Officer since 1971.
+
+   Mr. Jones joined the Company in 2000. He previously held various senior
+management positions with the Avery Dennison Corporation including President
+Worldwide Fasteners from 1989 to 1991, Vice President and General Manager Avery
+Dennison from 1991 to 1998, and Vice President, General Manager Fasson Roll
+North America from 1998 to 2000 and most recently serving as Vice President of
+Business Development and Process Improvement at Fasson Roll Worldwide.
+
+   Mr. O'Connell joined the Company in 1996. He previously held senior
+financial management positions with Cherry Tree Products Inc., IBI Corporation
+and Dennison Manufacturing Company. Mr. O'Connell is also Assistant Secretary
+of the Company.
+
+   Mr. Chatten joined the Company in December 1999 as President of
+Grass-Telefactor Product Group. Prior to that, Mr. Chatten was founder and
+President of Telefactor Corporation which was acquired by Astro-Med in December
+1999.
+
+   Mr. Deeb has held the position identified since 1987. In 1985, he was named
+General Manager--Media Products after having been Vice President and General
+Manager since 1981 of a business sold by the Company in 1984.
+
+   Mr. Sullivan was appointed Vice President and Chief Technology Officer in
+2000. He is an electronic engineer and has been with the Company for eighteen
+years.
+
+   Mr. Petrarca was appointed Vice President of Instrument Manufacturing in
+November 1998. He has previously held positions as General Manager of
+Manufacturing, Manager of Grass Operations and Manager of Grass Sales. He has
+been with the Company since 1980.
+
+                                                                             17
+
+<PAGE>
+
+   Mr. Silveira joined the Company in 2000. He previously held financial
+management positions with Textron Inc., most recently serving in the Industrial
+Products, Mergers & Acquisitions group and with KPMG Peat Marwick LLP. He is a
+certified public accountant.
+
+Item 11.  Executive Compensation
+
+   The response to this item is incorporated by reference to the Company's
+definitive proxy statement for the 2002 annual meeting of shareholders.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+
+   The response to this item is incorporated by reference to the Company's
+definitive proxy statement for the 2002 annual meeting of shareholders.
+
+Item 13.  Certain Relationships and Related Transactions
+
+   The response to this item is incorporated by reference to the Company's
+definitive proxy statement for the 2002 annual meeting of shareholders.
+
+                                    PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+(a)(1) Financial Statements:
+
+   The following consolidated financial statements of Astro-Med, Inc. and
+subsidiaries are incorporated by reference in Item 8:
+
+<TABLE>
+<CAPTION>
+                                                                                                 Page
+                                                                                                 -----
+<S>                                                                                              <C>
+Report of Independent Public Accountants........................................................    21
+Consolidated Balance Sheets as of January 31, 2002 and 2001.....................................    22
+Consolidated Statements of Income--Years Ended January 31, 2002, 2001 and 2000..................    23
+Consolidated Statements of Comprehensive Income and Changes in Shareholders' Equity--Years Ended
+  January 31, 2002, 2001, and 2000..............................................................    24
+Consolidated Statements of Cash Flows--Years Ended January 31, 2002, 2001, and 2000.............    25
+Notes to Consolidated Financial Statements...................................................... 26-35
+</TABLE>
+
+(a)(2) Financial Statement Schedules:
+
+<TABLE>
+       <S>                                                           <C>
+       Schedule II--Valuation and Qualifying Accounts and Reserves--
+         Years Ended January 31, 2002, 2001, and 2000...............   36
+</TABLE>
+
+   All other schedules for which provision is made in the applicable accounting
+regulations of the Securities and Exchange Commission are not required under
+the related instructions or are inapplicable, and therefore, have been omitted.
+
+18
+
+<PAGE>
+
+(a)(3) Exhibits:
+
+<TABLE>
+<CAPTION>
+Exhibit
+Number
+------
+<C>     <S>
+ (3A)   Articles of Incorporation of the Company and all amendments thereto (filed as Exhibit No. 3A to the
+          Company's report on Form 10-Q for the quarter ended August 1, 1992 and by this reference
+          incorporated herein).
+
+ (3B)   By-laws of the Company and all amendments thereto (filed as Exhibit No. 3B to the Company's
+          report on Form 10-Q for the quarter ended July 30, 1988 and by this reference incorporated
+          herein).
+
+ (4)    Specimen form of common stock certificate of the Company (filed as Exhibit No. 4 to the
+          Company's report on Form 10-K for the year ended January 31, 1985 and by this reference
+          incorporated herein).
+
+ (10.1) Astro-Med, Inc. 1989 Non-Qualified Stock Option Plan, as amended, filed as Exhibit 4.3 to
+          Registration Statement on Form S-8, Registration No. 333-32317 and incorporated by reference
+          herein. (a)
+
+ (10.2) Astro-Med, Inc. 1989 Incentive Stock Option Plan, as amended, filed as Exhibit 28 to Registration
+          Statement on Form S-8, Registration No. 333-43700, and incorporated by reference herein. (a)
+
+ (10.3) Astro-Med, Inc. 1993 Incentive Stock Option Plan filed as Exhibit 4.3 to Registration Statement on
+          Form S-8, Registration No. 333-24127, and incorporated by reference herein. (a)
+
+ (10.4) Astro-Med, Inc. Non-Employee Director Stock Option Plan filed as Exhibit 4.3 to Registration
+          Statement on Form S-8, Registration No. 333-24123, and incorporated by reference herein. (a)
+
+ (10.5) Astro-Med, Inc. 1997 Incentive Stock Option Plan, as amended, filed as Exhibit 4.3 to Registration
+          Statements on Form S-8, Registration Nos. 333-32315, 333-93565 and 333-44414, and
+          incorporated by reference herein. (a)
+
+ (10.6) Astro-Med, Inc. 1998 Non-Qualified Stock Option Plan, as amended, filed as Exhibit 4.3 to
+          Registration Statement on Form S-8, Registration Nos. 333-62431 and 333-63526, and
+          lincorporated by reference herein.
+
+ (10.7) Employment Agreement between Astro-Med, Inc. and John B. Chatten dated as of December 14,
+          1999(a).
+
+ (21)   List of Subsidiaries of the Company. See page 21.
+
+ (23)   Consent of Independent Public Accountants. See page 21.
+
+ (99)   Letter regarding Arthur Andersen LLP's Quality Control required under Temporary Note 3T to
+          Article 3 of Regulation SX.
+</TABLE>
+--------
+(a) Management contract or compensatory plan or arrangement.
+
+(b) Reports on Form 8-K:
+
+   None
+
+                                                                             19
+
+<PAGE>
+
+                                  SIGNATURES
+
+   Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+                                          ASTRO-MED, INC.
+                                          (Registrant)
+
+Date: April 10, 2002
+
+                                          By      /s/  ALBERT W. ONDIS
+                                             ----------------------------------
+                                                (Albert W. Ondis, Chairman)
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the date indicated.
+
+            Name                          Title                  Date
+            ----                          -----                  ----
+
+    /s/  ALBERT W. ONDIS      Chairman and Director         April 10, 2002
+-----------------------------   (Principal Executive
+       Albert W. Ondis          Officer)
+
+   /s/  EVERETT V. PIZZUTI    President and Director        April 10, 2002
+-----------------------------   (Principal Operating
+     Everett V. Pizzuti         Officer)
+
+  /s/  JOSEPH P. O'CONNELL    Vice President and Treasurer  April 10, 2002
+-----------------------------   (Principal Financial
+     Joseph P. O'Connell        Officer)
+
+  /s/  MICHAEL F. SILVEIRA    Controller (Principal         April 10, 2002
+-----------------------------   Accounting Officer)
+     Michael F. Silveira
+
+   /s/  JACQUES V. HOPKINS    Director                      April 10, 2002
+-----------------------------
+     Jacques V. Hopkins
+
+20
+
+<PAGE>
+
+                                                                     EXHIBIT 21
+
+                      LIST OF SUBSIDIARIES OF THE COMPANY
+
+                                               Jurisdiction of
+             Name                               Organization
+             ----                               ------------
+             AWO, Inc.                          Delaware
+             Astro-Med International Inc.       Barbados
+             Astro-Med SRL                      Italy
+             Astro-Med GMBH                     Germany
+
+                                                                     EXHIBIT 23
+
+                   CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+   As independent public accountants, we hereby consent to the incorporation of
+our report dated March 15, 2002, included in this Form 10-K, into the Company's
+previously filed Registration Statements on Form S-8: File No. 2-21081
+pertaining to the Astro-Med, Inc. Employee Stock Purchase Plan, File No.
+33-43700 pertaining to the Astro-Med, Inc. 1989 Incentive Stock Option Plan,
+File No. 333-24127 pertaining to the Astro-Med, Inc. 1993 Incentive Stock
+Option Plan, File Nos. 333-32315, 333-93565 and 333-44414 pertaining to the
+Astro-Med, Inc. 1997 Incentive Stock Option Plan. File No. 333-32317 pertaining
+to the 1989 Astro-Med, Inc. Non-Qualified Stock Option Plan as amended May 28,
+1991, File Nos. 333-62431 and 333-63526 pertaining to the 1998 Astro-Med, Inc.
+Non-Qualified Stock Option Plan, as amended June 21, 2001 and File No.
+333-24123 pertaining to the Astro-Med, Inc. Non-Employee Director Stock Option
+Plan. It should be noted that we have not audited any financial statements of
+the Company subsequent to January 31, 2002 or performed any audit procedures
+subsequent to the date of our report.
+
+                                          ARTHUR ANDERSEN LLP
+
+Boston, Massachusetts
+April 10, 2002
+
+                   REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Shareholders of Astro-Med, Inc.:
+
+   We have audited the accompanying consolidated balance sheets of Astro-Med,
+Inc. (a Rhode Island Corporation) and subsidiaries as of January 31, 2002 and
+2001, and the related consolidated statements of income, comprehensive income
+and changes in shareholders' equity and cash flows for each of the three years
+in the period ended January 31, 2002. These financial statements and schedule
+referred to below are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and
+schedule based on our audits.
+
+   We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+   In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Astro-Med, Inc. and
+subsidiaries as of January 31, 2002 and 2001, and the results of their
+operations and their cash flows for each of the three years in the period ended
+January 31, 2002, in conformity with accounting principles generally accepted
+in the United States.
+
+   Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole. The schedule listed in the index at Item
+14(a)(2) is presented for purposes of complying with the Securities and
+Exchange Commission's rules and is not part of the basic financial statements.
+This schedule has been subjected to the auditing procedures applied in the
+audits of the basic financial statements and, in our opinion, fairly states in
+all material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+
+                                          ARTHUR ANDERSEN LLP
+
+Boston, Massachusetts
+March 15, 2002
+
+                                                                             21
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+
+                        As of January 31, 2002 and 2001
+
+<TABLE>
+<CAPTION>
+                                                                               2002          2001
+-                                                                          ------------  ------------
+                                 ASSETS
+                                 ------
+<S>                                                                        <C>           <C>
+CURRENT ASSETS
+   Cash and Cash Equivalents.............................................. $  2,569,721  $    806,069
+   Securities Available for Sale (Note 2).................................    3,340,874     5,362,523
+   Accounts Receivable, net of reserves $352,442 and $467,882,
+     respectively.........................................................    9,173,568    10,663,624
+   Inventories (Note 3)...................................................   10,243,182    10,782,425
+   Prepaid Expenses and Other Current Assets (Note 6).....................    2,229,660     2,038,227
+                                                                           ------------  ------------
+       Total Current Assets...............................................   27,557,005    29,652,868
+
+PROPERTY, PLANT AND EQUIPMENT
+   Land and Improvements..................................................      398,191       398,191
+   Buildings and Improvements.............................................    7,280,097     7,236,148
+   Machinery and Equipment................................................   15,780,015    14,912,966
+                                                                           ------------  ------------
+                                                                             23,458,303    22,547,305
+   Less Accumulated Depreciation..........................................  (15,478,613)  (14,259,992)
+                                                                           ------------  ------------
+                                                                              7,979,690     8,287,313
+OTHER ASSETS
+   Goodwill, net (Note 10)................................................    2,310,798     2,465,494
+   Amounts Due from Officers..............................................      480,314       480,314
+   Other..................................................................       76,422       172,941
+                                                                           ------------  ------------
+                                                                              2,867,534     3,118,749
+                                                                           ------------  ------------
+                                                                           $ 38,404,229  $ 41,058,930
+                                                                           ============  ============
+                  LIABILITIES AND SHAREHOLDERS' EQUITY
+                  ------------------------------------
+CURRENT LIABILITIES
+   Accounts Payable....................................................... $  3,325,133  $  3,711,248
+   Accrued Compensation...................................................    1,114,490     1,974,223
+   Accrued Expenses.......................................................    1,637,826     1,916,597
+   Income Taxes Payable (Note 6)..........................................           --        96,058
+   Current Maturities of Long-Term Debt (Note 4)..........................       24,755        46,832
+                                                                           ------------  ------------
+       Total Current Liabilities..........................................    6,102,204     7,744,958
+LONG-TERM DEBT, Less Current Maturities (Note 4)..........................           --        24,755
+DEFERRED INCOME TAXES (Note 6)............................................      876,867       996,157
+COMMITMENTS AND CONTINGENCIES (Notes 7 and 10)
+SHAREHOLDERS' EQUITY (Note 5)
+   Preferred Stock, $10 Par Value, Authorized 100,000 Shares, Issued None.           --            --
+   Common Stock, $0.05 Par Value, Authorized 13,000,000 Shares, Issued
+     5,165,027 and 5,160,780, respectively................................      258,251       258,039
+   Additional Paid-in Capital.............................................    5,636,570     5,706,870
+   Retained Earnings......................................................   31,753,694    32,667,859
+   Treasury Stock, at Cost, 897,895 and 930,895 Shares, respectively......   (5,860,609)   (6,076,003)
+   Accumulated Other Comprehensive Loss...................................     (362,748)     (263,705)
+                                                                           ------------  ------------
+                                                                             31,425,158    32,293,060
+                                                                           ------------  ------------
+                                                                           $ 38,404,229  $ 41,058,930
+                                                                           ============  ============
+</TABLE>
+
+  The accompanying notes are an integral part of these financial statements.
+
+22
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+
+                  Years Ended January 31, 2002, 2001 and 2000
+
+<TABLE>
+<CAPTION>
+                                                          2002         2001         2000
+                                                       -----------  -----------  -----------
+<S>                                                    <C>          <C>          <C>
+Net Sales............................................. $49,390,937  $51,687,763  $46,143,206
+Cost of Sales.........................................  30,284,573   30,895,584   27,280,835
+                                                       -----------  -----------  -----------
+Gross Profit..........................................  19,106,364   20,792,179   18,862,371
+Costs and Expenses:
+   Selling, General and Administrative................  16,090,402   16,455,696   14,717,092
+   Research and Development...........................   3,743,516    4,255,434    3,353,883
+                                                       -----------  -----------  -----------
+                                                        19,833,918   20,711,130   18,070,975
+                                                       -----------  -----------  -----------
+Operating Income (Loss)...............................    (727,554)      81,049      791,396
+Other Income (Expense):
+   Interest and Dividend Income.......................     247,813      458,191      665,687
+   Interest Expense...................................      (3,903)     (11,051)     (18,239)
+   Other, net.........................................     191,837     (125,700)    (189,987)
+                                                       -----------  -----------  -----------
+                                                           435,747      321,440      457,461
+                                                       -----------  -----------  -----------
+Income (Loss) before Income Taxes.....................    (291,807)     402,489    1,248,857
+Income Taxes Expense (Benefit)........................     (58,706)     100,000      312,214
+                                                       -----------  -----------  -----------
+Net Income (Loss)..................................... $  (233,101) $   302,489  $   936,643
+                                                       ===========  ===========  ===========
+Net Income (Loss) Per Common Share--Basic and Diluted. $     (0.05) $      0.07  $      0.21
+                                                       ===========  ===========  ===========
+Weighted Average Number of Common Shares Outstanding--
+  Basic...............................................   4,259,423    4,386,852    4,434,108
+                                                       ===========  ===========  ===========
+Weighted Average Number of Common Shares Outstanding--
+  Diluted.............................................   4,259,423    4,407,632    4,475,371
+                                                       ===========  ===========  ===========
+Dividends Declared Per Common Share................... $      0.16  $      0.16  $      0.16
+                                                       ===========  ===========  ===========
+</TABLE>
+
+
+  The accompanying notes are an integral part of these financial statements.
+
+                                                                             23
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME AND CHANGES IN SHAREHOLDERS'
+                                    EQUITY
+
+                  Years Ended January 31, 2002, 2001 and 2000
+
+<TABLE>
+<CAPTION>
+                                                                  2002         2001         2000
+                                                               -----------  -----------  -----------
+<S>                                                            <C>          <C>          <C>
+Comprehensive Income (Loss)
+Net Income (Loss)............................................. $  (233,101) $   302,489  $   936,643
+Other Comprehensive Income (Loss), Net
+   Foreign currency translation adjustments...................    (142,454)     (52,303)     (34,865)
+   Unrealized gain (loss) on securities available for sale....      43,411      270,558     (301,872)
+                                                               -----------  -----------  -----------
+Other comprehensive income (loss), net........................     (99,043)     218,255     (336,737)
+                                                               -----------  -----------  -----------
+Comprehensive Income (Loss)................................... $  (332,144) $   520,744  $   599,906
+                                                               ===========  ===========  ===========
+Shareholders' Equity
+Common Stock, $0.05 Par Value:
+   Balance at beginning of year............................... $   258,039  $   257,402  $   257,176
+   Net proceeds from issuance of Company common stock
+     (Note 5).................................................         212          637          226
+                                                               -----------  -----------  -----------
+   Balance at end of year.....................................     258,251      258,039      257,402
+                                                               -----------  -----------  -----------
+Additional Paid-In Capital:
+   Balance at beginning of year...............................   5,706,870    5,647,791    5,641,317
+   Net proceeds from issuance of Company common stock
+     (Note 5).................................................      15,139       59,079       23,714
+   Net cost of shares issued to Employee Stock Ownership Plan
+     (Note 5).................................................     (85,439)          --      (17,240)
+                                                               -----------  -----------  -----------
+   Balance at end of year.....................................   5,636,570    5,706,870    5,647,791
+                                                               -----------  -----------  -----------
+Retained Earnings:
+   Balance at beginning of year...............................  32,667,859   33,065,454   32,837,880
+   Net income (loss)..........................................    (233,101)     302,489      936,643
+   Dividends paid.............................................    (681,064)    (700,084)    (709,069)
+                                                               -----------  -----------  -----------
+   Balance at end of year.....................................  31,753,694   32,667,859   33,065,454
+                                                               -----------  -----------  -----------
+Treasury Stock:
+   Balance at beginning of year...............................  (6,076,003)  (5,268,103)  (4,889,343)
+   Purchases of Company common stock
+     (Note 5).................................................          --     (807,900)    (451,000)
+   Shares issued to Employee Stock Ownership Plan
+     (Note 5).................................................     215,394           --       72,240
+                                                               -----------  -----------  -----------
+   Balance at end of year.....................................  (5,860,609)  (6,076,003)  (5,268,103)
+                                                               -----------  -----------  -----------
+Accumulated Other Comprehensive Loss:
+   Balance at beginning of year...............................    (263,705)    (481,960)    (145,223)
+   Other comprehensive income (loss), net.....................     (99,043)     218,255     (336,737)
+                                                               -----------  -----------  -----------
+   Balance at end of year.....................................    (362,748)    (263,705)    (481,960)
+                                                               -----------  -----------  -----------
+       Total Shareholders' Equity............................. $31,425,158  $32,293,060  $33,220,584
+                                                               ===========  ===========  ===========
+</TABLE>
+
+  The accompanying notes are an integral part of these financial statements.
+
+24
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                  Years Ended January 31, 2002, 2001 and 2000
+
+<TABLE>
+<CAPTION>
+                                                                     2002         2001         2000
+                                                                  -----------  -----------  -----------
+<S>                                                               <C>          <C>          <C>
+Cash Flows from Operating Activities:
+   Net Income (Loss)............................................. $  (233,101) $   302,489  $   936,643
+   Adjustments to Reconcile Net Income to Net Cash Provided
+     (Used) By Operating Activities:
+       Depreciation and Amortization.............................   1,641,971    1,774,764    1,355,513
+       (Gain) Loss on Sale of Assets.............................     (25,650)          --        3,017
+       Deferred Income Taxes.....................................    (160,694)    (182,410)    (212,951)
+       Other.....................................................     (99,044)     258,807       76,674
+       Changes in Assets and Liabilities:
+          Accounts Receivable....................................   1,490,056   (1,392,810)    (986,656)
+          Inventories............................................     253,394     (419,461)    (439,547)
+          Other..................................................     (95,578)     133,010      371,381
+          Accounts Payable and Accrued Expenses..................  (1,394,663)  (2,563,107)   3,484,198
+          Income Taxes Payable...................................     (96,058)    (503,166)     106,342
+                                                                  -----------  -----------  -----------
+              Total Adjustments..................................   1,513,734   (2,894,373)   3,757,971
+                                                                  -----------  -----------  -----------
+       Net Cash Provided (Used) by Operating Activities..........   1,280,633   (2,591,884)   4,694,614
+Cash Flows from Investing Activities:
+   Proceeds from Sales/Maturities of Securities Available
+     for Sale....................................................   2,244,742    5,170,695    3,838,473
+   Purchases of Securities Available for Sale....................    (163,798)  (3,321,296)  (3,446,395)
+   Proceeds from Sales of Assets.................................      25,650           --        2,800
+   Escrow Returned, (Payment) for Acquisition....................          --      225,000   (3,657,098)
+   Additions to Property, Plant and Equipment....................    (911,030)  (1,203,592)    (975,113)
+                                                                  -----------  -----------  -----------
+       Net Cash Provided (Used) by Investing Activities..........   1,195,564      870,807   (4,237,333)
+Cash Flows from Financing Activities:
+   Payments of Debt..............................................          --           --      (75,000)
+   Principal Payments on Capital Leases..........................     (46,832)     (60,453)    (156,574)
+   Proceeds from Common Shares Issued Under Employee
+     Benefit Plans...............................................      15,351       59,716       23,940
+   Purchases of Treasury Stock...................................          --     (807,900)    (451,000)
+   Dividends Paid................................................    (681,064)    (700,084)    (709,069)
+                                                                  -----------  -----------  -----------
+       Net Cash Used by Financing Activities.....................    (712,545)  (1,508,721)  (1,367,703)
+                                                                  -----------  -----------  -----------
+Net Increase (Decrease) in Cash and Cash Equivalents.............   1,763,652   (3,229,798)    (910,422)
+Cash and Cash Equivalents, Beginning of Year.....................     806,069    4,035,867    4,946,289
+                                                                  -----------  -----------  -----------
+Cash and Cash Equivalents, End of Year........................... $ 2,569,721  $   806,069  $ 4,035,867
+                                                                  ===========  ===========  ===========
+Supplemental Information:
+   Cash Paid During the Period for:
+       Interest.................................................. $     3,903  $    11,104  $    17,504
+       Income Taxes.............................................. $   129,016  $   746,000  $   406,182
+   Non-Cash Transfers:
+       Demonstration Equipment Transferred from Inventory to
+         Property, Plant and Equipment........................... $   285,849  $   508,000  $   261,750
+</TABLE>
+
+  The accompanying notes are an integral part of these financial statements.
+
+                                                                             25
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                               January 31, 2002
+
+
+Note 1--Summary of Significant Accounting Policies
+
+   Principles of Consolidation: The consolidated financial statements include
+the accounts of Astro-Med, Inc. (the Company) and its subsidiaries. All
+material intercompany accounts and transactions are eliminated in
+consolidation. Certain prior year balances have been reclassified to conform to
+the current-year reporting format.
+
+   Cash and Cash Equivalents: Highly liquid investments with an original
+maturity of 90 days or less at date of acquisition are considered to be cash
+equivalents when purchased as part of the Company's cash management activities.
+Similar investments with original maturities beyond three months are classified
+as securities available for sale.
+
+   Securities Available for Sale: Securities available for sale are carried at
+market value based on quoted market prices. The difference between cost and
+market value, net of related tax effects, is recorded as a component of
+accumulated other comprehensive income of shareholders' equity.
+
+   Property, Plant and Equipment: Property, plant and equipment are stated at
+cost. Depreciation is provided on the straight-line basis over the estimated
+useful lives of the assets (land improvements--10 to 20 years; buildings and
+improvements--10 to 45 years; machinery and equipment--3 to 10 years).
+
+   Amortization of Intangibles: Goodwill from the acquisition of Telefactor is
+being amortized over 15 years. All other goodwill is amortized on the
+straight-line method over 40 years. Accumulated amortization amounted to
+$876,643 and $721,947 as of January 31, 2002 and 2001, respectively. In
+accordance with Statement of Financial Accounting Standard (SFAS) No. 121,
+Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+Be Disposed Of, the Company evaluates the carrying value of long-lived assets
+whenever events or changes in circumstances indicate the carrying amounts of
+such assets may not be recovered.
+
+   Derivative Instruments and Hedging: On February 1, 2001, the Company adopted
+SFAS No. 133, Accounting for Derivative Instruments and Hedging Activities, as
+amended by SFAS No. 137, Accounting for Derivative Instruments and Hedging
+Activities--Deferral of the Effective Date of SFAS No. 133, and as amended in
+June 2000 by SFAS No. 138, Accounting for Certain Derivative Instruments and
+Certain Hedging Activities--an Amendment to SFAS No. 133 (combined SFAS No.
+133). The statement requires companies to record derivatives on the balance
+sheet as assets or liabilities, measured at fair value. Gains or losses
+resulting from changes in the values of those derivatives would be accounted
+for depending on the use of the derivative and whether it qualifies for hedge
+accounting.The adoption of this statement did not have a material impact on the
+Company's results of operations or financial position.
+
+   Revenue Recognition: The majority of the Company's product sales are
+recorded at the time of shipment and when persuasive evidence of an arrangement
+exists, the seller's price to the buyer is fixed or determinable and
+collectibility is reasonably assured. Provisions are made at the time the
+related revenue is recognized for the cost of any installation obligations.
+When other significant obligations remain after products are delivered, revenue
+is recognized only after such obligation are fulfilled.
+
+   In July 2000, the Emerging Issues Task Force, a body of the Financial
+Accounting Standards Board (FASB), reached a consensus on Issue No. 00-10,
+Accounting for Shipping and Handling Fees and Costs. The consensus requires
+companies to start reporting amounts billed to customers in a sales transaction
+related to shipping and handling as revenue in the fourth quarter of fiscal
+year 2001. The Company previously reported these amounts as a reduction of cost
+of goods sold. All periods presented have been reclassified to conform to the
+current practice. The amounts reclassed were $650,295, and $574,460 for the two
+years ending January 31, 2001 and 2000, respectively.
+
+26
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+   Foreign Currency: The financial statements of foreign subsidiaries are
+measured using the local currency as the functional currency. The Company
+translates foreign currency denominated assets and liabilities into U.S.
+dollars at year-end exchange rates with the translation adjustment reported as
+a separate component of shareholders' equity. Revenues and expenses are
+translated at average exchange rates during the year.
+
+   Long-Lived Assets: In July 2001, FASB released for issuance SFAS No. 141,
+Business Combinations and SFAS No. 142, Goodwill and Other Intangible Assets.
+SFAS No. 141 requires that the purchase method of accounting be used for all
+business combinations initiated after June 30, 2001. SFAS No. 142 changes the
+accounting for goodwill from an amortization method to an impairment-only
+approach. Under SFAS No. 142, amortization of goodwill to earnings will cease
+and instead, the carrying value of goodwill will be evaluated for impairment on
+at least an annual basis. If these new rules were applied to fiscal 2002 the
+Company would have reported approximately $155,000 less of amortization expense
+on a pre-tax basis. The Company is currently determining the impact (if any) of
+adopting this standard.
+
+   In August 2001, the FASB issued SFAS No. 143, Accounting for Asset
+Retirement Obligations. SFAS No. 143 requires the fair value of a liability for
+an asset retirement obligation to be recognized in the period in which it is
+incurred if a reasonable estimate of fair value can be made. The associated
+asset retirement costs are capitalized as part of the carrying amount of the
+long-lived asset. SFAS No. 143 is effective for fiscal years beginning after
+June 15, 2002. The Company believes the adoption of this Statement will not
+have a material impact on its financial statements.
+
+   In August 2001, the FASB issued SFAS No. 144, Accounting for the Impairment
+or Disposal of Long-Lived Assets, which supersedes SFAS No. 121, Accounting for
+the Impairment of Long-Lived Assets and for Long-Lived Assets to be Disposed
+Of, and the accounting and reporting provisions of Accounting Principles Board
+(APB) No. 30. SFAS No. 144 addresses the financial and reporting for the
+impairment or disposal of long-lived assets and is effective for fiscal years
+beginning after December 15, 2001, and interim periods within those fiscal
+years. The Company is currently reviewing this statement to determine its
+effect (if any) on the Company's financial statements.
+
+   Income Taxes: The Company accounts for income taxes in accordance with SFAS
+No. 109, Accounting for Income Taxes. This SFAS requires that deferred income
+taxes be determined based on estimated future tax effects of differences
+between the tax and book bases of assets and liabilities considering the
+provisions of enacted tax laws.
+
+   Net Income (Loss) Per Common Share: Net income (loss) per common share have
+been computed and presented pursuant to the provisions of SFAS No. 128,
+Earnings per Share. Net income (loss) per share is based on the weighted
+average number of shares outstanding during the period. Net income per share
+assuming dilution is based on the weighted average number of shares and
+potential common shares for stock options outstanding during the period using
+the treasury stock method. In accordance with SFAS No. 128, options to purchase
+1,653,075, 1,093,825, and 600,325 shares of common stock were outstanding
+during fiscal 2002, 2001 and 2000, respectively, but were not included in the
+computation of diluted EPS because their inclusion would be anti-dilutive.
+
+<TABLE>
+<CAPTION>
+                                                      2002      2001      2000
+                                                    --------- --------- ---------
+<S>                                                 <C>       <C>       <C>
+Weighted Average Common Shares Outstanding--Basic.. 4,259,423 4,386,852 4,434,108
+Dilutive Effect of Options Outstanding.............        --    20,780    41,263
+                                                    --------- --------- ---------
+Weighted Average Common Shares Outstanding--Diluted 4,259,423 4,407,632 4,475,371
+</TABLE>
+
+                                                                             27
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+   Use of Estimates: The presentation of financial statements in conformity
+with generally accepted accounting principles requires management to make
+estimates and assumptions that affect these financial statements and
+accompanying notes. Some of the more significant estimates include the
+allowances for bad debt and credits, inventory valuation, income taxes and
+warranty reserves. Management's estimates are based on the facts and
+circumstances available at the time estimates are made, past historical
+experience, risk of loss, general economic conditions and trends, and
+management's assessments of the probable future outcome of these matters.
+Consequently, actual results could differ from those estimates.
+
+   Fair Value of Financial Instruments: The Company's financial instruments
+consist mainly of cash and cash equivalents, accounts receivable, accounts
+payable and long-term debt. The carrying amounts of these financial instruments
+as of January 31, 2002 approximate fair value.
+
+Note 2--Securities Available for Sale
+
+   Securities available for sale include corporate and governmental obligations
+with various contractual or anticipated maturity dates. Governmental
+obligations include U.S. Government, State, Municipal and Federal Agencies
+securities. The market value, amortized cost and gross unrealized gains and
+losses of the securities are as follows:
+
+<TABLE>
+<CAPTION>
+                                        Gross      Gross
+                             Market   Unrealized Unrealized Amortized
+                             Value      Gains      Losses     Cost
+                           ---------- ---------- ---------- ----------
+          <S>              <C>        <C>        <C>        <C>
+          January 31, 2002
+          Corporate....... $1,218,892  $22,253    $     --  $1,196,639
+          Governmental....  2,121,982   38,004     (20,235)  2,104,213
+                           ----------  -------    --------  ----------
+                           $3,340,874  $60,257    $(20,235) $3,300,852
+                           ==========  =======    ========  ==========
+          January 31, 2001
+          Corporate....... $1,486,495  $12,801    $(11,239) $1,484,933
+          Governmental....  3,876,028   17,063     (22,014)  3,880,979
+                           ----------  -------    --------  ----------
+                           $5,362,523  $29,864    $(33,253) $5,365,912
+                           ==========  =======    ========  ==========
+</TABLE>
+
+   The cost of securities available for sale that were sold was based on
+specific identification in determining realized gains or losses included in the
+accompanying consolidated statements of income.
+
+   The expected maturity dates of these securities are as follows: Less than
+one year--$507,876; One to Five Years--$1,887,726; Six to Ten Years--$619,010
+and greater than Ten Years--$326,262. Actual maturities may differ as a result
+of sales or earlier issuer redemptions.
+
+Note 3--Inventories
+
+   Inventories are stated at the lower of cost (first-in, first-out) or market
+and include material, labor and manufacturing overhead. The components of
+inventories were as follows:
+
+<TABLE>
+<CAPTION>
+                                              January 31,
+                                        -----------------------
+                                           2002        2001
+                                        ----------- -----------
+                 <S>                    <C>         <C>
+                 Materials and Supplies $ 5,850,797 $ 5,921,934
+                 Work-in-Progress......     961,279   1,282,466
+                 Finished Goods........   3,431,106   3,578,025
+                                        ----------- -----------
+                                        $10,243,182 $10,782,425
+                                        =========== ===========
+</TABLE>
+
+28
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+Note 4--Debt
+
+   Debt consists of the following:
+
+<TABLE>
+<CAPTION>
+                                               January 31,
+                                             ---------------
+                                              2002    2001
+                                             ------- -------
+                   <S>                       <C>     <C>
+                   Capital Lease Obligations $24,755 $71,587
+                   Less: Current Maturities.  24,755  46,832
+                                             ------- -------
+                                             $    -- $24,755
+                                             ======= =======
+</TABLE>
+
+Note 5--Shareholders' Equity
+
+   Common Stock:  The Company's Board of Directors has authorized the purchase
+of up to an additional 290,000 shares of the Company's common stock on the open
+market in the future. The Company repurchased 201,600, and 77,000 shares, of
+its common stock in fiscal 2001 and 2000, respectively.
+
+   The Company maintains the following benefit plans involving the Company's
+common stock:
+
+   Stock Option Plans:  As of January 31, 2002, the Company has two incentive
+stock option plans and one non-qualified stock option plan under which options
+may be granted to officers and key employees. Options vest over various periods
+that range from six months to five years. Options for an aggregate of 1,500,000
+shares may be granted under the incentive stock option plans at option prices
+of not less than fair market value at the date of grant. Options for an
+aggregate of 1,000,000 shares may be granted under the non-qualified plan at
+option prices of not less than 50% of fair market value at the date of grant.
+
+   In addition, the Company has a Non-Employee Director Stock Option Plan under
+which each non-employee director automatically receives an annual grant of
+options to acquire 1,000 shares of common stock. The options are granted as of
+the first business day of January of each year at an option price equal to the
+fair market value at the date of grant. Options for a total of 30,000 shares
+may be granted under the plan.
+
+   Summarized option data for all plans is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                Weighted Average
+                                       Number     Option Price  Option Price Per
+                                      of Shares    Per Share         Share
+                                      ---------  -------------- ----------------
+<S>                                   <C>        <C>            <C>
+Options Outstanding, January 31, 1999   781,100  $  3.33-$13.00      $8.51
+Options Granted......................   253,700  $4.94-  $6.25       $5.22
+Options Exercised....................    (1,000) $         4.94      $4.94
+Options Expired......................  (158,325) $  4.94-$11.29      $8.93
+                                      ---------
+Options Outstanding, January 31, 2000   875,475  $  3.33-$13.00      $7.49
+Options Granted......................   568,500  $  3.75- $7.50      $6.90
+Options Exercised....................    (9,500) $  3.33- $4.94      $4.77
+Options Expired......................  (100,025) $  3.33-$10.25      $6.93
+                                      ---------
+Options Outstanding, January 31, 2001 1,334,450  $  3.33-$13.00      $7.30
+Options Granted......................   363,000  $  3.75- $4.31      $4.31
+Options Expired......................   (44,375) $  4.31-$11.25      $7.20
+                                      ---------
+Options Outstanding, January 31, 2002 1,653,075  $  3.33-$13.00      $6.64
+                                      ---------
+Options Exercisable, January 31, 2002 1,503,033  $  3.33-$13.00      $6.74
+                                      ---------
+Options Exercisable, January 31, 2001 1,198,450  $  3.33-$13.00      $7.40
+                                      =========
+</TABLE>
+
+                                                                             29
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+   Set forth below is a summary of options outstanding at January 31, 2002:
+
+<TABLE>
+<CAPTION>
+                        Outstanding                                Exercisable
+----------------------------------------------------------- --------------------------
+   Range of               Weighted Average    Remaining               Weighted Average
+Exercise prices  Options   Exercise Price  Contractual Life  Options   Exercise Price
+--------------- --------- ---------------- ---------------- --------- ----------------
+<S>             <C>       <C>              <C>              <C>       <C>
+ $3.33-$5.00      598,125      $ 4.51           9 yrs.        556,210      $ 4.53
+ $5.50-$8.25      725,450      $ 7.15           7 yrs.        631,448      $ 7.37
+ $8.31-$8.50      207,500      $ 8.40           5 yrs.        207,500      $ 8.40
+$9.25-$13.00      122,000      $11.10           2 yrs.        107,875      $11.21
+
+                ---------                                   ---------
+                1,653,075      $ 6.64                       1,503,033      $ 6.74
+</TABLE>
+
+   At January 31, 2002, options covering 572,300 shares under the incentive
+plans, 600,000 shares under the non-qualified plan and 9,000 shares under the
+Non-Employee Director Stock Option Plan were available for future grant.
+
+   As permitted by SFAS No. 123, "Accounting for Stock-Based Compensation," the
+Company accounts for its stock-based compensation in accordance with Accounting
+Principles Board (APB) Opinion No. 25 "Accounting for Stock Issued to
+Employees". Had compensation cost for the Company's stock-based compensation
+plans been determined based on the fair value at the grant dates consistent
+with the method set forth under SFAS No. 123, the Company's net income and net
+income per share would have been reduced to the pro forma amounts indicated
+below:
+
+<TABLE>
+<CAPTION>
+                                           Years Ended January 31
+                                       ------------------------------
+                                         2002       2001       2000
+                                       ---------  ---------  --------
+           <S>                         <C>        <C>        <C>
+           Net Income (Loss)
+            As reported............... $(233,101) $ 302,489  $936,643
+            Pro forma................. $(605,180) $(659,956) $599,322
+           Net Income (Loss) per share
+            As reported............... $   (0.05) $    0.07  $   0.21
+            Pro forma, Basic.......... $   (0.14) $   (0.15) $   0.14
+            Pro forma, Diluted........ $   (0.14) $   (0.15) $   0.13
+</TABLE>
+
+   The fair value of each option granted was estimated on the grant date using
+the Black-Scholes option-pricing model with the following weighted average
+assumptions: The weighted average grant date fair value of options granted
+during fiscal 2002, 2001 and 2000 was $1.11, $2.22, and $1.60, respectively.
+
+<TABLE>
+<CAPTION>
+                                          Years Ended January 31,
+                                          ----------------------
+                                           2002      2001   2000
+                                          ----      ----   ----
+                  <S>                     <C>       <C>    <C>
+                  Risk-free interest rate  4.1%      6.3%   5.5%
+                  Expected life (years)..    5         5      5
+                  Expected volatility.... 36.0%     36.0%  35.5%
+                  Expected dividend yield  4.0%      2.9%   2.8%
+</TABLE>
+
+30
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+   Employee Stock Purchase Plan: The Company has an Employee Stock Purchase
+Plan allowing eligible employees to purchase shares of common stock at a 10%
+discount from fair market value on the date of purchase. A total of 180,000
+shares were initially reserved for issuance under the Plan. Summarized Plan
+activity is as follows:
+
+<TABLE>
+<CAPTION>
+                                          Years Ended January 31,
+                                          ----------------------
+                                           2002    2001    2000
+                                          ------  ------  ------
+               <S>                        <C>     <C>     <C>
+               Shares Reserved, Beginning 91,675  94,920  98,426
+               Shares Purchased.......... (4,247) (3,245) (3,506)
+                                          ------  ------  ------
+               Shares Reserved, Ending... 87,428  91,675  94,920
+                                          ======  ======  ======
+</TABLE>
+
+   Employee Stock Ownership Plan: The Company has an Employee Stock Ownership
+Plan providing retirement benefits to all eligible employees. Annual
+contributions in amounts determined by the Company's Board of Directors are
+invested by the Plan's Trustees in shares of common stock of the Company.
+Contributions may be in cash or stock. The Company's contributions paid or
+accrued amounted to $130,000 in both fiscal 2001 and 2000.No amounts were owed
+or accrued in fiscal 2002.
+
+Note 6--Income Taxes
+
+   The components of domestic and foreign income (loss) before the provision
+(benefit) for income taxes are as follows:
+
+<TABLE>
+<CAPTION>
+                                 Years Ended January 31,
+                             -------------------------------
+                               2002       2001       2000
+                             ---------  --------  ----------
+                   <S>       <C>        <C>       <C>
+                   Domestic. $(457,950) $ (6,989) $1,021,075
+                   Foreign..   166,143   409,478     227,782
+                             ---------  --------  ----------
+                      Total. $(291,807) $402,489  $1,248,857
+                             =========  ========  ==========
+</TABLE>
+
+   The components of the provision (benefit) for income taxes were as follows:
+
+<TABLE>
+<CAPTION>
+                                  Years Ended January 31,
+                              -------------------------------
+                                2002       2001       2000
+                              ---------  ---------  ---------
+                  <S>         <C>        <C>        <C>
+                  Current:
+                     Federal. $  38,689  $ 194,810  $ 387,820
+                     State...    11,300     (6,600)    53,842
+                     Foreign.    51,999     94,200     57,000
+                              ---------  ---------  ---------
+                                101,988    282,410    498,662
+                              ---------  ---------  ---------
+                  Deferred:
+                     Federal.  (143,018)  (160,598)  (164,143)
+                     State...   (17,676)   (21,812)   (22,305)
+                              ---------  ---------  ---------
+                               (160,694)  (182,410)  (186,448)
+                              ---------  ---------  ---------
+                              $ (58,706) $ 100,000  $ 312,214
+                              =========  =========  =========
+</TABLE>
+
+                                                                             31
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+   The provision (benefit) for income taxes differs from the amount computed by
+applying the statutory federal income tax rate (34%) to income before income
+taxes, due to the following:
+
+<TABLE>
+<CAPTION>
+                                                    Years Ended January 31,
+                                                 -----------------------------
+                                                   2002      2001      2000
+                                                 --------  --------  ---------
+<S>                                              <C>       <C>       <C>
+Income Tax Provision (Benefit) at Statutory Rate $(99,215) $136,846  $ 424,611
+State Taxes, Net of Federal Income Tax Benefits.  (13,879)  (18,763)    57,697
+Nontaxable Interest Income......................  (14,654)  (17,625)   (19,219)
+Amortization of Intangibles.....................   12,342    12,342    (24,663)
+Utilization of Net Operating Loss Carryforward..       --        --    (92,048)
+Research and Development Tax Credits............       --        --   (133,000)
+Other, Net......................................   56,700   (12,800)    98,836
+                                                 --------  --------  ---------
+                                                 $(58,706) $100,000  $ 312,214
+                                                 ========  ========  =========
+</TABLE>
+
+   The tax effects of temporary differences and carryforwards which gave rise
+to significant portions of deferred tax assets and liabilities in the
+accompanying consolidated balance sheets were as follows:
+
+<TABLE>
+<CAPTION>
+                                                                      January 31,
+                                                                ----------------------
+                                                                   2002        2001
+                                                                ----------  ----------
+<S>                                                             <C>         <C>
+Deferred Tax Assets:
+   Reserves and Accruals Not Yet Deducted for Tax Purposes..... $1,332,827  $1,319,618
+   Unrealized Foreign Currency Losses..........................     65,946      66,950
+   Net Operating Loss Carryforwards............................    105,000      94,485
+   Other.......................................................    427,647     398,448
+   Valuation Allowance.........................................   (105,000)    (94,485)
+                                                                ----------  ----------
+                                                                 1,826,420   1,785,016
+Deferred Tax Liabilities:
+   Accumulated Tax Depreciation in Excess of Book Depreciation.    610,157     580,915
+   Other.......................................................    266,710     415,242
+                                                                ----------  ----------
+                                                                   876,867     996,157
+                                                                ----------  ----------
+Net Deferred Tax Assets........................................ $  949,553  $  788,859
+                                                                ==========  ==========
+</TABLE>
+
+   At January 31, 2002, the valuation allowance relates to the Company's wholly
+owned subsidiaries, Astro-Med GMBH and Astro-Med SRL, net operating loss
+carryforward (NOLs) of approximately $105,000 which can be carryforward
+indefinitely. The future tax benefits of these NOLs are uncertain because it is
+limited to future annual taxable income of the subsidiary.
+
+Note 7--Leases
+
+   There are both capital and operating lease commitments for the Company's
+facilities and certain machinery and equipment. Following is an analysis of
+assets which are under capital leases.
+
+<TABLE>
+<CAPTION>
+                                                  January 31,
+                                               -----------------
+                                                 2002     2001
+                                               -------- --------
+                <S>                            <C>      <C>
+                Machinery and Equipment....... $176,020 $176,020
+                Less: Accumulated Amortization  146,681   88,008
+                                               -------- --------
+                                               $ 29,339 $ 88,012
+                                               ======== ========
+</TABLE>
+
+32
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+   Minimum lease payments under noncancellable leases at January 31, 2002 were
+as follows:
+
+<TABLE>
+<CAPTION>
+                                                     Capital  Operating
+         Year Ending January 31,                      Lease    Leases
+         -----------------------                     -------  ---------
+         <S>                                         <C>      <C>
+         2003....................................... $25,296  $293,526
+         2004.......................................      --   163,623
+         2005.......................................      --    60,111
+         2006.......................................      --    33,492
+         2007 and Thereafter........................      --    80,128
+                                                     -------  --------
+         Net Minimum Lease Payments.................  25,296  $630,880
+                                                              --------
+         Less Amount Representing Interest..........    (541)
+                                                     -------
+         Current Value of Net Minimum Lease Payments $24,755
+                                                     =======
+</TABLE>
+
+   The Company incurred rent expense in the amount of $349,940, $381,560 and
+$315,200 for the fiscal years 2002, 2001 and 2000, respectively.
+
+Note 8--Nature of Operations, Segment Reporting and Geographical Information
+
+   The Company's operations consist of the design, development, manufacture and
+sale of specialty data recorder and acquisition systems, label printing and
+applicator systems, neurophysiological instrumentation systems, and consumable
+printer supplies. The Company organizes and manages its business as a portfolio
+of products and services designed around a common theme of data acquisition and
+information output. The Company's operations have historically been aggreagated
+into a single reporting segment based on certain similarities in the nature and
+characteristics of the products and services and the lack of the availiability
+of the financial information at the product group level. The Company has
+evolved to the point where it can now place additional emphasis on the
+finanical information generated at the product group level, consequently, the
+Company will report three reporting segments consistent with its sales product
+groups Test & Measurement (T&M); QuickLabel Systems (QLS) and Grass-Telefactor
+(G-T). As a result, the Company has restated the prior years segment data to
+present all periods on a comparable basis.
+
+   T&M produces data recording equipment used worldwide for a variety of
+recording, monitoring and troubleshooting applications for the aerospace,
+automotive, metal mill, power and telecommunications industries. QLS produces
+an array of high-technology digital label printers, automatic labelers, print
+and apply systems, labeling software and consumables for a variety of
+commerical industries worldwide. Grass-Telefactor produces a range of
+instrumentation equipment and supplies for clinical neurophysiology (EEG and
+epilepsy monitoring), polysomnography (PSG - Sleep Monitoring) and biomedical
+research applications used worldwide by universities, medical centers and
+companies engaged in a variety of clinical and research activities. The
+accounting policies of the reporting segments are the same as those described
+in the summary of significant accounting policies within the notes to the
+consolidated financial statements. The Company evaluates segment performance
+based on the segment profit before corporate and financial administration
+expenses.
+
+   Business is conducted primarily in the United States and through foreign
+affiliates in Canada and Europe. Substantially all manufacturing activities are
+conducted in the United States. Sales and service activities outside the United
+States are conducted primarily through wholly-owned entities and, to a lesser
+extent, through authorized distributors and agents. Transfer prices are
+intended to produce gross profit margins commensurate with the sales and
+service effort associated with the product sold.
+
+                                                                             33
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+   The following tables summarize selected financial information by segment:
+
+<TABLE>
+<CAPTION>
+                                           Sales          Segment Operating Profit Operating Profit %
+(in thousands)                    ----------------------- ------------------------ -----------------
+                                   2002    2001    2000    2002     2001    2000   2002   2001  2000
+                                  ------- ------- ------- ------   ------  ------  ----   ----  ----
+<S>                               <C>     <C>     <C>     <C>      <C>     <C>     <C>    <C>   <C>
+T&M.............................. $12,057 $13,905 $14,829 $  675   $1,639  $2,006  5.6%   11.8% 13.5%
+QLS..............................  20,928  19,891  17,914    863    1,295     688  4.1%    6.5%  3.8%
+Grass-Telefactor.................  16,406  17,892  13,400    817      535   1,350  5.0%    3.0% 10.1%
+                                  ------- ------- ------- ------   ------  ------  ---    ----  ----
+Total............................ $49,391 $51,688 $46,143  2,355    3,469   4,044  4.8%    6.7%  8.8%
+                                  ======= ======= ======= ======   ======  ======  ===    ====  ====
+Corporate Expenses...............                          3,083    3,388   3,253
+                                                          ------   ------  ------
+Operating Income (Loss)..........                           (728)      81     791
+Other Income (Expenses)..........                            436      321     458
+                                                          ------   ------  ------
+Income (Loss) Before Income Taxes                           (292)     402   1,249
+Income Taxes Expense (Benefit)...                            (59)     100     312
+                                                          ------   ------  ------
+Net Income (Loss)................                         $ (233)  $  302  $  937
+                                                          ======   ======  ======
+</TABLE>
+
+   Presented below is selected information by segment:
+
+<TABLE>
+<CAPTION>
+                              Amortization and
+                                Depreciation     Capital Expenditures
+           (in thousands)   -------------------- --------------------
+                             2002   2001   2000   2002   2001   2000
+                            ------ ------ ------ ----   ------  ----
+           <S>              <C>    <C>    <C>    <C>    <C>     <C>
+           T&M............. $  490 $  514 $  453 $303   $  321  $164
+           QLS.............    572    810    582  325      455   558
+           Grass-Telefactor    580    451    321  283      428   253
+                            ------ ------ ------  ----  ------  ----
+           Total........... $1,642 $1,775 $1,356 $911   $1,204  $975
+                            ====== ====== ======  ====  ======  ====
+</TABLE>
+
+   Presented below is selected assets by segment:
+
+<TABLE>
+<CAPTION>
+                                             Assets
+                    (in thousands)   -----------------------
+                                      2002    2001    2000
+                                     ------- ------- -------
+                    <S>              <C>     <C>     <C>
+                    T&M............. $ 7,568 $ 8,220 $ 6,934
+                    QLS.............  12,891  13,546  14,157
+                    Grass-Telefactor   9,861  10,625  10,498
+                    Corporate*......   8,084   8,668  13,796
+                                     ------- ------- -------
+                    Total........... $38,404 $41,059 $45,385
+                                     ======= ======= =======
+</TABLE>
+* Corporate assets consist primarily of cash, investments and income tax
+  accounts.
+
+34
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(Continued)
+
+
+   Presented below is selected financial information by geographic area:
+
+<TABLE>
+<CAPTION>
+                                      Sales             Long-Lived Assets
+   (in thousands)            ----------------------- -----------------------
+                              2002    2001    2000    2002    2001    2000
+                             ------- ------- ------- ------- ------- -------
+   <S>                       <C>     <C>     <C>     <C>     <C>     <C>
+   United States............ $35,657 $37,893 $33,866 $ 9,645 $10,106 $10,906
+   Europe...................   7,588   7,994   7,054     558     582     468
+   Asia.....................   2,141   1,532   1,296      --      --      --
+   Canada...................   1,853   2,096   1,976      87      65       7
+   Central and South America   1,559   1,337   1,216      --      --      --
+   Other....................     593     836     735      --      --      --
+                             ------- ------- ------- ------- ------- -------
+   Total.................... $49,391 $51,688 $46,143 $10,290 $10,753 $11,381
+                             ======= ======= ======= ======= ======= =======
+</TABLE>
+
+   No single customer accounted for 10% of net sales in fiscal 2002, 2001, or
+2000.
+
+Note 9--Profit-Sharing Plan
+
+   Along with the Employee Stock Ownership Plan described in Note 5, the
+Company has a non-contributory Profit-Sharing Plan which provides retirement
+benefits to all eligible employees. In addition, the Plan allows participants
+to defer a portion of their cash compensation and contribute such deferral to
+the Plan through payroll deductions. The Company makes matching contributions
+up to specified levels. The deferrals are made within the limits prescribed by
+Section 401(k) of the Internal Revenue Code.
+
+   All contributions are deposited into trust funds. It is the policy of the
+Company to fund any contributions accrued. The Company's annual contribution
+amounts are determined by the Board of Directors. The Company's contributions
+paid or accrued amounted to $165,000 in 2002 and $230,000 in both 2001 and
+2000, respectively.
+
+Note 10--Acquisitions
+
+   Effective December 1, 1999, the Company acquired the assets and business of
+Telefactor Corporation (Telefactor), a privately held corporation, for an
+aggregate purchase price of approximately $3.7 million in cash, including
+transaction fees. The acquisition was accounted for as a purchase under APB
+Opinion No. 16, Business Combinations. At the time of closing, $225,000 was
+established in an escrow account that was designated to be used to settle any
+post-closing purchase price adjustments. In the first quarter of fiscal 2001,
+the Company received $225,000 from the escrow. The purchase and sales agreement
+contains a clause which will require the Company to pay additional purchase
+price of up to $3,000,000 if certain sales levels are achieved. The earnout
+provision is effective over a period of 72 months. At January 31, 2002, no
+additional consideration is owed to the sellers. The purchase price allocation
+was completed during fiscal 2001 and it resulted in a final goodwill amount of
+$1,776,000. Goodwill resulting from the Telefactor acquisition is being
+amortized over 15 years. However, see Long-Lived Assets under Note 1 Summary of
+Significant Accounting policies with respect to the required changes in the
+accounting for goodwill.
+
+                                                                             35
+
+<PAGE>
+
+                                ASTRO-MED, INC.
+
+          SCHEDULE II--VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+
+<TABLE>
+<CAPTION>
+                                    Balance at Provision                         Balance
+                                    Beginning  Charged to                        at End
+            Description              of Year   Operations Deductions(2) Other(3) of Year
+            -----------             ---------- ---------- ------------- -------- --------
+<S>                                 <C>        <C>        <C>           <C>      <C>
+Allowance for Doubtful Accounts(1):
+   Year Ended January 31,
+       2002........................  $467,882   $ 30,000    $145,440         --  $352,442
+       2001........................  $405,783   $193,341    $131,242         --  $467,882
+       2000........................  $212,337   $167,234    $ 42,414    $68,626  $405,783
+</TABLE>
+--------
+(1) The allowance for doubtful accounts has been netted against accounts
+    receivable as of the respective balance sheet dates.
+(2) Uncollectible accounts written off, net of recoveries.
+(3) Reserve addition from the acquisition of Telefactor.
+
+36
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2801 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>e88293_10-k.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+            [X] Annual Report Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+                   For the Fiscal Year Ended December 31, 2001
+
+            [ ] Transition Report Pursuant to Section 13 or 15(d) of
+                       the Securities Exchange Act of 1934
+                   For the transition period from _________ to
+
+                         Commission File Number 0-11676
+
+
+                                  BEL FUSE INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+        NEW JERSEY                                        22-1463699
+-------------------------------                       -------------------
+(State or other jurisdiction of                        (I.R.S. Employer
+incorporation or organization)                        Identification No.)
+
+
+               206 VAN VORST STREET, JERSEY CITY, NEW JERSEY 07302
+                                 (201) 432-0463
+             ------------------------------------------------------
+             (Address and telephone number, including area code, of
+                    registrant's principal executive office)
+
+
+Securities registered pursuant to Section 12(b) of the Act:   None
+
+
+Securities registered pursuant to Section 12(g) of the Act: Class A Common
+Stock, $.10 par value; Class B Common Stock, $.10 par value
+
+     Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                      Yes    X          No
+                           -----            -----
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+
+<PAGE>
+
+     Aggregate market value of voting stock held by non-affiliates as of March
+1, 2002 was approximately $41,445,882 (based upon the closing sales price of
+those shares reported on the National Association of Securities Dealers
+Automated Quotation System for that day).
+
+     Aggregate market value of non-voting stock held by non-affiliates as of
+March 1, 2002 was approximately $146,994,200 (based upon the closing sales price
+of those shares reported on the National Association of Securities Dealers
+Automated Quotation System for that day).
+
+     Number of shares of Common Stock outstanding as of March 1, 2002: 2,674,913
+Class A Common Stock; 8,182,502 Class B Common Stock.
+
+Documents incorporated by reference:
+
+     Bel Fuse Inc.'s Definitive Proxy Statement for the 2002 Annual Meeting of
+Stockholders is incorporated by reference into Part III.
+
+
+<PAGE>
+
+
+
+                                  BEL FUSE INC.
+
+                                      INDEX
+
+Part I                                                                    Page
+------                                                                    ----
+  Item 1.  Business....................................................     1
+
+  Item 2.  Properties..................................................     5
+
+  Item 3.  Legal Proceedings...........................................     5
+
+  Item 4.  Submission of Matters to Vote of Security
+           Holders.....................................................     6
+
+  Item 4A. Executive Officers of the Registrant........................     6
+
+Part II
+-------
+  Item 5.  Market for Registrant's Common Equity
+           And Related Stockholder Matters.............................     8
+
+  Item 6.  Selected Financial Data.....................................     9
+
+  Item 7.  Management's Discussion and Analysis
+           Of Financial Condition and Results of
+           Operations..................................................    10
+
+  Item 7A. Quantitative and Qualitative Disclosures
+           About Market Risk...........................................    17
+
+  Item 8.  Financial Statements and Supplementary Data.................    18*
+
+  Item 9.  Changes in and Disagreements with Accountants
+           on Accounting and Financial Disclosure......................    19
+
+Part III
+--------
+  Item 10. Directors of the Registrant ................................    19
+
+  Item 11. Executive Compensation......................................    19
+
+  Item 12. Security Ownership of Certain
+           Beneficial Owners and Management............................    19
+
+  Item 13. Certain Relationships and Related Transactions..............    19
+
+<PAGE>
+
+Part IV
+
+  Item 14. Exhibits, Financial Statement Schedules
+           and Reports on Form 8-K.....................................    20
+
+
+Signatures.............................................................    23
+
+*Page F-1 follows page 18
+
+
+
+<PAGE>
+
+
+                          FORWARD LOOKING INFORMATION
+
+     The Company's quarterly and annual operating results are affected by a wide
+variety of factors that could materially and adversely affect revenues and
+profitability, including the following: (a) the dramatic impact of current
+conditions in the telecommunication market on the Company's customers; (b) the
+general conditions in the electronics industry; (c) the risk that the Company
+may be unable to respond adequately to rapidly changing technology developments
+in its industry; (d) risks associated with its the Company's Far East
+operations; (e) the highly competitive nature of the Company's industry and the
+impact the competitors' new products and pricing may have upon the Company; (f)
+the likelihood that revenues may vary significantly from one accounting period
+to another accounting period due to a variety of factors, including customers'
+buying decisions, the Company's product mix and general market and economic
+conditions; (g) the Company's reliance on certain substantial customers; (h)
+risks associated with the Company's ability to manufacture and deliver products
+in a manner that is responsive to its customers' needs; (i) the risk of foreign
+currency fluctuations; and (j) other market and competitive factors impacting
+the Company's customers. As a result of these and other factors, the Company may
+experience material fluctuations in future operating results on a quarterly or
+annual basis, which could materially and adversely affect its business,
+financial condition, operating results, and stock prices. Furthermore, this
+document and other documents filed by the Company with the Securities and
+Exchange Commission (the "SEC") contain certain Forward-Looking Statements under
+the Private Securities Litigation Reform Act of 1995 ("Forward-Looking
+Statements") with respect to the business of the Company. These Forward-Looking
+Statements are subject to certain risks and uncertainties, including those
+mentioned above, and those detailed in Item 1 of the Company's Annual Report on
+Form 10-K for the year ended December 31, 2001, which could cause actual results
+to differ materially from these Forward-Looking Statements. The Company
+undertakes no obligation to publicly release the results of any revisions to
+these Forward-Looking Statements which may be necessary to reflect events or
+circumstances after the date hereof or to reflect the occurrence of
+unanticipated events. An investment in the Company involves various risks,
+including those mentioned above and those which are detailed from time to time
+in the Company's SEC filings.
+
+                                     PART I
+
+Item 1. BUSINESS
+
+     General
+
+     Bel Fuse Inc. (the "Company") is organized under New Jersey law. The
+Company does not have reportable segments as defined in Statement of Financial
+Accounting Standards No. 131, "Disclosures about Segments of an Enterprise and
+Related Information". The Company is engaged in the design, manufacture and sale
+of products used in networking, telecommunication, automotive and consumer
+electronic applications. The Company operates facilities in the United States,
+Europe and the Far East. The Company maintains its principal executive offices
+at 206 Van Vorst Street, Jersey City, New Jersey 07302; telephone (201)
+432-0463. The term "Company" as used in this Annual Report on Form 10-K refers
+to Bel Fuse Inc. and its consolidated subsidiaries unless otherwise specified.
+
+                                       -1-
+
+<PAGE>
+
+     On May 11, 2001, the Company acquired 100% of the common stock of E-Power
+Ltd. ("E-Power") and the assets and business of Current Concepts, Inc. ("Current
+Concepts") for an aggregate $6,285,000 in cash (including acquisition expenses).
+The Company will be required to make contingent purchase price payments up to
+approximately $7.6 million should the acquired companies reach various sales
+levels. The transactions were accounted for using the purchase method of
+accounting and, accordingly, the results of operations of Current Concepts and
+E-Power have been included in the Company's financial statements since the date
+of acquisition. The excess of the purchase price over net assets acquired and
+other intangible assets is approximately $5.7 million and is being amortized on
+a straight-line basis over 4 to 15 years. Effective January 1, 2002 goodwill
+will no longer be subject to amortization. The Company will test for impairment
+using an independent appraiser. The Company will discontinue the amortization of
+goodwill effective January 1, 2002. See Note 1 of Notes to Consolidated
+Financial Statements.
+
+Product Groups
+
+     Power Products
+
+     In 2001, the Company entered into the market for power conversion products
+focusing on providing non-isolated DC/DC converters designed specifically to
+power low voltage silicon devices. The need for converting one DC voltage to
+another is growing rapidly as the developers of integrated circuits are now
+commonly adjusting the supply voltage as a means of optimizing device
+performance. The Company develops both standard and custom DC/DC converters.
+These products leverage the Company's existing manufacturing capabilities and
+are marketed primarily to the Company's existing customer base.
+
+     Magnetic Components
+
+     The Company manufactures a broad range of magnetic components used in
+networking, telecommunications, high speed data transmission equipment,
+automotive and consumer products. These wire-wound devices perform such
+functions as signal delay, signal timing, signal conditioning, impedance
+matching, filtering, isolation, power conversion and power transfer.
+Transformers for networking and telecommunication applications are developed
+based on market requirements for emerging technologies, often to support an
+integrated circuit (IC) design.
+
+     Integrated Connector Modules
+
+     These modules combine the Company's magnetic components with combinations
+of RJ45 and USB connectors. In addition to connectivity, these modules provide
+the signal conditioning, electro-magnetic interference suppression and signal
+isolation which were previously performed by multiple, discrete components.
+
+
+                                       -2-
+<PAGE>
+
+
+     Value-added Modules
+
+     The Company supplies value-added modules to end users whose requirements
+can be satisfied by combining in one integrated package one or more of the
+Company's capabilities in surface mount assembly, automatic winding, hybrid
+fabrication and component encapsulation.
+
+     Miniature, Micro and Chip Fuses
+
+     Fuses prevent currents in an electrical or electronic circuit from
+exceeding certain predetermined levels. Fuses act as a safety valve to protect
+expensive components from damage or to cut off high currents before they can
+generate enough heat to cause smoke or fire. The Company manufactures miniature
+and micro fuses for supplementary circuit protection. The Company sells its
+fuses to a worldwide market. They are used in such products as televisions,
+VCR's, power supplies, computers, telephones and networking equipment.
+
+Marketing
+
+     The Company sells its products to more than 800 customers throughout North
+America, Western Europe and the Far East. Sales are made through independent
+sales representative organizations and authorized distributors who are overseen
+by the Company's sales personnel throughout the world. As of December 31, 2001,
+the Company had a sales and support staff of 34 persons that supported 58 sales
+representative organizations and 1 non-exclusive distributor.
+
+     The Company has written agreements with all of its sales representative
+organizations and major distributor. Written agreements terminable on short
+notice by either party are standard in the industry.
+
+     Finished products manufactured by the Company in its Far East facilities
+are, in general, either sold to the Company's Jersey City facility for resale to
+customers in the Americas or are shipped directly to other customers throughout
+the world. For further information regarding the Company's geographic
+operations, see Note 7 of Notes to Consolidated Financial Statements.
+
+     The Company did not have sales to any one customer in excess of ten percent
+of 2001 consolidated sales.
+
+Research and Development
+
+     The Company's research and development efforts in 2001 were spread among
+all of the Company's current product groups. The Company's research and
+development facilities are located in California, Indiana, Texas, Massachusetts,
+Hong Kong and China. In addition, the Company maintains continuing programs to
+improve the reliability of its products and to design specialized assembly
+equipment to increase manufacturing efficiencies. Research and development costs
+amounted to $4,967,000 in 2001. The Company plans to close its Indiana and Texas
+facilities by the end of the third quarter of 2002 and relocate them in
+California. The Company is currently looking for property to purchase in San
+Diego, California where its research and development facility will be located.
+The Company's statements regarding its plans to close facilities and relocate
+them constitute Forward Looking Statements. Actual experience could differ
+materially from such statements for a variety of factors, including applicable
+legal and regulatory requirements and other logistical issues.
+
+
+                                       -3-
+<PAGE>
+
+
+Suppliers
+
+     The Company has multiple suppliers for most of the raw materials that it
+purchases. Where possible, the Company has contractual agreements with suppliers
+to assure a continuing supply of critical components.
+
+     With respect to those items which are purchased from single sources, the
+Company believes that comparable items would be available in the event that
+there were a termination of the Company's existing business relationships with
+any such supplier. While such a termination could produce a disruption in
+production, the Company believes that the termination of business with any one
+of its suppliers would not have a material adverse effect on its long-term
+operations. Actual experience could differ materially from this belief as a
+result of a number of factors, including the time required to locate an
+alternative source and the nature of the demand for the Company's products. In
+the past the Company has experienced shortages in certain raw materials, such as
+capacitors and ferrites, when these materials were in great demand. Even though
+the Company may have more then one supplier for certain materials, it is
+possible that these materials may not be available to the Company in sufficient
+quantities or at the time desired by the Company.
+
+Backlog
+
+     The Company manufactures products against firm orders and projected usage
+by customers. Cancellation and return arrangements are either negotiated by the
+Company on a transactional basis or contractually determined. The Company's
+backlog of orders as of February 25, 2002 was approximately $13.0 million, as
+compared with a backlog of $46 million as of February 25, 2001. Management
+expects that all of the Company's backlog as of February 25, 2002 will be
+shipped by December 31, 2002. Such expectation constitutes a Forward-Looking
+Statement. Factors that could cause the Company to fail to ship all such orders
+by year-end include unanticipated supply difficulties, changes in customer
+demand and new customer designs. The Company's major customers have negotiated
+shorter lead times on purchase orders and have implemented consignment inventory
+programs with the goal of reducing their inventories. Accordingly, backlog is no
+longer as reliable an indicator of the timing of future sales as it has been in
+the past.
+
+Trademarks and Patents
+
+     The Company has been granted a number of U.S. patents and has additional
+U.S. patent applications pending relating to its products. While the Company
+believes that the issued patents are defendable and that the pending patent
+applications relate to patentable inventions, there can be no assurance that a
+patent will be obtained from the applications or that its existing patents can
+be successfully defended. It is management's opinion that the successful
+continuation and operation of the Company's business does not depend upon the
+ownership of patents or the granting of pending patent applications, but upon
+the innovative skills, technical competence and marketing and managerial
+abilities of its personnel. The patents have a life of seventeen years from the
+date of issue or twenty years from filing of patent applications. The Company's
+existing patents expire on various dates from September 30, 2002 to August 29,
+2020.
+
+     The Company utilizes eight U.S. registered trademarks - BELFUSE, BEL,
+BELMAG, BELSTACK, BELSTICK, BELCOMBO, SURFUSE and COMPONENTS FOR A CONNECTED
+PLANET- to identify various products that it manufactures. The trademarks
+survive as long as they are in use and the registrations of these trademarks are
+renewed.
+
+
+                                       -4-
+<PAGE>
+
+
+Competition
+
+     There are numerous independent companies and divisions of major companies
+which manufacture products that are competitive with one or more of the
+Company's products. Some of the Company's competitors possess greater financial,
+marketing and other resources than those available to the Company. The Company's
+ability to compete is dependent upon several factors, including product
+performance, quality, reliability, design and price.
+
+Employees
+
+     As of December 31, 2001, the Company had 866 full-time employees. The
+Company employed 114 people in its U.S. facilities and 752 throughout the rest
+of the world excluding workers supplied by independent contractors. The
+Company's employees are not represented by any labor union. The Company believes
+that its relations with employees are satisfactory.
+
+Item 2. PROPERTIES
+
+     The Company currently occupies approximately 519,000 square feet of
+manufacturing, warehouse, office, technical and staff quarter space worldwide.
+In addition to the Company's principal corporate offices in New Jersey, the
+Company maintains facilities in The People's Republic of China and its Special
+Administrative Regions ("SAR") of Hong Kong and Macau in the Far East, in
+California, Texas, Massachusetts and Indiana in the U.S.A. and in the United
+Kingdom in Europe. The Company also owns an idle facility of 46,300 square feet
+in Illinois. Approximately 40% of the 519,000 square feet the Company occupies
+is owned, while the remainder is leased. The Company plans to close its Indiana
+and Texas facilities by the end of the third quarter of 2002 and relocate them
+in California. The statements regarding its plans to close facilities and
+relocate them constitute Forward Looking Statements. Actual experience could
+differ materially from such statements for a variety of factors, including
+applicable legal and regulatory requirements and other logistical issues. See
+Note 11 of Notes to Consolidated Financial Statements for additional information
+pertaining to leased properties.
+
+Item 3. LEGAL PROCEEDINGS
+
+     The Company commenced an arbitration proceeding before the American
+Arbitration Association against Lucent Technologies, Inc. in or about December
+2000. The arbitration arises out of an Agreement for the Purchase and Sale of
+Assets, dated October 2, 1998 (the "Asset Purchase Agreement"), among Bel Fuse,
+Lucent Technologies, Inc. and Lucent Technologies Maquiladores, Inc., and a
+related Global Procurement Agreement, dated October 2, 1998 (the "Supply
+Agreement"), between Lucent Technologies, Inc., as Buyer, and Bel Fuse, as
+Supplier. Pursuant to the Asset Purchase Agreement, the Company purchased
+substantially all of the assets of Lucent's signal transformer business.
+Pursuant to the Supply Agreement, Lucent agreed that except for limited
+instances where Lucent was obligated to purchase product elsewhere, for a term
+of 3-1/2 years, Lucent would be obligated, on an as required basis, to purchase
+from the Company all of Lucent's requirements for signal transformer products.
+The Supply Agreement also provided that the Company would be given the
+opportunity to furnish quotations for the sale of other products.
+
+
+                                       -5-
+<PAGE>
+
+
+     The Company is seeking monetary damages for alleged breaches by Lucent of
+the Asset Purchase Agreement and the Supply Agreement. In its answer, Lucent
+denied many of the material allegations made by the Company and also asserted
+two counterclaims. The counterclaims seek recovery for alleged losses, including
+loss of revenue, sustained by Lucent as a result of the Company's alleged breach
+of various provisions of the Supply Agreement. The parties are currently engaged
+in extensive discovery proceedings. The Company believes it has substantial and
+meritorious claims against and defenses to Lucent and its counterclaims.
+However, the Company cannot predict how the arbitrator will decide this matter
+and whether it will have a material effect on the financial statements.
+
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of the Company's shareholders during
+the fourth quarter of 2001.
+
+Item 4A. EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The following table and biographical outlines set forth the positions and
+offices within the Company presently held by each executive officer of the
+Company and a brief account of the business experience of each such officer for
+the past five years.
+
+                                                       Positions and Offices
+                             Officer                     With the Company/
+Name and Age                  Since                      Business Experience
+------------                 -------                ----------------------------
+Daniel Bernstein, 48 ......   1985                  President, Chief Executive
+                                                    Officer and Director
+
+Robert H. Simandl, 73 .....   1967                  Secretary and Director
+
+Colin Dunn, 57 ............   1992                  Vice President of Finance
+                                                    and Treasurer
+
+Joseph Meccariello, 51 ....   1995                  Vice President of
+                                                    Manufacturing
+
+Dennis Ackerman, 39 .......   2001                  Vice President of Operations
+
+Dwayne Vasquez  39 ........   2001                  Vice President of Sales
+
+     Daniel Bernstein has served the Company as President since June 1992. He
+previously served as Vice President (1985-1992) and Treasurer (1986-1992) and
+has served as a Director since 1986. He has occupied other positions with the
+Company since 1978. He was appointed Managing Director of the Company's Macau
+subsidiary during 1991.
+
+
+                                       -6-
+<PAGE>
+
+
+Item 4A. EXECUTIVE OFFICERS OF THE REGISTRANT (continued)
+
+     Robert H. Simandl, a Director and Secretary of the Company since 1967, is a
+member of the law firm of Robert H. Simandl, Counselor At Law. He has been a
+practicing attorney in New Jersey since 1953.
+
+     Colin Dunn joined the Company in 1991 as Finance Manager and in 1992 was
+named Vice President of Finance and Treasurer. He is currently a director of Bel
+Fuse Ltd and Bel Fuse Macau LDA. Prior to joining the Company, Mr. Dunn was Vice
+President of Finance and Operations at Kentek Information Systems, Inc. from
+1985 to 1991 and had previously held a series of senior management positions
+with Braintech Inc. and Weyerhaeuser Company.
+
+     Joseph Meccariello joined the Company in 1979 as a Manager of Mechanical
+Engineering and in 1994 became the Deputy Managing Director of the Company's
+Hong Kong subsidiary, Bel Fuse, Ltd. In 1995 he was named Vice President of
+Manufacturing with responsibility for Far East production operations.
+
+     Dennis Ackerman joined the Company in 1986 and has held the positions of
+customer service manager, sales manager, purchasing manager and operations
+manager. In 2001 he was named Vice President of Operations.
+
+     Dwayne Vazquez joined the Company in 2001 as Director of Sales. In October
+2001 he was promoted to Vice President of Sales with responsibility for the
+Company's worldwide sales organization. From 1997 to 2001 he was Director of
+Sales and Marketing at Ericson Microelectronics, Power Module Division in
+Richardson, Texas where he was responsible for driving revenue in the DC/DC and
+Board Mounted Power product markets.
+
+
+                                       -7-
+<PAGE>
+
+
+                                     PART II
+
+Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+          (a) Market Information
+
+     On July 9, 1998 the shareholders approved an amendment to the Company's
+Certificate of Incorporation authorizing a new voting Class A Common Stock, par
+value $.10 per share, and a new non-voting Class B Common Stock, par value $.10
+per share ("Class A" and "Class B," respectively), which are traded on the
+Nasdaq National Market. The following table sets forth the high and low closing
+sales price range (as reported by National Quotation Bureau, Inc.) for the
+Common Stock on Nasdaq for each quarter during the past two years.
+
+                                  Class A    Class B     Class A     Class B
+                                    High      High         Low         Low
+                                  -------    -------     -------     -------
+
+Year Ended December 31, 2000
+  First Quarter ................   $25.75    $24.50      $18.50       $16.56
+  Second Quarter ...............    29.50     28.81       14.81        14.88
+  Third Quarter ................    44.94     41.75       25.00        22.31
+  Fourth Quarter ...............    46.00     44.94       28.75        27.00
+
+Year Ended December 31, 2001
+  First Quarter ................   $39.75    $39.94      $19.75       $20.00
+  Second Quarter ...............    31.75     33.50       20.25        20.57
+  Third Quarter ................    30.00     31.45       17.55        18.55
+  Fourth Quarter ...............    24.25     26.69       18.00        19.25
+
+     The Common Stock is reported under the symbol BELFA and BELFB in the Nasdaq
+National Market.
+
+          (b) Holders
+
+     As of March 1, 2002 there were 146 registered shareholders of the Company's
+Class A Common Stock and 166 registered shareholders of Class B Common Stock.
+The Company estimates that there were 2,190 beneficial shareholders of Class A
+Common Stock and 4,661 beneficial shareholders of Class B Common Stock.
+
+          (c) Dividends
+
+     There are no contractual restrictions on the Company's ability to pay
+dividends. On February 1, 2001, May 1, 2001, August 1, 2001, and November 1,
+2001 the Company paid a $.05 per share dividend to all shareholders of record of
+class B Common Stock in the total amount of $399,070, $400,036, $402,150, and
+$402,304, respectively. On February 1, 2000, May 1, 2000, August 1, 2000 and
+November 1, 2000, the Company paid a $.05 per share dividend to all shareholders
+of record of Class B Common Stock in the total amount of $393,908, $395,356,
+$395,504 and $396,091, respectively. On February 1, 2002 the Company paid a $.05
+per share dividend to all shareholders of record at January 11, 2002 of Class B
+Common Stock in the total amount of $404,351.
+
+
+                                       -8-
+<PAGE>
+
+
+Item 6.  SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+
+                                                                      Years Ended December 31,
+                                           --------------------------------------------------------------------------------
+                                               2001             2000             1999               1998              1997
+                                           -----------        ----------        ---------          --------          ------
+                                                            (In thousands of dollars, except per share data)
+<S>                                         <C>             <C>               <C>                <C>               <C>
+Selected Statements of Operations Data: (a)
+
+Net sales ................................  $ 96,045        $ 145,227         $ 119,464          $ 90,754          $ 73,531
+Cost of sales ............................    89,603           88,479            76,113            58,654            50,724
+Selling, general and
+  administrative expenses ................    21,561           23,284            19,502            16,648            13,830
+Other income - net (b) ...................     2,411            3,912               878             1,579             1,428
+Earnings (loss) before
+  income taxes ...........................   (12,709)          37,376            24,727            17,031            10,405
+Income tax provision (benefit) ...........      (547)           5,159             3,435             1,813             1,555
+Net earnings (loss) ......................   (12,162)          32,217            21,292            15,218             8,850
+Earnings (loss) per common
+  share - basic (c) ......................     (1.13)            3.04              2.03              1.47              0.87
+Earnings (loss) per common
+  share - diluted (c) ....................     (1.13)            2.94              1.98              1.45              0.86
+Cash dividends declared per
+  Class B common share ...................      0.20             0.20              0.20               --                --
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+                                                                      As of December 31,
+                                           ---------------------------------------------------------------------------------
+                                             2001             2000              1999              1998               1997
+                                           ---------        --------         ---------          ---------          ---------
+                                                            (In thousands of dollars, except per share data)
+<S>                                         <C>             <C>               <C>                <C>               <C>
+Selected Balance Sheet Data:
+
+Working capital ..........................  $ 83,698        $ 97,720          $ 66,768           $ 40,899          $ 44,750
+Total assets .............................   147,517         169,513           125,138            103,625            83,152
+Stockholders' equity .....................   129,463         141,016           110,254             88,806            72,829
+Book value per
+  share (b) ..............................     12.02           13.25             10.46               8.56              7.11
+Return on average
+  total assets, % ........................     (7.60)          21.87             18.25              12.50             11.60
+Return on average Stockholders'
+  equity, % ..............................     (8.80)          25.64             20.93              19.00             13.10
+
+</TABLE>
+
+-----------
+
+(a)  On May 11, 2001, the Company acquired 100% of the common stock of E-Power
+     Ltd ("E-Power") and the assets and business of Current Concepts, Inc.
+     ("Current Concepts") for an aggregate of $6,285 in cash (including
+     acquisition expenses). The transactions were accounted for using the
+     purchase method of accounting and, accordingly, the results of operations
+     of Current Concepts and E-Power have been included in the Company's
+     financial statements since the date of acquisition.
+
+(b)  Includes gains of $1,081 from the sale of marketable securities during
+     2000.
+
+(c)  After giving retroactive effect to a two for one stock split payable in the
+     form of a dividend on December 1, 1999.
+
+
+                                      -9-
+<PAGE>
+
+
+Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+     The following discussion and analysis should be read in conjunction with
+the Company's consolidated financial statements and the notes related thereto.
+The discussion of results, causes and trends should not be construed to infer
+any conclusion that such results, causes or trends will necessarily continue in
+the future.
+
+Critical Accounting Policies
+
+     The Company's discussion and analysis of its financial condition and
+results of operations are based upon the Company's consolidated financial
+statements, which have been prepared in accordance with accounting principles
+generally accepted in the United States. The preparation of these financial
+statements requires the Company to make estimates and judgments that affect the
+reported amounts of assets, liabilities, revenues and expenses, and related
+disclosure of contingent assets and liabilities. On an on-going basis, the
+Company evaluates its estimates, including those related to product returns, bad
+debts, inventories, intangible assets, investments, income taxes and
+contingencies and litigation. The Company bases its estimates on historical
+experience and on various other assumptions that are believed to be reasonable
+under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities that are not
+readily apparent from other sources. Actual results may differ from these
+estimates under different assumptions or conditions.
+
+     The Company believes the following critical accounting policies affect its
+more significant judgments and estimates used in the preparation of its
+consolidated financial statements. The Company maintains allowances for doubtful
+accounts for estimated losses resulting from the inability of its customers to
+make required payments. If the financial condition of the Company's customers
+were to deteriorate, resulting in an impairment of their ability to make
+payments, additional allowances may be required.
+
+     The Company makes purchasing decisions principally based upon firm sales
+orders from customers, the availability and pricing of raw materials and
+projected customer requirements. Future events that could adversely affect these
+decisions and result in significant charges to the Company's operations include
+slow down in customer demand as the Company is currently experiencing, customers
+delaying the issuance of sales orders to the Company, miscalculating customer
+requirements, technology changes which render the raw materials and finished
+goods obsolete, and cancellation or loss of customers and/or cancellation of
+sales orders. The Company writes down its inventory for estimated obsolescence
+or unmarketable inventory equal to the difference between the cost of inventory
+and the estimated market value based upon the aforementioned assumptions. If
+actual market conditions are less favorable than those projected by management,
+additional inventory write-downs may be required.
+
+
+                                      -10-
+<PAGE>
+
+
+     The Company seeks sales and profit growth by expanding its existing
+customer base, developing new products and by pursuing strategic acquisitions
+that meet the Company's criteria relating to the market for the products; the
+Company's ability to efficiently manufacture the product; synergies that are
+created by the acquisition; and a purchase price that represents fair value. If
+the Company's evaluation of a target company misjudges its technology, estimated
+future sales and profitability levels, or inability to keep pace with the latest
+technology, these factors could impair the value of the investment, which could
+materially adversely affect the Company's profitability.
+
+     The Company files income tax returns in every jurisdiction in which it has
+reason to believe it is subject to tax. Historically, the Company has been
+subject to examination by various taxing jurisdictions. To date, none of these
+examinations has resulted in any material additional tax. Nonetheless, any tax
+jurisdiction may contend that a filing position claimed by the Company regarding
+one or more of its transactions is contrary to that jurisdiction's laws or
+regulations.
+
+Results of Operations
+
+     The following table sets forth, for the past three years, the percentage
+relationship to net sales of certain items included in the Company's
+consolidated statements of operations.
+
+                                               Percentage of Net Sales
+                                         -------------------------------------
+                                               Years Ended December 31,
+                                         -------------------------------------
+                                          2001           2000           1999
+                                         -----           -----          ------
+Net sales ....................           100.0%          100.0%         100.0%
+Cost of sales ................            93.3%           60.9%          63.7%
+Selling, general and
+  administrative expenses ....            22.4%           16.0%          16.3%
+Other income, net of
+  interest expense ...........             2.5%            2.7%           0.7%
+Earnings (loss) before income
+  taxes ......................           (13.2)%          25.8%          20.7%
+Income tax provision (benefit)            (0.6)%           3.6%           2.9%
+Net earnings (loss) ..........           (12.6)%          22.2%          17.8%
+
+
+                                    Increase (decrease) from
+                                          Prior Period
+                                  -------------------------------
+                                  2001 compared     2000 compared
+                                    with 2000         with 1999
+                                  -------------     -------------
+Net sales .....................       (33.9)%           21.6%
+
+Cost of sales .................         1.3%            16.3%
+
+Selling, general and
+  administrative expenses .....        (7.4)%           19.4%
+
+Net earnings ..................      (137.8)%           51.3%
+
+
+                                      -11-
+<PAGE>
+
+
+Sales
+
+     Net sales decreased 33.9% from approximately $145.2 million in 2000 to
+approximately $96.0 million in 2001. The Company attributes this decrease to the
+decline in demand affecting the global electronics industry. Although all
+product lines experienced sales decreases except for integrated connector
+modules ("ICM"), the telecommunications and networking segments were
+particularly depressed. The Company is experiencing both volume reductions and
+price degradation as the number of manufacturers with saleable products
+increases and customers take aggressive price positions.
+
+     Several of the Company's customers are facing difficult market conditions.
+Some customers have delayed purchase orders, while others have cancelled
+purchase orders outright. Certain customers continue to have surplus
+inventories, thereby reducing their need for the Company's products. As a result
+of these potential difficulties, the Company believes that first quarter 2002
+revenue levels and earnings are not likely to improve upon fourth quarter 2001
+results exclusive of charges for fixed asset write-offs and restructuring
+related expenses. The Company expects to incur additional severance and employee
+relocation charges of up to approximately $1,000,000 (net of taxes) during the
+first nine months of 2002. This projection represents a Forward-Looking
+Statement. Actual results could differ materially from this statement, depending
+in large part upon market conditions in the Company's industry.
+
+     Net sales increased 21.6% from approximately $119.5 million in 1999 to
+approximately $145.2 million in 2000. The Company attributes this increase
+primarily to an increased volume of sales of ICMs, magnetic components and
+fuses.
+
+  Cost of Sales
+
+     Cost of sales as a percentage of net sales increased from 60.9% in 2000 to
+93.3% in 2001. The increase in the cost of sales percentage is primarily
+attributable to a $14.6 million inventory write-off of surplus and obsolete
+inventory and non-cancelable purchase commitments. This provision reflected the
+Company's assessment of then current business levels and its belief that its
+customers will ultimately seek next generation products when and if a recovery
+occurs. Additionally, the Company incurred a charge during the fourth quarter of
+2001 in the total amount of $5.6 million for the write down of fixed assets due
+to changing customer preferences and projected lower volumes in mature product
+lines and other charges related to the consolidation of the Company's
+engineering facilities. Also contributing to the increase in cost of sales are
+manufacturing inefficiencies due to reduced sales volume and sales with lower or
+no gross profit margins.
+
+     Cost of sales as a percentage of net sales decreased from 63.7% in 1999 to
+60.9% in 2000. The decrease is primarily attributable to lower labor and factory
+overhead expenses, the move of Telcom production to the Far East from Texas
+during the fourth quarter of 1999 and higher sales volume which results in
+greater manufacturing efficiencies offset, in part, by higher raw material
+content associated with the current sales mix.
+
+
+                                      -12-
+<PAGE>
+
+
+   Selling, General and Administrative Expenses
+
+     The percentage relationship of selling, general and administrative expenses
+to net sales increased from 16.0% in 2000 to 22.4% in 2001. The Company
+attributes the percentage increase primarily to decreased sales. Selling,
+general and administrative expenses decreased in dollar amount by approximately
+7.4%. The Company attributes the decrease in dollar amount of such expenses to
+reduced sales and marketing salaries and related expenses, offset in part by a
+salary continuance of approximately $700,000 due under the terms of the late
+Chairman of the Board's employment agreement and a charge in the amount of
+$533,000 related to the modification of the terms of certain non-qualified
+incentive stock options held by the estate of the Chairman of the Board. The
+Company's Chairman passed away in July 2001. Additionally, the Company incurred
+severance costs in the Far East of $460,000.
+
+     The percentage relationship of selling, general and administrative expenses
+to net sales decreased from 16.3% in 1999 to 16.0% in 2000. The Company
+attributes the percentage decrease primarily to increased sales. Selling,
+general and administrative expenses increased in dollar amount by 19.4% over
+1999. The Company attributes the increase in the dollar amount of such expenses
+primarily to increases in commissions and other sales related expense due to
+increased sales, and increases in sales, marketing and customer service
+salaries.
+
+   Other Income - net
+
+     Other income, consisting principally of a gain on the sale of marketable
+securities during 2000 and interest earned on cash and cash equivalents,
+decreased by approximately 1,501,000 during the year 2001 compared to the year
+2000. The decrease is due to the $1.0 million gain on the sale of marketable
+securities during 2000 and lower interest income due to lower interest rates
+earned on cash and cash equivalents despite higher cash and cash equivalent
+balances during 2001.
+
+     Other income, consisting principally of interest earned on cash and cash
+equivalents and gains on the sale of marketable securities, increased by
+approximately $3.0 million from the year 1999 to 2000. The increase is due to
+the gains on the sale of marketable securities and higher interest income as the
+Company maintained higher cash and cash equivalent balances during 2000.
+
+     Provision for Income Taxes
+
+     The Company has historically followed a practice of reinvesting a portion
+of the earnings of foreign subsidiaries in the expansion of its foreign
+operations. If the unrepatriated earnings were distributed to the parent
+corporation rather than reinvested in the Far East, such funds would be subject
+to United States Federal income taxes. Management has identified $20 million of
+foreign earnings that may not be permanently reinvested. Deferred income taxes
+in the amount of approximately $6.1 million have been provided on such earnings
+($(.1) million during 2001, $2.1 million during 2000 and $4.1 million during
+1999 and prior years.
+
+
+                                      -13-
+<PAGE>
+
+
+     The Company files income tax returns in every jurisdiction in which it has
+reason to believe it is subject to tax. Historically, the Company has been
+subject to examination by various taxing jurisdictions. To date, none of these
+examinations has resulted in any material additional tax. Nonetheless, any tax
+jurisdiction may contend that a filing position claimed by the Company regarding
+one or more of its transactions is contrary to that jurisdiction's laws or
+regulations.
+
+     The provision (benefit) for income taxes for 2001 was $(547,000) as
+compared to $5,159,000 for 2000. The decrease in the provision is due primarily
+to foreign losses arising from inventory writedowns, United States and foreign
+losses arising from fixed asset write-offs and severance related expenses in
+2001 and lower United States taxes resulting from the gain on the sale of
+marketable securities in 2000 versus 2001 offset in part by pretax profit in
+2001 before these charges.
+
+     The provision for income taxes for 2000 was $5.2 million as compared to
+$3.4 million in 1999. The increase in the provision is due primarily to higher
+United States taxes, resulting from the gains on the sale of marketable
+securities and higher foreign earnings subject to taxes in 2000 versus 1999.
+
+     The Company's effective tax rate has been lower than the statutory United
+States corporate rate primarily as a result of the lower tax rates in Hong Kong
+and Macau.
+
+Cost Control Measures
+
+     In light of the current market in the Company's industry, the Company
+continues to review its operating structures in efforts to control costs. Such
+measures can be expected to result in a consolidation of the Company's
+operations and the recognition of related charges in future periods. The Company
+expects to incur additional severance and employee relocation charges of up to
+approximately $1.0 million (net of taxes) during the first nine months of 2002.
+The description of this expectation constitutes a Forward Looking Statement.
+Actual results could differ materially from such expectation as a result of a
+number of factors, including the Company's ability to effect its relocation
+plans, the economic condition of the Company's industry and other factors that
+relate to the extent to which the Company is able to restore its profitability.
+
+Inflation
+
+     During the past two years, the effect of inflation on the Company's
+profitability was not material. Historically, fluctuations of the U.S. dollar
+against other major currencies have not significantly affected the Company's
+foreign operations as most transactions have been denominated in U.S. dollars or
+currencies linked to the U.S. dollar.
+
+
+                                      -14-
+<PAGE>
+
+
+Liquidity and Capital Resources
+
+     Historically, the Company has financed its capital expenditures through
+cash flows from operating activities. Management believes that the cash flow
+from operations, combined with its existing capital base and the Company's
+available lines of credit, will be sufficient to fund its operations for the
+near term. Such statement constitutes a Forward Looking Statement. Factors which
+could cause the Company to require additional capital include, among other
+things, a further softening in the demand for the Company's existing products,
+an inability to respond to customer demand for new products, potential
+acquisitions requiring substantial capital, future expansion of the Company's
+operations and net losses that could result in net cash being used in operating,
+investing and/or financing activities which result in net decreases in cash and
+cash equivalents. Net losses may result in the loss of domestic and foreign
+credit facilities and preclude the Company from raising debt or equity financing
+in the open markets.
+
+     The Company has two domestic unsecured lines of credit amounting to
+$11,000,000 which were unused at December 31, 2001. The $1 million line of
+credit is renewable annually. The $10 million line of credit is a three year
+line and is renewable during May 2002. The Company will seek to renew this
+credit line although there can be no assurance that it will be able to do so.
+Borrowings under a $10 million line of credit are secured by a first priority
+security interest in and a lien on all personal property of Bel Fuse Inc. and
+its domestic subsidiaries.
+
+     The Company's Hong Kong subsidiary has an unsecured line of credit of
+approximately $2,000,000, which was unused at December 31, 2001. The line of
+credit expires in December 31, 2002. Borrowing on the line of credit is
+guaranteed by the U.S. parent.
+
+     For information regarding further commitments under the Company's operating
+leases, see Note 11 of Notes to the Company's Consolidated Financial Statements.
+
+     On May 11, 2001, the Company acquired 100% of the common stock of E-Power
+Ltd. ("E-Power") and the assets and business of Current Concepts, Inc. ("Current
+Concepts") for an aggregate of $6,285,000 in cash (including acquisition
+expenses). The Company will be required to make contingent purchase price
+payments up to approximately $7.6 million should the acquired companies reach
+various sales levels. The transactions were accounted for using the purchase
+method of accounting and, accordingly, the results of operations of Current
+Concepts and E-Power have been included in the Company's financial statements
+since the date of acquisition. The excess of the purchase price over the net
+assets acquired is approximately $5.7 million and is being amortized on a
+straight-line basis over 4 to 15 years. The Company will discontinue the
+amortization of goodwill effective January 1, 2002 and will measure the
+impairment of goodwill in accordance with SFAS No. 142.
+
+     The Company has completed the construction of new corporate offices in
+Jersey City in the amount of $2.8 million. As of December 31, 2001 there are no
+outstanding liabilities in connection with this project.
+
+
+                                      -15-
+<PAGE>
+
+
+     During 2001 the Chairman of the Board passed away. Under the terms of his
+employment agreement dated October 29, 1997, the Company is obligated to pay his
+Estate the balance due on his employment agreement which approximates $895,000
+(of which $195,000 was expensed in prior years) through December 31, 2003 plus
+health insurance benefits. In addition, the Board of Directors unanimously
+agreed to modify the terms of certain options held by the late Chairman's
+Estate. This resulted in a compensation charge of $533,000 for the year ended
+December 31, 2001.
+
+     On May 9, 2000 the Board of Directors authorized the repurchase of up to
+10% of the Company's outstanding common shares from time to time in market or
+privately negotiated transactions. As of December 31, 2001 the Company had
+purchased and retired 23,600 Class B shares at a cost of approximately $808,000,
+which reduced the number of Class B common shares outstanding.
+
+     During 2001, the Company's cash and cash equivalents increased by
+approximately $6.9 million, reflecting approximately $21.0 million provided by
+operating activities, $3.7 from the sale of marketable securities and $1.3
+million from the exercise of stock options, offset, in part, by approximately
+$6.0 million in purchases of plant and equipment, $5.9 for the payment for
+acquisitions, approximately $1.6 million in dividends and $5.9 in purchases of
+marketable securities.
+
+     Cash, marketable securities and cash equivalents and accounts receivable
+comprised approximately 55.2% and 51.9% of the Company's total assets at
+December 31, 2001 and 2000, respectively. The Company's current ratio (i.e., the
+ratio of current assets to current liabilities) was 7.2 to 1 and 5.5 to 1 at
+December 31, 2001 and 2000, respectively.
+
+     At December 31, 2001, the Company was obligated under non-cancelable
+operating leases and purchase commitments for raw materials as follows:
+
+
+             Years Ended                               Purchase
+            December 31,             Leases          Commitments
+            ------------           ----------        -----------
+               2002 .............  $  502,000        $2,800,000
+               2003 .............     382,000              --
+               2004 .............     209,000              --
+               2005 .............     141,000              --
+               2006 .............      75,000              --
+                                   ----------        ----------
+                                   $1,309,000        $2,800,000
+                                   ==========        ==========
+
+
+                                      -16-
+<PAGE>
+
+
+Other Matters
+
+     Territories of Hong Kong, Macau and The People's Republic of China
+
+     The Territory of Hong Kong became a Special Administrative Region ("SAR")
+of The People's Republic of China in the middle of 1997. The territory of Macau
+became a SAR of The People's Republic of China at the end of 1999. Management
+cannot presently predict what future impact, if any, this will have on the
+Company or how the political climate in China will affect its contractual
+arrangements in China. Substantially all of the Company's manufacturing
+operations and approximately 48% of its identifiable assets are located in Hong
+Kong, Macau, and The People's Republic of China. Accordingly, events resulting
+from the expiration of such leases as well as any change in the "Most Favored
+Nation" status granted to China by the U.S. could have a material adverse effect
+on the Company.
+
+     New Accounting Pronouncements
+
+     Statement of Financial Accounting Standards (SFAS) No. 133, Accounting for
+Derivative Instruments and Hedging Activities, is effective for all fiscal years
+beginning after June 15, 2000. SFAS 133, as amended, establishes accounting and
+reporting standards for derivative instruments, including certain derivative
+instruments embedded in other contracts, and for hedging activities. Under SFAS
+133, certain contracts that were not formerly considered derivatives may now
+meet the definition of a derivative. The Company adopted SFAS 133 effective
+January 1, 2001. The adoption of SFAS 133 has not had a significant impact on
+the consolidated financial position, results of operations, or cash flows of the
+Company.
+
+     On June 29, 2001, the Financial Accounting Standards Board (FASB) issued
+SFAS No. 141, "Business Combinations", and SFAS No. 142, "Goodwill and
+Intangible Assets". Major provisions of these Statements are as follows: all
+business combinations initiated after June 30, 2001 must use the purchase method
+of accounting; the pooling of interest method of accounting is prohibited;
+goodwill and intangible assets with indefinite lives are not amortized but are
+tested for impairment annually, except in certain circumstances, and whenever
+there is an impairment indicator; all acquired goodwill must be assigned to
+reporting units for purposes of impairment testing; effective January 1, 2002,
+goodwill will no longer be subject to amortization. The Company tested for
+impairment of goodwill as of January 1, 2002 using an independent appraiser
+which resulted in no impairment of goodwill under FASB 142. The Company will
+discontinue the amortization of goodwill effective January 1, 2002. This will
+result in a reduction of amortization expense of approximately $860,000 during
+2002.
+
+     In June 2001, the FASB issued SFAS No. 143 "Accounting for Asset Retirement
+Obligations". SFAS No. 143 addresses financial accounting and reporting for
+obligations and costs associated with the retirement of tangible long-lived
+assets. The Company is required to implement SFAS No. 143 on January 1, 2003,
+and has not yet determined the impact that this statement will have on its
+results of operations or financial position.
+
+
+                                      -17-
+<PAGE>
+
+
+     In August 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-lived Assets", effective for fiscal years
+beginning after December 15, 2001. Under SFAS No. 144 assets held for sale will
+be included in discontinued operations if the operations and cash flows will be
+or have been eliminated from the ongoing operations of the entity and the entity
+will not have any significant continuing involvement in the operations of the
+component. The Company is planning to adopt SFAS No. 144 in its year beginning
+January 1, 2002. The Company believes the adoption of SFAS No. 144 will not have
+a material impact on the Company's results of operations or financial position.
+
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk
+
+     Fair Value of Financial Instruments -- The following disclosure of the
+estimated fair value of financial instruments is made in accordance with the
+requirements of Statement of Financial Accounting Standards No. 107,
+"Disclosures about Fair Value of Financial Instruments". The estimated fair
+values of financial instruments have been determined by the Company using
+available market information and appropriate valuation methodologies.
+
+     However, considerable judgment is required in interpreting market data to
+develop the estimates of fair value. Accordingly, the estimates presented herein
+are not necessarily indicative of the amounts that the Company could realize in
+a current market exchange.
+
+     The Company has not entered into, and does not expect to enter into,
+financial instruments for trading or hedging purposes. The Company does not
+currently anticipate entering into interest rate swaps and/or similar
+instruments.
+
+     The Company's carrying values of cash, marketable securities, accounts
+receivable, accounts payable and accrued expenses are a reasonable approximation
+of their fair value.
+
+     The Company's business in this regard is subject to certain risks,
+including, but not limited to, differing economic conditions, loss of
+significant customers, changes in political climate, differing tax structures,
+other regulations and restrictions and foreign exchange rate volatility. The
+Company's future results could be materially and adversely impacted by changes
+in these or other factors.
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     See the consolidated financial statements listed in the accompanying Index
+to Consolidated Financial Statements for the information required by this item.
+
+
+                                      -18-
+<PAGE>
+
+
+                                  BEL FUSE INC
+                                      INDEX
+
+                                                                        Page
+                                                                        ----
+Financial Statements
+--------------------
+
+Independent Auditors' Report .....................................       F-1
+
+Consolidated Balance Sheets as of December 31,
+ 2001 and 2000 ...................................................    F-2 - F-3
+
+Consolidated Statements of Operations for Each
+ of the Three Years in the Period Ended
+ December 31, 2001 ...............................................       F-4
+
+Consolidated Statements of Stockholders' Equity
+ for Each of the Three Years in the Period
+ Ended December 31, 2001 .........................................    F-5 - F-6
+
+Consolidated Statements of Cash Flows for Each
+ of the Three Years in the Period Ended
+ December 31, 2001 ...............................................    F-7 - F-9
+
+Notes to Consolidated Financial Statements .......................   F-10 - F-27
+
+Selected Quarterly Financial Data - Years Ended
+ December 31, 2001 and 2000 (Unaudited) ..........................       F-28
+
+
+                                        F
+<PAGE>
+
+
+INDEPENDENT AUDITORS' REPORT
+
+To the Board of Directors and Stockholders of
+Bel Fuse Inc.
+Jersey City, New Jersey
+
+We have audited the accompanying consolidated balance sheets of Bel Fuse Inc.
+and its subsidiaries (the "Company") as of December 31, 2001 and 2000, and the
+related consolidated statements of operations, stockholders' equity, and cash
+flows for each of the three years in the period ended December 31, 2001. Our
+audits also included the financial statement schedule listed in the Index at
+Item 14. These financial statements and the financial statement schedule are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements and financial statement schedule based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States of America. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of Bel Fuse Inc. and its subsidiaries
+as of December 31, 2001 and 2000, and the results of their operations and their
+cash flows for each of the three years in the period ended December 31, 2001 in
+conformity with accounting principles generally accepted in the United States of
+America. Also, in our opinion, such financial statement schedule, when
+considered in relation to the basic consolidated financial statements taken as a
+whole, presents fairly in all material respects the information set forth
+therein.
+
+March 13, 2002
+New York, New York
+
+
+
+                                       F-1
+
+<PAGE>
+
+
+                    BEL FUSE INC. AND SUBSIDIARIES
+                     CONSOLIDATED BALANCE SHEETS
+
+                                                    December 31,    December 31,
+                                                        2001           2000
+                                                    ------------    ------------
+                                     ASSETS
+
+Current Assets:
+     Cash and cash equivalents ...............     $ 69,278,574     $ 62,587,033
+     Marketable securities ...................        2,342,663          231,431
+     Accounts receivable - less allowance
+      of $945,000 and $945,000 ...............        9,814,914       25,165,748
+     Inventories .............................       13,870,822       30,259,606
+     Prepaid expenses and other current
+      assets .................................          269,275          318,120
+     Refundable income taxes .................          826,859             --
+     Deferred income taxes ...................          817,000          654,000
+                                                   ------------     ------------
+         Total Current Assets ................       97,220,107      119,215,938
+                                                   ------------     ------------
+
+Property, plant and equipment - net ..........       36,353,951       39,738,064
+
+Goodwill - net of amortization of
+ $5,811,188 and $3,548,401 ...................       13,653,521       10,241,051
+
+Other assets .................................          288,943          318,352
+                                                   ------------     ------------
+     TOTAL ASSETS ............................     $147,516,522     $169,513,405
+                                                   ============     ============
+
+
+                 See notes to consolidated financial statements.
+
+
+                                      F-2
+<PAGE>
+
+                    BEL FUSE INC. AND SUBSIDIARIES
+                      CONSOLIDATED BALANCE SHEETS
+
+                                                     December 31,   December 31,
+                                                         2001         2000
+                                                     ------------   ------------
+
+                  LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current Liabilities:
+     Accounts payable ............................   $  4,624,185   $ 13,038,299
+     Accrued expenses ............................      8,492,425      8,058,326
+     Dividends payable ...........................        405,000        399,700
+                                                     ------------   ------------
+         Total Current Liabilities ...............     13,521,610     21,496,325
+                                                     ------------   ------------
+Deferred income taxes ............................      4,532,000      7,001,000
+                                                     ------------   ------------
+         Total Liabilities .......................     18,053,610     28,497,325
+                                                     ------------   ------------
+Commitments and Contingencies
+
+Stockholders' Equity:
+     Preferred stock, no par value,
+      authorized 1,000,000 shares;
+      none issued ................................           --             --
+     Class A common stock, par value
+      $.10 per share - authorized
+      10,000,000 shares; outstanding
+      2,664,637 and 2,646,828 shares, respectively
+      (net of 1,072,770 treasury shares) .........        266,464        264,683
+     Class B common stock, par value
+      $.10 per share - authorized
+      30,000,000 shares; outstanding
+      8,105,117 and 7,993,783 shares, respectively
+      (net of 3,218,310 treasury shares) .........        810,512        799,379
+     Additional paid-in capital ..................     11,674,768      9,419,553
+     Retained earnings ...........................    116,699,114    130,470,576
+     Cumulative other comprehensive
+      income .....................................         12,054         61,889
+                                                     ------------   ------------
+         Total Stockholders' Equity ..............    129,462,912    141,016,080
+                                                     ------------   ------------
+         TOTAL LIABILITIES AND
+           STOCKHOLDERS' EQUITY ..................   $147,516,522   $169,513,405
+                                                     ============   ============
+
+                 See notes to consolidated financial statements.
+
+
+                                      F-3
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+
+                                                                Years Ended December 31,
+                                                    ----------------------------------------------
+                                                        2001             2000            1999
+                                                    -------------    -------------   -------------
+<S>                                                 <C>              <C>             <C>
+Net Sales .......................................   $  96,044,817    $ 145,226,811   $ 119,463,650
+                                                    -------------    -------------   -------------
+Costs and expenses:
+     Cost of sales ..............................      89,603,327       88,478,545      76,112,866
+     Selling, general and administrative ........      21,561,028       23,284,152      19,501,988
+                                                    -------------    -------------   -------------
+                                                      111,164,355      111,762,697      95,614,854
+                                                    -------------    -------------   -------------
+Income (loss) from operations ...................     (15,119,538)      33,464,114      23,848,796
+Other income - net ..............................       2,410,566        3,912,347         878,037
+                                                    -------------    -------------   -------------
+Earnings (loss) before provision for income taxes     (12,708,972)      37,376,461      24,726,833
+Income tax provision (benefit) ..................        (547,000)       5,159,000       3,435,000
+                                                    -------------    -------------   -------------
+Net earnings (loss) .............................   $ (12,161,972)   $  32,217,461   $  21,291,833
+                                                    =============    =============   =============
+Earnings (loss) per common share - basic ........   $       (1.13)   $        3.04   $        2.03
+                                                    =============    =============   =============
+Earnings (loss) per common share - diluted ......   $       (1.13)   $        2.94   $        1.98
+                                                    =============    =============   =============
+Weighted average number of
+ common shares outstanding - basic ..............      10,715,921       10,582,916      10,476,670
+                                                    =============    =============   =============
+Weighted average number of
+ common shares outstanding - diluted ............      10,715,921       10,953,540      10,777,485
+                                                    =============    =============   =============
+
+</TABLE>
+
+                See notes to consolidated financial statements.
+
+
+                                      F-4
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+<TABLE>
+<CAPTION>
+
+                                                                                     Cumulative
+                                                                                        Other
+                                                        Compre-                        Compre-      Class A    Class B  Additional
+                                                        hensive      Retained          hensive      Common     Common     Paid-in
+                                         Total          Income       Earnings       Income (loss)    Stock      Stock     Capital
+                                       -----------    ---------     ------------    ------------- ----------  --------- -----------
+<S>                                    <C>            <C>           <C>               <C>         <C>         <C>        <C>
+Balance, January 1, 1999 ...........   $88,806,159                   $79,728,787      $ (4,711)    $ 260,331  $ 780,993  $8,040,759
+Exercise of stock
+  options ..........................       662,821                                                     2,889     10,038     649,894
+Tax benefits arising
+  from the non-qualified
+  disposition of
+  incentive stock options ..........       121,000                                                                          121,000
+Cash dividends on Class B
+  common stock .....................    (1,180,855)                   (1,180,855)
+Currency translation
+  adjustment .......................        15,275    $    15,275                       15,275
+Unrealized gain
+  on marketable
+  securities-net of taxes ..........       537,704        537,704                      537,704
+Net earnings .......................    21,291,833     21,291,833     21,291,833
+                                                      -----------
+      Comprehensive Income .........                  $21,844,812
+                                       -----------    ===========   ------------      --------      --------   --------  ----------
+
+Balance, December 31, 1999 .........   110,253,937                    99,839,765       548,268       263,220    791,031   8,811,653
+Exercise of stock
+  options ..........................       962,516                                                     1,463     10,708     950,345
+Tax benefits arising
+  from the non-qualified
+  disposition of
+  incentive stock options ..........       438,000                                                                          438,000
+Cash dividends on Class B
+  common stock .....................    (1,586,650)                   (1,586,650)
+Currency translation
+  adjustment .......................        26,607       $ 26,607                       26,607
+Purchase and retirement of
+  common stock .....................      (807,805)                                                              (2,360)   (805,445)
+Issuance of stock warrants
+  for consulting services ..........        25,000                                                                           25,000
+Decrease in marketable
+  securities-net of taxes ..........      (512,986)      (512,986)                    (512,986)
+Net earnings .......................    32,217,461     32,217,461     32,217,461
+                                                      -----------
+      Comprehensive Income .........                  $31,731,082
+                                                      ===========
+                                       -----------                  ------------      --------      --------   --------  ----------
+Balance, December 31, 2000 .........   141,016,080                   130,470,576        61,889       264,683    799,379   9,419,553
+
+</TABLE>
+
+
+                See notes to consolidated financial statements.
+
+
+                                      F-5
+
+<PAGE>
+
+
+                                        BEL FUSE INC. AND SUBSIDIARIES
+                                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+
+                                                                                     Cumulative
+                                                                                       Other
+                                                      Compre-                          Compre-      Class A    Class B    Additional
+                                                      hensive        Retained          hensive       Common     Common      Paid-in
+                                        Total         Income         Earnings       Income (loss)    Stock      Stock      Capital
+                                    ------------   ------------    ------------     -------------  --------   --------   -----------
+<S>                                 <C>            <C>             <C>                 <C>         <C>        <C>        <C>
+Exercise of stock
+  options .........................    1,328,129                                                      1,781    11,133      1,315,215
+Tax benefits arising
+  from the non-qualified
+  disposition of
+  incentive stock options .........      382,000                                                                             382,000
+Cash dividends on Class B
+  common stock ....................   (1,609,490)                    (1,609,490)
+Modifications of terms of
+  stock option ....................      533,000                                                                             533,000
+Currency translation
+  adjustment ......................        3,165   $      3,165                           3,165
+Issuance of common stock warrants
+  for consulting services .........       25,000                                                                              25,000
+Decrease in marketable
+  securities-net of taxes .........      (53,000)       (53,000)                        (53,000)
+Net loss ..........................  (12,161,972)   (12,161,972)    (12,161,972)
+                                                   ------------
+      Comprehensive loss ..........                $(12,211,807)
+                                                   ============
+                                    ------------                   ------------        --------    --------   --------   -----------
+Balance, December 31, 2001 ........ $129,462,912                   $116,699,114        $ 12,054    $266,464   $810,512   $11,674,768
+                                    ============                   ============        ========    ========   ========   ===========
+</TABLE>
+
+                See notes to consolidated financial statements.
+
+
+                                      F-6
+<PAGE>
+                         BEL FUSE INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                               Years Ended December 31,
+                                                     --------------------------------------------
+                                                         2001           2000             1999
+                                                     ------------    ------------    ------------
+<S>                                                  <C>             <C>             <C>
+Cash flows from operating activities:
+     Net income (loss) ...........................   $(12,161,972)   $ 32,217,461    $ 21,291,833
+Adjustments to reconcile net
+ income (loss) to net cash provided
+ by operating activities:
+     Depreciation and amortization ...............      7,784,577       5,931,755       6,100,768
+     Inventory write-off .........................     14,586,000            --              --
+     Loss on write-off/sale of fixed assets ......      3,957,267            --              --
+     Restructuring charges .......................      1,056,000            --              --
+     Other .......................................        941,575         493,269         126,929
+     Deferred income taxes .......................     (2,592,000)      1,783,000       1,634,000
+     Gain on sale of marketable securities .......           --        (1,081,437)           --
+     Changes in operating assets
+      and liabilities ............................      7,400,734        (941,946)     (5,908,708)
+        Net Cash Provided by                         ------------     -----------     -----------
+         Operating Activities ....................     20,972,181      38,402,102      23,244,822
+                                                     ------------     -----------     -----------
+Cash flows from investing activities:
+     Purchase of property, plant
+      and equipment ..............................     (5,975,441)     (8,127,595)     (5,272,130)
+     Purchase of marketable
+      securities .................................     (5,864,808)       (773,253)     (1,357,335)
+     Payment for acquisitions-net of cash acquired     (5,943,046)           --           (43,806)
+     Proceeds from sale of
+      marketable securities ......................      3,663,213       3,024,432            --
+     Proceeds from sale of
+      equipment ..................................         89,164             865         136,953
+                                                     ------------     -----------     -----------
+         Net Cash Used in
+            Investing Activities .................    (14,030,918)     (5,875,551)     (6,536,318)
+                                                     ------------     -----------     -----------
+
+</TABLE>
+
+                See notes to consolidated financial statements.
+
+                                      F-7
+
+
+<PAGE>
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED)
+
+<TABLE>
+<CAPTION>
+
+                                                                  Year Ended December 31,
+                                                            -------------------------------------------
+                                                                2001            2000            1999
+                                                            -----------    ------------     -----------
+<S>                                                         <C>            <C>             <C>
+Cash flows from financing activities:
+     Repurchase of common stock ........................           --          (807,805)           --
+     Loan repayments ...................................         29,000         104,000         128,804
+     Proceeds from exercise of
+      stock options ....................................      1,328,129         962,516         662,821
+     Dividends paid to common
+      shareholders .....................................     (1,606,851)     (1,580,858)     (1,041,185)
+                                                           ------------    ------------    ------------
+         Net Cash Used in Financing Activities .........       (249,722)     (1,322,147)       (249,560)
+                                                           ------------    ------------    ------------
+Net Increase in Cash and Cash Equivalents ..............      6,691,541      31,204,404      16,458,944
+Cash and Cash Equivalents
+  - beginning of year ..................................     62,587,033      31,382,629      14,923,685
+                                                           ------------    ------------    ------------
+Cash and Cash Equivalents
+  - end of year ........................................   $ 69,278,574    $ 62,587,033    $ 31,382,629
+                                                           ============    ============    ============
+Changes in operating assets and liabilities consist of:
+     (Increase) decrease in accounts
+      receivable .......................................   $ 15,351,628    $ (6,377,235)   $ (1,742,976)
+     (Increase) decrease in inventories ................      1,863,260      (6,048,952)     (2,363,091)
+     (Increase) decrease in prepaid
+      expenses and other
+      current assets ...................................         73,287         (87,300)       (109,755)
+     (Increase) in prepaid taxes .......................       (826,859)           --              --
+     Decrease in other assets ..........................         29,409          54,123          76,778
+     Increase (decrease) in
+      accounts payable .................................     (8,446,636)      8,662,384        (609,925)
+     (Decrease) increase in
+      accrued expenses .................................       (643,355)      3,096,884      (1,391,342)
+     Increase (decrease) in
+      income taxes payable .............................           --          (241,850)        231,603
+                                                           ------------    ------------    ------------
+                                                           $  7,400,734    $   (941,946)   $ (5,908,708)
+                                                           ============    ============    ============
+
+</TABLE>
+
+                See notes to consolidated financial statements.
+
+
+                                      F-8
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF CASH FLOWS (CONCLUDED)
+
+<TABLE>
+<CAPTION>
+
+                                                       Year Ended December 31,
+                                                 -------------------------------------
+                                                    2001        2000          1999
+                                                 ----------  -----------   -----------
+<S>                                             <C>           <C>          <C>
+Supplementary information:
+     Cash paid during the year for:
+        Income taxes .........................   $2,421,000   $3,183,000   $1,598,000
+                                                 ==========   ==========   ==========
+     Details of acquisition:
+        Fair value of assets
+         acquired (excluding cash of $341,954)   $  267,789
+        Intangibles ..........................    5,675,257
+                                                 ----------
+     Cash paid for acquisition ...............   $5,943,046
+                                                 ==========
+</TABLE>
+
+
+                See notes to consolidated financial statements.
+
+
+                                      F-9
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     Bel Fuse Inc. and its subsidiaries (the "Company") operate in one industry
+segment and are engaged in the design, manufacture and sale of products used in
+local area networking, telecommunication, business equipment and consumer
+electronic applications. Operations are managed on a geographic basis. Sales are
+predominantly in North America, Western Europe and the Far East.
+
+     PRINCIPLES OF CONSOLIDATION - The consolidated financial statements include
+the accounts of the Company and its wholly owned subsidiaries. All intercompany
+transactions and balances have been eliminated.
+
+     USE OF ESTIMATES - The preparation of the financial statements in
+conformity with accounting principles generally accepted in the United States of
+America requires management to make estimates and assumptions that affect the
+reported amounts of assets and liabilities and disclosure of contingent assets
+and liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses during the reporting period. Actual results could
+differ from those estimates.
+
+     CASH EQUIVALENTS - Cash equivalents include short-term investments in U.S.
+treasury bills and commercial paper with an original maturity of three months or
+less when purchased. At December 31, 2001 and 2000, cash equivalents approximate
+$50,588,000 and $53,128,000, respectively.
+
+     MARKETABLE SECURITIES - The Company classifies its investments in equity
+securities as "available for sale", and accordingly, reflects unrealized gains
+and losses, net of deferred income taxes, as cumulative other comprehensive
+income.
+
+     The fair values of marketable securities are estimated based on quoted
+market prices. Realized gains or losses from the sales of marketable securities
+are based on the specific identification method.
+
+
+                                      F-10
+<PAGE>
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+     (Continued)
+
+     CONCENTRATION OF CREDIT RISK - Financial instruments which potentially
+subject the Company to concentrations of credit risk consist principally of
+accounts receivable and temporary cash investments. The Company grants credit
+primarily to original equipment manufacturers and to subcontractors of original
+equipment manufacturers based on an evaluation of the customer's financial
+condition, without requiring collateral. Exposure to losses on receivables is
+principally dependent on each customer's financial condition. The Company
+controls its exposure to credit risk through credit approvals, credit limits and
+monitoring procedures and establishes allowances for anticipated losses.
+
+     The Company places its temporary cash investments with quality financial
+institutions and, by policy, limits the amount of credit exposure with any one
+financial instrument.
+
+     INVENTORIES - Inventories are stated at the lower of weighted average cost
+or market.
+
+     REVENUE RECOGNITION - Revenue is recognized when products are shipped and
+title passes to customers.
+
+     AMORTIZATION OF INTANGIBLES - Goodwill represents the excess of purchase
+price and related costs over the value assigned to the net tangible assets
+acquired in a business acquisition. Goodwill and other intangible assets are
+amortized on a straight-line basis over 4 to 15 years. Amortization expense was
+$2,263,000 in 2001, $1,506,000 in 2000, and $1,518,000 in 1999.
+
+     Subsequent to January 1, 2002, the Company will evaluate the recoverability
+of goodwill by estimating the future discounted cash flows of the reporting
+units to which the goodwill relates. This evaluation will be made whenever
+events or changes in circumstances indicate the carrying amount may not be fully
+recoverable. Estimated cash flows will be determined by disaggregating the
+Company's business segments into operational and organizational levels for which
+meaningful identifiable cash flows can be determined. When estimated future
+discounted cash flows are less than the carrying amount of the reporting unit,
+impairment loss will be charged to operations.
+
+
+                                      F-11
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+     (Continued)
+
+In determining the estimated future cash flows, the Company will consider
+current and projected future levels of income as well as business trends,
+prospects, and market and economic conditions. Prior to December 31, 2001, the
+assessment of recoverability and measurement of impairment was based on
+undiscounted cash flows.
+
+     DEPRECIATION - Property, plant and equipment are stated at cost less
+accumulated depreciation and amortization. Depreciation and amortization are
+calculated primarily using the declining-balance method for machinery and
+equipment and the straight-line method for buildings and improvements over their
+estimated useful lives.
+
+     INCOME TAXES - The Company accounts for income taxes using an asset and
+liability approach under which deferred income taxes are recognized by applying
+enacted tax rates applicable to future years to the differences between the
+financial statement carrying amounts and the tax bases of reported assets and
+liabilities.
+
+     Except for a portion of foreign earnings, an income tax provision has not
+been recorded for U.S. federal income taxes on the undistributed earnings of
+foreign subsidiaries as such earnings are intended to be permanently reinvested
+in those operations. Such earnings would become taxable upon the sale or
+liquidation of these foreign subsidiaries or upon the repatriation of dividends.
+
+     The principal items giving rise to deferred taxes are the use of
+accelerated depreciation methods for plant and equipment, the assumed
+repatriation of a portion of foreign earnings and certain expenses which have
+been deducted for financial reporting purposes which are not currently
+deductible for income tax purposes and the future tax benefit of certain foreign
+net operating loss carryforward.
+
+     STOCK - BASED COMPENSATION - The Company accounts for employee stock
+options in accordance with the provisions of Accounting Principles Board Opinion
+No. 25 "Accounting for Stock Issued to Employees". Accordingly, stock options
+granted to employees are recorded using the intrinsic value method. The Company
+has adopted the disclosure-only provisions of Statement of Financial Accounting
+Standards No. 123, "Accounting for Stock-based Compensation." The standard
+encourages, but does not require, companies to recognize compensation expense
+for grants of stock, stock options and other equity instruments to employees
+based on fair value.
+
+
+                                      F-12
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+     (Continued)
+
+     On July 6, 2001 the Chairman of the Board passed away. The Board of
+Directors unanimously agreed to modify the terms of certain options held by the
+late Chairman's Estate. This resulted in a compensation charge of $533,000 for
+the year ended December 31, 2001.
+
+     EVALUATION OF LONG-LIVED ASSETS - Long-lived assets are assessed for
+recoverability on an on-going basis. In evaluating the fair value and future
+benefits of long-lived assets, their carrying value would be reduced by the
+excess, if any, of the long-lived asset over management's estimate of the
+anticipated undiscounted future net cash flows of the related long-lived asset.
+As of December 31, 2001, the Company wrote-off property and equipment with a net
+book value of approximately $3,950,000.
+
+     EARNINGS (LOSS) PER COMMON SHARE - Basic earnings (loss) per common share
+are computed by dividing net earnings (loss) by the weighted average number of
+common shares outstanding during the year. Diluted earnings per common share are
+computed by dividing net earnings by the weighted average number of common
+shares and potential common shares outstanding during the year. Potential common
+shares used in computing diluted earnings per share relate to stock options and
+warrants which, if exercised, would have a dilutive effect on earnings per
+share. The number of potential common shares outstanding were 218,212, 370,624,
+and 300,815 for the years ended December 31, 2001, 2000 and 1999, respectively.
+During the year ended December 31, 2001 potential common shares outstanding were
+omitted from the calculation of loss per share as the effect would be
+antidilutive. During the two years ended December 31, 2000, there were no
+antidilutive options and warrants omitted from the calculation of diluted
+earnings per share.
+
+     FAIR VALUE OF FINANCIAL INSTRUMENTS - For financial instruments, including
+cash, accounts receivable, accounts payable and accrued expenses, it was assumed
+that the carrying amount approximated fair value because of the short maturities
+of such instruments.
+
+     NEW FINANCIAL ACCOUNTING STANDARDS - Statement of Financial Accounting
+Standards (SFAS) No. 133, Accounting for Derivative Instruments and Hedging
+Activities, is effective for all fiscal years beginning after June 15, 2000.
+SFAS 133, as amended, establishes accounting and reporting standards for
+derivative instruments, including certain derivative instruments embedded in
+other contracts, and for hedging activities. Under SFAS 133, certain contracts
+that were not formerly considered derivatives may now meet the definition of a
+derivative. The Company adopted SFAS 133 effective January 1, 2001. The adoption
+of SFAS 133 has not had a significant impact on the consolidated financial
+position, results of operations, or cash flows of the Company.
+
+
+                                      F-13
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     On June 29, 2001, the Financial Accounting Standards Board (FASB) issued
+SFAS No. 141, "Business Combinations", and SFAS No. 142, "Goodwill and
+Intangible Assets". Major provisions of these Statements are as follows: all
+business combinations initiated after June 30, 2001 must use the purchase method
+of accounting; the pooling of interest method of accounting is prohibited;
+goodwill and intangible assets with indefinite lives are not amortized but are
+tested for impairment annually, except in certain circumstances, and whenever
+there is an impairment indicator; all acquired goodwill must be assigned to
+reporting units for purposes of impairment testing; effective January 1, 2002,
+goodwill will no longer be subject to amortization. The Company tested for
+impairment of goodwill as of January 1, 2002 using an independent appraiser
+which resulted in no impairment of goodwill under FASB 142. The Company will
+discontinue the amortization of goodwill effective January 1, 2002. This will
+result in a reduction of amortization expense of approximately $860,000 during
+2002.
+
+     In June 2001, the FASB issued SFAS No. 143 "Accounting for Asset Retirement
+Obligations". SFAS No. 143 addresses financial accounting and reporting for
+obligations and costs associated with the retirement of tangible long-lived
+assets. The Company is required to implement SFAS No. 143 on January 1, 2003,
+and has not yet determined the impact that this statement will have on its
+results of operations or financial position.
+
+     In August 2001, the FASB issued SFAS No. 144, "Accounting for the
+Impairment or Disposal of Long-lived Assets", effective for fiscal years
+beginning after December 15, 2001. Under SFAS No. 144 assets held for sale will
+be included in discontinued operations if the operations and cash flows will be
+or have been eliminated from the ongoing operations of the entity and the entity
+will not have any significant continuing involvement in the operations of the
+component. The Company is planning to adopt SFAS No. 144 in its year beginning
+January 1, 2002. The Company believes the adoption of SFAS No. 144 will not have
+a material impact on the Company's results of operations or financial position.
+
+2.   ACQUISITION
+
+     On May 11, 2001, the Company acquired 100% of the common stock of E-Power
+Ltd. ("E-Power") and the assets and business of Current Concepts, Inc. ("Current
+Concepts") for an aggregate of $6,285,000 in cash (including acquisition
+expenses). The Company will be required to make contingent purchase price
+payments of up to approximately $7.6 million should the acquired companies reach
+various sales levels. The transactions were accounted for using the purchase
+method of accounting and, accordingly, the results of operations of Current
+Concepts and E-Power have been included in the Company's consolidated financial
+statements since the date of acquisition. Purchase price allocations were based
+on independent formal appraisals. The excess of the purchase price over net
+assets acquired and other intangible assets is approximately $5.7 million and is
+being amortized on a straight-line basis over a period
+
+
+                                      F-14
+<PAGE>
+
+
+of 4 to 15 years. The Company will discontinue the amortization of goodwill
+effective January 1, 2002 and will measure the impairment of goodwill in
+accordance with SFAS No. 141. The following unaudited pro forma summary results
+of operations assumes that both Current Concepts and E-Power had been acquired
+as of January 1, 2000:
+
+                                                      Year Ended
+                                                      December 31,
+                                           ---------------------------------
+                                              2001                    2000
+                                           --------                ---------
+                                                (Dollars in thousands
+                                                except per share data)
+Sales ...............................      $ 96,133                $ 145,929
+Net income (loss) ...................       (13,321)                  31,173
+Earnings (loss) per share-diluted ...      $  (1.24)               $    2.85
+
+     The information above is not necessarily indicative of the results of
+operations that would have occurred if the acquisitions had been consummated as
+of January 1, 2000, nor should such information be construed as being a
+representation of the future results of operations of the Company.
+
+3.   MARKETABLE SECURITIES
+
+     At December 31, 2001 and 2000 respectively, marketable securities have a
+cost of approximately $2,396,000 and $186,000, an estimated fair value of
+approximately $2,343,000 and $231,000, gross unrealized (loss) gain of
+approximately $(53,000) and $(513,000) and realized gain of approximately
+$1,081,000 during 2000. The realized gain in 2000 is included in other income
+- net.
+
+4.  INVENTORIES
+
+     Inventories consist of the following:
+
+                                                       December 31,
+                                             --------------------------------
+                                                 2001                 2000
+                                             -----------          -----------
+Raw materials .............................  $ 9,289,702          $16,486,878
+Work in process ...........................       67,638               91,095
+Finished goods ............................    4,513,482           13,681,633
+                                             -----------          -----------
+                                             $13,870,822          $30,259,606
+                                             ===========          ===========
+
+
+                                      F-15
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+5.   PROPERTY, PLANT AND EQUIPMENT
+
+     Property, plant and equipment consist of the following:
+
+
+                                                           December 31,
+                                                --------------------------------
+                                                    2001                  2000
+                                                -----------          -----------
+Land ........................................   $ 1,660,466          $ 1,164,436
+Buildings and improvements ..................    16,931,722           16,027,254
+Machinery and equipment .....................    54,586,642           57,654,254
+Idle property held for sale .................       250,000              935,000
+                                                -----------          -----------
+                                                 73,428,830           75,780,944
+Less accumulated depreciation ...............    37,074,879           36,042,880
+                                                -----------          -----------
+                                                $36,353,951          $39,738,064
+                                                ===========          ===========
+
+     Depreciation expense for the years ended December 31, 2001, 2000, and 1999
+was $5,521,000, $4,425,000, and $4,585,000, respectively.
+
+
+                                      F-16
+
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+6.   INCOME TAXES
+
+     The provision (benefit) for income taxes consists of the following:
+
+
+                                          Years Ended December 31,
+                             --------------------------------------------------
+                                2001                2000                1999
+                             ----------          ----------          ----------
+Current:
+    Federal ...............  $1,674,000          $1,758,000          $  907,000
+    Foreign ...............     244,000           1,367,000             729,000
+    State .................     127,000             251,000             165,000
+                             ----------          ----------          ----------
+                              2,045,000           3,376,000           1,801,000
+                             ----------          ----------          ----------
+Deferred:
+    Federal ...............  (1,616,000)          1,806,000           1,691,000
+    Foreign ...............    (976,000)            (23,000)            (57,000)
+                             ----------          ----------          ----------
+                             (2,592,000)          1,783,000           1,634,000
+                             ----------          ----------          ----------
+                             $ (547,000)         $5,159,000          $3,435,000
+                             ==========          ==========          ==========
+
+
+A reconciliation of taxes on income computed at the federal statutory rate to
+amounts provided is as follows:
+
+                                               Years Ended December 31,
+                                   --------------------------------------------
+                                       2001            2000            1999
+                                   -----------      -----------     -----------
+Tax provision (benefit)
+  computed at the Federal
+  statutory rate of 34% ........   $(4,321,000)     $12,708,000     $ 8,407,000
+Increase (decrease) in
+  taxes resulting from:
+    Lower tax rates applicable
+       to foreign operations ...     3,155,000       (7,376,000)     (4,924,000)
+Repatriation of foreign
+   passive income ..............       543,000             --               --
+State taxes, net of federal
+   benefit .....................        84,000          166,000         109,000
+Other, net .....................        (8,000)        (339,000)       (157,000)
+                                   -----------      -----------     -----------
+                                   $  (547,000)     $ 5,159,000     $ 3,435,000
+                                   ===========      ===========     ===========
+
+
+                                      F-17
+<PAGE>
+
+
+6.   INCOME TAXES (continued)
+
+     The types of temporary differences between the tax basis of assets and
+liabilities and their financial reporting amounts that give rise to the deferred
+tax liability and deferred tax asset and their approximate tax effects are as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                                     December 31,
+                                         ----------------------------------------------------------------------
+                                                       2001                                 2000
+                                         -------------------------------         ------------------------------
+                                          Temporary                              Temporary
+                                          Difference          Tax Effect         Difference          Tax Effect
+                                         -----------         -----------         -----------         ----------
+<S>                                      <C>                 <C>                 <C>                 <C>
+Deferred Liabilities-
+  non-current
+    Depreciation and
+      amortization ..............        $10,917,000         $   739,000         $11,334,000         $  872,000
+
+    Unremitted earnings of
+      foreign subsidiaries
+      not permanently
+      reinvested ................         20,180,000           6,054,000          20,430,000          6,129,000
+    Foreign net operating
+    loss carryforward ...........         (8,000,000)           (696,000)               --                 --
+    Provisions for which no
+    current benefit is
+    expected ....................         (3,913,000)         (1,565,000)               --                 --
+                                         -----------         -----------         -----------         ----------
+                                         $19,184,000         $ 4,532,000         $31,764,000         $7,001,000
+                                         ===========         ===========         ===========         ==========
+
+Deferred Assets
+  (Liabilities)-current
+    Unrealized
+      appreciation (depreciation)
+      in marketable
+      securities ................        $    50,000         $    20,000         $   (45,000)        $  (18,000)
+    Other temporary
+      differences ...............          1,943,000             797,000           1,635,000            672,000
+                                         -----------         -----------         -----------         ----------
+                                         $ 1,993,000         $   817,000         $ 1,590,000         $  654,000
+                                         ===========         ===========         ===========         ==========
+</TABLE>
+
+     The Company files income tax returns in all jurisdictions in which it
+has reason to believe it is subject to tax. Historically, the Company has been
+subject to examination by various taxing jurisdictions. To date, none of these
+examinations has resulted in any material additional tax. Nonetheless, any tax
+jurisdiction may contend that a filing position claimed by the Company regarding
+one or more of its transactions is contrary to that jurisdiction's laws or
+regulations.
+
+     The Company has foreign net operating loss carry-forwards which expire
+during the years ended 2004 through 2006.
+
+
+
+
+                                      F-18
+
+<PAGE>
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+6.   INCOME TAXES (continued)
+
+     It is management's intention to permanently reinvest the majority of the
+earnings of foreign subsidiaries in the expansion of its foreign operations.
+$1,810,000 of earnings were repatriated during 2001. No earnings were
+repatriated during 2000, or 1999. Unrepatriated earnings, upon which U.S. income
+taxes have not been accrued, approximate $90.0 million at December 31, 2001.
+Estimated income taxes related to unrepatriated foreign earnings would
+approximate $27.0 million. Management has identified approximately $20.2 million
+of foreign earnings that may not be permanently reinvested. Deferred income
+taxes in the amount of approximately $6.1 million have been provided on such
+earnings ($(.1) million during 2001 $2.1 million during 2000 and $4.1 million
+during 1999 and prior years).
+
+7.   SEGMENTS - GEOGRAPHIC AREAS
+
+     The Company does not have reportable operating segments as defined in
+Statement of Financial Accounting Standards No. 131, "Disclosures about Segments
+of an Enterprise and Related Information". Operations are managed on a
+geographic basis. The method for attributing revenues to individual countries is
+based on the destination to which finished goods are shipped. The Company
+operates facilities in the United States, Europe and the Far East.
+
+     The Company had sales to individual customers in excess of ten percent of
+consolidated net sales as follows: The amount and percentages of the Company's
+sales were $20,707,000 (14.3%), $17,622,000 (12.1%) and $15,483,000 (10.2%) in
+2000 and $24,066,000 (20.1%), $21,118,000 (17.7%) and $12,733,000 (10.7%) in
+1999, respectively. No customers represented in excess of ten percent of
+consolidated sales in 2001. The loss of any of these customers could have a
+material adverse effect on the Company's results of operations, financial
+position and cash flows.
+
+
+                                      F-19
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                          2001                  2000                  1999
+                                      -------------         -------------         -------------
+<S>                                   <C>                   <C>                   <C>
+Revenue from unrelated
+    entities and country
+    of Company's domicile:
+        North America ........        $  47,257,490         $  84,389,919         $  69,603,111
+        Asia/Pacific .........           22,895,848            30,021,853            23,675,905
+        Hong Kong ............           13,906,574            14,292,061             7,622,297
+        United Kingdom .......            1,296,138             2,211,792               347,745
+        Europe ...............           10,354,125            13,903,454            17,835,412
+        Other ................              334,642               407,732               379,180
+                                      -------------         -------------         -------------
+                                      $  96,044,817         $ 145,226,811         $ 119,463,650
+                                      =============         =============         =============
+
+Total Revenues:
+        United States ........        $  46,989,911         $  84,875,000         $  72,048,046
+        Asia .................           75,523,422           121,230,526           104,083,997
+        Less intergeographic
+          revenues ...........          (26,468,516)          (60,878,715)          (56,668,393)
+                                      -------------         -------------         -------------
+                                      $  96,044,817         $ 145,226,811         $ 119,463,650
+                                      =============         =============         =============
+
+Income (loss) from Operations:
+        United States ........        $  (1,877,751)        $   3,735,292         $   2,299,951
+        Asia .................          (13,241,713)           29,728,822            21,548,845
+                                      -------------         -------------         -------------
+                                      $ (15,119,464)        $  33,464,114         $  23,848,796
+                                      =============         =============         =============
+
+Identifiable Assets:
+        United States ........        $  47,116,502         $  49,925,968         $  51,770,893
+        Asia .................          112,651,502           123,634,713            87,826,707
+        Less intergeographic
+          eliminations .......          (12,251,482)           (4,047,276)          (14,459,318)
+                                      -------------         -------------         -------------
+Total Identifiable Assets ....        $ 147,516,522         $ 169,513,405         $ 125,138,282
+                                      =============         =============         =============
+
+Capital Expenditures:
+        United States ........        $   1,583,417         $   2,337,330         $   1,334,885
+        Asia .................            4,392,024             5,790,265             3,937,245
+                                      -------------         -------------         -------------
+                                      $   5,975,441         $   8,127,595         $   5,272,130
+                                      =============         =============         =============
+
+Depreciation and Amortization
+    expense:
+        United States ........        $   1,477,180         $   1,262,419         $   1,208,414
+        Asia .................            6,307,397             4,669,336             4,892,354
+                                      -------------         -------------         -------------
+                                      $   7,784,577         $   5,931,755         $   6,100,768
+                                      =============         =============         =============
+</TABLE>
+
+
+                                      F-20
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+7.   OPERATIONS IN GEOGRAPHIC AREAS, FOREIGN OPERATIONS AND EXPORT SALES
+     (Continued)
+
+     Transfers between geographic areas include raw materials manufactured in
+the United States which are shipped to foreign countries to be manufactured into
+finished products and finished products manufactured in foreign countries and
+transferred to the United States for sale. Income from operations represents
+gross profit less operating expenses.
+
+     Identifiable assets are those assets of the Company that are identified
+with the operations of each geographic area.
+
+     The territory of Hong Kong became a Special Administrative Region ("SAR")
+of the People's Republic of China in the middle of 1997. The territory of Macau
+became a SAR of the People's Republic of China at the end of 1999. Management
+cannot presently predict what future impact, this will have on the Company, if
+any, or how the political climate in China will affect the Company's contractual
+arrangements in China. Substantially all of the Company's manufacturing
+operations and approximately 48% of its identifiable assets are located in The
+People's Republic of China and its SARs of Hong Kong and Macau. Accordingly,
+events which may result from the expiration of such leases, as well as any
+change in the "Most Favored Nation" status granted to China by the U.S. could
+have a material adverse effect on the Company.
+
+     The Company's research and development facilities are located in
+California, Indiana, Texas, Massachusetts, Hong Kong and China. Research and
+development costs, which are expensed as incurred, amounted to $4,967,000 in
+2001, $6,229,000 in 2000, and $5,932,000 in 1999. The Company plans to close its
+Indiana and Texas facilities by the end of the third quarter of 2002 and
+relocate them in California. The Company is currently looking for property to
+purchase in San Diego, California where its research and development facility
+will be located.
+
+8.   RETIREMENT FUND AND PROFIT SHARING PLAN
+
+     The Company maintains a domestic profit sharing plan and a contributory
+stock ownership and savings 401(K) plan, which combines stock ownership and
+individual voluntary savings provisions to provide retirement benefits for plan
+participants. The plan provides for participants to voluntarily contribute a
+portion of their compensation, subject to certain legal maximums. The Company
+will match, based on a sliding scale, up to $350 for the first $600 contributed
+by each participant. Matching contributions plus additional discretionary
+contributions will be made with Company stock purchased in the open market. The
+expense for the years ended December 31, 2001, 2000, and 1999 amounted to
+approximately $216,000, $261,000, and $281,000, respectively. As of December 31,
+2001, the plans owned 30,346 and 132,946 shares of Bel Fuse Inc. Class A and
+Class B common stock, respectively.
+
+
+                                      F-21
+<PAGE>
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+8.   RETIREMENT FUND AND PROFIT SHARING PLAN (Continued)
+
+     The Company's Far East subsidiaries have a retirement fund covering
+substantially all of their Hong Kong based full-time employees. Eligible
+employees contribute up to 5% of salary to the fund. In addition, the Company
+may contribute an amount equal to a percentage of eligible salary, as determined
+by the Company, in cash or Company stock. The expense for the years ended
+December 31, 2001, 2000, and 1999 amounted to approximately $665,000, $518,000,
+and $511,000, respectively. As of December 31, 2001, the plan owned 4,820 and
+22,406 shares of Bel Fuse Inc. Class A and Class B common stock, respectively.
+
+9.   STOCK OPTION PLAN
+
+     The Company has a Qualified Stock Option Plan (the "Plan") which provides
+for the granting of "Incentive Stock Options" to key employees within the
+meaning of Section 422 of the Internal Revenue Code of 1954, as amended. The
+Plan provides for the issuance of 2,400,000 shares. Substantially all options
+outstanding become exercisable twenty-five percent (25%) one year from the date
+of grant and twenty-five percent (25%) for each year of the three years
+thereafter. The price of the options granted pursuant to the Plan is not to be
+less than 100 percent of the fair market value of the shares on the date of
+grant. An option may not be exercised within one year from the date of grant,
+and in general, no option will be exercisable after five years from the date
+granted. The Company has adopted the disclosure-only provisions of Statement of
+Financial Accounting Standards No. 123, "Accounting for Stock-based
+Compensation" (SFAS No. 123). Accordingly, no compensation cost has been
+recognized for the stock options awarded. Had compensation cost for the
+Company's stock option plan been determined based on the fair value at the grant
+date for awards in 2001, 2000 and 1999 consistent with the provisions of SFAS
+No. 123, the Company's net earnings and earnings per share would have been
+reduced to the pro forma amounts indicated below:
+
+
+                                      F-22
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+9.   STOCK OPTION PLAN (Continued)
+
+<TABLE>
+<CAPTION>
+                                                              December 31,
+                                         --------------------------------------------------
+                                              2001               2000                1999
+                                         ------------         -----------        -----------
+<S>                                      <C>                  <C>                <C>
+Net earnings (loss) - as reported ..     $(12,161,972)        $32,217,461        $21,291,833
+Net earnings (loss) - pro forma ....     $(14,416,817)        $30,576,995        $20,373,438
+Earnings (loss) per share -
+   basic - as reported .............     $      (1.13)        $      3.04        $      2.03
+Earnings (loss) per share -
+   basic - pro forma ...............     $      (1.35)        $      2.89        $      1.95
+Earnings (loss) per share -
+  diluted - as reported ............     $      (1.13)        $      2.94        $      1.98
+Earnings (loss) per share -
+  diluted - pro forma ..............     $      (1.35)        $      2.79        $      1.89
+</TABLE>
+
+     The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option-pricing model with the following weighted-average
+assumptions used for grants in 2001, 2000 and 1999, respectively: dividends
+yield of .7%, .8% and .8%; expected volatility of 76% in 2000 for Class A, and
+41%, 85% and 82% for Class B; risk-free interest rate of 5%, 5% and 5%, and
+expected lives of 5 years.
+
+
+                                      F-23
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+9.   STOCK OPTION PLAN (Continued)
+
+     Information regarding the Company's Plan for 2001, 2000, and 1999 is as
+follows after giving retroactive effect to a two for one stock split on December
+1, 1999:
+
+<TABLE>
+<CAPTION>
+                                          2001                             2000                              1999
+                            ------------------------------ ---------------------------------  ---------------------------------
+                                                Weighted-                          Weighted-                           Weighted-
+                                                 Average                            Average                             Average
+                                                 Exercise                           Exercise                           Exercise
+                                Shares            Price        Shares                Price        Shares                 Price
+                            ---------------     ---------- ---------------         ---------  --------------           ---------
+<S>                         <C>                   <C>      <C>                       <C>      <C>                        <C>
+Options out-
+  standing, begin-
+  ning of year ..........           822,429       $13.07           568,137           $ 9.03           523,400            $ 6.07
+Options exercised .......          (129,143)      $10.27          (121,708)          $ 7.91          (129,263)           $ 5.13
+Options granted .........           213,100       $29.50           376,000           $17.34           174,000            $15.40
+Options cancelled .......           (28,271)      $14.05              --             $ --                --              $  --
+                                    -------                        -------                            -------
+Options out-
+  standing, end
+  of year ...............           878,115       $17.44           822,429           $13.07           568,137            $ 9.03
+                                    =======                        =======                            =======
+Options price
+  range at end
+  of year ...............   $5.75 to $29.50                $5.75 to $19.00                    $5.75 to $15.44
+Options price
+  range for
+  exercised
+  shares ................   $5.75 to $17.00                $5.75 to $15.44                     $3.25 to $7.00
+Options available
+  for grant at end
+  of year ...............           152,000                        337,000                            713,000
+
+Weighted-
+  average fair
+  value of options,
+  granted during
+  the year ..............           $ 12.16                         $ 9.28                             $ 9.61
+</TABLE>
+
+
+                                      F-24
+
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+9.   STOCK OPTION PLAN (continued)
+
+The following table summarizes information about fixed-price stock options
+outstanding at December 31, 2001:
+
+<TABLE>
+<CAPTION>
+                                               Weighted-
+                           Number Out-          Average           Weighted            Number           Weighted-
+    Range of               standing at         Remaining           Average        Exercisable at        Average
+    Exercise              December 31,        Contractual         Exercise         December 31,         Exercise
+     Prices                   2001                Life              Price              2001              Price
+----------------          ------------        -----------         --------        --------------       ---------
+<S>                         <C>                 <C>                 <C>               <C>                <C>
+$ 5.75 to $ 7.00 ........   208,515             1 year              $ 6.26            165,264            $ 6.33
+$15.38 to $15.44 ........   105,000             2 years             $15.41             23,000            $15.42
+$17.00 to $19.00 ........   351,500             3 years             $17.37            111,500            $17.79
+     $29.50 .............   213,100             4 years             $29.50               --              $  --
+                            -------                                                   -------
+                            878,115                                                   299,764
+                            =======                                                   =======
+</TABLE>
+
+10.  COMMON STOCK
+
+     On November 5, 1999 the Board of Directors declared a two for one stock
+split to be paid in the form of a special dividend of one share of Class B
+common stock for each share of Class A and Class B outstanding. The special
+stock dividend was payable on December 1, 1999 to all Class A and Class B
+shareholders of record on November 22, 1999. The Board also approved an
+amendment to the Company's certificate of incorporation increasing the number of
+authorized shares of Class B common stock from 10,000,000 shares to 30,000,000
+shares.
+
+     During 2000 the Board of Directors of the Company authorized the purchase
+of up to ten percent (10%) of the Company's outstanding common shares. As of
+December 31, 2001 the Company purchased and retired 23,600 Class B common shares
+at a cost of approximately $808,000, which reduced the number of Class B common
+shares outstanding.
+
+11.  COMMITMENTS AND CONTINGENCIES
+
+     Leases
+
+     The Company leases various facilities. Some of these leases require the
+Company to pay certain executory costs (such as insurance and maintenance).
+
+
+                                      F-25
+<PAGE>
+
+
+                         BEL FUSE INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     Future minimum lease payments for operating leases are approximately as
+follows:
+
+                  Years Ending
+                 December 31,
+                 --------------
+                      2002 .....................   $  502,000
+                      2003 .....................      382,000
+                      2004 .....................      209,000
+                      2005 .....................      141,000
+                      2006 .....................       75,000
+                                                   ----------
+                                                   $1,309,000
+                                                   ==========
+
+     Rental expense was approximately $830,000, $670,000, and $600,000, for the
+years ended December 31, 2001, 2000, and 1999, respectively.
+
+     Credit Facilities
+
+     The Company has two domestic unsecured lines of credit amounting to $11
+million which were unused at December 31, 2001. The $1 million line of credit is
+renewable annually. The $10 million line of credit is a three year line and is
+renewable during May 2002. Borrowings under the $11 million line of credit are
+secured by a first priority security interest in and a lien on all personal
+property of Bel Fuse Inc. and its domestic subsidiaries.
+
+     The Company's Hong Kong subsidiary has an unsecured line of credit of
+approximately $2 million which was unused as of December 31, 2001. The line of
+credit expires December 31, 2002. Borrowing on the line of credit is guaranteed
+by the U.S. parent.
+
+     Facilities
+
+     The Company has completed the construction of new corporate offices in
+Jersey City, New Jersey in the amount of $2.8 million. As of December 31, 2001,
+there are no outstanding liabilities in connection with this project.
+
+
+                                      F-26
+<PAGE>
+
+
+     Legal Proceedings
+
+     The Company commenced an arbitration proceeding before the American
+Arbitration Association against Lucent Technologies, Inc. in or about December
+2000. The arbitration arises out of an Agreement for the Purchase and Sale of
+Assets, dated October 2, 1998 (the "Asset Purchase Agreement"), among Bel Fuse,
+Lucent Technologies, Inc. and Lucent Technologies Maquiladores, Inc., and a
+related Global Procurement Agreement, dated October 2, 1998 (the "Supply
+Agreement"), between Lucent Technologies, Inc., as Buyer, and Bel Fuse, as
+Supplier. Pursuant to the Asset Purchase Agreement, the Company purchased
+substantially all of the assets of Lucent's signal transformer business.
+Pursuant to the Supply Agreement, Lucent agreed that except for limited
+instances where Lucent was obligated to purchase product elsewhere, for a term
+of 3 1/2 years, Lucent would be obligated, on an as required basis, to purchase
+from the Company all of Lucent's requirements for signal transformer products.
+The Supply Agreement also provided that the Company would be given the
+opportunity to furnish quotations for the sale of other products.
+
+     The Company is seeking monetary damages for alleged breaches by Lucent of
+the Asset Purchase Agreement and the Supply Agreement. In its answer, Lucent
+denied many of the material allegations made by the Company and also asserted
+two counterclaims. The counterclaims seek recovery for alleged losses, including
+loss of revenue, sustained by Lucent as a result of the Company's alleged breach
+of various provisions of the Supply Agreement. The parties are currently engaged
+in extensive discovery proceedings. The Company believes it has substantial and
+meritorious claims against and defenses to Lucent and its counterclaims.
+However, the Company cannot predict how the arbitrator will decide this matter
+and whether it will have a material effect on the financial statements.
+
+
+                                      F-27
+<PAGE>
+
+<TABLE>
+                                                  SELECTED QUARTERLY FINANCIAL DATA
+                                                             (Unaudited)
+<CAPTION>
+                                                     Quarter Ended                                          Total Year
+                           -----------------------------------------------------------------------            Ended
+                             March 31,           June 30,          September 30,       December 31,        December 31,
+                               2001               2001                  2001             2001 (2)             2001
+                           -----------        ------------         -----------         -----------         ------------
+<S>                        <C>                <C>                  <C>                 <C>                 <C>
+Net sales .........        $33,703,785        $ 22,076,118         $23,291,790         $16,973,124         $ 96,044,817
+
+Gross profit (loss)         13,432,220          (7,310,879)          4,350,224          (4,030,075)           6,441,490
+
+Net earnings (loss)          7,576,682         (11,110,114)           (400,294)         (8,228,246)         (12,161,972)
+
+Earnings (loss)
+  per share
+  - basic (1) .....        $      0.71        $      (1.04)        $     (0.04)        $     (0.77)        $      (1.14)
+
+Earnings (loss)
+  per share -
+  diluted (1) .....        $      0.68        $      (1.04)        $     (0.04)        $     (0.77)        $      (1.17)
+
+
+<CAPTION>
+                                                         Quarter Ended                                     Total Year
+                           -----------------------------------------------------------------------            Ended
+                            March 31,            June 30,         September 30,        December 31,        December 31,
+                              2000                2000                2000                2000                2000
+                           -----------         -----------         -----------         -----------         ------------
+<S>                        <C>                <C>                  <C>                 <C>                 <C>
+Net sales .........        $26,133,179         $33,721,946         $41,560,409         $43,811,277         $145,226,811
+
+Gross profit ......          9,428,734          12,778,998          16,815,062          17,725,472           56,748,266
+
+Net earnings........         4,471,801           6,559,484          10,184,167          11,002,009           32,217,461
+
+Earnings
+  per share
+  - basic .........        $      0.42         $      0.62         $      0.96         $      1.04         $       3.04
+
+Earnings
+  per share -
+  diluted .........        $      0.41         $      0.60         $      0.92         $      0.98         $       2.91
+</TABLE>
+
+(1)  Quarterly amounts of earnings per share may not agree to the total for the
+     year due to the use of potential common shares outstanding in computing
+     diluted earnings per common share during the first quarter of 2001 and
+     omitting potential common shares outstanding in computing loss per common
+     share for the year ended 2001, as those shares would be antidilutive.
+
+(2)  During the fourth quarter of 2001, management concluded that $700,000 of
+     accruals, recorded in the fourth quarter of 2000, were no longer required.
+     Such accruals, which related to its Far East operations, were reversed in
+     the fourth quarter of 2001.
+
+
+                                      F-28
+<PAGE>
+
+
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+     None.
+
+
+                                    PART III
+
+
+Item 10. DIRECTORS OF THE REGISTRANT
+
+     The Registrant incorporates by reference herein information to be set forth
+in its definitive proxy statement for its 2002 annual meeting of shareholders
+that is responsive to the information required with respect to this Item.
+
+Item 11. EXECUTIVE COMPENSATION
+
+     The Registrant incorporates by reference herein information to be set forth
+in its definitive proxy statement for its 2002 annual meeting of shareholders
+that is responsive to the information required with respect to this Item.
+
+Item 12.  SECURITY OWNERSHIP OF CENTRAL BENEFICIAL OWNERS AND MANAGEMENT
+
+     The Registrant incorporates by reference herein information to be set forth
+in its definitive proxy statement for its 2002 annual meeting of shareholders
+that is responsive to the information required with respect to this Item.
+
+Item 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The Registrant incorporates by reference herein information to be set forth
+in its definitive proxy statement for its 2002 annual meeting of shareholders
+that is responsive to the information required with respect to this Item.
+
+
+                                      -19-
+<PAGE>
+
+                                     PART IV
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+          FORM 8-K
+                                                                        Page
+                                                                        ----
+(a)       Financial Statements
+
+      1.  Financial statements filed as a part of this Annual Report
+          on Form 10-K:
+
+          Independent Auditors' Report                                   F-1
+
+          Consolidated Balance Sheets as of December 31,
+          2001 and 2000                                               F-2 - F-3
+
+          Consolidated Statements of Operations for Each
+          of the Three Years in the Period Ended
+          December 31, 2001                                              F-4
+
+          Consolidated Statements of Stockholders' Equity
+          for Each of the Three Years in the Period
+          Ended December 31, 2001                                     F-5 - F-6
+
+          Consolidated Statements of Cash Flows for Each
+          of the Three Years in the Period Ended
+          December 31, 2001                                           F-7 - F-9
+
+          Notes to Consolidated Financial Statements                 F-10 - F-27
+
+          Selected Quarterly Financial Data - Years Ended
+          December 31, 2001 and 2000 (Unaudited)                         F-28
+
+      2.  Financial statement schedules filed as part of
+          this report:
+
+          Schedule II:  Valuation and Qualifying Accounts                S-1
+
+          All other schedules are omitted because they are
+          inapplicable, not required or the information is included
+          in the financial statements or notes thereto.
+
+(b)       Reports on Form 8-K
+
+          The Company did not file any current reports on Form 8-K
+          during the three month period ended December 31, 2001.
+
+(c)       Exhibits
+
+      3.1 Certificate of Incorporation, as amended, is incorporated
+          by reference to Exhibit 3.1 of the Company's Annual Report
+          on Form 10-K for the year ended December 31, 1999.
+
+
+                                      -20-
+<PAGE>
+
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+          FORM 8-K (continued)
+
+Exhibit No.:
+
+         3.2    By-laws, as amended, are hereby incorporated by reference to
+                Exhibit 4.2 of the Company's Registration Statement on Form S-2
+                (Registration No. 33-16703) filed with the Securities and
+                Exchange Commission on August 25, 1987.
+
+        10.1    Agency agreement dated October 1, 1988 between Bel Fuse Ltd. and
+                Rush Profit Ltd. Incorporated by reference to Exhibit 10.1 of
+                the Company's annual report on Form 10-K for the year ended
+                December 31, 1994.
+
+        10.2    Contract dated March 16, 1990 between Accessorios Electronicos
+                (Bel Fuse Macau Ltd.) and the Government of Macau. Incorporated
+                by reference to Exhibit 10.2 of the Company's annual report on
+                Form 10-K for the year ended December 31, 1994.
+
+        10.3    Loan agreement dated February 14, 1990 between Bel Fuse, Ltd.
+                (as lender) and Luen Fat Lee Electronic Factory (as borrower).
+                Incorporated by reference to Exhibit 10.3 of the Company's
+                Annual Report on Form 10-K for the year ended December 31, 1995.
+
+        10.4    Stock Option Plan. Incorporated by reference to Exhibit 28.1 of
+                the Company's Registration Statement on Form S-8 (Registration
+                No. 33-53462) filed with the Securities and Exchange Commission
+                on October 20, 1992.
+
+        10.5    Employment agreement between Elliot Bernstein and Bel Fuse Inc.
+                dated October 29, 1997. Incorporated by reference to Exhibit
+                10.7 of the Company's Annual Report on Form 10-K for the year
+                ended December 31, 1997.
+
+
+                                      -21-
+<PAGE>
+
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+          FORM 8-K (continued)
+
+Exhibit No.:
+
+        11.1    A statement regarding the computation of earnings per share is
+                omitted because such computation can be clearly determined from
+                the material contained in this Annual Report on Form 10-K.
+
+        22.1    Subsidiaries of the Registrant.
+
+        23.1    Consent of Independent Auditors.
+
+
+                                      -22-
+<PAGE>
+
+
+                                   SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons
+on behalf of the registrant and in the capacities and on the dates indicated.
+
+                                       BEL FUSE, INC.
+
+                                   BY: /s/ DANIEL BERNSTEIN
+                                       -----------------------------------------
+                                       Daniel Bernstein, President
+
+                                       /s/ COLIN DUNN
+                                       -----------------------------------------
+                                       Colin Dunn, Vice President of Finance and
+                                         Chief Financial Officer
+
+Dated: March 28, 2002
+
+    KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears
+below constitutes and appoints Daniel Bernstein and Colin Dunn as his/her
+attorney-in-fact and agent, with full power of substitution and resubstitution,
+for him/her and in his/her name, place, and stead, in any and all capacities, to
+sign and file any and all amendments to this Annual Report on Form 10-K, with
+all exhibits thereto and hereto, and other documents with the Securities and
+Exchange Commission, granting unto said attorney-in-fact and agent, and each of
+them, full power and authority to do and perform each and every act and thing
+requisite or necessary to be done in and about the premises, as fully to all
+intents and purposes as he/she might or could do in person, hereby ratifying and
+confirming all that said attorneys-in-fact and agents, or any of them, or their
+or his substitutes, may lawfully do or cause to be done by virtue hereof.
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+Signature                                Title                        Date
+---------                                -----                        ----
+
+/s/ DANIEL BERNSTEIN -         President, Chief                   March 28, 2002
+-------------------------      Executive Officer and
+Daniel Bernstein               Director
+
+
+/s/ HOWARD B. BERNSTEIN        Director                           March 28, 2002
+-------------------------
+Howard B. Bernstein
+
+
+                                       23
+<PAGE>
+
+/s/ ROBERT H. SIMANDL          Director                           March 28, 2002
+-------------------------
+Robert H. Simandl
+
+
+/s/ PETER GILBERT              Director                           March 28, 2002
+-------------------------
+Peter Gilbert
+
+
+/s/ JOHN TWEEDY                Director                           March 28, 2002
+-------------------------
+John Tweedy
+
+
+/s/ JOHN JOHNSON               Director                           March 28, 2002
+-------------------------
+John Johnson
+
+                                                            -24-
+
+</TEXT>
+</DOCUMENT>

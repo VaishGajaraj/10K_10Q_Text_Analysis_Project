@@ -1,0 +1,3038 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c23861_10k-.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+                                   FORM 10-K
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 FOR THE FISCAL YEAR ENDED DECEMBER 31, 2001, OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM ___________________ to
+     __________________
+
+COMMISSION FILE NUMBER: 1-14120
+
+                        BLONDER TONGUE LABORATORIES, INC.
+                        ---------------------------------
+             (Exact name of registrant as specified in its charter)
+
+                  DELAWARE                                       52-1611421
+-------------------------------------------                 -------------------
+      (State or other jurisdiction of                       (I.R.S. Employer
+      incorporation or organization)                        Identification No.)
+
+ONE JAKE BROWN ROAD, OLD BRIDGE, NEW JERSEY                        08857
+-------------------------------------------                 --------------------
+(Address of principal executive offices)                         (Zip Code)
+
+Registrant's telephone number, including area code:  (732) 679-4000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                          Name of Exchange
+          Title of each class                           on which registered
+-------------------------------------------          ---------------------------
+     COMMON STOCK, PAR VALUE $.001                     AMERICAN STOCK EXCHANGE
+
+Securities registered pursuant to Section 12(g) of the Act: NONE
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days. Yes _X_ No ___
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation  S-K is not contained  herein,  and will not be contained,  to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+The  aggregate  market  value of  voting  stock  held by  non-affiliates  of the
+registrant  (computed  by using the closing  stock price on March 22,  2002,  as
+reported by the American Stock Exchange): $11,198,835.
+
+Number of shares of common stock, par value $.001, outstanding as of March 22,
+2002: 7,612,664.
+
+DOCUMENTS INCORPORATED BY REFERENCE:
+
+Certain portions of the  registrant's  definitive Proxy Statement for the Annual
+Meeting of Stockholders to be held on May 3, 2002 (which is expected to be filed
+with the  Commission  not later than 120 days after the end of the  registrant's
+last fiscal year) are incorporated by reference into Part III of this report.
+
+<PAGE>
+
+
+FORWARD-LOOKING STATEMENTS
+
+In  addition  to   historical   information,   this   Annual   Report   contains
+forward-looking  statements  relating to such matters as  anticipated  financial
+performance,  business  prospects,  technological  developments,  new  products,
+research and development  activities and similar matters. The Private Securities
+Litigation  Reform  Act of  1995  provides  a safe  harbor  for  forward-looking
+statements.  In order to comply with the terms of the safe  harbor,  the Company
+notes that a variety of factors  could cause the  Company's  actual  results and
+experience  to  differ   materially  from  the  anticipated   results  or  other
+expectations expressed in the Company's  forward-looking  statements.  The risks
+and uncertainties  that may affect the operation,  performance,  development and
+results of the Company's business include, but are not limited to, those matters
+discussed  herein in the  sections  entitled  Item 1 - Business,  Item 3 - Legal
+Proceedings,  and Item 7 -  Management's  Discussion  and  Analysis of Financial
+Condition   and  Results  of   Operations.   The  words   "believe",   "expect",
+"anticipate",   "project"  and  similar  expressions  identify   forward-looking
+statements.  Readers  are  cautioned  not  to  place  undue  reliance  on  these
+forward-looking  statements,  which reflect management's analysis only as of the
+date hereof.  The Company  undertakes  no  obligation  to publicly  revise these
+forward-looking  statements to reflect events or circumstances  that arise after
+the date hereof.  Readers should carefully review the risk factors  described in
+other  documents  the Company  files from time to time with the  Securities  and
+Exchange Commission.
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+INTRODUCTION
+
+              Blonder  Tongue  Laboratories,   Inc.  ("BLONDER  TONGUE"  or  the
+"COMPANY") is a designer,  manufacturer and supplier of a comprehensive  line of
+electronics and systems  equipment for the cable  television  ("CATV")  industry
+(both franchise and non-franchise,  or "private," cable). The Company's products
+are used to acquire,  distribute  and protect the broad range of  communications
+signals carried on fiber optic, coaxial cable and wireless distribution systems.
+These  products  are sold to  customers  providing  an  array of  communications
+services,  including  television,  high-speed data (Internet) and telephony,  to
+single family dwellings,  multiple dwelling units ("MDUS"), the lodging industry
+and institutions such as hospitals,  prisons, schools and marinas. The Company's
+products are also used in surveillance systems ranging in complexity from simple
+in-home  monitoring  systems to advanced business security systems with hundreds
+of cameras.
+
+              Staying  at  the  forefront  of the  telecommunications  broadband
+technology  revolution is a continuing  challenge.  The Company continues to add
+products to respond to the changes taking place.  Blonder  Tongue's product line
+includes digital satellite receivers, cable modems, fiber communications network
+components,  QPSK to QAM  transcoders  (for DirecTV,  Echostar and Digicipher II
+MPEG-2 Satellite Services) Digicipher II Compatible QAM Set Top Converters,  and
+a broad range of interdiction products to preserve signal security.
+
+              The Company's  principal  customers are system  integrators  (both
+franchise  and private cable  operators,  as well as  contractors)  that design,
+package, install and in most instances operate, upgrade and maintain the systems
+they build.
+
+              The Company has  historically  enjoyed,  and continues to enjoy, a
+dominant  market  position in the private cable  industry,  while  progressively
+making inroads into the franchise cable market.  As the Company has expanded its
+market coverage,  however,  the distinctions between private cable and franchise
+cable  have  become  blurred.   For  example,   the  most   efficient,   highest
+revenue-producing  private cable systems and small  franchise  cable systems are
+built with the same electronic building blocks. Most of the electronics required
+are  available  from  Blonder  Tongue.  In fact,  some of the  most  financially
+successful cable systems in the United States employ Blonder Tongue interdiction
+equipment.
+
+              The  Company  continues  to  expand  its  headend,  fiber and data
+product  lines to  maintain  the  capability  of  providing  all the  electronic
+equipment  needed to build small cable systems and much of the equipment  needed
+in larger systems for most efficient operation and highest profitability in high
+density areas.
+
+                                       2
+<PAGE>
+
+
+INDUSTRY OVERVIEW
+
+              The  broadband  signal   distribution   industry   (involving  the
+high-speed  transmission  of  television,  telephony  and  internet  signals) is
+currently  dominated  by  CATV.  The  markets  for  wireless,   direct-broadcast
+satellite ("DBS") and digital  subscriber line ("DSL") used for this purpose are
+growing  rapidly.  Within  the CATV  market  there are an  increasing  number of
+metropolitan   areas  that  have  awarded  second  CATV   franchises  to  create
+competition  with the existing  franchisee.  The government has been in favor of
+competition in this market and has passed regulations to encourage it. Franchise
+cable  companies are ever watchful of DBS  penetration in their  franchise areas
+and react rapidly to competition,  all to the eventual  benefit of the consumer.
+To fight competition,  the operators offer more services and more TV channels as
+well as discounted  prices.  The lineup of services typically includes an analog
+block of channels from 54 to 550 MHz,  high speed data service using  high-speed
+cable modems,  cable  telephony  either  interfacing  with switched  networks or
+internet protocol networks,  and digital television in the 550 to 750 MHz range.
+These  upgraded  services  are possible in every system that has been rebuilt to
+750 MHz of  bandwidth.  The standard  architecture  for these  enhanced  systems
+contemplates  a hybrid  distribution  network with a combination  of fiber optic
+cable to nodes of 100 to 500  subscribers,  with coaxial  cable from the node to
+the customer and full  reverse-path  capability for the  pay-per-view,  data and
+phone services.
+
+              The traditional customer targeted for these expanded services is a
+homeowner  likely to remain in the same home as a  long-term  subscriber.  For a
+variety of reasons,  including  the  transient  nature of the  residents of many
+areas,  high levels of theft of service and excessive  cost of replacing lost or
+stolen converters and modems, approximately 35% of CATV subscribers not only are
+not offered the new  services,  but are never  offered the full analog lineup of
+channels.  Since converters,  DBS receivers,  digital  converters and modems are
+offered at very low prices to stimulate  sales,  the operational  costs in these
+demographic  areas are too high to  justify  the  advanced  services.  To retain
+customers  in  these  areas,  a  technology  must be  used  that  minimizes  the
+operational  losses due to theft and "churn"  while  providing a level of video,
+data and phone  service  that  compares  favorably  with DBS,  DSL and  wireless
+providers.  The Company  believes  that its lineup of products,  which  includes
+interdiction  as well as cable and telephone  modems,  is the ideal solution for
+deployment in these areas.
+
+              In October  2001,  the Company  entered  into an agreement to be a
+value-added  distributor for Motorola's QAM decoder to the United States private
+cable and  Canadian  franchise  cable  markets.  Coupling  this product with the
+Company's  Digicipher(R)  II  compatible  QQQT  transcoder  provides  a low-cost
+hardware  solution  for  small  system  operators  that  want to  offer  digital
+programming from sources such as HITS(R), WSNET(TM), and Cancom.
+
+       CATV
+
+              Most  CATV  operators  are  building  fiber  optic  networks  with
+alternative  combinations of fiber optic and coaxial cable to deliver television
+signal programming data and phone services on one drop cable.  CATV's deployment
+of fiber optic trunk has been  completed  in more than 50% of existing  systems.
+The system  architecture  being employed to accomplish the combined provision of
+television and telephone  service is a hybrid fiber coaxial ("HFC") network.  In
+an HFC network,  fiber optic trunk lines  connect to nodes which feed 100 to 500
+subscribers,  using  coaxial  cable.  Extensive  rebuilding  of a CATV system is
+required to provide the full array of expanded services.  Consequently, not only
+are the alternative  suppliers faced with enormous capital expenditures to enter
+the broadband signal delivery  business,  but existing CATV system operators are
+faced with similar expenditures to compete with them (or to discourage them from
+entering the race) to provide the "information superhighway."
+
+              The  Company  believes  that most  major  metropolitan  areas will
+eventually  have  complex  networks  of  two  or  more   independent   operators
+interconnecting the homes while private cable operators will have large networks
+interconnecting  many  multi-dwelling  complexes.  All  of  these  networks  are
+potential users of Blonder Tongue headend, digital and interdiction products.
+
+                                       3
+<PAGE>
+
+
+       MULTIPLE DWELLING UNITS (MDUs)
+
+              MDUs,  because they  represent a large  percentage  of the private
+cable market,  have  historically been responsible for a large percentage of the
+Company's  sales.  In the early  days of cable  television  MDUs were  served by
+franchise  cable  operators.  In  1991,  when  the FCC  allocated  a  designated
+frequency  band for private  cable,  the private cable  industry  became a major
+supplier of TV services to MDUs since they could interconnect  buildings with 18
+GHz  over-the-air  links and  reduce the  cost-per-subscriber  in  building  MDU
+networks. This type of networking continues today but presently many MDU private
+cable systems are connected  using fiber optics since it is more  reliable,  has
+much greater bandwidth,  and can handle two-way  communication needed for voice,
+data and video-on-demand.
+
+              MDUs served by franchise cable are also a large revenue source for
+Blonder Tongue since they  generally  fall into the category of customers  where
+churn,  theft of service and converter loss are extremely high. This makes these
+areas prime candidates for Blonder Tongue's interdiction products.
+
+       LODGING
+
+              Until  the early  1990's,  one  system  integrator  dominated  the
+lodging market and manufactured  much of its own equipment.  During the last ten
+years,  other private cable integrators have  successfully  entered and expanded
+the lodging market by offering systems with more channels,  video-on-demand  and
+interactivity.  These systems have been well received in the market, as property
+owners have  sought  additional  revenues  and guests  have  demanded  increased
+in-room  conveniences.  The integrators  leading this market evolution rely upon
+outside suppliers for their system electronics and are Blonder Tongue customers.
+These companies and others offer lodging establishments  VCR-based systems which
+provide true  video-on-demand  movies with a large selection of titles.  To meet
+these demands,  the typical lodging system headend will include as many as 20 to
+40  receivers  and as many  as 60 to 80  modulators,  and  will  be  capable  of
+providing  the  guest  with  more  free  channels,  video-on-demand  for a broad
+selection of movie titles, and interactive services such as remote check-out and
+concierge services. This is in contrast to the systems which preceded them which
+typically  had 10 to 12 receivers  and  modulators  and provided six to ten free
+channels  and two to five  channels of  VCR-based  movies  running at  published
+scheduled times.
+
+              There is an  accelerating  trend to substitute  video file servers
+for  VCRs,  which  the  Company   believes  will  eventually   replace  VCRs  in
+video-on-demand systems. The timing and speed of this transition is dependent on
+availability of lower cost servers.
+
+              Most of the systems with video-on-demand service were initially in
+large  hotels,  where the  economics of high channel  capacity  systems are more
+easily   justified.   The   conversion  of  hotel   pay-per-view   systems  into
+video-on-demand is increasing. Smaller hotels and motels are being provided with
+video-on-demand  as technology  results in reduced  headend  costs,  keeping the
+market growth reasonably steady.
+
+       INTERNATIONAL
+
+              For much of the world, CATV service lags the United States, but is
+rapidly expanding as technological advancement reduces the cost to consumers. In
+addition,  economic development in Latin America and Asia has allowed first time
+construction  of  integrated   delivery   systems  that  utilize  a  variety  of
+electronics and broadband hardware.  The pace of growth is difficult to predict,
+but as  more  alternatives  become  available  and  television  service  becomes
+increasingly affordable,  it is likely that more equipment will be placed in the
+field.
+
+              The Company  utilizes  several  distributors in Florida and within
+Latin America with an experienced  international  sales manager supervising this
+effort.  Earlier  efforts to expand the market  through  exclusive  distribution
+arrangements  were  unsatisfactory  but some  growth  was  achieved  in 2001 and
+accelerated  growth is  anticipated in the year 2002 and beyond as the Company's
+contacts  and  opportunities  in the  Caribbean  and Latin  America  continue to
+mature.
+
+                                       4
+<PAGE>
+
+
+       ADDITIONAL CONSIDERATIONS
+
+              The technological  revolution  taking place in the  communications
+industry,  which includes DBS, is providing digital  television to an increasing
+number of homes.  Wireless  cable  systems and DSL over twisted pair phone lines
+also  utilize  digital   compression  to  provide  channel   capacity  which  is
+competitive  with CATV and  other  television  delivery  systems.  In  addition,
+franchise  cable  companies and  alternative  suppliers are building fiber optic
+networks to offer video,  data, and telephony.  There is also the possibility of
+convergence of data and video  communications,  wherein  computer and television
+systems merge and the computer monitor replaces the television screen.  While it
+is not possible to predict with certainty  which  technology will be dominant in
+the  future,  it is clear that  digitized  video and  advances in the ability to
+compress  the  digitized  video  signal  make both  digital  television  and the
+convergence of computer, telephone and television systems technically possible.
+
+              Since  United  States  television  sets are analog (not  digital),
+direct satellite television and other digitally compressed  programming requires
+headend  products or  expensive  set-top  decoding  receivers or  converters  to
+convert  the  digitally  transmitted  satellite  signals  back  to  analog.  The
+replacement  of all  television  sets with  digital sets will be costly and take
+many  years to  complete.  The  Company  believes  that for many  years to come,
+program  providers  will be required to deliver an analog  television  signal on
+standard channels to subscribers' television sets using headend products at some
+distribution  point in their  networks  or  employ  decoding  receivers  at each
+television  set.  Headend  products  are a large  segment  of  Blonder  Tongue's
+business and the Company believes  interdiction is an ideal product for a system
+operator to use to control access to the multitude of  programming  that will be
+available.
+
+PRODUCTS
+
+              Blonder Tongue's products can be separated, according to function,
+into the several categories described below:
+
+       o      HEADEND PRODUCTS used by a system operator for signal acquisition,
+       processing and manipulation for further transmission.  Among the products
+       offered by the Company in this category are satellite  receivers (digital
+       and analog),  integrated  receiver/decoders,  transcoders,  demodulators,
+       modulators,  antennas and antenna  mounts,  amplifiers,  equalizers,  and
+       processors. The headend of a television signal distribution system is the
+       "brain" of the  system,  the  central  location  where the  multi-channel
+       signal  is  initially  received,  converted  and  allocated  to  specific
+       channels for distribution. In some cases, where the signal is transmitted
+       in encrypted form or digitized and compressed,  the receiver will also be
+       required to decode the signal or, in the case where  digital  signals are
+       to be carried on the distribution  system,  transcode its modulation from
+       QPSK   (quadrature   phase  shift  key)  to  QAM  (quadrature   amplitude
+       modulation) since one is optimum for satellite transmission and the other
+       optimum for fiber/coaxial  distribution.  Blonder Tongue is a licensee of
+       Motorola, Inc.'s ("Motorola") VideoCipher(R) and DigiCipher(R) encryption
+       technologies   and  Hughes  Network   Systems',   a  Hughes   Electronics
+       Corporation   ("Hughes")  digital  technologies,   and  integrates  their
+       decoders into integrated  receiver/decoder  products, where required. The
+       Company  estimates that Headend Products  accounted for approximately 52%
+       of the Company's revenues in 2001, 40% in 2000 and 60% in 1999.
+
+       o      DISTRIBUTION  PRODUCTS  used to permit  signals to travel from the
+       headend to their ultimate  destination in a home,  apartment unit,  hotel
+       room, office or other terminal  location along a distribution  network of
+       fiber optic or coaxial cable.  Among the products  offered by the Company
+       in this  category  are  optical  transmitters,  optical  receivers,  line
+       extenders,  broadband  amplifiers,  directional taps,  splitters and wall
+       taps. In CATV systems,  the  distribution  products are either mounted on
+       exterior  telephone  poles  or  encased  in  pedestals,  vaults  or other
+       security  devices.  In private cable systems the  distribution  system is
+       typically  enclosed  within  the  walls  of  the  building  (if a  single
+       structure) or added to an existing  structure using various techniques to
+       hide the coaxial cable and devices.  The non-passive  devices within this
+       category  are  designed  to ensure that the signal  distributed  from the
+       headend  is  of  sufficient   strength  when  it  arrives  at  its  final
+       destination to provide high quality audio/video images.
+
+                                       5
+<PAGE>
+
+
+       o      SUBSCRIBER  PRODUCTS used to control  access to programming at the
+       subscriber's  location  and to split and  amplify  incoming  signals  for
+       transmission  to multiple  sites and  multiple  television  sets within a
+       site.  Among the  products  offered by the Company in this  category  are
+       addressable interdiction devices, cable modems,  splitters,  couplers and
+       multiplexers.  The Company  believes that the most  significant  products
+       within  this  category  are:  (i) its  VideoMask(TM)  addressable  signal
+       jammer,  licensed from Philips  Electronics North America Corporation and
+       its  affiliate  Philips  Broadband  Networks,  Inc.  in August 1995 under
+       certain  non-exclusive  technology  and patent  license  agreements  (the
+       "PHILIPS LICENSE  AGREEMENTS"),  (ii) the SMI  Interdiction  product line
+       acquired  from  Scientific-Atlanta,  Inc.  as  part  of its  interdiction
+       business,  and (iii) its recently  introduced cable modems for high-speed
+       Internet  access.   Interdiction   products  limit,  through  jamming  of
+       particular  channels,  the availability of programs to subscribers.  Such
+       products  enable an  integrator to control  subscriber  access to premium
+       channels  and  other  enhanced   services   through  a  computer  located
+       off-premises.  They also eliminate the necessity of an operator having to
+       make a service call to install or remove  passive traps and eliminate the
+       costs associated with damage or loss of analog set-top  converters in the
+       subscribers' locations. Interdiction products are also being successfully
+       used by CATV  operators  as an  anti-piracy  system in  conjunction  with
+       set-top converters.  The Company believes that the reduction in operating
+       costs,  programming  piracy,  and  converter  loss which can be  obtained
+       through the use of interdiction  will be a significant  factor in further
+       product  penetration  into the franchise  cable  market.  While it is not
+       possible to predict the breadth of market  acceptance for these products,
+       the Company  believes the  potential is  substantial  in both the private
+       cable  market  and  franchise  cable  market  as  alternatives  to, or in
+       conjunction with, set-top converters and as a viable option for companies
+       and  municipalities who are overbuilding  existing cable  infrastructures
+       and  are  seeking  a more  consumer-friendly  and  cost-effective  way to
+       compete with the incumbent franchise cable operator.
+
+       o      MICROWAVE  PRODUCTS  used to transmit the output of a cable system
+       headend to multiple locations using point-to-point communication links in
+       the 18 GHz  range of  frequencies.  Among  the  products  offered  by the
+       Company in this  category  are power  amplifiers,  repeaters,  receivers,
+       transmitters  and  compatible  accessories.  These  products  convert the
+       headend  output up to the  microwave  band and transmit this signal using
+       parabolic antennas.  At each receiver site, a parabolic  antenna-receiver
+       combination  converts  the  signal  back to normal  VHF  frequencies  for
+       distribution to subscribers at the receiver site. Due to a Final Rule and
+       Order adopted by the Federal  Communications  Commission ("FCC") in June,
+       2000,  coupled with the  availability  and inherent  superiority of fiber
+       optics in  linking  adjacent  properties  in MDU  applications,  sales of
+       microwave  products  have  diminished.   While  microwave  products  will
+       continue to be sold to maintain  existing  systems,  the Company does not
+       anticipate  that these  products  will  contribute  significantly  to the
+       Company's revenues.
+
+       o      FIBER  PRODUCTS  used to  transmit  the  output of a cable  system
+       headend to multiple locations using fiber optic cable. Among the products
+       offered are optical  transmitters,  receivers,  couplers,  splitters  and
+       compatible  accessories.  These products  convert RF frequencies to light
+       (or  infrared)  frequencies  and launch  them on optical  fiber.  At each
+       receiver site, an optical receiver is used to convert the signals back to
+       normal VHF frequencies for distribution to subscribers. Sales of products
+       in this category  continue to increase as they have become the product of
+       choice  in  applications  formerly  suitable  to  the  use  of  microwave
+       products.
+
+              The Company  will modify its  products to meet  specific  customer
+requirements.  Typically,  these  modifications  are minor and do not materially
+alter the  functionality of the products.  Thus the inability of the customer to
+accept such products does not  generally  result in the Company being  otherwise
+unable to sell such products to other customers.
+
+                                       6
+<PAGE>
+
+
+RESEARCH AND PRODUCT DEVELOPMENT
+
+              The  markets  served  by  Blonder  Tongue  are   characterized  by
+technological   change,  new  product   introductions,   and  evolving  industry
+standards.  To compete effectively in this environment,  the Company must engage
+in continuous research and development in order to (i) create new products, (ii)
+expand the frequency range of existing products in order to accommodate customer
+demand for greater  channel  capacity,  (iii)  license new  technology  (such as
+digital  satellite  receiver  decoders and high-speed  cable  modems),  and (iv)
+acquire products incorporating  technology that could not otherwise be developed
+quickly  enough using internal  resources,  to suit the dynamics of the evolving
+marketplace. Research and development projects are often initially undertaken at
+the request of and in an effort to address the particular needs of the Company's
+customers and customer  prospects with the expectation or promise of substantial
+future orders from such customers or customer prospects. Additional research and
+development efforts are also continuously  underway for the purpose of enhancing
+product quality and engineering to lower  production  costs. For the acquisition
+of new  technologies,  the Company may rely upon technology  licenses from third
+parties  when the  Company  believes  that it can obtain  such  technology  more
+quickly and/or  cost-effectively  from such third parties than the Company could
+otherwise develop on its own, or when the desired technology is proprietary to a
+third party. There were 22 employees in the research and development  department
+of the Company at December 31, 2001.
+
+MARKETING AND SALES
+
+              Blonder Tongue markets and sells its products worldwide to private
+cable  integrators  (which  accounted  for  approximately  48% of the  Company's
+revenues for fiscal 2001, approximately 56% of the Company's revenues for fiscal
+year 2000 and approximately 80% for fiscal year 1999), to alternative suppliers,
+and to franchise cable integrators.  Sales are made directly to customers by the
+Company's  internal  sales  force,  as well as  through  numerous  domestic  and
+international stocking distributors.
+
+              The  Company's  sales  and  marketing  function  is  predominantly
+performed  by its  internal  sales  force.  Should it be deemed  necessary,  the
+Company may retain independent sales  representatives  in particular  geographic
+areas or targeted to specific customer  prospects.  The Company's internal sales
+force consists of 26 employees,  which currently includes 12 salespersons (eight
+salespersons in Old Bridge,  New Jersey,  one salesperson in each of Cincinnati,
+Ohio,  Cudahy,  Wisconsin,  Folsom,  California,  and  Miami,  Florida)  and  14
+sales-support personnel at the Company headquarters in Old Bridge, New Jersey.
+
+              The Company's  standard  customer  payment terms are 2%-10, net 30
+days. From time to time where the Company determines that circumstances warrant,
+such as when a customer agrees to commit to a large blanket  purchase order, the
+Company extends payment terms beyond its standard payment terms.
+
+              The Company has several marketing programs to support the sale and
+distribution  of its products.  Blonder  Tongue  participates  in industry trade
+shows and conferences.  The Company also publishes  technical  articles in trade
+and technical  journals,  distributes  sales and product  literature  and has an
+active public  relations plan to ensure  complete  coverage of Blonder  Tongue's
+products  and  technology  by editors of trade  journals.  The Company  provides
+system  design  engineering  for  its  customers,  maintains  extensive  ongoing
+communications with many original equipment  manufacturer customers and provides
+one-on-one  demonstrations  and technical  seminars to potential new  customers.
+Blonder Tongue supplies sales and applications  support,  product literature and
+training to its sales  representatives  and distributors.  The management of the
+Company travels  extensively,  identifying  customer needs and meeting potential
+customers.
+
+              The Company had  approximately  $1.0  million and $4.0  million in
+purchase orders as of December 31, 2001 and December 31, 2000, respectively. All
+of the purchase  orders  outstanding  as of December 31, 2001 are expected to be
+shipped  prior to December  31,  2002.  The  purchase  orders are for the future
+delivery of products and are subject to cancellation by the customer.
+
+                                       7
+<PAGE>
+
+
+CUSTOMERS
+
+              Blonder Tongue has a broad customer base,  which in 2001 consisted
+of more  than  800  active  accounts.  Approximately  39%,  56%,  and 26% of the
+Company's  revenues in fiscal years 2001,  2000,  and 1999,  respectively,  were
+derived from sales of products to the Company's five largest customers. In 2001,
+sales to Toner Cable  Equipment,  Inc.  accounted for  approximately  14% of the
+Company's revenues.  There can be no assurance that any sales to these entities,
+individually or as a group, will reach or exceed historical levels in any future
+period.  However,  the Company anticipates that these customers will continue to
+account for a significant  portion of the Company's  revenues in future periods,
+although none of them is obligated to purchase any specified  amount of products
+(beyond  outstanding  purchase  orders) or to provide the Company  with  binding
+forecasts of product purchases for any future period.
+
+              The  complement  of  leading  customers  may  shift  as  the  most
+efficient and better  financed  integrators  grow more rapidly than others.  The
+Company  believes  that  many  integrators  will grow  rapidly,  and as such the
+Company's success will depend in part on the viability of those customers and on
+the  Company's  ability to maintain its position in the overall  marketplace  by
+shifting its  emphasis to those  customers  with the greatest  growth and growth
+prospects.  Any  substantial  decrease  or  delay in sales to one or more of the
+Company's leading customers,  the financial failure of any of these entities, or
+the Company's  inability to develop and maintain  solid  relationships  with the
+integrators  which may  replace  the  present  leading  customers,  would have a
+material  adverse  effect on the Company's  results of operations  and financial
+condition.
+
+              The Company's revenues are derived primarily from customers in the
+continental  United  States,  however,  the Company also derives  revenues  from
+customers  outside the continental  United States,  primarily in  underdeveloped
+countries.  Television service is less developed in many international  markets,
+particularly Latin America and Asia, creating opportunity for those participants
+who offer quality products at a competitive price. Sales to customers outside of
+the United States  represented  approximately  2% of the  Company's  revenues in
+fiscal  years  2001,  2000 and  1999.  All of the  Company's  transactions  with
+customers  located outside of the  continental  United States are denominated in
+U.S.  dollars,   therefore,   the  Company  has  no  material  foreign  currency
+transactions.
+
+MANUFACTURING AND SUPPLIERS
+
+              Blonder  Tongue's  manufacturing  operations  are  located  at the
+Company's  headquarters in Old Bridge, New Jersey.  The Company's  manufacturing
+operations are vertically integrated and consist principally of the assembly and
+testing of electronic  assemblies built from fabricated  parts,  printed circuit
+boards  and  electronic  devices  and the  fabrication  from raw sheet  metal of
+chassis and cabinets for such  assemblies.  Management  continues to implement a
+significant  number  of  changes  to  the  manufacturing   process  to  increase
+production volume and reduce product cost, including logistics  modifications on
+the factory floor, an increased use of surface mount, axial lead and radial lead
+robotics to place electronic  components on printed circuit boards, a continuing
+program of circuit board redesign to make more products  compatible with robotic
+insertion  equipment and an increased  integration in machining and fabrication.
+All of these efforts are consistent  with and part of the Company's  strategy to
+provide its customers with high performance-to-cost ratio products.
+
+              Outside  contractors  supply  standard  components,   etch-printed
+circuit boards,  and electronic  subassemblies to the Company's  specifications.
+While the  Company  generally  purchases  electronic  parts  which do not have a
+unique  source,  certain  electronic  component  parts used within the Company's
+products are available  from a limited number of suppliers and can be subject to
+temporary  shortages  because of general economic  conditions and the demand and
+supply for such component  parts.  If the Company were to experience a temporary
+shortage of any given  electronic  part, the Company  believes that  alternative
+parts could be obtained or system design changes  implemented.  However, in such
+situations  the Company may  experience  temporary  reductions in its ability to
+ship products affected by the component shortage.  The Company purchases several
+products from sole  suppliers for which  alternative  sources are not available,
+such as the VideoCipher(R) and DigiCipher(R)  encryption systems manufactured by
+Motorola,  which are standard encryption  methodologies  employed on U.S. C-Band
+and Ku-Band  transponders and Hughes digital satellite receivers for delivery of
+DIRECTV(TM) programming.  An inability to timely obtain sufficient quantities of
+these components could have a material adverse effect on the Company's operating
+results. The Company does not have a supply agreement with Motorola or any other
+supplier.  The Company submits  purchase orders to its suppliers on an as-needed
+basis.
+
+                                       8
+<PAGE>
+
+
+              Blonder Tongue maintains a quality  assurance  program which tests
+samples of component parts purchased,  as well as its finished  products,  on an
+ongoing basis and also conducts tests throughout the manufacturing process using
+commercially  available  and in-house  built  testing  systems that  incorporate
+proprietary  procedures.  Blonder Tongue performs final product tests on 100% of
+its products prior to shipment to customers.
+
+COMPETITION
+
+              All aspects of the Company's business are highly competitive.  The
+Company   competes  with  national,   regional  and  local   manufacturers   and
+distributors,   including  companies  larger  than  Blonder  Tongue  which  have
+substantially greater resources.  Various manufacturers who are suppliers to the
+Company sell  directly as well as through  distributors  into the  franchise and
+private  cable   marketplaces.   Because  of  the   convergence  of  the  cable,
+telecommunications and computer industries and rapid technological  development,
+new competitors  may seek to enter the principal  markets served by the Company.
+Many of  these  potential  competitors  have  significantly  greater  financial,
+technical,  manufacturing,  marketing,  sales and other  resources  than Blonder
+Tongue.  The Company expects that direct and indirect  competition will increase
+in the future. Additional competition could result in price reductions,  loss of
+market share and delays in the timing of customer orders.  The principal methods
+of competition are product  differentiation,  performance and quality, price and
+terms, service, and technical and administrative support.
+
+INTELLECTUAL PROPERTY
+
+              The  Company  currently  holds 30  United  States  patents  and 14
+foreign  patents  covering a wide range of electronic  systems and circuits,  of
+which 19 United  States  patents  and 10 foreign  patents  were  obtained in the
+Company's acquisition of Scientific-Atlanta, Inc.'s interdiction business during
+1998. Other than certain of the patents acquired from Scientific-Atlanta,  Inc.,
+none of the Company's  patents are considered  material to the Company's present
+operations  because they do not relate to high volume  applications.  Because of
+the rapidly evolving nature of the CATV industry,  the Company believes that its
+market position as a supplier to cable  integrators  derives  primarily from its
+ability to develop a  continuous  stream of new  products  which are designed to
+meet its customers' needs and which have a high performance-to-cost ratio.
+
+              The Company is a licensee  of Philips  Electronics  North  America
+Corporation and its affiliate Philips Broadband Networks, Inc., Motorola, Hughes
+and several smaller software development companies.
+
+              Under the  Philips  License  Agreements,  the Company is granted a
+non-exclusive  license for a term which expires in 2010,  concurrently  with the
+last to expire of the relevant patents.  The Philips License  Agreements provide
+for the payment by the Company of a one-time  license fee and for the payment by
+the Company of royalties based upon unit sales of licensed products.
+
+              The  Company is a licensee  of  Motorola  relating  to  Motorola's
+VideoCipher(R)  encryption  technology  and is also a party to a  private  label
+agreement  with Motorola  relating to its  DigiCipher(R)  technology.  Under the
+VideoCipher(R) license agreement, the Company is granted a non-exclusive license
+under certain proprietary  know-how,  to design and manufacture certain licensed
+products to be compatible with the VideoCipher(R) commercial descrambler module.
+The VideoCipher(R)  license agreement provides for the payment by the Company of
+a one-time  license fee for the  Company's  first model of licensed  product and
+additional  one-time license fees for each additional model of licensed product.
+The  VideoCipher(R)  license  agreement  also  provides  for the  payment by the
+Company  of  royalties  based upon unit sales of  licensed  products.  Under the
+DigiCipher(R) private label agreement,  the Company is granted the non-exclusive
+right to sell DigiCipher(R) II integrated  receiver decoders bearing the Blonder
+Tongue name for use in the commercial  market.  The DigiCipher(R)  private label
+agreement  provides for the payment by the Company of a one-time license fee for
+the Company's first model of licensed  product and additional  one-time  license
+fees for each additional model of licensed product.
+
+              During 1996, the Company entered into several software development
+and license  agreements  for  specifically  designed  controller  and  interface
+software  necessary for the operation of the Company's Video Central(TM)  remote
+interdiction control system, which is used for remote operation of VideoMask(TM)
+signal jammers installed at subscriber  locations.  These licenses are perpetual
+and  require the  payment of a one-time  license fee and in one case  additional
+payments, the aggregate of which are not material.
+
+                                       9
+<PAGE>
+
+
+              In February,  1998, the Company entered into an exclusive  license
+agreement  with  Hughes,  pursuant  to which the  Company is licensed to design,
+manufacture,  and  market  commercial  digital  satellite  receivers  which  are
+compatible with DIRECTV(TM) programming, for use in headend applications in both
+the franchised  and private cable  markets.  The agreement is for a term of five
+(5) years, expiring in February 2003.
+
+              The Company  relies on a  combination  of  contractual  rights and
+trade secret laws to protect its proprietary  technologies  and know-how.  There
+can be no assurance  that the Company  will be able to protect its  technologies
+and  know-how  or  that  third  parties  will  not be able  to  develop  similar
+technologies  and know-how  independently.  Therefore,  existing  and  potential
+competitors  may be able to  develop  products  that  are  competitive  with the
+Company's  products and such  competition  could adversely affect the prices for
+the Company's  products or the Company's market share. The Company also believes
+that factors such as the technological and creative skills of its personnel, new
+product  developments,  frequent  product  enhancements,  name  recognition  and
+reliable  product  maintenance are essential to establishing and maintaining its
+leadership position.
+
+REGULATION
+
+              Private  cable,  while  in  some  cases  subject  to  certain  FCC
+licensing  requirements,  is not presently  burdened with  extensive  government
+regulations.  Franchise cable operators had been subject to extensive government
+regulation  pursuant to the Cable Television Consumer Protection and Competition
+Act of 1992, which among other things provided for rate rollbacks for basic tier
+cable  service,   further  rate  reductions  under  certain   circumstances  and
+limitations on future rate  increases.  The  Telecommunications  Act of 1996 has
+deregulated  many aspects of franchise cable system operation and has opened the
+door to  competition  among cable  operators and telephone  companies in each of
+their  respective  industries.  The Company  believes that this legislation will
+increase the base of potential customers for the Company's products.
+
+              In June,  2000,  the FCC adopted and issued a Final Rule and Order
+relating to the re-designation of portions of the 18GHz-frequency band among the
+various currently allocated  services.  This matter was first discussed in 1998,
+at which time the FCC issued a Notice of Proposed Rulemaking, proposing to grant
+primary status for use of the 18GHz  frequency band to Fixed  Satellite  Service
+Operators  ("FSSO"),  to the detriment of existing and future  terrestrial fixed
+service operators ("TFSO"). The Final Rules regarding this issue provide for the
+grandfathering,  for a period of ten years, of certain pre-existing  (installed)
+TFSOs and TFSOs that had made application for a license prior to a certain date.
+The FCC  segmented  the  18GHz-frequency  band into  several  sub-bands  and has
+provided for varying  obligations and rights as between the TFSOs and the FSSOs.
+Overall,  the Final Rules are complex  and place a measure of  uncertainty  upon
+TFSOs  considering  the use of  microwave  gear in new  systems.  These  issues,
+coupled  with the  recent  advances  in the use of  fiber  optic  cable  and the
+inherent  superiority  in fiber due to its greater  bandwidth  capability,  have
+resulted in a shift in customer  purchases  away from  microwave gear and toward
+fiber optics.
+
+ENVIRONMENTAL REGULATIONS
+
+              The  Company is subject to a variety of  federal,  state and local
+governmental  regulations related to the storage, use, discharge and disposal of
+toxic,  volatile or  otherwise  hazardous  chemicals  used in its  manufacturing
+processes.  The Company did not incur in 2001 and does not anticipate  incurring
+in 2002 material  capital  expenditures  for compliance with federal,  state and
+local  environmental laws and regulations.  There can be no assurance,  however,
+that  changes  in  environmental  regulations  will not  result  in the need for
+additional capital expenditures or otherwise impose additional financial burdens
+on the Company.  Further,  such regulations could restrict the Company's ability
+to expand its operations.  Any failure by the Company to obtain required permits
+for,  control the use of, or adequately  restrict the  discharge  of,  hazardous
+substances  under  present or future  regulations  could  subject the Company to
+substantial  liability  or  could  cause  its  manufacturing  operations  to  be
+suspended.
+
+              The  Company   presently  holds  a  permit  from  the  New  Jersey
+Department of  Environmental  Protection  ("NJDEP"),  Division of  Environmental
+Quality,  Air  Pollution  Control  Program  relating to its operation of certain
+process equipment, which permit expires in June, 2003. The Company has held such
+a  permit  for  this  equipment  on  a  substantially   continuous  basis  since
+approximately  April,  1989.  The Company also has  authorization  under the New
+Jersey  Pollution  Discharge  Elimination  System/Discharge  to  Surface  Waters
+General  Industrial  Stormwater Permit,  Permit No. NJ0088315.  This permit will
+expire January 2003.
+
+                                       10
+<PAGE>
+
+
+EMPLOYEES
+
+              The Company  employs  approximately  418 people,  including 320 in
+manufacturing,  22 in research and development,  15 in quality assurance,  16 in
+production  services,  26 in  sales  and  marketing,  and  19 in a  general  and
+administrative  capacity.  235 of the  Company's  employees  are  members of the
+International  Brotherhood of Electrical  Workers Union, Local 2066, which has a
+three year labor  agreement  with the Company  expiring in February,  2005.  The
+Company considers its relations with its employees to be good.
+
+
+
+ITEM 2.       PROPERTIES
+
+              The  Company's  principal  manufacturing,  engineering,  sales and
+administrative facilities consist of one building totaling approximately 130,000
+square feet located on approximately 20 acres of land in Old Bridge,  New Jersey
+(the "OLD BRIDGE  FACILITY")  which is owned by the  Company.  The Company  also
+leases office space in Cudahy, Wisconsin for which it pays rent of approximately
+$300 per month.
+
+              Management  believes  that the Old Bridge  Facility is adequate to
+support the Company's  anticipated  needs in 2002.  Subject to  compliance  with
+applicable  zoning and  building  codes,  the Old Bridge real  property is large
+enough to double the size of the plant to accommodate expansion of the Company's
+operations should the need arise.
+
+
+
+ITEM 3.       LEGAL PROCEEDINGS
+
+              The Company is a party to certain  proceedings  incidental  to the
+ordinary  course of its  business,  none of which,  in the  current  opinion  of
+management,  is  likely  to have a  material  adverse  effect  on the  Company's
+business, financial condition, results of operations or cash flows.
+
+
+
+ITEM 4.       SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+              No matters were submitted to a vote of security holders during the
+fourth quarter ended December 31, 2001,  through the  solicitation of proxies or
+otherwise.
+
+                                       11
+<PAGE>
+
+
+                                     PART II
+
+ITEM 5.       MARKET FOR  REGISTRANT'S  COMMON  EQUITY AND  RELATED  STOCKHOLDER
+              MATTERS
+
+              The Company's  common stock has been traded on the American  Stock
+Exchange since the Company's  initial public  offering on December 14, 1995. The
+following table sets forth for the fiscal quarters  indicated,  the high and low
+sale prices for the Company's Common Stock on the American Stock Exchange.
+
+MARKET INFORMATION
+
+Fiscal Year Ended December 31, 2001:                      HIGH       LOW
+                                                          ----       ---
+
+       First Quarter .................................. 4.125     2.120
+       Second Quarter.................................. 4.000     2.160
+       Third Quarter .................................. 4.230     2.960
+       Fourth Quarter ................................. 4.290     3.000
+
+
+Fiscal Year Ended December 31, 2000:                      HIGH       LOW
+                                                          ----       ---
+
+       First Quarter .................................. 10 3/4     5
+       Second Quarter..................................  9 3/4     6 7/16
+       Third Quarter ..................................  8         6
+       Fourth Quarter..................................  6 1/4     2 5/8
+
+              The  Company's  Common  Stock  is  traded  on the  American  Stock
+Exchange under the symbol "BDR".
+
+HOLDERS
+
+              As of March 22, 2002, the Company had  approximately 65 holders of
+record of the Common  Stock.  Since a portion of the  Company's  common stock is
+held in "street" or nominee  name,  the Company is unable to determine the exact
+number of beneficial holders.
+
+DIVIDENDS
+
+              The Company  currently  anticipates that it will retain all of its
+earnings to finance the operation  and expansion of its business,  and therefore
+does not intend to pay dividends on its Common Stock in the foreseeable  future.
+Other than in connection with certain "S" corporation distributions prior to its
+initial  public  offering,  the  Company  has  never  declared  or paid any cash
+dividends on its Common Stock. Any  determination to pay dividends in the future
+is at the  discretion of the  Company's  Board of Directors and will depend upon
+the Company's financial condition, results of operations,  capital requirements,
+limitations  contained in loan agreements and such other factors as the Board of
+Directors deems relevant.  The Company's loan agreement with Commerce Bank, N.A.
+prohibits the payment of cash dividends by the Company on its Common Stock.
+
+                                       12
+<PAGE>
+
+
+ITEM 6.       SELECTED CONSOLIDATED FINANCIAL DATA
+
+              The selected  consolidated  statement of earnings  data  presented
+below for each of the years ended  December  31,  2001,  2000 and 1999,  and the
+selected  consolidated  balance sheet data as of December 31, 2001 and 2000, are
+derived  from,  and are  qualified  by  reference  to, the audited  consolidated
+financial statements of the Company and notes thereto included elsewhere in this
+Form 10-K.  The selected  consolidated  statement of earnings data for the years
+ended  December 31, 1998 and 1997 and the selected  consolidated  balance  sheet
+data  as  of  December  31,  1999,  1998  and  1997  are  derived  from  audited
+consolidated  financial statements not included herein. The data set forth below
+is  qualified  in its  entirety  by,  and  should be read in  conjunction  with,
+"Management's  Discussion  and  Analysis of Financial  Condition  and Results of
+Operations" and the consolidated  financial statements,  notes thereto and other
+financial and statistical information appearing elsewhere herein.
+
+<TABLE>
+<CAPTION>
+                                                                 YEAR ENDED DECEMBER 31,
+                                                ---------------------------------------------------------
+                                                  2001       2000        1999         1998(1)       1997
+                                                -------    -------     -------        -------     -------
+                                                          (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                                             <C>        <C>         <C>            <C>         <C>
+CONSOLIDATED STATEMENT OF EARNINGS DATA:
+
+Net sales ..................................    $53,627    $70,196     $56,805        $70,792     $62,057
+Cost of goods sold .........................     36,928     46,974      39,074         45,344      39,656
+                                                -------    -------     -------        -------     -------
+  Gross profit .............................     16,699     23,222      17,731         25,448      22,401
+                                                -------    -------     -------        -------     -------
+Operating expenses:
+  Selling, general and administrative ......     11,209     13,572      13,598         10,755       9,938
+  Research and development .................      2,200      2,125       2,070          2,156       1,954
+                                                -------    -------     -------        -------     -------
+  Total operating expenses .................     13,409     15,697      15,668         12,911      11,892
+                                                -------    -------     -------        -------     -------
+
+Earnings from operations ...................      3,290      7,525       2,063         12,537      10,509
+Interest expense ...........................      1,369      1,948       2,008          1,596         414
+Other (income) expense, net ................          0        (10)         (6)           (40)       (595)
+                                                -------    -------     -------        -------     -------
+Earnings before income taxes ...............      1,921      5,587          61         10,981      10,690
+Provision for income taxes .................        704      2,011           2          3,868       4,276
+                                                -------    -------     -------        -------     -------
+Net earnings ...............................    $ 1,217    $ 3,576     $    59        $ 7,113     $ 6,414
+                                                =======    =======     =======        =======     =======
+Basic earnings per share ...................    $  0.16    $  0.47     $  0.01        $  0.86     $  0.78
+Basic weighted average shares
+  outstanding(2) ...........................      7,613      7,620       7,916          8,292       8,227
+Diluted earnings per share .................    $  0.16    $  0.47     $  0.01        $  0.84     $  0.77
+Diluted weighted average shares
+  outstanding(2) ...........................      7,637      7,632       7,958          8,471       8,375
+
+<CAPTION>
+                                                                 YEAR ENDED DECEMBER 31,
+                                                ---------------------------------------------------------
+                                                  2001       2000        1999         1998(1)       1997
+                                                -------    -------     -------        -------     -------
+                                                                   (In thousands)
+<S>                                             <C>        <C>         <C>            <C>         <C>
+CONSOLIDATED BALANCE SHEET DATA:
+
+Working capital ............................    $31,254    $27,154     $25,456        $17,049     $26,055
+Total assets ...............................     64,386     62,834      66,076         69,651      42,272
+Long-term debt (including
+  current maturities) ......................     16,195     16,184      20,607         22,359       5,054
+Stockholders' equity .......................     39,962     39,096      35,247         40,496      31,795
+</TABLE>
+
+----------
+
+(1)  On March 26, 1998,  the Company  acquired all of the assets and  technology
+     rights of Scientific-Atlanta, Inc.'s interdiction business.
+
+(2)  Weighted average shares are calculated in accordance with the provisions of
+     Statement of Financial Accounting Standards No. 128, "Earnings Per Share."
+
+                                       13
+<PAGE>
+
+
+ITEM 7.       MANAGEMENT'S  DISCUSSION  AND ANALYSIS OF FINANCIAL  CONDITION AND
+              RESULTS OF OPERATIONS
+
+              THE FOLLOWING  DISCUSSION AND ANALYSIS OF THE COMPANY'S HISTORICAL
+RESULTS OF  OPERATIONS  AND LIQUIDITY  AND CAPITAL  RESOURCES  SHOULD BE READ IN
+CONJUNCTION  WITH "SELECTED  CONSOLIDATED  FINANCIAL DATA" AND THE  CONSOLIDATED
+FINANCIAL  STATEMENTS  OF THE  COMPANY  AND NOTES  THERETO  APPEARING  ELSEWHERE
+HEREIN.
+
+OVERVIEW
+
+              The Company was incorporated in November,  1988, under the laws of
+Delaware as GPS  Acquisition  Corp. for the purpose of acquiring the business of
+Blonder-Tongue Laboratories, Inc., a New Jersey corporation which was founded in
+1950 by Ben H. Tongue and Isaac S.  Blonder  (the  "FORMER  BLONDER-TONGUE")  to
+design,  manufacture  and supply a line of  electronics  and  systems  equipment
+principally  for the Private  Cable  industry.  Following the  acquisition,  the
+Company changed its name to Blonder Tongue Laboratories, Inc.
+
+              The Company's  success is due in part to  management's  efforts to
+leverage  the  Company's  reputation  by  broadening  its product  line to offer
+one-stop  shop   convenience  to  private  cable  and  franchise   cable  system
+integrators and to deliver products having a high performance-to-cost ratio.
+
+              In December  1995, the Company  successfully  concluded an initial
+public offering of 2,200,000 shares of its Common Stock. Thereafter,  in January
+1996, the Company's  underwriters  exercised their  over-allotment  option, as a
+result of which an additional  181,735 shares of the Company's Common Stock were
+sold. The proceeds  received by the Company from the sale of its Common Stock in
+the offering (including shares sold pursuant to the over-allotment  option), net
+of  expenses of the  offering  and certain S  Corporation  distributions  to the
+Company's principal stockholders,  were approximately  $14,045,000.  These funds
+were used to  acquire  the  Company's  Old  Bridge  Facility  and to reduce  the
+Company's  outstanding bank debt. The Company has further enhanced its liquidity
+through a long-term loan secured by a mortgage against the Old Bridge Facility.
+
+              On March 26,  1998,  the  Company  acquired  all of the assets and
+technology  rights,   including  the  SMI  Interdiction  product  line,  of  the
+interdiction business (the "INTERDICTION BUSINESS") of Scientific-Atlanta,  Inc.
+("SCIENTIFIC")  for a purchase price consisting of (i) $19 million in cash, (ii)
+67,889 shares of the Company's common stock, (iii) a warrant to purchase 150,000
+additional  shares of the Company's  common stock at an exercise price of $14.25
+per share and (iv)  assumption  by the  Company  of  certain  obligations  under
+executory contracts with vendors and customers and certain warranty  obligations
+and other  current  liabilities  of the  Interdiction  Business.  The Company is
+utilizing the SMI Interdiction product line acquired from Scientific,  which has
+been engineered  primarily to serve the franchise cable market,  as a supplement
+to the  Company's  VideoMask(TM)  Interdiction  products,  which  are  primarily
+focused on the private cable market.  In addition,  the Company expects that the
+technology  acquired  as part of the  Interdiction  Business  will  enhance  its
+ability to design products that meet the specific needs of all cable  providers,
+while improving its position in the franchise cable market.
+
+RESULTS OF OPERATIONS
+
+              The following table sets forth, for the fiscal periods  indicated,
+certain consolidated statement of earnings data as a percentage of net sales:
+
+                                                 Year Ended December 31,
+                                         ---------------------------------------
+                                           2001          2000            1999
+                                         ----------    ---------       ---------
+Net sales                                  100.0%        100.0%          100.0%
+Costs of goods sold                         68.9          66.9            68.8
+Gross profit                                31.1          33.1            31.2
+Selling expenses                             9.3           8.5            10.6
+General and administrative expenses         11.6          10.9            13.3
+Research and development expenses            4.1           3.0             3.6
+Earnings from operations                     6.1          10.7             3.6
+Other (income) expense, net                  2.5           2.8             3.5
+Earnings before income taxes                 3.6           7.9             0.1
+
+                                       14
+<PAGE>
+
+
+2001 COMPARED WITH 2000
+
+              NET  SALES.   Net  sales   decreased   $16,569,000  or  23.6%,  to
+$53,627,000 in 2001 from  $70,196,000 in 2000.  The  substantially  higher sales
+recorded  in the prior  fiscal year were  primarily  attributable  to  shipments
+against a large  interdiction  order booked in the fourth  quarter of 1999.  Net
+sales  included  approximately  $7,962,000  of  interdiction  equipment for 2001
+compared to approximately $29,400,000 in 2000.
+
+              COST OF GOODS SOLD.  Cost of goods sold  decreased to  $36,928,000
+for 2001 from  $46,974,000  for 2000,  primarily  due to decreased  volume,  and
+increased  as a  percentage  of sales to 68.9% in 2001 from  66.9% in 2000.  The
+increase as a percentage of sales was caused  primarily by a greater  proportion
+of sales during the period being comprised of lower margin  products,  including
+the Motorola QAM decoder which was  introduced in the fourth quarter of 2001, as
+well as an increase in obsolescence reserves.
+
+              SELLING EXPENSES. Selling expenses decreased to $5,009,000 in 2001
+from  $5,943,000 in 2000, and increased as a percentage of sales to 9.3% in 2001
+from 8.5% in 2000. The $934,000 decrease is primarily attributable to a decrease
+in wages and fringe  benefits  related to the decrease in headcount along with a
+decrease in commissions and freight expense as a result of reduced sales.
+
+              GENERAL AND  ADMINISTRATIVE  EXPENSES.  General and administrative
+expenses  decreased to $6,200,000 in 2001 from $7,629,000 in 2000, and increased
+as a  percentage  of sales to 11.6% in 2001 from 10.9% in 2000.  The  $1,429,000
+decrease is primarily  attributable to a decrease in consulting  fees,  investor
+relations fees, travel and entertainment, and bad debts.
+
+              RESEARCH  AND  DEVELOPMENT  EXPENSES.   Research  and  development
+expenses  increased to $2,200,000 in 2001 from $2,125,000 in 2000, and increased
+as a percentage of sales to 4.1% in 2001 from 3.0% in 2000. The $75,000 increase
+is  primarily  attributable  to  an  increase  in  wages,  fringe  benefits  and
+consulting expenses.
+
+              EARNINGS FROM OPERATIONS. Earnings from operations decreased 56.3%
+to $3,290,000 in 2001 from  $7,525,000  in 2000.  Earnings from  operations as a
+percentage of sales decreased to 6.1% in 2001 from 10.7% in 2000.
+
+              INTEREST AND OTHER EXPENSE.  Interest and other expenses consisted
+of $1,369,000 of interest  expense in 2001.  Interest and other expenses in 2000
+consisted  of  $1,948,000  of  interest  expense  offset by $10,000 of  interest
+income.  The  decrease  in  interest  expense  is  primarily  attributable  to a
+reduction in the Company's long term debt and lower average interest rates.
+
+              INCOME TAXES. The provision for income taxes for 2001 decreased to
+$704,000 from $2,011,000 in 2000, as a result of a decrease in taxable income.
+
+2000 COMPARED WITH 1999
+
+              NET  SALES.   Net  sales   increased   $13,391,000  or  23.6%,  to
+$70,196,000 in 2000 from $56,805,000 in 1999. The increase in sales is primarily
+attributed to an increase in sales of  interdiction  equipment  primarily to the
+franchise  cable  market.  Net  sales  included  approximately   $29,400,000  of
+interdiction equipment for 2000 compared to approximately $11,006,000 in 1999.
+
+              COST OF GOODS SOLD.  Cost of goods sold  increased to  $46,974,000
+for 2000 from  $39,074,000  for 1999,  primarily  due to increased  volume,  and
+decreased  as a  percentage  of sales to 66.9% in 2000 from  68.8% in 1999.  The
+decrease as a percentage of sales was caused  primarily by a greater  proportion
+of sales during the period being comprised of higher margin products.
+
+              SELLING EXPENSES. Selling expenses decreased to $5,943,000 in 2000
+from  $6,025,000 in 1999, and decreased as a percentage of sales to 8.5% in 2000
+from 10.6% in 1999. The $82,000 decrease is primarily attributable to a decrease
+in the costs incurred for advertising and marketing materials.
+
+                                       15
+<PAGE>
+
+
+              GENERAL AND  ADMINISTRATIVE  EXPENSES.  General and administrative
+expenses  increased to $7,629,000 in 2000 from  $7,573,000 in 1999 and decreased
+as a  percentage  of  sales to 10.9% in 2000  from  13.3% in 1999.  The  $56,000
+increase can be attributable  primarily to an increase in  depreciation  expense
+related to computer equipment.
+
+              RESEARCH  AND  DEVELOPMENT  EXPENSES.   Research  and  development
+expenses  increased  2.7 % to $2,125,000  in 2000 from  $2,070,000 in 1999.  The
+increase is primarily due to an increase in departmental supplies.  Research and
+development expenses decreased as a percentage of sales to 3.0% from 3.6%.
+
+              EARNINGS  FROM  OPERATIONS.  Earnings  from  operations  increased
+264.8% to $7,525,000 in 2000 from  $2,063,000 in 1999.  Earnings from operations
+as a percentage of sales increased to 10.7% in 2000 from 3.6% in 1999.
+
+              INTEREST  AND  EXPENSES.  Other  expenses  in  2000  consisted  of
+$1,948,000  of  interest  expense  offset by $10,000 of interest  income.  Other
+expenses in 1999 consisted of $2,008,000 of interest expense offset by $6,000 of
+interest  income.  The decrease in interest  expense is primarily  attributed to
+decreased  borrowings  under  the  Company's  revolving  line  of  credit  and a
+reduction in the Company's long term debt.
+
+              INCOME TAXES. The provision for income taxes for 2000 increased to
+$2,011,000  from $2,000 for 1999 as a result of an  increase in taxable  income.
+The  Company's  effective  rate  increased  to 36% for 2000 from 3% in 1999 as a
+result of state tax credits  available  to the Company and  recognized  in 1999,
+along with an increase in taxable income.
+
+INFLATION AND SEASONALITY
+
+              Inflation and  seasonality  have not had a material  impact on the
+results of operations of the Company. Fourth quarter sales in 2001 were slightly
+impacted by fewer  production  days. The Company  expects sales each year in the
+fourth quarter to be impacted by fewer production days.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+              As of December 31, 2001 and 2000,  the Company's  working  capital
+was $31,254,000 and $27,154,000,  respectively.  The increase in working capital
+is  attributable  primarily to the  reclassification  as long term debt,  of the
+Company's  obligations under its line of credit from First Union, as a result of
+the refinancing  transaction consummated during the first quarter of 2002 of the
+Company's  credit  agreement.  Historically,  the Company has satisfied its cash
+requirements  primarily from net cash provided by operating  activities and from
+borrowings under its line of credit.
+
+              The Company's net cash  provided by operating  activities  for the
+year ended  December 31, 2001 was  $3,711,000  as a result of the  Company's net
+earnings,  increased  by a $3,169,000  increase in accounts  payable and accrued
+expenses,  offset by the  $4,423,000  increase  in  inventory,  compared to cash
+provided  by  operating  activities  for the year  ended  December  31,  2000 of
+$6,256,000.  Although  sales  decreased  in 2001 as compared  to 2000,  accounts
+receivable  and  inventory  increased.  Accounts  receivable  was  lower in 2000
+despite  higher  sales,  primarily  due to the  fact  that  accounts  receivable
+relating  to  substantial  purchases  by  Cablevision  in 2000  were  paid on an
+accelerated  basis to take advantage of the Company's  2%-10,  net 30 day terms.
+Inventory  increased  in  connection  with the  Company  becoming a  value-added
+distributor  of  Motorola's  QAM decoder  under an agreement  signed in October,
+2001.
+
+              Cash  used  in  investing  activities  was  $803,000,   which  was
+attributable  primarily  to  capital  expenditures  for new  computers  and test
+equipment.  The  Company  does not have any  present  plans or  commitments  for
+material capital expenditures for fiscal year 2002.
+
+              Cash used in financing  activities  was  $2,329,000 for the period
+ended December 31, 2001, comprised of $4,356,000 in repayments of long-term debt
+and $2,117,000 of increased  borrowings  under the First Union revolving line of
+credit.
+
+                                       16
+<PAGE>
+
+
+              During 2001, the Company  commenced  efforts to refinance its line
+of credit with First Union,  and on March 20, 2002 the Company executed a credit
+agreement  with  Commerce  Bank,  N.A.  for a  $19.5  million  credit  facility,
+comprised of (i) a $7 million  revolving line of credit under which funds may be
+borrowed  at LIBOR,  plus a margin  ranging  from  1.75% to 2.50%,  in each case
+depending on the calculation of certain financial covenants,  with a floor of 5%
+through  March 30, 2003,  (ii) a $9 million term loan which bears  interest at a
+rate of 6.75% through September 30, 2002, and thereafter at a fixed rate ranging
+from 6.50% to 7.25% to reset  quarterly  depending on the calculation of certain
+financial  covenants and (iii) a $3.5 million  mortgage loan bearing interest at
+7.5%.  Borrowings  under the  revolving  line of credit  are  limited to certain
+percentages of eligible  accounts  receivable  and inventory,  as defined in the
+credit  agreement.  The credit facility is collateralized by a security interest
+in all of the Company's  assets.  The agreement also contains  restrictions that
+require the Company to maintain certain financial ratios as well as restrictions
+on the payment of cash  dividends.  The maturity  date of the new line of credit
+with  Commerce  Bank is March 20, 2004.  The term loan  requires  equal  monthly
+principal  payments of $187,800 and matures on March 20, 2006. The mortgage loan
+requires  equal monthly  principal  payments of $19,444 and matures on March 20,
+2017. The mortgage loan is callable after five years at the lender's option.
+
+              Upon  execution  of  the  credit  agreement  with  Commerce  Bank,
+$14,953,900  was advanced to the Company,  of which  $14,827,000 was used to pay
+all unpaid  principal and accrued  interest  under the  Company's  prior line of
+credit and term loans with First Union National Bank ("FIRST UNION").
+
+              As a result of the new credit agreement,  the First Union debt has
+been reflected based on the new terms in the accompanying balance sheet.
+
+              Prior to March 20, 2002, the Company had a $5.5 million  revolving
+line of credit  with First  Union on which funds could be borrowed at either the
+bank's base rate plus a margin ranging from 0% to .625%, or LIBOR, plus a margin
+ranging from 1.50% to 2.625%,  in each case  depending  upon the  calculation of
+certain financial  covenants (5.25% at December 31, 2001). At December 31, 2001,
+the Company had $4,367,000 outstanding under the First Union line of credit. The
+agreement  contained  restrictions that required the Company to maintain certain
+financial  ratios as well as  restrictions  on the  payment  of  dividends.  The
+Company also had, prior to March 20, 2002, two outstanding term loans with First
+Union (Old Term Loan A and Old Term Loan B) which accrued interest at a variable
+interest rate. At December 31, 2001, the aggregate amount outstanding under both
+term loans was $10,941,000.
+
+              At June 30, 2001,  September  30, 2001 and December 31, 2001,  the
+Company was unable to meet certain of its  financial  covenants  under the First
+Union credit  agreement,  compliance  with which was waived by First Union as of
+June 30, 2001 and September 30, 2001.  Also, in November 2001, the maturity date
+of the First  Union line of credit was  extended  until  March 31,  2002 and the
+Company agreed that one of the financial  covenants  which had  previously  been
+deleted from the credit  agreement  would again become  effective as of December
+31, 2001. The average  amount  outstanding on the line of credit during 2001 was
+$3,661,000  at a weighted  average  interest rate of 7.02%.  The maximum  amount
+outstanding on the line of credit during 2001 was $5,183,000.
+
+       Annual maturities of long-term debt at December 31, 2001 are:
+
+2002.......................  $ 2,917,000
+2003.......................    2,632,000
+2004.......................    7,008,000
+2005.......................    2,649,000
+2006.......................      989,000
+Thereafter.................           --
+                             -----------
+                             $16,195,000
+                             ===========
+
+              The Company leases certain factory and automotive  equipment under
+noncancellable  operating  leases  expiring at various dates  through  December,
+2006.
+
+                                       17
+<PAGE>
+
+
+              Future minimum rental  payments,  required for all  noncancellable
+leases are as follows:
+
+                                                            Capital    Operating
+                                                          ----------   ---------
+2002 .................................................    $  327,000    $ 78,000
+2003 .................................................       194,000      58,000
+2004 .................................................       191,000      12,000
+2005 .................................................       186,000          --
+2006 .................................................       157,000          --
+Thereafter ...........................................            --          --
+                                                          ----------    --------
+Total future minimum lease payments ..................     1,055,000    $148,000
+                                                                        ========
+Less:  amounts representing interest .................       168,000
+                                                          ----------
+Present value of minimum lease payments ..............    $  887,000
+                                                          ==========
+
+              The Company  currently  anticipates  that the cash  generated from
+operations,  existing  cash  balances  and  amounts  available  under its credit
+facility with  Commerce  Bank,  will be  sufficient  to satisfy its  foreseeable
+working capital needs.
+
+CRITICAL ACCOUNTING POLICIES
+
+              The Company  prepares its financial  statements in accordance with
+accounting  principles  generally  accepted  in  the  United  States.  Preparing
+financial statements in accordance with generally accepted accounting principles
+requires the Company to make estimates and assumptions  that affect the reported
+amounts  of assets and  liabilities  and  disclosure  of  contingent  assets and
+liabilities as of the date of the financial  statements and the reported amounts
+of revenues and expenses during the reporting period.  The following  paragraphs
+include a discussion of some critical  areas where  estimates are required.  You
+should also review Note 1 to the financial  statements for further discussion of
+significant accounting policies.
+
+              The Company records revenue when products are shipped. Legal title
+and risk of loss with respect to the products  pass to customers at the point of
+shipment.  Customers do not have a right to return products shipped. The Company
+provides an allowance for doubtful accounts on an estimated basis.
+
+              The Company  evaluates its long-lived  assets for impairment based
+on the undiscounted  future cash flows of such assets.  If a long-lived asset is
+identified  as  impaired,  the value of the asset  will be  reduced  to its fair
+value.
+
+
+NEW ACCOUNTING PRONOUNCEMENTS
+
+              In June 1998, the Financial  Accounting  Standards  Board ("FASB")
+issued Statement of Financial  Accounting Standards ("FAS") No. 133, "Accounting
+for Derivative  Instruments and Hedging  Activities." FAS 133 was adopted by the
+Company on January 1, 2001. FAS 133 requires that all derivative  instruments be
+recorded  on the  balance  sheet at fair  value.  Changes  in the fair  value of
+derivatives are recorded each period in current earnings or other  comprehensive
+income,  depending on whether a derivative  is  designated  as part of the hedge
+transaction  and the type of hedge  transaction.  In  August,  2001 the  Company
+terminated a previous  interest  rate swap  agreement  and  recorded  $82,000 in
+additional  interest expense. At December 31, 2001, the Company did not have any
+derivative  financial  instruments.  The adoption of this  pronouncement did not
+have a  material  effect on the  Company's  financial  position  or  results  of
+operations.
+
+       In July 2001, the FASB issued FAS No. 141,  "Business  Combinations"  and
+No. 142, "Goodwill and Other Intangible Assets." FAS 141 requires the use of the
+purchase method of accounting and prohibits the use of the  pooling-of-interests
+method of accounting for business  combinations  initiated  after June 30, 2001.
+FAS 142 addresses  financial  accounting and reporting for acquired goodwill and
+other intangible assets. FAS 142 requires, among other things, that companies no
+longer  amortize  goodwill,  but instead test  goodwill for  impairment at least
+annually.  FAS 142 is required to be applied for fiscal  years  beginning  after
+December 15,  2001.  This  statement  also  requires  that  entities  complete a
+transitional  goodwill  impairment test six months from the date of adoption and
+reassess the useful lives of other intangible assets within the first quarter of
+its  adoption.  The  Company  is in the  process  of  completing  this test and,
+accordingly, has not yet determined what effect the adoption of this statement
+
+
+                                       18
+<PAGE>
+
+
+will  have  on  its  financial  statements.   The  Company's  previous  business
+combinations  were accounted for using the purchase  method.  As of December 31,
+2001, the net carrying  amount of goodwill is $10,760,000  and other  intangible
+assets is $4,038,000.  Amortization  of goodwill  during the year ended December
+31, 2001 was $970,000.
+
+       In  August  2001,  the  FASB  issued  FAS No.  144,  "Accounting  for the
+Impairment  or  Disposal  of  Long-Lived  Assets."  The  new  guidance  resolves
+significant  implementation  issues related to FAS No. 121,  "Accounting for the
+Impairment of Long-Lived  Assets and for  Long-Lived  Assets to be Disposed Of."
+FAS 144 supersedes FAS 121, but it retains its fundamental  provisions.  It also
+amends Accounting Research Bulletin No. 51, Consolidated  Financial  Statements,
+to eliminate  the  exception to  consolidate  a subsidiary  for which control is
+likely to be temporary.  FAS 144 retains the requirement of FAS 121 to recognize
+an impairment loss only if the carrying amount of a long-lived  asset within the
+scope of FAS 144 is not recoverable from its undiscounted cash flows and exceeds
+its fair value.
+
+       FAS 144 is effective for fiscal years  beginning after December 15, 2001,
+and  interim  periods  within  those  fiscal  years,   with  early   application
+encouraged. The provisions of FAS 144 generally are to be applied prospectively.
+The  Company  believes  that the  adoption  of FAS 144 will not have a  material
+impact on the Company's financial position or results of operations.
+
+
+ADDITIONAL FACTORS THAT MAY AFFECT FUTURE RESULTS AND MARKET PRICE OF STOCK
+
+              Blonder   Tongue's   business   operates  in  a  rapidly  changing
+environment  that  involves  a number of risks,  some of which  are  beyond  the
+Company's control. The following discussion highlights some of these risks which
+are not otherwise  addressed  elsewhere in this Annual  Report.  There can be no
+assurance that the Company will  anticipate the evolution of industry  standards
+in CATV or the  communications  industry  generally,  changes  in the market and
+customer needs, or that  technologies and applications  under development by the
+Company will be successfully  developed,  or if they are successfully developed,
+that they will achieve market acceptance.  The competition to attract and retain
+highly-skilled engineering, manufacturing, marketing and managerial personnel is
+intense.  Capital  spending by cable  operators  for  constructing,  rebuilding,
+maintaining  or upgrading  their  systems  (upon which the  Company's  sales and
+profitability  are  dependent)  is dependent on a variety of factors,  including
+access  to  financing,   demand  for  their  cable  services,   availability  of
+alternative  video  delivery  technologies,  and  general  economic  conditions.
+Factors such as announcements  of  technological  innovations or new products by
+the Company,  its  competitors  or third  parties,  quarterly  variations in the
+Company's  actual or anticipated  results of operations,  market  conditions for
+emerging  growth stocks or cable industry  stocks in general,  or the failure of
+revenues  or  earnings  in  any  quarter  to  meet  the  investment  community's
+expectations,  may cause  the  market  price of the  Company's  Common  Stock to
+fluctuate significantly.  The stock price may also be affected by broader market
+trends unrelated to the Company's performance.
+
+ITEM 7A.      QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+              The market risk  inherent in the Company's  financial  instruments
+and  positions  represents  the potential  loss arising from adverse  changes in
+interest  rates.  At  December  31,  2001 and 2000 the  principal  amount of the
+Company's aggregate  outstanding  variable rate indebtedness was $15,308,000 and
+$17,178,000,  respectively.  A hypothetical  1% adverse change in interest rates
+would have had an  annualized  unfavorable  impact of  approximately  $7,191 and
+$15,852, respectively, on the Company's earnings and cash flows based upon these
+year-end  debt  levels.  At  December  31,  2001,  the  Company did not have any
+derivative financial instruments.
+
+ITEM 8.       FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+              Incorporated   by  reference  from  the   consolidated   financial
+statements and notes thereto of the Company which are attached hereto  beginning
+on page 24.
+
+ITEM  9.      CHANGES IN AND  DISAGREEMENTS  WITH  ACCOUNTANTS ON ACCOUNTING AND
+              FINANCIAL DISCLOSURE
+
+              Not applicable.
+
+                                       19
+<PAGE>
+
+
+                                    PART III
+
+ITEMS 10. THROUGH 13.  INCORPORATED BY REFERENCE
+
+              The  information  called for by Item 10  "Directors  and Executive
+Officers of the Registrant," Item 11 "Executive Compensation," Item 12 "Security
+Ownership  of Certain  Beneficial  Owners and  Management"  and Item 13 "Certain
+Relationships and Related  Transactions" is incorporated  herein by reference to
+the Company's  definitive proxy statement for its Annual Meeting of Stockholders
+scheduled to be held May 3, 2002,  which  definitive proxy statement is expected
+to be filed  with the  Commission  not later  than 120 days after the end of the
+fiscal  year to  which  this  report  relates.  Note  that the  sections  in the
+definitive  proxy  statement  entitled  "Report  of  Compensation  Committee  on
+Executive Compensation Policies" and "Comparative Stock Performance" pursuant to
+Regulation S-K, Item 402(a)(9),  are not deemed "soliciting material" or "filed"
+as part of this report.
+
+                                     PART IV
+
+ITEM 14.      EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(A)(1)        FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+       Report of Independent Certified Public Accountants ............. 25
+       Consolidated Balance Sheets as of December 31, 2001 and 2000 ... 26
+       Consolidated Statements of Earnings for the Years Ended
+         December 31, 2001, 2000 and 1999 ............................. 27
+       Consolidated Statements of Stockholders' Equity for the Years
+         Ended December 31, 2001, 2000 and 1999 ....................... 28
+       Consolidated Statements of Cash Flows for the Years
+         Ended December 31, 2001, 2000 and 1999 ....................... 29
+       Notes to Consolidated Financial Statements ..................... 30
+
+(A)(2)   FINANCIAL STATEMENT SCHEDULES.
+
+              Included in Part IV of this report:
+
+              Schedule II Valuation and Qualifying Accounts and Reserves
+
+              All other  schedules for which provision is made in the applicable
+accounting  regulations  of the  Securities  and  Exchange  Commission  are  not
+required under the applicable  instructions  or are  inapplicable  and therefore
+have been omitted.
+
+(A)(3)   EXHIBITS
+
+              The exhibits are listed in the Index to Exhibits  appearing  below
+and are filed herewith or are  incorporated by reference to exhibits  previously
+filed with the Commission.
+
+(B)           No reports on Form 8-K were filed in the  quarter  ended  December
+31, 2001.
+
+                                       20
+<PAGE>
+
+(C)      EXHIBITS:
+
+EXHIBIT #  DESCRIPTION                         LOCATION
+---------  -----------                         --------
+
+    3.1    Restated      Certificate      of   Incorporated  by  reference  from
+           Incorporation  of Blonder  Tongue   Exhibit 3.1 to  Registrant's  S-1
+           Laboratories, Inc.                  Registration     Statement    No.
+                                               33-98070, filed October 12, 1995,
+                                               as amended.
+
+    3.2    Restated Bylaws of Blonder Tongue   Incorporated  by  reference  from
+           Laboratories, Inc.                  Exhibit 3.2 to  Registrant's  S-1
+                                               Registration     Statement    No.
+                                               33-98070, filed October 12, 1995,
+                                               as amended.
+
+    4.1    Specimen of stock certificate       Incorporated  by  reference  from
+                                               Exhibit 4.1 to  Registrant's  S-1
+                                               Registration     Statement    No.
+                                               33-98070, filed October 12, 1995,
+                                               as amended.
+
+   10.1    Consulting    Agreement,    dated   Incorporated  by  reference  from
+           January 1, 1995,  between Blonder   Exhibit 10.3 to Registrant's  S-1
+           Tongue  Laboratories,   Inc.  and   Registration     Statement    No.
+           James H. Williams.                  33-98070, filed October 12, 1995,
+                                               as amended.
+
+   10.2    1994 Incentive Stock Option Plan.   Incorporated  by  reference  from
+                                               Exhibit 10.5 to Registrant's  S-1
+                                               Registration     Statement    No.
+                                               33-98070, filed October 12, 1995,
+                                               as amended.
+
+   10.3    1995 Long Term Incentive Plan.      Incorporated  by  reference  from
+                                               Exhibit 10.6 to Registrant's  S-1
+                                               Registration     Statement    No.
+                                               33-98070, filed October 12, 1995,
+                                               as amended.
+
+   10.4    Amended   and    Restated    1996   Incorporated  by  reference  from
+           Director Option Plan.               Appendix B to Registrant's  Proxy
+                                               Statement  for  its  1998  Annual
+                                               Meeting  of  Stockholders,  filed
+                                               March 27, 1998.
+
+   10.5    Employment    Agreement,    dated   Incorporated  by  reference  from
+           August 1, 1995,  between  Blonder   Exhibit 10.9 to Registrant's  S-1
+           Tongue  Laboratories,   Inc.  and   Registration     Statement    No.
+           Daniel J. Altiere.                  33-98070, filed October 12, 1995,
+                                               as amended.
+
+   10.6    Form of Indemnification Agreement   Incorporated  by  reference  from
+           entered  into by  Blonder  Tongue   Exhibit 10.10 to Registrant's S-1
+           Laboratories,  Inc.  in  favor of   Registration     Statement    No.
+           each   of   its   Directors   and   33-98070, filed October 12, 1995,
+           Officers.                           as amended.
+
+   10.7    VideoCipher(R) IICM    Commercial   Incorporated  by  reference  from
+           Descrambler     Module     Master   Exhibit 10.11 to Registrant's S-1
+           Purchase  and License  Agreement,   Registration     Statement    No.
+           dated  August 23,  1990,  between   33-98070, filed October 12, 1995,
+           Blonder Tongue Laboratories, Inc.   as amended.
+           and   Cable/Home    Communication
+           Corp.
+
+  +10.8    Patent License  Agreement,  dated   Incorporated  by  reference  from
+           August 21, 1995,  between Blonder   Exhibit 10.12 to Registrant's S-1
+           Tongue  Laboratories,   Inc.  and   Registration     Statement    No.
+           Philips Electronics North America   33-98070, filed October 12, 1995,
+           Corporation.                        as amended.
+
+  +10.9    Interdiction  Technology  License   Incorporated  by  reference  from
+           Agreement, dated August 21, 1995,   Exhibit 10.13 to Registrant's S-1
+           between       Blonder      Tongue   Registration     Statement    No.
+           Laboratories,  Inc.  and  Philips   33-98070, filed October 12, 1995,
+           Broadband Networks, Inc.            as amended.
+
+                                      21
+<PAGE>
+
+
+EXHIBIT #  DESCRIPTION                         LOCATION
+---------  -----------                         --------
+  10.10    401(k)   Savings   &   Investment   Incorporated  by  reference  from
+           Retirement Plan.                    Exhibit 10.21 to S-1 Registration
+                                               Statement  No.  33-98070,   filed
+                                               October 12, 1995, as amended.
+
+  10.11    Bargaining Unit Pension Plan.       Incorporated  by  reference  from
+                                               Exhibit 10.22 to S-1 Registration
+                                               Statement  No.  33-98070,   filed
+                                               October 12, 1995, as amended.
+
+  10.12    Mortgage,  Assignment  of Leases,   Incorporated  by  reference  from
+           and Security  Agreement dated May   Exhibit   10.2  to   Registrant's
+           23,   1996  by   Blonder   Tongue   Quarterly Report on Form 10-Q for
+           Laboratories,  Inc.  in  favor of   the period  ended June 30,  1996,
+           CoreStates Bank, N.A.,  successor   filed August 14, 1996.
+           to Meridian Bank.
+
+  10.13    Real  Estate  Loan Note dated May   Incorporated  by  reference  from
+           23,  1996  from  Blonder   Tongue   Exhibit   10.3  to   Registrant's
+           Laboratories,  Inc.  in  favor of   Quarterly Report on Form 10-Q for
+           CoreStates Bank, N.A.,  successor   the period  ended June 30,  1996,
+           to Meridian Bank.                   filed August 14, 1996.
+
+  10.14    Allonge to Real Estate Loan Note,   Incorporated  by  reference  from
+           dated  September  26,  1996  from   Exhibit   10.3  to   Registrant's
+           Blonder   Tongue    Laboratories,   Quarterly Report on Form 10-Q for
+           Inc.,   in  favor  of  CoreStates   the period  ended  September  30,
+           Bank, N.A., successor to Meridian   1996, filed November 14, 1996.
+           Bank.
+
+  10.15    Executive Officer Bonus Plan        Incorporated  by  reference  from
+                                               Exhibit   10.3  to   Registrant's
+                                               Quarterly Report on Form 10-Q for
+                                               the period  ended March 31, 1997,
+                                               filed May 13, 1997.
+
+
+  10.16    Third Amendment to 1995 Long Term   Incorporated  by  reference  from
+           Incentive Plan                      Appendix A to Registrant's  Proxy
+                                               Statement  for  its  2000  Annual
+                                               Meeting  of  Stockholders,  filed
+                                               April 4, 2000.
+
+  10.17    Fifth  Amended and Restated  Loan   Incorporated  by  reference  from
+           Agreement dated November 12, 1999   Exhibit  10.18  to   Registrant's
+           between       Blonder      Tongue   Annual  Report  on Form  10-K for
+           Laboratories,   Inc.   and  First   fiscal  year ended  December  31,
+           Union National Bank                 1999, filed March 30, 2000.
+
+  10.18    Third Allonge to Real Estate Note   Incorporated  by  reference  from
+           dated   November  12,  1999  from   Exhibit  10.20  to   Registrant's
+           Blonder Tongue Laboratories, Inc.   Annual  Report  on Form  10-K for
+           to First Union National Bank        fiscal  year ended  December  31,
+                                               1999, filed March 30, 2000.
+
+  10.19    Term Note dated November 12, 1999   Incorporated  by  reference  from
+           by Blonder  Tongue  Laboratories,   Exhibit  10.21  to   Registrant's
+           Inc.  in  favor  of  First  Union   Annual  Report  on Form  10-K for
+           National Bank                       fiscal  year ended  December  31,
+                                               1999, filed March 30, 2000.
+
+  10.20    First  Amendment  and  Waiver  to   Incorporated  by  reference  from
+           Fifth  Amended and Restated  Loan   Exhibit   10.1  to   Registrant's
+           Agreement dated March 24, 2000      Quarterly Report on Form 10-Q for
+                                               the period  ended March 31, 2000,
+                                               filed May 12, 2000.
+
+  10.21    Second  Restatement  of the Fifth   Incorporated  by  reference  from
+           Amended  and  Restated   Line  of   Exhibit   10.1  to   Registrant's
+           Credit  Note  dated as of  August   Quarterly Report on Form 10-Q for
+           11, 2000                            the period  ended  September  30,
+                                               2000, filed November 14, 2000.
+
+  10.22    Second  Amendment  and  Waiver to   Incorporated  by  reference  from
+           Fifth  Amended and Restated  Loan   Exhibit   10.2  to   Registrant's
+           Agreement  dated as of August 11,   Quarterly Report on Form 10-Q for
+           2000                                the period  ended  September  30,
+                                               2000, filed November 14, 2000.
+
+                                       22
+<PAGE>
+
+
+EXHIBIT #  DESCRIPTION                         LOCATION
+---------  -----------                         --------
+  10.23    Second  Amendment  to  Consulting   Incorporated  by  reference  from
+           and   Non-Competition   Agreement   Exhibit   10.1  to   Registrant's
+           between  Registrant  and James H.   Quarterly Report on Form 10-Q for
+           Williams,  dated  as of June  30,   the period  ended June 30,  2000,
+           2000.                               filed August 14, 2000.
+
+  10.24    Fourth Amendment to Fifth Amended   Incorporated  by  reference  from
+           and Restated Loan Agreement dated   Exhibit   10.1  to   Registrant's
+           as  of  March  27,  2001  between   Quarterly Report on Form 10-Q for
+           Blonder Tongue Laboratories, Inc.   the period  ended March 31, 2001,
+           and First Union National Bank.      filed May 14, 2001.
+
+  10.25    Waiver dated August 13, 2001,  to   Incorporated  by  reference  from
+           Fifth  Amended and  Restate  Loan   Exhibit   10.1  to   Registrant's
+           Agreement  between Blonder Tongue   Quarterly Report on Form 10-Q for
+           Laboratories,   Inc.   and  First   the period  ended  September  30,
+           Union National Bank.                2001, filed November 14, 2001.
+
+    21     Subsidiaries  of  Blonder  Tongue   Filed herewith.
+           Laboratories, Inc.
+
+    23     Consent of BDO Seidman, LLP         Filed herewith.
+
+----------
+    + Certain portions of exhibit have been afforded  confidential  treatment by
+      the Securities and Exchange Commission.
+
+(D)   FINANCIAL STATEMENT SCHEDULES:
+
+      Report of BDO Seidman, LLP on financial statement schedule.
+
+      The following  financial statement schedule is included on page 45 of this
+      Annual Report on Form 10-K: Schedule II. Valuation and Qualifying Accounts
+      and Reserves
+
+      All  other  schedules  for  which  provision  is  made  in the  applicable
+accounting  regulations  of the Commission are not required under the applicable
+instructions or are inapplicable and therefore have been omitted.
+
+                                       23
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                                            PAGE
+Report of Independent Certified Public Accountants .......................... 25
+Consolidated Balance Sheets as of December 31, 2001 and 2000 ................ 26
+Consolidated Statements of Earnings for the Years Ended
+  December 31, 2001, 2000 and 1999 .......................................... 27
+Consolidated Statements of Stockholders' Equity for the Years
+  Ended December 31, 2001, 2000 and 1999 .................................... 28
+Consolidated Statements of Cash Flows for the Years Ended
+  December 31, 2001, 2000 and 1999 .......................................... 29
+Notes to Consolidated Financial Statements .................................. 30
+
+                                       24
+<PAGE>
+
+
+               REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+               --------------------------------------------------
+
+
+The Board of Directors and Stockholders
+Blonder Tongue Laboratories, Inc.:
+
+We have audited the accompanying  consolidated  balance sheets of Blonder Tongue
+Laboratories,  Inc.  and  subsidiaries  as of December 31, 2001 and 2000 and the
+related consolidated statements of earnings, stockholders' equity and cash flows
+for each of the  three  years in the  period  ended  December  31,  2001.  These
+financial  statements are the  responsibility of the Company's  management.  Our
+responsibility  is to express an opinion on these financial  statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the  United  States of  America.  Those  standards  require  that we plan and
+perform the audit to obtain  reasonable  assurance  about  whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audits  provide  a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated  financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of Blonder
+Tongue Laboratories, Inc. and subsidiaries as of December 31, 2001 and 2000, and
+the results of their operations and their cash flows for each of the three years
+in the period ended December 31, 2001 in conformity with  accounting  principles
+generally accepted in the United States of America.
+
+
+
+
+BDO Seidman, LLP
+Woodbridge, New Jersey
+
+February 22, 2002, except for Note 4 which is dated March 20, 2002
+
+
+                                       25
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+                                                               December 31,
+                                                           --------------------
+                                                             2001        2000
+                                                           --------    --------
+              ASSETS (Note 4)
+Current assets:
+  Cash ..................................................  $    942    $    363
+  Accounts receivable, net of allowance for doubtful
+  accounts of $1,833 and $1,424 respectively (Note 8) ...     8,564       7,125
+  Inventories, net (Note 2) .............................    30,216      26,333
+  Other current assets ..................................       932       3,264
+  Deferred income taxes (Note 12) .......................     1,746       1,804
+                                                           --------    --------
+    Total current assets ................................    42,400      38,889
+Property, plant and equipment, net of accumulated
+  depreciation and amortization (Notes 3 and 5) .........     7,137       7,644
+Patents, net ............................................     3,454       3,943
+Goodwill, net ...........................................    10,760      11,730
+Other assets ............................................       585         628
+Deferred income taxes (Note 12) .........................        50
+                                                           --------    --------
+                                                           $ 64,386    $ 62,834
+                                                           ========    ========
+              LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Revolving line of credit (Note 4) .....................  $     --    $  2,250
+  Current portion of long-term debt (Note 4) ............     2,917       4,382
+  Accounts payable ......................................     6,672       2,833
+  Accrued compensation ..................................       867       1,143
+  Accrued benefit liability .............................       270          --
+  Other accrued expenses ................................       218         659
+  Income taxes ..........................................       202         468
+                                                           --------    --------
+    Total current liabilities ...........................    11,146      11,735
+                                                           --------    --------
+Deferred income taxes (Note 12) .........................        --         201
+Long-term debt (Note 4) .................................    13,278      11,802
+Commitments and contingencies (Notes 5, 6 and 7) ........        --          --
+Stockholders' equity (Notes 9 and 11):
+  Preferred stock, $.001 par value; authorized
+  5,000 shares; no shares outstanding ...................        --          --
+  Common stock, $.001 par value; authorized
+  25,000 shares, 8,444 shares issued ....................         8           8
+  Paid-in capital .......................................    24,143      24,143
+  Retained earnings .....................................    22,448      21,231
+  Accumulated other comprehensive loss (Note 6) .........      (351)         --
+  Treasury stock, at cost, 831 shares (Note 9) ..........    (6,286)     (6,286)
+                                                           --------    --------
+    Total stockholders' equity ..........................    39,962      39,096
+                                                           --------    --------
+                                                           $ 64,386    $ 62,834
+                                                           ========    ========
+
+           See accompanying notes to consolidated financial statements
+
+                                       26
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                       CONSOLIDATED STATEMENTS OF EARNINGS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+                                                  Year Ended December 31,
+                                             ----------------------------------
+                                               2001         2000         1999
+                                             --------     --------     --------
+
+Net sales (Note 8) .......................   $ 53,627     $ 70,196     $ 56,805
+Cost of goods sold .......................     36,928       46,974       39,074
+                                             --------     --------     --------
+    Gross profit .........................     16,699       23,222       17,731
+                                             --------     --------     --------
+Operating expenses:
+    Selling expenses .....................      5,009        5,943        6,025
+    General and administrative ...........      6,200        7,629        7,573
+    Research and development .............      2,200        2,125        2,070
+                                             --------     --------     --------
+                                               13,409       15,697       15,668
+                                             --------     --------     --------
+Earnings from operations .................      3,290        7,525        2,063
+                                             --------     --------     --------
+
+Other income (expense):
+    Interest expense .....................     (1,369)      (1,948)      (2,008)
+    Other income .........................         --           10            6
+                                             --------     --------     --------
+                                               (1,369)      (1,938)      (2,002)
+                                             --------     --------     --------
+Earnings before income taxes .............      1,921        5,587           61
+Provision for income taxes (Note 12) .....        704        2,011            2
+                                             --------     --------     --------
+    Net earnings .........................   $  1,217     $  3,576     $     59
+                                             ========     ========     ========
+Basic earnings per share (Note 10) .......   $   0.16     $   0.47     $   0.01
+                                             ========     ========     ========
+Basic weighted average shares
+  outstanding (Note 10) ..................      7,613        7,620        7,916
+                                             ========     ========     ========
+Diluted earnings per share (Note 10) .....   $   0.16     $   0.47     $   0.01
+                                             ========     ========     ========
+Diluted weighted average shares
+  outstanding (Note 10) ..................      7,637        7,632        7,958
+                                             ========     ========     ========
+
+           See accompanying notes to consolidated financial statements
+
+                                       27
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                                                               Accumulated
+                                                    Common Stock                                 Other
+                                                 ------------------     Paid-in     Retained  Comprehensive  Treasury
+                                                 Shares      Amount     Capital     Earnings      Loss        Stock          Total
+                                                 ------     -------     -------     -------     -------      --------      --------
+<S>                                               <C>       <C>         <C>         <C>         <C>          <C>           <C>
+Balance at January 1, 1999 ..................     8,370     $     8     $23,743     $17,596     $    --      $   (851)     $ 40,496
+  Proceeds from exercise of stock options ...        22          --         127          --          --            --           127
+  Acquisition of treasury stock .............        --          --          --          --          --        (5,435)       (5,435)
+  Net earnings ..............................        --          --          --          59          --            --            59
+                                                  -----     -------     -------     -------     -------      --------      --------
+Balance at December 31, 1999 ................     8,392           8      23,870      17,655          --        (6,286)       35,247
+
+  Proceeds from exercise of stock options ...        52          --         273          --          --            --           273
+  Net earnings ..............................        --          --          --       3,576          --            --         3,576
+                                                  -----     -------     -------     -------     -------      --------      --------
+Balance at December 31, 2000 ................     8,444           8      24,143      21,231          --        (6,286)       39,096
+
+Net earnings ................................        --          --          --       1,217          --            --         1,217
+Unrecognized pension liability,
+  net of tax (Note 6) .......................        --          --          --          --        (351)           --          (351)
+                                                                                                                           --------
+Comprehensive income ........................                                                                                   866
+                                                  -----     -------     -------     -------     -------      --------      --------
+Balance at December 31, 2001 ................     8,444     $     8     $24,143     $22,448     $  (351)     $ (6,286)     $ 39,962
+                                                  =====     =======     =======     =======     =======      ========      ========
+</TABLE>
+
+           See accompanying notes to consolidated financial statements
+
+                                       28
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+
+                                                      Year Ended December 31,
+                                                    --------------------------
+                                                     2001      2000      1999
+                                                    ------    ------    ------
+
+Cash Flows From Operating Activities:
+  Net earnings .................................... $1,217    $3,576    $   59
+  Adjustments to reconcile net earnings to cash
+  provided by operating activities:
+    Depreciation ..................................  1,310     1,464     1,464
+    Amortization ..................................  1,502     1,537     1,530
+    Provision for inventory reserves ..............    540       211       119
+    Provision for doubtful accounts ...............    307       741     1,043
+    Deferred income taxes .........................      4      (570)       67
+    Changes in operating assets and liabilities:
+      Accounts receivable ......................... (1,746)    2,103     4,976
+      Inventories ................................. (4,423)      249    (2,695)
+      Other current assets ........................  2,054    (1,257)   (1,410)
+      Other assets ................................     43        --       (47)
+      Income taxes ................................   (266)      154        44
+      Accounts payable and accrued expenses .......  3,169    (1,952)    2,233
+                                                    ------    ------    ------
+        Net cash provided by operating activities .  3,711     6,256     7,383
+                                                    ------    ------    ------
+Cash Flows From Investing Activities:
+     Capital expenditures .........................   (803)     (368)   (1,197)
+     Acquisition of licenses ......................     --      (501)       --
+                                                    ------    ------    ------
+        Net cash used in investing activities .....   (803)     (869)   (1,197)
+                                                    ------    ------    ------
+Cash Flows From Financing Activities:
+  Net borrowings (repayments) under
+    revolving line of credit ......................  2,117      (922)    1,345
+  Repayments of long-term debt .................... (4,356)   (4,423)   (2,717)
+  Deferred financing costs ........................    (90)       --        --
+  Proceeds from exercise of stock options .........     --       273       127
+  Acquisition of treasury stock ...................     --        --    (5,435)
+                                                    ------    ------    ------
+        Net cash used in financing activities ..... (2,329)   (5,072)   (6,680)
+                                                    ------    ------    ------
+Net increase (decrease) in cash ...................    579       315      (494)
+Cash, beginning of year ...........................    363        48       542
+                                                    ------    ------    ------
+Cash, end of year ................................. $  942    $  363    $   48
+                                                    ======    ======    ======
+Supplemental Cash Flow Information:
+  Cash paid for interest .......................... $1,447    $1,955    $2,025
+  Cash paid for income taxes ......................    966     2,070       660
+                                                    ======    ======    ======
+Non-cash investing and financing activities:
+  Capital lease obligations ....................... $   --    $   --    $  965
+
+           See accompanying notes to consolidated financial statements
+
+                                       29
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+(A)      COMPANY AND BASIS OF PRESENTATION
+
+         Blonder  Tongue  Laboratories,  Inc.  (the  "COMPANY")  is a  designer,
+manufacturer  and supplier of  electronics  and systems  equipment for the cable
+television  industry,  primarily  throughout the United States. The consolidated
+financial statements include the accounts of Blonder Tongue  Laboratories,  Inc.
+and  subsidiaries  as discussed  below.  Significant  intercompany  accounts and
+transactions have been eliminated in consolidation.
+
+(B)      INVENTORIES
+
+         Inventories  are  stated  at  the  lower  of  cost,  determined  by the
+first-in, first-out ("FIFO") method, or market.
+
+(C)      PROPERTY, PLANT AND EQUIPMENT
+
+         Property,  plant and equipment are stated at cost. The Company provides
+for  depreciation  generally on the  straight-line  method based upon  estimated
+useful lives of 3 to 5 years for office  equipment,  5 to 7 years for  furniture
+and  fixtures,  6 to 10 years for machinery  and  equipment,  10 to 15 years for
+building  improvements  and 40 years for the  manufacturing  and  administrative
+office facility.
+
+(D)      INCOME TAXES
+
+         The Company accounts for income taxes under the provisions of Statement
+of  Financial  Accounting  Standards  No. 109,  "Accounting  for Income  Taxes."
+Deferred income taxes are provided for temporary  differences in the recognition
+of  certain  income and  expenses  for  financial  and tax  reporting  purposes.
+Valuation  allowances  are  established  when  necessary to reduce  deferred tax
+assets to the amount expected to be realized.
+
+(E)      INTANGIBLE ASSETS
+
+         Intangible  assets, net totaling $14,799 and $16,301 as of December 31,
+2001 and 2000,  respectively,  consist of goodwill,  prepaid licensing fees, and
+acquired patent rights,  and are carried at cost less accumulated  amortization.
+Amortization is computed  utilizing the straight-line  method over the estimated
+useful life of the respective asset, 3 to 15 years. Accumulated amortization was
+$6,628 and $5,126 for 2001 and 2000, respectively.
+
+(F)      LONG-LIVED ASSETS
+
+         The Company  follows  Statement of Financial  Accounting  Standards No.
+121,  "Accounting  for the  Impairment of Long-Lived  Assets and for  Long-Lived
+Assets to Be Disposed Of" ("SFAS 121").  SFAS 121  standardized  the  accounting
+practices for the recognition  and  measurement of impairment  losses on certain
+long-lived assets based on non-discounted  cash flows. No impairment losses have
+been recorded through December 31, 2001.
+
+(G)      STATEMENTS OF CASH FLOWS
+
+         For purposes of the consolidated  statements of cash flows, the Company
+considers all highly liquid debt  instruments with a maturity of less than three
+months at  purchase  to be cash  equivalents.  The Company did not have any cash
+equivalents at December 31, 2001, 2000 and 1999.
+
+(H)      RESEARCH AND DEVELOPMENT
+
+         Research and development  expenditures  for the Company's  projects are
+expensed as incurred.
+
+                                       30
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+(I)      REVENUE RECOGNITION
+
+         The Company  records  revenues when products are shipped.  Customers do
+not have a right to return products  shipped.  The Company provides an allowance
+for doubtful accounts on an estimated basis.
+
+(J)      EARNINGS PER SHARE
+
+         Earnings per share are  calculated  in  accordance  with the  Financial
+Accounting  Standards Board issued Statement of Financial  Accounting  Standards
+No. 128,  "Earnings per Share" ("SFAS 128"),  which provides for the calculation
+of "basic" and "diluted"  earnings per share.  Basic earnings per share includes
+no dilution and is computed by dividing  net  earnings by the  weighted  average
+number of common shares  outstanding for the period.  Diluted earnings per share
+reflect,  in periods in which they have a dilutive effect,  the effect of common
+shares issuable upon exercise of stock options.
+
+(K)      TREASURY STOCK
+
+         Treasury Stock is recorded at cost. Gains and losses on disposition are
+recorded as increases or decreases to additional  paid-in capital with losses in
+excess of previously recorded gains charged directly to retained earnings.
+
+(L)      DERIVATIVE FINANCIAL INSTRUMENTS
+
+         The  Company  utilizes  interest  rate  swaps to manage  interest  rate
+exposures.  The Company specifically designates interest rate swaps as hedges of
+debt  instruments  and  recognizes  interest  differentials  as  adjustments  to
+interest  expense in the period they occur.  The Company  does not hold or issue
+financial instruments for trading purposes.
+
+(M)      SIGNIFICANT RISKS AND UNCERTAINTIES
+
+         The  preparation of financial  statements in conformity  with generally
+accepted  accounting  principles  requires  management  to  make  estimates  and
+assumptions  that  affect the  reported  amounts of assets and  liabilities  and
+disclosure of  contingent  assets and  liabilities  at the date of the financial
+statements  and the  reported  amounts  of  revenues  and  expenses  during  the
+reporting period. Actual results could differ from those estimates.
+
+         Approximately  56% of the  Company's  employees  are covered by a three
+year collective bargaining agreement, which expires in February 2005.
+
+         The Company estimates that headend products accounted for approximately
+52% of the  Company's  revenues  in  2001,  40% in  2000  and 60% in  1999.  Any
+substantial  decrease in sales of headend products could have a material adverse
+effect on the Company's  results of operations,  financial  condition,  and cash
+flows.
+
+         The Company  purchases  several  products from sole suppliers for which
+alternative   sources  are  not  available,   such  as  the  VideoCipher(R)  and
+DigiCipher(R)  encryption  systems  manufactured  by Motorola,  Inc.,  which are
+standard   encryption   methodologies   employed  on  U.S.  C-Band  and  Ku-Band
+transponders and Hughes Network Systems digital satellite receivers for delivery
+of DIRECTV(TM) programming.  An inability to timely obtain sufficient quantities
+of these  components  could  have a  material  adverse  effect on the  Company's
+operating  results.  The Company does not have a supply agreement with Motorola,
+Inc. or any other supplier. The Company submits purchase orders to its suppliers
+on an as-needed basis.
+
+(N)      SHIPPING AND HANDLING COSTS
+
+         Shipping  and  handling  costs are  recorded as a component  of selling
+expenses. Revenues from shipping and handling are not significant.
+
+                                       31
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+(O)      NEW ACCOUNTING PRONOUNCEMENTS
+
+                  In  June  1998,  the  Financial   Accounting  Standards  Board
+("FASB")  issued  Statement of Financial  Accounting  Standard  ("FAS") No. 133,
+"Accounting  for Derivative  Instruments  and Hedging  Activities."  FAS 133 was
+adopted by the Company on January 1, 2001.  FAS 133 requires that all derivative
+instruments be recorded on the balance sheet at fair value.  Changes in the fair
+value of  derivatives  are  recorded  each  period in current  earnings or other
+comprehensive income, depending on whether a derivative is designated as part of
+the hedge  transaction and the type of hedge  transaction.  In August,  2001 the
+Company  terminated a previous  interest rate swap agreement and recorded $82 in
+additional  interest expense.  At December 31, 2001 the Company did not have any
+derivative  financial  instruments.  The adoption of this  pronouncement did not
+have a  material  effect on the  Company's  financial  position  or  results  of
+operations.
+
+         In July 2001, the FASB issued FAS No. 141, "Business  Combinations" and
+No. 142, "Goodwill and Other Intangible Assets." FAS 141 requires the use of the
+purchase method of accounting and prohibits the use of the  pooling-of-interests
+method of accounting for business  combinations  initiated  after June 30, 2001.
+FAS 142 addresses  financial  accounting and reporting for acquired goodwill and
+other intangible assets. FAS 142 requires, among other things, that companies no
+longer  amortize  goodwill,  but instead test  goodwill for  impairment at least
+annually.  FAS 142 is required to be applied for fiscal  years  beginning  after
+December 15,  2001.  This  statement  also  requires  that  entities  complete a
+transitional  goodwill  impairment test six months from the date of adoption and
+reassess the useful lives of other intangible assets within the first quarter of
+its  adoption.  The  Company  is in the  process  of  completing  this test and,
+accordingly,  has not yet determined  what effect the adoption of this statement
+will  have  on  its  financial  statements.   The  Company's  previous  business
+combinations  were accounted for using the purchase  method.  As of December 31,
+2001, the net carrying amount of goodwill is $10,760 and other intangible assets
+is $4,038.  Amortization of goodwill during the year ended December 31, 2001 was
+$970.
+
+         In August  2001,  the FASB  issued  FAS No.  144,  "Accounting  for the
+Impairment  or  Disposal  of  Long-Lived  Assets."  The  new  guidance  resolves
+significant  implementation  issues related to FAS No. 121,  "Accounting for the
+Impairment of Long-Lived  Assets and for  Long-Lived  Assets to be Disposed Of."
+FAS 144 supersedes FAS 121, but it retains its fundamental  provisions.  It also
+amends Accounting Research Bulletin No. 51, Consolidated  Financial  Statements,
+to eliminate  the  exception to  consolidate  a subsidiary  for which control is
+likely to be temporary.  FAS 144 retains the requirement of FAS 121 to recognize
+an impairment loss only if the carrying amount of a long-lived  asset within the
+scope of FAS 144 is not recoverable from its undiscounted cash flows and exceeds
+its fair value.
+
+         FAS 144 is effective  for fiscal  years  beginning  after  December 15,
+2001,  and interim  periods  within those fiscal years,  with early  application
+encouraged. The provisions of FAS 144 generally are to be applied prospectively.
+The  Company  believes  that the  adoption  of FAS 144 will not have a  material
+impact on the Company's financial position or results of operations.
+
+
+NOTE 2 - INVENTORIES
+
+Inventories, net of reserves, are summarized as follows:
+
+                                                                  December 31,
+                                                              ------------------
+                                                                2001       2000
+                                                              -------    -------
+
+Raw materials ............................................    $13,071    $11,346
+Work in process ..........................................      2,797      3,261
+Finished goods ...........................................     14,348     11,726
+                                                              -------    -------
+                                                              $30,216    $26,333
+                                                              =======    =======
+
+                                       32
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+NOTE 3 - PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant and equipment are summarized as follows:
+
+                                                                 December 31,
+                                                             ------------------
+                                                               2001       2000
+                                                             -------    -------
+Land .....................................................   $ 1,000    $ 1,000
+Building .................................................     3,361      3,361
+Machinery and equipment ..................................     7,365      6,817
+Furniture and fixtures ...................................       398        398
+Office equipment .........................................     1,713      1,482
+Building improvements ....................................       640        616
+                                                             -------    -------
+                                                              14,477     13,674
+Less:  Accumulated depreciation and amortization .........    (7,340)    (6,030)
+                                                             -------    -------
+                                                             $ 7,137    $ 7,644
+                                                             =======    =======
+
+NOTE 4 - DEBT
+
+                  During 2001,  the Company  commenced  efforts to refinance its
+line of credit with First  Union,  and on March 20, 2002 the Company  executed a
+credit  agreement  with  Commerce  Bank,  N.A.  for a $19,500  credit  facility,
+comprised  of (i) a $7,000  revolving  line of credit  under  which funds may be
+borrowed  at LIBOR,  plus a margin  ranging  from  1.75% to 2.50%,  in each case
+depending on the calculation of certain financial covenants,  with a floor of 5%
+through March 30, 2003,  (ii) a $9,000 term loan which bears  interest at a rate
+of 6.75% through September 30, 2002, and thereafter at a fixed rate ranging from
+6.50% to 7.25%  to reset  quarterly  depending  on the  calculation  of  certain
+financial  covenants and (iii) a $3,500 mortgage loan bearing  interest at 7.5%.
+Borrowings under the revolving line of credit are limited to certain percentages
+of  eligible  accounts  receivable  and  inventory,  as  defined  in the  credit
+agreement.  The credit facility is  collateralized by a security interest in all
+of the Company's assets.  The agreement also contains  restrictions that require
+the Company to maintain certain  financial ratios as well as restrictions on the
+payment of cash  dividends.  The  maturity  date of the new line of credit  with
+Commerce Bank is March 20, 2004. The term loan requires equal monthly  principal
+payments of $187 and matures on March 20, 2006. The mortgage loan requires equal
+monthly  principal  payments of $19 and matures on March 20, 2017.  The mortgage
+loan is callable after five years at the lender's option.
+
+                  Upon  execution of the credit  agreement  with Commerce  Bank,
+$14,954 was advanced to the Company, of which $14,827 was used to pay all unpaid
+principal and accrued interest under the Company's prior line of credit and term
+loans with First Union National Bank ("FIRST UNION").
+
+                  As a result of the new credit agreement,  the First Union debt
+has been reflected based on the new terms in the accompanying balance sheet.
+
+                  Prior to March 20,  2002,  the Company had a $5,500  revolving
+line of credit  with First  Union on which funds could be borrowed at either the
+bank's base rate plus a margin ranging from 0% to .625%, or LIBOR, plus a margin
+ranging from 1.50% to 2.625%,  in each case  depending  upon the  calculation of
+certain financial  covenants (5.25% at December 31, 2001). At December 31, 2001,
+the Company  had $4,367  outstanding  under the First Union line of credit.  The
+agreement  contained  restrictions that required the Company to maintain certain
+financial  ratios as well as  restrictions  on the  payment  of  dividends.  The
+Company also had, prior to March 20, 2002, two outstanding term loans with First
+Union (Old Term Loan A and Old Term Loan B) which accrued interest at a variable
+interest rate. At December 31, 2001, the aggregate amount outstanding under both
+term loans was $10,941.
+
+                  At June 30,  2001,  September  30, 2001 and December 31, 2001,
+the  Company was unable to meet  certain of its  financial  covenants  under the
+First Union credit agreement, compliance with which was waived by First Union as
+of June 30, 2001 and September 30, 2001.  Also, in November  2001,  the maturity
+date of the First
+
+                                       33
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+Union line of credit was  extended  until March 31, 2002 and the Company  agreed
+that one of the financial  covenants  which had previously been deleted from the
+credit  agreement  would again become  effective  as of December  31, 2001.  The
+average  amount  outstanding  on the line of credit  during 2001 was $3,661 at a
+weighted average  interest rate of 7.02%. The maximum amount  outstanding on the
+line of credit during 2001 was $5,183.
+
+                  The fair value of the debt  approximates  the  recorded  value
+based on the borrowing rates  currently  available to the Company for loans with
+similar terms and maturities.
+
+Long-term debt consists of the following:
+
+                                                                 December 31,
+                                                             ------------------
+                                                               2001       2000
+                                                             -------    -------
+
+Revolving Line of Credit .................................   $ 4,367    $    --
+Term Loan ................................................     9,000         --
+Mortgage loan ............................................     1,941         --
+Old Term Loan B ..........................................        --      1,944
+Old Term Loan A ..........................................        --     12,983
+Capital leases (Note 5) ..................................       887      1,257
+                                                             -------    -------
+                                                              16,195     16,184
+Less:  Current portion ...................................    (2,917)    (4,382)
+                                                             -------    -------
+                                                             $13,278    $11,802
+                                                             =======    =======
+
+         Annual maturities of long-term debt at December 31, 2001 are:
+
+2002.......................  $  2,917
+2003.......................     2,632
+2004.......................     7,008
+2005.......................     2,649
+2006.......................       989
+Thereafter.................         -
+                             ---------
+                             $ 16,195
+                             =========
+
+NOTE 5 - COMMITMENTS AND CONTINGENCIES
+
+LEASES
+
+                  The Company  leases certain  factory and automotive  equipment
+under  noncancellable   operating  leases  expiring  at  various  dates  through
+December, 2006.
+
+                                       34
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+                  Future   minimum   rental    payments,    required   for   all
+noncancellable leases are as follows:
+
+                                                             Capital   Operating
+                                                             -------    -------
+2002 .....................................................   $   327    $    78
+2003 .....................................................       194         58
+2004 .....................................................       191         12
+2005 .....................................................       186         --
+2006 .....................................................       157         --
+Thereafter ...............................................        --         --
+                                                             -------    -------
+Total future minimum lease payments ......................     1,055    $   148
+                                                                        =======
+Less:  amounts representing interest .....................       168
+                                                             -------
+Present value of minimum lease payments ..................   $   887
+                                                             =======
+
+                  Property,  plant and equipment included  capitalized leases of
+$2,552,  less  accumulated  amortization  of $1,477,  at December 31, 2001,  and
+capitalized  leases of $2,514,  less  accumulated  amortization  of  $1,149,  at
+December 31, 2000.
+
+                  Rent  expense  was  $111,  $160 and $217 for the  years  ended
+December 31, 2001, 2000 and 1999, respectively.
+
+LITIGATION
+
+                  The Company is a party to certain  proceedings  incidental  to
+the ordinary  course of its business,  none of which,  in the current opinion of
+management,  is  likely  to have a  material  adverse  effect  on the  Company's
+business, financial condition, results of operations or cash flows.
+
+NOTE 6 - BENEFIT PLANS
+
+DEFINED CONTRIBUTION PLAN
+
+                  The Company has a defined  contribution plan covering all full
+time non-union  employees qualified under Section 401(k) of the Internal Revenue
+Code, in which the Company matches a portion of an employee's  salary  deferral.
+The Company's contributions to this plan were $208, $185, and $254 for the years
+ended December 31, 2001, 2000 and 1999, respectively.
+
+DEFINED BENEFIT PENSION PLAN
+
+                  Substantially   all   union   employees   who   meet   certain
+requirements  of age, length of service and hours worked per year are covered by
+a Company sponsored non-contributory defined benefit pension plan. Benefits paid
+to retirees are based upon age at retirement and years of credited service.  Net
+periodic pension cost for this plan includes the following components:
+
+                                                           December 31,
+                                                    ---------------------------
+Components of net periodic pension cost: ......      2001       2000       1999
+                                                    -----      -----      -----
+Service cost ..................................     $ 155      $ 121      $ 121
+Interest cost .................................       116         80         76
+Actual return on plan assets ..................      (105)      (148)       (29)
+Recognized net actuarial (gain) loss ..........        27         63        (33)
+                                                    -----      -----      -----
+Net periodic pension cost .....................     $ 193      $ 116      $ 135
+                                                    =====      =====      =====
+
+                                       35
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+                  The funded status of the plan and the amounts  recorded in the
+Company's consolidated balance sheets are as follows:
+
+                                                                 December 31,
+                                                             ------------------
+                                                               2001       2000
+                                                             -------    -------
+         Change in benefit obligation:
+         Benefit obligation at beginning of year ..........  $ 1,299    $ 1,248
+         Service cost .....................................      155        121
+         Interest cost ....................................      116         80
+         Actuarial (gain) loss ............................      369        (87)
+         Benefits paid ....................................      (34)       (63)
+                                                             -------    -------
+         Benefit obligation at end of year ................    1,905      1,299
+                                                             -------    -------
+
+         Change in plan assets:
+         Fair value of plan assets at beginning of year ...    1,427      1,158
+         Actual return on plan assets .....................       (9)       148
+         Employer contribution ............................      191        184
+         Benefits paid ....................................      (34)       (63)
+                                                             -------    -------
+         Fair value of plan assets at end of year .........    1,575      1,427
+                                                             -------    -------
+         Funded status.....................................     (329)       129
+         Unrecognized net actuarial loss ..................      694        209
+         Unrecognized net transition liability ............      (50)       (60)
+                                                             -------    -------
+         Prepaid benefit cost .............................  $   315    $   278
+                                                             =======    =======
+
+
+Key economic assumptions used in these determinations were:
+
+                                                                 December 31,
+                                                             ------------------
+                                                               2001       2000
+                                                             -------    -------
+         Discount rate ....................................      7.0%       7.0%
+         Expected long-term rate of return ................      7.0%       7.0%
+
+                  During  2001,  the Company  recorded an  unrecognized  pension
+liability of $351 as an  accumulated  other  comprehensive  loss  adjustment  to
+stockholders'  equity.  This amount represents a portion of the unrecognized net
+actuarial loss for the year ending December 31, 2001.
+
+NOTE 7 - RELATED PARTY TRANSACTIONS
+
+                  On January 1, 1995, the Company  entered into a consulting and
+non-competition  agreement  with a  director,  who is also  the  second  largest
+stockholder.  Under the agreement,  the director provides consulting services on
+various operational and financial issues and is currently paid at an annual rate
+of $158 but in no event is such  annual  rate  permitted  to  exceed  $200.  The
+director also agreed to keep all Company  information  confidential and will not
+compete  directly or  indirectly  with the Company for the term of the agreement
+and for a period of two years  thereafter.  The initial  term of this  Agreement
+expires on December 31, 2004 and automatically  renews thereafter for successive
+one-year  terms  (subject to  termination  at the end of the initial term or any
+renewal term on at least 90 days' notice).
+
+                                       36
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+NOTE 8 - CONCENTRATION OF CREDIT RISK
+
+                  Financial  instruments that potentially subject the Company to
+significant  concentrations of credit risk consist  principally of cash deposits
+and trade accounts receivable.
+
+                  The Company  maintains  cash balances at several banks located
+in the northeastern United States. As part of its cash management  process,  the
+Company periodically reviews the relative credit standing of these banks.
+
+                  Credit  risk with  respect  to trade  accounts  receivable  is
+concentrated with five of the Company's customers. These customers accounted for
+approximately 29% and 35% of the Company's outstanding trade accounts receivable
+at December 31, 2001 and 2000, respectively. These customers are distributors of
+telecommunications  and private cable  television  components,  and providers of
+franchise and private cable  television  service.  The Company  performs ongoing
+credit evaluations of its customers' financial condition,  uses credit insurance
+and requires collateral, such as letters of credit, to mitigate its credit risk.
+The  deterioration  of the  financial  condition  of one or  more  of its  major
+customers could  adversely  impact the Company's  operations.  From time to time
+where the Company determines that circumstances warrant, such as when a customer
+agrees to commit to a large blanket  purchase order, the Company extends payment
+terms beyond its standard payment terms.
+
+                  For the year ended  December 31, 2001,  the Company's  largest
+customer  accounted for  approximately 14% of the Company's sales. This customer
+also  accounted for  approximately  11% of the  Company's  sales in 2000 and for
+approximately  14% of the Company's  sales in 1999.  At December 31, 2001,  this
+customer  accounted for  approximately  11% of the Company's  outstanding  trade
+accounts receivable. At December 31, 2001, two other customers accounted for 12%
+and 11%,  respectively,  of the Company's outstanding trade accounts receivable.
+Management  believes  these  amounts  to be  collectible.  For the  year  ending
+December 31, 2000, the Company's  largest customer  accounted for  approximately
+29% of the Company's sales.
+
+NOTE 9 - STOCKHOLDERS' EQUITY
+
+                  On May 17, 1999, the Company  commenced a self tender offer to
+purchase 750 shares of its common stock at a purchase  price  ranging from $6.00
+to $8.00  per  share.  As of June 22,  1999,  approximately  1,600  shares  were
+tendered  and the Company  accepted  750 shares for purchase at a price of $7.00
+per share.  The stock  repurchase  was funded by a combination  of the Company's
+cash on hand and borrowings against its revolving line of credit.
+
+                                       37
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+NOTE 10 - EARNINGS PER SHARE
+
+                  Basic  and  diluted  earnings  per share for each of the three
+years ended December 31, 2001, 2000 and 1999 are calculated as follows:
+
+
+                                            Net Income       Shares    Per Share
+                                            (Numerator)  (Denominator)  Amount
+                                           -------------------------------------
+
+For the year ended December 31, 2001:
+
+   Basic earnings per share                    $1,217        7,613        $0.16
+   Effect of assumed conversion of
+   employee stock options                          --           24           --
+                                               --------------------------------
+
+   Diluted earnings per share                  $1,217        7,637        $0.16
+                                               ================================
+
+
+For the year ended December 31, 2000:
+
+   Basic earnings per share                    $3,576        7,620        $0.47
+   Effect of assumed conversion of
+   employee stock options                          --           12           --
+                                               --------------------------------
+
+   Diluted earnings per share                  $3,576        7,632        $0.47
+                                               ================================
+
+
+For the year ended December 31, 1999:
+
+   Basic earnings per share                    $   59        7,916        $0.01
+   Effect of assumed conversion of
+   employee stock options                          --           42           --
+                                               --------------------------------
+
+   Diluted earnings per share                  $   59        7,958        $0.01
+                                               ================================
+
+
+                  The diluted  share base  excludes  incremental  shares of 888,
+850, and 837 related to stock options and a warrant for December 31, 2001,  2000
+and 1999,  respectively.  These shares were  excluded due to their  antidilutive
+effect.
+
+NOTE 11 - STOCK OPTION PLANS
+
+                  In 1994,  the Company  established  the 1994  Incentive  Stock
+Option  Plan (the "1994  PLAN").  The 1994 Plan  provides  for the  granting  of
+Incentive  Stock  Options to purchase  shares of the  Company's  common stock to
+officers and key employees at a price not less than the fair market value at the
+date of  grant as  determined  by the  compensation  committee  of the  Board of
+Directors.  The maximum  number of shares  available for issuance under the plan
+was 298. Options become exercisable as determined by the compensation  committee
+of the Board of  Directors at the date of grant.  Options  expire ten years from
+the date of grant.
+
+                                       38
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+                  In  October,  1995,  the  Company's  Board  of  Directors  and
+stockholders  approved the 1995 Long Term Incentive Plan (the "1995 PLAN").  The
+1995 Plan provides for grants of "incentive stock options" or nonqualified stock
+options,  and awards of  restricted  stock,  to  executives  and key  employees,
+including officers and employee Directors.  The 1995 Plan is administered by the
+Compensation Committee of the Board of Directors, which determines the optionees
+and the terms of the options granted under the 1995 Plan, including the exercise
+price, number of shares subject to the option and the exercisability thereof, as
+well as the recipients and number of shares awarded for restricted stock awards;
+provided,  however,  that no employee may receive  stock  options or  restricted
+stock  awards  which  would  result,  separately  or  in  combination,   in  the
+acquisition  of more than 100 shares of Common  Stock of the  Company  under the
+1995 Plan. The exercise price of incentive  stock options granted under the 1995
+Plan must be equal to at least the fair market  value of the Common Stock on the
+date of grant.  With respect to any optionee  who owns stock  representing  more
+than 10% of the voting power of all classes of the Company's outstanding capital
+stock,  the  exercise  price of any  incentive  stock option must be equal to at
+least 110% of the fair  market  value of the Common  Stock on the date of grant,
+and the term of the  option  may not exceed  five  years.  The term of all other
+incentive  stock  options  granted under the 1995 Plan may not exceed ten years.
+The aggregate  fair market value of Common Stock  (determined  as of the date of
+the option  grant) for which an  incentive  stock  option may for the first time
+become  exercisable in any calendar year may not exceed $100. The exercise price
+for nonqualified stock options is established by the Compensation Committee, and
+may be more or less than the fair market  value of the Common  Stock on the date
+of grant.
+
+                  Stockholders have previously approved a total of 900 shares of
+common stock for issuance under the 1995 Plan, as amended to date.
+
+                  In May, 1998,  the  stockholders  of the Company  approved the
+Amended and Restated 1996 Director Option Plan (the "AMENDED 1996 PLAN").  Under
+the  plan,  Directors  who are not  currently  employed  by the  Company  or any
+subsidiary of the Company and have not been so employed within the preceding six
+months are eligible to receive  options from time to time to purchase the number
+of shares of Common Stock  determined by the Board in its discretion;  provided,
+however,  that no Director is permitted to receive options to purchase more than
+5 shares of Common Stock in any one calendar  year.  The exercise price for such
+shares is the fair market  value  thereof on the date of grant,  and the options
+vest as determined in each case by the Board of Directors. Options granted under
+the Amended 1996 Plan must be exercised  within 10 years from the date of grant.
+A maximum  of 100  shares of Common  Stock are  subject  to  issuance  under the
+Amended 1996 Plan. The plan is administered by the Board of Directors.
+
+                  In  1996,   the  Board  of   Directors   granted  a  non-plan,
+non-qualified option for 10 shares to an individual,  who was not an employee or
+director  of the  Company  at the time of the grant.  The option was  originally
+exercisable at $10.25 per share and expires in 2006. This option was repriced to
+$6.88 per share on September 17, 1998.
+
+                                       39
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+                  The following tables summarize information about stock options
+outstanding for each of the three years ended December 31, 1999, 2000 and 2001:
+
+<TABLE>
+<CAPTION>
+                                         Weighted-
+                                          Average                  Weighted-Average
+                               1994       Exercise        1995         Exercise          1996        Weighted-Average
+                             Plan (#)    Price ($)      Plan (#)      Price ($)         Plan (#)    Exercise Price ($)
+                           ---------------------------------------------------------------------------------------------
+<S>                             <C>          <C>            <C>             <C>              <C>             <C>
+Shares under option:
+Outstanding at
+      January 1, 1999           122          5.30           661             7.00             26              6.91
+      Granted                    --            --            51             6.54              8              6.53
+      Exercised                  (8)         3.97           (14)            6.88             --                --
+      Forfeited                  (3)         4.33           (42)            6.88             --                --
+Outstanding at
+      December 31, 1999         111          5.42           656             6.97             34              6.82
+      Granted                    --            --           156             6.78             20              7.03
+      Exercised                 (23)         3.44           (28)            6.88             --                --
+      Forfeited                  --            --           (55)            6.82             --                --
+Outstanding at
+      December 31, 2000          88          5.93           729             6.94             54              6.90
+      Granted                    34          2.88           130             2.95             20              2.88
+      Exercised                  --            --            --               --             --                --
+      Forfeited                 (35)         9.19           (92)            7.72             --                --
+Outstanding at
+      December 31, 2001          87          3.42           767             6.18             74              5.80
+Options exercisable at
+December 31, 2001                56          3.72           497             6.85             54              6.90
+Weighted-average fair
+value of options granted
+during:  1999                    --                         $4.93                        $4.97
+         2000                    --                         $4.49                        $4.51
+         2001                 $2.22                         $2.28                        $2.22
+</TABLE>
+
+
+         Total options available for grant were 105 and 106 at December 31, 2001
+and December 31, 2000, respectively.
+
+                                       40
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                              Options Outstanding                                        Options Exercisable
+                     ---------------------------------------                      ----------------------------------
+
+   Range of          Number of Options    Weighted-Average     Weighted-Average      Number       Weighted-Average
+   Exercise            Outstanding at         Remaining         Exercise Price     Exercisable     Exercise Price
+  Prices ($)              12/31/01        Contractual Life           ($)           at 12/31/01           ($)
+------------------  --------------------  ------------------  ------------------  --------------  ------------------
+<S>        <C>               <C>                   <C>                  <C>               <C>              <C>
+1994 Plan:
+   2.57 to 2.88              55                    6.3                  2.74              24               2.57
+           4.33              29                    3.4                  4.33              29               4.33
+           6.88               3                    4.9                  6.88               3               6.88
+                           ----                                                         ----
+   2.57 to 6.88              87                    5.3                  3.42              56               3.72
+                           ====                                                         ====
+
+1995 Plan:
+   2.79 to 3.19             120                    9.1                  2.89               -               -
+           3.64              10                    9.6                  3.64               -               -
+   5.88 to 6.75             159                    8.4                  6.63              67               6.57
+   6.88 to 7.38             473                    5.4                  6.89             427               6.88
+           8.63               5                    7.7                  8.63               3               8.63
+                           ----                                                         ----
+                            767                    6.6                  6.18             497               6.85
+                           ====                                                         ====
+
+1996 Plan:
+           2.88              20                    9.1                  2.88               -               -
+           6.53               8                    7.5                  6.53               8               6.53
+   6.88 to 7.03              45                    6.9                  6.95              45               6.95
+           8.50               1                    1.0                  8.50               1               8.50
+                           ----                                                         ----
+                             74                    7.5                  5.80              54               6.90
+                           ====                                                         ====
+</TABLE>
+
+                                       41
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+                  The Corporation has adopted the disclosures only provisions of
+SFAS 123.  Accordingly,  no compensation  cost has been recognized for the stock
+option plans. Had  compensation  cost been recognized for the stock option plans
+based on the fair value at the date of grant  consistent  with the provisions of
+SFAS No. 123,  the  Corporation's  net earnings and net earnings per share would
+have been reduced to the pro forma amounts indicated below:
+
+
+                                                        YEAR ENDED DECEMBER 31,
+                                                       ------------------------
+                                                        2001     2000     1999
+                                                       ------   ------   ------
+Net earnings - as reported                             $1,217   $3,576   $   59
+Net (loss) earnings - pro forma                           748    3,103     (625)
+Basic earnings per share - as reported                   0.16     0.47     0.01
+Basic (loss) earnings per share - pro forma              0.10     0.41    (0.08)
+Diluted earnings per share - as reported                 0.16     0.47     0.01
+Diluted (loss) earnings per share - pro forma            0.10     0.41    (0.08)
+
+                  The fair market value of each option grant is estimated on the
+date of grant using the  Black-Scholes  option-pricing  model with the following
+weighted average assumptions used for grants:
+
+
+                                         Year Ended December 31,
+                                      -----------------------------
+                                        2001       2000       1999
+                                      -------    -------    -------
+            Expected volatility            71%        68%        63%
+            Risk-free interest rate      5.03%       6.2%       5.7%
+            Expected lives                9.5          6         10
+            Dividend yield               none       none       none
+
+
+NOTE 12 - INCOME TAXES
+
+                  The following summarizes the provision for income taxes:
+
+
+                                                        Year Ended December 31,
+                                                     --------------------------
+                                                       2001       2000     1999
+                                                     -------    -------    ----
+Current:
+   Federal .......................................   $   660    $ 2,438    $ 59
+   State and local ...............................        40        143      10
+                                                     -------    -------    ----
+                                                         700      2,581      69
+Deferred:
+   Federal .......................................         3       (554)    (58)
+   State and local ...............................         1        (16)     (9)
+                                                     -------    -------    ----
+                                                           4       (570)    (67)
+                                                     -------    -------    ----
+Provision for income taxes .......................   $   704    $ 2,011    $  2
+                                                     =======    =======    ====
+
+                                       42
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                 (IN THOUSANDS)
+
+
+                  The provision for income taxes on adjusted  historical  income
+differs from the amounts computed by applying the applicable  Federal  statutory
+rates due to the following:
+
+
+                                                         Year Ended December 31,
+                                                         ----------------------
+                                                         2001     2000     1999
+                                                         ----    ------    ----
+Provision for Federal income taxes at
+  the statutory rate ..................................  $653    $1,900    $ 21
+State and local income taxes, net of
+  Federal benefit .....................................    26        75       6
+Adjustment of prior year's accruals ...................    --        --     (25)
+Other, net ............................................    25        36      --
+                                                         ----    ------    ----
+Provision for income taxes ............................  $704    $2,011    $  2
+                                                         ====    ======    ====
+
+                  Significant  components of the  Company's  deferred tax assets
+and liabilities are as follows:
+
+                                             December 31,
+                                         ------------------
+                                           2001       2000
+                                         -------    -------
+Deferred tax assets:
+   Allowance for doubtful accounts       $   660    $   513
+   Inventory                                 946        633
+   Accrued vacation                          140        240
+   Other - Long Term                         316        522
+                                         -------    -------
+     Total deferred tax assets             2,062      1,908
+                                         -------    -------
+Deferred tax liabilities:
+   Depreciation                             (266)      (305)
+                                         -------    -------
+     Total deferred tax liabilities         (266)      (305)
+                                         -------    -------
+                                         $ 1,796    $ 1,603
+                                         =======    =======
+
+NOTE 13 - QUARTERLY FINANCIAL INFORMATION - UNAUDITED
+
+<TABLE>
+<CAPTION>
+                                               2001 QUARTERS                            2000 QUARTERS
+                                  --------------------------------------    ----------------------------------------
+                                    First    Second    Third     Fourth      First     Second    Third    Fourth
+                                  ----------------------------------------------------------------------------------
+<S>                                 <C>       <C>      <C>       <C>        <C>       <C>       <C>      <C>
+Net sales                           $10,745   $12,752  $16,064   $14,066    $21,180   $18,062   $18,937  $12,017
+Gross profit                          3,646     4,577    5,251     3,225      6,990     7,028     5,651    3,553
+Net earnings (loss)                    (207)      498    1,034      (108)     1,581     1,752       828     (585)
+Basic earnings (loss) per share        (.03)      .07      .14      (.02)       .21       .23       .11     (.08)
+Diluted earnings (loss) per share      (.03)      .07      .14      (.02)       .21       .23       .11     (.08)
+</TABLE>
+
+                                       43
+<PAGE>
+
+
+               REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+
+
+The Board of Directors and Stockholders
+Blonder Tongue Laboratories, Inc.:
+
+
+
+The audits referred to in our report dated February 22, 2002,  except for Note 4
+which is dated March 20, 2002, relating to the consolidated financial statements
+of Blonder Tongue  Laboratories,  Inc. and  subsidiaries,  which is contained in
+Item 8 of this Form 10-K, included the audit of the financial statement schedule
+listed in the  accompanying  index.  This  financial  statement  schedule is the
+responsibility of the Company's management.  Our responsibility is to express an
+opinion on this financial statement schedule based upon our audits.
+
+In our opinion,  such  financial  statement  schedule  presents  fairly,  in all
+material respects, the information set forth therein.
+
+
+
+
+BDO Seidman, LLP
+Woodbridge, New Jersey
+
+
+February 22, 2002
+
+                                       44
+<PAGE>
+
+
+               BLONDER TONGUE LABORATORIES, INC. AND SUBSIDIARIES
+           SCHEDULE II. VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+              FOR THE YEARS ENDED DECEMBER 31, 2001, 2000 AND 1999
+                             (DOLLARS IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+           COLUMN A              COLUMN B           COLUMN C            COLUMN D         COLUMN E
+           --------              --------          ---------           --------         --------
+                                                   Additions
+
+                                Balance at    Charged   Charged
+    Allowance for Doubtful       Beginning      to      to Other     Deductions       Balance at
+           Accounts              of Period    Expenses  Accounts     Write-offs      End of Period
+           --------              ---------    --------  --------     ----------      -------------
+<S>                               <C>          <C>         <C>        <C>                <C>
+Year ended December 31, 2001:     $1,424       $  409      --              --            $1,833
+Year ended December 31, 2000:     $  683       $  741      --              --            $1,424
+Year ended December 31, 1999:     $1,201       $1,043      --         ($1,561)           $  683
+
+          INVENTORY RESERVE
+Year ended December 31, 2001:     $1,403       $  540      --              --            $1,943
+Year ended December 31, 2000:     $1,192       $  211      --              --            $1,403
+Year ended December 31, 1999:     $1,073       $  119      --              --            $1,192
+</TABLE>
+
+                                       45
+<PAGE>
+
+
+                                   SIGNATURES
+
+                  Pursuant  to the  requirements  of  Section 13 or 15(d) of the
+Securities  Exchange Act of 1934,  the Registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                  BLONDER TONGUE LABORATORIES, INC.
+
+
+Date:  March 28, 2002             By:  /s/ JAMES A. LUKSCH
+                                      ------------------------------------------
+                                           James A. Luksch
+                                           President and Chief Executive Officer
+
+                                  By: /s/ ERIC SKOLNIK
+                                     -------------------------------------------
+                                           Eric Skolnik, Chief Financial Officer
+
+                  Pursuant to the requirements of the Securities Exchange Act of
+1934,  this report has been signed below by the  following  persons on behalf of
+the Registrant and in the capacities and on the dates indicated.
+
+
+NAME                                       TITLE                      DATE
+
+
+                                Director, President and Chief     March 28, 2002
+ /s/ JAMES A. LUKSCH            Executive Officer (Principal
+---------------------------     Executive Officer)
+James A. Luksch
+
+
+                                Chief Financial Officer           March 28, 2002
+ /s/ ERIC SKOLNIK               (Principal Financial
+---------------------------     Officer and Principal
+Eric Skolnik                    Accounting Officer)
+
+
+                                Director, Executive Vice          March 28, 2002
+ /s/ ROBERT J. PALLE, JR.       President, Chief Operating
+---------------------------     Officer, Secretary
+Robert J. Palle, Jr.            and Treasurer
+
+
+ /s/ JOHN E. DWIGHT             Director                          March 28, 2002
+---------------------------
+John E. Dwight
+
+
+ /s/ JAMES H. WILLIAMS          Director                          March 28, 2002
+---------------------------
+James H. Williams
+
+
+ /s/ JAMES F. WILLIAMS          Director                          March 28, 2002
+---------------------------
+James F. Williams
+
+                                       46
+<PAGE>
+
+
+ /s/ ROBERT B. MAYER            Director                          March 28, 2002
+---------------------------
+Robert B. Mayer
+
+
+ /s/ GARY P. SCHARMETT          Director                          March 28, 2002
+---------------------------
+Gary P. Scharmett
+
+
+ /s/ ROBERT E. HEATON           Director                          March 28, 2002
+---------------------------
+Robert E.  Heaton
+
+                                       47
+
+</TEXT>
+</DOCUMENT>

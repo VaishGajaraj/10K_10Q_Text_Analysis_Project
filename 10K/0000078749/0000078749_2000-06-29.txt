@@ -1,0 +1,1540 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>e10-k.txt
+<DESCRIPTION>PIONEER-STANDARD ELECTRONICS, INC.   10-K
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+                        FOR ANNUAL AND TRANSITION REPORTS
+                     PURSUANT TO SECTIONS 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+    For the fiscal year ended March 31, 2000
+
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+
+    For the transition period from ________________ to ________________
+
+                           Commission File No. 0-5734
+
+                       PIONEER-STANDARD ELECTRONICS, INC.
+             (Exact name of registrant as specified in its charter)
+
+              Ohio                                           34-0907152
+    (State or other jurisdiction                         (I.R.S. employer
+    of incorporation or organization)                    identification no.)
+
+   6065 Parkland Boulevard, Mayfield                            44124
+             Heights, Ohio                                    (Zip code)
+ (Address of principal executive offices)
+
+       Registrant's telephone number, including area code: (440) 720-8500
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: None
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+
+                        Common Shares, without par value
+                          Common Share Purchase Rights
+
+         Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirement for the past 90 days.  Yes X    No
+                                             ---     ---
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein and will not be contained, to
+the best of Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K Annual Report
+or any amendment to this Form 10-K.  [ ]
+
+         The aggregate market value of voting shares of the Registrant held by
+non-affiliates was $338,032,724 as of June 5, 2000, computed on the basis of the
+last reported sale price per share ($13.50) of such shares on the Nasdaq
+National Market. Common Shares held by each officer, Director and person who
+owns or may be deemed to own 10% or more of the outstanding Common Shares have
+been excluded because such persons may be deemed to be affiliates. This
+determination of affiliate status is not necessarily a conclusive determination
+for other purposes.
+
+         As of June 5, 2000, the Registrant had the following number of Common
+Shares outstanding: 31,541,780.
+
+
+<PAGE>   2
+
+
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+
+         Portions of the Registrant's definitive Proxy Statement to be used in
+connection with its Annual Meeting of Shareholders to be held on July 25, 2000
+are incorporated by reference into Part III of this Form 10-K.
+
+         Portions of the Registrant's Annual Report to Shareholders for the
+fiscal year ended March 31, 2000 are incorporated by reference into Parts II and
+IV of this Form 10-K.
+
+         Except as otherwise stated, the information contained in this Annual
+Report on Form 10-K is as of March 31, 2000.
+
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+         (a) Pioneer-Standard Electronics, Inc. was organized as an Ohio
+corporation in 1963 and maintains its principal office at 6065 Parkland
+Boulevard, Mayfield Heights, Ohio 44124 (telephone number (440) 720-8500).
+Except as otherwise stated, the term "Company" as used herein shall mean
+Pioneer-Standard Electronics, Inc. and its wholly-owned subsidiaries.
+
+         DESCRIPTION OF SEGMENTS - The Company's business is classified into
+two segments: Computer Systems and Industrial Electronics.
+
+         Computer Systems. The Company's computer systems distribution and
+value-added services business is conducted by its Computer Systems segment.
+Through this segment the Company distributes a wide variety of systems products,
+including mid-range computer systems and high-end platforms, storage subsystems,
+software, servers, computers (primarily mini and personal), display terminals
+and networking products. As a complement to its systems distributor operations,
+the Company provides value-added services including systems integration,
+enterprise resource planning systems design and network consulting. The
+Company's systems products and value-added services accounted for 48% of the
+Company's sales in fiscal 2000 compared with 50% in 1999 and 40% in 1998.
+
+         Industrial Electronics. The Company's Industrial Electronics segment
+conducts the operations of the Company related to industrial electronics
+products distribution. Products sold by this segment may be classified into two
+broad categories: semiconductors and interconnect, passive and electromechanical
+components. The semiconductor products distributed by this segment include
+microprocessors, memory devices, programmable logic devices and analog and
+digital integrated circuits and other semiconductor devices. This segment's
+interconnect, passive and electromechanical product offerings include
+capacitors, connectors, resistors, switches and power conditioning equipment.
+This segment also provides value-added services associated with industrial
+electronic products, such as point of use inventory management, just-in-time
+kitting operations, turnkey assembly, memory and logic device programming,
+connector and cable
+
+
+
+                                       2
+<PAGE>   3
+
+
+assemblies to customer specifications and power products integration. Sales of
+industrial electronics products constituted 52% of the Company's total sales in
+fiscal 2000, compared with 50% in 1999 and 60% in 1998.
+
+         For financial information regarding the Company's two business
+segments, see Note 6 of Notes to Consolidated Financial Statements of the
+Company.
+
+         PRODUCTS DISTRIBUTED AND SOURCES OF SUPPLY - The Company distributes
+products supplied by more than 100 manufacturers. A majority of the Company's
+revenues comes from products sourced by relatively few suppliers. During the
+2000 fiscal year, products purchased from the Company's three largest suppliers
+accounted for 59% of the Company's sales volume. The largest three suppliers,
+Compaq (including Digital Equipment Corporation), IBM and Intel Corporation,
+supplied 21%, 20% and 18%, respectively, of the Company's sales volume. The loss
+of any one of the top three suppliers and/or a combination of certain other
+suppliers could have a material adverse effect on the Company's sales and
+earnings unless alternative products manufactured by others are available to the
+Company.
+
+         INVENTORY - The Company believes that it must maintain certain levels
+of inventory in order to ensure that the lead times to its customers remain
+competitive. However, to minimize its inventory exposure, the Company has
+arrangements with certain of its suppliers for "just in time" product delivery.
+The majority of the products sold by the Company are purchased pursuant to
+distributor agreements which generally provide for inventory return privileges
+by the Company upon cancellation of a distributor agreement. The distributor
+agreements also typically provide protection to the Company for product
+obsolescence and price erosion. The Company believes it has good relationships
+with its suppliers.
+
+         CUSTOMERS - The Company serves over 24,000 customers in many major
+markets of North America. Both of the Company's segments have a varied customer
+base which includes original equipment manufacturers (which constitute the core
+customer base of the Industrial Electronics segment), value-added resellers,
+research laboratories, government agencies and commercial end-users, including
+manufacturing companies and service and other non-manufacturing organizations.
+No single customer accounted for more than ten percent of the Company's total
+sales or the sales of either segment during the fiscal year 2000.
+
+         BACKLOG - The Company historically has not had a significant backlog of
+orders, although some shipments may be scheduled for delivery over an extended
+period of time. There was not a significant backlog during the last fiscal year.
+
+         COMPETITION - The sale and distribution of industrial electronic and
+computer systems products are highly competitive, primarily with respect to
+price and product availability, but also with respect to service, variety and
+availability of products carried, number of locations and promptness of service.
+Many of the distributors with which the Company competes are regional or local
+distributors. However, several of the Company's strongest competitors have
+national and international distribution businesses. The Company also experiences
+competition from
+
+
+                                       3
+<PAGE>   4
+
+
+manufacturers, including some of the Company's suppliers, who may sell directly
+to the industrial and end-user account base.
+
+         EMPLOYEES - As of March 31, 2000, the Company had 2,481 employees. The
+Company is not a party to any collective bargaining agreement, has had no
+strikes or work stoppages and considers its employee relations to be excellent.
+
+         (d) The Company distributes its products principally in the United
+States and Canada. Export sales are not a significant portion of the Company's
+sales.
+
+ITEM 2.  PROPERTIES
+
+         The Company owns the 87,000 square foot facility, located in Cleveland,
+Ohio and the 106,000 square foot facility, located in Twinsburg, Ohio, that
+houses its industrial electronics distribution center. The Company relocated
+certain of its corporate offices to a 60,000 square foot facility located in
+Mayfield Heights, Ohio, as to which the Company entered into an 11 year lease in
+April 1999. The Company's operations occupy a total of approximately 1,343,000
+square feet, with the majority, approximately 1,198,000 square feet, devoted to
+product distribution facilities. Of the approximately 1,343,000 square feet
+occupied, 226,000 square feet are owned and 1,117,000 square feet are occupied
+under operating leases. The Company's facilities of 100,000 square feet or
+larger, as of March 31, 2000, are set forth in the table below.
+
+<TABLE>
+<CAPTION>
+
+                       TYPE OF                APPROXIMATE            LEASED OR               SEGMENT
+LOCATION               FACILITY             SQUARE FOOTAGE             OWNED             USING FACILITY
+--------               --------             --------------           ---------           --------------
+<S>                    <C>                   <C>                      <C>           <C>
+Solon, Ohio            Distribution          174,000                  Leased        Industrial Electronics
+
+Solon, Ohio            Distribution          224,600                  Leased           Computer Systems
+
+Solon, Ohio            Distribution          102,500                  Leased        Industrial Electronics
+                                                                                       and Computer Systems
+
+Twinsburg, Ohio        Distribution          106,000                  Owned         Industrial Electronics
+</TABLE>
+
+
+         The Company's major leases contain renewal options for periods of up to
+ten years. For information concerning the Company's rental obligations, see Note
+4 (Leases) of Notes to Consolidated Financial Statements of the Company. The
+Company believes that its distribution and office facilities are well maintained
+and suitable for the operations of the Company.
+
+
+                                       4
+<PAGE>   5
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         As of March 31, 2000, the Company was not a party to any material
+pending legal proceedings.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         No matters were submitted to a vote of the Company's security holders
+during the last quarter of its fiscal year ended March 31, 2000.
+
+
+
+                                       5
+<PAGE>   6
+
+
+         EXECUTIVE OFFICERS OF THE COMPANY (1)
+
+         The name, age and positions of each executive officer of the Company as
+of June 1, 2000 are as follows:
+
+               Name               Age                   Position
+               ----               ---                   --------
+         James L. Bayman          63        Chairman of the Board of the Company
+                                            since April 1, 1996 and Chief
+                                            Executive Officer of the Company
+                                            since April 3, 1995. President of
+                                            the Company from June, 1984 to April
+                                            29, 1997. Chief Operating Officer of
+                                            the Company from June, 1984 to April
+                                            3, 1995.
+
+         Arthur Rhein             54        President and Chief Operating
+                                            Officer of the Company since April
+                                            29, 1997; Senior Vice President of
+                                            the Company from 1993 to April 29,
+                                            1997 and Vice President - Marketing
+                                            of the Company from 1986 to 1993.
+
+         Steven M. Billick        44        Senior Vice President and Chief
+                                            Financial Officer of the Company
+                                            since April 26, 2000.
+
+         Thomas G. Pitera         45        President of the Company's
+                                            Industrial Electronics Division
+                                            since April 1, 1998.
+
+         Lawrence N. Schultz      52        Secretary of the Company since 1999.
+                                            Partner of the law firm of Calfee,
+                                            Halter & Griswold LLP (2).
+
+--------------------------
+
+(1)  The description of Executive Officers called for in this Item is included
+     pursuant to Instruction 3 to Section (b) of Item 401 of Regulation S-K.
+
+(2)  The law firm of Calfee, Halter & Griswold LLP serves as counsel to the
+     Company.
+
+         There is no relationship by blood, marriage or adoption among the
+above-listed officers. Messrs. Bayman, Rhein and Billick hold office until
+terminated as set forth in their employment agreements. Mr. Schultz holds office
+until his successor is elected by the Board of Directors.
+
+
+                                       6
+<PAGE>   7
+
+
+
+                                     PART II
+
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED SHAREHOLDER MATTERS
+
+         The Company's Common Shares, without par value, are traded on the
+Nasdaq National Market. Common Share prices are quoted daily under the symbol
+"PIOS." The high and low sales prices for the Common Shares, the cash dividends
+paid on the Common Shares and additional information for each quarter of the two
+most recent fiscal years required by this Item are set forth at page 33 of the
+Company's 2000 Annual Report to Shareholders, which information is incorporated
+herein by reference.
+
+         Cash dividends are payable quarterly upon authorization by the Board of
+Directors. Regular payment dates are the first day of August, November, February
+and May. The Company maintains a Dividend Reinvestment Plan whereby cash
+dividends and a maximum of an additional $5,000 per month may be invested in the
+Company's Common Shares at no commission cost.
+
+         On April 27, 1999, the Company adopted a Common Share Purchase Rights
+Plan. For further information about the Common Share Purchase Rights Plan, see
+Note 8 (Shareholders' Equity) of Notes to Consolidated Financial Statements of
+the Company.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         The information required by this Item is set forth at page 34 of the
+Company's 2000 Annual Report to Shareholders, which information is incorporated
+herein by reference.
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+FISCAL 2000 COMPARED WITH FISCAL 1999
+
+CONSOLIDATED SALES
+
+Fiscal 2000 was the 14th consecutive year of record sales and the 28th year in
+the 29 years the Company has been public in which sales increased. Net sales for
+the year ended March 31, 2000, of $2,550.7 million increased 13 percent over
+sales of the prior year of $2,259.1 million. Both of the Company's segments
+contributed to the increase in sales.
+
+SEGMENT SALES
+
+The Company's business is classified into two operating segments:
+
+
+                                       7
+<PAGE>   8
+
+
+Computer Systems products include mid-range computer systems and high-end
+platforms, storage subsystems, software, servers, personal computers, display
+terminals and networking products.
+
+Computer systems accounted for 48 percent of the Company's sales in fiscal 2000
+compared with 50 percent a year ago. Sales of computer systems increased 8
+percent in fiscal 2000.
+
+Industrial Electronics products are comprised of semiconductors, and
+interconnect, passive and electromechanical products. Semiconductors are the
+building blocks of computer chips and include microprocessors, memory devices,
+programmable logic devices, and analog and digital integrated circuits.
+Interconnect, passive and electromechanical products are devices that move or
+use an electrical signal and include capacitors, connectors, resistors,
+potentiometers, switches and power conditioning equipment.
+
+Industrial electronics accounted for 52 percent of sales in fiscal 2000 compared
+with 50 percent a year ago. The increase in industrial electronics sales of 18
+percent in fiscal 2000 is primarily attributable to the increased demand for
+semiconductors from the Internet and communications markets.
+
+GROSS MARGINS
+
+Gross margin for the consolidated operations decreased to 15.5 percent for
+fiscal 2000 from 15.6 percent in the prior year.
+
+The gross margin for computer systems declined to 14.8 percent of sales in
+fiscal 2000 from 16.4 percent a year ago. The decrease is primarily attributable
+to continued pricing pressures within the market.
+
+The gross margin for industrial electronics increased to 16.2 percent in fiscal
+2000 from 14.8 percent a year ago. The increase is attributable primarily to the
+industry's strengthening demand versus supply, positively impacting average
+selling prices.
+
+Management expects overall gross margin pressure to continue in the next fiscal
+year.
+
+OPERATING EFFICIENCIES
+
+Warehouse, selling and administrative expenses for consolidated operations were
+11.5 percent of sales in fiscal 2000, down from 11.8 percent of sales in the
+prior year. During 2000, the improvements came from operating efficiencies,
+coupled with the effects of cost controls.
+
+Efficiencies were realized through improved employee productivity and working
+capital management. Sales per employee increased to $1,038,000 from $879,000 in
+1999, which represents a gain of approximately 18 percent. Accounts receivable
+remained at 44 days in 2000. Inventory turnover of 6.1 times increased from 5.5
+times in the prior year.
+
+
+                                       8
+<PAGE>   9
+
+
+The resulting consolidated operating profit of $101.5 million was up 19 percent
+from $84.9 million in 1999. Consolidated operating profit was 4.0 percent of
+sales in 2000 compared with 3.8 percent of sales in 1999, reflecting the
+operating expense improvement in fiscal 2000.
+
+Operating profit margin for computer systems of 3.1 percent decreased from 4.4
+percent in fiscal 1999 primarily due to pricing pressures.
+
+Operating profit margin for industrial electronics increased to 4.8 percent from
+3.1 percent in fiscal 1999 primarily because of the improvement in gross margin
+due to increased demand in relationship to supply.
+
+OTHER INCOME
+
+In fiscal 2000, the Company recorded a pre-tax gain of $1.8 million related to
+the sale and disposal of assets no longer required in the business.
+
+INTEREST EXPENSE
+
+Interest expense was $26.1 million, net of $0.8 million capitalized, in fiscal
+2000 compared with $24.3 million a year ago. The increased interest expense is
+primarily attributable to the additional debt to fund working capital and
+capital expenditures needed to support the ongoing growth needs of the business.
+
+TAXES
+
+The effective tax rate for fiscal 2000 was 40.4 percent compared with 39.6
+percent a year ago. The tax rate increase was primarily due to the unrecognized
+tax benefits associated with the current year operating loss of the Company's
+Canadian subsidiary.
+
+NET INCOME
+
+Primarily as a result of the factors noted above, the Company's net income for
+fiscal 2000 reached a record high of $40.1 million, an increase of 30 percent,
+or $9.3 million, over fiscal 1999 income of $30.8 million.
+
+Diluted earnings per share for fiscal 2000 increased to $1.27 from $1.03 in the
+previous year.
+
+
+                                       9
+<PAGE>   10
+
+
+FISCAL 1999 COMPARED WITH FISCAL 1998
+
+SALES
+
+Fiscal 1999 consolidated net sales of $2,259.1 million in-creased 34 percent
+over sales in the prior year of $1,685.3 million. The increase was primarily
+attributable to higher sales volume of computer systems resulting from the
+acquisition of Dickens Data Systems, Inc. ("Dickens") on March 31, 1998.
+Including the sales of Dickens with the prior year on a pro forma basis, fiscal
+1999 sales increased 10 percent compared with fiscal 1998.
+
+Computer systems sales increased 68 percent in fiscal 1999 primarily due to
+added sales resulting from the Dickens acquisition discussed above. This segment
+accounted for 50 percent of sales in fiscal 1999 compared with 40 percent in the
+prior year.
+
+Industrial electronics net sales increased 12 percent in fiscal 1999 primarily
+attributable to the increased sales of the high-volume, low-margin semiconductor
+products.
+
+GROSS MARGINS
+
+The fiscal 1999 consolidated gross margin of 15.6 percent decreased from 17.7
+percent in the prior year. Both operating segments experienced declines in gross
+margin in fiscal 1999 as described below.
+
+Computer systems gross margin decreased to 16.4 percent from 18.7 percent
+primarily due to the Dickens sales earning a lower gross margin compared with
+the other computer systems sales. The gross margin for industrial electronics
+declined to 14.8 percent in fiscal 1999 from 17.1 percent in 1998. The decrease
+was attributable primarily to the increase in sales of high-volume, low-margin
+products and to the industry's excess semiconductor supply versus demand.
+
+OPERATING EFFICIENCIES
+
+Warehouse, selling and administrative consolidated expenses were 11.8 percent of
+sales in fiscal 1999 and 13.4 percent in 1998. During 1999, gains resulted from
+improvements due to leveraging expenses on higher sales volume, coupled with the
+effects of implementing cost controls.
+
+Efficiencies were realized through improved employee productivity and inventory
+turnover. Sales per employee increased to $879,000 from $766,000 in 1998.
+Receivable collections were 44 days in 1999 and 1998. Inventory turnover of 5.5
+times in 1999 increased from 4.4 times in the prior year.
+
+
+                                       10
+<PAGE>   11
+
+
+The resulting consolidated operating profit of $84.9 million was up 16 percent
+from $73.0 million in 1998. Consolidated operating profit was 3.8 percent of
+sales in 1999 compared with 4.3 percent of sales in 1998, reflecting the gross
+margin erosion in fiscal 1999 discussed above.
+
+Computer systems operating profit as a percent of sales decreased to 4.4 percent
+in 1999 from 5.4 percent in 1998, primarily due to the integration of Dickens.
+
+Industrial Electronics operating profit as a percent of sales declined to 3.1
+percent in 1999 from 3.6 percent in 1998 primarily due to the gross margin
+erosion from the excess capacity in the semiconductor industry.
+
+INTEREST EXPENSE
+
+Interest expense was $24.3 million in fiscal 1999 compared with $20.7 million in
+fiscal 1998. The increased interest expense is attributable to additional debt
+incurred to fund working capital and capital expenditure requirements necessary
+to support the ongoing growth needs of the business, as well as the effect of
+the acquisition of Dickens.
+
+TAXES
+
+The effective tax rate was 39.6 percent for fiscal 1999 compared with 41.4
+percent in fiscal 1998. The tax rate decrease was primarily due to the
+utilization of the operating loss carryforward of the Canadian subsidiary and
+lower effective state tax rates.
+
+NET INCOME
+
+Primarily as a result of the factors noted above, the Company reported net
+income for fiscal 1999 of $30.8 million - an increase of $0.3 million, or 1
+percent over fiscal 1998 net income of $30.5 million.
+
+Diluted earnings per share for fiscal 1999 decreased to $1.03 from $1.14 in the
+previous year. The average diluted shares outstanding increased to 35.7 million
+in fiscal 1999 from 26.9 million the prior year primarily due to the issuance of
+convertible trust preferred securities a year ago.
+
+RISK CONTROL
+
+The Company has assets, liabilities and cash flows in foreign currencies
+creating foreign exchange risk with the primary foreign currency being the
+Canadian dollar. Systems are in place for continuous measurement and evaluation
+of foreign exchange exposures so that timely action can be taken when considered
+desirable. Reducing exposure to foreign currency fluctuations is an integral
+part of the Company's risk management program. Financial instruments in the form
+of forward exchange contracts are employed as one of the methods to
+
+
+
+                                       11
+<PAGE>   12
+
+
+reduce such risk. At March 31, 2000, one forward exchange contract in the amount
+of $2.7 million existed with a maturity of 30 days. The foreign exchange
+contracts have had an immaterial impact on the Company's results of operations
+for the fiscal years ended 2000, 1999 and 1998.
+
+The Company has entered into several interest rate swap agreements for purposes
+of serving as a hedge of the Company's variable rate credit agreement
+borrowings. The effect of the swaps is to establish fixed rates on the variable
+rate debt and to reduce exposure to interest rate fluctuations. At March 31,
+2000, the Company had interest rate swaps with a notional amount of $70 million.
+Pursuant to these agreements, the Company pays interest at a weighted average
+fixed rate of 5.47 percent. The weighted average LIBOR rates applicable to these
+agreements were 6.11 percent at March 31, 2000. The swap agreements have had an
+immaterial impact on the Company's results of operations for the fiscal years
+ended 2000, 1999 and 1998.
+
+The Company is exposed to interest rate risk from the revolving credit
+facility's various floating rate pricing mechanisms. This interest rate exposure
+is managed by the interest rate swaps to fix the interest rate on a portion of
+the debt and the use of multiple maturity dates. If interest rates were to
+increase 100 basis points (1 percent) from March 31, 2000 rates, and assuming no
+changes in debt from March 31, 2000 levels, the additional annualized net
+expense would be approximately $1.2 million or $.02 per diluted share.
+
+The Company is exposed to credit loss in the event of nonperformance by the
+other party to the derivative financial instruments. The Company limits this
+exposure by entering into agreements with major financial institutions that meet
+credit standards established by the Company and that are expected to satisfy
+fully their obligations under the contracts.
+
+The Company extends credit based on customers' financial conditions, and
+generally, collateral is not required. The Company obtains credit insurance in
+certain circumstances to protect its interests. Credit losses are provided for
+in the financial statements when collections are in doubt.
+
+Inflation has had a nominal effect on the Company's operations.
+
+NEW ACCOUNTING STANDARDS
+
+In 1998, the Financial Accounting Standards Board issued Statement of Financial
+Accounting Standards (SFAS) No. 133, "Accounting for Derivative Instruments and
+Hedging Activities," which requires all derivatives to be recognized on the
+balance sheet at fair value. This statement is effective for fiscal years
+beginning after June 15, 2000. Derivatives that are not hedges must be adjusted
+to fair value through income. If the derivative is a hedge, depending on the
+nature of the hedge, changes in the fair value of the derivative will either be
+offset against the change in fair value of the hedged assets, liabilities or
+firm commitments through earnings or recognized in other comprehensive income
+until the hedged item is recognized in earnings. Management is in the process of
+analyzing and assessing the impact of the adoption
+
+
+
+                                       12
+<PAGE>   13
+
+
+of SFAS 133 on the Company's consolidated results of operations and financial
+position. The Company must adopt the statement no later than April 1, 2001.
+
+In December 1999, the Securities and Exchange Commission issued Staff Accounting
+Bulletin (SAB) 101, "Revenue Recognition in Financial Statements," which
+summarizes the staff's views regarding the application of generally accepted
+accounting principles to selected revenue recognition issues and is effective
+January 1, 2001 for the Company. The Company is currently assessing the impact
+SAB 101 will have on the Company's results of operations.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Current assets including cash increased by $124.5 million and current
+liabilities increased by $99.3 million for the year ended March 31, 2000,
+resulting in an increase of $25.2 million of working capital. Increased sales in
+the fourth quarter of fiscal 2000 compared with the same quarter a year ago, and
+the weighting of sales within the fourth quarter resulted in increased current
+asset needs. The increase in current liabilities is primarily attributable to
+increased inventory funding requirements. The Company's current ratio was 2.7:1
+at March 31, 2000, and 3.4:1 at year-end March 31, 1999.
+
+The Company's revolving credit facility has a total capacity of $260.0 million,
+all of which may be borrowed as of March 31, 2000 in accordance with
+availability requirements which are subject to meeting certain minimum ratios.
+As of March 31, 2000, $170.0 million was borrowed under the facility. A year
+ago, such borrowings aggregated $160.0 million.
+
+Capital expenditures were $36.0 million in fiscal 2000 compared with $22.2
+million in 1999. This spending reflects ongoing initiatives designed to improve
+efficiencies through computer enhancement of operating processes as well as
+expanded facilities. Management estimates that capital expenditures will be in
+the range of $25.0 million in fiscal 2001.
+
+During fiscal 2000, the Company made additional investments in World Peace
+Industrial Co. Ltd., Eurodis Electron PLC and two other investments in the
+United States totaling $13.9 million. These investments further the Company's
+growth strategy by offering access to an extensive distribution network in the
+Asia-Pacific region, Europe and markets within the United States. Subsequent to
+year end, in May 2000, the Company purchased a minority equity interest in
+Magirus AG, a leading European computer systems distributor. Headquartered in
+Stuttgart, Magirus employs more than 300 people in Germany, Austria, France,
+Italy, Spain and Switzerland.
+
+During fiscal 2000, total interest-bearing debt increased by $23.3 million. The
+increase in debt is primarily attributable to funding working capital
+requirements. The ratio of interest-bearing debt to capitalization was 43
+percent at March 31, 2000 compared with 44 percent a year ago.
+
+The Company believes that cash generated from operations and amounts available
+under its credit facility are sufficient to fund its working capital and capital
+expenditure requirements.
+
+
+                                       13
+<PAGE>   14
+
+
+INFORMATION TECHNOLOGY SYSTEMS
+
+The Company capitalized approximately $34.2 million in fiscal 1998 and 1999 in
+connection with the acquisition and installation of an enterprise-wide
+information technology "IT" system. Amounts representing approximately $11.5
+million of these expenditures were operational in fiscal 1999 and $8.5 million
+are planned to become operational in fiscal 2001. The balance of $14.2 million
+represents work-in-process components which are not yet operational. The Company
+is evaluating these components and presently has no reason to believe that they
+will not become operational. In addition, management believes there would be no
+material adverse effect on the financial condition or results of operations of
+the Company should such components require further modification or replacement.
+It is contemplated that implementation for completing the balance of the IT
+system installation will commence in fiscal 2001.
+
+YEAR 2000
+
+The Company completed its year 2000 remediation efforts and, since the turn of
+the century, has not experienced any significant problems internally or with
+suppliers and customers in connection with this event. Nevertheless, there still
+remain some future dates that could potentially cause computer system problems.
+The Company continues to monitor these dates and address any necessary
+remediation but does not anticipate any major impact on its operations.
+
+OTHER EVENTS
+
+On May 13, 1999, ProGen Technologies, Inc. "ProGen", one of the Company's major
+customers, filed for protection under Chapter 11 of the U.S. Bankruptcy Code in
+the Central District of the State of California. On June 18, 1999, ProGen made a
+motion, which was granted, to convert its Chapter 11 proceeding to a Chapter 7
+proceeding. At the time of the bankruptcy filing, ProGen owed the Company
+approximately $9.3 million. The bankruptcy court has appointed a Trustee who has
+proceeded with liquidation of the assets of ProGen. The Company continues to
+assert its security interest and rights in the bankruptcy proceedings. At this
+time, management believes, due to the Company's status in the bankruptcy
+proceedings, any effects resulting from this matter will not have a material
+adverse effect on the consolidated financial condition or results of operations
+of the Company.
+
+On February 11, 2000, the Company experienced a fire at its Twinsburg, Ohio
+distribution center. This event affected approximately 3 percent of the
+Company's inventory but caused no structural damage or major disruption. The
+Company believes it has adequate insurance coverage to offset any property loss
+or business impact resulting from the fire.
+
+
+
+                                       14
+<PAGE>   15
+
+
+FORWARD-LOOKING INFORMATION
+
+Portions of this report contain current management expectations which may
+constitute forward-looking information. The Company's performance may differ
+materially from that contemplated by such statements for a variety of reasons,
+including, but not limited to: competition, dependence on the computer market,
+inventory obsolescence and technology changes, dependence on key suppliers,
+effects of industry consolidation, risks and uncertainties involving
+acquisitions, instability in world financial markets, downward pressure on gross
+margins, uneven patterns of inter-quarter and intra-quarter sales, and
+management of growth of the business.
+
+Competition
+
+         The Company is a distributor in the industrial electronics and computer
+systems industry, which has been highly competitive in recent years. The Company
+faces intense competition in two major respects: in obtaining sources of supply
+for the products distributed, and in developing relationships with customers. In
+the case of semiconductor and computer systems products, the Company competes
+for customers with other distributors as well as with some of its suppliers.
+Some of the Company's competitors are larger and more established and have
+greater financial and other resources, which may enable them to compete more
+effectively. Also, it is possible that an increasing number of suppliers may
+decide to distribute their products directly to the customer, which will
+heighten competitive pressures further. Due to continuing competitive pressures,
+the Company's gross margins have declined in recent years, and the Company
+expects continued pressure on gross margins in the foreseeable future.
+
+Softening in the Computer Network and Platform Market
+
+         The Company distributes many products that are used in the manufacture
+or configuration of mid-range computer systems and high-end platforms. The
+technology used in these products has changed rapidly over the last several
+years, resulting in short life cycles for these products. Because the Company's
+customers have been forced to replace systems that have become technologically
+obsolete in a relatively short period of time, the Company has experienced
+substantial demand for these products that has contributed significantly to its
+revenue growth. A slowdown in this market could have a substantial negative
+effect on the Company's revenues and results of operations.
+
+Fluctuations in Semiconductor Supply and Demand
+
+         The semiconductor market historically has experienced fluctuations in
+product supply and demand associated with technology changes and supply
+capability occurring from time to time. At times when product supply has been
+high relative to demand, prices for those products have declined. The Company
+has attempted to minimize the effect of these price fluctuations in its
+distribution arrangements. The Company's gross margins may nevertheless be
+negatively affected if an excess supply of semiconductors causes a general
+decline in prices for those products. If there is a shortage of semiconductor
+supply, the Company's results of operations
+
+
+                                       15
+<PAGE>   16
+
+
+will depend on how much product it is able to obtain from suppliers to sell and
+how quickly the Company receives shipments of those products. There can be no
+assurance that supply and demand fluctuations in the semiconductor market will
+not have a material adverse effect on the Company's results of operations and
+business.
+
+Risks Related to Rapidly Changing Technology
+
+          The Company's results of operations will depend in part on successful
+management of the challenges of rapidly changing technology and evolving
+industry standards characteristic of the market for industrial electronics and
+computer systems products. These challenges include predicting the nature and
+timing of technological changes and the direction of evolving industry
+standards; identifying, obtaining and successfully marketing new products as
+they emerge; and minimizing the risk of loss due to inventory obsolescence. Some
+of the Company's competitors may be able to market products that have perceived
+advantages over the products distributed by the Company or that render the
+products distributed by the Company obsolete or more difficult to market.
+Although the Company attempts to minimize the effects of inventory obsolescence
+in its distribution arrangements, the Company may have high inventories of
+unsold product if a new technology renders a product distributed by the Company
+less desirable or obsolete. In addition, customers may be less willing, for
+financial or other reasons, to purchase the new products necessary to use new
+technologies.
+
+Dependence on Key Suppliers
+
+         During fiscal 2000 the Company's three largest suppliers accounted for
+59 percent of total sales, with Compaq (including Digital Equipment
+Corporation), IBM and Intel Corporation supplying 20 percent, 20 percent and 19
+percent, respectively, of the Company's sales volume. Although the Company
+believes that its relationships with suppliers are good, there can be no
+assurance that the Company's suppliers will continue to supply products to the
+Company on terms acceptable to the Company. The loss of any of the Company's
+three top suppliers or a combination of other suppliers could have a material
+adverse effect on the Company's business, results of operations and financial
+condition.
+
+Industry Consolidation
+
+         The industrial electronics and computer systems products distribution
+industry has become increasingly concentrated in recent years as companies have
+combined or formed strategic alliances. If this trend continues, new business
+combinations or strategic alliances may have a competitive advantage if their
+potentially greater financial, technical, marketing or other resources allow
+them to negotiate relationships with suppliers that are more favorable than the
+Company's relationships with its suppliers. If such relationships develop, these
+new business combinations or strategic alliances may be able to offer lower
+prices that could precipitate an industry-wide decline in prices. This decline
+would have a negative impact on the Company's gross margins, and could cause a
+decline in the Company's revenues and loss of market share.
+
+Risks Related to Growth through Acquisitions
+
+
+                                       16
+<PAGE>   17
+
+
+         The Company constantly reviews acquisition prospects that would
+complement its existing business, augment its market coverage or provide
+opportunities to expand into new markets. The Company's continued growth depends
+in part on its ability to find suitable acquisition candidates and to consummate
+strategic acquisitions. If the consolidation trend in the industry continues,
+the cost of completing acquisitions could increase significantly. To fund rising
+acquisition costs, the Company may issue equity securities, which could dilute
+the holdings of existing equity holders, or incur debt, which could reduce the
+fixed charge ratio and result in overleveraging. These actions, and the
+amortization of expenses related to goodwill and other intangible assets, could
+have a material adverse effect on the Company's financial condition and results
+of operations or the price of the Company's Common Shares. Furthermore,
+acquiring businesses always entails risk and uncertainties. The Company's may
+not be able to integrate the operations of the acquired businesses successfully,
+and the failure to do so could have a material adverse impact on the Company's
+business and results of operations.
+
+Leverage
+
+         At March 31, 2000, the Company's borrowings under a $260 million
+revolving credit facility with National City Bank, Cleveland, Ohio, as agent for
+itself and a syndicate of other lenders, totaled $170 million. In addition, the
+Company issued $150 million principal amount of 8 1/2 percent Senior Notes due
+2006 in August 1996. In March and April 1998, the Company's wholly owned
+subsidiary, the Pioneer-Standard Financial Trust, issued a total of $143.7
+million of 6 3/4 percent mandatorily redeemable convertible preferred
+securities, which is an equity-related security. The sole assets of the
+Pioneer-Standard Financial Trust are $148.2 million aggregate principal amount
+of 6 3/4 percent Series A Junior Convertible Subordinated Debentures due March
+31, 2028. The Company has executed a guarantee providing a full and
+unconditional guarantee of the trust's obligations under the trust preferred
+securities. As a consequence of the Company's obligations, a substantial portion
+of its cash flow from operations must be dedicated to servicing these
+obligations and will not be available for other purposes. Furthermore, the
+Company's obligations may limit its ability to obtain additional financing in
+the future for working capital, capital expenditures and acquisitions, and its
+flexibility to react to changes in the industry and changing business and
+economic conditions. The Company's ability to satisfy its existing obligations
+will depend upon its future operating performance, which may be affected by
+prevailing economic conditions and financial, business and other factors
+described in this prospectus, many of which are beyond its control. The Company
+currently anticipates that funds from current operations, available credit
+facilities and access to capital markets will provide adequate funds to finance
+capital spending and working capital needs and to service its obligations as
+they become due. If the Company experiences difficulty in servicing its
+obligations, the Company may have to reduce or delay capital expenditures, sell
+assets, restructure or refinance its indebtedness or seek additional equity
+capital. There can be no assurance that any of these strategies could be
+effected on satisfactory terms, if at all.
+
+Uneven Pattern of Quarterly Sales
+
+         In the Company's recent experience, a disproportionate percentage of
+quarterly sales have occurred in the last week or last day of the fiscal
+quarter. This uneven sales pattern makes the prediction of revenues, earnings
+and working capital for each financial period especially
+
+
+                                       17
+<PAGE>   18
+
+
+difficult, and increases the risk of unanticipated variations in quarterly
+results and financial condition. The Company believes that this pattern of sales
+has developed as a result of several factors. One such factor is the recent
+tendency of customers to delay purchases until the end of a quarter in the hope
+of receiving more favorable pricing. Another factor is that customers may not be
+able to determine until close to the end of their fiscal year whether there are
+available funds in their capital budgets for the purchase of industrial
+electronics and computer systems products. Although the Company is unable to
+predict whether this uneven sales pattern will continue over the long term, the
+Company anticipates that, for the foreseeable future, the majority of its sales
+will continue to occur in the final days of the quarter.
+
+Year 2000
+
+         See the discussion above under the caption "Year 2000 Readiness
+Disclosure."
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+         The Company has assets, liabilities and cash flows in foreign
+currencies creating foreign exchange risk with the primary foreign currency
+being the Canadian dollar. Systems are in place for continuous measurement and
+evaluation of foreign exchange exposures so that timely action can be taken when
+considered desirable. Reducing exposure to foreign currency fluctuations is an
+integral part of the Company's risk management program. Financial instruments in
+the form of forward exchange contracts are employed as one of the methods to
+reduce such risk. At March 31, 2000, one forward exchange contract in the amount
+of $2.7 million existed with a maturity of 30 days. The foreign exchange
+contracts have had an immaterial impact on the Company's results of operations
+for the fiscal years ended 2000, 1999 and 1998.
+
+         The Company has entered into several interest rate swap agreements for
+purposes of serving as a hedge of the Company's variable rate credit agreement
+borrowings. The effect of the swaps is to establish fixed rates on the variable
+rate debt and to reduce exposure to interest rate fluctuations. At March 31,
+2000, the Company had interest rate swaps with a notational amount of $70
+million. Pursuant to these agreements, the Company pays interest at a weighted
+average fixed rate of 5.47 percent. The weighted average LIBOR rates applicable
+to these agreements were 6.11 percent at March 31, 2000. The swap agreements
+have had an immaterial impact on the Company's results of operations for the
+fiscal years ended 2000, 1999 and 1998.
+
+         The Company is exposed to interest rate risk from the revolving credit
+facility's various floating rate pricing mechanisms. This interest rate exposure
+is managed by the interest rate swaps to fix the interest rate on a portion of
+the debt and the use of multiple maturity dates. If interest rates were to
+increase 100 basis points (1 percent) from March 31, 2000 rates, and assuming no
+changes in debt from March 31, 2000 levels, the additional annualized net
+expense would be approximately $1.2 million or $.02 per diluted share.
+
+
+                                       18
+<PAGE>   19
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The information required by this Item is set forth at pages 20 through
+33 of the Company's 2000 Annual Report to Shareholders, which information is
+incorporated herein by reference.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+         None.
+
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         Information required by this Item as to the Directors of the Company
+appearing under the caption "Election of Directors" in the Company's Proxy
+Statement to be used in connection with the Company's 2000 Annual Meeting of
+Shareholders to be held on July 25, 2000 (the "2000 Proxy Statement") is
+incorporated herein by reference. Information required by this Item as to the
+executive officers of the Company is included in Part I of this Annual Report on
+Form 10-K.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+         The information required by this Item is set forth in the Company's
+2000 Proxy Statement under the caption "Compensation of Executive Officers,"
+which information is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The information required by this Item is set forth in the Company's
+2000 Proxy Statement under the caption "Share Ownership," which information is
+incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         Not applicable.
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+         (a) The following documents are filed as part of this Annual Report on
+Form 10-K:
+
+             (1) FINANCIAL STATEMENTS. The following consolidated financial
+statements of the Company and its subsidiaries and the report of independent
+auditors thereon, included in the
+
+
+                                       19
+<PAGE>   20
+
+
+Company's 2000 Annual Report to Shareholders on pages 20 through 32, are
+incorporated by reference in Item 8 of this Annual Report on Form 10-K:
+
+         Consolidated Balance Sheets as of March 31, 2000 and 1999
+         For the years ended March 31, 2000, 1999 and 1998:
+                 Consolidated Statements of Income
+                 Consolidated Statements of Shareholders' Equity
+                 Consolidated Statements of Cash Flows
+         Notes to Consolidated Financial Statements
+         Report of Independent Auditors
+
+             Quarterly financial data, included in the Company's 2000 Annual
+Report to Shareholders at page 33, are incorporated by reference in Item 8 of
+this Annual Report on Form 10-K.
+
+             (2) FINANCIAL STATEMENT SCHEDULES. The following consolidated
+financial statement schedule of the Company and its subsidiaries and the report
+of independent auditors thereon are filed as part of this Annual Report on Form
+10-K, and should be read in conjunction with the consolidated financial
+statements of the Company and its subsidiaries included in the Company's 2000
+Annual Report to Shareholders:
+
+             Report of Independent Auditors
+
+             Schedule II -- Valuation and Qualifying Accounts
+                            for the years ended March 31, 2000, 1999 and 1998
+
+             All other schedules have been omitted since the required
+information is not present or not present in amounts sufficient to require
+submission of the schedule, or because the information required is included in
+the consolidated financial statements or the notes thereto.
+
+             (3) EXHIBITS
+
+             See the Index to Exhibits at page E-1 of this Form 10-K.
+
+         (b) REPORTS ON FORM 8-K
+
+             The Company did not file any reports on Form 8-K during the fourth
+quarter of fiscal 2000.
+
+
+                                       20
+<PAGE>   21
+
+
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, Pioneer-Standard Electronics, Inc. has duly caused this
+Annual Report of Form 10-K to be signed on its behalf by the undersigned,
+thereunto duly authorized, in the City of Cleveland, State of Ohio, on June 29,
+2000.
+
+                                        PIONEER-STANDARD ELECTRONICS, INC.
+
+
+                                        /s/ James L. Bayman
+                                        ----------------------------------
+                                        James L. Bayman
+                                        Chairman, Chief Executive Officer
+                                        and Director
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this Report has been signed below by the following persons on behalf of the
+Registrant and in the capacities as of June 29, 2000.
+
+              SIGNATURE                                 TITLE
+
+
+/s/ James L. Bayman                          Chairman, Chief Executive Officer
+------------------------------------         and Director (Principal Executive
+James L. Bayman                              Officer)
+
+/s/ Arthur Rhein                             President, Chief Operating Officer
+------------------------------------         and Director
+Arthur Rhein
+
+/s/ Steven M. Billick                        Chief Financial Officer
+------------------------------------         (Principal Financial and Accounting
+Steven M. Billick                            Officer)
+
+/s/ Charles F. Christ                        Director
+------------------------------------
+Charles F. Christ
+
+/s/ Victor Gelb                              Director
+------------------------------------
+Victor Gelb
+
+/s/ Keith M. Kolerus                         Director
+------------------------------------
+Keith M. Kolerus
+
+/s/ Thomas A. Commes                         Director
+------------------------------------
+Thomas A. Commes
+
+/s/ Edwin Z. Singer                          Director
+------------------------------------
+Edwin Z. Singer
+
+/s/ Thomas C. Sullivan                       Director
+------------------------------------
+Thomas C. Sullivan
+
+
+
+                                       21
+
+<PAGE>   22
+
+
+/s/ Karl E. Ware                             Director
+------------------------------------
+Karl E. Ware
+
+
+
+
+                                       22
+<PAGE>   23
+
+REPORT OF INDEPENDENT AUDITORS
+
+
+
+Shareholders and the Board of Directors
+Pioneer-Standard Electronics, Inc.
+
+We have audited the consolidated financial statements of Pioneer-Standard
+Electronics, Inc. as of March 31, 2000 and 1999, and for each of the three years
+in the period ended March 31, 2000 and have issued our report thereon dated May
+8, 2000, incorporated by reference in this Annual Report (Form 10-K). Our audits
+also included the consolidated financial statement schedule of Pioneer-Standard
+Electronics, Inc. as of March 31, 2000 and 1999 and for each of the three years
+in the period ended March 31, 2000, listed in item 14(a) of this Annual Report
+(Form  10-K). This schedule is the responsibility of the Company's management.
+Our responsibility is to express an opinion based on our audits.
+
+In our opinion, the financial statement schedule referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.
+
+
+/s/ Ernst and Young LLP
+
+Cleveland, Ohio
+May 8, 2000
+
+                                       32
+<PAGE>   24
+
+
+
+                       PIONEER-STANDARD ELECTRONICS, INC.
+                 SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+                    YEARS ENDED MARCH 31, 2000, 1999 AND 1998
+
+
+<TABLE>
+<CAPTION>
+                                                                                  DEDUCTIONS
+                                                BALANCE AT      CHARGED TO        (NET WRITE-
+                                                BEGINNING OF    COST AND          OFFS)             BALANCE AT THE
+                                                PERIOD          EXPENSES          NET RECOVERIES    END OF PERIOD
+                                                ------------    ----------        --------------    --------------
+<S>                                             <C>             <C>               <C>                 <C>
+         2000
+
+Allowance for doubtful accounts                 $6,035,000      $  3,269,000      $   (3,623,000)     $5,681,000
+
+Inventory valuation reserve                     $5,397,000      $  3,786,000      $   (2,413,000)     $6,770,000
+
+
+         1999
+
+Allowance for doubtful accounts                 $7,798,000      $ (1,277,000)     $     (486,000)     $6,035,000
+
+Inventory valuation reserve                     $5,661,000      $  3,157,000      $   (3,421,000)     $5,397,000
+
+
+         1998
+
+Allowance for doubtful accounts                 $7,541,000      $   (803,000)     $    1,060,000      $7,798,000
+
+Inventory valuation reserve                     $6,659,000      $  2,031,000      $   (3,029,000)     $5,661,000
+</TABLE>
+
+
+<PAGE>   25
+
+
+
+                       Pioneer-Standard Electronics, Inc.
+                                  Exhibit Index
+
+
+
+Exhibit No.                          Description
+-----------                          -----------
+
+   3(a)        Amended Articles of Incorporation of Pioneer-Standard
+               Electronics, Inc., which is incorporated by reference to Exhibit
+               2 to the Company's Quarterly Report on Form 10-Q for the quarter
+               ended September 30, 1997, as amended on March 18, 1998 (File No.
+               0-5734).
+
+   (b)         Amended Code of Regulations, as amended, of Pioneer-Standard
+               Electronics, Inc., which is incorporated by reference to Exhibit
+               3(b) to the Company's Annual Report on Form 10-K for the year
+               ended March 31, 1997 (File No. 0-5734).
+
+   4(a)        Rights Agreement, dated as of April 27, 1999, by and between the
+               Company and National City Bank, which is incorporated herein by
+               reference to Exhibit 1 to the Company's Registration Statement on
+               Form 8-A ( (File No. 0-5734).
+
+   (b)         (Reserved.)
+
+   (c)         Note Purchase Agreement, dated as of October 31, 1990, by and
+               between the Company and Teachers Insurance and Annuity
+               Association of America, which is incorporated herein by reference
+               to Exhibit 4.3 to the Company's Registration Statement on Form
+               S-3 (Reg. No. 333-26697).
+
+   (d)         Amendment No. 1 to Note Purchase Agreement, dated as of November
+               1, 1991, by and between the Company and Teachers Insurance and
+               Annuity Association of America, which is incorporated herein by
+               reference to Exhibit 4(d) to the Company's Annual Report on Form
+               10-K for the year ended March 31, 1993 (File No. 0-5734).
+
+                                      E-1
+
+
+<PAGE>   26
+
+
+Exhibit No.                          Description
+-----------                          -----------
+
+   (e)         Amendment No. 2 to Note Purchase Agreement, dated as of November
+               30, 1995, by and between the Company and Teachers Insurance and
+               Annuity Association of America, which is incorporated herein by
+               reference to Exhibit 4(a) to the Company's Annual Report on Form
+               10-K for the year ended March 31, 1996 (File No. 0-5734).
+
+   (f)         Amendment No. 3 to Note Purchase Agreement, dated as of August
+               12, 1996 by and between the Company and Teachers Insurance and
+               Annuity Association of America, which is incorporated herein by
+               reference to Exhibit 4(f) to the Company's Quarterly Report on
+               Form 10-Q for the quarter ended June 30, 1996 (File No. 0-5734).
+
+   (g)         Amendment No. 4 to Note Purchase Agreement, dated as of March 23,
+               1998 by and between the Company and Teachers Insurance and
+               Annuity Association of America, which is incorporated herein by
+               reference to Exhibit 4(g) to the Company's Annual Report on Form
+               10-K for the year ended March 31, 1998 (File No. 0-5734)..
+
+   (h)         Amendment No. 5 to Note Purchase Agreement, dated as of March 23,
+               1998 by and between the Company and Teachers Insurance and
+               Annuity Association of America, which is incorporated herein by
+               reference to Exhibit 4(h) to the Company's Annual Report on Form
+               10-K for the year ended March 31, 1998 (File No. 0-5734).
+
+   (i)         Amendment No. 6 to Note Purchase Agreement, dated as of March 31,
+               1998 by and between the Company and Teachers Insurance and
+               Annuity Association of America, which is incorporated herein by
+               reference to Exhibit 4(i) to the Company's Annual Report on Form
+               10-K for the year ended March 31, 1998 (File No. 0-5734).
+
+   (j)         Indenture, dated as of August 1, 1996, by and between the Company
+               and Star Bank, N.A., as Trustee, which is incorporated herein by
+               reference to Exhibit 4(g) to the Company's Annual Report on Form
+               10-K for the year ended March 31, 1997 (File No. 0-5734).
+
+
+                                      E-2
+<PAGE>   27
+
+
+Exhibit No.                          Description
+-----------                          -----------
+
+   (k)         Share Subscription Agreement and Trust, effective July 2, 1996,
+               by and between the Company and Wachovia Bank of North Carolina,
+               N.A., which is incorporated herein by reference to Exhibit 10.1
+               to the Company's Registration Statement on Form S-3 (Reg. No.
+               333-07665).
+
+   (l)         Certificate of Trust of Pioneer-Standard Financial Trust, dated
+               March 23, 1998, which is incorporated herein by reference to
+               Exhibit 4(l) to the Company's Annual Report on Form 10-K for the
+               year ended March 31, 1998 (File No. 0-5734).
+
+   (m)         Amended and Restated Trust Agreement among Pioneer-Standard
+               Electronics, Inc., as Depositor, Wilmington Trust Company, as
+               Property Trustee and Delaware Trustee, and the Administrative
+               Trustees named therein, dated as of March 23, 1998, which is
+               incorporated herein by reference to Exhibit 4(m) to the Company's
+               Annual Report on Form 10-K for the year ended March 31, 1998
+               (File No. 0-5734).
+
+   (n)         Junior Subordinated Indenture, dated March 23, 1998, between the
+               Company and Wilmington Trust, as trustee, which is incorporated
+               herein by reference to Exhibit 4(n) to the Company's Annual
+               Report on Form 10-K for the year ended March 31, 1998 (File No.
+               0-5734).
+
+   (o)         First Supplemental Indenture, dated March 23, 1998, between the
+               Company and Wilmington Trust, as trustee, which is incorporated
+               herein by reference to Exhibit 4(o) to the Company's Annual
+               Report on Form 10-K for the year ended March 31, 1998 (File No.
+               0-5734).
+
+   (p)         Form of 6 3/4% Convertible Preferred Securities (Included in
+               Exhibit 4(m), which is incorporated herein by reference to
+               Exhibit 4(p) to the Company's Annual Report on Form 10-K for the
+               year ended March 31, 1998 (File No. 0-5734).
+
+   (q)         Form of Series A 6 3/4% Junior Convertible Subordinated
+               Debentures (Included in Exhibit 4(o)), which is incorporated
+               herein by reference to Exhibit 4(q) to the Company's Annual
+               Report on Form 10-K for the year ended March 31, 1998 (File No.
+               0-5734).
+
+
+
+                                      E-3
+
+<PAGE>   28
+Exhibit No.                            Description
+-----------                            -----------
+
+   (r)         Guarantee Agreement, dated March 23, 1998, between the Company
+               and Wilmington Trust, as guarantee trustee, which is incorporated
+               herein by reference to Exhibit 4(r) to the Company's Annual
+               Report on Form 10-K for the year ended March 31, 1998 (File No.
+               0-5734).
+
+   (s)         Agreement and Plan of Merger, dated as of January 15, 1998, by
+               and among Dickens Data Systems, Inc., the Selling Shareholders
+               named therein, Pioneer-Standard Electronics, Inc. and
+               Pioneer-Standard of Georgia, Inc., which is incorporated herein
+               by reference to Exhibit 2.1 to the Company's Current Report on
+               Form 8-K for February 27, 1998 (File No. 0-5734). (Schedules
+               omitted pursuant to Item 601(b)(2) of Regulation S-K. The Company
+               agrees to furnish supplementally a copy of any omitted schedule
+               to the Commission upon request.)
+
+  *10(a)       Retirement Agreement, effective March 31, 1996, by and between
+               the Company and Preston B. Heller, Jr., which is incorporated
+               herein by reference to Exhibit 10(a) to the Company's Annual
+               Report on Form 10-K for the year ended March 31, 1996 (File No.
+               0-5734).
+
+   *(b)        Amended and Restated Employment Agreement, dated April 27, 1999,
+               by and between the Company and James L. Bayman, which is
+               incorporated herein by reference to Exhibit 10.1 to the Company's
+               Quarterly Report on Form 10-Q for the quarter ended June 30, 1999
+               (File No. 0-5734).
+
+   *(c)        Amended and Restated Employment Agreement, dated April 27, 1999,
+               by and between the Company and Arthur Rhein, which is
+               incorporated herein by reference to Exhibit 10.2 to the Company's
+               Quarterly Report on Form 10-Q for the quarter ended June 30, 1999
+               (File No. 0-5734).
+
+   *(d)        Employment Agreement, dated April 27, 1999, by and between the
+               Company and Gregory T. Geswein, which is incorporated herein by
+               reference to Exhibit 10.3 to the Company's Quarterly Report on
+               Form 10-Q for the quarter ended June 30, 1999 (File No. 0-5734).
+
+
+
+                                      E-4
+
+<PAGE>   29
+
+
+Exhibit No.                          Description
+-----------                          -----------
+
+   *(e)        Amended and Restated Employment Agreement, dated April 27, 1999,
+               by and between the Company and John V. Goodger, which is
+               incorporated herein by reference to Exhibit 10.4 to the Company's
+               Quarterly Report on Form 10-Q for the quarter ended June 30, 1999
+               (File No. 0-5734).
+
+   *(f)        The Company's 1982 Incentive Stock Option Plan, as amended, which
+               is incorporated by reference to Exhibit 3(e) to the Company's
+               Annual Report on Form 10-K for the year ended March 31, 1997
+               (File No. 0-5734).
+
+   *(g)        The Company's Amended and Restated 1991 Stock Option Plan, which
+               is incorporated herein by reference to Exhibit 4.1 to the
+               Company's Form S-8 Registration Statement (Reg. No. 33-53329).
+
+   *(h)        The Company's Amended 1995 Stock Option Plan for Outside
+               Directors, which is incorporated herein by reference to Exhibit
+               99.1 to the Company's Form S-8 Registration Statement (Reg. No.
+               333-07143).
+
+   (i)         Credit Agreement, dated as of March 27, 1998, among
+               Pioneer-Standard Electronics, Inc., National City Bank, the
+               several lending institutions party to the agreement and National
+               City Bank, as Agent, which is incorporated herein by reference to
+               Exhibit 10(j) to the Company's Annual Report on Form 10-K for the
+               year ended March 31, 1998 (File No. 0-5734).
+
+   (j)         First Amendment to Credit Agreement, dated as of May 1, 1998, by
+               and among Pioneer-Standard Electronics, Inc., the several lending
+               institutions party to the agreement and National City Bank, as
+               Agent, which is incorporated herein by reference to Exhibit 10(k)
+               to the Company's Annual Report on Form 10-K for the year ended
+               March 31, 1998 (File No. 0-5734).
+
+   (k)         Second Amendment to Credit Agreement, dated as of March 31, 1999,
+               by and among Pioneer-Standard Electronics, Inc., the several
+               lending institutions party to the agreement and National City
+               Bank, as Agent, which is incorporated herein by reference to
+               Exhibit 10(k) to the Company's Annual Report on Form 10-K for the
+               year ended March 31, 1999 (File No. 0-5734).
+
+
+
+                                      E-5
+<PAGE>   30
+
+
+Exhibit No.                           Description
+-----------                           -----------
+
+   (l)         Third Amendment to Credit Agreement and Waiver, dated as of May
+               5, 2000, by and among Pioneer-Standard Electronics, Inc., the
+               several lending institutions party to the agreement and National
+               City Bank, as Agent.
+
+   (m)         Pioneer-Standard Electronics, Inc. 1999 Stock Option Plan for
+               Outside Directors, which is incorporated herein by reference to
+               Exhibit 10.5 to the Company's Quarterly Report on Form 10-Q for
+               the quarter ended June 30, 1999 (File No. 0-5734).
+
+   (n)         Pioneer-Standard Electronics, Inc. 1999 Restricted Stock Plan,
+               which is incorporated herein by reference to Exhibit 10.6 to the
+               Company's Quarterly Report on Form 10-Q for the quarter ended
+               June 30, 1999 (File No. 0-5734).
+
+   (o)         Pioneer-Standard Electronics, Inc. Supplemental Executive
+               Retirement Plan.
+
+   (p)         Pioneer-Standard Electronics, Inc. Benefit Equalization Plan.
+
+   *(q)        Non-Competition Agreement, dated as of February 25, 2000, between
+               Pioneer-Standard Electronics, Inc. and Thomas G. Pitera.
+
+   *(r)        Change of Control Agreement, dated as of February 25, 2000,
+               between Pioneer-Standard Electronics, Inc. and Thomas G. Pitera.
+
+   *(s)        Form of Option Agreement between Pioneer-Standard Electronics,
+               Inc. and the optionees under the Pioneer-Standard Electronics,
+               Inc. 1999 Stock Option Plan for Outside Directors, which is
+               incorporated herein by reference to Exhibit 10.7 to the Company's
+               Quarterly Report on Form 10-Q for the quarter ended June 30, 1999
+               (File No. 0-5734).
+
+    13         Portions of the Company's 2000 Annual Report to Shareholders
+               incorporated by reference into this Annual Report on Form 10-K.
+
+    21         Subsidiaries of the Registrant.
+
+    23         Consent of Ernst & Young LLP, Independent Auditors.
+
+
+
+                                      E-6
+
+<PAGE>   31
+
+
+Exhibit No.                          Description
+-----------                          -----------
+
+    27         Financial Data Schedule.
+
+  99(a)        Certificate of Insurance Policy, effective November 1, 1997,
+               between Chubb Group of Insurance Companies and Pioneer-Standard
+               Electronics, Inc., which is incorporated herein by reference to
+               Exhibit 99(a) to the Company's Annual Report on Form 10-K for the
+               year ended March 31, 1998 (File No. 0-5734).
+
+  99(b)        Forms of Amended and Restated Indemnification Agreement entered
+               into by and between the Company and each of its Directors and
+               Executive Officers, which are incorporated herein by reference to
+               Exhibit 99(b) to the Company's Annual Report on Form 10-K for the
+               year ended March 31, 1994 (File No. 0-5734).
+
+-----------------------
+     *Denotes a management contract or compensatory plan or arrangement.
+
+
+
+                                      E-7
+</TEXT>
+</DOCUMENT>

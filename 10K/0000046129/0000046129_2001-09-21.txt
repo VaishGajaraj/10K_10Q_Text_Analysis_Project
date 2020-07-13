@@ -1,0 +1,2685 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a2059621z10-k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<Page>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 FOR THE FISCAL YEAR ENDED JUNE 30, 2001
+
+                                       OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(b) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+     For the transition period from _______________ to ________________.
+
+
+                         Commission file number: 0-4041
+
+                              HATHAWAY CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+          COLORADO                                       84-0518115
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+
+       8228 PARK MEADOWS DRIVE
+         LITTLETON, COLORADO                                80124
+(Address of principal executive offices)                  (Zip Code)
+
+
+       Registrant's telephone number, including area code: (303) 799-8200
+
+        Securities registered pursuant to Section 12(b) of the Act: NONE
+
+    Securities registered pursuant to Section 12(g) of the Act: Common Stock,
+                                  no par value
+
+
+                         -------------------------------
+
+
+INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS REQUIRED
+TO BE FILED BY SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 DURING
+THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE REGISTRANT WAS
+REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH FILING
+REQUIREMENTS FOR THE PAST 90 DAYS. YES [X] NO [ ]
+
+INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO ITEM 405
+OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED, TO THE
+BEST OF REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION STATEMENTS
+INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY AMENDMENT TO THIS
+FORM 10-K. [ ]
+
+     As of September 6, 2001, the aggregate market value of voting stock held by
+non-affiliates of the Registrant, computed by reference to the average bid and
+asked prices of such stock approximated $11,232,000.
+
+                         -------------------------------
+
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the Registrant's definitive Proxy Statement dated September 21,
+2001 are incorporated by reference in Part III of this Report.
+
+                         -------------------------------
+
+<Page>
+
+                                TABLE OF CONTENTS
+
+<Table>
+<Caption>
+PART I.                                                                         PAGE
+<S>                                                                             <C>
+Item 1.   Business..............................................................   1
+
+Item 2.   Properties............................................................   4
+
+Item 3.   Legal Proceedings.....................................................   4
+
+Item 4.   Submission of Matters to a Vote of Security Holders...................   4
+
+PART II.
+
+Item 5.   Market for Registrant's Common Equity and Related Stockholder
+          Matters...............................................................   4
+
+Item 6.   Selected Financial Data...............................................   5
+
+Item 7.   Management's Discussion and Analysis of Financial Condition and
+          Results of Operations.................................................   5
+
+Item 8.   Financial Statements and Supplementary Data...........................  10
+
+          Report of Independent Public Accountants..............................  11
+
+Item 9.   Disagreements on Accounting and Financial Disclosure..................  30
+
+PART III.
+
+Item 10.  Directors and Executive Officers of the Registrant....................  30
+
+Item 11.  Executive Compensation................................................  30
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management........  30
+
+Item 13.  Certain Relationships and Related Transactions........................  30
+
+PART IV.
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K.......  30
+
+          Consent of Independent Public Accountants.............................  33
+
+          Signatures............................................................  34
+
+          Financial Statement Schedule .........................................  35
+
+          Officers and Directors / Investor Information.........................  37
+
+</Table>
+
+<Page>
+
+PART I
+
+ITEM 1. BUSINESS.
+
+     Hathaway Corporation (the Company) was organized under the laws of Colorado
+     in 1962. The Company is engaged in the business of designing, manufacturing
+     and selling advanced systems and instrumentation to the worldwide power and
+     process industries, as well as motion control products to a broad spectrum
+     of customers throughout the world. The Company operates primarily in the
+     United States and the United Kingdom and has joint venture investments in
+     China.
+
+     POWER AND PROCESS BUSINESS
+
+     POWER INSTRUMENTATION
+
+     Hathaway's power instrumentation products help ensure that electric
+     utilities provide high quality service to consumers of electricity. With
+     manufacturing facilities in Seattle and Belfast, Northern Ireland, and
+     sales and engineering functions in Seattle, Belfast and Denver, the power
+     products group produces a comprehensive and cost-effective range of
+     products designed exclusively for the power industry worldwide. Hathaway's
+     equipment assists the electric power system operators in operating and
+     maintaining proper system performance. The products, which are used to
+     monitor and control the power generation, transmission and distribution
+     processes, include fault recording products, fault location products,
+     condition monitoring (circuit breaker) products and remote terminal units
+     for Supervisory Control and Data Acquisition (SCADA) systems.
+
+     Through July 5, 2001, the Company had three joint venture investments in
+     China - a 20% interest in Hathaway Si Fang Protection and Control Company,
+     Ltd. (Si Fang), a 25% interest in Zibo Kehui Electric Company Ltd. (Kehui)
+     and a 40% interest in Hathaway Power Monitoring Systems Company, Ltd.
+     (HPMS). Si Fang designs, manufactures and sells a new generation of digital
+     protective relays, control equipment and instrumentation products for
+     substations in power transmission and distribution systems in China and is
+     one of the largest Chinese supplier of digital relays in China. The Company
+     sold its interest in Si Fang effective July 5, 2001. Kehui designs,
+     manufactures and sells cable and overhead fault location products,
+     Supervisory Control and Data Acquisition (SCADA) systems and other test
+     instruments within the China market and the Company may sell these products
+     outside of China. HPMS manufactures and sells, under a license from the
+     Company, instrumentation products designed by the Company to electric power
+     companies in China.
+
+     SYSTEMS AUTOMATION
+
+     Effective September 30, 1996, the Company acquired Tate Integrated Systems
+     which has since operated under the name of Hathaway Industrial Automation
+     (HIA), a wholly-owned subsidiary of the Company. HIA is located near
+     Baltimore, Maryland and is a full service supplier of process automation
+     systems for industrial applications. HIA has developed a state-of-the-art
+     software system for SCADA and Distributed Control Systems (DCS). The HIA
+     system has been used to fully automate such industrial applications as
+     water and wastewater treatment plants, glass manufacturing plants, oil and
+     gas terminals and tank farm facilities. The focus of the systems business
+     has shifted from industrial automation applications to the power generation
+     and transmission industry. The Company has been successful at integrating
+     the HIA system with certain other Hathaway products and targeting the
+     integrated product at substation automation applications used in the
+     electric power industry. The automation system provides the user the
+     ability to securely send and receive information to and from intelligent
+     electronic devices in transmission and distribution substations to help
+     monitor and control the delivery of electricity. In addition, the
+     automation system is used by organizations responsible for operating the
+     transmission grid and ensuring the reliable delivery of electricity. It is
+     used to communicate with and control the output of power generators and to
+     securely communicate metering information from such generators to ensure
+     the proper billing for such electricity.
+
+     PROCESS INSTRUMENTATION
+
+     The process instrumentation products group manufactures and markets
+     products for industrial applications including monitoring systems and
+     calibration equipment. The monitoring systems, called visual annunciators
+     and sequential event recorders, provide both visual and audible alarms and
+     are used to control processes in various plants, including electrical
+     generating plants, chemical, petroleum, food and beverage, pulp and paper,
+     and textiles. Calibration equipment is used to test and adjust
+     instrumentation for proper and accurate operation in measuring electricity,
+     temperatures and pressure within the process industry.
+
+                                       1
+<Page>
+
+     MOTION CONTROL BUSINESS
+
+     The motion control group offers quality, cost-effective products that suit
+     a wide range of applications in the telecommunications, semi-conductor
+     processing, industrial, medical, military and aerospace industries, as well
+     as in the manufacturing of analytical instruments and computer peripherals.
+     End products using Hathaway technology include tuneable lasers, wavelength
+     meters and spectrum analyzers for the fiber optic industry, robotic systems
+     for the semiconductor industry, anti-lock braking transducers, satellite
+     tracking systems, MRI scanners and high definition printers.
+
+     The motion control group is organized into one division and two
+     subsidiaries, respectively, of Hathaway Motion Control Corporation, a
+     wholly-owned subsidiary of the Company: Motors and Instruments Division
+     (MI - Tulsa), Emoteq Corporation (Emoteq - Tulsa) and Computer Optical
+     Products, Inc. (COPI - Chatsworth, CA).
+
+     The MI division manufactures precision direct-current fractional horsepower
+     motors and certain motor components. Industrial equipment and military
+     products are the major application for the motors. This division also
+     supplies spare parts and replacement equipment for general-purpose
+     instrumentation products.
+
+     Emoteq-Tulsa designs, manufactures and markets direct current brushless
+     motors, related components, and drive and control electronics. Markets
+     served include semiconductor manufacturing, industrial automation, medical
+     equipment, and military and aerospace. Effective July 1, 1998, Emoteq
+     Corporation acquired all of the outstanding shares of Ashurst Logistic
+     Electronics Limited of Bournemouth, England (Ashurst) for $317,000. Ashurst
+     manufactures drive electronics and position controllers for a variety of
+     motor technologies as well as a family of static frequency converters for
+     military and aerospace applications and has extensive experience in power
+     electronics design and software development required for the application of
+     specialized drive electronics technology. The acquired company was renamed
+     Emoteq UK Limited.
+
+     Optical encoders are manufactured by COPI. They are used to measure
+     rotational and linear movements of parts in diverse applications such as
+     tuneable lasers, spectrum analyzers, machine tools, robots, printers and
+     medical equipment. The primary markets for the optical encoders are in the
+     telecommunications, computer peripheral manufacturing, industrial and
+     medical sectors. COPI also designs, manufactures and markets fiber
+     optic-based encoders with special characteristics, such as immunity to
+     radio frequency interference and high temperature tolerance, suited for
+     industrial, aerospace and military environments. Applications include
+     airborne navigational systems, anti-lock braking transducers, missile
+     flight surface controls and high temperature process control equipment.
+
+     PRODUCT DISTRIBUTION AND PRINCIPAL MARKETS
+
+     The Company maintains a direct sales force. In addition to its own
+     marketing and sales force, the Company has developed a worldwide network of
+     independent sales representatives and agents to market its various product
+     lines.
+
+     The Company faces competition in all of its markets, although the number of
+     competitors varies depending upon the product. The Company believes there
+     are only a small number of competitors in the power and process markets,
+     but there are numerous competitors in the motion control market. No clear
+     market share data is available for the Company's other product areas.
+     Competition involves primarily product performance and price, although
+     service and warranty are also important.
+
+     FINANCIAL INFORMATION ABOUT OPERATING SEGMENTS
+
+     The information required by this item is set forth in Note 10 of the Notes
+     to Consolidated Financial Statements on page 27 herein.
+
+     AVAILABILITY OF RAW MATERIALS
+
+     All parts and materials used by the Company are in adequate supply. No
+     significant parts or materials are acquired from a single source.
+
+     PATENTS, TRADEMARKS, LICENSES, FRANCHISES AND CONCESSIONS
+
+     The Company holds several patents and trademarks regarding components used
+     by the various subsidiaries; however, none of these patents and trademarks
+     are considered to be of major significance.
+
+                                       2
+<Page>
+
+     SEASONALITY OF THE BUSINESS
+
+     The Company's business is not of a seasonal nature; however, revenues
+     derived from the power market may be influenced by customers' fiscal year
+     ends and holiday seasons.
+
+     WORKING CAPITAL ITEMS
+
+     The Company currently maintains inventory levels adequate for its
+     short-term needs based upon present levels of production. The Company
+     considers the component parts of its different product lines to be readily
+     available and current suppliers to be reliable and capable of satisfying
+     anticipated needs.
+
+     SALES TO LARGE CUSTOMERS
+
+     During fiscal 2001, 2000 and 1999, no single customer accounted for more
+     than 10% of the Company's consolidated revenue from continuing operations.
+
+     SALES BACKLOG
+
+     The Company's backlog at June 30, 2001 consisted of sales orders totaling
+     approximately $21,713,000. The Company expects to ship goods filling
+     $19,140,000 of those purchase orders within fiscal 2002. This compares to a
+     backlog of $23,827,000 at June 30, 2000, of which $20,912,000 was scheduled
+     for shipment in fiscal 2001.
+
+     GOVERNMENT SALES
+
+     Approximately $462,000 of the Company's backlog as of June 30, 2001
+     consisted of contracts with the United States Government. The Company's
+     contracts with the government contain a provision generally found in
+     government contracts which permits the government to terminate the contract
+     at its option. When the termination is attributable to no fault of the
+     Company, the government would, in general, have to pay the Company certain
+     allowable costs up to the time of termination, but there is no compensation
+     for loss of profits.
+
+     ENGINEERING AND DEVELOPMENT ACTIVITIES
+
+     The Company's expenditures on engineering and development were $4,806,000
+     in fiscal 2001, $4,274,000 in fiscal 2000 and $4,466,000 in fiscal 1999. Of
+     these expenditures, no material amounts were charged directly to customers.
+
+     ENVIRONMENTAL ISSUES
+
+     No significant pollution or other types of emission result from the
+     Company's operations and it is not anticipated that the Company's proposed
+     operations will be affected by Federal, State or local provisions
+     concerning environmental controls. However, there can be no assurance that
+     any future regulations will not affect the Company's operations.
+
+     The Company, with other parties, has been named as a defendant in an
+     environmental contamination lawsuit. The Company is investigating the
+     nature of the claims but believes the claims are without merit.
+
+     FOREIGN OPERATIONS
+
+     The information required by this item is set forth in Note 10 of the Notes
+     to Consolidated Financial Statements on page 28 herein.
+
+     EMPLOYEES
+
+     As of the end of fiscal 2001, the Company had approximately 352 full-time
+     employees.
+
+                                       3
+<Page>
+
+ITEM 2. PROPERTIES.
+
+The Company leases its administrative offices and manufacturing facilities as
+follows:
+
+<Table>
+                DESCRIPTION / USE                                       LOCATION                    APPROXIMATE SQUARE FOOTAGE
+--------------------------------------------------------         -------------------------          --------------------------
+<S>                                                              <C>                                <C>
+Corporate headquarters and sales and engineering offices            Littleton, Colorado                         14,000
+Engineering and development facility                                Evergreen, Colorado                          3,000
+Office and manufacturing facility                                  Farmers Branch, Texas                         8,000
+Office and manufacturing facility                                   Auburn, Washington                          33,000
+Engineering, development and administrative office                 Hunt Valley, Maryland                        14,000
+Office and manufacturing facility                                     Tulsa, Oklahoma                           20,000
+Office and manufacturing facility                                 Chatsworth, California                        22,000
+Office and manufacturing facility                                     Tulsa, Oklahoma                           10,000
+Office facility                                                     Hoddesdon, England                           3,000
+Office and manufacturing facility                                Belfast, Northern Ireland                      17,000
+Office and manufacturing facility                                  Bournemouth, England                          2,000
+</Table>
+
+The Company's management believes the above-described facilities are adequate to
+meet the Company's current and foreseeable needs. All facilities described above
+are operating at or near full capacity.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+The Company, with other parties, has been named as a defendant in an
+environmental contamination lawsuit. The Company is investigating the nature of
+the claims but believes the claims are without merit.
+
+The Company is also involved in certain actions that have arisen out of the
+ordinary course of business. Management believes that resolution of the actions
+will not have a significant adverse affect on the Company's consolidated
+financial position or results of operations.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+No matter was submitted to a vote of the security holders of the Company in the
+fourth quarter of fiscal year 2001.
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+
+Hathaway Corporation's common stock is traded on the Nasdaq Small Cap Market
+System and trades under the symbol HATH. The number of holders of record of the
+Company's common stock as of the close of business on September 6, 2001 was 543.
+The Company did not pay or declare any dividends during fiscal years 2001 and
+2000 as the Company's long-term financing agreement prohibits the Company from
+doing so without prior approval.
+
+The following table sets forth, for the periods indicated, the high and low
+prices of the Company's common stock on the Nasdaq Small Cap Market System, as
+reported by Nasdaq.
+
+<Table>
+<Caption>
+                                          PRICE RANGE
+                                      HIGH           LOW
+                                    ---------      --------
+<S>                                 <C>            <C>
+          FISCAL 2000
+             First Quarter          $    3.13      $   1.63
+             Second Quarter              2.56          0.88
+             Third Quarter              19.75          1.38
+             Fourth Quarter              9.25          3.00
+
+          FISCAL 2001
+             First Quarter          $    9.88      $   5.06
+             Second Quarter              7.38          2.25
+             Third Quarter               6.94          2.94
+             Fourth Quarter              4.84          3.10
+</Table>
+
+
+                                       4
+<Page>
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+The following table summarizes data from the Company's annual financial
+statements for the fiscal years 1997 through 2001 and notes thereto; the
+Company's complete annual financial statements and notes thereto for the current
+fiscal year appear in Item 8 beginning on page 10 herein. See Item 1 in the
+Business section of this report on Page 2 and Note 2 to Consolidated Financial
+Statements on page 20 for discussion of a business acquisition completed in
+fiscal year 1999.
+
+<Table>
+<Caption>
+                                                            FOR THE FISCAL YEARS ENDED JUNE 30,
+                                            2001           2000           1999           1998           1997
+                                          --------       --------       --------       --------       --------
+                                                            IN THOUSANDS (EXCEPT PER SHARE DATA)
+
+<S>                                       <C>            <C>            <C>            <C>            <C>
+STATEMENTS OF OPERATIONS DATA:
+Net revenues                              $ 48,386       $ 45,133       $ 41,691       $ 41,317       $ 39,946
+                                          ========       ========       ========       ========       ========
+Income (loss) before income taxes         $  2,572       $  1,604       $ (1,317)      $ (2,161)      $ (2,192)
+(Provision) benefit for income taxes          (576)          (129)          (208)           184            763
+                                          --------       --------       --------       --------       --------
+Net income (loss)                         $  1,996       $  1,475       $ (1,525)      $ (1,977)      $ (1,429)
+                                          ========       ========       ========       ========       ========
+Diluted net income (loss) per share       $   0.41       $   0.31       $  (0.36)      $  (0.46)      $  (0.34)
+                                          ========       ========       ========       ========       ========
+Cash dividends:
+   Per share                              $     --       $     --       $     --       $     --       $     --
+   Total amount paid                      $     --       $     --       $     --       $     --       $     --
+
+BALANCE SHEET DATA:
+Total assets at June 30                   $ 20,203       $ 19,937       $ 16,398       $ 17,820       $ 20,477
+Total current and long-term debt
+    at June 30                            $    553       $  1,546       $  1,308       $  1,245       $  1,769
+</Table>
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+
+ALL STATEMENTS CONTAINED HEREIN THAT ARE NOT STATEMENTS OF HISTORICAL FACT
+CONSTITUTE "FORWARD-LOOKING STATEMENTS" WITHIN THE MEANING OF THE PRIVATE
+SECURITIES LITIGATION REFORM ACT OF 1995. FORWARD-LOOKING STATEMENTS INCLUDE,
+WITHOUT LIMITATION, ANY STATEMENT THAT MAY PREDICT, FORECAST, INDICATE, OR IMPLY
+FUTURE RESULTS, PERFORMANCE, OR ACHIEVEMENTS, AND MAY CONTAIN THE WORD
+"BELIEVE," "ANTICIPATE," "EXPECT," "PROJECT," "INTEND," "WILL CONTINUE," "WILL
+LIKELY RESULT," "SHOULD" OR WORDS OR PHRASES OF SIMILAR MEANING. FORWARD-LOOKING
+STATEMENTS INVOLVE KNOWN AND UNKNOWN RISKS, UNCERTAINTIES AND OTHER FACTORS THAT
+MAY CAUSE THE ACTUAL RESULTS OF THE COMPANY TO DIFFER MATERIALLY FROM THE
+FORWARD-LOOKING STATEMENTS. THESE RISKS AND UNCERTAINTIES INCLUDE, AMONG OTHERS,
+THE FOLLOWING: INTERNATIONAL, NATIONAL AND LOCAL GENERAL BUSINESS AND ECONOMIC
+CONDITIONS IN THE COMPANY'S MOTION CONTROL, PROCESS AND POWER MARKETS,
+INTRODUCTION OF NEW TECHNOLOGIES, PRODUCTS AND COMPETITORS, THE ABILITY TO
+PROTECT THE COMPANY'S INTELLECTUAL PROPERTY, THE ABILITY OF THE COMPANY TO
+SUSTAIN, MANAGE OR FORECAST ITS GROWTH AND PRODUCT ACCEPTANCE, THE ABILITY OF
+THE COMPANY TO MEET THE TECHNICAL SPECIFICATIONS OF ITS CUSTOMERS, THE CONTINUED
+AVAILABILITY OF PARTS AND COMPONENTS, INCREASED COMPETITION AND CHANGES IN
+COMPETITOR RESPONSES TO THE COMPANY'S PRODUCTS AND SERVICES, CHANGES IN
+GOVERNMENT REGULATIONS, AVAILABILITY OF FINANCING AND THE ABILITY TO ATTRACT AND
+RETAIN QUALIFIED PERSONNEL. THE COMPANY'S ABILITY TO COMPETE IN ITS MARKETS
+DEPENDS UPON ITS CAPACITY TO ANTICIPATE THE NEED FOR NEW PRODUCTS, AND TO
+CONTINUE TO DESIGN AND MARKET THOSE PRODUCTS TO MEET CUSTOMERS' NEEDS IN A
+COMPETITIVE WORLD.
+
+THE COMPANY OPERATES IN A VERY COMPETITIVE ENVIRONMENT. NEW RISK FACTORS EMERGE
+FROM TIME TO TIME AND IT IS NOT POSSIBLE FOR MANAGEMENT TO PREDICT ALL SUCH RISK
+FACTORS, NOR CAN IT ASSESS THE IMPACT OF ALL SUCH RISK FACTORS ON ITS BUSINESS
+OR THE EXTENT TO WHICH ANY FACTOR, OR COMBINATION OF FACTORS, MAY CAUSE ACTUAL
+RESULTS TO DIFFER MATERIALLY FROM THOSE CONTAINED IN ANY FORWARD-LOOKING
+STATEMENTS. THE COMPANY'S EXPECTATIONS, BELIEFS AND PROJECTIONS ARE EXPRESSED IN
+GOOD FAITH AND ARE BELIEVED TO HAVE A REASONABLE BASIS; HOWEVER, THE COMPANY
+MAKES NO ASSURANCE THAT EXPECTATIONS, BELIEFS OR PROJECTIONS WILL BE ACHIEVED.
+
+BECAUSE OF THE RISKS AND UNCERTAINTIES, INVESTORS SHOULD NOT PLACE UNDUE
+RELIANCE ON FORWARD-LOOKING STATEMENTS AS A PREDICTION OF ACTUAL RESULTS. THE
+COMPANY HAS NO OBLIGATION OR INTENT TO RELEASE PUBLICLY ANY REVISIONS TO ANY
+FORWARD-LOOKING STATEMENTS, WHETHER AS A RESULT OF NEW INFORMATION, FUTURE
+EVENTS, OR OTHERWISE.
+
+                                       5
+<Page>
+
+OPERATING RESULTS
+
+FISCAL YEAR 2001 COMPARED TO FISCAL YEAR 2000
+
+The Company achieved a 67% increase in net income before a restructuring charge
+for its fiscal year ended June 30, 2001 compared to fiscal year ended June 30,
+2000. Net income before the restructuring charge was $2,465,000 in fiscal year
+2001, compared to net income of $1,475,000 in fiscal 2000. Net income for fiscal
+2001 after the restructuring charge was $1,996,000, a 35% increase over last
+year. As a result of changing business conditions in the process instrumentation
+business, the Company restructured the process instrumentation portion of its
+Power and Process segment. The restructuring, which was successfully completed
+during fiscal 2001, consisted of retaining a portion of the business in Dallas,
+moving manufacturing of two product lines to the Company's power instrumentation
+manufacturing facility in Seattle and selling the remaining two product lines. A
+pretax charge of $587,000 was recorded related to this restructuring. Revenues
+increased 7% to $48,386,000 in fiscal 2001 from $45,133,000 in fiscal 2000,
+representing increases in both the Motion Control and the Power and Process
+segments.
+
+Revenues from the Motion Control segment for the year ended June 30, 2001
+increased 14% to $21,188,000 from $18,591,000 for the year ended June 30, 2000.
+Pretax profit for Motion Control for fiscal 2001 was $3,584,000 compared to
+$3,139,000 for fiscal 2000, a 14% increase. At June 30, 2001 backlog for Motion
+Control orders was in excess of $13 million, 6% higher than at June 30, 2000.
+Although the segment's backlog remains strong, there is some slowing in orders
+and in delivery rates of the OEM programs due to the general economic slowdown.
+The duration of the slowing in the industry sectors is uncertain but the Company
+continues to develop applications for its products for new markets and broader
+segments of already existing markets.
+
+The Power and Process segment reported revenues for fiscal 2001 of $27,198,000
+compared to revenues of $26,542,000 in fiscal 2000, a 2% increase. The segment
+recorded a $952,000 pretax loss before the restructuring charge compared to a
+pretax loss of $1,643,000 in fiscal 2000, a 42% improvement. Sales order backlog
+for Power and Process orders was $8,669,000 at June 30, 2001 which is down 25%
+from June 30, 2000 - primarily reflecting a decline in backlog of large process
+systems projects partially offset by an increase in power instrumentation and
+systems backlog reflecting the Company's shift of focus to automation and
+communications products for the power industry and away from large process
+system projects.
+
+Sales to international customers increased 32% to $15,282,000, or 32% of sales,
+in fiscal 2001, from $11,577,000 or 26% of sales, in fiscal 2000 due to an
+increase in sales of motion control products in foreign markets.
+
+Sales order backlog decreased 9% to $21,713,000 at June 30, 2001 from
+$23,827,000 at June 30, 2000. Gross margin for fiscal 2001 increased to 39% from
+38% in fiscal 2000 due to increased sales volume and changes in the mix of
+products sold.
+
+Selling expenses decreased 4% to $6,174,000 in fiscal 2001 from $6,433,000 in
+fiscal 2000 resulting from savings from continued cost reduction efforts by the
+Company. General and administrative expenses increased 7% to $5,551,000 in
+fiscal 2001 from $5,194,000 in fiscal 2000 primarily due to increased employee
+and insurance costs. Engineering and development expenses increased 12% to
+$4,806,000 in fiscal 2001 from $4,274,000 in fiscal 2000, primarily due to
+one-time costs incurred to develop a configuration tool kit for the Company's
+remote terminal units (RTUs) used by the power industry.
+
+Equity income from investments in joint ventures increased to $1,170,000 in
+fiscal 2001 from $698,000 in fiscal 2000. This increase is due to the continued
+success of the Si Fang joint venture which supplies digital relays in China.
+
+On July 5, 2001, the Company sold its 20% equity interest in Si Fang for
+$3,020,000 in cash. The Company will record a pretax gain on the sale of
+approximately $650,000 which will be recorded in the first quarter of the fiscal
+year ending June 30, 2002. During fiscal years 2001 and 2000, the Company
+recognized equity income from Si Fang of $1,116,000 and $670,000 respectively.
+
+In fiscal year 2001, the Company recognized a provision for income taxes of
+$576,000 compared to $129,000 in fiscal year 2000. The effective tax rate as a
+percentage of the income before income taxes was 22% in fiscal 2001 and 8% in
+fiscal 2000. The difference in the effective tax rate between periods is
+primarily due to changes in the valuation allowance recorded against the
+deferred tax assets as well as adjustments related to the resolution of various
+income tax related issues. The reduction in the valuation allowance decreased in
+2001 compared to 2000
+
+                                       6
+<Page>
+
+due to larger utilization of net operating loss carryforwards in 2000. The
+impact of changes in the Company's recorded valuation allowance has different
+impacts on the Company's effective tax rate due to differing amounts of pretax
+income in each respective period.
+
+FISCAL YEAR 2000 COMPARED TO FISCAL YEAR 1999
+
+The Company recorded net income of $1,475,000 in fiscal year 2000, compared to a
+net loss of $1,525,000 in fiscal 1999. Revenues increased 8% from $41,691,000,
+in fiscal 1999 to $45,133,000 in fiscal 2000. The increase in revenues was due
+to a 43% increase in revenues from the Company's motion control products,
+partially offset by a 8% decrease in revenues from the Company's power and
+process systems and instrumentation products.
+
+The increase in Motion Control revenues in fiscal 2000 was primarily due to
+expansion into new high growth applications such as test instrumentation for the
+fiberoptic telecommunications industry as well as the expansion of existing
+applications. At June 30, 2000, backlog for Motion Control orders was in excess
+of $12 million, 69% higher than at June 30, 1999. This is a reflection of Motion
+Control's continued expansion into new markets and broader segments of its
+existing markets.
+
+The decrease in Power and Process revenues was due to a decline in orders and
+sales from the process instrumentation business partially as a result of the
+Company's delay in releasing a new calibration product line which was completed
+and shipments started in May 2000. In addition, the decline was partially due to
+higher sales being achieved in fiscal year 1999 from customers purchasing
+upgrade products to comply with Year 2000 requirements which reduced their funds
+available for projects in our fiscal year 2000. At June 30, 2000, backlog for
+Power and Process orders was $11,522,000 which was 5% higher than at the end of
+the previous year. This reflects higher backlog for power instrumentation and
+systems automation products partially offset by a decreased backlog for process
+instrumentation products.
+
+Sales to international customers decreased 9% from $12,902,000, or 31% of sales,
+in fiscal 1999, to $11,779,000 or 26% of sales, in fiscal 2000 due to a decrease
+in sales of fault recording and maintenance products in foreign markets.
+
+Sales order backlog increased 30% from $18,260,000 at June 30, 1999 to
+$23,827,000 at June 30, 2000. Gross margin for fiscal 2000 increased to 38% from
+36% in fiscal 1999 due to increased sales volume and changes in the mix of
+products sold.
+
+Selling expenses decreased 6% from $6,852,000 in fiscal 1999 to $6,433,000 in
+fiscal 2000 resulting from savings due to the continued overall cost reduction
+efforts of the Company. General and administrative expenses increased 5% from
+$4,958,000 in fiscal 1999 to $5,194,000 in fiscal 2000 primarily due to bonuses
+paid to the management of profitable operations. Engineering and development
+expenses decreased 4% from $4,466,000 in 1999 to $4,274,000 in 2000.
+
+Amortization of intangibles and other assets decreased from $481,000 in 1999 to
+$83,000 in 2000. The decrease was primarily due to the $125,000 of amortization
+and $249,000 write-off in fiscal 1999 of the goodwill from the 1991 acquisition
+of Hathaway Systems Limited (HSL). This goodwill was fully written off in fiscal
+1999.
+
+Equity income from investments in joint ventures increased to $698,000 in fiscal
+2000 from $329,000 in fiscal 1999 due to the success of the joint ventures.
+
+In fiscal year 2000, the Company recognized a provision for income taxes of
+$129,000 compared to $208,000 in fiscal year 1999. The effective tax rate as a
+percentage of the income or loss before income taxes was a provision of 8% in
+fiscal 2000 and 16% in fiscal 1999. The difference is primarily due to the
+changes in the valuation allowance recorded against deferred tax assets. In
+fiscal 2000, the valuation allowance was decreased due to the utilization of net
+operating loss carryforwards, whereas in fiscal year 1999, the valuation
+allowance was increased due to the increase in net operating losses being
+carried forward. The reduction in the effective tax rate is also due to a
+decrease in nondeductible expenses and goodwill amortization.
+
+                                       7
+<Page>
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company's liquidity position as measured by cash and cash equivalents
+(excluding restricted cash) decreased $1,017,000 during the year to a balance of
+$1,911,000 at June 30, 2001. Operating activities generated $720,000, $817,000
+and $40,000 in fiscals 2001, 2000 and 1999, respectively.
+
+Cash of $715,000, $970,000 and $987,000 was used by investing activities in
+fiscal 2001, 2000 and 1999, respectively. The 1999 cash used for investing
+activities includes $281,000 net cash paid for the interest acquired in Ashurst.
+
+Financing activities used $768,000 in fiscal 2001 and generated $809,000 and
+$63,000 in fiscal years 2000 and 1999, respectively. During fiscal 2001,
+$1,124,000 in cash was used to pay down the line-of-credit. In fiscal 2000, cash
+was generated due to proceeds from the exercise of employee stock options, as
+well as increased net borrowings on the line-of-credit.
+
+At June 30, 2001, the Company had $553,000 of bank debt, compared with
+$1,546,000 at June 30, 2000, a decrease of $993,000. The debt at June 30, 2001
+represents borrowings on the Company's current long-term financing agreement
+(Agreement) with Silicon Valley Bank (Silicon). The Agreement matures on May 7,
+2002 and, accordingly, the $553,000 balance has been classified as a current
+liability as of June 30, 2001. The Agreement is subject to automatic and
+continuous annual renewal for successive additional terms of one year each
+unless either party notifies the other of its intention to terminate the
+Agreement at least sixty days before the next maturity date. Borrowings on the
+loan are restricted to the lesser of $3,000,000 or 85% of the Company's eligible
+receivables (Maximum Credit Limit). As of June 30, 2001, 85% of the Company's
+eligible receivables exceeded the maximum loan amount, therefore, the Company
+could borrow an additional $2,447,000 up to the Maximum Credit Limit of
+$3,000,000. Subsequent to June 30, 2001, the amount outstanding under the
+line-of-credit was repaid allowing the Company access to the full $3,000,000
+Maximum Credit Limit as of July 31, 2001.
+
+The line-of-credit bears interest at Silicon's prime borrowing rate (prime rate,
+6.75% at June 30, 2001) plus 1.5%. The interest rate is adjustable on a
+quarterly basis to prime rate plus 2% if the Company incurs a net loss greater
+than $750,000 in each previous twelve-month rolling period. In addition to
+interest, the loan bears a monthly unused line fee at 0.0625% of the Maximum
+Credit Limit less the average daily balance of the outstanding loan during a
+month. The unused line fee is also adjustable on a quarterly basis to 0.125% if
+the Company incurs a net loss greater than $750,000 in each previous
+twelve-month rolling period.
+
+The line-of-credit is secured by all assets of the Company. The Agreement
+prohibits the Company from paying dividends without prior approval and requires
+that the Company maintain compliance with certain covenants related to tangible
+net worth. At June 30, 2001, the Company was in compliance with such covenants.
+
+As in the three-year period ended June 30, 2001, the Company's fiscal 2002
+working capital, capital expenditure and debt service requirements are expected
+to be funded from cash provided by operations, the existing cash balance of
+$1,911,000 and the $2,447,000 available under the long-term financing agreement
+at June 30, 2001. The Company believes that such amounts are sufficient to fund
+operations and working capital needs for at least the next twelve months. As
+explained above, the Company's Agreement with Silicon matures on May 7, 2002 but
+will continue for successive additional terms of one year each unless either
+party gives notice of termination at least sixty days before the maturity date.
+The Company has not received notice of termination and does not anticipate
+receiving or giving such notice.
+
+PRICE LEVELS AND THE IMPACT OF INFLATION
+
+Prices of the Company's products have not increased significantly as a result of
+inflation during the past several years, primarily due to competition. The
+effect of inflation on the Company's costs of production has been minimized
+through production efficiencies and lower costs of materials. The Company
+anticipates that these factors will continue to minimize the effects of any
+foreseeable inflation and other price pressures from the industries in which it
+operates. As the Company's manufacturing activities mainly utilize semi-skilled
+labor, which is relatively plentiful in the areas surrounding the Company's
+production facilities, the Company does not anticipate substantial
+inflation-related increases in the wages of the majority of its employees.
+
+                                       8
+<Page>
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Market risk represents the risk of loss that may impact the financial position,
+results of operations or cash flows of the Company due to adverse changes in
+financial and commodity market prices and rates. The Company is exposed to
+market risk in the areas of changes in United States interest rates and changes
+in foreign currency exchange rates as measured against the United States dollar.
+These exposures are directly related to its normal operating and funding
+activities. Historically, and as of June 30, 2001, the Company has not used
+derivative instruments or engaged in hedging activities.
+
+INTEREST RATE RISK
+
+The interest payable on the Company's line-of-credit is variable based on the
+prime rate, and, therefore, affected by changes in market interest rates. The
+line-of-credit matures in May 2002 and is subject to automatic and continuous
+annual renewal for successive annual terms of one year each unless either party
+notifies the other of its intention to terminate the Agreement at least sixty
+days before the next maturity date. The Company manages interest rate risk by
+investing excess funds in cash equivalents bearing variable interest rates that
+are tied to various market indices. Additionally, the Company monitors interest
+rates frequently and has sufficient cash balances to pay off the line-of-credit
+should interest rates increase significantly. As a result, the Company does not
+believe that reasonably possible near-term changes in interest rates will result
+in a material effect on future earnings, fair values or cash flows of the
+Company.
+
+FOREIGN CURRENCY RISK
+
+The Company has wholly-owned subsidiaries located in Northern Ireland and
+England. Sales from these operations are typically denominated in British
+Pounds, thereby creating exposures to changes in exchange rates. The changes in
+the British/U.S. exchange rate may positively or negatively affect the Company's
+sales, gross margins, net income and retained earnings. The Company does not
+believe that reasonably possible near-term changes in exchange rates will result
+in a material effect on future earnings, fair values or cash flows of the
+Company, and therefore, has chosen not to enter into foreign currency hedging
+instruments. There can be no assurance that such an approach will be successful,
+especially in the event of a significant and sudden decline in the value of the
+British Pound.
+
+RECENTLY ISSUED ACCOUNTING STANDARDS
+
+Statement of Financial Accounting Standards (SFAS) No. 133, "Derivative
+Instruments and Hedging Activities," establishes accounting and reporting
+standards for derivative instruments, including certain derivative instruments
+embedded in other contracts, and for hedging activities. SFAS No. 133 requires
+that an entity recognize all derivatives as either assets or liabilities and
+measure those instruments at fair value. It also specifies the accounting for
+changes in the fair value of a derivative instrument depending on the intended
+use of the instrument and whether (and how) it is designated as a hedge. SFAS
+No. 133 was effective for all fiscal years beginning after June 15, 1999. During
+1999, the Financial Accounting Standards Board (FASB) issued Statement of
+Financial Accounting Standards No. 137, "Accounting for Derivative Instruments
+and Hedging Activities - Deferral of the Effective Date of SFAS No. 133," which
+delayed the effective date of SFAS No. 133 until all fiscal years beginning
+after June 15, 2000. Through June 30, 2001, the Company had not entered into any
+transactions involving derivative financial instruments included in the scope of
+SFAS No. 133, as amended, and, therefore, the adoption of SFAS No. 133 has had
+no financial statement impact.
+
+In December 1999, the Securities and Exchange Commission staff released Staff
+Accounting Bulletin (SAB) No. 101, "Revenue Recognition," to provide guidance on
+the recognition, presentation and disclosure of revenue in financial statements.
+The accounting and disclosures described in SAB No. 101 must be applied no later
+than the fourth fiscal quarter of the Company's fiscal year ending June 30,
+2001, retroactive to July 1, 2000. The adoption of SAB No. 101 has had no
+material impact on the Company's financial statements. However, implementation
+guidelines for this bulletin, as well as potential new pronouncements regarding
+revenue recognition, could result in unanticipated changes to the Company's
+current revenue recognition policies. These changes could affect the timing of
+the Company's future revenue recognition and results of operations.
+
+In June 2001, the Financial Accounting Standards Board (FASB) issued SFAS No.
+141, "Business Combinations." SFAS No. 141 requires that all business
+combinations be accounted for using the purchase method of accounting. The use
+of the pooling-of-interest method of accounting for business combinations is
+prohibited. The provisions of SFAS No. 141 apply to all business combinations
+initiated after June 30, 2001. The Company will account for any future business
+combinations in accordance with SFAS No. 141.
+
+                                       9
+<Page>
+
+In June 2001, the FASB issued SFAS No. 142, "Goodwill and Other Intangible
+Assets." SFAS No. 142 changes the accounting for goodwill and intangible assets
+and requires that goodwill no longer be amortized but be tested for impairment
+at least annually at the reporting unit level in accordance with SFAS No. 142.
+Goodwill must also be reviewed for impairment when certain events indicate that
+the goodwill may be impaired. Recognized intangible assets should, generally, be
+amortized over their useful life and reviewed for impairment in accordance with
+SFAS No. 121, "Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to Be Disposed Of." Because the Company is a noncalendar
+year-end company, the FASB has allowed adoption of SFAS No. 142 either in fiscal
+year 2002 or fiscal year 2003, except for provisions related to the
+nonamortization and amortization of goodwill and intangible assets acquired
+after June 30, 2001, which will be subject immediately to the provisions of SFAS
+No. 142. The Company will adopt SFAS No. 142 on July 1, 2002. The Company has
+not yet quantified the effects of adopting SFAS No. 142 on its financial
+position or results of operations.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+                                       10
+<Page>
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To Hathaway Corporation:
+
+We have audited the accompanying consolidated balance sheets of HATHAWAY
+CORPORATION (a Colorado corporation) AND SUBSIDIARIES as of June 30, 2001 and
+2000, and the related consolidated statements of operations, cash flows and
+stockholders' investment for each of the three fiscal years in the period ended
+June 30, 2001. These financial statements and the schedule referred to below are
+the responsibility of the Company's management. Our responsibility is to express
+an opinion on these financial statements and schedule based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Hathaway Corporation and
+subsidiaries as of June 30, 2001 and 2000, and the results of their operations
+and their cash flows for each of the three fiscal years in the period ended June
+30, 2001 in conformity with accounting principles generally accepted in the
+United States.
+
+Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole. The supplemental Schedule II is presented
+for purposes of complying with the Securities and Exchange Commission's rules
+and is not part of the basic financial statements. This schedule has been
+subjected to the auditing procedures applied in the audits of the basic
+financial statements and, in our opinion, fairly states in all material respects
+the financial data required to be set forth therein in relation to the basic
+financial statements taken as a whole.
+
+
+                                        /s/ ARTHUR ANDERSEN LLP
+
+Denver, Colorado,
+  July 27, 2001.
+
+
+                                       11
+<Page>
+
+                              HATHAWAY CORPORATION
+                           CONSOLIDATED BALANCE SHEETS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+<Table>
+<Caption>
+                                                                    JUNE 30, 2001     JUNE 30, 2000
+                                                                    -------------     -------------
+<S>                                                                 <C>               <C>
+ASSETS
+Current Assets:
+   Cash and cash equivalents                                           $  1,911          $  2,928
+   Restricted cash                                                          346               270
+   Trade receivables, net of allowance for doubtful accounts
+      of $496 and $530 at June 30, 2001 and 2000, respectively            7,708             7,976
+   Inventories, net                                                       4,931             4,550
+   Deferred income taxes                                                    229               601
+   Income tax refunds receivable, prepaid expenses and other                486               361
+                                                                       --------          --------
+Total Current Assets                                                     15,611            16,686
+Property and equipment, net                                               1,781             1,707
+Investment in joint ventures, net (Notes 3 and 11)                        2,459             1,482
+Other                                                                       352                62
+                                                                       --------          --------
+Total Assets                                                           $ 20,203          $ 19,937
+                                                                       ========          ========
+LIABILITIES AND STOCKHOLDERS' INVESTMENT
+Current Liabilities:
+   Line-of-credit (Note 4)                                             $    553          $  1,546
+   Accounts payable                                                       1,583             1,879
+   Accrued liabilities and other                                          3,345             3,854
+   Income taxes payable                                                     380               538
+   Product warranty reserve                                                 514               813
+                                                                       --------          --------
+Total Current Liabilities                                                 6,375             8,630
+
+Commitments and Contingencies
+
+Stockholders' Investment:
+   Preferred stock, par value $1.00 per share, authorized
+      5,000 shares; no shares outstanding                                    --                --
+   Common stock, at aggregate stated value, authorized
+      50,000 shares; 5,719 and 5,582 shares issued at
+      June 30, 2001 and 2000, respectively                                  100               100
+   Additional paid-in capital                                            11,230            10,594
+   Loans receivable for stock (Note 7)                                     (160)             (235)
+   Retained earnings                                                      6,787             4,791
+   Cumulative translation adjustments                                      (152)               34
+   Treasury stock, at cost; 1,122 shares                                 (3,977)           (3,977)
+                                                                       --------          --------
+Total Stockholders' Investment                                           13,828            11,307
+                                                                       --------          --------
+Total Liabilities and Stockholders' Investment                         $ 20,203          $ 19,937
+                                                                       ========          ========
+</Table>
+
+   The accompanying notes to consolidated financial statements are an integral
+                   part of these consolidated balance sheets.
+
+                                       12
+<Page>
+
+                              HATHAWAY CORPORATION
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+
+<Table>
+<Caption>
+                                                                 FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                               2001              2000              1999
+                                                             --------          --------          --------
+<S>                                                          <C>               <C>               <C>
+Revenues                                                     $ 48,386          $ 45,133          $ 41,691
+Cost of products sold                                          29,734            28,175            26,475
+                                                             --------          --------          --------
+Gross margin                                                   18,652            16,958            15,216
+
+Operating costs and expenses:
+   Selling                                                      6,174             6,433             6,852
+   General and administrative                                   5,551             5,194             4,958
+   Engineering and development                                  4,806             4,274             4,466
+   Restructuring charge (Note 9)                                  587                --                --
+   Amortization and other                                          57                83               481
+                                                             --------          --------          --------
+Total operating costs and expenses                             17,175            15,984            16,757
+                                                             --------          --------          --------
+Operating income (loss)                                         1,477               974            (1,541)
+
+Other income (expense), net:
+   Equity income from investments in joint
+        ventures (Notes 3 and 11)                               1,170               698               329
+   Interest and dividend income                                    90                69               111
+   Interest expense                                               (82)             (154)             (146)
+   Other (expense) income, net                                    (83)               17               (70)
+                                                             --------          --------          --------
+Total other income, net                                         1,095               630               224
+                                                             --------          --------          --------
+Income (loss) before income taxes                               2,572             1,604            (1,317)
+Provision for income taxes (Note 5)                              (576)             (129)             (208)
+                                                             --------          --------          --------
+Net income (loss)                                            $  1,996          $  1,475          $ (1,525)
+                                                             ========          ========          ========
+Basic net income (loss) per share (Note 1)                   $   0.44          $   0.34          $  (0.36)
+                                                             ========          ========          ========
+Diluted net income (loss) per share (Note 1)                 $   0.41          $   0.31          $  (0.36)
+                                                             ========          ========          ========
+Basic weighted average shares outstanding (Note 1)              4,493             4,341             4,283
+                                                             ========          ========          ========
+Diluted weighted average shares outstanding (Note 1)            4,834             4,785             4,283
+                                                             ========          ========          ========
+
+</Table>
+
+   The accompanying notes to consolidated financial statements are an integral
+                   part of these consolidated statements.
+
+
+                                       13
+<Page>
+
+                              HATHAWAY CORPORATION
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+                                                                     FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                                   2001             2000             1999
+                                                                  -------          -------          -------
+<S>                                                               <C>              <C>              <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income (loss)                                                 $ 1,996          $ 1,475          $(1,525)
+Adjustments to reconcile net income (loss) to net
+   cash provided by (used in) operating activities:
+   Depreciation and amortization                                      831              890            1,220
+   Provision for doubtful accounts                                    150              150               14
+   Equity income, net of dividends, from investments
+      in joint ventures (Notes 3 and 11)                             (977)            (559)            (208)
+   Deferred income tax provision                                      372               31              147
+   Other                                                              255             (144)            (195)
+   Changes in assets and liabilities, net of effect
+      in 1999 of purchase of Ashurst (Note 2):
+      (Increase) decrease in -
+        Restricted cash                                               (95)             377             (166)
+        Trade receivables                                              12           (1,661)              87
+        Inventories, net                                             (530)          (1,234)             333
+        Income tax refunds receivable, prepaid
+           expenses and other                                        (130)             182              183
+      Increase (decrease) in -
+        Accounts payable                                             (340)             309             (499)
+        Accrued liabilities and other                                (384)             899              408
+        Income taxes payable                                         (147)             (22)              27
+        Product service reserve                                      (293)             124              214
+                                                                  -------          -------          -------
+Net cash provided by (used in) operating activities                   720              817               40
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Purchase of property and equipment                                (908)            (827)            (792)
+   Purchase of Ashurst, net of cash acquired (Note 2)                  --               --             (281)
+   Activities related to joint venture investments,
+      net (Notes 3 and 11)                                             --             (282)             (35)
+                                                                  -------          -------          -------
+Net cash used in investing activities                                (908)          (1,109)          (1,108)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Repayments on line-of-credit                                    (1,117)             (65)            (150)
+   Borrowings on line-of-credit                                       124              303              213
+   Repayment on loan to employee stock ownership plan                  75               --               --
+   Sale of stock to employees through stock purchase plan              94               --               --
+   Proceeds from exercise of employee stock options                    55              575               --
+   Purchase of treasury stock                                          --               (4)              --
+                                                                  -------          -------          -------
+Net cash (used in) provided by financing activities                  (769)             809               63
+
+Effect of foreign exchange rate changes on cash                       (60)              (5)             (22)
+                                                                  -------          -------          -------
+Net (decrease) increase in cash and cash equivalents               (1,017)             512           (1,027)
+Cash and cash equivalents at beginning of year                      2,928            2,416            3,443
+                                                                  -------          -------          -------
+Cash and cash equivalents at end of year                          $ 1,911          $ 2,928          $ 2,416
+                                                                  =======          =======          =======
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+Net cash paid during the year for:
+   Interest                                                       $    94          $   152          $   123
+   Income taxes                                                       179               53             (153)
+Noncash investing and financing activities:
+   Assets of Ashurst purchased, net of liabilities
+      assumed and cash acquired (Note 2)                          $    --          $    --          $   281
+
+</Table>
+
+   The accompanying notes to consolidated financial statements are an integral
+                   part of these consolidated statements.
+
+                                       14
+<Page>
+
+                              HATHAWAY CORPORATION
+               CONSOLIDATED STATEMENTS OF STOCKHOLDERS' INVESTMENT
+                                 (IN THOUSANDS)
+
+<Table>
+<Caption>
+
+                                                                    LOANS
+                                      COMMON STOCK   ADDITIONAL  RECEIVABLE            CUMULATIVE                   TREASURY STOCK
+                                     --------------   PAID-IN    FOR STOCK   RETAINED  TRANSLATION  COMPREHENSIVE  ----------------
+                                     SHARES  AMOUNT   CAPITAL     (NOTE 7)   EARNINGS  ADJUSTMENTS  INCOME (LOSS)  SHARES   AMOUNT
+                                     ------  ------  ----------  ----------  --------  -----------  -------------  ------  --------
+<S>                                  <C>     <C>     <C>         <C>         <C>       <C>          <C>            <C>     <C>
+Balances, June 30, 1998               5,405  $  100   $  9,954    $  (235)   $  4,841    $   389                    1,122  $(3,973)
+  Foreign currency translation                                                              (235)      $  (235)
+  adjustment
+  Net loss                                                                     (1,525)                  (1,525)
+                                                                                                       -------
+  Comprehensive loss                                                                                   $(1,760)
+                                     ------  ------   --------    -------    --------    -------       =======     ------  -------
+Balances, June 30, 1999               5,405     100      9,954       (235)      3,316        154                    1,122   (3,973)
+  Purchase of treasury stock                                                                                                    (4)
+  Exercise of stock options             177                575
+  Tax benefit from disqualifying
+    stock dispositions                                      65
+  Foreign currency translation
+    adjustment                                                                              (120)      $  (120)
+  Net income                                                                    1,475                    1,475
+                                                                                                       -------
+  Comprehensive loss                                                                                   $ 1,355
+                                     ------  ------   --------    -------    --------    -------       =======     ------  -------
+Balances, June 30, 2000               5,582     100     10,594       (235)      4,791         34                    1,122   (3,977)
+  Exercise of stock options              29                 55
+  Tax benefit from disqualifying
+    stock dispositions                                     178
+  Shares issued to repurchase
+    subsidiary stock (Note 6)            76                309
+  Employee stock purchase plan           32                 94
+  Employee stock ownership plan                                        75
+  Foreign currency translation
+    adjustment                                                                              (186)      $  (186)
+  Net income                                                                    1,996                    1,996
+                                                                                                       -------
+  Comprehensive income                                                                                 $ 1,810
+                                     ------  ------   --------    -------    --------    -------       =======     ------  -------
+Balances, June 30, 2001               5,719  $  100   $ 11,230    $  (160)   $  6,787    $  (152)                   1,122  $(3,977)
+                                     ======  ======   ========    =======    ========    =======                   ======  =======
+</Table>
+
+   The accompanying notes to consolidated financial statements are an integral
+                   part of these consolidated statements.
+
+
+                                       15
+<Page>
+
+                              HATHAWAY CORPORATION
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.   BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     BUSINESS
+
+     Hathaway Corporation (the Company) is engaged in the business of designing,
+     manufacturing and selling advanced systems and instrumentation to the
+     worldwide power and process industries, as well as motion control products
+     to a broad spectrum of customers throughout the world. The Company operates
+     primarily in the United States and Europe and has joint venture investments
+     in China (Notes 3 and 11).
+
+     PRINCIPLES OF CONSOLIDATION
+
+     The accompanying consolidated financial statements include the accounts of
+     the Company and its wholly-owned subsidiaries. All significant intercompany
+     accounts and transactions are eliminated in consolidation.
+
+     Investments in joint ventures, in which the ownership is at least 20% but
+     less than 50%, are accounted for using the equity method (Note 3).
+
+     CASH AND CASH EQUIVALENTS
+
+     Cash and cash equivalents include instruments which are readily convertible
+     into cash (original maturities of three months or less) and which are not
+     subject to significant risk of changes in interest rates. Cash flows in
+     foreign currencies are translated using an average rate.
+
+     RESTRICTED CASH
+
+     Restricted cash consists of certificates of deposit that serve as
+     collateral for letters of credit issued on behalf of the
+     Company.
+
+     INVENTORIES
+
+     Inventories, valued at the lower of cost (first-in, first-out basis) or
+     market, are as follows (in thousands):
+
+<Table>
+<Caption>
+                                                  JUNE 30, 2001  JUNE 30, 2000
+                                                  -------------  -------------
+<S>                                               <C>            <C>
+     Parts and raw materials, net                    $3,251         $2,827
+     Finished goods and work-in-process, net          1,680          1,723
+                                                     ------         ------
+                                                     $4,931         $4,550
+                                                     ======         ======
+
+</Table>
+
+     Reserves established for anticipated losses on excess or obsolete
+     inventories were approximately $1,844,000 and $1,900,000 at June 30, 2001
+     and 2000, respectively.
+
+     PROPERTY AND EQUIPMENT
+
+     Property and equipment is classified as follows (in thousands):
+
+<Table>
+<Caption>
+                                                       USEFUL LIVES     JUNE 30, 2001     JUNE 30, 2000
+                                                       ------------     -------------     -------------
+<S>                                                    <C>              <C>               <C>
+     Machinery, equipment, tools and dies                2-8 years        $   5,987         $   8,233
+     Furniture, fixtures and other                      3-10 years            2,839             1,350
+                                                                          ---------         ---------
+                                                                              8,826             9,583
+     Less accumulated depreciation and amortization                          (7,045)           (7,876)
+                                                                          ---------         ---------
+                                                                          $   1,781         $   1,707
+                                                                          =========         =========
+</Table>
+
+     Depreciation and amortization expense is provided using the straight-line
+     method over the estimated useful lives of the assets. Maintenance and
+     repair costs are charged to operations as incurred. Major additions and
+     improvements are capitalized. The cost and related accumulated depreciation
+     of retired or sold property are removed from the accounts and any resulting
+     gain or loss is reflected in earnings.
+
+     Depreciation expense was approximately $774,000, $807,000 and $788,000 in
+     fiscal years 2001, 2000 and 1999, respectively.
+
+                                       16
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+1.   BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+     IMPAIRMENT OF LONG-LIVED ASSETS AND INTANGIBLES
+
+     The Company reviews its long-lived assets for impairment whenever events or
+     changes in circumstances indicate that the carrying amount of an asset may
+     not be recoverable. For assets that are held and used in operations, the
+     asset would be considered to be impaired if the undiscounted future cash
+     flows related to the asset did not exceed its net book value. The amount of
+     the impairment is assessed using the assets' fair market value, which is
+     estimated using discounted cash flows.
+
+     As a result of its acquisition of Hathaway Systems Limited (HSL) in 1991,
+     the Company had previously recorded goodwill of $1,197,000. At June 30,
+     1999 and in accordance with Statement of Financial Accounting Standards
+     (SFAS) No. 121, "Accounting for the Impairment of Long-Lived Assets and for
+     Long-Lived Assets to be Disposed of," the Company determined that the
+     unamortized cost in excess of net assets acquired from its acquisition of
+     HSL was impaired; and, therefore, wrote off the remaining unamortized
+     balance of $249,000. The Company's determination was based on projections
+     of undiscounted cash flows of HSL, which were reflective of then current
+     marketplace conditions, low orders and continuing losses. Such undiscounted
+     cash flow estimates were not sufficient to indicate realization of the
+     related unamortized cost in excess of net assets acquired. Utilizing such
+     projections and discounting the estimated cash flows, the Company
+     determined that the entire unamortized amount was impaired. Fiscal year
+     1999 amortization of $125,000 and impairment write-off of $249,000,
+     totaling $374,000, is included in amortization of intangibles and other in
+     the fiscal year 1999 consolidated statement of operations.
+
+     ACCRUED LIABILITIES
+
+     Accrued liabilities consist of the following (in thousands):
+
+<Table>
+<Caption>
+                                             JUNE 30, 2001     JUNE 30, 2000
+                                             -------------     -------------
+<S>                                          <C>               <C>
+     Compensation and fringe benefits            $1,617            $1,863
+     Deferred revenue                               621               800
+     Commissions                                    552               596
+     Other accrued expenses                         555               595
+                                                 ------            ------
+                                                 $3,345            $3,854
+                                                 ======            ======
+</Table>
+
+     FOREIGN CURRENCY TRANSLATION
+
+     In accordance with SFAS No. 52, "Foreign Currency Translation," the assets
+     and liabilities of the Company's foreign subsidiaries are translated into
+     U.S. dollars using current exchange rates. Revenues and expenses are
+     translated at average rates prevailing during the period. The resulting
+     translation adjustments are recorded in the cumulative translation
+     adjustments component of stockholders' investment in the accompanying
+     consolidated balance sheets. Transaction gains and losses that arise from
+     exchange rate fluctuations on transactions denominated in a currency other
+     than the functional currency are included in the results of operations as
+     incurred.
+
+     REVENUE RECOGNITION
+
+     Hathaway Industrial Automation (HIA), a wholly-owned subsidiary of the
+     Company, undertakes contracts for the installation of integrated process
+     control systems which are based upon its proprietary software. These
+     contracts typically require substantial customization of this proprietary
+     software. Accordingly, in accordance with Statement of Position (SOP) 97-2,
+     "Software Revenue Recognition," the Company recognizes contract revenues by
+     applying the percentage of completion achieved to the total contract sales
+     price. The Company determines the percentage of completion for all
+     contracts using the "cost-to-cost" method of measuring contract progress.
+     Under this method, actual contract costs incurred to date are compared to
+     total estimated contract costs to determine the estimated percentage of
+     revenues to be recognized. To the extent these estimates prove to be
+     inaccurate, the revenues and gross margins, if any, reported for the period
+     during which work on the contract is ongoing may not accurately reflect the
+     final results of the contract, which can only be determined upon contract
+     completion. Provisions for estimated losses on uncompleted contracts, to
+     the full extent of the estimated loss, are made during the period in which
+     the Company first becomes aware that a loss on a contract is probable. The
+     Company's other businesses generally recognize revenue when products are
+     delivered, persuasive evidence of an arrangement exists, selling price is
+     fixed, and collectibility is reasonably assured.
+
+                                       17
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+1.   BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+     BASIC AND DILUTED INCOME PER SHARE
+
+     Basic income (loss) per share is computed by dividing net income or loss by
+     the weighted average number of shares of common stock outstanding. Diluted
+     income or loss per share is determined by dividing the net income or loss
+     by the sum of (1) the weighted average number of common shares outstanding
+     and (2) if not anti-dilutive, the effect of stock options determined
+     utilizing the treasury stock method. Outstanding options that were
+     determined to have a dilutive effect totaled 341,962 and 444,316 for fiscal
+     years 2001 and 2000, respectively. In fiscal year 1999, stock options to
+     purchase 819,004 shares of common stock (without regard to the treasury
+     stock method), were excluded from the calculation of diluted loss per share
+     since the results would have been anti-dilutive.
+
+     Basic income (loss) per share have been computed as follows (in thousands,
+     except per share data):
+
+<Table>
+<Caption>
+                                                            FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                           2001            2000            1999
+                                                         -------         -------         -------
+<S>                                                      <C>             <C>             <C>
+     Numerator:
+             Net income (loss)                           $ 1,996         $ 1,475         $(1,525)
+     Denominator:
+             Weighted average outstanding shares           4,493           4,341           4,283
+                                                         -------         -------         -------
+     Basic net income (loss) per share                   $  0.44         $  0.34         $ (0.36)
+                                                         =======         =======         =======
+</Table>
+
+     Diluted income (loss) per share have been computed as follows (in
+     thousands, except per share data):
+
+<Table>
+<Caption>
+                                                           FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                          2001            2000            1999
+                                                         -------         -------         -------
+<S>                                                      <C>             <C>             <C>
+     Numerator:
+             Net income (loss)                           $ 1,996         $ 1,475         $(1,525)
+     Denominator:
+             Weighted average outstanding shares           4,834           4,785           4,283
+                                                         -------         -------         -------
+     Diluted net income (loss) per share                 $  0.41         $  0.31         $ (0.36)
+                                                         =======         =======         =======
+</Table>
+
+     COMPREHENSIVE INCOME
+
+     Comprehensive income is defined as the change in equity of a business
+     enterprise during a period from transactions and other events and
+     circumstances from non-owner sources. It includes all changes in equity
+     during a period except those resulting from investments by and
+     distributions to shareholders. Items of comprehensive income for all years
+     presented are limited to cumulative translation adjustments from the
+     translation of the financial statements of the Company's foreign
+     subsidiaries.
+
+     STOCK-BASED COMPENSATION
+
+     The Company accounts for its employee stock option plans and other employee
+     stock-based compensation arrangements in accordance with the provisions of
+     Accounting Principles Board (APB) Opinion No. 25, "Accounting for Stock
+     Issued to Employees" and related interpretations. The Company adopted the
+     disclosure-only provisions of SFAS No. 123, "Accounting for Stock-Based
+     Compensation," which allows entities to continue to apply the provisions of
+     APB Opinion No. 25 for transactions with employees and provide pro-forma
+     disclosures for employee stock awards made in 1997 and future years as if
+     the fair value-based method of accounting in SFAS No. 123 had been applied
+     to these transactions. The Company accounts for equity instruments issued
+     to non-employees in accordance with the provisions of SFAS No. 123 and
+     related interpretations.
+
+     FAIR VALUES OF FINANCIAL INSTRUMENTS
+
+     The carrying amounts reported in the consolidated balance sheets for cash
+     and cash equivalents, restricted cash, trade receivables, accounts payable
+     and accrued liabilities approximate fair value because of the immediate or
+     short-term maturities of these financial instruments. The carrying amount
+     of the line-of-credit approximates fair value because the underlying
+     instrument is a variable rate note that reprices frequently.
+
+                                       18
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+1.   BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+     INCOME TAXES
+
+     The current provision for income taxes represents actual or estimated
+     amounts payable or refundable on tax return filings each year. Deferred tax
+     assets and liabilities are recorded for the estimated future tax effects of
+     temporary differences between the tax basis of assets and liabilities and
+     amounts reported in the accompanying balance sheets, and for operating loss
+     and tax credit carryforwards. A valuation allowance may be provided to the
+     extent deemed more likely than not that deferred tax assets will not be
+     realized. The change in deferred tax assets and liabilities for the period
+     measures the deferred tax provision or benefit for the period. Effects of
+     changes in enacted tax laws on deferred tax assets and liabilities are
+     reflected as adjustments to the tax provision or benefit in the period of
+     enactment. The ultimate realization of net deferred tax assets is dependent
+     upon the generation of future taxable income, in the appropriate taxing
+     jurisdictions, during the periods in which temporary differences become
+     deductible. Management believes that it is more likely than not that the
+     Company will realize the benefits of these deductible differences, net of
+     valuation allowances as of June 30, 2001.
+
+     CONCENTRATION OF CREDIT RISK
+
+     During fiscal 2001, 2000 and 1999, no single customer accounted for more
+     than 10% of the Company's consolidated revenue from continuing operations
+     or its trade receivables balance. Trade receivables subject the Company to
+     the potential for credit risk. To reduce this risk, the Company performs
+     evaluations of its customers' financial condition, when necessary.
+
+     USE OF ESTIMATES
+
+     The preparation of financial statements in accordance with accounting
+     principles generally accepted in the United States requires management to
+     make certain estimates and assumptions. Such estimates and assumptions
+     affect the reported amounts of assets and liabilities as well as disclosure
+     of contingent assets and liabilities at the date of the consolidated
+     financial statements and the reported amounts of revenues and expenses
+     during the reporting period. Actual results could differ from those
+     estimates.
+
+     RECENTLY ISSUED ACCOUNTING STANDARDS
+
+     SFAS No. 133, "Derivative Instruments and Hedging Activities," establishes
+     accounting and reporting standards for derivative instruments, including
+     certain derivative instruments embedded in other contracts, and for hedging
+     activities. SFAS No. 133 requires that an entity recognize all derivatives
+     as either assets or liabilities and measure those instruments at fair
+     value. It also specifies the accounting for changes in the fair value of a
+     derivative instrument depending on the intended use of the instrument and
+     whether (and how) it is designated as a hedge. SFAS No. 133 was effective
+     for all fiscal years beginning after June 15, 1999. During 1999, the
+     Financial Accounting Standards Board (FASB) issued SFAS No. 137,
+     "Accounting for Derivative Instruments and Hedging Activities - Deferral of
+     the Effective Date of SFAS No. 133," which delayed the effective date of
+     SFAS No. 133 until all fiscal years beginning after June 15, 2000. Through
+     June 30, 2001, the Company had not entered into any transactions involving
+     derivative financial instruments falling within the scope of SFAS No. 133,
+     as amended, and, therefore, the adoption of SFAS No. 133 has had no
+     financial statement impact.
+
+     In December 1999, the Securities and Exchange Commission staff released
+     Staff Accounting Bulletin (SAB) No. 101, "Revenue Recognition," to provide
+     guidance on the recognition, presentation and disclosure of revenue in
+     financial statements. The accounting and disclosures described in SAB No.
+     101 must be applied no later than the fourth fiscal quarter of the
+     Company's fiscal year ending June 30, 2001, retroactive to July 1, 2000.
+     The adoption of SAB No. 101 has had no material impact on the Company's
+     financial statements. However, implementation guidelines for this bulletin,
+     as well as potential new pronouncements regarding revenue recognition,
+     could result in unanticipated changes to the Company's current revenue
+     recognition policies. These changes could affect the timing of the
+     Company's future revenue recognition and results of operations.
+
+     In June 2001, the FASB issued SFAS No. 141, "Business Combinations." SFAS
+     No. 141 requires that all business combinations be accounted for using the
+     purchase method of accounting. The use of the pooling-of-interest method of
+     accounting for business combinations is prohibited. The provisions of SFAS
+     No. 141 apply to all business combinations initiated after June 30, 2001.
+     The Company will account for any future business combinations in accordance
+     with SFAS No. 141.
+
+                                       19
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+1.   BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+     In June 2001, the FASB issued SFAS No. 142, "Goodwill and Other Intangible
+     Assets." SFAS No. 142 changes the accounting for goodwill and intangible
+     assets and requires that goodwill no longer be amortized but be tested for
+     impairment at least annually at the reporting unit level in accordance with
+     SFAS No. 142. Goodwill must also be reviewed for impairment when certain
+     events indicate that the goodwill may be impaired. Recognized intangible
+     assets should, generally, be amortized over their useful life and reviewed
+     for impairment in accordance with SFAS No. 121. Because the Company is a
+     noncalendar year-end company, the FASB has allowed adoption of SFAS No. 142
+     either in fiscal year 2002 or fiscal year 2003, except for provisions
+     related to the nonamortization and amortization of goodwill and intangible
+     assets acquired after June 30, 2001, which will be subject immediately to
+     the provisions of SFAS No. 142. The Company will adopt SFAS No. 142 on July
+     1, 2002. The Company has not yet quantified the effects of adopting SFAS
+     No. 142 on its financial position or results of operations.
+
+     RECLASSIFICATIONS
+
+     Certain prior year balances were reclassified to conform to the current
+     year presentation. Those reclassifications had no impact on net income or
+     stockholders' investment as previously reported.
+
+2.   BUSINESS ACQUISITION
+
+     Effective July 1, 1998, a wholly-owned subsidiary of the Company acquired
+     all the outstanding shares of Ashurst Logistic Electronics Limited of
+     Bournemouth, England (Ashurst) for $317,000 in cash. Ashurst manufactures
+     drive electronics and position controllers for a variety of motor
+     technologies as well as a family of static frequency converters for
+     military and aerospace applications and has extensive experience in power
+     electronics design and software development required for the application of
+     specialized drive electronics technology. The acquired company was renamed
+     Emoteq UK Limited.
+
+     The acquisition was accounted for using the purchase method of accounting,
+     and, accordingly, the purchase price was allocated to the assets purchased
+     and the liabilities assumed based upon the estimated fair values at the
+     date of acquisition. The final net purchase price allocation was as follows
+     (in thousands):
+
+<Table>
+<S>                                                <C>
+     Cash                                          $  36
+     Trade receivables                               190
+     Prepaid expenses                                  2
+     Property and equipment, net                      25
+     Cost in excess of net assets acquired           195
+     Accounts payable                                (43)
+     Accrued liabilities and other                   (88)
+                                                   -----
+     Net purchase price                            $ 317
+                                                   =====
+</Table>
+
+     The results of operations of Ashurst have been included in the Company's
+     fiscal 1999 consolidated statement of operations starting on July 1, 1998.
+
+3.   INVESTMENTS IN JOINT VENTURES
+
+     Through July 5, 2001, the Company had three joint venture investments in
+     China - a 20% interest in Hathaway Si Fang Protection and Control Company,
+     Ltd. (Si Fang), a 25% interest in Zibo Kehui Electric Company Ltd. (Kehui)
+     and a 40% interest Hathaway Power Monitoring Systems Company, Ltd. (HPMS).
+     Si Fang designs, manufactures and sells a new generation of digital
+     protective relays, control equipment and instrumentation products for
+     substations in power transmission and distribution systems in China and is
+     now the largest Chinese supplier of digital relays in China. Kehui designs,
+     manufactures and sells cable and overhead fault location products,
+     Supervisory Control and Data Acquisition (SCADA) systems and other test
+     instruments within the China market and the Company may sell these products
+     outside of China. HPMS manufactures and sells, under a license from the
+     Company, instrumentation products designed by the Company to electric power
+     companies in China.
+
+                                       20
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+3.   INVESTMENTS IN JOINT VENTURES (CONTINUED)
+
+     The Company accounts for its investments in the Chinese joint ventures
+     using the equity method of accounting. At the time of the original
+     investments in the Chinese joint ventures and until the beginning of fiscal
+     1998, the Company determined that due to the start-up nature of the
+     entities, their untested products and political uncertainty in China, the
+     realization of the initial investments and subsequent earnings (which were
+     not significant) was uncertain; and, therefore, the Company wrote down its
+     investments in these joint ventures to their then-estimated fair value.
+
+     The operations of these joint ventures have continued to mature, their
+     products have gained significant acceptance, and they have achieved
+     profitability. Because of sustained positive operating results, offset by
+     the Company's concerns of political and business uncertainty in China, the
+     Company recognized a portion of its share of equity in income from these
+     joint ventures, totaling $1,170,000, $698,000 and $329,000 in fiscal years
+     2001, 2000 and 1999, respectively. These amounts are included in equity
+     income from investments in joint ventures in the accompanying consolidated
+     statements of operations and reflect the Company's share of earnings, net
+     of writedowns, from the joint ventures' operating results for the years
+     ended December 31. The Company will continue to recognize its share of
+     equity in income (loss) from these joint ventures to the extent it believes
+     such amounts are realizable.
+
+     At June 30, 2001, the Company's investments and ownership interests in
+     these joint ventures are as follows (in thousands):
+
+<Table>
+<Caption>
+                                                      Cumulative
+                                     Investment,    Share of Income   Cumulative                        Balance at
+                        Ownership      Net of         (Through        Dividends        Cumulative        June 30,
+                        Interest       Sales        Dec. 31, 2000)     Received        Writedowns          2001
+                        --------     -----------    ---------------   ----------       ----------       ----------
+<S>                     <C>          <C>            <C>               <C>              <C>              <C>
+     Si Fang              20%         $   642          $ 2,625          $  (453)         $  (484)         $ 2,330
+     Kehui                25%             100              331              (28)            (298)             105
+     HPMS                 40%             140              101               --             (217)              24
+                                      -------          -------          -------          -------          -------
+                                      $   882          $ 3,057          $  (481)         $  (999)         $ 2,459
+                                      =======          =======          =======          =======          =======
+</Table>
+
+     The Company has no future commitments relating to its investments in these
+     joint ventures.
+
+     Summarized financial information for Si Fang as of December 31, 2000, 1999
+     and 1998 (Si Fang is on a calendar fiscal year) is presented as follows (in
+     thousands):
+
+<Table>
+<Caption>
+                                                As of and             As of and             As of and
+                                           For the Year Ended    For the Year Ended    For the Year Ended
+                                            December 31, 2000     December 31, 1999     December 31, 1998
+                                           ------------------    ------------------    ------------------
+<S>                                        <C>                   <C>                   <C>
+     Current assets                               $34,722               $25,539               $16,864
+     Non-current assets                            14,869                 4,785                 1,745
+     Current liabilities                           27,596                20,239                14,752
+     Non-current liabilities                        6,024                    --                    --
+     Revenues                                      48,363                32,959                16,502
+     Gross margin                                  12,736                 6,834                 4,047
+     Net income before income taxes                 6,291                 3,940                 1,706
+     Net income                                     5,580                 3,352                 1,367
+</Table>
+
+     Summarized financial information for Kehui and for HPMS is not presented
+     because it is not significant relative to the Company's consolidated
+     financial statements.
+
+     During fiscal 1999, the Company sold 2% of its ownership interest in Si
+     Fang for $57,000 in cash and recognized a $49,000 gain on the sale, which
+     is included in other income in the accompanying fiscal year 1999
+     consolidated statement of operations. The Company reinvested the proceeds
+     from the sale plus an additional $35,000 in cash to maintain its 23%
+     ownership interest due to a capital call by the joint venture.
+
+                                       21
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+3.   INVESTMENTS IN JOINT VENTURES (CONTINUED)
+
+     During fiscal 2000, the Company sold a portion of its investment in Si Fang
+     to another partner in the joint venture, reducing its ownership from 23% to
+     20%. The Company received $143,000 and recognized a $126,000 gain on the
+     sale. The gain is included in other income in the accompanying consolidated
+     statement of operations. The Company reinvested the proceeds from the sale
+     plus an additional $282,000 in cash to maintain its 20% ownership interest
+     due to a capital call by the joint venture.
+
+     On July 5, 2001, the Company sold its equity interest in Si Fang (Note 11).
+
+4.   DEBT
+
+     On May 7, 1998, the Company entered into a long-term financing agreement
+     (Agreement) with Silicon Valley Bank (Silicon). The Agreement matures on
+     May 7, 2002 and, accordingly, the $553,000 balance of the line-of-credit
+     has been classified as a current liability as of June 30, 2001. The
+     Agreement is subject to automatic and continuous annual renewal for
+     successive additional terms of one year each unless either party notifies
+     the other of its intention to terminate the Agreement at least sixty days
+     before the next maturity date. Borrowings on this line-of-credit are
+     restricted to the lesser of $3,000,000 or 85% of the Company's eligible
+     receivables (Maximum Credit Limit). As of June 30, 2001, 85% of the
+     Company's eligible receivables exceeded the maximum loan amount; therefore
+     the Company could borrow an additional $2,447,000 up to the $3,000,000
+     Maximum Credit Limit.
+
+     The line-of-credit bears interest at Silicon's prime borrowing rate (prime
+     rate, 6.75% at June 30, 2001) plus 1.5%. The interest rate is adjustable on
+     a quarterly basis to prime rate plus 2% if the Company incurs a net loss
+     greater than $750,000 for each previous twelve-month rolling period. In
+     addition to interest, the line bears a monthly unused line fee at 0.0625%
+     of the Maximum Credit Limit less the average daily balance of the
+     outstanding loan during a month. The unused line fee is also adjustable on
+     a quarterly basis to 0.125% if the Company incurs a net loss greater than
+     $750,000 for each previous twelve-month rolling period. The debt is secured
+     by all assets of the Company. The Agreement requires that the Company
+     maintain compliance with certain covenants related to tangible net worth
+     and prohibits the Company from paying dividends without prior approval.
+
+5.   INCOME TAXES
+
+     The benefit (provision) for income taxes is based on income (loss) before
+     income taxes as follows (in thousands):
+
+<Table>
+<Caption>
+                                                 FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                 2001            2000            1999
+                                               -------         -------          -------
+<S>                                            <C>             <C>              <C>
+     Domestic                                  $ 2,231         $ 1,918          $(1,065)
+     Foreign                                       341            (314)            (252)
+                                               -------         -------          -------
+     Income (loss) before income taxes         $ 2,572         $ 1,604          $(1,317)
+                                               =======         =======          =======
+
+</Table>
+
+     Components of the provision for income taxes are as follows (in thousands):
+
+<Table>
+<Caption>
+                                           FOR THE FISCAL YEARS ENDED JUNE 30,
+                                           2001          2000           1999
+                                           -----         -----          -----
+<S>                                        <C>           <C>            <C>
+     Current provision (benefit):
+        Domestic                           $ 204         $ 117          $  61
+        Foreign                               --           (19)            --
+                                           -----         -----          -----
+     Total current provision                 204            98             61
+     Deferred provision - domestic           372            31            147
+                                           -----         -----          -----
+     Provision for income taxes            $ 576         $ 129          $ 208
+                                           =====         =====          =====
+</Table>
+
+                                       22
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+5.   INCOME TAXES (CONTINUED)
+
+     The provision for income taxes differs from the amount determined by
+     applying the federal statutory rate as follows (in thousands):
+
+<Table>
+<Caption>
+                                                                FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                                2001           2000           1999
+                                                                -----          -----          -----
+<S>                                                             <C>            <C>            <C>
+     Tax provision (benefit) computed at statutory rate         $ 874          $ 545          $(448)
+     State tax, net of federal benefit                             87             99             36
+     Nondeductible expenses and goodwill amortization             119             14            145
+     Adjustments to prior year accruals*                         (312)            --             --
+     Change in valuation allowance                               (186)          (561)           497
+     Other                                                         (6)            32            (22)
+                                                                -----          -----          -----
+     Provision for income taxes                                 $ 576          $ 129          $ 208
+                                                                =====          =====          =====
+</Table>
+
+     * Adjustments relate to the successful resolution of certain income tax
+     related issues.
+
+     The tax effects of significant temporary differences and credit and
+     operating loss carryforwards that give rise to the net deferred tax assets
+     are as follows (in thousands):
+
+<Table>
+<Caption>
+                                                   JUNE 30, 2001    JUNE 30, 2000
+                                                   -------------    -------------
+<S>                                                <C>              <C>
+     Allowances and other accrued liabilities         $   983          $ 1,008
+     Investment in joint ventures                        (530)            (198)
+     Tax credit carryforwards                             236              376
+     Net operating loss carryforwards                      14               75
+     Valuation allowance                                 (474)            (660)
+                                                      -------          -------
+     Net deferred tax asset                           $   229          $   601
+                                                      =======          =======
+</Table>
+
+     The Company was entitled to a deduction for tax purposes related to the
+     exercise of employee stock options during fiscal 2000 that resulted in a
+     domestic operating loss carryforward for tax purposes. The carryforward
+     balance at June 30, 2001 is $364,000 and will expire in 2019. A benefit for
+     income taxes will not be recorded upon realization of the operating loss
+     carryforward. The Company also has domestic tax credit carryforwards of
+     $334,000 expiring in 2004 through 2008 and foreign advance corporation tax
+     of $40,000 available which may be utilized to reduce future foreign taxes
+     due.
+
+     Realization of the Company's net deferred tax asset is dependent upon the
+     Company generating sufficient taxable income in future years to obtain
+     benefit from the reversal of net deductible temporary differences and from
+     tax credit carryforwards. The Company has recorded a valuation allowance
+     due to the uncertainty related to the realization of certain deferred tax
+     assets existing at June 30, 2001. The amount of deferred tax assets
+     considered realizable is subject to adjustment in future periods if
+     estimates of future taxable income are changed. Management believes that it
+     is more likely than not that the Company will realize the benefits of the
+     net deferred tax asset, net of valuation allowances as of June 30, 2001.
+
+6.   STOCK COMPENSATION
+
+     HATHAWAY CORPORATION STOCK OPTION PLAN
+
+     At June 30, 2001, 303,732 shares of common stock were available for grant
+     under the Company's stock option plans. Under the terms of the plans,
+     options may not be granted at less than 85% of fair market value. However,
+     all options granted to date have been granted at fair market value as of
+     the date of grant. Options generally become exercisable evenly over three
+     years starting one year from the date of grant and expire seven years from
+     the date of grant.
+
+     In conjunction with the acquisition of HIA during fiscal 1997, the Company
+     granted options for 125,000 shares of the Company's common stock to certain
+     key management personnel of HIA with accelerated vesting schedules
+     dependent on meeting certain performance criteria. At June 30, 2001,
+     options to purchase 54,000 shares remain outstanding. The options vest
+     during fiscal 2004.
+
+                                       23
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+6.   STOCK COMPENSATION (CONTINUED)
+
+     Option activity in fiscal years 1999, 2000 and 2001 was as follows:
+
+<Table>
+<Caption>
+                                                               WEIGHTED                       WEIGHTED
+                                                               AVERAGE       NUMBER OF        AVERAGE
+                                           NUMBER OF          EXERCISE        SHARES          EXERCISE
+                                            SHARES            PRICE ($)     EXERCISABLE       PRICE ($)
+                                           ---------          --------      -----------       ---------
+<S>                                        <C>                <C>           <C>                <C>
+     Outstanding at June 30, 1998            648,204             3.35         303,138            3.36
+        Granted                              249,104             1.71
+        Canceled or forfeited                (78,304)            3.18
+                                           ---------
+     Outstanding at June 30, 1999            819,004             2.87         371,866            3.36
+        Granted                              164,000             1.81
+        Canceled or forfeited               (144,400)            3.48
+        Exercised                           (177,101)            3.25
+                                           ---------
+     Outstanding at June 30, 2000            661,503             2.37         410,800            2.49
+        Granted                              452,700             5.43
+        Canceled or forfeited                (32,936)            3.75
+        Exercised                            (28,630)            1.93
+                                           ---------
+     Outstanding at June 30, 2001          1,052,637             3.66         460,857            2.36
+                                           =========
+</Table>
+
+     Exercise prices for options outstanding and exercisable at June 30, 2001
+     are as follows:
+
+<Table>
+<Caption>
+                                                              RANGE OF EXERCISE PRICES                    TOTAL
+                                                              ------------------------                    -----
+                                                $1.13 - $2.13     $2.66 - $3.88      4.31 - $6.72     $1.13 - $6.72
+                                                -------------     -------------     -------------     -------------
+<S>                                             <C>               <C>               <C>               <C>
+     Options Outstanding:
+       Number of options                           346,467             251,670           454,500         1,052,637
+       Weighted average exercise price              $ 1.73              $ 3.18            $ 5.39            $ 3.66
+       Weighted average remaining
+         contractual life                        4.5 years           2.9 years         6.2 years         4.8 years
+     Options Exercisable:
+       Number of options                           258,467             188,890            13,500           460,857
+       Weighted average exercise price              $ 1.78              $ 3.01            $ 4.31            $ 2.36
+</Table>
+
+     Pro forma information regarding net income (loss) and income (loss) per
+     share is required by SFAS No. 123 and has been determined as if the Company
+     had accounted for its stock-based compensation plans using the fair value
+     method prescribed by that statement. The fair value for these options was
+     estimated at the date of grant using the Black-Scholes option pricing model
+     with the following weighted average assumptions:
+
+<Table>
+<Caption>
+                                     FOR THE FISCAL YEARS ENDED JUNE 30,
+                                       2001         2000          1999
+                                     -------       -------       -------
+<S>                                  <C>           <C>           <C>
+     Risk-free interest rate            5.9%          6.7%          6.3%
+     Expected dividend yield            0.0%          0.0%          0.0%
+     Expected life                   6 years       6 years       6 years
+     Expected volatility               89.5%         81.9%         60.8%
+</Table>
+
+     Using the fair value method of SFAS No. 123, the net income (loss) and net
+     income (loss) per share would have been adjusted to the pro forma amounts
+     indicated below (in thousands, except per share data):
+
+<Table>
+<Caption>
+                                                                FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                             2001              2000               1999
+                                                           ---------         ---------         ---------
+<S>                                                        <C>               <C>               <C>
+     Actual net income (loss)                              $   1,996         $   1,475         $  (1,525)
+     Pro forma net income (loss)                           $   1,364         $   1,444         $  (1,702)
+
+     Actual basic net income (loss) per share              $    0.44         $    0.34         $   (0.36)
+     Pro forma basic net income (loss) per share           $    0.30         $    0.33         $   (0.40)
+
+     Actual diluted net income (loss) per share            $    0.41         $    0.31         $   (0.36)
+     Pro forma diluted net income (loss) per share         $    0.28         $    0.30         $   (0.40)
+</Table>
+
+                                       24
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+6.   STOCK COMPENSATION (CONTINUED)
+
+     The weighted average fair value of options granted during fiscal years
+     2001, 2000 and 1999 was $4.19, $0.79 and $1.07, respectively. The total
+     fair value of options granted was $1,897,000, $130,000 and $266,000 in
+     fiscal years 2001, 2000 and 1999, respectively. These amounts are being
+     amortized ratably over the vesting periods of the options for purposes of
+     this disclosure.
+
+     EMOTEQ CORPORATION STOCK OPTION PLAN
+
+     Prior to fiscal year 2001, the Company had granted options for shares of
+     common stock of Emoteq Corporation (Emoteq, a wholly-owned subsidiary) to
+     officers and key employees of Emoteq. The options were granted with
+     exercise prices equal to the fair value of the underlying common stock on
+     the date of grant, and consisted of time vesting options and performance
+     vesting options. During fiscal year 2001 all of the outstanding (and also
+     fully vested) stock options were exercised and 223,636 shares of Emoteq
+     common stock, representing 12% ownership of Emoteq, were issued. Proceeds
+     to the Company from the exercises totaled $498,000. Under the terms of the
+     Emoteq stock option plan and the related stockholders' agreements, the
+     stockholders had a liquidity put option that they could exercise only after
+     owning the stock for at least six months. If the holder of the shares
+     elected this put option, the Company would be required to purchase the
+     shares of Emoteq at their then current fair market value. After holding the
+     shares for at least six months, all such holders of Emoteq common stock
+     exercised their put options and consequently, the Company purchased the
+     shares for $1,006,000, the fair value of the shares, for consideration
+     consisting of Hathaway common stock, notes payable and cash. The Company
+     recorded $352,000 of cost in excess of net assets acquired related to the
+     purchase of these Emoteq shares. The Emoteq stock option plan and
+     stockholders' agreements were terminated in August 2001.
+
+     Option activity for the Emoteq plan during fiscal years 2001, 2000 and 1999
+     was as follows:
+
+<Table>
+<Caption>
+                                                                                  WEIGHTED AVERAGE
+                                                 NUMBER OF SHARES                  EXERCISE PRICE
+                                          -----------------------------       -------------------------
+                                            TIME            PERFORMANCE         TIME        PERFORMANCE
+                                           VESTED             VESTED           VESTED         VESTED
+                                          --------          -----------       --------      -----------
+<S>                                       <C>               <C>               <C>           <C>
+     Outstanding at June 30, 1998           80,000           187,600          $   1.37      $   1.37
+        Granted                             11,000            34,000          $   2.50      $   2.50
+        Cancelled or forfeited                  --           (33,683)               --      $   1.56
+                                          --------          --------          --------      --------
+     Outstanding at June 30, 1999           91,000           187,917          $   1.51      $   1.54
+        Granted                             83,118                --          $   3.43            --
+        Cancelled or forfeited              (6,000)         (132,399)         $   1.37      $   1.55
+                                          --------          --------          --------      --------
+     Outstanding at June 30, 2000          168,118            55,518          $   2.46      $   1.51
+        Exercised                         (168,118)          (55,518)         $   2.46      $   1.51
+                                          --------          --------          --------      --------
+     Outstanding at June 30, 2001               --                --                --            --
+                                          ========          ========          ========      ========
+</Table>
+
+     Prior to the exercise of the Emoteq stock options, the Company accounted
+     for the performance vested options under variable plan accounting. The
+     Company recognized $21,000 in compensation expense for the fiscal year
+     ended June 30, 2000 related to the 55,518 performance options.
+
+7.   LOANS RECEIVABLE FOR STOCK
+
+     The Company's loans receivable balance of $160,000 at June 30, 2001 is
+     comprised of a loan for $27,000 from the Leveraged Employee Stock Ownership
+     Plan and Trust (the Plan) and $133,000 from an Officer of the Company. The
+     balance of $235,000 at June 30, 2000 is comprised of a loan of $102,000
+     from the Plan and $133,000 from an officer of the Company. The loans relate
+     to the purchase of Company common stock and are reflected in the
+     accompanying consolidated balance sheet as an offset to stockholders'
+     investment.
+
+     The Plan allows eligible Company employees to participate in ownership of
+     the Company. The $27,000 receivable represents the unpaid balance of the
+     original $500,000 that the Company loaned to the Plan in fiscal year 1989
+     so that the Plan could acquire from the Company 114,285 newly issued shares
+     of the Company's common stock. The note bears interest at an annual rate of
+     9.23% and
+
+                                       25
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+7.   LOANS RECEIVABLE FOR STOCK (CONTINUED)
+
+     matures May 31, 2004. The terms of the Plan require the Company to make an
+     annual contribution equal to the greater of i) the Board established
+     percentage of pretax income before the contribution (5% in fiscal years
+     2001, 2000, and 1999) or ii) the annual interest payable on the note.
+     Company contributions to the Plan were $135,000 in 2001, $84,000 in 2000
+     and $9,000 in 1999. The Company's contribution for 2001 was made on August
+     16, 2001 and was used to pay off the entire principal and interest due on
+     the loan and purchase 33,095 newly issued shares of common stock of the
+     Company.
+
+     The $133,000 receivable represents the principal balance of a loan made in
+     fiscal year 1994 to the Chief Executive Officer of the Company in
+     connection with his purchase of the Company's common stock, pursuant to the
+     Officer and Director Loan Plan approved by stockholders on October 26,
+     1989. The loan is full-recourse and bears interest at a current interest
+     rate. The loan is due on demand but no later than October 31, 2001.
+
+8.   COMMITMENTS AND CONTINGENCIES
+
+     LEASES
+
+     At June 30, 2001, the Company maintained leases for certain facilities and
+     equipment. Minimum future rental commitments under all non-cancelable
+     operating leases are as follows (in thousands):
+
+<Table>
+<Caption>
+     FISCAL YEAR        AMOUNT
+     -----------        ------
+<S>                     <C>
+     2002               $1,010
+     2003                  632
+     2004                  688
+     2005                  650
+     2006                  486
+     Thereafter            248
+                        ------
+                        $3,714
+                        ======
+</Table>
+
+     Rental expense was $1,027,000, $1,126,000 and $1,000,000 in fiscal years
+     2001, 2000 and 1999, respectively.
+
+     SEVERANCE BENEFIT AGREEMENTS
+
+     The Company has entered into annually renewable severance benefit
+     agreements with certain key employees which, among other things, provide
+     inducement to the employees to continue to work for the Company during and
+     after any period of threatened takeover. The agreements provide the
+     employees with specified benefits upon the subsequent severance of
+     employment in the event of change in control of the Company and are
+     effective for 24 months thereafter. The maximum amount of salary that could
+     be required to be paid under these contracts, if such events occur, totaled
+     approximately $1,869,000 as of June 30, 2001. In addition to salary,
+     severance benefits include the cost of life, disability, accident and
+     health insurance for 24 months, a pro-rata calculation of bonus for the
+     current year and a gross-up payment for all federal, state and excise taxes
+     due on the severance payment.
+
+     CONSULTING AGREEMENT
+
+     Effective September 1, 1998, the Company entered into a consulting
+     agreement (Consulting Agreement) with the Chairman of the Board of
+     Directors who is a major shareholder. Under the Consulting Agreement, he
+     will be compensated for providing consulting services to the Company
+     primarily on matters involving the Company's motion control business, as
+     well as other matters as requested by the Chief Executive Officer. During
+     fiscal years 2001, 2000 and 1999, the Company paid $0, $66,000 and
+     $137,750, respectively, to the Chairman of the Board under the Consulting
+     Agreement.
+
+     STOCK REPURCHASE PROGRAM
+
+     Under an employee stock repurchase program approved by the Board of
+     Directors, the Company may repurchase its common stock from its employees
+     at the current market value. The Company's Agreement with Silicon limits
+     employee stock repurchases to $125,000 per fiscal year. Under
+
+                                       26
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+8.   COMMITMENTS AND CONTINGENCIES (CONTINUED)
+
+     Colorado law enacted in July 1994, repurchased shares of capital stock are
+     considered authorized and unissued shares and have the same status as
+     shares that have never been issued.
+
+     LITIGATION
+
+     The Company, with other parties, has been named as a defendant in an
+     environmental contamination lawsuit. The Company is investigating the
+     nature of the claims but believes the claims are without merit and,
+     therefore, no reserve for this litigation is required at this time.
+
+     The Company is also involved in certain actions that have arisen out of the
+     ordinary course of business. Management believes that resolution of the
+     actions will not have a significant adverse affect on the Company's
+     consolidated financial position or results of operations.
+
+9.   RESTRUCTURING CHARGE
+
+     As a result of changing business conditions in the process instrumentation
+     business, the Company restructured its process instrumentation operations
+     in Dallas. The restructuring consisted of retaining a portion of the
+     business in Dallas, moving the manufacturing of two products lines to its
+     power instrumentation manufacturing facility in Seattle and selling the
+     remaining two product lines. The costs associated with the restructuring
+     were $587,000 for the fiscal year 2001, which includes $282,000 of employee
+     termination expenses related to 15 employees, and closure and moving costs
+     of $305,000. All restructuring costs have been incurred as of June 30,
+     2001.
+
+10.  SEGMENT INFORMATION
+
+     SFAS No. 131, "Disclosures about Segments of an Enterprise and Related
+     Information" requires disclosure of operating segments, which as defined,
+     are components of an enterprise about which separate financial information
+     is available that is evaluated regularly by the chief operating decision
+     maker in deciding how to allocate resources and in assessing performance.
+
+     The Company operates in two different segments: Power and Process Business
+     (Power and Process) and Motion Control Business (Motion Control).
+     Management has chosen to organize the Company around these segments based
+     on differences in markets, products and services.
+
+     POWER AND PROCESS BUSINESS
+
+     Hathaway's complete line of power instrumentation products helps ensure
+     that electric utilities provide high quality service to consumers of
+     electricity. The power products group produces a comprehensive and
+     cost-effective range of products designed exclusively for the power
+     industry worldwide. Hathaway's equipment assists the electric power system
+     operators in operating and maintaining proper system performance. The
+     products, which are used to monitor and control the power generation,
+     transmission and distribution processes, include fault recording products,
+     fault location products, condition monitoring (circuit breaker) products
+     and remote terminal units for SCADA systems.
+
+     Hathaway's state-of-the-art software system for SCADA has been used to
+     fully automate such industrial applications as water and wastewater
+     treatment plants, glass manufacturing plants, oil and gas terminals and
+     tank farm facilities. In addition to expanding into its traditional process
+     markets, the system is being marketed to the power utility industry. The
+     Company has successfully sold the system with certain other Hathaway
+     products and targets the combined product at substation automation and
+     integration applications used in power generation, transmission and
+     distribution facilities.
+
+     The process instrumentation products group manufactures and markets
+     products for the process and power industries including monitoring systems
+     and calibration equipment. The monitoring systems, called visual
+     annunciators and sequential event recorders, provide both visual and
+     audible alarms and are used to control processes in various plants
+     including, chemical, petroleum, food and beverage, pulp and paper, and
+     textiles. Calibration equipment is used to test and adjust instrumentation
+     for proper and accurate operation in measuring electricity, temperatures
+     and pressure within the process industry.
+
+                                       27
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+10.  SEGMENT INFORMATION (CONTINUED)
+
+     MOTION CONTROL BUSINESS
+
+     Motion Control offers quality, cost-effective products that suit a wide
+     range of applications in the industrial, medical, military and aerospace
+     sectors, as well as in manufacturing of analytical instruments and computer
+     peripherals. The end products using Hathaway technology include special
+     industrial and technical products such as satellite tracking systems, MRI
+     scanners, and high definition printers.
+
+     The group designs, manufactures and markets direct current brush and
+     brushless motors, related components, and drive and control electronics as
+     well as precision direct-current fractional horsepower motors and certain
+     motor components. Industrial equipment and military products are the major
+     application for the motors.
+
+     The group also manufactures optical encoders that are used to measure
+     rotational and linear movements of parts as well as fiber optic-based
+     encoders with special characteristics, such as immunity to radio frequency
+     interference and high temperature tolerance.
+
+     The following provides information on the Company's segments (in
+     thousands):
+
+<Table>
+<Caption>
+                                                                  FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                     2001                          2000                      1999
+                                            -----------------------      -----------------------      -----------------------
+                                             POWER                        POWER                        POWER
+                                              AND           MOTION         AND           MOTION         AND           MOTION
+                                            PROCESS        CONTROL       PROCESS        CONTROL       PROCESS        CONTROL
+                                            --------       --------      --------       --------      --------       --------
+<S>                                         <C>            <C>           <C>            <C>           <C>            <C>
+     Revenue from external customers        $ 27,198       $ 21,188      $ 26,542       $ 18,591      $ 28,711       $ 12,980
+     Equity income from investments in
+        joint ventures                         1,170             --           698             --           329             --
+     (Loss) income before income taxes        (1,539)         3,584        (1,643)         3,139        (1,932)           487
+     Identifiable assets                      12,142          6,532        10,620          7,134         9,232          5,006
+</Table>
+
+     The following is a reconciliation of segment information to consolidated
+     information (in thousands):
+
+<Table>
+<Caption>
+                                                           FOR THE FISCAL YEARS ENDED AND
+                                                                    AS OF JUNE 30,
+                                                           2001          2000          1999
+                                                         --------      --------      --------
+<S>                                                      <C>           <C>           <C>
+     Segments' income (loss) before income taxes         $  2,045      $  1,496      $ (1,445)
+     Corporate activities                                     527           108           128
+                                                         --------      --------      --------
+     Consolidated income (loss) before income taxes      $  2,572      $  1,604      $ (1,317)
+                                                         ========      ========      ========
+     Segments' identifiable assets                       $ 18,674      $ 17,754      $ 14,238
+     Corporate assets and eliminations                      1,529         2,183         2,160
+                                                         --------      --------      --------
+     Consolidated total assets                           $ 20,203      $ 19,937      $ 16,398
+                                                         ========      ========      ========
+</Table>
+
+     The Company's wholly-owned foreign subsidiaries in the United Kingdom are
+     included in the accompanying consolidated financial statements. Financial
+     information for the foreign subsidiaries is summarized below (in
+     thousands):
+
+<Table>
+<Caption>
+                                               FOR THE FISCAL YEARS ENDED AND AS OF JUNE 30,
+                                                      2001        2000        1999
+                                                     ------      ------      ------
+<S>                                                  <C>         <C>         <C>
+     Revenues derived from foreign subsidiaries      $7,223      $5,632      $7,744
+     Identifiable assets                              3,927       3,078       3,179
+</Table>
+
+                                       28
+<Page>
+
+                              HATHAWAY CORPORATION
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+10.  SEGMENT INFORMATION (CONTINUED)
+
+     Sales to international customers was $15,282,000, $11,577,000 and
+     $12,902,000 in fiscal years 2001, 2000 and 1999, respectively.
+
+11.  SUBSEQUENT EVENT
+
+     On July 5, 2001, the Company completed the sale of its 20% equity interest
+     in Si Fang for $3,020,000 in cash. The sale became effective upon receipt
+     of the net proceeds in U.S. dollars and the required approvals from the
+     State Administration of Foreign Exchange in China. The Company sold its
+     interest to Beijing Si Fang Tongchuang Protection and Control Co., Ltd.
+     (Tongchuang), a Chinese company. Prior to the sale, Tongchuang held a 22%
+     interest in Si Fang. The Company will record a pretax gain on the sale, net
+     of selling costs, of approximately $650,000. The gain will be recorded in
+     the first quarter of the fiscal year ending June 30, 2002 and will be
+     included in other income in the Company's consolidated financial
+     statements.
+
+     Prior to the sale, the Company's net cash investment in Si Fang was
+     $39,000. This consisted of the original acquisition of a 25% interest in Si
+     Fang in 1994 for $175,000, subsequent capital contributions made and
+     proceeds received in two partial sale transactions, netting to an
+     additional $317,000 investment and dividends received of $453,000. Through
+     the date of sale, the Company has recognized equity income of $2,291,000
+     and gain on sales of $175,000. During fiscal years ended June 30, 2001,
+     2000 and 1999, the Company recognized equity income of $1,116,000, $670,000
+     and $314,000, respectively.
+
+     The following presents the Company's unaudited pro forma financial
+     information for the fiscal years ended June 30, 2001, 2000 and 1999. The
+     pro forma statements of operations give effect to the sale of the Company's
+     joint venture investment in Si Fang as if it had occurred at the beginning
+     of each fiscal year.
+
+     The pro forma financial information is for informational purposes only and
+     does not purport to present what the Company's results would actually have
+     been had these transactions actually occurred on the dates presented or to
+     project the Company's results of operations or financial position for any
+     future period. The gain on the sale of Si Fang is not reflected in the pro
+     forma financial information as it is a non-recurring item.
+
+<Table>
+<Caption>
+                                                FOR THE FISCAL YEARS ENDED JUNE 30,
+                                                2001            2000           1999
+                                              ---------      ---------      ---------
+<S>                                           <C>            <C>            <C>
+     Net income (loss)                        $   1,301      $   1,036      $  (1,729)
+
+     Basic net income (loss) per share             0.29           0.24          (0.40)
+     Diluted net income (loss) per share           0.27           0.22          (0.40)
+</Table>
+
+12.  SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+     Selected quarterly financial data for each of the four quarters in fiscal
+     years 2001 and 2000 is as follows (in thousands, except per share data):
+
+<Table>
+<Caption>
+                                                   FIRST             SECOND          THIRD            FOURTH
+                      2001                        QUARTER           QUARTER         QUARTER           QUARTER
+                                                 --------          --------         --------          --------
+<S>                                              <C>               <C>              <C>               <C>
+     Revenues                                    $ 11,333          $ 13,166         $ 11,313          $ 12,574
+     Operating income (loss)                          (54)              754              (16)              793
+     Net income (loss)                                  9               771              260               956
+     Basic net income (loss) per share               0.00              0.17             0.06              0.21
+     Diluted net income (loss) per share             0.00              0.16             0.05              0.20
+</Table>
+
+<Table>
+<Caption>
+                                                   FIRST             SECOND          THIRD            FOURTH
+                      2000                        QUARTER           QUARTER         QUARTER           QUARTER
+                                                 --------          --------         --------          --------
+<S>                                              <C>               <C>              <C>               <C>
+     Revenues                                    $  8,905          $ 11,151         $ 11,767          $ 13,310
+     Operating income (loss)                         (762)              501              139             1,096
+     Net income (loss)                               (721)              617              225             1,354
+     Basic net income (loss) per share              (0.17)             0.14             0.05              0.30
+     Diluted net income (loss) per share            (0.17)             0.14             0.05              0.28
+</Table>
+
+                                       29
+<Page>
+
+ITEM 9. DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+
+The Company has not changed its accounting or auditing firm during the past 24
+months, nor has it had any material disagreements with its accountants or
+auditors regarding any accounting or financial statement disclosure matters.
+
+PART III
+
+The information required by Part III is included in the Company's Proxy
+Statement, and is incorporated herein by reference.
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+Information required by this item is set forth in the sections entitled
+"Election of Directors" (page 2), "Executive Officer" (page 3) and "Section
+16(a) Beneficial Ownership Reporting Compliance" (page 9) in the Company's Proxy
+Statement and is incorporated herein by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+The information required by this item is set forth in the section entitled
+"Executive Compensation" (pages 5 through 9) in the Company's Proxy Statement
+and is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+The information required by this item is set forth in the section entitled
+"Security Ownership of Certain Beneficial Owners and Management" (pages 4
+through 5) in the Company's Proxy Statement and is incorporated herein by
+reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+Effective September 1, 1998, the Company entered into a Consulting Agreement
+with Eugene E. Prince, who resigned from the offices of President and Chief
+Executive Officer on August 13, 1998 and retired from employment with the
+Company effective August 31, 1998. Mr. Prince is the Chairman of the Board of
+Directors and a major shareholder of the Company. Under the Consulting
+Agreement, he will be compensated for providing consulting services to the
+Company primarily on matters involving the Company's Motion Control business, as
+well as other matters as requested by the Chief Executive Officer. During fiscal
+year 2001, the Company made no payments to Mr. Prince under the Consulting
+Agreement.
+
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+a)   The following documents are filed as part of this Report:
+
+     1.   FINANCIAL STATEMENTS
+
+          a)   Consolidated Balance Sheets as of June 30, 2001 and June 30,
+               2000.
+
+          b)   Consolidated Statements of Operations for each of the fiscal
+               years in the three-year period ended June 30, 2001.
+
+          c)   Consolidated Statements of Cash Flows for each of the fiscal
+               years in the three-year period ended June 30, 2001.
+
+          d)   Consolidated Statements of Stockholders' Investment for each of
+               the fiscal years in the three-year period ended June 30, 2001.
+
+          e)   Notes to Consolidated Financial Statements.
+
+          f)   Report of Independent Public Accountants.
+
+     2.   FINANCIAL STATEMENT SCHEDULES
+
+          II. Valuation and Qualifying Accounts.
+
+     3.   EXHIBITS
+
+<Table>
+EXHIBIT NO.                     SUBJECT                                         PAGE
+-----------                     -------                                         ----
+<S>            <C>                                                              <C>
+    3.1        Restated Articles of Incorporation.                                *
+
+    3.2        Amendment to Articles of Incorporation dated September 24, 1993.   *
+</Table>
+
+                                       30
+<Page>
+
+<Table>
+EXHIBIT NO.                     SUBJECT                                         PAGE
+-----------                     -------                                         ----
+<S>            <C>                                                              <C>
+    3.3        By-laws of the Company adopted August 11, 1994.                    *
+
+   10.1        Severance Agreement dated June 15, 1989 between Hathaway           *
+               Corporation and Richard D. Smith. Incorporated by reference to
+               Exhibit 10n(ii) to the Company's 1989 annual Report and Form 10-K
+               for the fiscal year ended June 30, 1989.
+
+   10.2        The 1989 Incentive and Non-Qualified Stock Option Plan dated       *
+               January 4, 1989. Incorporated by reference to the Company's Form
+               S-8 filed October 25, 1990.
+
+   10.3        Joint Venture Agreement between Zibo Kehui Electric Company and    *
+               Hathaway Instruments Limited, for the establishment of Zibo Kehui
+               Electric Company Ltd., dated July 25, 1993. Incorporated by
+               reference to Exhibit 10.15 to the Company's Form 10-K for the
+               fiscal year ended June 30, 1994.
+
+   10.4        Promissory Note from Richard D. Smith to Hathaway Corporation      *
+               dated October 26, 1993. Incorporated by reference to Exhibit
+               10.23 to the Company's Form 10-K for the fiscal year ended June
+               30, 1994.
+
+   10.5        Joint Venture Contract between Si Fang Protection and Control      *
+               Company Limited and Hathaway Corporation for the establishment of
+               Beijing Hathaway Si Fang Protection and Control Company, Ltd.,
+               dated March 2, 1994. Incorporated by reference to Exhibit 10.26
+               to the Company's Form 10-K for the fiscal year ended June 30,
+               1994.
+
+   10.6        Joint Venture Contract between Wuhan Electric Power Instrument     *
+               Factory, Beijing Huadian Electric Power Automation Corporation
+               and Hathaway Corporation for the establishment of Hathaway Power
+               Monitoring Systems Company, Ltd., dated June 12, 1995.
+               Incorporated by reference to Exhibit 10.29 to the Company's Form
+               10-K for the fiscal year ended June 30, 1995.
+
+   10.7        Technology License Contract between Wuhan Electric Power           *
+               Instrument Factory and Beijing Huadian Electric Power Automation
+               Corporation on behalf of Hathaway Power Monitoring Systems
+               Company, Ltd. and Hathaway Corporation dated June 12, 1995.
+               Incorporated by reference to Exhibit 10.30 to the Company's Form
+               10-K for the fiscal year ended June 30, 1995.
+
+   10.8        Supplementary Agreement between Wuhan Electric Power Instrument    *
+               Factory, Beijing Huadian Electric Power Automation Corporation
+               and Hathaway Corporation dated August 30, 1995. Incorporated by
+               reference to Exhibit 10.31 to the Company's Form 10-K for the
+               fiscal year ended June 30, 1995.
+
+   10.9        Management Incentive Bonus Plan for the fiscal year ending June    *
+               30, 1996. Incorporated by reference to Exhibit 10.28 to the
+               Company's Form 10-K for the fiscal year ended June 30, 1995.**
+
+   10.10       Purchase Agreement between Hathaway Corporation and Tate           *
+               Engineering Services Corporation dated October 10, 1996, for the
+               Company's purchase of all the issued and outstanding stock of
+               Tate Integrated Systems, Inc. Incorporated by reference to the
+               Company's Form 8-K dated October 25, 1996.
+
+   10.11       Loan and Security Agreement dated May 7, 1998 between Hathaway     *
+               Corporation and certain subsidiaries of Hathaway Corporation and
+               Silicon Valley Bank. Incorporated by reference to Exhibit 10.16
+               to the Company's Form 10-K for the fiscal year ended June 30,
+               1998.
+
+</Table>
+
+
+                                       31
+<Page>
+<Table>
+EXHIBIT NO.                     SUBJECT                                         PAGE
+-----------                     -------                                         ----
+<S>            <C>                                                              <C>
+   10.12       Schedule to Loan and Security Agreement dated May 7, 1998 between  *
+               Hathaway Corporation and certain subsidiaries of Hathaway
+               Corporation and Silicon Valley Bank. Incorporated by reference to
+               Exhibit 10.17 to the Company's Form 10-K for the fiscal year
+               ended June 30, 1998.
+
+   10.13       Amendment Number One dated August 1, 1998 to the 1989 Incentive    *
+               and Non-Qualified Stock Option Plan. Incorporated by reference to
+               Exhibit 10.18 to the Company's Form 10-K for the fiscal year
+               ended June 30, 1998.
+
+   10.14       The Amended 1991 Incentive and Nonstatutory Stock Option Plan      *
+               dated August 1, 1998. Incorporated by reference to Exhibit 10.19
+               to the Company's Form 10-K for the fiscal year ended June 30,
+               1998.
+
+   10.15       Employment Agreement between Hathaway Corporation and Richard D.   *
+               Smith, effective August 13, 1998.
+
+   10.16       Consulting Agreement between Hathaway Corporation and Eugene E.    *
+               Prince dated September 1, 1998.
+
+   10.17       The Year 2000 Stock Incentive Plan. Incorporated by reference to   *
+               Exhibit A to the Company's Proxy Statement dated September 21,
+               2000.
+
+   10.18       The 2001 Employee Stock Purchase Plan. Incorporated by reference   *
+               to Exhibit B to the Company's Proxy Statement dated September 21,
+               2000.
+
+   10.19       The Agreement for Assignment of Equity Interest in Hathaway Si     *
+               Fang Protection and Control Co. Ltd. Incorporated by reference to
+               Exhibit 99.1 to the Company's Form 8-K dated July 20, 2001.
+
+   21          List of Subsidiaries                                              37
+
+   22         Definitive Proxy Statement dated September 21, 2001 for the         *
+              Registrant's 2001 Annual Meeting of Shareholders.
+
+   23         Consent of ARTHUR ANDERSEN LLP.                                    33
+
+</Table>
+
+     *    These documents have been filed with the Securities and Exchange
+          Commission and are incorporated herein by reference.
+
+     **   The Management Incentive Bonus Plans for the fiscal years ending June
+          30, 1997, 1998, 1999, and 2000 are omitted because they are
+          substantially identical in all material respects to the Management
+          Incentive Bonus Plan for the fiscal year ending June 30, 1996
+          previously filed with the Commission, except for the fiscal years to
+          which they apply.
+
+(b)  Reports on Form 8-K.
+
+     No reports on Form 8-K were filed during the fourth quarter of fiscal 2001.
+
+
+                                       32
+<Page>
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                        HATHAWAY CORPORATION
+
+                                        By  /s/ Richard D. Smith
+                                            -----------------------
+                                            Richard D. Smith
+                                            President, Chief Executive Officer
+                                            and Chief Financial Officer
+
+                                        Date: September 21, 2001
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant in
+the capacities and on the dates indicated.
+
+       SIGNATURES                 TITLE                               DATE
+
+/s/ Richard D. Smith     President, Chief Executive           September 21, 2001
+----------------------   Officer, Chief Financial
+Richard D. Smith         Officer and Director
+
+
+/s/ Eugene E. Prince     Chairman of the Board of             September 21, 2001
+----------------------   Directors
+Eugene E. Prince
+
+
+/s/ George J. Pilmanis   Director                             September 21, 2001
+----------------------
+George J. Pilmanis
+
+
+/s/ Delwin D. Hock       Director                             September 21, 2001
+----------------------
+Delwin D. Hock
+
+
+/s/ Graydon D. Hubbard   Director                             September 21, 2001
+----------------------
+Graydon D. Hubbard
+
+
+</TEXT>
+</DOCUMENT>

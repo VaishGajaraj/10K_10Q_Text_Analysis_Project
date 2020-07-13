@@ -1,0 +1,2751 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>d10k405.txt
+<DESCRIPTION>FORM 10-K FOR PERIOD ENDING 12/31/2000
+<TEXT>
+
+<PAGE>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+                                   FORM 10-K
+
+                                 ANNUAL REPORT
+                    PURSUANT TO SECTION 13 OR 15(D) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+For the Fiscal Year Ended                                Commission File Number
+December 31, 2000                                                       1-10777
+
+                          Ambac Financial Group, Inc.
+            (Exact name of Registrant as specified in its charter)
+
+                 Delaware                              13-3621676
+         (State of incorporation)         (I.R.S. employer identification no.)
+
+          One State Street Plaza
+            New York, New York                           10004
+ (Address of principal executive offices)             (Zip code)
+
+                                 (212) 668-0340
+              (Registrant's telephone number, including area code)
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+       Title of each class             Name of each exchange on which registered
+Common Stock, $0.01 per share and
+Preferred Stock Purchase Rights                 New York Stock Exchange, Inc.
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                                      None
+
+     Indicate by check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes X   No ___
+                                             ---
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [X]
+
+
+     The aggregate market value of voting stock held by non-affiliates of the
+Registrant as of March 14, 2001 was $5,948,811,002 (based upon the closing price
+of the Registrant's shares of the New York Stock Exchange on March 14, 2001,
+which was $57.14). For purposes of this information, the outstanding shares of
+Common Stock which were owned by all directors and executive officers of the
+Registrant were deemed to be shares of Common Stock held by affiliates.
+
+     As of March 14, 2001, 105,652,028 shares of Common Stock, par value $0.01
+per share, (net of 368,509 treasury shares) were outstanding.
+
+                      Documents Incorporated By Reference
+
+     Portions of the Registrant's Annual Report to Stockholders for the year
+ended December 31, 2000 are incorporated by reference into Parts II and IV
+hereof. Portions of the Registrant's Proxy Statement dated March 28, 2001 in
+connection with the Annual Meeting of Stockholders to be held on May 1, 2001 are
+incorporated by reference into Part III hereof.
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+
+<TABLE>
+<CAPTION>
+                                                                                            Page
+                                                                                            ----
+<S>                                                                                         <C>
+PART I
+Item 1.     Business.....................................................................      1
+
+Item 2.     Properties...................................................................     27
+
+Item 3.     Legal Proceedings............................................................     27
+
+Item 4.     Submission of Matters to a
+            Vote of Security Holders.....................................................     27
+
+PART II
+Item 5.     Market for Registrant's Common
+            Equity and Related Stockholder Matters.......................................     27
+
+Item 6.     Selected Financial Data......................................................     27
+
+Item 7.     Management's Discussion and Analysis of Financial
+            Condition and Results of Operations..........................................     28
+
+Item 7A.    Quantitative and Qualitative Disclosures                                          28
+            About Market Risk............................................................
+
+Item 8.     Financial Statements and Supplementary Data..................................     28
+
+Item 9.     Changes in and Disagreements With Accountants on
+            Accounting and Financial Disclosure..........................................     28
+
+PART III
+Item 10.    Directors and Executive Officers
+            of the Registrant............................................................     28
+
+Item 11.    Executive Compensation.......................................................     28
+
+Item 12.    Security Ownership of Certain
+            Beneficial Owners and Management.............................................     28
+
+Item 13.    Certain Relationships and
+            Related Transactions.........................................................     29
+
+PART IV
+Item 14.    Exhibits, Financial Statement
+            Schedules, and Reports on Form 8-K...........................................     29
+
+SIGNATURES  .............................................................................     35
+
+FINANCIAL STATEMENT SCHEDULES............................................................    S-1
+</TABLE>
+<PAGE>
+
+                                     Part I
+
+Item 1.   Business.
+
+GENERAL
+
+         Ambac Financial Group, Inc. (the "Company"), headquartered in New York
+City, is a holding company whose subsidiaries provide financial guarantee
+products and other financial services to clients in both the public and private
+sectors around the world. The Company was incorporated on April 29, 1991. The
+Company provides financial guarantees for municipal and structured finance
+obligations through its principal operating subsidiary, Ambac Assurance
+Corporation ("Ambac Assurance"). Through its financial services subsidiaries,
+the Company provides financial and investment products including investment
+agreements, interest rate swaps, funding conduits, investment advisory and cash
+management services, principally to its financial guarantee clients which
+include municipalities and their authorities, school districts, health care
+organizations and asset-backed issuers.
+
+         Ambac Assurance, which serves the global capital markets, is primarily
+engaged in guaranteeing municipal and structured finance obligations and is the
+successor to the founding financial guarantee insurance company, which wrote the
+first bond insurance policy in 1971. Financial guarantee products written by
+Ambac Assurance in both the primary and secondary markets guarantee payment when
+due of the principal of and interest on the guaranteed obligation. In the case
+of default on a guaranteed obligation, payments under the financial guarantee
+policy may not be accelerated by the policyholder without Ambac Assurance's
+consent. Ambac Assurance seeks to minimize the risk inherent in its financial
+guarantee portfolio by maintaining a diverse portfolio which spreads its risk
+across a number of criteria, including issue size, type of bond, geographic area
+and obligor. As of December 31, 2000, Ambac Assurance's net financial guarantee
+in force (after giving effect for reinsurance) was $418.4 billion. See
+"Financial Guarantee in Force" below.
+
+         Ambac Credit Products L.L.C. ("ACP"), a wholly owned subsidiary of
+Ambac Assurance, provides credit protection in the global markets in the form of
+structured credit derivatives. These structured credit derivatives involve
+private transactions with high quality counterparties. These contracts require
+ACP to make payments upon the occurrence of certain defined credit events
+relating to an underlying obligation (generally a fixed income obligation).
+Structured credit derivatives issued by ACP are guaranteed by Ambac Assurance.
+See "Business Segments -- Financial Guarantee" below and "Management's
+Discussion and Analysis -- Risk Management" in the Company's 2000 Annual Report
+to Shareholders for more detail about structured credit derivatives.
+
+         Ambac Assurance has earned triple-A ratings, the highest ratings
+available from Moody's Investors Service, Inc. ("Moody's"), Standard & Poor's
+Ratings Services ("S&P"), Fitch, Inc. ("Fitch") and Rating and Investment
+Information, Inc. ("R&I"). These ratings are an essential part of Ambac
+Assurance's ability to provide credit enhancement. See "Rating Agencies" below.
+
+         The Company's investment agreement business ("IA Business"), conducted
+through its subsidiary, Ambac Capital Funding, Inc. ("ACFI"), provides
+investment agreements primarily to municipalities and their authorities,
+structured finance obligations and
+
+                                       1
+<PAGE>
+
+international issuers. Investment agreements written by ACFI are insured by
+Ambac Assurance, its triple-A financial guarantee affiliate. Investment
+agreements are primarily used by issuers to invest bond proceeds until the
+proceeds can be used for their intended purpose. The investment agreement
+provides for the guaranteed return of principal invested, and for the payment of
+interest thereon at a guaranteed rate. See "Investment Agreements" below.
+
+         The Company provides interest rate swaps through its subsidiary Ambac
+Financial Services, L.P. ("AFSLP") primarily to states, municipalities and their
+authorities, and other entities in connection with their financings. The
+interest rate swaps provided by AFSLP are guaranteed by Ambac Assurance and
+provide a financing alternative that may reduce an issuer's overall borrowing
+costs and/or help manage their interest rate risk. See "Interest Rate Swaps"
+below.
+
+         The Company provides investment advisory, cash management and fund
+administration services through its subsidiary, Cadre Financial Services, Inc.
+("Cadre"), and broker/dealer services through its subsidiary, Cadre Securities,
+Inc. ("Cadre Securities"), primarily to school districts, hospitals and health
+care organizations, and municipalities.
+
+         As a holding company, Ambac Financial Group, Inc. is largely dependent
+on dividends from Ambac Assurance, its principal operating subsidiary, to pay
+dividends on its capital stock, to pay principal and interest on its
+indebtedness, to pay its operating expenses, and to make capital investments in
+its subsidiaries. Dividends from Ambac Assurance are subject to certain
+insurance regulatory restrictions. See "Insurance Regulatory Matters --Wisconsin
+Dividend Restrictions" below and "Management's Discussion and Analysis --
+Liquidity and Capital Resources" in the Company's 2000 Annual Report to
+Stockholders.
+
+         Materials in this Form 10-K may contain information that includes or is
+based upon forward-looking statements within the meaning of the Securities
+Litigation Reform Act of 1995. Forward-looking statements give the Company's
+expectations or forecasts of future events. You can identify these statements by
+the fact that they do not relate strictly to historical or current facts and
+relate to future operating or financial performance.
+
+         Any or all of our forward-looking statements here or in other
+publications may turn out to be wrong and are based on current expectations and
+the current economic environment. The Company's actual results may vary
+materially, and there are no guarantees about the performance of the Company's
+stock. Among factors that could cause actual results to differ materially are:
+(1) changes in the economic, credit or interest rate environment in the United
+States and abroad; (2) the level of activity within the national and worldwide
+debt markets; (3) competitive conditions and pricing levels; (4) legislative and
+regulatory developments; (5) changes in tax laws; and (6) other risks and
+uncertainties that have not been identified at this time. The Company undertakes
+no obligation to publicly correct or update any forward-looking statement if we
+later become aware that it is not likely to be achieved. You are advised,
+however, to consult any further disclosures we make on related subjects in the
+Company's reports to the Securities and Exchange Commission ("SEC").
+
+                                       2
+<PAGE>
+
+BUSINESS SEGMENTS
+
+         The following paragraphs describe the business operations of Ambac
+Financial Group, Inc. and its subsidiaries (sometimes collectively referred to
+as the "Company") for the Company's two reportable segments: Financial Guarantee
+and Financial Services.
+
+
+         Financial Guarantee
+
+         Generally, financial guarantee insurance written by Ambac Assurance
+guarantees to the holder of the underlying obligation timely payment of
+principal and interest by the issuer on such obligation in accordance with its
+original payment schedule. Accordingly, in the case of issuer default on the
+guaranteed obligation, payments under the financial guarantee policy may not be
+accelerated by the policyholder without Ambac Assurance's consent.
+
+         Financial guarantee insurance is a form of credit enhancement that
+benefits both the issuer and the investor. Issuers benefit because their
+securities are sold with a higher credit rating than securities of the issuer
+sold without credit enhancement, resulting in interest cost savings and greater
+marketability. In addition, for complex financings and obligations of issuers
+that are not well known by investors, credit enhanced obligations receive
+greater market acceptance than obligations without credit enhancement. Investors
+benefit from greater marketability, secondary market price stability, active
+credit surveillance and protection from loss associated with issuer default.
+
+         Structured credit derivatives written by ACP provide credit protection
+in respect of specific financial obligations (primarily fixed income
+obligations). The majority of the Company's structured credit derivative
+contracts are partially hedged with various financial institutions or structured
+with first loss protection. Such structuring mitigates the Company's risk of
+loss and reduces the price volatility of these financial instruments. Should a
+defined credit event occur, ACP would generally make a payment equivalent to the
+difference between the par value and market value of the underlying obligation.
+
+         The Company derives financial guarantee revenues from: (i) premiums
+earned over the life of the obligations guaranteed; (ii) net investment income;
+(iii) net realized gains and losses from sales of investment securities; (iv)
+certain structuring and other fees; and (v) revenue from credit derivative
+transactions. Financial guarantee revenues were $565.4 million, $474.1 million
+and $408.4 million in 2000, 1999 and 1998, respectively. See "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" and
+Note 18 of Notes to Consolidated Financial Statements in the Company's 2000
+Annual Report to Stockholders.
+
+         Financial guarantee products are sold in three principal markets: the
+U.S. municipal market, the U.S. structured finance and asset-backed market, and
+the international market. Total gross par guaranteed for the years ended
+December 31, 2000, 1999 and 1998 was $71.3 billion, $73.3 billion and $61.5
+billion, respectively.
+
+                                       3
+<PAGE>
+
+         U. S. Municipal Market
+
+         Until 1993, Ambac Assurance was almost exclusively focused on the
+municipal market in the United States. The U.S. municipal market includes
+taxable and tax-exempt bonds, notes and other evidences of indebtedness issued
+by states, political subdivisions (e.g., cities, counties, towns and villages),
+water, sewer, electric and other utility districts, airports, higher educational
+institutions, hospitals, transportation and housing authorities and other
+similar authorities and agencies. Municipal obligations are generally supported
+by either the taxing authority of the issuer or the issuer's or underlying
+obligor's ability to collect fees or assessments for certain projects or public
+services. More recently, the municipal market has expanded to include
+structured, project finance and asset-backed bond issues for infrastructure
+projects, sports stadiums, lease pools and other municipal purposes. This
+portion of the market is growing and has become a focus for the Company in
+recent years. The following table sets forth the volume of new issues of long-
+term (longer than 12 months) municipal bonds and the volume of new issues of
+insured long-term municipal bonds over the past ten years in the United States.
+
+
+                         U.S. Long-Term Municipal Market
+                         -------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                                  Insured Bonds
+                                                           Total               Insured            as Percentage
+($ in Billions)                                           Volume               Volume            of Total Volume
+                                                          ------               ------            ---------------
+<S>                                                       <C>                  <C>               <C>
+1991................................................       $172.4              $ 51.9                   30.1%
+1992................................................        234.7                80.8                   34.4
+1993................................................        292.2               108.0                   37.0
+1994................................................        165.0                61.5                   37.3
+1995................................................        160.0                68.5                   42.8
+1996................................................        185.0                85.7                   46.3
+1997................................................        220.6               107.5                   48.7
+1998................................................        286.2               145.1                   50.7
+1999................................................        227.4               105.3                   46.3
+2000................................................        193.0                78.8                   39.6
+</TABLE>
+
+Source:  Amounts, except for 2000, are based upon estimated data reported by The
+         Bond Buyer's 2000 Yearbook. The 2000 amounts are Ambac Assurance
+         estimates, compiled from industry sources including Securities Data
+         Company, Inc. and The Bond Buyer. Amounts represent gross par amounts
+         issued or insured, respectively, during such year.
+
+         The foregoing table illustrates the changes in the total volume and
+insured volume of new issues of municipal bonds over the past ten years. Changes
+in volume of municipal bond issuance during this period are primarily
+attributable to changes in refunding activity related to the then-current
+interest rate environment, along with relatively steady growth in the underlying
+market. Insured volume, as a percentage of total volume, which had grown
+consistently from 1990 through 1998, has now declined. The decline during 2000
+is generally considered to have resulted from the combination of the relatively
+high credit quality of issues that came to market during the period and the
+firmness in premium pricing in the industry.
+
+         Ambac Assurance guaranteed gross par of $21.4 billion, $32.5 billion
+and $33.9 billion in 2000, 1999 and 1998, respectively, in the U.S. municipal
+finance market.
+
+         In the U.S. municipal finance market, an issuer typically pays an
+up-front premium to Ambac Assurance at the time the policy is issued. Premiums
+are usually quoted as a percentage of the total amount of principal and interest
+that is scheduled to become due during the life of the bonds.
+
+                                       4
+<PAGE>
+
+         Proposed new municipal bond issues are submitted to Ambac Assurance by
+issuers (or their investment bankers or financial advisors) to determine their
+suitability for financial guarantee. Municipal bond issues are sold on either a
+competitive or a negotiated basis. With respect to competitive issues, an issuer
+will publish a notice of sale soliciting bids for the purchase of a proposed
+issue of municipal bonds. Potential bidders on the bonds then form syndicates.
+These syndicates then solicit a determination from some or all of the financial
+guarantors whether an issue is suitable for financial guarantee and at what
+premium rate and on what terms. The syndicate then determines whether to bid on
+the issue with a financial guarantee (and if so, with which financial guarantor)
+or without a financial guarantee. The issuer then generally selects the
+syndicate with the lowest bid. In a negotiated offering, the issuer has already
+selected an investment bank and that investment bank solicits premium quotes and
+terms from the financial guarantors.
+
+         Ambac Assurance also provides guarantees on bonds outstanding in the
+secondary market that are typically purchased by an institution to facilitate
+the sale of municipal bonds in its portfolio or inventory. The guarantee
+generally increases the sale price of bonds (typically by an amount greater than
+the cost of the policy) and affords a wider secondary market and therefore
+greater marketability to a given issue of previously issued bonds. As is the
+case with new issues, the premium is generally payable in full at the time of
+policy issuance. Ambac Assurance employs the same underwriting standards on
+secondary market issues that it does on new municipal bond issues.
+
+         As of December 31, 2000 and 1999, net outstanding par exposure related
+to municipal bond transactions was $180.3 billion and $173.0 billion,
+respectively. See "Financial Guarantees in Force - Types of Bonds" below, for a
+breakout of net outstanding par exposure by bond type.
+
+         U.S. Structured Finance and Asset-backed Market
+
+         Financial guarantees of securities in the U.S. structured finance and
+asset-backed market are typically issued in connection with transactions in
+which the securities being issued are secured by or payable from a specific pool
+of assets. This pool of assets has an identifiable cash flow or market value and
+is held by a special purpose issuing entity.
+
+         Asset-backed securizations may be supported by a broad range of assets
+including mortgage-backed securities and home equity loans, credit card
+receivables, trade receivables, auto loans, student loans and leases. Other
+deals, called structured financings, include collateralized debt obligations
+("CDOs"), collateralized bond obligations ("CBOs") and collateralized loan
+obligations ("CLOs"), are typically backed by corporate, sovereign or
+sub-sovereign debt.
+
+         Structured finance also encompasses credit enhancement for commercial
+paper conduits ("conduits"). Conduits are used by issuers to efficiently fund
+assets in the short-term commercial paper market. Typically sponsored by
+financial institutions, customers sell financial assets such as trade
+receivables to the conduits, which in turn issue commercial paper to fund the
+purchase of the assets. In addition to providing program level enhancement
+covering the entire conduit structure, Ambac Assurance may also provide a
+financial guarantee against the default of a specific security sold into a
+conduit.
+
+                                       5
+<PAGE>
+
+         In general, structured finance and asset-backed obligations are payable
+only from cash flow generated by a pool of assets and take the form of either
+"pass-through" obligations, which represent interests in the related assets, or
+"pay-through" obligations, which generally are debt obligations which are
+collateralized by the related assets. Both types of obligations also generally
+have the benefit of over-collateralization and/or other forms of credit
+enhancement to mitigate credit risks associated with the related assets.
+
+         Unlike the municipal market in which a substantial portion of the deals
+is bid competitively by the financial guarantors, the structured and
+asset-backed market is essentially a negotiated one. The financial guarantor
+will work directly with the investment bank or client to create an acceptable
+structure. Consequently, in addition to the types of deals listed above,
+structured finance will also include unique transactions and small market
+niches.
+
+         The U.S. structured finance and asset-backed market in which Ambac
+Assurance provides financial guarantees is broad and varied, comprising public
+issues, private placements and asset-backed commercial paper ("ABCP"). The
+increasing array of classes of assets securitized or guaranteed, and the recent
+rapid development of the market, makes estimating the size of the aggregate U.S.
+structured finance and asset-backed markets difficult. Three of the most
+developed sectors of this market are public asset-backed, mortgage-backed
+securities and ABCP. According to Asset-Backed Alert, volume in public
+asset-backed and mortgage-backed securities combined totaled $339.9 billion,
+$360.3 billion and $319.0 billion in 2000, 1999 and 1998, respectively.
+Approximately 21%, 21% and 19% of those markets were insured in 2000, 1999 and
+1998, respectively. According to Merrill Lynch, total ABCP outstanding at
+December 31, 2000, 1999 and 1998 was approximately $624.0 billion, $521.0
+billion and $392.0 billion, respectively.
+
+         Ambac Assurance guaranteed gross par of $30.4 billion, $33.4 billion
+and $22.6 billion in 2000, 1999 and 1998, respectively, in the U.S. Structured
+Finance and Asset-backed market.
+
+         Premiums for structured finance and asset-backed policies are based on
+a percentage of either principal or principal and interest insured. The timing
+of the collection of structured finance and asset-backed premiums varies among
+individual transactions; some being collected in a single payment at policy
+inception date, and others being collected periodically (e.g., monthly,
+quarterly or annually) from the cash flow generated by the underlying financial
+assets.
+
+         As of December 31, 2000 and 1999, net outstanding par exposure related
+to U.S. structured finance and asset-backed transactions was $64.7 billion and
+$53.0 billion, respectively. See "Financial Guarantees in Force - Types of
+Bonds" below, for a breakout of net outstanding par exposure by bond type.
+
+         International Market
+
+         Outside of the United States, structured and asset-backed issuers,
+utilities, sovereign and sub-sovereign issuers, and other issuers are
+increasingly using financial guarantee products, particularly in markets
+throughout Western Europe. A number of
+
+                                       6
+<PAGE>
+
+important trends in international markets have contributed to this expansion. In
+the United Kingdom, Australia and elsewhere, ongoing privatization efforts have
+shifted the burden of funding from the government to public and private capital
+markets, where investors may seek the security of financial guarantee products.
+In Europe, Australia, Japan and the Emerging Markets, there is growing interest
+in asset-backed securitization.
+
+         While the principles of securitization have been increasingly applied
+in overseas markets, development in particular countries has varied due to the
+sophistication of the local capital markets and the impact of legal and
+financial regulatory requirements and accounting standards. It is anticipated
+that securitization will continue to expand internationally, albeit at varying
+rates in each country. Ambac Assurance insures a wide array of obligations in
+the international markets including infrastructure finance, asset-backed and
+structured transactions, utilities, and other obligations in selected
+international markets.
+
+         Ambac Assurance's strategy in the international markets is to
+strengthen its franchise in developed markets by focusing on high quality
+infrastructure, structured finance, securitization, and utility finance
+transactions, and in emerging markets by focusing on top tier future flow
+transactions (structured transactions secured by offshore cash flows generated
+from exports or payment remittances) and collateralized debt obligations.
+
+         In 1997, Ambac Assurance established a subsidiary in the United
+Kingdom, Ambac Assurance UK Limited ("Ambac UK"), which is authorized to conduct
+certain classes of general financial guarantee business in the United Kingdom.
+Ambac UK is the Company's primary vehicle for directly issuing financial
+guarantee policies in the United Kingdom and Europe. Ambac UK has entered into
+net worth maintenance and reinsurance agreements with Ambac Assurance, which
+support its triple-A ratings.
+
+         During 2000, Ambac Assurance entered into an alliance agreement in
+Japan with Yasuda Fire and Marine ("Yasuda") and now occupies joint offices in
+Japan with Yasuda Kasai Financial Guarantee Insurance Company, Limited ("YKFG"),
+a Yasuda subsidiary and the first triple-A rated monoline financial guarantor in
+Japan. Together, Ambac Assurance and YKFG will seek to significantly increase
+the market for financial guarantees in Japan.
+
+         From 1995 to March 2000, Ambac Assurance and MBIA Insurance Corporation
+("MBIA") marketed financial guarantees outside of the United States via an
+unincorporated joint venture, MBIA.AMBAC International (the "Joint Venture").
+Under the Joint Venture, financial guarantee policies were issued separately by
+each of the companies. While retaining the right to act individually, each
+company had the opportunity to reinsure up to 50 percent of the international
+financial guarantee business written by the other company as part of the Joint
+Venture. In March 2000, Ambac Assurance and MBIA announced the restructuring of
+their Joint Venture arrangement. Post restructuring, Ambac Assurance and MBIA
+have continued the reciprocal reinsurance arrangement for international
+business. However, the companies now market and originate financial guarantees
+independently. The Company believes that the restructuring of the Joint Venture
+has not and will not result in any reduction in premiums written from
+international business, although no assurances can be given that such a
+reduction will not occur in the future.
+
+         While there is evidence that the volume of international structured
+finance transactions has increased significantly in the recent past, unlike the
+municipal and
+
+                                       7
+<PAGE>
+
+domestic asset-backed markets, there are few statistics that effectively track
+volume in the global markets. There are several reasons for this, including the
+varied nature of the deals coming to market, the early stages of development of
+certain asset classes and the fact that many international deals are privately
+placed.
+
+         Ambac Assurance guaranteed gross par of $19.5 billion, $7.4 billion and
+$5.0 billion in 2000, 1999 and 1998, respectively, in the international market.
+Premiums for international policies are based on a percentage of either
+principal or principal and interest guaranteed. The timing of the collection of
+international structured finance and asset-backed premiums varies among
+individual transactions; some being collected in a single payment at policy
+inception date, and others being collected periodically (i.e., monthly,
+quarterly or annually).
+
+         As of December 31, 2000 and 1999, net outstanding par exposure related
+to international transactions was $31.3 billion and $14.3 billion, respectively.
+See "Financial Guarantees in Force - Types of Bonds" below, for a breakout of
+net outstanding par exposure by bond type.
+
+Underwriting and Surveillance
+
+         Underwriting guidelines, policies and procedures have been developed by
+Ambac Assurance's management with the intent that Ambac Assurance guarantee only
+those obligations which, in the opinion of Ambac Assurance analysts, are of
+investment grade quality with a remote risk of loss. However, losses may occur
+from time to time and it is Ambac Assurance's policy to provide for loss
+reserves that are adequate to cover potential losses. See "Losses and Reserves"
+below.
+
+         The underwriting process involves review of structural, legal and
+credit issues, including compliance with current Ambac Assurance underwriting
+standards. These standards are reviewed periodically by management.
+Additionally, the underwriting process often entails extensive on-site due
+diligence covering the issuer and other parties to an insured transaction.
+
+         The decision to guarantee an issue is based upon such factors as the
+issuer's ability to repay the bonds, the bond's security features and the bond's
+structure, rather than upon an actuarial or statistical prediction of the
+likelihood that the issuer will default on the underlying debt obligation.
+
+         Members of Ambac Assurance's underwriting staff review all requests for
+guarantees. The underwriting process is designed to screen issues and begins
+with a credit analysis by the primary analyst assigned to the issue. The credit
+is then reviewed within the primary analyst's underwriting group. At a minimum,
+the primary analyst's recommendation to qualify or reject an issue must be
+approved by a concurring analyst and an underwriting officer. The number of
+additional approvals required for a particular credit depends on Ambac
+Assurance's aggregate exposure to the credit. In some cases, the complexity of
+the credit or whether it is a new asset type are determining factors in the
+approval/review process. For large, complex or new types of credits, the
+underwriting decision must be approved by a credit committee comprised of senior
+underwriting officers and an attorney, in addition to the analysts and
+underwriting officer mentioned above.
+
+                                       8
+<PAGE>
+
+         Ambac Assurance assigns internal ratings to individual exposures as
+part of the underwriting process and at surveillance reviews. These internal
+ratings, which represent Ambac Assurance's independent judgments, are based upon
+underlying credit parameters similar to those used by rating agencies.
+
+         Municipal Underwriting:
+         ----------------------
+         In addition to general underwriting standards, each asset class, and
+bond type within asset class, has more specific underwriting criteria. For
+example, the critical risk factors for municipal credits will include the credit
+quality of the issuer, type of issue, the repayment source, the type of security
+pledged, the presence of restrictive covenants, and the bond's maturity. Each
+bond issue is evaluated in accordance with, and the final premium rate is a
+function of, the particular factors as they relate to such issue.
+
+         Underwriting criteria that have been developed for each bond type
+reflect the differences in, for example, economic and social factors, debt
+management, project essentiality, financial management, legal and administrative
+factors, revenue sources and security features.
+
+         Structured Finance Underwriting:
+         -------------------------------
+         Structured finance and asset-backed obligations generally entail two
+forms of risks: asset risk, which relates to the amount and quality of asset
+coverage; and structural risk, which relates to the extent to which the
+transaction structure protects the interests of the investors, and therefore the
+guarantor.
+
+         In general, the amount and quality of asset coverage required is
+determined by the historical performance of the assets. The future performance
+of the underlying pool of assets will generally determine whether the amount of
+over-collateralization or other credit enhancement ultimately is sufficient to
+protect investors, and therefore the guarantor, against adverse asset
+performance. The ability of the servicer of the assets to properly service and
+collect the underlying assets often is a factor in determining future asset
+performance.
+
+         Structured and asset-backed securities are usually designed to protect
+the investors, and therefore the guarantor, from the bankruptcy or insolvency of
+the entity that originated the underlying assets as well as from the bankruptcy
+or insolvency of the servicer of those assets. The servicer of the assets is
+typically responsible for collecting cash payments on the underlying assets and
+forwarding such payments, net of servicing fees, to the special purpose issuing
+entity. Related issues that often arise concern whether the sale of the assets
+by the originator to the issuer of the asset-backed obligations would be
+respected in the event of the bankruptcy or insolvency of the originator and
+whether the servicer of the assets may be permitted or required to delay the
+remittance to investors of any cash collections held by it or received by it
+after the time it becomes subject to bankruptcy or insolvency proceedings. In
+addition, servicer risk is often present in these transactions. Generally,
+servicer risk is the risk that poor performance at the servicer level
+contributes to a decline in the collections of borrower payments in the
+transaction. Ambac Assurance addresses these risks through its credit
+underwriting guidelines, standards and procedures.
+
+         Within the mortgage-backed and home equity loan market, Ambac Assurance
+seeks to work with higher quality, well-capitalized issuers. The issuers
+typically originate or
+
+                                       9
+<PAGE>
+
+purchase first lien mortgages, home equity loans or home equity lines of credit,
+which are in turn sold by the issuers in the form of asset-backed securities. In
+considering whether to guarantee these securities, Ambac Assurance analyzes the
+quality of the underlying assets, the structure of the securitization, the
+experience and financial strength of the servicer of the underlying assets and
+the credit quality of the issuer.
+
+         International Underwriting:
+         --------------------------
+         In the international markets, Ambac Assurance seeks to guarantee
+transactions of the same high credit standards it applies in its U.S. business.
+However, an understanding of the unique risks related to the particular country
+and region that could impact the credit of the issuer is necessary. These risks
+include legal and political environments, capital market dynamics, exposures to
+foreign exchange, and the degree of governmental support. Ambac Assurance
+monitors these risks carefully and addresses them through its credit
+underwriting guidelines, country limits, standards and procedures.
+
+         Geographically, the markets receiving Ambac Assurance's primary
+international focus have been the United Kingdom, Australia, Japan, France and
+certain parts of Latin America. In addition, Ambac has guaranteed transactions
+in which the geographic risk is spread over multiple countries. The types of
+international obligations guaranteed have primarily been CBOs, CLOs,
+asset-backed securities, sovereign and sub-sovereign obligations, special
+revenue and infrastructure obligations. Management believes that risk associated
+with its international book of business is similar in risk type to its domestic
+structured finance book of business and, in fact, international transactions may
+include components of domestic exposure.
+
+         Pricing:
+         -------
+         Ambac Assurance determines premium rates on the basis of the bond type
+and its perception of the risk it is assuming based on the credit strength of
+the bond issue. Factors considered in pricing include term to maturity,
+structure of the issue, and credit and market factors including security
+features and other credit enhancement features. Additionally, the interest rate
+spread between insured and uninsured obligations with characteristics similar to
+those of the proposed bond issue is considered in the pricing process as well as
+the cost and the projected return to Ambac Assurance. The premium rate for a new
+issue also takes into account the benefits to be obtained by the issuer.
+
+         Surveillance and Remediation:
+         ----------------------------
+         Surveillance groups and other credit professionals review the financial
+guarantee portfolio for concentration of risk by (i) specific bond types; (ii)
+geographic location; and (iii) size of issue. Surveillance analysts schedule and
+execute regular and ad hoc reviews of credits in the book of business.
+Risk-adjusted surveillance strategies have been developed for each bond type.
+Review periods and scope of review vary by bond type based upon the risk
+inherent in the nature of the credits. The focus of the surveillance review is
+to determine credit trends and recommend appropriate classification and review
+periods. The separate underwriting groups are also responsible for portfolio
+surveillance which entails a broader examination of trends in specific asset
+classes and bond types.
+
+         Surveillance of the credit quality of underlying reference obligations
+in the Company's structured credit derivatives portfolio is performed on a
+regular basis. Credit spreads, which act as a measure of the market's perception
+of an issuer's credit quality, are monitored to identify potential problems. In
+addition, published credit ratings and current news reports are monitored
+regularly.
+
+                                      10
+<PAGE>
+
+         Those issues that are either in default or have developed problems that
+eventually may lead to a claim or loss are tracked closely by the appropriate
+surveillance team. Internal and/or outside counsel reviews the documents
+underlying any problem credit and an analysis is prepared outlining Ambac
+Assurance's rights and potential remedies, the duties of all parties involved
+and recommendations for corrective actions. This analysis, along with the
+schedule of corrective actions, is reviewed in the regular remedial credit
+meetings. Ambac Assurance also meets with issuers to reach agreement upon the
+nature and the scope of the problem and to discuss the issuers' operating plans.
+
+         In many instances, Ambac Assurance, under the terms of the documents
+governing the underlying obligation, has the ability, among other things, to
+direct that audits be performed with respect to servicer and trustee contractual
+responsibilities. Ambac Assurance would meet with the appropriate officials to
+outline Ambac Assurance's concerns and rights. When the underlying economics so
+indicate, Ambac Assurance may aid in a restructuring to improve the debt service
+coverage.
+
+         The rating agencies also monitor the credits underlying Ambac
+Assurance's financial guarantee in force and, in most cases, advise Ambac
+Assurance of the credit rating each issue would receive if it were not insured.
+
+         Portfolio Risk Management Committee:
+         -----------------------------------
+         The Company has a Portfolio Risk Management Committee ("PRMC") which
+has established various procedures and controls to monitor and manage credit
+risk. The PRMC is comprised of senior credit professionals and senior management
+of the Company. Its scope is enterprise-wide and its focus is on risk
+measurement, risk/return optimization, and capital attribution in a portfolio
+context. This committee works closely with the senior credit committees of each
+underwriting group to assure that credit criteria are maintained, are
+appropriate and are systematically and consistently applied.
+
+Financial Guarantees in Force
+
+         Ambac Assurance underwrites and prices financial guarantees on the
+assumption that the guarantee will remain in force until maturity of the
+underlying bonds. Ambac Assurance estimates that the average life of its
+guarantees on new issue par in force at December 31, 2000 was 10 years. The 10
+year average life is determined by applying a weighted average calculation,
+using the remaining years to maturity of each guaranteed bond, and weighting
+them on the basis of the remaining par guaranteed. No assumptions are made for
+prepayments or future refundings of guaranteed issues. Municipal bonds generally
+have provisions that allow the issuer to prepay all or a portion of the
+outstanding amount prior to maturity.
+
+         Ambac Assurance seeks to maintain a diversified financial guarantee
+portfolio designed to spread its risk based on a variety of criteria, including
+issue size, type of bond, geographic area and issuer.
+
+         As of December 31, 2000, the total net par amount of guaranteed bonds
+outstanding was $276.3 billion.
+
+                                      11
+<PAGE>
+
+         Types of Bonds
+
+         The table below shows the distribution by bond type of Ambac
+Assurance's guaranteed portfolio as of December 31, 2000.
+
+                       Guaranteed Portfolio by Bond Type
+                            as of December 31, 2000
+
+
+<TABLE>
+<CAPTION>
+                                                                                                     % of Total Net
+                                                                            Net Par Amount             Par Amount
+ Bond Type                                                                    Outstanding             Outstanding
+----------------------------------------------------------------------    --------------------      -----------------
+<S>                                                                       <C>                       <C>
+ ($ In Millions)
+ U.S. Municipal Finance:
+     Lease and tax-backed revenue.................................              $   46,292                   17%
+     General obligation...........................................                  39,432                   14
+     Utility revenue..............................................                  28,504                   10
+     Health care revenue..........................................                  17,837                    7
+     Investor-owned utilities.....................................                  10,560                    4
+     Transportation revenue.......................................                  10,496                    4
+     Higher education.............................................                   9,603                    3
+     Housing revenue..............................................                   7,146                    3
+     Student loans................................................                   6,375                    2
+     Other........................................................                   4,065                    1
+                                                                          --------------------      -----------------
+         Total U.S. Municipal Finance.............................                 180,310                   65
+                                                                          --------------------      -----------------
+ U.S. Structured Finance:
+      Mortgage-backed and home equity.............................                  38,215                   14
+      Asset-backed and conduits...................................                  22,121                    8
+      Other.......................................................                   4,324                    2
+                                                                          --------------------      -----------------
+         Total Structured Finance.................................                  64,660                   24
+                                                                          --------------------      -----------------
+         Total Domestic...........................................                 244,970                   89
+                                                                          --------------------      -----------------
+
+ International: ...................................................
+       Structured credit derivatives..............................                  15,313                    6
+       Asset-backed and conduits..................................                   8,595                    3
+       Utilities..................................................                   1,803                    1
+       Mortgage-backed and home equity............................                   1,364                    -
+       Sovereign/sub-sovereign....................................                   1,123                    -
+       Other......................................................                   3,084                    1
+                                                                          --------------------      -----------------
+         Total International......................................                  31,282                   11
+                                                                          --------------------      -----------------
+             Grand Total .........................................              $  276,252                   100%
+                                                                          ====================      =================
+</TABLE>
+
+
+         International transactions may include components of domestic exposure.
+
+                                      12
+<PAGE>
+
+         The table below shows the percentage, by bond type, of new business
+guaranteed by Ambac Assurance during each of the last five years.
+
+                    New Business Guaranteed by Bond Type /(1)/
+
+<TABLE>
+<CAPTION>
+Bond Type                                    2000             1999            1998            1997             1996
+--------------------------------------  --------------   -------------   --------------  --------------   -------------
+<S>                                     <C>              <C>             <C>             <C>              <C>
+U.S. Municipal Finance:
+    Lease and tax-backed revenue               12%               9%             15%             17%              23%
+    General obligation.............             5                9              10              18               16
+    Utilities /(2)/................             5                9              12              12               15
+    Transportation revenue.........             2                4               2               2                3
+    Student loans..................             2                2               1               1                3
+    Higher education...............             1                3               2               3                3
+    Housing revenue................             1                1               2               3                3
+    Health care revenue............             0                4               8               8                7
+    Other..........................             1                1               1               1                0
+                                        --------------   -------------   --------------  --------------   -------------
+      Total Municipal Finance......            29               42              53              65               73
+                                        --------------   -------------   --------------  --------------   -------------
+U.S. Structured Finance:
+     Mortgage-backed and home......
+        Equity.....................            21               30              22              18               12
+     Asset-backed and conduits.....            16               16              15               9                4
+     Other.........................             5                2               2               3                3
+                                        --------------   -------------   --------------  --------------   -------------
+      Total U.S. Structured Finance            42               48              39              30               19
+
+                                        --------------   -------------   --------------  --------------   -------------
+          Total Domestic ..........            71               90              92              95               92
+                                        --------------   -------------   --------------  --------------   -------------
+
+International:
+     Structured credit derivatives             20                4               0               0                0
+     Asset-backed and conduits.....             6                4               4               1                6
+     Utilities.....................             1                0               1               1                0
+     Mortgage-backed and home......
+        Equity.....................             1                1               0               1                0
+     Sovereign/sub-sovereign.......             0                0               0               1                0
+     Other.........................             1                1               3               1                2
+                                        --------------   -------------   --------------  --------------   -------------
+       Total International.........            29               10               8               5                8
+                                        --------------   -------------   --------------  --------------   -------------
+      Grand Total..................           100%             100%            100%            100%             100%
+                                        ==============   =============   ==============  ==============   =============
+</TABLE>
+
+(1)  Stated as a percentage of total net par amounts guaranteed during such
+     year.
+(2)  Includes investor-owned utilities.
+
+
+         Issue Size
+
+         Ambac Assurance seeks a broad coverage of the market by guaranteeing
+small and large issues alike. Ambac Assurance's financial guarantee exposure as
+of December 31, 2000 reflects the historical emphasis on issues guaranteed with
+an original par amount of less than $25 million in the municipal market.
+However, with the entrance into the U.S. structured finance and international
+markets in recent years, Ambac Assurance's emphasis has evolved towards larger
+deals. The following table sets forth the distribution of Ambac Assurance's
+guaranteed portfolio as of December 31, 2000, with respect to the original size
+of each guaranteed issue:
+
+                                      13
+<PAGE>
+
+                         Original Par Amount Per Issue
+                            as of December 31, 2000
+
+
+
+<TABLE>
+<CAPTION>
+                                                              % of Total           Net Par         % of Total Net
+                                           Number of           Number of            Amount           Par Amount
+Original Par Amount                         Issues              Issues           Outstanding         Outstanding
+-------------------------------------   ----------------    ----------------    ---------------    ----------------
+                                                                                 ($ In Millions)
+<S>                                      <C>                <C>                 <C>                 <C>
+Less than $10 million...........                 8,729              62%             $   24,601              9%
+$10-25 million..................                 2,519              18                  30,657             11
+$25-50 million..................                 1,203               9                  33,026             12
+Greater than $50 million........                 1,576              11                 187,968             68
+                                        ----------------    ----------------    ---------------    ----------------
+                                                14,027             100%             $  276,252            100%
+                                        ================    ================    ===============    ================
+</TABLE>
+
+
+         Geographic Area
+
+         Ambac Assurance is licensed to write business in the U.S. and abroad.
+As of December 31, 2000, the ten largest U.S. states, as measured by net par
+amount outstanding, accounted for approximately 41% of Ambac Assurance's total
+net par amount outstanding. The following table sets forth the geographic
+distribution of Ambac Assurance's insured exposure as of December 31, 2000.
+
+        Guaranteed Portfolio by Geographic Area as of December 31, 2000
+
+
+<TABLE>
+<CAPTION>
+                                                                         Net Par           % of Total Net
+                                                                         Amount              Par Amount
+       Geographic Area                                                Outstanding           Outstanding
+       ---------------------------------------------------------    -----------------    -----------------
+       ($ In Millions)
+       <S>                                                          <C>                  <C>
+       Domestic:
+         California.........................................           $    25,189              9%
+         New York...........................................                15,988              6
+         Pennsylvania.......................................                14,567              5
+         Florida............................................                13,966              5
+         Texas..............................................                 9,342              3
+         New Jersey.........................................                 8,021              3
+         Illinois...........................................                 7,876              3
+         Ohio...............................................                 7,156              3
+         Massachusetts......................................                 6,489              2
+         Michigan...........................................                 5,740              2
+         Mortgage and asset-backed..........................                60,336             22
+         Other states.......................................                70,300             26
+                                                                    -----------------    ----------------
+            Total Domestic..................................               244,970             89
+                                                                    -----------------    ----------------
+       International:
+         United Kingdom.....................................                 3,103              1
+         Australia..........................................                 1,382              1
+         Japan..............................................                 1,167             --
+         France.............................................                   765             --
+         Mexico.............................................                   608             --
+         Internationally diversified........................                20,962              8
+         Other international................................                 3,295              1
+                                                                    -----------------    ----------------
+            Total International.............................                31,282             11
+                                                                    -----------------    ----------------
+            Grand Total.....................................           $   276,252            100%
+                                                                    =================    ================
+</TABLE>
+
+
+         Mortgage and asset-backed obligations include guarantees with multiple
+locations of risk within the United States. Internationally diversified includes
+structured credit derivatives and other guarantees with multiple locations of
+risk globally. Many international transactions include components of domestic
+exposure.
+
+                                      14
+<PAGE>
+
+         Single Risk
+
+         Ambac Assurance has adopted underwriting and exposure management
+policies designed to limit the net guarantees in force for any one credit. In
+addition, Ambac Assurance uses reinsurance to limit net exposure to any one
+credit. As of December 31, 2000, Ambac Assurance's net par amount outstanding
+for its 20 largest credits, totaling $12.9 billion, was approximately 4.7% of
+Ambac Assurance's total net par amount outstanding with no one credit
+representing more than 1% of Ambac Assurance's total net par amount outstanding.
+Ambac Assurance is also subject to certain regulatory limits and rating agency
+guidelines on exposure to a single credit. See "Insurance Regulatory Matters"
+and "Rating Agencies," below.
+
+         Underlying Ratings
+
+         The following table sets forth Ambac Assurance's financial guarantee
+portfolio by underlying rating prior to being guaranteed by Ambac Assurance, as
+of December 31, 2000:
+
+
+                   Insured Portfolio by Underlying Rating /(1)/
+                             as of December 31, 2000
+
+
+
+<TABLE>
+<CAPTION>
+                                                                         Net Par           % of Total Net
+                                                                          Amount             Par Amount
+        Rating                                                         Outstanding           Outstanding
+        ---------------------------------------------------------    -----------------    ----------------
+        ($ In millions)
+        <S>                                                          <C>                  <C>
+        AAA....................................................          $   17,396                6%
+        AA.....................................................              40,016               14
+        A......................................................             135,860               49
+        BBB....................................................              82,432               30
+        BIG /(2)/................................................               548               *1
+                                                                     -----------------    ----------------
+                                                                         $  276,252              100%
+                                                                     =================    ================
+</TABLE>
+     * less than
+
+        (1)  Ratings represent Ambac Assurance internal ratings.
+        (2)  Represents those bonds which have been categorized as "below
+             investment grade" by Ambac Assurance.
+
+Losses and Reserves
+
+         Although there have been certain monetary defaults in bond issues of
+substantial amounts, the incidence of monetary default on municipal bonds has
+historically been infrequent. Based upon data reported by the Association of
+Financial Guaranty Insurors, the percentage of insured municipal bonds
+experiencing monetary defaults in recent years is low relative to the entire
+municipal market. The relatively low incidence of municipal bond defaults may be
+partially the result of safeguards developed over the years since the Great
+Depression of the 1930's, when a great number of municipal defaults occurred.
+Such safeguards include the imposition of issuer debt limits, greater
+supervision by state governments of local debt administration, and more thorough
+credit reviews by investment firms, rating agencies and institutional investors.
+While these safeguards address many of the causes of earlier defaults, they may
+be inadequate to prevent an increased level of defaults in the future caused by
+presently unforeseen economic and other factors.
+
+                                      15
+<PAGE>
+
+         Ambac Assurance's policy is to provide for loss and loss adjustment
+expense reserves that are adequate to cover potential unidentified losses
+inherent in the portfolio, as well as losses that may arise from guaranteed
+obligations which are currently or imminently in monetary default. The active
+credit reserve ("ACR") represents an estimate of unidentified losses from our
+guaranteed obligations. As of December 31, 2000, Ambac Assurance's ACR was
+$100.3 million. When a monetary default occurs or is imminent with respect to a
+particular guaranteed obligation, a case basis reserve is established in an
+amount that is sufficient to cover the present value of the anticipated
+defaulted debt service payments over the expected period of default and the
+estimated expenses associated with settling the claims, less estimated
+recoveries under salvage or subrogation rights. In estimating the losses on
+monetary defaults, Ambac Assurance makes its assessment based on the full term
+of the guaranteed obligation. All or part of the case basis reserve may be
+allocated from available ACR. Ambac Assurance's net case basis reserves totaled
+$31.0 million at December 31, 2000.
+
+         The most recent three-year history of Ambac Assurance's loss reserves,
+and losses and loss adjustment expenses incurred and paid, is detailed in the
+table below:
+
+                 Reserve for Losses and Loss Adjustment Expenses
+
+
+<TABLE>
+<CAPTION>
+                                                                                   Years Ended December 31,
+                                                                           ------------------------------------------
+                                                                               2000          1999           1998
+                                                                           -------------  ------------  -------------
+<S>                                                                        <C>            <C>           <C>
+($ In Thousands)
+Reserve for losses and loss adjustment expenses at January 1,.............   $121,475      $115,794       $103,345
+Less: reinsurance recoverable.............................................        500         3,638          4,219
+                                                                           -------------  ------------  -----------
+
+Net reserve for losses and loss adjustment expenses at January 1,.........    120,975       112,156         99,126
+Losses and loss adjustment expenses incurred..............................     15,000        11,000          6,000
+Losses and loss adjustment expenses paid (net of salvage received)........     (4,621)       (2,181)         7,030
+                                                                           ----------     ---------     -----------
+
+Net reserve for losses and loss adjustment expenses at December 31,.......    131,354       120,975        112,156
+Plus: reinsurance recoverable.............................................      1,091           500          3,638
+                                                                           ----------     ---------     -----------
+Reserve for losses and loss adjustment expenses at December 31, ..........   $132,445      $121,475       $115,794
+                                                                           ==========     =========     ===========
+</TABLE>
+
+         Management of Ambac Assurance believes that the reserves for losses and
+loss adjustment expenses are adequate to cover the ultimate net costs of claims,
+but the reserves are necessarily based on estimates and there can be no
+assurance that the ultimate liability will not exceed such estimates. See Note 2
+of Notes to Consolidated Financial Statements in the Company's 2000 Annual
+Report to Stockholders.
+
+Competition
+
+         The financial guarantee business is highly competitive. Ambac
+Assurance's principal competitors in the market for financial guarantees are
+three other triple-A rated monoline insurance companies, Financial Guaranty
+Insurance Company ("FGIC"), Financial Security Assurance Inc. ("FSA") and MBIA.
+In addition, banks, multiline insurers and reinsurers, and lower rated financial
+guarantee insurance companies represent additional participants in the broader
+market. The principal competitive factors are: (i) premium rates; (ii)
+conditions precedent to the issuance of a policy related to the structure and
+security features of a proposed bond issue; (iii) the financial strength of the
+guarantor; and (iv) the quality of service provided to issuers, investors and
+other clients of the issuer. With respect to each of these competitive factors,
+Ambac Assurance believes it is on at least equal footing with each of its
+principal competitors.
+
+                                      16
+<PAGE>
+
+         Financial guarantee insurance also competes domestically and
+internationally with other forms of credit enhancement, including letters of
+credit and guarantees (for example, mortgage guarantees where pools of mortgages
+secure debt service payments) provided by banks and other financial
+institutions, some of which are governmental agencies. Letters of credit are
+most often issued for periods of less than 10 years, although there is no legal
+restriction on the issuance of letters of credit having longer terms. Thus,
+financial institutions and banks issuing letters of credit compete directly with
+Ambac Assurance to guarantee short-term notes and bonds with a maturity of less
+than 10 years.
+
+         In order to enter the financial guarantee market certain requirements
+must be met, most restrictive of which is that a significant minimum amount of
+capital is required of a financial guarantor in order to obtain financial
+strength ratings by the rating agencies. In addition, under the New York law, a
+monoline financial guarantor must have at least $75 million of paid-in capital
+and surplus and maintain thereafter at least $65 million of policyholders'
+surplus. A similar law in California imposes a $100 million minimum capital and
+surplus requirement, with a maintenance requirement thereafter of $75 million.
+
+Reinsurance
+
+         State insurance laws and regulations (as well as the rating agencies)
+impose minimum capital requirements and single risk limits on financial
+guarantee insurance companies, limiting the aggregate amount of insurance which
+may be written and the maximum size of any single risk exposure which may be
+assumed. Such companies can use reinsurance to diversify risk, increase
+underwriting capacity, reduce additional capital needs, stabilize shareholder
+returns and strengthen financial ratios. See "Insurance Regulatory Matters,"
+below.
+
+         Ambac Assurance has facultative reinsurance agreements with certain
+high quality reinsurers that allow Ambac Assurance to reduce its large risks, to
+manage its portfolio of insurance by bond type and geographic distribution, and
+to provide additional capacity for frequent bond issuers. Under these
+agreements, portions of Ambac Assurance's interests and liabilities are ceded on
+an issue-by-issue basis. A ceding commission is withheld to defray Ambac
+Assurance's underwriting expenses. In addition, Ambac Assurance and MBIA have
+entered into facultative reinsurance agreements whereby each company may
+reinsure the other on international risks guaranteed.
+
+         As of December 31, 2000, Ambac Assurance had retained approximately 87%
+of its gross financial guarantees in force of $480.6 billion and had ceded
+approximately 13% to its reinsurers. See Note 12 of Notes to Consolidated
+Financial Statements in the Company's 2000 Annual Report to Stockholders.
+
+         As a primary financial guarantor, Ambac Assurance is required to honor
+its obligations to its policyholders whether or not its reinsurers perform their
+obligations under the various reinsurance agreements with Ambac Assurance. To
+minimize its exposure to significant losses from reinsurer insolvencies, Ambac
+Assurance evaluates the financial condition of its reinsurers, prepares annual
+written reviews of such reinsurers and monitors for concentrations of credit
+risk. Ambac Assurance's current primary reinsurers are Ace Guaranty Re, American
+Re, AXA Re Finance, Enhance Reinsurance Company, and MBIA.
+
+                                      17
+<PAGE>
+
+Rating Agencies
+
+         Moody's, S&P, Fitch and R&I periodically review the business and
+financial condition of Ambac Assurance and other companies providing financial
+guarantees. These rating agencies' reviews focus on the guarantor's underwriting
+policies and procedures and the quality of the obligations guaranteed. The
+rating agencies frequently perform assessments of the credits guaranteed by
+Ambac Assurance to confirm that Ambac Assurance continues to meet the capital
+allocation criteria considered necessary by the particular rating agency to
+maintain Ambac Assurance's triple-A ratings. A rating by Moody's, S&P, Fitch or
+R&I, however, is not a "market rating" or a recommendation to buy, hold or sell
+any security. Ambac Assurance's ability to attract new business or to compete
+with other triple-A rated financial guarantors, and its results of operations
+and financial condition, would be materially adversely affected by any reduction
+in its ratings.
+
+Insurance Regulatory Matters
+
+         General Law
+
+         Ambac Assurance is licensed to do business as an insurance company in
+all 50 states, the District of Columbia, the Commonwealth of Puerto Rico and the
+territory of Guam. Ambac U.K., Ambac Assurance's wholly owned subsidiary, is
+licensed to transact insurance in the United Kingdom. Ambac Assurance is subject
+to the insurance laws and regulations of the State of Wisconsin (the "Wisconsin
+Insurance Laws"), its state of incorporation, and the insurance laws and
+regulations of other states in which it is licensed to transact business. Ambac
+U.K. is subject to the insurance laws and regulations of the United Kingdom.
+These laws and regulations, as well as the level of supervisory authority that
+may be exercised by the various state insurance departments, vary by
+jurisdiction. They generally require financial guarantors to maintain minimum
+standards of business conduct and solvency, meet certain financial tests, file
+certain reports with regulatory authorities, including information concerning
+their capital structure, ownership and financial condition. They generally
+require prior approval of certain changes in control of domestic financial
+guarantors and their direct and indirect parents and the payment of certain
+dividends and distributions. In addition, these laws and regulations require
+approval of certain inter-corporate transfers of assets and certain transactions
+between financial guarantors and their direct and indirect parents and
+affiliates. They generally require that all such transactions have terms no less
+favorable than terms that would result from transactions between parties
+negotiating at arm's length. Ambac Assurance is required to file quarterly and
+annual statutory financial statements in each jurisdiction in which it is
+licensed. It is subject to single and aggregate risk limits and other statutory
+restrictions concerning the types and quality of investments and the filing and
+use of policy forms and premium rates. Additionally, Ambac Assurance's accounts
+and operations are subject to periodic examination by the Office of the
+Commissioner of Insurance of the State of Wisconsin (the "Wisconsin
+Commissioner") and other state insurance regulatory authorities. See Note 9 of
+Notes to Consolidated Financial Statements in the Company's 2000 Annual Report
+to Stockholders.
+
+         The Company believes that Ambac Assurance is in material compliance
+with all applicable insurance laws and regulations.
+
+                                      18
+<PAGE>
+
+         Insurance Holding Company Laws
+
+         Under the Wisconsin insurance holding company laws, any acquisition of
+control of the Company and thereby indirect control of Ambac Assurance requires
+the prior approval of the Wisconsin Commissioner. "Control" is defined as the
+direct or indirect power to direct or cause the direction of the management and
+policies of a person. Any purchaser of 10% or more of the outstanding voting
+stock of a corporation is presumed to have acquired control of that corporation
+and its subsidiaries unless the Wisconsin Commissioner, upon application,
+determines otherwise. For purposes of this test, the Company believes that a
+holder of common stock having the right to cast 10% of the votes which may be
+cast by the holders of all shares of common stock of the Company would be deemed
+to have control of Ambac Assurance within the meaning of the Wisconsin Insurance
+Laws.
+
+         Pursuant to these laws, FMR Corp. obtained approval from the Wisconsin
+Insurance Commissioner to acquire greater than 10% of the Company's outstanding
+stock. As of December 31, 2000 their percentage of ownership was approximately
+12.0%. In their request for approval from the Wisconsin Commissioner, FMR Corp.
+disclaimed any present intention to exercise control over the Company or Ambac
+Assurance or to control or attempt to control the management or operations of
+the Company or Ambac Assurance.
+
+         The Wisconsin insurance holding company laws also require prior
+approval by the Wisconsin Commissioner of certain transactions between Ambac
+Assurance and companies affiliated with Ambac Assurance.
+
+         Wisconsin Dividend Restrictions
+
+         Pursuant to the Wisconsin Insurance Laws, Ambac Assurance may declare
+dividends, subject to any restriction in its articles of incorporation, provided
+that, after giving effect to the distribution, it would not violate certain
+statutory equity, solvency, income and asset tests. Distributions to the
+shareholder (other than stock dividends) must be reported to the Wisconsin
+Commissioner. Extraordinary dividends must be reported prior to payment and are
+subject to disapproval by the Wisconsin Commissioner. An extraordinary dividend
+is defined as a dividend or distribution, the fair market value of which,
+together with all dividends from the preceding 12 months, exceeds the lesser of:
+(a) 10% of policyholders' surplus as of the preceding December 31; or (b) the
+greater of: (i) statutory net income for the calendar year preceding the date of
+the dividend or distribution, minus realized capital gains for that calendar
+year; or (ii) the aggregate of statutory net income for the three calendar years
+preceding the date of the dividend or distribution, minus realized capital gains
+for those calendar years and minus dividends paid or credited and distributions
+made within the first two of the preceding three calendar years.
+
+         During 2000, 1999 and 1998, Ambac Assurance paid to the Company cash
+dividends on its common stock totaling $59.8 million, $52.0 million and $48.0
+million, respectively. See Note 9 of Notes to Consolidated Financial Statements
+in the Company's 2000 Annual Report to Stockholders.
+
+                                      19
+<PAGE>
+
+         New York Financial Guarantee Insurance Law
+
+         New York's comprehensive financial guarantee insurance law governs the
+conduct of business of all financial guarantors licensed to do business in New
+York, including Ambac Assurance. This law requires a financial guarantor to
+contribute to a contingency reserve an amount equal to 50% of premiums as they
+are earned on a statutory basis on policies written prior to July 1, 1989. With
+respect to policies written on and after July 1, 1989, it must make
+contributions over a period of 20 years for municipal bonds and 15 years for all
+other obligations. Contributions continue until the contingency reserve for such
+insured obligations equals the greater of 50% of premiums written for the
+relevant category of insurance or a percentage of the principal guaranteed
+(varying from 0.55% to 2.50%, depending upon the type of obligation guaranteed).
+This reserve must be maintained for the periods specified above, except that
+withdrawals by the guarantor may be permitted under specified circumstances in
+the event that actual loss experience exceeds certain thresholds or if the
+reserve accumulated is deemed excessive in relation to the guarantor's
+outstanding guaranteed obligations. Financial guarantors are also required to
+maintain case basis loss and loss adjustment expense reserves and unearned
+premium reserves on bases established by the regulations.
+
+         The New York financial guarantee insurance law establishes single risk
+limits applicable to all obligations issued by a single entity and backed by a
+single revenue source. Such limits are specific to the type of insured
+obligation (for example, municipal or asset-backed). The limits compare the
+insured net par outstanding and average annual debt service, net of reinsurance
+and collateral, for a single risk to the insurer's qualified statutory capital,
+which is defined as the sum of the insurer's policyholders' surplus and
+contingency reserves. As of December 31, 2000 and 1999, Ambac Assurance and its
+subsidiaries were in compliance with these regulatory requirements.
+
+         Aggregate risk limits are also established on the basis of aggregate
+net liability and policyholders' surplus requirements. "Aggregate net liability"
+is defined as outstanding principal and interest of guaranteed obligations, net
+of reinsurance and collateral. Under these limits, policyholders' surplus and
+contingency reserves must at least equal a percentage of aggregate net liability
+that is equal to the sum of various percentages of aggregate net liability for
+various categories of specified obligations. The percentage varies from 0.33%
+for municipal bonds to 4.00% for certain non-investment grade obligations.
+
+         Financial Guarantee Insurance Regulation in Other States
+
+         The Wisconsin insurance laws and regulations governing municipal bond
+guarantors are similar to those in New York. Under the Wisconsin regulations,
+Ambac Assurance must establish a contingency reserve in an amount equal to 50%
+of net statutory earned premium on municipal bond financial guarantee policies.
+This reserve must be maintained for 20 years. However, the regulations provide
+that compliance with contingency reserve provisions under statutes in other
+jurisdictions that result in greater contributions than under the Wisconsin
+regulations is deemed to constitute compliance with the Wisconsin regulations.
+The Wisconsin regulations also include certain single and aggregate risk
+limitations. The average annual debt service for any single issue of municipal
+bonds may not exceed 10% of Ambac Assurance's policyholders' surplus. In
+addition, Ambac Assurance's cumulative net liability, defined as one-third of
+one percent of the guaranteed unpaid principal and interest covered by current
+municipal bond insurance policies, may not
+
+                                      20
+<PAGE>
+
+exceed its qualified statutory capital, which is defined as the sum of its
+capital and surplus and contingency reserve.
+
+         California has financial guarantee insurance laws similar in structure
+to those of New York. None of the risk limits established in California's
+legislation with respect to business transacted by Ambac Assurance are more
+stringent in any material respect than the corresponding provisions in the New
+York financial guarantee insurance statute. California law requires a financial
+guarantor to contribute to a contingency reserve an amount equal to 50% of
+premiums as they are earned on a statutory basis on policies written prior to
+July 1, 1989. With respect to policies written on and after July 1, 1989, it
+must make contributions over a period of 20 years for municipal bonds and 15
+years for all other obligations until the contingency reserve for such insured
+obligations equals a percentage of principal outstanding (varying from 0.80% to
+3.00%, depending upon the type of obligation guaranteed). This reserve must be
+maintained for the periods specified above, except that withdrawals by the
+financial guarantor may be permitted under specified circumstances in the event
+that actual loss experience exceeds certain thresholds or if the reserve
+accumulated is deemed excessive in relation to the financial guarantor's
+outstanding insured obligations. Ambac Assurance's reported contingency reserve
+is equal to the greater of the required reserve as calculated under New York and
+California law.
+
+         In addition to the laws and regulations of New York, Wisconsin and
+California, Ambac Assurance is subject to laws and regulations of other states
+concerning the transaction of financial guarantees, none of which is more
+stringent in any material respect than the New York financial guarantee
+insurance statute.
+
+Financial Services
+
+         The Company's Financial Services Segment provides financial and
+investment products including investment agreements, interest rate swaps,
+funding conduits, investment advisory and cash management services, principally
+to its financial guarantee clients which include municipalities and their
+authorities, school districts, health care organizations and asset-backed
+issuers.
+
+         Financial services revenues are primarily derived from: (i) net
+investment income; (ii) net swap revenues; (iii) fund management and advisory
+revenues; and (iv) net realized gains and losses on sales of securities.
+Excluding transactions with affiliates, total revenues were $53.6 million, $48.5
+million and $32.4 million in 2000, 1999 and 1998, respectively. See
+"Management's Discussion and Analysis" and Note 18 of Notes to Consolidated
+Financial Statements in the Company's 2000 Annual Report to Stockholders.
+
+         The principal competitive factors among providers of investment
+agreements are: (i) contract interest rates; (ii) conditions precedent to the
+issuance of a policy related to the structure and security features of a
+proposed investment contract; (iii) the financial strength of the financial
+guarantee provider; and (iv) the quality of service provided to issuers,
+investors and other clients of the issuer. With respect to each of these
+competitive factors, the Company believes that ACFI is on equal footing with
+each of its principal competitors.
+
+         The principal competitive factors among providers of interest rate swap
+contracts are: (i) pricing of contracts; (ii) the financial strength of the
+financial guarantee provider;
+
+                                      21
+<PAGE>
+
+(iii) the ability to structure a complete financial package; and (iv) the
+quality of service provided to issuers, investors and other clients of the
+issuer. With respect to each of these competitive factors, the Company believes
+that AFSLP is on equal footing with each of its principal competitors.
+
+         The principal competitive factors among providers of investment
+advisory and cash management services are: (i) pricing of services; (ii)
+investment returns; (iii) the ability to provide services tailored to customers'
+needs; and (iv) the quality of service provided to customers. With respect to
+each of these competitive factors, the Company believes that Cadre and Cadre
+Securities are on equal footing with each of their principal competitors.
+
+         Investment Agreements
+
+         The principal purpose of ACFI is providing investment agreements,
+including investment repurchase agreements, primarily to municipalities and
+their authorities. Investment agreements are primarily used by municipal bond
+issuers to invest bond proceeds until such proceeds can be used for their
+intended purpose, such as financing construction. The investment agreement
+provides for the guaranteed return of principal invested, as well as the payment
+of interest thereon at a guaranteed rate and is rated triple-A by virtue of
+Ambac Assurance's financial guarantee policy, which guarantees its payment
+obligations.
+
+         ACFI manages its balance sheet to protect against a number of risks
+inherent in its business including liquidity, market (principally interest
+rate), credit, operational and legal risk. See "Management's Discussion and
+Analysis -- Risk Management" in the Company's 2000 Annual Report. ACFI is
+managed with the goal of matching the payment schedule of the invested assets,
+including hedges, to the payment schedule of the investment agreement
+liabilities in order to minimize market and liquidity risk.
+
+         A source of liquidity risk is the ability of some counterparties to
+withdraw moneys on dates other than those specified in the draw down schedule.
+Liquidity risk is somewhat mitigated by provisions in certain of the municipal
+investment agreements that limit an issuer's ability to draw on the funds and by
+risk management procedures that require the regular re-evaluation and
+re-projection of draw down schedules. Investments are restricted to fixed income
+securities with a credit quality such that the overall minimum average portfolio
+credit quality is maintained at Aa/AA. Based upon management's projections, ACFI
+maintains funds invested in cash and cash equivalents to meet short-term
+liquidity needs.
+
+         The following table sets forth the net payments due under ACFI's
+settled investment agreements in each of the next five years ending December 31,
+and the period thereafter, based on expected call dates:
+
+                                      22
+<PAGE>
+
+Investment Agreements Obligations
+
+<TABLE>
+<CAPTION>
+         ($ In Thousands)                                                                 Principal Amount /(1)/
+         --------------------------------------------------------------------------------------------------------
+         <S>                                                                              <C>
+         2001..........................................................................           $   1,977,961
+         2002..........................................................................                 818,230
+         2003..........................................................................                 188,266
+         2004..........................................................................                 112,358
+         2005..........................................................................                  34,313
+         All later years...............................................................               1,059,889
+                                                                                          -----------------------
+                                                                                                  $   4,191,017
+                                                                                          =======================
+</TABLE>
+
+         (1) As of December 31, 2000, the interest rates on these agreements
+             ranged from 4.0% to 8.1%.
+
+         ACFI may use interest rate swap contracts in the normal course of
+business for hedging purposes as part of its overall cash flow risk management.
+Some of its interest rate swap agreements have been entered into with its
+affiliate, AFSLP.
+
+         Interest rate swap contracts are agreements where ACFI agrees with
+other parties to exchange, at specified intervals, the difference between
+fixed-rate and floating-rate interest amounts or the difference between
+different interest rate indices calculated by reference to an agreed upon
+notional amount.
+
+         Interest Rate Swaps
+
+         AFSLP provides interest rate swaps primarily to states, municipalities
+and their authorities, and other entities in connection with their financings.
+In addition, AFSLP also provides interest rate swaps to certain affiliates.
+AFSLP is subject to changes in the relationship between tax-exempt and taxable
+interest rates, referred to as "basis risk." If actual or projected tax-exempt
+interest rates change in relation to taxable rates, AFSLP may experience a
+mark-to-market gain or loss. Since late 1995, most municipal interest rate swaps
+transacted by AFSLP contain provisions that are designed to protect the Company
+against certain forms of tax reform, thus mitigating its basis risk. The
+interest rate swaps provided by AFSLP are guaranteed by Ambac Assurance through
+policies that guarantee the obligations of AFSLP and its counterparties.
+
+         AFSLP is a limited partnership. Ambac Assurance, the sole limited
+partner, owns a limited partnership interest representing 90% of the total
+partnership interests of AFSLP. Ambac Financial Services Holdings, Inc. ("AFS
+Holdings"), a wholly-owned subsidiary of the Company, the sole general partner,
+owns a general partnership interest representing 10% of the total partnership
+interest in AFSLP.
+
+         In addition to basis risk, AFSLP manages a variety of other risks
+inherent in its business, including credit, market, liquidity, operational and
+legal. These risks are identified, measured, and monitored through a variety of
+control mechanisms, which are in place at different levels throughout the
+organization. See "Management's Discussion and Analysis -- Risk Management" in
+the Company's 2000 Annual Report to Stockholders.
+
+         Investment Advisory and Cash Management
+
+         Cadre is registered as an investment adviser with the SEC. As a
+registered adviser, Cadre is subject to regulation in certain aspects of its
+business, particularly with respect to
+
+                                      23
+<PAGE>
+
+investment advisory services provided to investment companies and clients. Cadre
+provides investment advisory and administrative services to money market funds
+that are primarily offered to qualified participants, including school
+districts, health care service providers and municipalities.
+
+         Cadre Securities' principal business is the distribution of money
+market funds to the education, health care and municipal sectors, as well as the
+brokering of short-term fixed income securities trades on behalf of its clients.
+It also serves as placement agent and dealer for securities issued by its
+affiliates in private placement transactions. Cadre Securities is registered as
+a broker-dealer with the SEC and with certain states that require such
+registration, and it is a member of the National Association of Securities
+Dealers, Inc. As a registered broker-dealer, Cadre Securities is subject to the
+net capital requirements of Rule 15c3-1 of the Securities Exchange Act of 1934,
+as amended, which is designed to measure the general financial condition and
+liquidity of a broker-dealer. In accordance with this rule, the ratio of
+aggregate indebtedness to net capital ("net capital ratio") shall not exceed 15
+to 1. At December 31, 2000, Cadre Securities had net capital of approximately
+$1.2 million, which was $1.1 million in excess of its required net capital of
+$100 thousand. The net capital ratio was 1.1 to 1.
+
+         At December 31, 2000, Cadre and Cadre Securities provided services to
+approximately 2,700 clients with approximately $7.1 billion in assets.
+
+         Fees from the money market funds for which Cadre and Cadre Securities
+perform services are based on percentages of the average daily net assets of
+such funds. Cadre Securities receives fees for brokering short-term fixed income
+securities trades by marking up the price of the securities purchased and sold
+on behalf of clients. These fees are recorded upon execution of the trades
+since, at that time, substantially all of Cadre Securities' obligations have
+been fulfilled.
+
+Investments and Investment Policy
+
+         As of December 31, 2000, the consolidated investments of the Company
+had an aggregate fair value of approximately $8.3 billion and an aggregate
+amortized cost of approximately $8.2 billion. These investments are managed
+internally by officers of the Company, who are experienced investment managers.
+All investments are effected in accordance with the general objectives and
+guidelines for investments established by each subsidiary's Board of Directors.
+These guidelines encompass credit quality, risk concentration and holding
+period, and are periodically reviewed and revised as appropriate.
+
+         Pursuant to Statement of Financial Accounting Standards No. 115,
+"Accounting for Certain Investments in Debt and Equity Securities," the Company
+has designated all investments as "available-for-sale" and reports them at fair
+value. Unrealized gains and losses are excluded from earnings and reported as a
+component of "Accumulated Other Comprehensive Income (Loss)", in stockholders'
+equity, net of tax.
+
+         As of December 31, 2000, Ambac Assurance's investment portfolio had an
+aggregate fair value of approximately $4.3 billion and an aggregate amortized
+cost of approximately $4.2 billion. Ambac Assurance's investment policy is
+designed to achieve diversification of its portfolio and only permits investment
+in investment grade fixed income securities, consistent with its goal to achieve
+the highest after-tax, long-term return. This
+
+                                      24
+<PAGE>
+
+policy takes into consideration Ambac Assurance's desire for both current income
+and long-term capital growth. Ambac Assurance is subject to limits on types and
+quality of investments imposed by the insurance laws and regulations of the
+States of Wisconsin and New York. In compliance with these laws, Ambac
+Assurance's Board of Directors approves each specific investment transaction of
+Ambac Assurance. See "Insurance Regulatory Matters - General Law," above.
+
+         As of December 31, 2000, ACFI's investment portfolio had an aggregate
+fair value of approximately $4.0 billion and an aggregate amortized cost of
+approximately $4.0 billion. ACFI's investment policy is designed to achieve the
+highest after-tax return on equity, subject to minimum average quality ratings.
+For further discussion, see "Investment Agreements," above.
+
+         The following tables provide certain information concerning the
+investments of the Company:
+
+                            Investments by Rating /(1)/
+                             as of December 31, 2000
+
+<TABLE>
+<CAPTION>
+                                                                                                     % of Investment
+Rating                                                                                                  Portfolio
+-------------------------------------------------------------------------------------------------    -----------------
+<S>                                                                                                  <C>
+AAA /(2)/.........................................................................................                74%
+AA..............................................................................................                  14
+A...............................................................................................                   9
+BBB.............................................................................................                   1
+BIG.............................................................................................                  *1
+Not Rated.......................................................................................                   2
+                                                                                                     -----------------
+                                                                                                                 100%
+                                                                                                     =================
+</TABLE>
+
+(1)  Ratings represent S&P classifications. If unavailable, Moody's rating is
+     used.
+(2)  Includes U.S. Treasury and agency obligations, which comprised
+     approximately 24% of the total investment portfolio.
+
+*   Less Than
+
+
+                             Summary of Investments
+                               As of December 31,
+
+<TABLE>
+<CAPTION>
+                                        --------------------------------------------------------------------------------------------
+                                                      2000                         1999                              1998
+                                        ------------------------------  -----------------------------  -----------------------------
+                                                       Weighted                       Weighted                       Weighted
+                                          Carrying      Average           Carrying     Average            Carrying    Average
+Investment Category                        Value       Yield /(1)/(2)/     Value      Yield /(1)/(2)/      Value     Yield /(1)/(2)/
+-----------------------------------------------------  ---------------  -----------  ----------------  ----------    ---------------
+<S>                                      <C>           <C>              <C>          <C>               <C>           <C>
+($ In Thousands)
+Long-term investments:
+  Taxable bonds.......................    $4,945,457        6.62%        $6,001,199        6.28%         $6,082,903        6.61%
+  Tax-exempt bonds....................     3,119,044        5.77          2,737,272        5.78           2,539,379        6.13
+                                        -------------                  -------------                   -------------
+     Total long-term investments......     8,064,501        6.29          8,738,471        6.13           8,622,282        6.47
+Short-term investments /(3)/:                253,519        6.30            220,896        5.56             119,528        5.69
+                                        -------------                  -------------                   -------------
+     Total investments................    $8,318,020        6.30%        $8,959,367        6.11%         $8,741,810        6.45%
+                                        =============                  =============                   =============
+</TABLE>
+
+
+(1) Yields presented include assets held in the IA Business portfolio. Interest
+    expense on related investment agreements was $283.0 million, $299.5 million
+    and $263.6 million in 2000, 1999 and 1998, respectively.
+(2) Yields are stated on a pre-tax basis, based on average amortized cost.
+(3) Includes taxable and tax-exempt investments.
+
+                                      25
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                           Investments by Security Type
+                                                As of December 31,
+
+                                       ----------------------------------------------------------------------------------
+                                                 2000                         1999                       1998
+                                       ---------------------------   ------------------------   -------------------------
+                                                        Weighted                   Weighted                   Weighted
+                                         Carrying       Average       Carrying      Average      Carrying     Average
+Investment Category                       Value      Yield/(1) (2)/    Value    Yield/(1) (2)/   Value      Yield/(1) (2)/
+---------------------------------------------------- --------------  ----------  ------------   ----------  -------------
+($ In Thousands)
+<S>                                    <C>               <C>        <C>              <C>       <C>              <C>
+Municipal obligations/(4/)............  $3,414,964        5.85%      $2,962,939        5.80%    $2,801,324       6.19%
+Corporate securities.................      980,746        7.47          989,460        7.11      1,413,662       7.34
+Foreign government obligations.......       35,370        6.08           19,044        6.22         21,765       4.16
+U.S. government obligations..........       72,709        6.08           62,479        6.10        122,896       5.80
+Mortgage and asset-backed securities
+(includes U.S. government
+agency obligations)/(3)/..............   3,560,712        6.39        4,704,549        6.08      4,262,635       6.36
+                                       -----------                  -----------                -----------
+   Total long-term investments.......    8,064,501        6.29        8,738,471        6.13      8,622,282       6.47
+Short-term investments/(4)/..........      253,519        6.30          220,896        5.56        119,528       5.69
+                                       -----------                  -----------                -----------
+   Total investments.................   $8,318,020        6.30%      $8,959,367        6.11%    $8,741,810        6.45%
+                                       ===========                  ===========                ===========
+</TABLE>
+
+(1) Yields presented include assets held in the IA Business portfolio. Interest
+    expense on related investment agreements was $283.0 million, $299.5 million
+    and $263.6 million in 2000, 1999 and 1998, respectively.
+(2) Yields are stated on a pre-tax basis, based on average amortized cost.
+(3) The actual maturity dates of mortgage- and asset-backed securities are
+    uncertain because the underlying mortgages may be paid prior to the stated
+    maturity of such securities. This possibility of prepayment creates the risk
+    that the Company will be unable to replace such investments with securities
+    of comparable yield.
+(4) Includes taxable and tax-exempt investments.
+
+
+<TABLE>
+<CAPTION>
+                    Distribution of Investments by Maturity
+                            as of December 31, 2000
+
+                                           Amortized    Estimated
+Maturity                                      Cost      Fair Value
+----------------------------------------  -----------  -----------
+($ In Thousands)
+<S>                                       <C>          <C>
+Due in one year or less (1) ............   $  383,124   $  384,392
+Due after one year through five years ..      388,782      399,150
+Due after five years through ten years .      381,101      394,283
+Due after ten years ....................    3,528,569    3,579,483
+                                          -----------  -----------
+                                            4,681,576    4,757,308
+Mortgage and asset-backed securities/(2)/   3,553,794    3,560,712
+                                          -----------  -----------
+Total investments ......................   $8,235,370   $8,318,020
+                                          ===========  ===========
+</TABLE>
+
+(1) Includes securities with a fair value of $130.9 million, which are
+    classified as long-term investments in the tables above but which mature
+    within one year.
+(2) The actual maturity dates of mortgage and asset-backed securities are
+    uncertain because the underlying mortgages may be paid prior to the stated
+    maturity of such securities. This possibility of prepayment creates the risk
+    that the Company will be unable to replace such investments with securities
+    of comparable yield.
+
+         For further discussion, see Note 4 of Notes to Consolidated Financial
+Statements in the Company's 2000 Annual Report to Stockholders.
+
+
+         Employees
+
+               As of December 31, 2000, the Company and its subsidiaries had 364
+employees. None of the employees is covered by collective bargaining agreements.
+The Company considers its employee relations to be satisfactory.
+
+                                       26
+<PAGE>
+
+       Item 2.  Properties.
+
+       The principal executive offices of the Company are located at One State
+Street Plaza, New York, New York 10004. The telephone number is (212) 668-0340.
+
+       Ambac Assurance maintains its principal executive offices at One State
+Street Plaza, New York, New York 10004, which consists of approximately 121,000
+square feet of office space, under an agreement that expires on September 30,
+2019.
+
+       Ambac UK maintains its principal offices at Hasilwood House, 60
+Bishopsgate, London EC2N4BE, England, which consists of 7,100 square feet of
+office space, under an agreement that expires in December 2006.
+
+       Cadre maintains its principal executive office at 905 Marconi Avenue,
+Ronkonkoma, New York 11779. The Company owns the office building. It consists of
+approximately 15,000 square feet of office space and storage.
+
+Item 3.  Legal Proceedings.
+
+       There are no material lawsuits pending, or to the knowledge of the
+Company threatened, to which the Company or any of its majority-owned
+subsidiaries is a party.
+
+Item 4.  Submission of Matters to a Vote of Security-Holders.
+
+       There were no matters submitted to a vote of security holders during the
+fourth quarter of 2000.
+
+                                    Part II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters.
+
+       Information relating to the principal market on which the Company's
+Common Stock is tradable, the high and low sales prices per share for each full
+quarterly period within the two most recent fiscal years, and the frequency and
+amount of any cash dividends declared for the two most recent fiscal years is
+set forth on page 56 of the Company's 2000 Annual Report to Stockholders and
+such information is incorporated herein by reference. Information concerning
+restrictions on the payment of dividends is set forth in Item 1 above under the
+caption "Insurance Regulatory Matters - Wisconsin Dividend Restrictions." As of
+March 14, 2001, there were 75 stockholders of record of the Company's Common
+Stock, which is listed on the New York Stock Exchange.
+
+Item 6.  Selected Financial Data.
+
+       Selected financial data for the Company and its subsidiaries for each of
+the last five fiscal years is set forth under the captions "Financial
+Highlights" and "Five Year Performance" on page 6, and pages 12 and 13,
+respectively, of the Company's 2000 Annual Report to Stockholders. Such
+information is incorporated herein by reference and should be read in
+conjunction with the Consolidated Financial Statements and the Notes thereto
+contained on pages 35 through 54 of such Annual Report.
+
+                                       27
+<PAGE>
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations.
+
+       Management's Discussion and Analysis of Financial Condition and Results
+of Operations is set forth under the same caption on pages 25 through 33 of the
+Company's 2000 Annual Report to Stockholders. Such information is incorporated
+herein by reference and should be read in conjunction with the Consolidated
+Financial Statements and the Notes thereto contained on pages 35 through 54 of
+such Annual Report.
+
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk.
+
+       Quantitative and Qualitative Disclosures About Market Risk is set forth
+under the caption Risk Management on pages 31 to 33 of the Company's 2000 Annual
+Report to Stockholders. Such information is incorporated herein by reference and
+should be read in conjunction with the Consolidated Financial Statements and the
+Notes thereto contained on pages 35 to 54 of such Annual Report.
+
+Item 8.  Financial Statements and Supplementary Data.
+
+       The 2000 Consolidated Financial Statements, together with the Notes
+thereto and the Independent Auditors' Report thereon, are set forth on pages 34
+through 54 of the Company's 2000 Annual Report to Stockholders. Such information
+is incorporated herein by reference.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+         Financial Disclosure.
+
+      None.
+
+                                   Part III
+
+Item 10.  Directors and Executive Officers of the Registrant.
+
+       Information relating to the Company's directors and executive officers is
+set forth on pages 7, 12, 13, 28 and 29 of the Company's 2001 Proxy Statement
+and such information is incorporated herein by reference.
+
+Item 11.  Executive Compensation.
+
+       Information relating to compensation of the Company's directors and
+executive officers is set forth on pages 9 and 10 and on pages 14 to 21 of the
+Company's 2001 Proxy Statement and such information is incorporated herein by
+reference.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management.
+
+       Information relating to security ownership of certain beneficial owners
+and management is set forth on pages 5 to 7 of the Company's 2001 Proxy
+Statement and such information is incorporated herein by reference.
+
+                                       28
+<PAGE>
+
+Item 13.  Certain Relationships and Related Transactions.
+
+       None.
+
+                                    Part IV
+
+Item 14.  Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+       (a)    Documents filed as a part of this report:
+
+       1.     Financial Statements
+              --------------------
+
+             The following consolidated financial statements included in the
+             2000 Annual Report to Stockholders are incorporated herein by
+             reference under Part II, Item 8:
+
+<TABLE>
+<CAPTION>
+                                                                                           Page Number
+                                                                                         In Annual Report
+                                                                                        ------------------
+            <S>                                                                                 <C>
+             Independent Auditors' Report.........................................               34
+
+             Consolidated Balance Sheets as of December 31,
+             2000 and 1999........................................................               35
+
+             Consolidated Statements of Operations for each of
+             The years ended December 31, 2000, 1999 and 1998 ....................               36
+
+             Consolidated  Statements  of  Stockholders'  Equity  for each of
+             the years ended December 31, 2000, 1999 and 1998.....................               37
+
+             Consolidated Statements of Cash Flows for each of
+             The years ended December 31, 2000, 1999 and 1998.....................               38
+
+             Notes to Consolidated Financial Statements...........................             39-54
+<CAPTION>
+
+       2.     Financial Statement Schedules
+              -----------------------------
+
+             The financial statement schedules filed herein, which are the only
+             schedules required to be filed, are as follows:
+            <S>                                                                              <C>
+                Independent Auditors' Report                                                  (Page S-1)
+
+             Schedule I      --     Summary of Investments  Other Than  Investments           (Page S-2)
+                                    in Related Parties
+
+             Schedule II     --     Condensed  Financial  Information of Registrant           (Pages S-3
+                                    (Parent Company Only)                                      to S-7)
+
+             Schedule IV     --     Reinsurance                                               (Page S-8)
+</TABLE>
+
+                                       29
+<PAGE>
+
+         3.   Exhibits
+              --------
+
+         The following items are annexed as exhibits:
+
+Exhibit Number                    Description
+--------------                    -----------
+
+        3.01         Conformed Amended and Restated Certificate of Incorporation
+                     of the Company filed with the Secretary of State of the
+                     State of Delaware on July 11, 1997. (Filed as Exhibit 4.05
+                     to the Company's Quarterly Report for the quarter ended
+                     September 30, 1997 and incorporated herein by reference.)
+
+        3.02         Conformed Copy of the Certificate of Amendment to the
+                     Amended and Restated Certificate of Incorporation of the
+                     Company filed with the Secretary of State of the State of
+                     Delaware on May 13, 1998. (Filed as Exhibit 4.04 to the
+                     Company's Quarterly Report for the quarter ended June 30,
+                     1998 and incorporated herein by reference.)
+
+        3.03         By-laws of the Company, as amended through January 28,
+                     1998. (Filed as Exhibit 3.02 to the Company's Annual Report
+                     on Form 10-K for the year ended December 31, 1997 and
+                     incorporated herein by reference.)
+
+        4.01         Definitive Engraved Stock Certificate representing shares
+                     of Common Stock. (Filed as Exhibit 4.01 to the Company's
+                     Annual Report on Form 10-K for the year ended December 31,
+                     1997 and incorporated herein by reference.)
+
+        4.02         Indenture, dated as of August 1, 1991, between the Company
+                     and The Chase Manhattan Bank (National Association),
+                     Trustee. (Filed as Exhibit 4.01 to the Company's
+                     Registration Statement on Form S-3 (Reg. No. 33-59290) and
+                     incorporated herein by reference.)
+
+        4.03         Indenture dated as of April 1, 1998, between the Company
+                     and First Union National Bank, Trustee. (Filed as Exhibit
+                     5.2 to the Company's Current Report on Form 8-K dated April
+                     1, 1998 and incorporated herein by reference.)
+
+        4.04         Indenture, dated as of March 15, 2001, between the Company
+                     and First Union National Bank, Trustee. (Filed as Exhibit
+                     4.01 to the Company's Registration Statement on Form S-3
+                     (Reg. No. 333-57206) and incorporated herein by reference.)
+
+        4.05         Rights Agreement, dated as of January 31, 1996, between
+                     Ambac Financial Group, Inc. and Citibank N.A., as Rights
+                     Agent, including all exhibits thereto. (Filed as Exhibit 1
+                     to the Company's Registration Statement on Form 8-A dated
+                     February 27, 1996 and incorporated herein by reference.)
+
+        4.06         Form of 9.38% Debenture due August 1, 2011. (Filed as
+                     Exhibit 4.02 to the Registration Statement on Form S-1
+                     (Reg. No. 33-40385) and incorporated herein by reference.)
+
+                                       30
+<PAGE>
+
+        4.07        Form of 7.50% Debenture due May 1, 2023. (Filed as Exhibit
+                    4.06 to the Company's Annual Report on Form 10-K for the
+                    year ended December 31, 1998 and incorporated herein by
+                    reference.)
+
+        4.08        Form of 7.08% Debenture due March 31, 2098. (Filed as
+                    Exhibit 5.3 to the Company's Current Report on Form 8-K
+                    dated April 1, 1998 and incorporated herein by reference.)
+
+       10.01*       Second Amended and Restated Employment Agreement dated as of
+                    December 2, 1997, between the Company and Phillip B.
+                    Lassiter. (Filed as Exhibit 10.01 to the Company's Annual
+                    Report on Form 10-K for the year ended December 31, 1997 and
+                    incorporated herein by reference.)
+
+       10.02*       Ambac Financial Group, Inc. 1991 Stock Incentive Plan, as
+                    amended as of December 2, 1997 (Filed as Exhibit 10.02 to
+                    the Company's Annual Report on Form 10-K for the year ended
+                    December 31, 1996 and incorporated herein by reference.)
+
+       10.03*       Ambac Financial Group, Inc. 1997 Equity Plan, amended as of
+                    October 28, 1997. (Filed as Exhibit 10.03 to the Company's
+                    Annual Report on Form 10-K for the year ended December 31,
+                    1997 and incorporated herein by reference.)
+
+       10.04*       Ambac Financial Group, Inc. 1991 Non-Employee Directors
+                    Stock Plan (Filed as Exhibit 10.09 to the Company's Annual
+                    Report on Form 10-K for the year ended December 31, 1992 and
+                    incorporated herein by reference.)
+
+       10.05*       Ambac Financial Group, Inc. 1997 Non-Employee Directors
+                    Equity Plan. (Filed as Exhibit 4.2 to the Company's
+                    Registration Statement on Form S-8 (Reg. No. 333-52449) and
+                    incorporated herein by reference.)
+
+       10.06*       Ambac Financial Group, Inc. 1997 Executive Incentive Plan,
+                    amended as of January 1, 2000. (Filed as Exhibit 10.23 to
+                    the Company's Quarterly Report on Form 10-Q for the period
+                    ended June 30, 2000 and incorporated herein by reference.)
+
+       10.07*       Ambac Financial Group, Inc. Deferred Compensation Plan for
+                    Outside Directors, effective as of December 1, 1993 and
+                    amended and restated as of October 26, 1999. (Filed as
+                    Exhibit 10.26 to the Company's Quarterly Report on Form 10-Q
+                    for the period ended September 30, 1999 and incorporated
+                    herein by reference.)
+
+       10.08*       Ambac Financial Group, Inc. 1997 Equity Plan Senior Officer
+                    Deferred Compensation Sub-Plan of the 1997 Equity Plan
+                    effective as of October 26, 1999 (Filed as Exhibit 10.27 to
+                    the Company's Quarterly Report on Form 10-Q for the period
+                    ended September 30, 1999 and incorporated herein by
+                    reference.)
+
+
+_____________________________
+* Management contract or compensatory plan, contract or arrangement required to
+be filed as an exhibit pursuant to Item 14(c) of Form 10-K.
+                                                 ---------
+
+                                       31
+<PAGE>
+
+       10.09*       Form of Amended and Restated Management Retention Agreement
+                    dated as of December 2, 1997. (Filed as Exhibit 10.08 to the
+                    Company's Annual Report on Form 10-K for the year ended
+                    December 31, 1997 and incorporated herein by reference.)
+
+       10.10*       The Ambac Financial Group, Inc. Non-Qualified Savings
+                    Incentive Plan (effective as of January 1, 1995). (Filed as
+                    Exhibit 10.16 to the Company's Quarterly Report on Form 10-Q
+                    for the period ended September 30, 1995, and incorporated
+                    herein by reference.)
+
+       10.11*       Amendment Number 1 to the Ambac Financial Group, Inc. Non-
+                    Qualified Savings Incentive Plan effective as of April 30,
+                    1997. (Filed as Exhibit 10.10 to the Company's Annual Report
+                    on Form 10-K for the year ended December 31, 1997 and
+                    incorporated herein by reference.)
+
+       10.12*       Ambac Financial Group, Inc. Excess Benefits Pension Plan
+                    (Amended and Restated as of January 1, 1994) (As amended
+                    through October 25, 1995). (Filed as Exhibit 10.17 to the
+                    Company's Quarterly Report on Form 10-Q for the period ended
+                    September 30, 1995, and incorporated herein by reference.)
+
+       10.13*       Amendment Number 1 to the Ambac Financial Group, Inc.
+                    Benefits Pension Plan effective as of April 30, 1997. (Filed
+                    as Exhibit 10.12 to the Company's Annual Report on Form 10-K
+                    for the year ended December 31, 1997 and incorporated herein
+                    by reference.)
+
+       10.14*       Supplemental Pension Agreement between the Company and
+                    Philip B. Lassiter dated April 30, 1997. (Filed as Exhibit
+                    10.24 in the Company's Quarterly Report Form 10-Q for the
+                    quarter ended June 30, 1997, and incorporated herein by
+                    reference.)
+
+       10.15*       Supplemental Pension Agreement between the Company and David
+                    L. Boyle dated April 30, 1997. (Filed as Exhibit 10.25 in
+                    the Company's Quarterly Report Form 10-Q for the quarter
+                    ended June 30, 1997, and incorporated herein by reference.)
+
+       10.16*       Ambac Financial Group, Inc. Supplemental Pension Plan
+                    (Amended and Restated as of January 1, 1995) (As amended
+                    through October 25, 1995). (Filed as Exhibit 10.18 to the
+                    Company's Quarterly Report on Form 10-Q for the period ended
+                    September 30, 1995, and incorporated herein by reference.)
+
+       10.17*       Amendment Number 1 to the Ambac Financial Group, Inc.
+                    Supplemental Pension Plan effective as of April 30, 1997.
+                    (Filed as Exhibit 10.18 to the Company's Annual Report on
+                    Form 10-K for the year ended December 31, 1997 and
+                    incorporated herein by reference.)
+
+
+_____________________________
+* Management contract or compensatory plan, contract or arrangement required to
+be filed as an exhibit pursuant to Item 14(c) of Form 10-K.
+                                                 ---------
+
+                                       32
+<PAGE>
+
+       10.18        Lease Agreement, dated as of January 1, 1992 between South
+                    Ferry Building Company and Ambac Assurance Corporation.
+                    (Filed as Exhibit 10.36 to the Company's Quarterly Report on
+                    Form 10-Q for the quarter ended September 30, 1992 and
+                    incorporated herein by reference.)
+
+       10.19        Amendment to Lease Agreement dated August 1, 1997 between
+                    South Ferry Building Company and Ambac Assurance
+                    Corporation. (Filed as Exhibit 10.20 to the Company's Annual
+                    Report on Form 10-K for the year ended December 31, 1997 and
+                    incorporated herein by reference.)
+
+       10.20        Tax Settlement Agreement, dated as of March 30, 1993, among
+                    Citicorp, Citibank, N.A., Citicorp Financial Guaranty
+                    Holdings, Inc., Ambac Financial Group, Inc., Ambac Assurance
+                    Corporation, American Municipal Bond Holding Company and
+                    Health Care Investment Analysts, Inc. (Filed as Exhibit
+                    10.02 to the Company's Registration Statement on Form S-3
+                    (Registration No. 33-59290) and incorporated herein by
+                    reference.)
+
+       10.21        Conformed copy of U.S. $150,000,000 Credit Agreement, dated
+                    as of August 3, 1998 (the "BNS Credit Agreement") among the
+                    Company and Ambac Assurance Corporation as the Borrowers,
+                    Certain Commercial Lending Institutions as the Lenders,
+                    Citibank, N.A., as the Documentation Agent, First National
+                    Bank of Chicago, as the Co-Agent, and The Bank of Nova
+                    Scotia, acting through its New York Agency, as the Arranger
+                    and the Administrative Agent. (Filed as Exhibit 10.22 to the
+                    Company's Quarterly Report on Form 10-Q for the period ended
+                    June 30, 1998 and incorporated herein by reference.)
+
+       10.22        First Amendment to the BNS Agreement dated August 3, 1999
+                    (Filed as Exhibit 10.23 to the Company's Quarterly Report on
+                    Form 10-Q for the period ended June 30, 1999 and
+                    incorporated herein by reference.)
+
+
+       10.23        Second Amendment to the BNS Agreement dated as of August 3,
+                    2000.
+
+
+       10.24        $800,000,000 Amended and Restated Credit Agreement, dated
+                    December 2, 2000 between Ambac Assurance Corporation,
+                    various banks, Bank of America, N.A. and Deutsche Bank AG
+                    (New York Branch), as Co-Syndication Agents and the Bank of
+                    New York as Administrative Agent.
+
+       10.25        First Extension of U.S. $50,000,000 Revolving Credit
+                    Agreement, dated June 9, 2000 among Ambac Credit Products,
+                    LLC, the banks, financial institutions and other
+                    institutional lenders (the "Lenders") and The Bank of New
+                    York, as Agent for the Lenders. (Filed as Exhibit 10.24 to
+                    the Company's Quarterly Report on Form 10-Q for the period
+                    ended June 30, 2000 and incorporated herein by reference.)
+
+       12.01        Statement re computation of ratios.
+
+                                       33
+<PAGE>
+
+       13.01        Annual Report to Stockholders for the fiscal year ended
+                    December 31, 2000. (Furnished for the information of the
+                    Securities and Exchange Commission and not deemed "filed" as
+                    part of this Form 10-K except for those portions that are
+                    expressly incorporated by reference.)
+
+       21.01        List of Subsidiaries of Ambac Financial Group, Inc.
+
+       24.01        Power of Attorney from Phillip B. Lassiter.
+
+       24.02        Power of Attorney from Michael A. Callen.
+
+       24.03        Power of Attorney from Renso L. Caporali.
+
+       24.04        Power of Attorney from Jill M. Considine.
+
+       24.05        Power of Attorney from Richard Dulude.
+
+       24.06        Power of Attorney from C. Robert J. Genader.
+
+       24.07        Power of Attorney from W. Grant Gregory.
+
+       24.08        Power of Attorney from C. Roderick O'Neil.
+
+       99.01        Ambac Assurance Corporation and Subsidiaries Consolidated
+                    Financial Statements (with independent auditors' report
+                    thereon) as of December 31, 2000 and 1999.
+
+         (b) Reports on Form 8-K:
+
+         There were no reports on Form 8-K filed during the fourth quarter of
+                                  --------
+2000. However, on January 24, 2001, the Company filed a Current Report on Form
+                                                                          ----
+8-K with its January 24, 2001 press release containing unaudited financial
+---
+information and accompanying discussion for the three months ended December 31,
+2000 and the year ended December 31, 2000. On March 19, 2001, the Company filed
+a Current Report on Form 8-K containing consolidated financial statements (with
+                    --------
+independent auditors' report thereon) of Ambac Assurance Corporation and
+Subsidiaries as of December 31, 2000 and 1999.
+
+                                       34
+<PAGE>
+
+                                  SIGNATURES
+                                  ----------
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                     AMBAC FINANCIAL GROUP, INC.
+                                     (Registrant)
+
+Dated: March 28, 2001                By: /s/ Frank J. Bivona
+                                        --------------------------
+                                     ________________________
+                                     Name:  Frank J. Bivona
+                                     Title: Vice Chairman  and
+                                            Chief Financial Officer
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+
+Signature                            Title                                         Date
+---------                          ---------                                     --------
+<S>                               <C>                                           <C>
+Phillip B. Lassiter*               Chairman                                      March 28, 2001
+------------------------------
+Phillip B. Lassiter                and Chief Executive Officer
+                                   and Director (Principal Executive Officer)
+
+/s/ Frank J. Bivona                Vice Chairman, and                            March 28, 2001
+------------------------------
+Frank J. Bivona                    Chief Financial Officer (Principal Financial
+                                   and Accounting Officer)
+
+Michael A. Callen*                 Director                                      March 28, 2001
+------------------------------
+Michael A. Callen
+
+Renso L. Caporali*                 Director                                      March 28, 2001
+------------------------------
+Renso L. Caporali
+
+Jill M. Considine*                 Director                                      March 28, 2001
+------------------------------
+Jill M. Considine
+
+Richard Dulude*                    Director                                      March 28, 2001
+------------------------------
+Richard Dulude
+
+Robert J. Genader*                 Director                                      March 28, 2001
+------------------------------
+Robert J. Genader
+
+W. Grant Gregory*                  Director                                      March 28, 2001
+------------------------------
+W. Grant Gregory
+
+C. Roderick O'Neil*                Director                                      March 28, 2001
+------------------------------
+C. Roderick O'Neil
+</TABLE>
+
+________________
+* Frank J. Bivona, by signing his name hereto, does hereby sign this Annual
+Report on Form 10-K on behalf of each of the directors and officers of the
+Registrant after whose typed names asterisks appear pursuant to powers of
+attorney duly executed by such directors and officers and filed with the
+Securities and Exchange Commission as exhibits to this report.
+
+                                                 By: /s/ Frank J. Bivona
+                                                    --------------------------
+                                                     Frank J. Bivona
+                                                     Attorney-in-fact
+
+                                       35
+<PAGE>
+
+             INDEPENDENT AUDITORS' REPORT ON SCHEDULES AND CONSENT
+
+The Board of Directors
+Ambac Financial Group, Inc.:
+
+
+The audits referred to in our report dated January 22, 2001, included the
+related financial statement schedules as of December 31, 2000 and 1999 and for
+each of the years in the three-year period ended December 31, 2000, included in
+this Form 10-K. These financial statement schedules are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statement schedules based on our audits. In our opinion, such
+financial statement schedules, when considered in relation to the basic
+financial statements taken as a whole, present fairly in all material respects
+the information set forth therein.
+
+We consent to the use of our reports incorporated by reference in the
+registration statement (Nos. 333-43695 and 333-57206) on Form S-3, and the
+registration statements (Nos. 33-47970, 33-63134, 33-47971, 33-44913 and 333-
+52449) on Form S-8 of Ambac Financial Group, Inc.
+
+
+/s/ KPMG LLP
+KPMG LLP
+New York, New York
+March 28, 2001
+
+
+                                      S-1
+<PAGE>
+
+                 AMBAC FINANCIAL GROUP, INC. AND SUBSIDIARIES
+                      SCHEDULE I - SUMMARY OF INVESTMENTS
+                   Other Than Investments in Related Parties
+                               December 31, 2000
+                         (Dollar Amounts in Thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                                       Amount at which
+                                                                                                        shown in the
+                                                                  Amortized          Estimated          balance sheet
+Type of Investment                                                   Cost            Fair Value
+-------------------------------------------------------------  -----------------  -----------------  ------------------
+<S>                                                            <C>                <C>                <C>
+U.S. government obligations............................        $       69,349     $      72,709      $        72,709
+Municipal obligations..................................             3,295,256         3,414,964            3,414,964
+Mortgage- and asset-backed securities (includes U.S.
+government agency obligations).........................             3,553,794         3,560,712            3,560,712
+Corporate obligations..................................             1,027,211           980,746              980,746
+Foreign government obligations.........................                36,241            35,370               35,370
+Other..................................................               253,519           253,519              253,519
+                                                               --------------     -------------      ---------------
+         Total investments.............................        $    8,235,370     $   8,318,020      $     8,318,020
+                                                               ==============     =============      ===============
+</TABLE>
+
+                                      S-2
+<PAGE>
+
+                          AMBAC FINANCIAL GROUP, INC.
+                 SCHEDULE II - CONDENSED FINANCIAL INFORMATION
+                      OF REGISTRANT (PARENT COMPANY ONLY)
+                           Condensed Balance Sheets
+                          December 31, 2000 and 1999
+                (Dollar Amounts in Thousands Except Share Data)
+
+
+<TABLE>
+<CAPTION>
+                                                                                           2000                    1999
+                                                                                       -----------             -----------
+<S>                                                                                    <C>                     <C>
+                                ASSETS
+
+Assets:
+
+   Cash.........................................................................       $       288             $         3
+   Investments in subsidiaries..................................................         2,985,901               2,422,278
+   Fixed income securities, at fair value
+     (amortized cost of $7,245 in 2000 and $6,169 in 1999)......................             7,038                   5,695
+   Short-term investments, at cost (approximates fair value)....................            34,483                  12,323
+   Other investments............................................................             4,980                   3,074
+   Current income taxes receivable..............................................             3,412                   1,913
+   Deferred income taxes receivable.............................................            17,923                  17,516
+   Other assets.................................................................             9,609                  17,650
+                                                                                       -----------             -----------
+     Total assets...............................................................       $ 3,063,634             $ 2,480,452
+                                                                                       ===========             ===========
+
+                 LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Liabilities:
+
+   Debentures...................................................................       $   424,061             $   423,995
+   Accrued interest payable.....................................................            10,348                   6,797
+   Other liabilities............................................................            33,111                  31,210
+                                                                                       -----------             -----------
+     Total liabilities..........................................................           467,520                 462,002
+                                                                                       -----------             -----------
+
+Stockholders' equity:
+
+Preferred stock, par value $0.01 per share; authorized shares -
+   4,000,000; issued and outstanding shares - none..............................                --                      --
+Common Stock, par value $0.01 per share; authorized shares -
+   200,000,000 at December 31, 2000 and 1999; issued shares -
+   106,020,537 at December 31, 2000 and 70,680,384 at December
+   31, 1999.....................................................................             1,060                     707
+Additional paid-in capital......................................................           533,558                 525,012
+Accumulated other comprehensive income (loss)...................................            45,154                (187,540)
+Retained earnings...............................................................         2,035,209               1,713,446
+Common Stock held in treasury at cost, 469,932 shares at December 31,
+   2000 and 722,592 at December 31, 1999........................................           (18,867)                (33,175)
+                                                                                       -----------             -----------
+     Total stockholders' equity.................................................         2,596,114               2,018,450
+                                                                                       -----------             -----------
+     Total liabilities and stockholders' equity.................................       $ 3,063,634             $ 2,480,452
+                                                                                       ===========             ===========
+</TABLE>
+
+                                      S-3
+<PAGE>
+
+                           AMBAC FINANCIAL GROUP, INC.
+                 SCHEDULE II - CONDENSED FINANCIAL INFORMATION
+                      OF REGISTRANT (PARENT COMPANY ONLY)
+                      Condensed Statements of Operations
+
+                        Three Years Ended December 31,
+                         (Dollar Amounts in Thousands)
+
+<TABLE>
+<CAPTION>
+                                                                   2000                 1999                1998
+                                                              ----------------    -----------------   -----------------
+<S>                                                         <C>                  <C>                 <C>
+Revenues:
+
+     Dividend income.................................            $     63,800        $     52,000        $     48,000
+     Interest and other income.......................                   2,359              10,567              14,336
+     Net realized gains..............................                       8                 797               2,507
+                                                              ----------------    -----------------   -----------------
+
+      Total revenues.................................                  66,167              63,364              64,843
+                                                              ----------------    -----------------   -----------------
+
+Expenses:
+
+     Interest expense................................                  33,450              33,470              29,722
+     Operating expenses..............................                   6,669               6,506               6,815
+                                                              ----------------    -----------------   -----------------
+
+      Total expenses.................................                  40,119              39,976              36,537
+                                                              ----------------    -----------------   -----------------
+
+Income before income taxes and equity in
+      undistributed net income of subsidiaries.......                  26,048              23,388              28,306
+Federal income tax benefit...........................                 (18,088)            (10,260)             (6,274)
+                                                              ----------------    -----------------   -----------------
+
+Income before equity in undistributed net income of
+      subsidiaries...................................                  44,136              33,648              34,580
+Equity in undistributed net income of subsidiaries...                 322,036             274,269             219,414
+                                                              ----------------    -----------------   -----------------
+
+Net income...........................................                 366,172             307,917             253,994
+                                                              ================    =================   =================
+</TABLE>
+
+
+
+
+
+
+
+
+                                      S-4
+
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                    AMBAC FINANCIAL GROUP, INC.
+                                           SCHEDULE II - CONDENSED FINANCIAL INFORMATION
+                                                OF REGISTRANT (PARENT COMPANY ONLY)
+                                           Condensed Statements of Stockholders' Equity
+                                                  Three Years Ended December 31,
+                                                   (Dollar Amounts in Thousands)
+
+                                                           2000                        1999                         1998
+                                                 -------------------------   -------------------------   ---------------------------
+<S>                                              <C>            <C>          <C>            <C>          <C>             <C>
+Retained Earnings:
+  Balance at January 1                           $ 1,713,446                 $ 1,449,832                 $ 1,262,740
+  Net income                                         366,172    $ 366,172        307,917    $ 307,917        253,994     $  253,994
+                                                                ----------                  ----------                   -----------
+  Dividends declared - common stock                  (32,213)                    (29,366)                    (26,571)
+  Exercise of stock options                          (12,196)                    (14,937)                    (40,331)
+                                                 ------------                ------------                ------------
+  Balance at December 31                         $ 2,035,209                 $ 1,713,446                 $ 1,449,832
+                                                 ------------                ------------                ------------
+
+Accumulated Other Comprehensive Income
+ (Loss):
+  Balance at January 1                           $  (187,540)                  $ 159,313                 $   135,223
+  Unrealized gains (losses) on securities,
+  $373,291, ($552,645), and $36,476, pre-tax,
+  in 2000, 1999 and 1998, respectively)/(1)/                      234,178                    (346,211)                       23,889
+  Foreign currency gain                                            (1,484)                       (642)                          201
+                                                                ----------                  ----------                   -----------
+  Other comprehensive income (loss)                  232,694      232,694       (346,853)    (346,853)        24,090         24,090
+                                                 -------------------------   -------------------------   ---------------------------
+
+  Total comprehensive income (loss)                             $ 598,866                   $ (38,936)                   $  278,084
+                                                                ==========                  ==========                   ===========
+  Balance at December 31                         $    45,154                 $  (187,540)                $   159,313
+                                                 ------------                ------------                ------------
+
+Preferred Stock:
+  Balance at January 1 and December 31           $        --                 $        --                 $        --
+                                                 ------------                ------------                ------------
+
+Common Stock:
+  Balance at January 1                           $       707                 $       707                 $       707
+  Stock split effected as dividend                       353                          --                          --
+                                                 ------------                ------------                ------------
+  Balance at December 31                         $     1,060                 $       707                 $       707
+                                                 ------------                ------------                ------------
+
+Additional Paid-in Capital:
+  Balance at January 1                           $   525,012                 $   519,305                 $   500,107
+  Exercise of stock options                            8,899                       5,707                      19,198
+  Stock split effected as dividend                      (353)                         --                          --
+                                                 ------------                ------------                ------------
+  Balance at December 31                         $   533,558                 $   525,012                 $   519,305
+                                                 ------------                ------------                ------------
+
+Common Stock Held in Treasury at Cost:
+  Balance at January 1                           $   (33,175)                $   (33,067)                $   (26,295)
+  Cost of shares acquired                            (23,618)                    (17,626)                    (52,738)
+  Shares issued under equity plans                    37,926                      17,518                      45,966
+                                                 ------------                ------------                ------------
+  Balance at December 31                         $   (18,867)                $   (33,175)                $   (33,067)
+                                                 ------------                ------------                ------------
+
+    Total Stockholders' Equity at December 31    $ 2,596,114                 $ 2,018,450                 $ 2,096,090
+                                                 ============                ============                ============
+
+  /(1)/ Disclosure of reclassification amount:                                    2000        1999      1999
+                                                                             ---------------------------------
+    Unrealized holding gains (losses) arising during period                   $230,985   $(351,412)  $34,526
+    Less: reclassification adjustment for net gains (losses) included
+    in net income                                                               (3,193)     (5,201)   10,637
+                                                                             ---------------------------------
+    Net unrealized gains (losses) on securities                               $234,178   $(346,211)  $23,889
+                                                                             =================================
+</TABLE>
+
+                                      S-5
+<PAGE>
+
+                          AMBAC FINANCIAL GROUP, INC.
+                 SCHEDULE II - CONDENSED FINANCIAL INFORMATION
+                      OF REGISTRANT (PARENT COMPANY ONLY)
+                      Condensed Statements of Cash Flows
+                        Three Years Ended December 31,
+                         (Dollar Amounts in Thousands)
+
+<TABLE>
+<CAPTION>
+                                                                    2000                 1999                1998
+                                                              ----------------    -----------------   -----------------
+<S>                                                         <C>                 <C>                 <C>
+Cash flows from operating activities:
+     Net income......................................            $   366,172         $   307,917         $   253,994
+     Adjustments to reconcile net income to net cash
+      provided by (used in) operating activities:
+     Equity in undistributed net income of
+      Subsidiaries...................................               (322,036)           (274,269)           (219,414)
+     Gain on sale of investments.....................                     (8)               (797)             (2,507)
+     (Increase) decrease in current income
+      taxes receivable...............................                 (1,499)             (2,942)              5,605
+     Decrease (increase) in other assets.............                  8,041               5,936             (13,710)
+     Other, net......................................                 (6,853)             (5,188)            (16,843)
+                                                              ----------------    -----------------   -----------------
+
+      Net cash provided by operating activities......                 43,817              30,657               7,125
+                                                              ----------------    -----------------   -----------------
+
+Cash flows from investing activities:
+     Proceeds from sales of bonds....................                     --              16,627              69,097
+     Proceeds from maturities of bonds...............                    542                  --                  --
+     Purchases of bonds..............................                 (1,615)            (22,625)           (206,430)
+     Change in short-term investments................                (22,160)             11,821             (10,552)
+     Other, net                                                       (1,894)             (1,544)             (1,489)
+                                                              ----------------    -----------------   -----------------
+      Net cash  (used in) provided by investing
+        activities...................................                (25,127)              4,279            (149,374)
+                                                              ----------------    -----------------   -----------------
+
+Cash flows from financing activities:
+     Dividends paid..................................                (32,213)            (29,366)            (26,571)
+     Proceeds from issuance of debentures............                     --                  --             193,700
+     Purchases of treasury stock.....................                (23,618)            (17,626)            (52,738)
+     Proceeds from sale of treasury stock............                 37,926              17,518              45,966
+     Contribution to subsidiaries....................                   (500)             (5,575)            (18,000)
+                                                              ----------------    -----------------   -----------------
+      Net cash (used in) provided by financing
+        activities...................................                (18,405)            (35,049)            142,357
+                                                              ----------------    -----------------   -----------------
+
+Net cash flow........................................                    285                (113)                108
+     Cash at January 1...............................                      3                 116                   8
+                                                              ----------------    -----------------   -----------------
+
+     Cash at December 31.............................            $       288         $         3         $       116
+                                                              ================    =================   =================
+
+Supplemental disclosure of cash flow information:
+     Cash paid during the year for:
+      Income taxes...................................            $    75,000         $    37,000         $    60,000
+                                                              ================    =================   =================
+
+      Interest expense on debt.......................            $    33,848         $    33,848         $    30,072
+                                                              =================   =================   =================
+</TABLE>
+
+Supplemental disclosure of non-cash financing activities:
+   Ambac Financial Group, Inc. contributed fixed income securities to Ambac
+   Assurance Corporation amounting to $101,479 and $107,533 in April 1999 and
+   November 1999, respectively.
+
+
+
+
+                                      S-6
+<PAGE>
+
+                           AMBAC FINANCIAL GROUP, INC.
+                  SCHEDULE II - CONDENSED FINANCIAL INFORMATION
+                       OF REGISTRANT (PARENT COMPANY ONLY)
+                     Note to Condensed Financial Information
+
+The condensed financial information of Ambac Financial Group, Inc. for the years
+ended December 31, 2000, 1999 and 1998, should be read in conjunction with the
+consolidated financial statements of Ambac Financial Group, Inc. and
+Subsidiaries and the notes thereto. Investments in subsidiaries are accounted
+for using the equity method of accounting.
+
+                                      S-7
+<PAGE>
+
+                  AMBAC FINANCIAL GROUP, INC. AND SUBSIDIARIES
+                            SCHEDULE IV - REINSURANCE
+                          (Dollar Amounts in Thousands)
+
+<TABLE>
+<CAPTION>
+                                                          Ceded to      Assumed from                   Percentage of
+                                            Gross          Other           Other                           Amount
+     Insurance Premiums Written            Amount        Companies       Companies       Net Amount    Assumed to Net
+-------------------------------------- --------------- --------------- --------------- --------------- ---------------
+<S>                                    <C>             <C>             <C>             <C>             <C>
+Year ended December 31, 1998.........   $   333,652     $    49,563     $    27,359     $   311,448          8.78 %
+Year ended December 31, 1999.........   $   420,669     $    61,845     $    24,573     $   383,397          6.41 %
+Year ended December 31, 2000.........   $   440,111     $    80,789     $    42,971     $   402,293         10.68 %
+</TABLE>
+
+                                      S-8
+<PAGE>
+
+                                INDEX TO EXHIBITS
+
+         Exhibit Number    Description
+         --------------    -----------
+
+             10.23         Second Amendment to the BNS Agreement dated as of
+                           August 3, 2000.
+
+             10.24         $800,000,000 Amended and Restated Credit Agreement,
+                           dated December 2, 2000 between Ambac Assurance
+                           Corporation, various banks, Bank of America, N.A. and
+                           Deutsche Bank AG (New York Branch), as Co-Syndication
+                           Agents and the Bank of New York as Administrative
+                           Agent.
+
+             12.01         Statement re computation of ratios.
+
+             13.01         Annual Report to Stockholders for the fiscal year
+                           ended December 31, 2000. (Furnished for the
+                           information of the Securities and Exchange Commission
+                           and not deemed "filed" as part of this Form 10-K
+                           except for those portions that are expressly
+                           incorporated by reference.)
+
+             21.01         List of Subsidiaries of Ambac Financial Group, Inc.
+
+             24.01         Power of Attorney from Phillip B. Lassiter.
+
+             24.02         Power of Attorney from Michael A. Callen.
+
+             24.03         Power of Attorney from Renso L. Caporali.
+
+             24.04         Power of Attorney from Jill M. Considine.
+
+             24.05         Power of Attorney from Richard Dulude.
+
+             24.06         Power of Attorney from Robert J. Genader.
+
+             24.07         Power of Attorney from W. Grant Gregory.
+
+             24.08         Power of Attorney from C. Roderick O'Neil.
+
+             99.01         Ambac Assurance Corporation and Subsidiaries
+                           Consolidated Financial Statements (with independent
+                           auditors' report thereon) as of December 31, 2000 and
+                           1999.
+</TEXT>
+</DOCUMENT>

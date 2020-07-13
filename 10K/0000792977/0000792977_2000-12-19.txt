@@ -1,0 +1,3207 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>a2033252z10-k405.txt
+<DESCRIPTION>FORM 10-K405
+<TEXT>
+
+<PAGE>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-K
+
+<TABLE>
+<C>        <S>
+   /X/     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+                  FOR THE FISCAL YEAR ENDED SEPTEMBER 30, 2000
+                                       OR
+
+<TABLE>
+<C>        <S>
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+        FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+                         COMMISSION FILE NUMBER 0-14732
+
+                            ADVANCED MAGNETICS, INC.
+
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                        <C>
+              DELAWARE                                  04-2742593
+  (State or other jurisdiction of                    (I.R.S. Employer
+   incorporation or organization)                  Identification No.)
+
+          61 MOONEY STREET                                02138
+      CAMBRIDGE, MASSACHUSETTS                          (Zip Code)
+  (Address of principal executive
+              offices)
+</TABLE>
+
+(Registrant's telephone number, including area code) (617) 497-2070
+
+Securities registered pursuant to Section 12(b) of the Act: COMMON STOCK, PAR
+VALUE $.01 PER SHARE, AMERICAN STOCK EXCHANGE
+
+Securities registered pursuant to Section 12(g) of the Act: NONE
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  YES /X/    NO / /
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  [/X/]
+
+    As of December 12, 2000, there were 6,773,932 shares of the registrant's
+Common Stock, $.01 par value per share, outstanding. The aggregate market value
+of the registrant's voting stock held by nonaffiliates as of December 12, 2000
+was approximately $15,418,525.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+    Portions of the registrant's Proxy Statement for its 2000 Annual Meeting of
+Stockholders, scheduled to be held on February 6, 2001, are incorporated by
+reference in Part III hereof.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+                                     PART I
+
+    EXCEPT FOR THE HISTORICAL INFORMATION CONTAINED HEREIN, THE MATTERS
+DISCUSSED IN THIS ANNUAL REPORT ON FORM 10-K ARE FORWARD-LOOKING STATEMENTS THAT
+INVOLVE RISKS AND UNCERTAINTIES. ADVANCED MAGNETICS, INC. MAKES SUCH
+FORWARD-LOOKING STATEMENTS UNDER THE SAFE HARBOR PROVISIONS OF THE PRIVATE
+SECURITIES LITIGATION REFORM ACT OF 1995. IN THIS ANNUAL REPORT ON FORM 10-K,
+WORDS SUCH AS "MAY," "WILL," "EXPECTS," "INTENDS," AND SIMILAR EXPRESSIONS (AS
+WELL AS OTHER WORDS OR EXPRESSIONS REFERENCING FUTURE EVENTS, CONDITIONS OR
+CIRCUMSTANCES) ARE INTENDED TO IDENTIFY FORWARD-LOOKING STATEMENTS. THE
+COMPANY'S ACTUAL RESULTS AND THE TIMING OF CERTAIN EVENTS MAY DIFFER MATERIALLY
+FROM THE RESULTS DISCUSSED, PROJECTED, ANTICIPATED OR INDICATED IN ANY
+FORWARD-LOOKING STATEMENTS. ANY FORWARD-LOOKING STATEMENT SHOULD BE CONSIDERED
+IN LIGHT OF FACTORS DISCUSSED IN ITEM 7 UNDER "CERTAIN FACTORS THAT MAY EFFECT
+FUTURE RESULTS." THE COMPANY CAUTIONS READERS NOT TO PLACE UNDUE RELIANCE ON ANY
+SUCH FORWARD-LOOKING STATEMENTS, WHICH SPEAK ONLY AS OF THE DATE THEY ARE MADE.
+THE COMPANY DISCLAIMS ANY OBLIGATION TO PUBLICLY UPDATE OR REVISE ANY SUCH
+STATEMENTS TO REFLECT ANY CHANGE IN COMPANY EXPECTATIONS OR IN EVENTS,
+CONDITIONS OR CIRCUMSTANCES ON WHICH ANY SUCH STATEMENTS MAY BE BASED, OR THAT
+MAY AFFECT THE LIKELIHOOD THAT ACTUAL RESULTS WILL DIFFER FROM THOSE SET FORTH
+IN THE FORWARD-LOOKING STATEMENTS.
+
+ITEM 1. BUSINESS:
+
+COMPANY OVERVIEW
+
+    Advanced Magnetics, Inc., a Delaware corporation ("Advanced Magnetics" or
+the "Company"), develops, manufactures and markets organ-specific contrast
+agents to improve the diagnostic capabilities of soft tissue magnetic resonance
+imaging ("MRI") scans. The Company's liver contrast agent, Feridex
+I.V.-Registered Trademark-, is approved and marketed in Europe, Japan, the
+United States, Argentina, South Korea, China and Israel. The Company's oral
+contrast agent, GastroMARK-Registered Trademark-, used for delineating the bowel
+in MRI procedures, is approved and marketed in Europe and the United States. The
+Company has received an approvable letter, subject to certain conditions, from
+the U.S. Food and Drug Administration ("FDA") for
+Combidex-Registered Trademark-, the Company's contrast agent for the diagnosis
+of lymph node disease. Code 7228, the Company's lead MRI contrast agent in the
+development pipeline, is currently in Phase II clinical studies. The product is
+being evaluated for MRI applications in both cardiology and oncology.
+
+    MRI is a diagnostic imaging technique that is used to visualize internal
+abnormalities and changes in structure. Contrast agents increase the usefulness
+of MRI by allowing radiologists to differentiate structures and organs with
+greater diagnostic confidence. Currently, the primary use of MRI is for studies
+of the central nervous system, abdominal structures and joints, such as the knee
+and shoulder. The Company believes that the development of effective contrast
+agents would allow MRI to be used for a wider range of applications, such as the
+diagnosis and staging of cancer, and should increase the use of MRI as a
+diagnostic imaging technique, in turn generating additional demand for MRI
+contrast agents.
+
+    The liver and the lymphatic system are among the principal sites where
+metastases of many common cancers (including colon, prostate and breast cancer)
+are discovered. The Company believes that MRI exams of the liver produced with
+contrast agents provide more diagnostic information and permit the
+identification of smaller abnormalities than images produced by MRI studies
+without contrast agents or images produced by contrast enhanced computed
+tomography ("CECT"). Additionally, the Company believes that MRI exams of lymph
+nodes using a contrast agent provide increased confidence in the diagnosis of
+metastatic disease. As a result, MRI contrast agents can allow for more accurate
+diagnosis and monitoring of treatment results and may be a cost-effective way to
+assess medical treatments and to improve patient outcomes.
+
+    CECT is currently the primary imaging technique used to confirm a
+preliminary or suspected diagnosis of liver cancer. FERIDEX I.V. is the first
+organ-specific MRI contrast agent designed specifically
+
+                                       1
+<PAGE>
+for the liver and is marketed in the United States, Europe, Japan, Argentina,
+South Korea, China and Israel. With respect to the lymphatic system, there are
+no contrast agents currently available. An MRI contrast agent that localizes to
+and causes contrast enhancement of the lymph nodes, such as COMBIDEX, could
+allow for more accurate disease diagnosis and monitoring of treatment results.
+
+    To facilitate the marketing and distribution of its contrast agents, the
+Company has entered into strategic relationships with certain established
+pharmaceutical companies. These marketing and distribution partners, both in the
+United States and abroad, include: (i) Guerbet S.A. ("Guerbet"), a leading
+European producer of contrast agents, in Western Europe and Brazil; (ii) Eiken
+Chemical Co., Ltd., ("Eiken"), one of Japan's leading medical diagnostics
+manufacturers, in Japan; (iii) Berlex Laboratories, Inc. ("Berlex"), the leading
+U.S. marketer of MRI contrast agents, in the United States; (iv) Cytogen Corp.
+("Cytogen") a U.S. marketer of oncology products, in the United States; and
+(v) Mallinckrodt Inc. ("Mallinckrodt"), a unit of Tyco, Inc. and a leading
+manufacturer of contrast agents, in the United States.
+
+    The Company was incorporated in Delaware in November 1981. The Company's
+principal offices are located at 61 Mooney Street, Cambridge, Massachusetts
+02138, and its telephone number is (617) 497-2070.
+
+MRI CONTRAST AGENTS
+
+    DIAGNOSTIC IMAGING.  Diagnostic imaging is generally a non-invasive method
+to visualize internal structures, abnormalities or anatomical changes in order
+to diagnose disease and injury. Today, the most widely accepted imaging
+techniques include x-rays, ultrasound, nuclear medicine, Computed Tomography
+("CT") and MRI. Since the introduction of x-rays, doctors have sought
+increasingly accurate and detailed non-invasive visualization of soft tissue for
+diagnostic purposes. Diagnostic imaging is frequently used to determine whether
+a cancer has metastasized or recurred and where it is located, as well as to
+assist physicians in determining whether a treated cancer has shrunk. In
+addition, diagnostic imaging is used in the diagnosis of disease affecting the
+cardiovascular and central nervous systems as well as the diagnosis of broken
+bones and injuries in certain joints, such as the knee and shoulder. The choice
+of diagnostic imaging technique to be used in any particular circumstance
+depends upon a variety of factors, including the particular disease or condition
+to be studied, image quality, availability of imaging machines, availability of
+contrast agents, cost and managed health care policies. There is no imaging
+technique that is considered superior to all others for most or all
+applications.
+
+    MAGNETIC RESONANCE IMAGING.  Introduced in the 1980's, MRI is the diagnostic
+imaging technique of choice for the central nervous system and is widely used
+for the imaging of ligaments and tendons. MRI provides high-quality spatial
+resolution and does not use radiation. In MRI procedures, the patient is placed
+within the core of a large magnet where radio frequency signals are transmitted
+into the patient's body. The interaction of the radio frequency signal with the
+patient's body produces signals that are processed by a computer to create
+cross-sectional images.
+
+    CONTRAST AGENTS.  Contrast agents play a significant role in improving the
+quality of diagnostic images by increasing the contrast between different
+internal structures or types of tissues in various disease states and medical
+conditions of interest. Consequently, contrast agents, which are administered
+intravenously or orally, are widely used when available. MRI contrast agents
+currently marketed in the United States are used primarily in imaging the
+central nervous system. The availability of effective contrast agents often
+determines the choice of imaging technique for a particular procedure. Currently
+available imaging techniques can be of limited usefulness in visualizing certain
+soft-tissue structures. For example, diagnostic imaging of lymph nodes, a common
+site of metastasis for some frequently occurring cancers such as breast cancer
+and prostate cancer, is currently limited because, the Company believes, there
+are no effective contrast agents for differentiating diseased tissue from normal
+nodes.
+
+                                       2
+<PAGE>
+TECHNOLOGY
+
+    Advanced Magnetics' core imaging agent technology is based on the
+characteristic properties of extremely small, polysaccharide-coated
+superparamagnetic iron oxide particles. The Company's core competencies are the
+ability to design such particles for particular applications and manufacture the
+particles in controlled sizes. The superparamagnetic particles range in size
+from approximately one-thousandth to one-twentieth the size of a normal red
+blood cell. When placed in a magnetic field, superparamagnetic iron oxide
+particles become strongly magnetic, but lose their magnetism once the field is
+removed. Once inside the targeted organ or area of study, the powerful magnetic
+properties of the Company's iron oxide particles result in images that show
+greater soft tissue contrast and thus increase the information available to the
+reviewing physicians. The Company's technology and expertise enable it to
+synthesize, sterilize and stabilize superparamagnetic particles in a manner
+necessary for their use in pharmaceutical products such as MRI contrast agents
+to aid in the diagnosis of cancer and other diseases. The Company's rights to
+its contrast agent technology are derived from and protected by license
+agreements, patents, patent applications and trade secrets. See "Patents and
+Trade Secrets."
+
+PRODUCTS
+
+    The following table summarizes applications and potential applications,
+marketing partners and current U.S. and foreign status for each of the Company's
+products.
+
+                          ADVANCED MAGNETICS' PRODUCTS
+
+<TABLE>
+<CAPTION>
+       PRODUCT             APPLICATIONS         MARKETING PARTNERS        U.S. STATUS        FOREIGN STATUS
+---------------------  --------------------   -----------------------   ----------------  ---------------------
+<S>                    <C>                    <C>                       <C>               <C>
+COMBIDEX               Diagnosis of lymph     Cytogen (United States)   Approvable        EU Dossier filed
+                       node disease.          Guerbet (western Europe   Letter received   December 1999.
+                                              and Brazil).              June 2000,
+                                                                        subject to
+                                                                        certain
+                                                                        conditions.
+
+FERIDEX I.V.           Diagnosis of liver     Berlex (United States),   Approved and      Approved and marketed
+                       lesions.               Eiken (Japan), Guerbet    marketed.         in Japan and in most
+                                              (western Europe and                         EU countries.
+                                              Brazil).
+
+GASTROMARK             Marking of the bowel   Guerbet (western Europe   Approved and      Approved and marketed
+                       in abdominal           and Brazil),              marketed.         in several EU
+                       imaging.               Mallinckrodt (United                        countries, including
+                                              States).                                    France.
+
+CODE 7228              Magnetic Resonance     Cytogen for oncology      Phase II          European protocols in
+                       Angiography, primary   applications (United      clinical trials   development.
+                       and secondary tumor    States)                   scheduled to
+                       imaging, lymph node    Guerbet (western Europe   begin January
+                       imaging.               and Brazil).              2001.
+</TABLE>
+
+    "Phase I clinical trials" refers to the first phase of human pharmaceutical
+clinical trials in which testing for the safety and tolerance of the product is
+conducted on a small group of normal subjects. "Phase II clinical trials" and
+"Phase III clinical trials" are the second and third phases of human clinical
+trials, where preliminary dosing and efficacy studies are conducted and where
+additional testing for efficacy and safety is conducted on an expanded patient
+group. "NDA" is a New Drug Application that is filed with the U.S. Food and Drug
+Administration ("FDA") when seeking marketing approval for a product in the
+United States. "Dossier" is the EU equivalent of an NDA and is filed with the
+Committee for Proprietary Medicinal Products, the EU equivalent of the FDA. For
+a further
+
+                                       3
+<PAGE>
+description of the substantial regulatory requirements subsequent to the
+completion of preclinical testing, see "Government Regulation and
+Reimbursement."
+
+    COMBIDEX.  The Company believes that COMBIDEX will be useful in the
+diagnostic imaging of lymph nodes. Lymph nodes are frequently the site for
+metastases of different types of cancer, particularly breast cancer and prostate
+cancer. Effective imaging of lymph nodes could play a role in determining
+appropriate patient management. There are currently no available non-invasive
+methods for distinguishing between lymph nodes enlarged by the infiltration of
+cancerous cells as opposed to inflammation. Since CT, the only imaging modality
+currently used for imaging lymph nodes, cannot distinguish between inflamed
+nodes and cancerous nodes, the current practice is to assume that enlarged nodes
+are cancerous and to perform a biopsy to establish their true status. Nodes less
+than ten millimeters in size are often assumed to be normal. The Company
+believes that COMBIDEX will enable doctors using MRI to have improved diagnostic
+confidence in differentiating between normal and diseased lymph nodes,
+irrespective of node size, because COMBIDEX only accumulates in normal lymph
+node tissue and can therefore facilitate differentiation between tumorous nodes
+and inflamed nodes.
+
+    The Company has granted exclusive rights to market and sell COMBIDEX in the
+United States to Cytogen and in western Europe and Brazil to Guerbet. See
+"Licensing and Marketing Arrangements."
+
+    FERIDEX I.V.  The liver is a principal site for metastasis of primary cancer
+originating in other parts of the body, particularly colon cancer, a common
+cancer in the United States. Identification of metastatic tumors in the liver
+has a significant impact on physicians' treatment plans for cancer because
+proper staging of disease affects treatment plans. Diagnosis of metastases at an
+early stage can be difficult because small tumors are frequently not accompanied
+by detectable physical symptoms. The Company believes that contrast-enhanced MRI
+exams using FERIDEX I.V. allow for the ability to image liver tumors that may
+not be visible with CT scanning or ultrasound, the most widely used techniques
+for liver imaging, and that liver scans may now be done using contrast-enhanced
+MRI instead of, or in addition to, CT scanning and ultrasound.
+
+    Marketing of FERIDEX I.V. began in October 1996 by Berlex Laboratories
+("Berlex") in the United States. Berlex is the Company's exclusive marketing
+partner for FERIDEX I.V. in the United States. FERIDEX I.V. was approved in
+August 1994 by the European Union's (the "EU") Committee for Proprietary
+Medicinal Products and most of the member states of the EU have since issued
+local approvals to market the product. Guerbet began marketing the product in
+Europe in late 1994. Eiken received approval for marketing the product in Japan
+in July 1997 and received pricing approval in September 1997. FERIDEX I.V. was
+launched in Japan in September 1997 through Eiken's affiliate Tanabe
+Seiyaku, Ltd. See "Licensing and Marketing Arrangements."
+
+    GASTROMARK.  MRI imaging of organs and tissues in the abdomen without
+contrast agents is difficult because these organs and tissues cannot be easily
+distinguished from the loops of the bowel. GASTROMARK, the Company's oral
+contrast agent for marking of the bowel, when ingested, flows through and
+darkens the bowel. By more clearly identifying the intestinal loops, GASTROMARK
+improves visualization of adjacent abdominal tissues, such as the pancreas.
+
+    In April 1997, the Company's marketing partner, Mallinckrodt, launched
+GASTROMARK in the United States. The Company has licensed the marketing rights
+to GASTROMARK on an exclusive basis to Guerbet in Western Europe and Brazil.
+During fiscal 1993, Guerbet received marketing approval for the product in
+several European countries including France, and marketing of the product in
+Europe began. See "Licensing and Marketing Arrangements".
+
+    CODE 7228.  Code 7228 is a blood pool agent, an agent that stays in the
+blood stream for an extended period of time, that may be useful as a contrast
+agent for Magnetic Resonance Angiography ("MRA") as well as cardiac perfusion.
+In addition, Code 7228 may be useful for the detection of
+
+                                       4
+<PAGE>
+metastatic and primary tumors, including breast cancer, and may also improve
+tumor border delineation. The product is currently entering Phase II clinical
+studies.
+
+    The Company has granted exclusive rights to market Code 7228 for oncology
+applications in the United States to Cytogen and exclusive rights to market and
+sell Code 7228 in western Europe and Brazil to Guerbet. See "Licensing and
+Marketing Arrangements".
+
+LICENSING AND MARKETING ARRANGEMENTS
+
+    BERLEX.  In February 1995, the Company entered into a license and marketing
+agreement and a supply agreement with Berlex, granting Berlex exclusive
+marketing rights to FERIDEX I.V. in the United States. Under the terms of the
+agreements, Berlex paid a $5,000,000 license fee upon execution of the
+agreements and paid an additional $5,000,000 license fee in October 1996 upon
+the Company's delivery of FDA-approved product to Berlex. In addition, Berlex
+pays the Company for manufacturing the agent and royalties on sales of the
+agent. Under the terms of the license and marketing agreement, Berlex pays for
+60% of ongoing development expenses associated with FERIDEX I.V. These
+agreements expire in 2010 but can be terminated earlier upon the occurrence of
+certain specified events. Under the terms of the license and marketing
+agreement, the Company has the right to terminate the exclusive marketing rights
+based on the failure of Berlex to achieve minimum sales targets, but has not
+exercised that right at this time.
+
+    CYTOGEN.  In August 2000, the Company entered into a license and marketing
+agreement and a supply agreement with Cytogen Corporation ("Cytogen"). The
+Company granted Cytogen the exclusive right to market and sell COMBIDEX and CODE
+7228 for oncology applications in the United States and agreed to grant to
+Cytogen the exclusive right to market and sell FERIDEX I.V. in the United States
+if the Company's existing marketing agreement for FERIDEX I.V. terminates for
+any reason. Upon signing of the agreements, the Company received 1,500,000
+shares of Cytogen common stock as a non-refundable license fee. An additional
+500,000 shares of Cytogen common stock were placed in escrow and will be
+released to the Company upon satisfaction of certain milestones under the
+agreements. Cytogen has agreed to pay the Company for manufacturing and
+supplying the products and royalties on sales. These agreements have an initial
+ten-year term with automatic five year extensions, but can be terminated earlier
+upon the occurrence of certain specified events.
+
+    EIKEN.  In 1988, the Company entered into a manufacturing and distribution
+agreement with Eiken, granting Eiken the exclusive right to manufacture and
+distribute FERIDEX I.V. in Japan. Eiken was responsible for conducting clinical
+trials and securing the necessary regulatory approval in Japan. Under the terms
+of the agreement, Eiken paid the Company a license fee of $1,500,000. In
+addition, Eiken pays royalties based upon sales. The agreement terminates on the
+later of (i) the expiration of the last to expire technology patent or (ii) ten
+years after the date all necessary approvals were obtained.
+
+    In 1990, the Company entered into a manufacturing and distribution agreement
+with Eiken, granting Eiken the exclusive right to manufacture and distribute
+GASTROMARK and COMBIDEX in Japan. In addition, for a period of 180 days after
+the Company files an IND for any future Advanced Magnetics' MRI contrast agents,
+Eiken has the right of first refusal to manufacture and distribute such product
+in Japan. Upon execution of this agreement, Eiken paid the Company a license fee
+of $1,000,000. Additionally, Eiken agreed to pay the Company royalties on sales
+of all products sold by Eiken under the agreement. The agreement is perpetual
+but terminable upon certain specified events. Due to market conditions in Japan,
+Eiken has decided not to market GASTROMARK or COMBIDEX and rights to these
+products in Japan have reverted back to the Company. Additionally, Eiken has
+decided not to exercise its option to develop Code 7228 in Japan.
+
+    GUERBET.  In 1987, the Company entered into a supply and distribution
+agreement with Guerbet. Under this agreement, Guerbet has been appointed the
+exclusive distributor of FERIDEX I.V. in
+
+                                       5
+<PAGE>
+western Europe (under the tradename Endorem-TM-) and Brazil. Guerbet is
+responsible for conducting clinical trials and securing the necessary regulatory
+approvals in the countries in its territory. Guerbet paid the Company license
+fees and has agreed to pay royalties based on sales. The Company is entitled to
+receive an additional percentage of Guerbet's sales in return for selling to
+Guerbet its requirements for the active ingredient used in ENDOREM. The
+agreement terminates on the later of (i) the expiration of the last to expire
+technology patent or (ii) ten years after the date all necessary approvals were
+obtained in France.
+
+    In 1989, the Company entered into a second supply and distribution agreement
+with Guerbet granting Guerbet an exclusive right in western Europe and Brazil to
+manufacture and sell GASTROMARK (under the tradename Lumirem-TM-) and any future
+Advanced Magnetics MRI contrast agents that Guerbet decides to market. Guerbet
+has taken the rights to COMBIDEX (under the tradename Sinerem-TM-) and Code
+7228. Under the terms of this second distribution agreement, Guerbet paid the
+Company a license fee in 1989. In addition, Guerbet has agreed to pay the
+Company both royalties and a percentage of net sales as the purchase price for
+the active ingredient of the licensed products. The Company is required to sell
+to Guerbet its requirements for the active ingredient used in the contrast
+agents. The agreement is perpetual but terminable upon certain specified events.
+
+    MALLINCKRODT.  In 1990, the Company entered into a manufacturing and
+distribution agreement for GASTROMARK with Mallinckrodt Inc. ("Mallinckrodt").
+Under this agreement, Mallinckrodt received the exclusive right to manufacture
+and co-market GASTROMARK in the United States, Canada and Mexico. Under this
+agreement, Advanced Magnetics reserved the right to sell the product through its
+own direct sales personnel. Mallinckrodt paid $1,350,000 in license fees and a
+$500,000 non-refundable milestone payment upon FDA approval of GASTROMARK.
+Additionally, the Company receives royalties based on Mallinckrodt's GASTROMARK
+sales as well as a percentage of sales for supplying the active ingredient. The
+agreement is perpetual but terminable upon certain specified events.
+
+    SQUIBB DIAGNOSTICS.  Under an agreement with Squibb Diagnostics, a division
+of Bristol-Myers Squibb Co., the Company is obligated to pay up to a maximum of
+$2,750,000 in royalties in connection with product sales of COMBIDEX.
+
+MANUFACTURING AND SUPPLY ARRANGEMENTS
+
+    The Company's Cambridge, Massachusetts facility is registered with the FDA
+and is subject to "current Good Manufacturing Practices" ("cGMP") as prescribed
+by the FDA. The Company currently manufactures FERIDEX I.V. bulk product for
+sale to Guerbet, manufactures FERIDEX I.V. finished product for sale to Berlex
+and manufactures GASTROMARK bulk product for sale to Guerbet and Mallinckrodt.
+The Company intends to manufacture COMBIDEX formulated drug product for
+commercial use, subject to FDA approval, and Code 7228 finished product for
+clinical use. The Company intends to use a contract manufacturer for final
+manufacturing of COMBIDEX.
+
+PATENTS AND TRADE SECRETS
+
+    The Company considers the protection of its technology to be material to its
+business. The Company's policy is to aggressively protect its competitive
+technology position by a variety of means, including applying for patents in the
+United States and in appropriate foreign countries. The Company has been granted
+28 U.S. patents, has several patent applications pending, and has filed
+counterpart patent applications in several foreign countries. The Company has
+assigned three of its U.S. patents to another company. In addition, the Company
+is a party to various license agreements, including nonexclusive cross-licensing
+arrangements covering MRI technology with Nycomed Imaging A.S. of Oslo, Norway
+("Nycomed") and Schering AG ("Schering") of Berlin, Germany. The Company's
+proprietary position depends in part on these licenses, and termination of the
+licenses for any reason
+
+                                       6
+<PAGE>
+could have a material adverse effect on the Company by limiting or prohibiting
+the commercial sale of its products. Although the Company believes that further
+patents will be issued on pending applications, no assurance to this effect can
+be given.
+
+    The patent positions of pharmaceutical and biopharmaceutical firms,
+including Advanced Magnetics, are generally uncertain and involve complex legal
+and factual questions. The claims which are included in pending or future patent
+applications may not be issued, any issued patents may not provide the Company
+with competitive advantages or may be challenged by others, and the existing or
+future patents of third parties may have an adverse effect on the ability of the
+Company to commercialize its products.
+
+    The Company also intends to rely on its trade secrets, know-how, continuing
+technological innovations and licensing opportunities to maintain and develop
+its competitive position. Although the Company seeks to protect its proprietary
+information, others might independently develop the same or similar information,
+design around its patents, obtain unauthorized access to the Company's
+proprietary information or misuse information to which the Company has granted
+access. Litigation may be necessary to enforce any patents issued to the Company
+or to determine the scope of other person's proprietary rights in court or
+administrative proceedings. Any litigation or administrative proceeding could
+result in substantial costs to the Company and distraction of the Company's
+management. An adverse ruling in any litigation or administrative proceeding
+could have a material adverse effect on the Company's business, financial
+condition and results of operations.
+
+COMPETITION
+
+    The pharmaceutical and biopharmaceutical industries are subject to intense
+competition and rapid technological change. Certain companies, including the
+Company's collaborators, which have greater human and financial resources
+dedicated to product development and clinical testing than the Company, are
+developing MRI contrast agents. The Company's collaborators are not restricted
+from developing and marketing competing products and, as a result of certain
+cross license agreements among the Company and certain of its competitors
+(including one of its collaborators), the Company's competitors will be able to
+utilize certain of the Company's technology in the development of competing
+products. The Company may not be able to compete successfully with these
+companies. In addition, further product and technological developments may make
+other imaging modalities more compelling than MRI and adversely impact sales of
+the Company's products.
+
+    The Company believes that its ability to compete successfully in the MRI
+contrast agent market will depend on a number of factors including the
+implementation of effective marketing campaigns by the Company and/or its
+marketing and distribution partners, development of efficacious products, timely
+receipt of regulatory approvals and product manufacturing at commercially
+acceptable costs. In addition, market acceptance of both MRI as an appropriate
+technique for imaging certain organs, especially the liver and the lymphatic
+system, and the use of the Company's products as part of such imaging is
+critical to the success of its contrast agent products. Although the Company
+believes that its contrast agents offer advantages over competing MRI, CT or
+X-ray contrast agents, competing contrast agents might receive greater
+acceptance. In addition, to the extent that other diagnostic techniques such as
+CT and X-ray may be perceived as providing greater value than MRI, any
+corresponding decrease in the use of MRI could have an adverse effect on the
+demand for the Company's contrast agent products. The Company may not be able to
+successfully market its products alone or with its partners, develop efficacious
+products, obtain timely regulatory approvals, manufacture products at
+commercially acceptable costs, gain satisfactory market acceptance or otherwise
+successfully compete in the future.
+
+    There are several MRI contrast agents for imaging lesions of the liver on
+the market and in various phases of clinical testing in the United States and
+abroad. Schering has two products, Resovist, a carboxydextran superparamagnetic
+iron oxide formulation, and Eovist, a chelated gadolinium
+
+                                       7
+<PAGE>
+compound. The Company believes that Schering has filed for European and Japanese
+approval of Resovist; clinical trials are proceeding in the United States.
+Eovist is believed to be in Phase III trials in Europe. Nycomed has received
+marketing approval in the United States and Europe for its MnDPDP product,
+Teslascan, for MRI of liver lesions. Bracco S.p.A. has received marketing
+approval in Europe for Gadolinium BOPTA (MultiHance), a chelated gadolinium
+compound for MR imaging of liver lesions and we believe they may have filed for
+approval in the United States as well. To the Company's knowledge, there are no
+approved products or drug candidates in human clinical development for the
+contrast-enhanced imaging of lymph nodes other than COMBIDEX and Code 7228.
+Although the Company is unaware of any such products, those products may exist
+and could have a material adverse effect on the marketing of the Company's
+products.
+
+    In the area of oral contrast agents, Pharmacyclics, Inc. filed an NDA in
+late 1995 for GADOLITE, its gadolinium-based product candidate which is
+currently not approved by the FDA. Bracco S.p.A received marketing approval in
+December 1997 in the United States for Lumenhance, its liposomal encapsulated
+oral manganese compound, but it is not being marketed at this time. In
+October 1997, the FDA approved Ferriseltz, an oral MRI agent from
+Oncomembrane Inc. It is not known how, or if, Bracco and Oncomembrane are
+planning to market these products.
+
+    These competitive products or other products developed by the Company's
+competitors my be more effective than any products developed by the Company or
+render the Company's technology obsolete. In addition, further technological and
+product developments may make other imaging modalities more competitive.
+
+    Many of these companies, as well as other imaging companies, have
+substantially greater capital, research and development, manufacturing and
+marketing resources and experience than the Company and represent significant
+competition for Advanced Magnetics. Such companies may succeed in developing
+technologies and products that are more effective or less costly than any that
+may be developed by the Company and may also prove to be more successful than
+the Company in production and marketing. Furthermore, products developed by the
+Company's competitors may be more effective than any products developed by the
+Company or render the Company's technology obsolete.
+
+GOVERNMENT REGULATION AND REIMBURSEMENT
+
+    The production and marketing of the Company's products and its ongoing
+research and development activities are subject to regulation for safety,
+efficacy and quality by numerous governmental authorities in the United States
+and other countries. Pharmaceutical products intended for therapeutic use or for
+intravenous or oral administration in humans are principally governed by FDA
+regulations in the United States and by comparable government regulations in
+foreign countries. Various federal, state and local statutes and regulations
+also govern or influence the research and development, manufacturing, safety,
+labeling, storage, record-keeping, distribution and marketing of such products.
+The process of completing pre-clinical and clinical testing and obtaining the
+approval of the FDA and similar health authorities in foreign countries to
+market a new drug product requires a significant number of years and the
+expenditure of substantial resources. Failure to obtain requisite governmental
+approvals, failure to obtain approvals of the scope requested or withdrawal or
+suspension by the FDA or foreign authorities of any approvals will delay or
+preclude the Company or its licensees or collaborators from marketing the
+Company's products or limit the commercial use of the products and will have a
+material adverse effect on the Company's business, financial condition and
+results of operations.
+
+    The steps required by the FDA before a new human pharmaceutical product
+(including a contrast agent) may be marketed in the United States include:
+(a) pre-clinical laboratory tests, in vivo pre-clinical studies and formulation
+studies; (b) the submission to the FDA of a request for authorization to conduct
+clinical trials subject to an Investigational New Drug ("IND") exemption, to
+
+                                       8
+<PAGE>
+which the FDA must not object, before human clinical trials may commence;
+(c) adequate and well-controlled human-clinical trials to establish the safety
+and efficacy of the drug for its intended use; (d) submission to the FDA of an
+NDA; (e) approval and validation of manufacturing facilities used in production
+of the pharmaceutical product; and (f) review and approval of the NDA by the FDA
+before the drug product may be shipped or sold commercially.
+
+    Pre-clinical tests include the laboratory evaluation of product chemistry
+and formulation, as well as animal studies to assess the potential safety and
+efficacy of the product. Pre-clinical test results are submitted to the FDA as a
+part of the IND. Clinical trials are typically conducted in three sequential
+phases, although the phases may overlap. Phase I involves the initial
+administration of the drug to a small group of humans, either healthy volunteers
+or patients, to test for safety, dosage tolerance, absorption, distribution,
+metabolism, excretion and clinical pharmacology and, if possible, early
+indications of effectiveness. Phase II involves studies in a small sample of the
+actual intended patient population to assess the preliminary efficacy of the
+investigational drug for a specific clinical indication, to ascertain dose
+tolerance and the optimal dose range and to collect additional clinical
+information relating to safety and potential adverse effects. Once an
+investigational drug is found to have some efficacy and an acceptable clinical
+safety profile in the targeted patient population, Phase III studies can be
+initiated to further establish safety and efficacy of the investigational drug
+in a broader sample of the target patient population. The results of the
+clinical trials together with the results of the pre-clinical tests and complete
+manufacturing information are submitted in an NDA to the FDA for approval. The
+FDA may suspend clinical trials at any point in this process if it concludes
+that patients are being exposed to an unacceptable health risk.
+
+    Both before and after approval is obtained, a product, its manufacturer, and
+the holder of the NDA for the product are subject to comprehensive regulatory
+oversight. Violations of regulatory requirements at any stage, including the
+pre-clinical and clinical testing process, the approval process, or thereafter
+(including after approval) may result in various adverse consequences, including
+the FDA's delay in approving or refusal to approve a product, withdrawal of an
+approved product from the market, and/or the imposition of criminal penalties
+against the manufacturer and/or NDA holder. In addition, later discovery of
+previously unknown problems may result in restrictions on such product,
+manufacturer, or NDA holder, including withdrawal of the product from the
+market. Also, new government requirements may be established that could delay or
+prevent regulatory approval of the Company's products under development.
+
+    If an NDA is submitted to the FDA, the application may not be reviewed and
+approved by the FDA in a timely manner, if at all. Among the conditions for NDA
+approval is the requirement that a prospective manufacturer's manufacturing
+procedures conform to cGMP requirements, which must be followed at all times. In
+complying with those requirements, manufacturers (including a drug sponsor's
+third-party contract manufacturers) must continue to expend time, money and
+effort in the area of production and quality control to ensure compliance. Once
+the FDA determines that a product is approvable, it will issue an action letter
+indicating if any additional information must be provided or if any additional
+conditions must be met prior to final approval. The labeling of the product must
+also be approved by the FDA prior to final approval of the product. Even after
+initial FDA approval has been obtained, further studies, including post-market
+studies, may be required to provide additional information. Results of such
+post-market programs may limit or expand the further marketing of the product.
+Even if initial marketing approval is granted, such approval may entail
+limitations on the indicated uses for which a product may be used and impose
+labeling requirements which may adversely impact the Company's ability to market
+its products. Finally, product approvals may be withdrawn if compliance with
+regulatory standards is not maintained or if problems occur following initial
+marketing.
+
+    Domestic manufacturing establishments are subject to periodic inspections by
+the FDA in order to assess, among other things, cGMP compliance. To supply
+product for use in the United States, foreign manufacturing establishments must
+comply with cGMP and are subject to periodic inspection by the
+
+                                       9
+<PAGE>
+FDA or by regulatory authorities in certain of such countries under reciprocal
+agreements with the FDA. Failure to maintain compliance with cGMP regulations
+and other applicable manufacturing requirements of various regulatory agencies
+could have a material adverse effect on the Company's business, financial
+condition and results of operations.
+
+    The Company is also subject to foreign regulatory requirements governing
+development, manufacturing and sales of pharmaceutical products that vary widely
+from country to country. Approval of a drug by applicable regulatory agencies of
+foreign countries must be secured prior to the marketing of such drug in those
+countries. The regulatory approval process may be more or less rigorous from
+country to country and the time required for approval may be longer or shorter
+than that required in the United States.
+
+    The Company is subject to regulation under local, state and federal law
+regarding occupational safety, laboratory practices, handling of chemicals,
+environmental protection and hazardous substances control. The Company possesses
+a Byproduct Materials License from the Commonwealth of Massachusetts for
+receipt, possession, manufacturing and distribution of radioactive materials.
+The Company holds Registration Certificates from the United States Drug
+Enforcement Administration and the Commonwealth of Massachusetts Department of
+Public Health for handling controlled substances. The Company is registered with
+the United States Environmental Protection Agency ("EPA") as a generator of
+hazardous waste. All hazardous waste disposal must be made in accordance with
+EPA and Commonwealth of Massachusetts requirements. The Company is subject to
+the regulations of the Occupational Safety and Health Act and has in effect a
+safety program to assure compliance with these regulations.
+
+    In both the United States and foreign markets, the Company's ability to
+commercialize its products successfully also depends in part on the extent to
+which reimbursement for the costs of such products and related treatments will
+be available from government health administration authorities, private health
+insurers and other third-party payors. Significant uncertainty exists as to the
+reimbursement status of newly approved health care products and products used
+for indications not approved by the FDA. If adequate reimbursement levels are
+not maintained by government and other third-party payors for the Company's
+products and related treatments, the Company's business, financial condition and
+results of operations may be materially adversely affected.
+
+MAJOR CUSTOMERS
+
+    Two companies, Berlex and Guerbet, accounted for approximately 27% and 22%
+respectively, of the Company's revenues in fiscal 2000. No other customer
+accounted for more than 10% of total revenues in fiscal 2000.
+
+EMPLOYEES
+
+    As of December 12, 2000, the Company had approximately 24 full-time
+employees, 16 of whom were engaged in research and development. The Company's
+success depends in part on its ability to recruit and retain talented and
+trained scientific personnel. The Company has been successful to date in
+obtaining such personnel, but may not be so in the future.
+
+    None of the Company's employees is represented by a labor union, and the
+Company considers its relations with its employees to be excellent.
+
+FOREIGN OPERATIONS
+
+    The Company has no foreign operations. Revenues in fiscal 2000, 1999 and
+1998 from customers and licensees outside of the United States, principally in
+Europe and Japan, amounted to 35%, 19% and 26% respectively, of the Company's
+total revenues.
+
+                                       10
+<PAGE>
+PRODUCT LIABILITY INSURANCE
+
+    The use of any of the Company's potential products in clinical trials and
+the sale of any approved products may expose the Company to liability claims
+resulting from the use of products or product candidates. These claims might be
+made by customers (including corporate partners), clinical trial subjects,
+patients, pharmaceutical companies or others. The Company maintains product
+liability insurance coverage for claims arising from the use of its products
+whether in clinical trials or approved commercial usage. However, coverage is
+becoming increasingly expensive and the Company may not be able to maintain
+insurance at a reasonable cost. The Company's insurance may not provide
+sufficient amounts to protect the Company against liability that could have a
+material adverse effect on the Company's business, financial condition and
+results of operations. The Company may not be able to obtain commercially
+reasonable product liability insurance for any product approved for marketing in
+the future or that insurance coverage and the resources of the Company would be
+sufficient to satisfy any liability resulting from product liability claims. A
+product liability claim or series of claims brought against the Company could
+have a material adverse effect on its business, financial condition and results
+of operations, whether or not the plaintiffs in such claims ultimately prevail.
+
+RESEARCH AND DEVELOPMENT
+
+    The Company is committed to internal research and development as a method of
+producing new products, improving existing products and growing revenues. The
+Company spent $4,623,468, $7,952,331 and $8,961,796 in each of the last three
+fiscal years respectively on research and development.
+
+ITEM 2. PROPERTIES:
+
+    The Company's principal operations are located in a modern, Company-owned
+building of approximately 25,000 square feet in Cambridge Massachusetts. The
+Company believes this facility is adequate for its current and anticipated
+short-term needs and that it will be able to lease comparable space, if
+necessary. However, the acquisition and required regulatory approvals for
+additional pharmaceutical manufacturing space can be time consuming and
+expensive. If the Company desired to expand its manufacturing capacity it might
+not be able to do so on a timely basis, if at all. Additionally, the Company
+leases premises of approximately 5,200 square feet in Princeton, New Jersey that
+was previously used for the Company's clinical development group. This lease
+expires on September 30, 2003.
+
+ITEM 3. LEGAL PROCEEDINGS:
+
+    The Company and certain of its officers were sued in an action entitled
+DAVID D. STARK, M.D. V. ADVANCED MAGNETICS, INC., JEROME GOLDSTEIN, ERNEST V.
+GROMAN AND LEE JOSEPHSON, Civil Action No. 92-12157-WGY, in the United States
+District Court for the District of Massachusetts on September 3, 1992. The
+plaintiff, a former consultant to the Company, claims that he was incorrectly
+omitted as an inventor or joint inventor on certain of the Company's patents and
+on pending applications, and seeks injunctive relief and unspecified damages. In
+addition, the complaint also alleges state law claims for breach of contract,
+breach of good faith and fair dealing, breach of implied contract,
+misappropriation of trade secrets, conversion, negligent misrepresentation,
+misrepresentation, unjust enrichment and unfair trade practices. The District
+Court has stayed this federal action pending resolution of an appeal in the
+State Court of summary judgment in the Company's favor as well as resolution of
+a jurisdictional issue. As noted below, the Massachusetts Appeals Court has
+decided the appeal, but the federal action remains stayed as of this date. While
+the outcome of the action cannot be determined, the Company believes the action
+is without merit and intends to defend the action vigorously. The Company may
+not be able to successfully defend this action and the failure by the Company to
+prevail for any reason could have an adverse effect on it's future business,
+financial condition and results of operations.
+
+                                       11
+<PAGE>
+    The Company and certain of its officers were sued in DAVID D. STARK, M.D. V.
+ADVANCED MAGNETICS, INC., JEROME GOLDSTEIN, ERNEST V. GROMAN AND LEE JOSEPHSON,
+Civil Action No. 93-02846-C, in the Superior Court Department of the
+Massachusetts Trial Court for Middlesex County. This case involves claims of
+breach of contract, breach of good faith and fair dealing, breach of implied
+contract, unjust enrichment and unfair trade practices that were originally
+dismissed by, but later remanded to, the Federal Court in the above-mentioned
+action, as well as a new count alleging tortious interference with contractual
+or advantageous relations. The Superior Court granted partial summary judgment
+in the Company's favor and dismissed the unfair trade practices and tort counts.
+The plaintiff's contract claims have been dismissed with prejudice and final
+judgment was entered against the plaintiff. The plaintiff filed an appeal in
+DAVID D. STARK, M.D. V. ADVANCED MAGNETICS, INC., JEROME GOLDSTEIN, ERNEST V.
+GROMAN AND LEE JOSEPHSON, Appeal No. 98-P-1749, in the Massachusetts Appeals
+Court, on January 25, 1999. On October 13, 2000, the Massachusetts Appeals Court
+reversed the grant of partial summary judgment in the Company's favor and
+ordered that the unfair trade practice and tort claims be reinstated. The
+Superior Court has redocketed the claims as directed by the Appeals Court, and
+it is anticipated that the litigation in state court will now move forward.
+While the outcome of the action cannot be determined, the Company believes the
+action is without merit and intends to defend the action vigorously. The Company
+may not be able to successfully defend this action and the failure by the
+Company to prevail for any reason could have an adverse effect on its future
+business, financial condition and results of operations.
+
+    The Company filed suit on October 7, 1997 against Sanofi
+Pharmaceuticals, Inc. (formerly known as Sanofi Winthrop, Inc.) and Sanofi SA
+(collectively, the "Defendants") in the Superior Court of the Commonwealth of
+Massachusetts. The action is entitled ADVANCED MAGNETICS, INC. V. SANOFI
+PHARMACEUTICALS, INC. AND SANOFI SA, Civil Action No. 97-5222B. The Company
+claims that the Defendants tortiously interfered with a license, supply and
+marketing agreement (the "Agreement"), and seeks unspecified monetary damages.
+In addition, the Company seeks a declaration that the Defendants do not have any
+rights under the Agreement and that the Company has not breached the Agreement.
+Sanofi Pharmaceuticals, Inc., filed counterclaims against the Company on
+February 4, 1998 seeking compensatory damages of $11,500,000 and multiple
+damages as a result of the Company's alleged breach of the Agreement. On
+November 13, 1998 the Company filed an amended complaint adding claims for
+unfair competition and breach of contract against the Defendants. On
+November 23, 1998, the Defendants answered the Company's amended complaint, and
+Sanofi Pharmaceuticals, Inc. served a new set of counterclaims seeking
+compensatory damages of $15,000,000 and multiple damages as a result of the
+Company's alleged conduct. On June 15, 1999, the court granted partial summary
+judgment in favor of the Company and against the Defendants, declared that the
+Company did not breach the Agreement, was not unjustly enriched, and did not
+violate Mass. Gen. Laws ch. 93A, and dismissed Sanofi Pharmaceuticals, Inc.'s
+counterclaims for breach of contract, unjust enrichment, conversion, account
+annexed and violation of Mass. Gen. Laws ch. 93A. On October 29, 1999, the
+Company served a second motion for partial summary judgment which, among other
+things, requests judgment in its favor on Sanofi Pharmaceuticals, Inc.'s
+remaining counterclaims against the Company and for judgment in its favor on the
+Company's breach of contract claim against Defendants. Also on October 29, 1999,
+Defendants served a motion for partial summary judgment which, among other
+things, requests judgment in its favor on the Company's remaining claims. On
+October 4, 2000, the Court granted the Company's motion and entered judgment on
+all remaining claims brought by Sanofi Pharmaceuticals, Inc. In addition, the
+Court granted in part and denied in part Defendants' motion for summary
+judgment. Only the Company's breach of contract claim against Sanofi SA remains
+in the case. On November 21, 2000, Sanofi SA and Sanofi Pharmaceuticals, Inc.
+served a Motion for Entry of Separate and Final Judgment, seeking to have the
+Court certify final judgment on all issues decided on summary judgment except
+for the Company's breach of contract claim against Sanofi SA. Sanofi SA and
+Sanofi Pharmaceuticals seek final judgment certification in order to obtain an
+immediate appeal on the summary judgment decisions. On December 1, 2000, the
+Company served a memorandum in
+
+                                       12
+<PAGE>
+opposition to the motion for final and separate judgment. On December 5, 2000,
+the Court set a trial date for March 19, 2001 on the Company's remaining claim.
+While the final outcome of this litigation cannot be determined, the Company
+intends to pursue its remaining claim. In the event that the judgments in the
+Company's favor are reversed on appeal, the Company intends to defend those
+claims vigorously. However, in such an event, the Company may not be able to
+successfully defend those claims and the failure of the Company to prevail for
+any reason could impair the Company's financial resources and disrupt the
+Company's future operating plans.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS:
+
+    No matters were submitted to a vote of the company's security holders during
+the quarter ended September 30, 2000.
+
+EXECUTIVE OFFICERS OF THE REGISTRANT:
+
+    JEROME GOLDSTEIN, 61, is a founder of the Company and has been Chief
+Executive Officer, Chairman of the Board of Directors and Treasurer since the
+Company's organization in November 1981. Mr. Goldstein was a co-founder of
+Clinical Assays, Inc., serving from 1972 to 1980 as Vice President and then as
+President. Mr. Goldstein is the husband of Marlene Kaplan Goldstein, Secretary
+of the Company.
+
+    LEONARD M. BAUM, 47, joined the Company in October 1994 as Senior Vice
+President and has been President and Chief Operating Officer since May 1997.
+From 1986 to 1994, Mr. Baum was employed as Senior Director, Worldwide
+Regulatory Affairs/Drug Safety by Squibb Diagnostics. Mr. Baum is also a member
+of the Board of Directors.
+
+    PAULA M. JACOBS, 56, joined the Company in January 1986 as Vice
+President--Development. From 1981 to 1986, Dr. Jacobs was employed at
+Seragen, Inc., first as Production Manager and later as General Manager of the
+Research Products Division.
+
+    DENNIS LAWLER, 46, joined the Company in February 1989 as Director of
+Quality Control and has been Vice President--Quality Control since
+January 1997. Prior to February 1989, Mr. Lawler was employed at CIS-US, first
+as Senior Quality Control Analyst, then as a Production Manager and then as a
+Plant Manager.
+
+    JEROME M. LEWIS, 51, joined the Company in April 1986 as a Senior Scientist
+and has been Vice President--Scientific Operations since February 1991. Prior to
+April 1986, Dr. Lewis was employed as a senior scientist by Petroferm Ltd., a
+biotechnology company.
+
+    JAMES A. MATHESON, 56, joined the Company in May 1996 as Vice
+President--Finance. Prior to May, 1996, Mr. Matheson was Controller of Diatech
+Diagnostics, Inc.
+
+    MARK C. ROESSEL, 50, joined the Company in January 1982 as Director of
+Regulatory Affairs and has been Vice President--Regulatory Affairs since
+January 1995. Prior to January 1982, Mr. Roessel was Compliance Manager of the
+Clinical Assay Division of Baxter International, Inc.
+
+    MARLENE KAPLAN GOLDSTEIN is a founder of the Company and has been Secretary
+of the Company since the Company's organization in November 1981.
+
+                                       13
+<PAGE>
+                                    PART II
+
+ITEM 5. MARKET FOR THE COMPANY'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS:
+
+    The Company's common stock is listed on the American Stock Exchange under
+the symbol AVM.
+
+    The table below sets forth the high and low sales price of the Company's
+common stock on the American Stock Exchange for the fiscal quarters of 2000 and
+1999.
+
+<TABLE>
+<CAPTION>
+                                                                FISCAL QUARTER
+                                                   -----------------------------------------
+                                                    FIRST      SECOND     THIRD      FOURTH
+                                                   --------   --------   --------   --------
+<S>                                                <C>        <C>        <C>        <C>
+2000 High........................................      4 11/16    10 3/4     8 7/8      8 1/8
+    Low..........................................      3          3 13/16     6 1/8     3 1/4
+1999 High........................................     11 3/8      7 3/4      5 5/8      5 1/4
+    Low..........................................      5          3 1/2      3 7/16     3 1/8
+</TABLE>
+
+    On December 12, 2000 there were approximately 280 stockholders of record.
+The Company believes that the number of beneficial holders of Common Stock is
+approximately 2,200. The last reported sale price of the Common Stock on
+December 12, 2000 was $2.50 per share. The Company has never declared or paid a
+cash dividend on its capital stock.
+
+                                       14
+<PAGE>
+ITEM 6. SELECTED FINANCIAL DATA:
+
+    The selected financial data set forth below has been derived from the
+audited financial statements of the Company. This information should be read in
+conjunction with the financial statements and notes thereto set forth elsewhere
+herein.
+
+                            SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+                                                                           FOR THE YEARS ENDED SEPTEMBER 30,
+                                                         ----------------------------------------------------------------------
+                                                             2000          1999          1998          1997           1996
+                                                         ------------   -----------   -----------   -----------   -------------
+<S>                                                      <C>            <C>           <C>           <C>           <C>
+Statement of Operations Data:
+Revenues:
+  License fees.........................................  $  1,124,049   $        --   $        --   $ 5,500,000   $          --
+  Royalties............................................       825,000       680,000       980,542       363,445          50,000
+  Product sales........................................     1,253,537     1,966,059     1,399,871     1,580,357          12,762
+  Contract research and development....................       106,003       581,429       399,897        62,920           6,810
+  Interest, dividends and net gains and losses on sales
+    of securities......................................       765,330     4,202,568     3,623,836     3,495,049       1,761,450
+                                                         ------------   -----------   -----------   -----------   -------------
+    Total revenues.....................................     4,073,919     7,430,056     6,404,146    11,001,771       1,831,022
+
+Costs and Expenses:
+  Cost of product sales................................       239,228       454,642       237,945       311,678           2,550
+  Contract research and development expenses...........         3,195        37,056         6,514         8,815              --
+  Company-sponsored research and development
+    expenses...........................................     4,623,468     7,952,331     8,961,796     9,304,327       9,671,897
+  Selling, general and administrative expenses.........     3,013,796     3,694,038     3,701,410     1,437,599       1,871,568
+                                                         ------------   -----------   -----------   -----------   -------------
+    Total costs and expenses...........................     7,879,687    12,138,067    12,907,665    11,062,419      11,546,015
+
+Other Income:
+    Other income.......................................            --       265,593            --       264,800              --
+                                                         ------------   -----------   -----------   -----------   -------------
+Income (loss) before provision for income taxes,
+  minority interest in subsidiary, and cumulative
+  effect of accounting change..........................    (3,805,768)   (4,442,418)   (6,503,519)      204,152      (9,714,993)
+Minority interest in subsidiary........................            --            --      (194,178)           --              --
+Income tax (benefit) provision.........................            --            --            --      (379,022)             --
+                                                         ------------   -----------   -----------   -----------   -------------
+
+Income (loss) before cumulative effect of accounting
+  change...............................................    (3,805,768)   (4,442,418)   (6,309,341)      583,174      (9,714,993)
+Cumulative effect of accounting change*................    (7,457,717)           --            --            --              --
+                                                         ------------   -----------   -----------   -----------   -------------
+Net income (loss)......................................  $(11,263,485)  $(4,442,418)  $(6,309,341)  $   583,174   $  (9,714,993)
+                                                         ============   ===========   ===========   ===========   =============
+Basic and diluted income (loss) before cumulative
+  effect of accounting change per share................  $      (0.56)  $     (0.66)  $     (0.93)  $      0.09   $       (1.44)
+Cumulative effect of accounting change per share*......         (1.11)           --            --            --              --
+                                                         ------------   -----------   -----------   -----------   -------------
+Basic and diluted net income (loss) per share..........  $      (1.67)  $     (0.66)  $     (0.93)  $      0.09   $       (1.44)
+                                                         ------------   -----------   -----------   -----------   -------------
+Weighted average shares outstanding:
+  Basic................................................     6,758,825     6,766,934     6,752,863     6,744,946       6,762,748
+  Diluted..............................................     6,758,825     6,766,934     6,752,863     6,813,984       6,762,748
+                                                         ------------   -----------   -----------   -----------   -------------
+</TABLE>
+
+*   In fiscal 2000, the Company changed its method of accounting for revenue
+    from license agreements.
+
+<TABLE>
+<CAPTION>
+                                                                                    AT SEPTEMBER 30,
+                                                         ----------------------------------------------------------------------
+                                                             2000          1999          1998          1997           1996
+                                                         ------------   -----------   -----------   -----------   -------------
+<S>                                                      <C>            <C>           <C>           <C>           <C>
+Balance sheet data:
+Working capital........................................  $ 25,706,905   $22,020,107   $27,278,502   $37,422,235   $  33,605,818
+                                                         ------------   -----------   -----------   -----------   -------------
+Total assets...........................................  $ 35,667,591   $27,816,359   $34,114,708   $44,976,181   $  41,066,373
+                                                         ------------   -----------   -----------   -----------   -------------
+Stockholders' equity...................................  $ 14,305,632   $27,054,709   $32,919,398   $43,423,058   $  40,132,545
+                                                         ------------   -----------   -----------   -----------   -------------
+</TABLE>
+
+                                       15
+<PAGE>
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+  OF OPERATIONS:
+
+OVERVIEW
+
+    Since its inception in November 1981, Advanced Magnetics, Inc., (the
+"Company") has focused its efforts on developing its core superparamagnetic iron
+oxide particle technology to develop magnetic resonance imaging ("MRI") contrast
+agents. The Company has funded its operations with cash from license fees from
+corporate partners, royalties, sales of its products, fees from contract
+research performed for third parties, the proceeds of financings and income
+earned on invested cash. The Company's success in the market for diagnostic
+products will depend, in part, on the Company's ability to successfully develop,
+test, produce and market its products; obtain necessary governmental approvals
+in a timely manner; attract and retain key employees; and successfully respond
+to technological and other changes in the marketplace.
+
+    The Company's operating results may continue to vary significantly from
+quarter to quarter or from year to year depending on a number of factors,
+including: the timing of payments from corporate partners and research grants;
+the introduction of new products by the Company; the timing and size of orders
+from the Company's customers; and the acceptance of the Company's products. The
+Company's current planned expense levels are based in part upon expectations as
+to future revenue. Consequently, profits may vary significantly from quarter to
+quarter or year to year based on the timing of revenue. Revenue or profits in
+any period will not necessarily be indicative of results in subsequent periods
+and the Company may not achieve profitability or grow revenue in the future.
+
+    A substantial portion of the Company's expenses consist of research and
+development expenses. In an effort to reduce expenditures and improve
+efficiency, the Company closed its Princeton, New Jersey office and reduced the
+number of employees engaged in clinical development activities. All of the
+Company's operating activities have been consolidated into the Cambridge office
+in order to improve managerial oversight and inter-departmental coordination and
+cooperation. The Company may rely to a greater degree on contract research and
+development providers in the future and expects that research and development
+expenses will continue to be a significant portion of the Company's total
+expenses.
+
+    In fiscal 2000, the Company adopted Securities and Exchange Commission
+("SEC") Staff Accounting Bulleting No. 101 ("SAB 101"). The effect of applying
+this change in accounting principle is a cumulative charge of $7,457,717, or
+$1.11 per share, in the first quarter. This cumulative change in accounting
+principle reflects the reversal of license fees and milestone payments that had
+been recognized in prior years. Recognition of these deferred payments is
+expected to occur over the remaining life of the related agreement.
+
+RESULTS OF OPERATIONS
+
+FISCAL 2000 COMPARED TO FISCAL 1999
+
+REVENUES
+
+    Total revenues for the fiscal year ended September 30, 2000 were $4,073,919
+compared to $7,430,056 for the fiscal year ended September 30, 1999.
+
+    License fee revenues for the fiscal year ended September 30, 2000 were
+$1,124,049, consisting of $735,575 in revenue associated with the license and
+marketing agreement with Berlex Laboratories, Inc. ("Berlex"), of which $727,582
+was included in the cumulative effect of accounting change adjustment described
+below, and $388,474 of license fee revenue from Cytogen Corporation ("Cytogen")
+related to a license and marketing agreement. There were no license fee revenues
+for the fiscal year ended September 30, 1999.
+
+                                       16
+<PAGE>
+    In August 2000, the Company entered into a License and Marketing Agreement
+with Cytogen Corporation, which covers COMBIDEX and Code 7228 for oncology
+imaging. At the time of signing that Agreement, the Company received shares of
+common stock of Cytogen with a market value of $13,546,875 as a non-refundable
+licensing fee. Approximately $388,000 of that fee was recognized as revenue in
+fiscal 2000. Recognition of the remainder of the fee as revenue has been
+deferred and is expected to be recognized as future expenses related to the
+development of COMBIDEX and Code 7228 are incurred.
+
+    Royalties for the fiscal year ended September 30, 2000 were $825,000 as
+compared to $680,000 in fiscal 1999. The increase in royalties is primarily the
+result of increases in sales by the Company's Japanese partner.
+
+    Product sales for the fiscal year ended September 30, 2000 were $1,253,537
+compared to $1,966,059 for the fiscal year ended September 30, 1999. Product
+sales in fiscal 1999 included sales of $918,402 at the Company's former
+subsidiary, Kalisto Biologicals ("Kalisto"), for the nine months that Kalisto's
+sales were consolidated. There was an increase of $207,634 in sales of contrast
+agent products by the Company in fiscal 2000.
+
+    Contract research and development revenues were $106,003 during the fiscal
+year ended September 30, 2000 compared to $581,429 in the fiscal year ended
+September 30, 1999. The decrease reflects the completion of certain development
+activities, the costs of which were reimbursed under an agreement with Guerbet
+S.A. ("Guerbet") and the completion of work under a grant from the National
+Institutes of Health ("NIH").
+
+    Interest, dividends and gains and losses on sales of securities resulted in
+revenues of $765,330 for the fiscal year ended September 30, 2000 compared to
+$4,202,568 for the fiscal year ended September 30, 1999. The decrease was
+primarily due to a net loss on sales of securities of $62,450 during the fiscal
+year ended September 30, 2000 compared to a net gain of $3,555,957 for the
+fiscal year ended September 30, 1999. Interest income for the fiscal year ended
+September 30, 2000 was $729,805 compared to $534,733 for the fiscal year ended
+September 30, 1999 due to an increase in interest-bearing cash equivalents.
+Dividend income of $97,975 for the year ended September 30, 2000 was $13,903
+less than the $111,878 for the fiscal year ended September 30, 1999. This
+decrease is due to reduced holdings of dividend earning securities during the
+year.
+
+COSTS AND EXPENSES
+
+    The cost of product sales for the fiscal year ended September 30, 2000 was
+$239,228 compared to $454,642 for the fiscal year ended September 30, 1999. Cost
+of product sales in fiscal 1999 included $326,666 at the Company's former
+subsidiary, Kalisto, for the nine months that results from Kalisto were
+consolidated. The cost of product sales for fiscal 2000 was 19% of product sales
+and for fiscal 1999 was 23% of product sales. This decrease on an absolute and
+percentage basis is attributable to deconsolidation of Kalisto. Kalisto product
+sales had a higher cost of sales than the Company's products. Contract sponsored
+research and development costs of $3,195 were incurred during fiscal 2000,
+compared to $37,056 in fiscal 1999, and relate to costs incurred providing
+development services to Guerbet. The decrease in costs reflects the completion
+of such services during fiscal 2000.
+
+    Research and development expenses for the fiscal year ended September 30,
+2000 were $4,623,468, a decrease of $3,328,863 compared to $7,952,331 for the
+fiscal year ended September 30, 1999. The decrease was primarily attributable to
+a reduction in direct, company-sponsored research and development programs
+related to the clinical development of COMBIDEX.
+
+    Selling, general and administrative expenses for the fiscal year ended
+September 30, 2000 were $3,013,796 compared to expenses of $3,694,038 for the
+fiscal year ended September 30, 1999. Selling, general and administrative
+expenses during the fiscal year ended September 30, 2000 included one-time
+
+                                       17
+<PAGE>
+charges of approximately $815,750 related to the termination of a proposed
+merger with Cytogen and the subsequent signing of a License and Marketing
+Agreement, and approximately $326,630 in expenses and accruals related to the
+closing of the clinical development office in Princeton, New Jersey. The Company
+expects that selling, general and administrative expenses for fiscal 2001 will
+continue to decrease.
+
+INCOME TAXES
+
+    There was no income tax provision or benefit for the fiscal years ended
+September 30, 2000 and 1999.
+
+CUMULATIVE EFFECT OF ACCOUNTING CHANGE
+
+    In fiscal 2000, the Company adopted SEC Staff Accounting Bulleting No. 101
+("SAB 101"). The effect of applying this change in accounting principle is a
+cumulative charge of $7,457,717, or $1.11 per share. This cumulative change in
+accounting principle reflects the reversal of license fees and milestone
+payments that had been recognized in prior years. Previously, the Company had
+recognized license fee revenue when the fees were non-refundable, a technology
+transfer occurred, no explicit commitment or obligation for scientific
+achievement existed, and the other portions of the agreement, principally supply
+and royalty, were priced at fair value. Under the new accounting method applied
+retroactive to October 1, 1999, these payments are recorded as deferred revenue
+to be recognized over the remaining term of the related agreement. For the year
+ended September 30, 2000, the Company recognized $727,582 in revenue that was
+included in the cumulative effect adjustment as of October 1, 1999.
+
+EARNINGS
+
+    In the fiscal year ended September 30, 2000, the Company recorded a net loss
+from operations of ($3,805,768), or ($0.56) per share, together with a charge
+related to the cumulative effect of a change in accounting principle of
+($7,457,717), or ($1.11) per share, for a total net loss of ($11,263,485), or
+($1.67) per share. In the fiscal year ended September 30, 1999, the Company
+recorded a net loss of ($4,442,418), or ($0.66) per share.
+
+FISCAL 1999 COMPARED TO FISCAL 1998
+
+REVENUES
+
+    Total revenues for the fiscal year ended September 30, 1999 were $7,430,056
+compared to $6,404,146 for the fiscal year ended September 30, 1998.
+
+    There were no license fee revenues for the fiscal years ended September 30,
+1999 and 1998.
+
+    Royalties for the fiscal year ended September 30, 1999 were $680,000 as
+compared to $980,542 in fiscal 1998. The decrease in royalties is associated
+with the product launch of FERIDEX I.V. in Japan that occurred during the year
+ended September 30, 1998.
+
+    Product sales for the fiscal year ended September 30, 1999 were $1,966,059
+compared to $1,399,871 for the fiscal year ended September 30, 1998. Product
+sales in fiscal 1999 included an increase in sales of $697,548 at the Company's
+former subsidiary, Kalisto, for the nine months that Kalisto's sales were
+consolidated, offset by a decrease in product sales by the Company of $131,360.
+
+    Contract research and development revenues were $581,429 during the fiscal
+year ended September 30, 1999 compared with $399,897 in the fiscal year ended
+September 30, 1998. The increase in fiscal year 1999 reflects the reimbursement
+of certain development costs of approximately $473,000 under an agreement with
+Berlex and approximately $108,000 under an agreement with Guerbet.
+
+                                       18
+<PAGE>
+    Interest, dividends and gains and losses on sales of securities resulted in
+revenues of $4,202,568 for the fiscal year ended September 30, 1999 compared to
+$3,623,836 for the fiscal year ended September 30, 1998. The increase was
+primarily due to a net gain on sales of securities of $3,555,957 for the fiscal
+year ended September 30, 1999 compared to a net gain of $2,473,826 for the
+fiscal year ended September 30, 1998. Interest income for the fiscal year ended
+September 30, 1999 was $534,733 compared to $978,546 for the fiscal year ended
+September 30, 1998 due to a decrease in interest-bearing securities. Dividend
+income of $111,878 for the year ended September 30, 1999 was $59,587 less than
+the $171,464 for the fiscal year ended September 30, 1998.
+
+COSTS AND EXPENSES
+
+    The cost of product sales for the fiscal year ended September 30, 1999 was
+$454,642 compared to $237,945 for the fiscal year ended September 30, 1998. The
+cost of product sales for fiscal 1999 was 23% of product sales and for fiscal
+1998 was 17% of product sales. This change is attributable to the increased
+proportion of Kalisto product sales relative to sales of the Company's products
+(prior to July 1, 1999) which have a higher cost of sales than the Company's
+products. Contract sponsored research and development costs of $37,056 were
+incurred during fiscal 1999, compared to $6,514 in fiscal 1998, and relate to
+costs incurred providing development services to Guerbet.
+
+    Research and development expenses for the fiscal year ended September 30,
+1999 were $7,952,331, a decrease of $1,009,465 compared to $8,961,796 for the
+fiscal year ended September 30, 1998. The decrease was primarily attributable to
+a reduction in direct, company-sponsored research and development programs.
+Kalisto's expenditures for the nine-month period also decreased during the
+fiscal year ended September 30, 1999.
+
+    Selling, general and administrative expenses for the fiscal year ended
+September 30, 1999 were $3,694,038, compared to expenses of $3,701,410 for the
+fiscal year ended September 30, 1998. Selling, general and administrative
+expenses during the fiscal year ended September 30, 1999 included payments
+related to reductions in the Company's workforce.
+
+INCOME TAXES
+
+    There was no income tax provision or benefit for the fiscal years ended
+September 30, 1999 and 1998.
+
+EARNINGS
+
+    In the fiscal year ended September 30, 1999, the Company recorded a net loss
+of ($4,442,418), or ($0.66) per share. In the fiscal year ended September 30,
+1998, the Company recorded a net loss of ($6,309,341), or ($0.93) per share.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    At September 30, 2000, the Company's cash and cash equivalents totaled
+$16,120,738, compared with $17,052,636 at September 30, 1999. In addition, the
+Company had marketable securities of $14,051,850 at September 30, 2000,
+including shares of Cytogen common stock received in payment for license fees,
+as compared to $4,804,785 on September 30, 1999. Net cash used in operating
+activities was $3,587,508 in the fiscal year ended September 30, 2000 compared
+to net cash used in operating activities of $6,733,531 in the fiscal year ended
+September 30, 1999. The decrease in cash used in operating activities was due
+primarily to a decrease of $4,745,316 in payments to suppliers and employees as
+a result of a substantial reduction in costs and expenses. Cash provided by
+investing activities was $2,593,642 for the fiscal year ended September 30, 2000
+compared to $16,154,403 provided by investing activities in the fiscal year
+ended September 30, 1999. Cash provided by investing activities in the fiscal
+year ended September 30, 2000 included proceeds from the sale of marketable
+
+                                       19
+<PAGE>
+securities of $4,433,874 offset by the purchase of marketable securities of
+$1,744,075. Cash provided by investing activities for the fiscal year ended
+September 30, 1999 included proceeds from maturing United States treasury notes
+of $7,500,000 and proceeds from the sale of marketable securities of $11,305,551
+offset by the purchase of marketable securities of $2,291,869. In
+November 2000, the Board of Directors authorized the purchase of up to 1,000,000
+shares of the Company's common stock on the open market at prevailing market
+prices.
+
+    Capital expenditures in the fiscal year ended September 30, 2000 were
+$36,333 compared to $280,891 in the fiscal year ended September 30, 1999. The
+decrease in expenditures reflects the Company's focus on controlling costs. The
+capital expenditures in both years related to laboratory, production and
+computer equipment. The Company has no current commitment for any significant
+expenditures on property, plant and equipment.
+
+    Management believes that funds for future needs can be generated from
+existing cash balances, cash generated from investing activities and cash
+generated from operations. In addition, the Company will consider from time to
+time various financing alternatives and may seek to raise additional capital
+through equity or debt financing or to enter into corporate partnering
+arrangements. Funding may not be available on terms acceptable to the Company,
+if at all.
+
+IMPACT OF RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+    In June 1998, the FASB issued Statement No. 133 ("SFAS 133"), "Accounting
+for Derivative Instruments and Hedging Activities" which is effective for fiscal
+years beginning after June 15, 2000. The statement establishes accounting and
+reporting standards requiring that every derivative instrument be recorded in
+the balance sheet as either an asset or liability, measured at its fair value.
+SFAS No. 133 also requires that changes in the derivative's fair value be
+recognized currently in earnings unless specific hedge accounting criteria are
+met. Adoption of this standard will increase or decrease the recorded value of
+options the Company may, in the future, acquire, and result in gains or losses
+being included in net income.
+
+CERTAIN FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+    THIS ANNUAL REPORT ON FORM 10-K CONTAINS FORWARD-LOOKING STATEMENTS WHICH
+INVOLVE RISKS AND UNCERTAINTIES. ACTUAL RESULTS COULD DIFFER MATERIALLY FROM
+THOSE ANTICIPATED OR PROJECTED IN ANY FORWARD-LOOKING STATEMENTS, AS A RESULT OF
+CERTAIN FACTORS, INCLUDING WITHOUT LIMITATION, THOSE SET FORTH IN THE FOLLOWING
+SECTION AND ELSEWHERE IN THIS ANNUAL REPORT ON FORM 10-K. IN ADDITION TO THE
+OTHER INFORMATION IN THIS ANNUAL REPORT ON FORM 10-K, THE FOLLOWING STATEMENTS
+SHOULD BE CAREFULLY CONSIDERED IN EVALUATING ADVANCED MAGNETICS AND ITS
+BUSINESS.
+
+    NO ASSURANCE OF REGULATORY APPROVAL.  Prior to marketing, every product
+candidate must undergo an extensive regulatory approval process in the United
+States and in every other country in which the Company intends to test and
+market its product candidates and products. This regulatory process includes
+testing and clinical trials of product candidates to demonstrate safety and
+efficacy and can require many years and the expenditure of substantial
+resources. Data obtained from preclinical testing and clinical trials are
+subject to varying interpretations, which can delay, limit or prevent FDA or
+foreign regulatory approval. In addition, changes in FDA or foreign regulatory
+approval policies or requirements may occur or new regulations may be
+promulgated which may result in delay or failure to receive FDA or foreign
+regulatory approval. Delays and related costs in obtaining regulatory approvals
+could delay product commercialization and revenue and consume the Company's
+resources, both financial and managerial. Regulatory approvals may not be
+obtained for COMBIDEX and Code 7228 or any other products developed by the
+Company. Although the Company has received an approvable letter from the FDA for
+COMBIDEX for lymph node indications, final approval remains subject to the
+satisfaction of certain conditions imposed by the FDA and labeling must be
+resolved. Failure to obtain
+
+                                       20
+<PAGE>
+requisite governmental approvals or failure to obtain approvals of the scope
+requested could delay and may preclude the Company or its licensees or other
+collaborators from marketing the Company's products or limit the commercial use
+of the products.
+
+    Regulatory approvals may entail limitations on the indicated uses of the
+Company's products and impose labeling requirements which may adversely impact
+the Company's ability to market its products. Even if regulatory approval is
+obtained, a marketed product and its manufacturer are subject to continuing
+regulatory review. Noncompliance with the regulatory requirements of the
+approval process at any stage may result in various adverse consequences,
+including the FDA's delay in approving or its refusal to approve a product,
+withdrawal of an approved product from the market or, under certain
+circumstances, the imposition of criminal penalties. Any such adverse
+consequences could seriously harm the Company's business, financial condition
+and results of operations.
+
+    LACK OF MARKETING AND SALES HISTORY.  Advanced Magnetics has limited
+experience in marketing and selling its products and product candidates and
+relies on its corporate partners to market and sell FERIDEX I.V. and GASTROMARK
+and has agreed to do so for COMBIDEX and Code 7228 for oncology applications,
+pending FDA approval. In order to achieve commercial success for any product
+candidate approved by the FDA for which the Company does not have a marketing
+partner, the Company may have to develop a marketing and sales force or enter
+into arrangements with others to market and sell its products. Advanced
+Magnetics may not be successful in attracting and retaining qualified marketing
+and sales personnel and may not be able to enter into marketing and sales
+agreements with others on acceptable terms, if at all. Furthermore, Advanced
+Magnetics or its corporate partners may not be successful in marketing and
+selling the Company's products.
+
+    UNCERTAINTY OF PRODUCT ADOPTION AND DEVELOPMENT.  The Company has not
+generated significant revenues on royalties from the sale of its products by its
+marketing partners. Although on the market since 1996 and 1997 respectively,
+FERIDEX I.V. and GASTROMARK still represent a new technology platform for
+physicians to adopt. If the Company's approved products are not adopted by
+physicians, revenues will be delayed or fail to materialize. While the Company
+has filed an NDA for COMBIDEX and received an "approvable" letter in June 2000
+for its principal indication, the diagnosis of lymph node disease, significant
+additional development efforts, including human clinical testing, may be
+required prior to approval for commercial sale. Code 7228 and any other product
+candidates will require significant additional research and development efforts
+before commercialization. The development of new pharmaceutical products is
+highly uncertain and the Company's development programs may not be completed
+successfully, and products, including COMBIDEX, FERIDEX I.V., or GASTROMARK, may
+not be widely adopted or commercially successful.
+
+    DEPENDENCE ON COLLABORATIVE RELATIONSHIPS.  The Company's strategy for the
+development, commercialization and marketing of its product candidates has been
+to enter into strategic alliances with various corporate partners, licensees,
+and other collaborators. The Company relies on its marketing and distribution
+partners to market and sell its approved products, FERIDEX I.V. and GASTROMARK,
+both in the U.S. and in foreign countries. In some cases, the Company has
+granted exclusive rights to these partners. If these partners are not successful
+in marketing the Company's products, the Company's ability to generate revenue
+would be harmed. In addition, the Company might incur additional costs in an
+attempt to enforce its contractual rights, renegotiate agreements, find new
+partners or market its own products. In some cases, the Company is dependent
+upon some of its collaborators to conduct preclinical and clinical testing, to
+obtain FDA and foreign regulatory approvals and to manufacture and market
+products. The Company may not derive any revenues or profits from these
+arrangements and the Company may not be able to enter into future collaborative
+relationships even if it desires to do so. If any of the Company's collaborators
+breaches its agreement with the Company or otherwise fails to perform, such
+event could impair the Company's revenue and impose additional costs.
+
+                                       21
+<PAGE>
+    UNCERTAINTIES RELATING TO CLINICAL TRIALS.  Before obtaining regulatory
+approvals for the commercial sale of any of its product candidates, the Company
+must demonstrate through extensive preclinical testing and human clinical trials
+that the product is safe and efficacious. The results from preclinical testing
+and early clinical trials of products under development by the Company may not
+be predictive of results obtained in subsequent clinical trials. Clinical trials
+are often conducted with patients in the most advanced stages of disease. During
+the course of treatment, these patients can die or suffer adverse medical
+effects for reasons that may not be related to the product being tested, but
+which can nevertheless adversely affect clinical trial results or approvals by
+the FDA. Clinical testing of pharmaceutical products is itself subject to
+approvals by various governmental regulatory authorities. Advanced Magnetics may
+not be permitted by regulatory authorities to commence or continue clinical
+trials. Any delays in or termination of the Company's clinical trial efforts
+could negatively effect the Company's future prospects and stock price.
+
+    UNCERTAINTY OF THIRD-PARTY REIMBURSEMENT.  In both the United States and
+foreign markets, the Company's ability to commercialize its products may depend
+in part on the extent to which reimbursement for the costs of such products and
+related treatments will be available from government health administration
+authorities, private health insurers and other third-party payors. In the United
+States, there has been, and the Company expects that there will continue to be,
+a number of federal and state proposals to reform the health care system.
+Significant uncertainty exists as to the reimbursement status of both
+newly-approved health care products and products used for indications not
+approved by the FDA. If adequate reimbursement levels are not instituted by
+government and other third-party payors for the Company's products and related
+treatments, the adoption and sale of the Company's products may be limited and
+its ability to generate revenue may be materially adversely affected.
+
+    NEED FOR FUTURE FUNDING; UNCERTAINTY OF ACCESS TO CAPITAL.  The Company has
+expended and will continue to expend substantial funds to complete the research,
+development, clinical trials, regulatory approvals and other activities through
+final commercialization of its products. It is possible that the Company may
+need additional financing to satisfy its capital and operating requirements
+relating to the development, manufacturing and marketing of its products. The
+Company may seek such financing through arrangements with collaborative partners
+and through public or private sales of the Company's securities, including
+equity securities. The Company may not be able to obtain financing on acceptable
+terms, if at all. Any additional equity financings could be dilutive to the
+Company's stockholders. If adequate additional funds are not available, the
+Company may be required to curtail significantly one or more of its research and
+development programs or obtain funds through arrangements with collaborative
+partners or others that may require the Company to relinquish rights to certain
+of its products and product candidates on terms that it might otherwise find
+unacceptable.
+
+    COMPETITION AND RISK OF TECHNOLOGICAL OBSOLESCENCE.  The pharmaceutical and
+biopharmaceutical industries are subject to intense competition and rapid
+technological change. The Company has many competitors, many of which have
+substantially greater capital and other resources than the Company and represent
+significant competition for Advanced Magnetics. These companies may succeed in
+developing technologies and products that are more effective or less costly than
+any that may be developed by the Company, and may be more successful than the
+Company in developing, manufacturing and marketing products. Developments by
+others may render the Company's products or product candidates or technologies
+obsolete or noncompetitive. The Company's collaborators or customers may choose
+to use competing technologies or products.
+
+    UNCERTAINTY REGARDING PATENTS AND PROPRIETARY RIGHTS.  The patent positions
+of pharmaceutical and biopharmaceutical firms, including Advanced Magnetics, are
+generally uncertain and involve complex legal and factual questions. Because of
+the substantial length of time and expense associated with bringing new products
+through development and regulatory approval to the marketplace, the
+
+                                       22
+<PAGE>
+pharmaceutical and biopharmaceutical industries place considerable importance on
+obtaining patent and trade secret protection for new technologies, products and
+processes. The Company may not be successful or timely in obtaining any patents
+for which it submits applications. The breadth of the claims obtained may not
+provide any significant protection of the Company's technology. The degree of
+protection afforded by patents for licensed technologies or for future
+discoveries may not be adequate to protect the Company's proprietary technology.
+Moreover, patents issued to Advanced Magnetics may be contested, invalidated or
+circumvented. Future patent interference proceedings involving patents of either
+the Company or its licensors may have a material adverse effect on the Company's
+business. Claims of infringement or violation of the proprietary rights of
+others may be asserted against the Company. If Advanced Magnetics is required to
+defend against such claims or to protect its own proprietary rights against
+others, the Company may incur substantial costs.
+
+    In the future, Advanced Magnetics may be required to obtain additional
+licenses to patents or other proprietary rights of others. Such licenses may not
+be available on acceptable terms, if at all. The failure to obtain such licenses
+could result in delays in marketing the Company's products or the inability to
+proceed with the development, manufacturing or sale of its products and product
+candidates requiring such licenses. In addition, the termination of any of the
+Company's existing licensing arrangements could impair the Company's revenues
+and impose additional costs.
+
+    The Company also relies upon unpatented trade secrets and improvements,
+unpatented know-how and continuing technological innovation to develop and
+maintain its competitive position, which it seeks to protect, in part, by
+confidentiality agreements with its corporate partners, collaborators, employees
+and consultants. These agreements, however, may be breached. The Company may not
+have adequate remedies for any such breach, and the Company's trade secrets
+might otherwise become known or be independently discovered by its competitors.
+In addition, the Company cannot be certain that others will not independently
+develop substantially equivalent or superseding proprietary technology, or that
+an equivalent product will not be marketed in competition with the Company's
+products, thereby substantially reducing the value of the Company's proprietary
+rights.
+
+    UNCERTAINTIES IN MANUFACTURING.  The Company manufactures bulk FERIDEX I.V.
+and GASTROMARK as well as FERIDEX I.V. finished product for sale by its
+marketing partners and intends to, pending FDA approval, manufacture COMBIDEX
+finished product in its Massachusetts facilities. These facilities are subject
+to current Good Manufacturing Practices ("cGMP") regulations prescribed by the
+FDA. The Company may not be able to continue to operate at commercial scale in
+compliance with the cGMP regulations. Failure to operate in compliance with cGMP
+regulations and other applicable manufacturing requirements of various
+regulatory agencies could have a material adverse effect on the Company's
+business, financial condition and results of operations. In addition, the
+Company is dependent on contract manufacturers for the final production of
+COMBIDEX. In the event that the Company is unable to obtain or retain
+manufacturing for this product, it will not be able to develop and commercialize
+it as planned. The Company may not be able to enter into agreements for the
+manufacture of future products with manufacturers whose facilities and
+procedures comply with cGMP and other regulatory requirements or that such
+manufacturers will be able to deliver required quantities of product that
+conform to specifications in a timely manner.
+
+    POTENTIAL PRODUCT LIABILITY; UNCERTAINTIES RELATED TO INSURANCE.  The
+Company maintains product liability insurance coverage for claims arising from
+the use of its products in clinical trials and commercial use. However, coverage
+is becoming increasingly expensive and the Company may not be able to maintain
+insurance at a reasonable cost. Furthermore, the Company's insurance may not
+provide sufficient coverage amounts to protect the Company against liability
+that could have a material adverse effect on the Company's business, financial
+condition and results of operations. Insurance coverage may not be sufficient to
+satisfy any liability or cover costs resulting from product liability claims, so
+that a product liability claim could reduce or eliminate the Company's
+resources, whether or not the plaintiff in such claim ultimately prevailed.
+
+                                       23
+<PAGE>
+    ATTRACTION AND RETENTION OF KEY EMPLOYEES.  Because of the specialized
+nature of its business, Advanced Magnetics is highly dependent on its ability to
+attract and retain qualified scientific and technical personnel for the research
+and development activities conducted or sponsored by the Company. Furthermore,
+the Company's possible expansion into areas and activities requiring additional
+expertise, such as product distribution and marketing and sales, may require the
+addition of new management personnel and the development of additional expertise
+by existing management personnel. There is intense competition for qualified
+personnel in the areas of the Company's activities, and the Company may not be
+able to continue to attract and retain the qualified personnel necessary for the
+development of its business. The failure to attract and retain such personnel or
+to develop such expertise could impose limits on the Company's business
+operations.
+
+    VOLATILITY OF COMMON STOCK PRICE.  The market prices for securities of
+biopharmaceutical and pharmaceutical companies, including the Company, have
+historically been highly volatile. Fluctuations in operating results may cause
+the market price of the Company's Common Stock to be volatile. In addition, the
+market prices for securities of biopharmaceutical and pharmaceutical companies
+have from time to time experienced significant price and volume fluctuations
+that are unrelated to the operating performance of such companies. Various
+factors and events, including announcements by the Company or its competitors
+concerning technological innovations, new products, clinical trial results,
+agreements with collaborators, governmental regulations, developments in patent
+or other proprietary rights, public concern regarding the safety of products
+developed by the Company or others, may have a significant impact on the market
+price of the Company's Common Stock and dividend policy.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+    The Company owns financial instruments that are sensitive to market risks as
+part of its investment portfolio. The investment portfolio is used to preserve
+the Company's capital until it is required to fund operations, including the
+Company's research and development activities and includes shares of Cytogen
+common stock received as a license fee. None of these market-risk sensitive
+instruments are held for trading purposes. The investment portfolio contains
+instruments that are subject to a decline in equity markets.
+
+    Equity Market Risk--The Company's investment portfolio includes
+publicly-traded stocks of domestic issuers. Assuming a decline of 10% in the
+market for domestic stocks generally, the Company's equity investments may be
+expected to decline a corresponding 10%, resulting in a hypothetical reduction
+of the value of the net assets of the Company (as of September 30, 2000) of
+approximately 4% as compared to a hypothetical reduction of the value of the net
+assets of the Company (as of September 30, 1999) of less than 2%. This change is
+due to the increase of the Company's holdings of marketable securities primarily
+as a result of the acceptance by the Company of 1,500,000 shares of Cytogen
+common stock as an up-front licensing fee as part of a license and marketing
+agreement. The Company retained approximately 1,200,000 of those shares at
+September 30, 2000. The use of a 10% estimate in the decline of equity
+securities is strictly for estimation and evaluation purposes only. The value of
+the Company's assets may rise or fall by a greater amount depending on actual
+general market performances and the value of individual securities owned by the
+Company.
+
+                                       24
+<PAGE>
+ITEM 8. FINANCIAL STATEMENTS:
+
+    The Company's Financial Statements and related Report of Independent
+Accountants are presented in the following pages. The financial statements
+included in this Item 8 are as follows:
+
+    Report of Independent Accountants
+
+    Financial Statements:
+
+      Balance Sheets--September 30, 2000 and 1999
+
+      Statements of Operations--for the years ended September 30, 2000, 1999 and
+      1998
+
+      Statements of Comprehensive Income--for the years ended September 30,
+      2000, 1999 and 1998
+
+      Statements of Stockholders' Equity--for the years ended September 30,
+      2000, 1999 and 1998
+
+      Statements of Cash Flows--for the years ended September 30, 2000, 1999 and
+      1998
+
+      Reconciliation of Net Income (Loss) to Net Cash Used in Operating
+      Activities--for the years ended September 30, 2000, 1999 and 1998
+
+      Notes to Financial Statements
+
+                                       25
+<PAGE>
+INDEX TO FINANCIAL STATEMENTS
+
+<TABLE>
+<S>                                                           <C>
+Report of Independent Accountants...........................     27
+
+Balance Sheets--September 30, 2000 and 1999.................     28
+
+Statements of Operations--for the years ended September 30,
+  2000, 1999 and 1998.......................................     29
+
+Statements of Comprehensive Income--for the years ended
+  September 30, 2000, 1999 and 1998.........................     30
+
+Statements of Stockholders' Equity--for the years ended
+  September 30, 2000, 1999 and 1998.........................     31
+
+Statements of Cash Flow--for the years ended September 30,
+  2000, 1999 and 1998.......................................     32
+
+Reconciliation of Net Income (Loss) to Net Cash Used in
+  Operating Activities--for the years ended September 30,
+  2000, 1999 and 1998.......................................     33
+
+Notes to Financial Statements...............................     34
+</TABLE>
+
+                                       26
+<PAGE>
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Board of Directors and Stockholders of Advanced Magnetics, Inc.:
+
+    In our opinion, the accompanying balance sheets and the related statements
+of operations, comprehensive income, stockholders' equity and cash flows present
+fairly, in all material respects, the financial position of Advanced
+Magnetics, Inc. at September 30, 2000 and September 30, 1999, and the results of
+its operations and its cash flows for each of the three years in the period
+ended September 30, 2000 in conformity with accounting principles generally
+accepted in the United States of America. These financial statements are the
+responsibility of the Company's management; our responsibility is to express an
+opinion on these financial statements based on our audits. We conducted our
+audits of these statements in accordance with auditing standards generally
+accepted in the United States of America, which require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion.
+
+    As discussed in Note B to the financial statements, in fiscal 2000 the
+Company changed its method of accounting for revenue from license agreements.
+
+PricewaterhouseCoopers LLP
+Boston, Massachusetts
+November 8, 2000
+
+                                       27
+<PAGE>
+                            ADVANCED MAGNETICS, INC.
+
+                                 BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                     SEPTEMBER 30,
+                                                              ---------------------------
+                                                                  2000           1999
+ASSETS                                                        ------------   ------------
+<S>                                                           <C>            <C>
+Current assets:
+Cash and cash equivalents...................................  $ 16,120,738   $ 17,052,636
+Marketable securities.......................................    14,051,850      4,804,785
+Accounts receivable.........................................       639,740        648,201
+Inventories.................................................        91,456         80,480
+Prepaid expenses............................................       187,481        195,655
+                                                              ------------   ------------
+    Total current assets....................................    31,091,265     22,781,757
+Property, plant and equipment:
+Land........................................................       360,000        360,000
+Buildings...................................................     4,618,296      4,610,827
+Laboratory equipment........................................     8,013,973      8,007,095
+Furniture and fixtures......................................       782,525        760,538
+                                                              ------------   ------------
+                                                                13,774,794     13,738,460
+Less--accumulated depreciation and amortization.............    (9,620,094)    (9,065,660)
+                                                              ------------   ------------
+Net property, plant and equipment...........................     4,154,700      4,672,800
+Other assets................................................       421,626        361,802
+                                                              ------------   ------------
+    Total assets............................................  $ 35,667,591   $ 27,816,359
+                                                              ============   ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+Accounts payable............................................  $    611,891   $    118,465
+Accrued expenses............................................       786,832        581,534
+Income taxes payable........................................        61,651         61,651
+Deferred revenues...........................................     3,923,986             --
+                                                              ------------   ------------
+    Total current liabilities...............................     5,384,360        761,650
+Deferred revenues...........................................    15,977,599             --
+                                                              ------------   ------------
+    Total liabilities.......................................    21,361,959        761,650
+
+Commitments and contingencies
+Stockholders' equity:
+Preferred stock, par value $.01 per share, authorized
+  2,000,000 shares; none issued.............................            --             --
+Common stock, par value $.01 per share, authorized
+  15,000,000 shares; issued and outstanding 6,773,932 shares
+  as of September 30, 2000 and 6,752,027 shares as of
+  September 30, 1999........................................        67,739         67,521
+Additional paid-in capital..................................    44,267,120     44,205,370
+Retained earnings (deficit).................................   (28,110,546)   (16,847,061)
+Accumulated other comprehensive income......................    (1,918,681)      (371,121)
+                                                              ------------   ------------
+  Total stockholders' equity................................    14,305,632     27,054,709
+                                                              ------------   ------------
+    Total liabilities and stockholders' equity..............  $ 35,667,591   $ 27,816,359
+                                                              ============   ============
+</TABLE>
+
+    The accompanying notes are an integral part of the financial statements.
+
+                                       28
+<PAGE>
+                            ADVANCED MAGNETICS, INC.
+
+                            STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                           FOR THE YEARS ENDED SEPTEMBER 30,
+                                                        ----------------------------------------
+                                                            2000          1999          1998
+                                                        ------------   -----------   -----------
+<S>                                                     <C>            <C>           <C>
+Revenues:
+License fees..........................................  $  1,124,049   $        --   $        --
+Royalties.............................................       825,000       680,000       980,542
+Product sales.........................................     1,253,537     1,966,059     1,399,871
+Contract research and development.....................       106,003       581,429       399,897
+Interest, dividends and net gains and losses on sales
+  of securities.......................................       765,330     4,202,568     3,623,836
+                                                        ------------   -----------   -----------
+    Total revenues....................................     4,073,919     7,430,056     6,404,146
+
+Costs and expenses:
+Cost of product sales.................................       239,228       454,642       237,945
+Contract research and development expenses............         3,195        37,056         6,514
+Company-sponsored research and development expenses...     4,623,468     7,952,331     8,961,796
+Selling, general and administrative expenses..........     3,013,796     3,694,038     3,701,410
+                                                        ------------   -----------   -----------
+    Total costs and expenses..........................     7,879,687    12,138,067    12,907,665
+
+Other income:
+  Other income........................................            --       265,593            --
+
+Minority interest in subsidiary.......................            --            --      (194,178)
+                                                        ------------   -----------   -----------
+
+Loss before cumulative effect of accounting change....    (3,805,768)   (4,442,418)   (6,309,341)
+
+Cumulative effect of accounting change (Note B).......    (7,457,717)           --            --
+                                                        ------------   -----------   -----------
+
+Net income (loss).....................................  $(11,263,485)  $(4,442,418)  $(6,309,341)
+                                                        ============   ===========   ===========
+
+Basic and diluted loss before cumulative effect of
+  accounting change per share.........................  $      (0.56)  $     (0.66)  $     (0.93)
+Cumulative effect of accounting change per share......         (1.11)           --            --
+                                                        ------------   -----------   -----------
+Basic and diluted net loss per share..................  $      (1.67)  $     (0.66)  $     (0.93)
+                                                        ============   ===========   ===========
+
+Weighted average shares outstanding:
+  Basic...............................................     6,758,825     6,766,934     6,752,863
+                                                        ------------   -----------   -----------
+  Diluted.............................................     6,758,825     6,766,934     6,752,863
+                                                        ------------   -----------   -----------
+
+Pro forma amounts assuming accounting change is
+  applied retroactively:
+Net loss..............................................  $ (3,805,768)  $(4,039,639)  $(5,861,228)
+Basic and diluted net loss per share..................         (0.56)        (0.60)        (0.87)
+</TABLE>
+
+    The accompanying notes are an integral part of the financial statements.
+
+                                       29
+<PAGE>
+                            ADVANCED MAGNETICS, INC.
+
+                       STATEMENTS OF COMPREHENSIVE INCOME
+
+<TABLE>
+<CAPTION>
+                                                           FOR THE YEARS ENDED SEPTEMBER 30,
+                                                       -----------------------------------------
+                                                           2000          1999           1998
+                                                       ------------   -----------   ------------
+<S>                                                    <C>            <C>           <C>
+Net loss.............................................  $(11,263,485)  $(4,442,418)  $ (6,309,341)
+
+Other comprehensive income:
+
+  Unrealized gains (losses) on securities............    (1,610,010)    2,206,167     (1,753,901)
+
+  Reclassification adjustment for (gains) losses
+    included in net income...........................        62,450    (3,555,957)    (2,473,826)
+                                                       ------------   -----------   ------------
+
+Other comprehensive loss.............................    (1,547,560)   (1,349,790)    (4,227,727)
+                                                       ------------   -----------   ------------
+Comprehensive loss...................................  $(12,811,045)  $(5,792,208)  $(10,537,068)
+                                                       ============   ===========   ============
+</TABLE>
+
+    The accompanying notes are an integral part of the financial statements.
+
+                                       30
+<PAGE>
+                            ADVANCED MAGNETICS, INC.
+
+                       STATEMENTS OF STOCKHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+                                                    FOR THE YEARS ENDED SEPTEMBER 30, 1998, 1999 AND 2000
+                                      ---------------------------------------------------------------------------------
+                                                                                           ACCUMULATED
+                                          COMMON STOCK       ADDITIONAL      RETAINED         OTHER           TOTAL
+                                      --------------------     PAID-IN       EARNINGS     COMPREHENSIVE   STOCKHOLDERS'
+                                       SHARES      AMOUNT      CAPITAL      (DEFICIT)        INCOME          EQUITY
+                                      ---------   --------   -----------   ------------   -------------   -------------
+<S>                                   <C>         <C>        <C>           <C>            <C>             <C>
+Balance at September 30, 1997.......  6,740,626   $67,406    $44,244,558   $ (6,095,302)   $ 5,206,396     $43,423,058
+                                      =========   =======    ===========   ============    ===========     ===========
+Shares issued in connection with the
+  exercise of stock options.........     39,846       399        163,456             --             --         163,855
+Shares surrendered in connection
+  with the exercise of stock
+  options...........................     (2,190)      (22)       (28,722)            --             --         (28,744)
+Shares issued in connection with
+  employee stock purchase plan......      5,876        59         54,587             --             --          54,646
+Common shares repurchased...........    (16,800)     (168)      (156,181)            --             --        (156,349)
+Other comprehensive income (loss)...         --        --             --             --     (4,227,727)     (4,227,727)
+Net loss............................         --        --             --     (6,309,341)            --      (6,309,341)
+                                      ---------   -------    -----------   ------------    -----------     -----------
+Balance at September 30, 1998.......  6,767,358   $67,674    $44,277,698   $(12,404,643)   $   978,669     $32,919,398
+                                      =========   =======    ===========   ============    ===========     ===========
+
+Shares issued in connection with the
+  exercise of stock options.........      1,329        13         10,397             --             --          10,410
+Shares surrendered in connection
+  with the exercise of stock
+  options...........................     (1,027)      (10)       (10,388)            --             --         (10,398)
+Shares issued in connection with
+  employee stock purchase plan......      2,267        23          7,435             --             --           7,458
+Common shares repurchased...........    (17,900)     (179)       (79,772)            --             --         (79,951)
+Other comprehensive income (loss)...         --        --             --             --     (1,349,790)     (1,349,790)
+Net loss............................         --        --             --     (4,442,418)            --      (4,442,418)
+                                      ---------   -------    -----------   ------------    -----------     -----------
+Balance at September 30, 1999.......  6,752,027   $67,521    $44,205,370   $(16,847,061)   $  (371,121)    $27,054,709
+                                      =========   =======    ===========   ============    ===========     ===========
+
+Shares issued in connection with the
+  exercise of stock options.........      5,250        52         20,956             --             --          21,008
+Shares surrendered in connection
+  with the exercise of stock
+  options...........................     (2,488)      (25)       (17,967)            --             --         (17,992)
+Shares issued in connection with
+  employee stock purchase plan......     19,143       191         58,761             --             --          58,952
+Other comprehensive income (loss)...         --        --             --             --     (1,547,560)     (1,547,560)
+Net loss............................         --        --             --    (11,263,485)            --     (11,263,485)
+                                      ---------   -------    -----------   ------------    -----------     -----------
+Balance at September 30, 2000.......  6,773,932   $67,739    $44,267,120   $(28,110,546)   $(1,918,681)    $14,305,632
+                                      =========   =======    ===========   ============    ===========     ===========
+</TABLE>
+
+    The accompanying notes are an integral part of the financial statements.
+
+                                       31
+<PAGE>
+                            ADVANCED MAGNETICS, INC.
+
+                            STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                            FOR THE YEARS ENDED SEPTEMBER 30,
+                                                         ---------------------------------------
+                                                            2000          1999          1998
+                                                         -----------   -----------   -----------
+<S>                                                      <C>           <C>           <C>
+Cash flows from operating activities:
+Cash received from customers...........................  $ 1,615,566   $ 2,834,912   $ 1,637,449
+Cash paid to suppliers and employees...................   (6,624,397)  (11,369,713)  (12,686,577)
+Dividends and interest received........................      827,782       670,440     1,139,685
+Royalties received.....................................      593,541       699,269       925,817
+Net proceeds from insurance settlement.................           --       371,561            --
+Income taxes paid......................................           --            --        (2,500)
+Income tax refund......................................           --        60,000         4,422
+                                                         -----------   -----------   -----------
+Net cash used in operating activities..................   (3,587,508)   (6,733,531)   (8,981,704)
+
+Cash flows from investing activities:
+Proceeds from sales of marketable securities...........    4,433,874    11,305,551     8,993,685
+Proceeds from notes and bonds maturing.................           --     7,500,000     5,000,000
+Purchase of marketable securities......................   (1,744,075)   (2,291,869)   (7,426,189)
+Capital expenditures...................................      (36,333)     (280,891)     (584,360)
+(Increase) decrease in other assets....................      (59,824)      (57,565)      (55,335)
+Cash sold in sale of Kalisto...........................           --       (20,823)           --
+                                                         -----------   -----------   -----------
+Net cash provided by investing activities..............    2,593,642    16,154,403     5,927,801
+
+Cash flows from financing activities:
+Proceeds from issuances of common stock, net...........       61,968         7,470       189,757
+Purchase of treasury stock.............................           --       (79,951)     (156,349)
+                                                         -----------   -----------   -----------
+Net cash (used in) provided by financing activities....       61,968       (72,481)       33,408
+                                                         -----------   -----------   -----------
+Net (decrease) increase in cash and cash equivalents...     (931,898)    9,348,391    (3,020,495)
+Cash and cash equivalents at beginning of year.........   17,052,636     7,704,245    10,724,740
+                                                         -----------   -----------   -----------
+Cash and cash equivalents at end of year...............  $16,120,738   $17,052,636   $ 7,704,245
+                                                         ===========   ===========   ===========
+
+Supplemental data:
+Non-cash operating activites:
+Marketable securities received in license and marketing
+  agreement............................................  $13,546,875   $        --   $        --
+</TABLE>
+
+    The accompanying notes are an integral part of the financial statements.
+
+                                       32
+<PAGE>
+                            ADVANCED MAGNETICS, INC.
+
+                           RECONCILIATION OF NET LOSS
+
+                    TO NET CASH USED IN OPERATING ACTIVITIES
+
+<TABLE>
+<CAPTION>
+                                                           FOR THE YEARS ENDED SEPTEMBER 30,
+                                                        ----------------------------------------
+                                                            2000          1999          1998
+                                                        ------------   -----------   -----------
+<S>                                                     <C>            <C>           <C>
+Net loss..............................................  $(11,263,485)  $(4,442,418)  $(6,309,341)
+                                                        ------------   -----------   -----------
+
+Adjustments to reconcile net loss to net cash used in
+  operating activities:
+Non-cash reduction in value of investment in
+  subsidiary..........................................            --       155,967            --
+Non-cash reduction in value of minority interest in
+  subsidiary..........................................            --            --       194,178
+Minority interest in subsidiary.......................            --            --      (194,178)
+Non-cash license fee revenue..........................    (1,116,056)           --            --
+Cumulative effect of accounting change................     7,457,717            --            --
+Depreciation..........................................       554,434       817,299       999,622
+Accretion of U. S. Treasury Notes discount............            --       (15,358)      (52,574)
+(Increase) decrease in accounts receivable............         8,462       339,116      (448,203)
+(Increase) decrease in inventories....................       (10,976)      368,150      (335,452)
+(Increase) decrease in prepaid expenses...............         8,174        33,330        (4,117)
+Increase (decrease) in accounts payable and accrued
+  expenses............................................       698,724      (443,260)     (359,736)
+Increase (decrease) in deferred revenues..............        13,048            --            --
+Increase (decrease) in income taxes payable...........            --         9,600         1,923
+Net realized (gains) losses on sales of marketable
+  securities..........................................        62,450    (3,555,957)   (2,473,826)
+                                                        ------------   -----------   -----------
+Total adjustments.....................................     7,675,977    (2,291,113)   (2,672,363)
+                                                        ------------   -----------   -----------
+Net cash used in operating activities.................  $ (3,587,508)  $(6,733,531)  $(8,981,704)
+                                                        ============   ===========   ===========
+</TABLE>
+
+    The accompanying notes are an integral part of the financial statements.
+
+                                       33
+<PAGE>
+                         NOTES TO FINANCIAL STATEMENTS
+
+A. SUMMARY OF ACCOUNTING POLICIES:
+
+BUSINESS
+
+    Founded in November 1981, Advanced Magnetics, Inc., a Delaware Corporation
+(the "Company") is a biopharmaceutical company engaged in the development and
+manufacture of compounds utilizing the Company's core proprietary colloidal
+superparamagnetic particle technology and core polysaccharide technology for
+magnetic resonance imaging ("MRI"). The initial products developed by the
+Company are diagnostic imaging agents for use in conjunction with MRI to aid in
+the diagnosis of cancer and other diseases.
+
+    The Company is subject to risks common to companies in the industry
+including, but not limited to, development by the Company or its competitors of
+new technological innovations, uncertainty of product development and
+commercialization, lack of marketing and sales history, dependence on key
+personnel, market acceptance of products, product liability, protection of
+proprietary technology, and compliance with FDA government regulations.
+
+CONSOLIDATION POLICY
+
+    The Company consolidated its majority-owned subsidiary until the date of
+divesture in July 1999. All intercompany transactions until that time have been
+eliminated.
+
+USE OF ESTIMATES
+
+    The preparation of financial statements in conformity with generally
+accepted accounting principles in the United States of America requires
+management to make certain estimates and assumptions that effect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenue and expenses during the reported period. Actual results could differ
+from those estimates.
+
+CASH AND CASH EQUIVALENTS
+
+    Cash and cash equivalents consist of cash on hand, money market funds and
+marketable securities having a maturity of less than three months at the date
+acquired. Substantially all of the cash and cash equivalents at September 30,
+2000 and 1999 were held in a money market account.
+
+MARKETABLE SECURITIES
+
+    The Company's current portfolio consists of securities classified as
+available-for-sale which are recorded at fair market value. The fair values of
+marketable securities are based on quoted market prices. Net unrealized gains
+and losses on marketable securities are recorded as a separate component of
+stockholders' equity entitled accumulated other comprehensive income. Interest
+income is accrued as earned. Dividend income is accrued on the ex-dividend date,
+and net realized gains and losses are computed on the basis of average cost and
+are recognized when realized.
+
+INVENTORIES
+
+    Inventories are stated at the lower of cost (determined on a first-in,
+first-out basis) or market.
+
+PROPERTY, PLANT AND EQUIPMENT
+
+    Property, plant and equipment are stated at cost. The cost of additions and
+improvements is charged to the property accounts while maintenance and repairs
+are expensed as incurred. Upon sale
+
+                                       34
+<PAGE>
+or other disposition of property and equipment, the cost and related
+depreciation are removed from the accounts and any resulting gain or loss is
+reflected in income.
+
+DEPRECIATION
+
+    Depreciation is recorded by the straight line method based on rates
+sufficient to provide for retirement over estimated useful lives as follows:
+buildings--40 years; laboratory equipment and furniture and fixtures--5 years;
+and leasehold improvements--over the life of the lease.
+
+REVENUE RECOGNITION
+
+    Product revenue is recognized upon shipment to the customer and satisfaction
+of all obligations. Royalty revenue is recognized as the related product sales
+are recognized. The Company enters into product development agreements with
+collaborative partners. The terms of the agreements may include non-refundable
+license fees, payments based on the achievement of certain milestones and
+royalties on any product sales derived from collaborations. Non-refundable
+license fees, with respect to product development agreements and collaborations,
+are recognized over the term of the agreement as earned or, in cases where
+project costs are estimable, recognized on a percentage of completion basis as
+related costs are incurred. Milestone payments, which are not refundable, are
+recognized as revenue on a retrospective basis. Accordingly, upon achievement of
+the milestone, a portion of the milestone payment equal to the percentage of
+collaboration completed through that date would be recognized. The remainder
+would be recognized as services are performed over the remaining term of the
+collaboration.
+
+INCOME TAXES
+
+    The provision (benefit) for income taxes includes federal and state income
+taxes currently payable and deferred income taxes arising from the recognition
+of certain income and expenses in different periods for financial and tax
+reporting purposes.
+
+INCOME (LOSS) PER SHARE
+
+    The weighted average common and common equivalent shares used in the
+computation of basic and diluted earnings per share is presented below.
+Aggregate options of 479,506 (weighted average exercise price of $8.97), 473,833
+options (weighted average exercise price of $9.47) and 408,649 options (weighted
+average exercise price of $11.30) for 2000, 1999 and 1998, respectively, have
+not been included in the calculation of weighted average shares since their
+effect would be anti-dilutive, given the net loss in these years.
+
+<TABLE>
+<CAPTION>
+                                                            FOR THE YEARS ENDED SEPTEMBER 30
+                                                        ----------------------------------------
+                                                            2000          1999          1998
+                                                        ------------   -----------   -----------
+<S>                                                     <C>            <C>           <C>
+Numerator:
+Net income (loss).....................................  $(11,263,485)  $(4,442,418)  $(6,309,341)
+                                                        ============   ===========   ===========
+
+Denominator:
+Weighted average number of common shares issued and
+  outstanding.........................................     6,758,825     6,766,934     6,752,863
+Assumed exercise of options reduced by the number of
+  shares which could have been purchased with the
+  proceeds of those options...........................            --            --            --
+                                                        ------------   -----------   -----------
+Weighted average common and common equivalent
+  shares..............................................     6,758,825     6,766,934     6,752,863
+Basic and diluted net income (loss) per share.........  $      (1.67)  $     (0.66)  $     (0.93)
+</TABLE>
+
+                                       35
+<PAGE>
+RECLASSIFICATIONS
+
+    Certain amounts from the prior year have been reclassified to conform to the
+current year's presentation.
+
+B. CUMULATIVE EFFECT OF ACCOUNTING CHANGE:
+
+    In fiscal 2000, the Company adopted SEC Staff Accounting Bulleting No. 101
+("SAB 101"). The effect of applying this change in accounting principle is a
+cumulative charge of $7,457,717, or $1.11 per share. This cumulative change in
+accounting principle reflects the reversal of license fees and milestone
+payments that had been recognized in prior years. Previously, the Company had
+recognized license fee revenue when the fees were non-refundable, a technology
+transfer occurred, no explicit commitment or obligation for scientific
+achievement existed, and the other portions of the agreement, principally supply
+and royalty, were priced at fair value. Under the new accounting method applied
+retroactively to October 1, 1999, these payments are recorded as deferred
+revenue to be recognized over the remaining term of the related agreement. For
+the year ended September 30, 2000, the Company recognized $727,582 in revenue
+that was included in the cumulative effect adjustment as of October 1, 1999.
+
+C. MARKETABLE SECURITIES:
+
+    The cost and fair value of the marketable securities portfolio at
+September 30 are as follows:
+
+<TABLE>
+<CAPTION>
+                                                 2000          2000          1999         1999
+                                                 COST       FAIR VALUE       COST      FAIR VALUE
+                                              -----------   -----------   ----------   ----------
+<S>                                           <C>           <C>           <C>          <C>
+Common stock................................  $15,970,531   $14,051,850   $5,175,906   $4,804,785
+                                              -----------   -----------   ----------   ----------
+                                              $15,970,531   $14,051,850   $5,175,906   $4,804,785
+                                              ===========   ===========   ==========   ==========
+</TABLE>
+
+    At September 30, 2000, gross unrealized holding losses were $1,918,681. At
+September 30, 1999, gross unrealized holding losses were $371,121. For the
+fiscal years ended September 30, 2000 and 1999, the net unrealized holding
+losses have been recorded as a separate component of stockholders' equity,
+entitled accumulated other comprehensive income.
+
+    During the year ended September 30, 2000, gross realized gains and gross
+realized losses on the sale of marketable securities were $101,325 and $163,775,
+respectively, resulting in a net realized loss of $62,450. During the year ended
+September 30, 1999, gross realized gains and gross realized losses on the sale
+of marketable securities were $4,796,165 and $1,240,208, respectively, resulting
+in a net realized gain of $3,555,957. During the year ended September 30, 1998,
+gross realized gains on the sale of marketable securities were $2,473,826.
+Proceeds from U.S. treasury notes maturing were $7,500,000, and $5,000,000 in
+1999 and 1998 respectively.
+
+    Interest, dividends and net gains (losses) on sales of securities consist of
+the following:
+
+<TABLE>
+<CAPTION>
+                                                             FOR THE YEARS ENDED SEPTEMBER 30,
+                                                             ----------------------------------
+                                                               2000        1999         1998
+                                                             --------   ----------   ----------
+<S>                                                          <C>        <C>          <C>
+Interest income............................................  $729,805   $  534,733   $  978,546
+Dividend income............................................    97,975      111,878      171,464
+Net gains (losses) on sales of securities..................   (62,450)   3,555,957    2,473,826
+                                                             --------   ----------   ----------
+Totals.....................................................  $765,330   $4,202,568   $3,623,836
+                                                             ========   ==========   ==========
+</TABLE>
+
+    In August 2000, in exchange for license and marketing rights, the Company
+received 1,500,000 shares of common stock of Cytogen Corporation of which
+1,200,000 shares were restricted from resale. The restrictions lapse in 300,000
+share increments on September 25, October 25, November 25 and December 25, 2000.
+As of September 30, 2000, the Company retained approximately 1,200,000 of these
+
+                                       36
+<PAGE>
+shares, of which 900,000 shares were restricted from resale until the specified
+dates. The cost basis of these marketable securities is the quoted market price
+on the date of receipt. As of September 30, 2000, the fair market value of the
+Cytogen shares held, including the restricted shares, was $7,572,000.
+
+D. INVENTORIES:
+
+    The Company's inventories consisted entirely of raw materials of $91,456 on
+September 30, 2000 and $80,480 on September 30, 1999.
+
+E. COMMITMENTS:
+
+    The Company leases laboratory, office and warehouse space under various
+agreements. Rental expense for the years ended September 30, 2000, 1999 and 1998
+amounted to $326,347, $411,245 and $572,729, respectively. Future minimum lease
+payments for fiscal 2001, 2002, 2003 and 2004 amount to $336,472, $301,823,
+$164,010 and $37,964, respectively.
+
+F. ACCRUED EXPENSES:
+
+    Accrued expenses consist of the following at September 30:
+
+<TABLE>
+<CAPTION>
+                                                                2000       1999
+                                                              --------   --------
+<S>                                                           <C>        <C>
+Salaries and other compensation.............................  $223,367   $208,149
+License and royalty fees....................................    33,952     20,000
+Clinical trials.............................................    85,000    116,649
+Professional fees...........................................   188,000    164,000
+Other.......................................................   256,513     72,736
+                                                              --------   --------
+Totals......................................................  $786,832   $581,534
+                                                              ========   ========
+</TABLE>
+
+G. INCOME TAXES:
+
+    Deferred tax assets and deferred tax liabilities are recognized based on
+temporary differences between the financial reporting and tax basis of assets
+and liabilities using statutory rates. A valuation allowance is recorded against
+deferred tax assets if it is more likely than not that some or all of the
+deferred tax assets will not be realized.
+
+    There was no income tax provision or benefit for the years ended
+September 30, 2000, 1999 and 1998.
+
+    The provisions for income taxes were at different rates than the U.S.
+statutory rates for the following reasons:
+
+<TABLE>
+<CAPTION>
+                                                             FOR THE YEARS ENDED SEPTEMBER 30,
+                                                         -----------------------------------------
+                                                           2000            1999            1998
+                                                         ---------       ---------       ---------
+<S>                                                      <C>             <C>             <C>
+Statutory U.S. federal income tax rate.................     34.0%           34.0%           34.0%
+State taxes, net of federal benefit....................      6.3%            6.3%            6.3%
+Permanent items........................................      0.2%           (0.3)%           0.0%
+Other..................................................     (1.7)%          (1.0)%           0.9%
+Valuation allowance....................................    (38.8)%         (39.0)%         (41.2)%
+                                                           -----           -----           -----
+                                                            (0.0)%          (0.0)%          (0.0)%
+                                                           -----           -----           -----
+</TABLE>
+
+                                       37
+<PAGE>
+    The components of the deferred tax assets and liabilities at September 30,
+were as follows:
+
+<TABLE>
+<CAPTION>
+                                                            2000          1999          1998
+                                                         -----------   -----------   -----------
+<S>                                                      <C>           <C>           <C>
+Assets
+  Net operating loss carryforwards.....................  $ 4,649,480   $ 9,397,988   $ 7,645,130
+  Research and experimentation tax credit
+    carryforward.......................................    3,041,904     3,004,518     2,511,022
+  Deductible intangibles...............................       90,116       102,016       111,370
+  Deferred revenue.....................................    8,014,368            --            --
+  Other................................................      403,165       316,120       248,310
+
+Liabilities
+  Property, plant and equipment depreciation...........     (135,586)     (200,415)     (246,347)
+  Other................................................      (85,842)      (70,142)      (77,245)
+                                                         -----------   -----------   -----------
+                                                          15,977,605    12,550,085    10,192,240
+Valuation allowance....................................  (15,977,605)  (12,550,085)  (10,192,240)
+                                                         -----------   -----------   -----------
+
+Net deferred taxes.....................................  $        --   $        --   $        --
+                                                         ===========   ===========   ===========
+</TABLE>
+
+    Due to the uncertainty surrounding the realization of the favorable tax
+attributes in future tax returns, the Company has placed a valuation allowance
+against its otherwise recognizable net deferred tax assets. Realization of
+favorable tax attributes is, therefore, reflected as a tax benefit in the
+provision for income taxes.
+
+    At September 30, 2000, the Company had unused net operating loss (NOL)
+carryforwards for federal income tax purposes of approximately $11,839,280 which
+expire in fiscal 2008. The Company also has unused state net operating loss
+carryforwards of approximately $9,959,146 which begin to expire in fiscal 2001.
+The Company also has federal research and experimentation credits of
+approximately $2,689,798 which expire in fiscal 2004.
+
+H. STOCK PLANS:
+
+    The Company's 1993 Stock Plan (the "1993 Stock Plan") provides for the grant
+of options to the Company's directors, officers, employees and consultants to
+purchase up to an aggregate of 700,000 shares of common stock at a price equal
+to the fair market value of the stock at the date of the grant. The maximum term
+of the options under the 1993 Stock Plan is ten years. The number of shares
+available for future grants at September 30, 2000 was 249,425. On November 8,
+2000, the Company adopted, subject to the approval of its stockholders, the 2000
+Stock Plan which would, if approved, provide for the grant of options to the
+Company's directors, officers, employees and consultants to purchase up to an
+aggregate of 1,000,000 shares of common stock.
+
+    The Company's 1983 Stock Option Plan (the "1983 Plan") does not allow for
+option grants after June 1993. The 1983 Plan provided for the grant of options
+to purchase up to 900,000 shares of common stock at a price equal to the fair
+market value of the stock at the date of grant to the Company's employees and
+mandatory grants to outside directors upon initial election to the Board of
+Directors. The maximum terms of incentive stock options and non-statutory
+options under the 1983 Plan are ten years and ten years plus thirty days,
+respectively.
+
+    On November 5, 1991, the Company's Board of Directors adopted the 1992
+Non-Employee Director Stock Option Plan (the "1992 Plan") which the shareholders
+approved. This plan provides for the grant to each non-employee director on
+November 5, 1991, and each fifth anniversary thereafter, of an option to
+purchase 5,000 shares of common stock up to an aggregate of 100,000 shares at a
+price equal to the fair market value of the stock at the date of the grant,
+vesting over a five year period. Under this plan, options to purchase 30,000
+shares of common stock at a price of $21.00 per share and
+
+                                       38
+<PAGE>
+30,000 shares of common stock at a price of $15.25 per share were granted on
+November 5, 1991 and 1996, respectively. The 1992 Plan also provided for the
+grant of options for 5,000 shares to new members of the Board of Directors. A
+total of 10,000 stock options were granted to new directors during fiscal year
+1997 under the 1992 Plan. No grants may be made under this plan after
+November 4, 2001.
+
+    On November 10, 1992, the Company's Board of Directors adopted the 1993
+Non-Employee Director Stock Option Plan (the "1993 Plan") which the shareholders
+approved. This plan provides for the grant to each non-employee director on
+November 10, 1992, and each sixth anniversary thereafter an option to purchase
+5,000 shares of common stock up to an aggregate of 100,000 shares at a price
+equal to the fair market value of the stock at the date of the grant, vesting
+over a five year period. Under this plan, options to purchase 30,000 shares of
+common stock at a price of $14.50 per share and 25,000 shares of common stock at
+a price of $9.625 per share were granted on November 10, 1992 and November 10,
+1998, respectively. The 1993 Plan also provided for the grant of options for
+5,000 shares to new members of the Board of Directors. A total of 10,000 stock
+options were granted to new directors during fiscal year 1997 under the 1993
+Plan. No grants may be made under this plan after November 10, 2002.
+
+    The Company uses the disclosure provision of SFAS 123, "Accounting for
+Stock-Based Compensation" ("SFAS 123") and has applied APB Opinion No. 25
+"Accounting for Stock Issued to Employees" and related interpretations in
+accounting for its Plans.
+
+    Stock option activity for the years ended September 30, 2000, 1999 and 1998
+is as follows:
+
+<TABLE>
+<CAPTION>
+                                                       2000                  1999                  1998
+                                                -------------------   -------------------   -------------------
+                                                           WEIGHTED              WEIGHTED              WEIGHTED
+                                                           AVERAGE               AVERAGE               AVERAGE
+                                                           AVERAGE               EXERCISE              EXERCISE
+                                                 SHARES     PRICE      SHARES     PRICE      SHARES     PRICE
+                                                --------   --------   --------   --------   --------   --------
+<S>                                             <C>        <C>        <C>        <C>        <C>        <C>
+Outstanding at beginning of year..............  473,833     $9.47     408,649     $11.30    460,195     $10.73
+Granted.......................................   47,500     $3.50     144,000     $ 5.04     13,500     $11.88
+Exercised.....................................   (5,250)    $4.00      (1,329)    $ 7.83    (39,846)    $ 4.11
+Canceled......................................  (36,577)    $9.12     (77,487)    $10.28    (25,200)    $12.58
+                                                -------     -----     -------     ------    -------     ------
+Outstanding at end of year....................  479,506     $8.97     473,833     $ 9.57    408,649     $11.30
+                                                =======     =====     =======     ======    =======     ======
+Options exercisable at year-end...............  288,411     $9.65     169,620     $11.33    135,392     $11.04
+                                                =======     =====     =======     ======    =======     ======
+Weighted average fair value of options granted
+  during the year.............................  $  1.90               $  2.38               $  6.16
+                                                -------               -------               -------
+</TABLE>
+
+    The fair value of each option granted during 2000, 1999 and 1998 was
+estimated on the date of grant using the Black-Scholes option-pricing model with
+the following weighted average assumptions: (1) expected life of 5.0 years in
+2000 and 1999, and 7.1 years in 1998 (2) expected volatility of 55.2% in 2000,
+47.6% in 1999, and 37.5% in 1998 (3) risk-free interest rate of 6.12% in 2000,
+5.38% and 4.74% in 1999, and 6.34% in 1998 and (4) no dividend yield.
+
+                                       39
+<PAGE>
+    The following table summarizes information about stock options outstanding
+and exercisable at September 30, 2000:
+
+<TABLE>
+<CAPTION>
+                                    OPTIONS OUTSTANDING                OPTIONS EXERCISABLE
+                          ---------------------------------------  ----------------------------
+                                                         WEIGHTED                  WEIGHTED
+                                       WEIGHTED AVERAGE  AVERAGE                    AVERAGE
+                            NUMBER        REMAINING      EXERCISE    NUMBER        EXERCISE
+RANGE OF EXERCISE PRICES  OUTSTANDING  CONTRACTUAL LIFE   PRICE    EXERCISABLE       PRICE
+------------------------  -----------  ----------------  --------  -----------  ---------------
+<S>                       <C>          <C>               <C>       <C>          <C>
+  $         3.50-$5.25      152,000          8.0          $ 3.90      66,125        $ 3.73
+  $         5.26-$7.88        1,356          0.1          $ 6.50       1,356        $ 6.50
+  $        7.89-$11.81      262,047          6.7          $11.15     169,534        $11.25
+  $       11.82-$12.24       64,103          3.1          $12.09      51,396        $12.09
+                            -------          ---          ------     -------        ------
+  $        3.50-$12.24      479,506          6.6          $ 8.97     288,411        $ 9.65
+                            =======          ===          ======     =======        ======
+</TABLE>
+
+EMPLOYEE STOCK PURCHASE PLAN:
+
+    The Company's 1997 Employee Stock Purchase Plan (the "Purchase Plan")
+provides for the issuance of up to 150,000 shares of common stock to employees
+of the Company. Under the terms of the Purchase Plan, eligible employees may
+purchase shares in five annual offerings ending in 2002, through payroll
+deductions of up to a maximum of 10% of the employee's earnings, at a price
+equal to the lower of 85% of the fair market value of the stock on the
+applicable annual offering commencement date of June 1 or termination date of
+May 31. The first offering under the Purchase Plan ended on May 31, 1998 and
+5,876 shares of common stock were purchased by eligible employees at a price of
+approximately $9.30 per share. The second offering under the Purchase Plan ended
+on May 31, 1999 and 2,267 shares of common stock were purchased by eligible
+employees at a price of approximately $3.29 per share. The third offering under
+the Purchase Plan ended on May 31, 2000 and 19,143 shares of common stock were
+purchased by eligible employees at a price of approximately $3.08 per share. As
+of September 30, 2000, 27,286 shares have been issued under this plan.
+
+    Had the Company adopted SFAS 123, the weighted average fair value for each
+purchase right granted during fiscal 2000, 1999 and 1998 would have been $1.56,
+$1.57, and $3.45, respectively.
+
+PRO FORMA DISCLOSURES
+
+    Had compensation cost for the Company's 2000, 1999 and 1998 grants for
+stock-based compensation plans been determined consistent with SFAS 123, the
+Company's net income (loss) and net income (loss) per share would approximate
+the pro forma amounts below:
+
+<TABLE>
+<CAPTION>
+                                                            2000           1999          1998
+                                                        ------------   ------------   -----------
+<S>                                       <C>           <C>            <C>            <C>
+Net income (loss).......................  As reported   $(11,263,485)  $ (4,442,418)  $(6,309,341)
+                                          Pro forma     $(11,840,095)  $ (4,902,679)  $(6,933,323)
+Net income (loss) per share.............  As reported   $      (1.67)  $      (0.66)  $     (0.93)
+                                          Pro forma     $      (1.75)  $      (0.72)  $     (1.03)
+</TABLE>
+
+    The effects of applying SFAS 123 in this pro-forma disclosure are not
+indicative of future amounts. Additional awards in future years are anticipated.
+
+                                       40
+<PAGE>
+I. EMPLOYEE'S SAVING PLAN:
+
+    The Company provides a 401(k) Plan to employees of the Company by which they
+may defer compensation for income tax purposes under Section 401(k) of the
+Internal Revenue Code. Each employee may elect to defer a percentage of his or
+her salary on a pre-tax basis up to a specified maximum percentage. The Company
+matches every dollar each employee contributes to the 401(k) Plan up to six
+percent of each employee's salary to a maximum of $2,000 annually per employee.
+Salary deferred by employees and contributions by the Company to the 401(k) Plan
+are not taxable to employees until withdrawn from the 401(k) Plan and
+contributions are deductible by the Company when made. The amount of the
+Company's matching contribution for the 401(k) Plan was $64,524, $95,753, and
+$99,710 for 2000, 1999, and 1998, respectively.
+
+J. COMMON STOCK TRANSACTIONS:
+
+    In November 1997, the Board of Directors extended the authorization granted
+in May 1996 to purchase 250,000 shares of the Company's common stock in the
+aggregate on the open market. Through September 30, 2000, the Company purchased
+122,200 shares for $1,574,244 and the shares have been retired. In
+November 2000, the Board of Directors authorized the purchase of up to 1,000,000
+shares, including the number previously authorized, of the Company's common
+stock on the open market at prevailing market prices.
+
+K. PREFERRED STOCK:
+
+    The preferred stock may be issued from time to time in one or more series.
+The rights, preferences, restrictions, qualifications and limitations of such
+stock shall be determined by the Board of Directors.
+
+L. BUSINESS CUSTOMERS:
+
+    The Company's operations are located solely within the United States. The
+Company is focused principally on developing and manufacturing contrast agents.
+Since July 1999, the Company's revenues are attributable to one principal
+business segment. The Company performs ongoing credit evaluations of its
+customers and generally does not require collateral. Two customers accounted for
+58.6% and 24.6% respectively, of the Company's product sales in fiscal 2000,
+70.1% and 25.3% respectively, of the Company's product sales in fiscal 1999, and
+56% and 19% respectively, of the Company's product sales in fiscal 1998.
+
+    In fiscal 2000, 1999 and 1998, revenues from customers and licensees outside
+of the United States, principally in Europe and Japan, amounted to 35%, 19% and
+26%, respectively, of the Company's total revenues.
+
+M. BUSINESS SEGMENTS:
+
+    During fiscal 1999, the Company adopted FASB Statement No. 131
+("SFAS 131"), "Disclosures about Segments of an Enterprise and Related
+Information". Prior to the deconsolidation of Kalisto, the Company had two
+business segments under the "management approach" as defined in SFAS 131, the
+original business and the majority-owned subsidiary.
+
+                                       41
+<PAGE>
+    Information concerning the operations in these reportable segments is as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                          FOR THE YEARS ENDED SEPTEMBER 30,
+                                                      ------------------------------------------
+                                                          2000           1999           1998
+                                                      ------------   ------------   ------------
+<S>                                                   <C>            <C>            <C>
+REVENUES:
+
+Advanced Magnetics, Inc.............................  $  4,073,919   $  6,511,654   $  6,177,048
+Kalisto Biologicals Inc.............................            --        918,402        227,098
+                                                      ------------   ------------   ------------
+  Total.............................................  $  4,073,919   $  7,430,056   $  6,404,146
+
+DEPRECIATION EXPENSE:
+
+Advanced Magnetics, Inc.............................  $    554,434   $    764,861   $    968,683
+Kalisto Biologicals Inc.............................            --         52,438         30,939
+                                                      ------------   ------------   ------------
+  Total.............................................  $    554,434   $    817,299   $    999,622
+
+NET INCOME (LOSS):
+
+Advanced Magnetics, Inc.............................  $(11,263,485)  $ (3,476,742)  $ (5,120,713)
+Kalisto Biologicals Inc.............................            --       (965,676)    (1,382,806)
+Eliminations and adjustments........................            --             --        194,178
+                                                      ------------   ------------   ------------
+  Total.............................................  $(11,263,485)  $ (4,442,418)  $ (6,309,341)
+
+SEGMENT ASSETS:
+
+Advanced Magnetics, Inc.............................  $ 35,667,591   $ 27,816,359   $ 35,230,857
+Kalisto Biologicals Inc.............................            --             --        688,512
+Eliminations and adjustments........................            --             --     (1,804,661)
+                                                      ------------   ------------   ------------
+  Total.............................................  $ 35,667,591   $ 27,816,359   $ 34,114,708
+</TABLE>
+
+N. LEGAL PROCEEDINGS:
+
+    The Company and certain of its officers were sued in an action entitled
+DAVID D. STARK, M.D. V. ADVANCED MAGNETICS, INC., JEROME GOLDSTEIN, ERNEST V.
+GROMAN AND LEE JOSEPHSON, Civil Action No. 92-12157-WGY, in the United States
+District Court for the District of Massachusetts on September 3, 1992. The
+plaintiff, a former consultant to the Company, claims that he was incorrectly
+omitted as an inventor or joint inventor on certain of the Company's patents and
+on pending applications, and seeks injunctive relief and unspecified damages. In
+addition, the complaint also alleges state law claims for breach of contract,
+breach of good faith and fair dealing, breach of implied contract,
+misappropriation of trade secrets, conversion, negligent misrepresentation,
+misrepresentation, unjust enrichment and unfair trade practices. The District
+Court has stayed this federal action pending resolution of an appeal in the
+State Court of summary judgment in the Company's favor as well as resolution of
+a jurisdictional issue. As noted below, the Massachusetts Appeals Court has
+decided the appeal, but the federal action remains stayed as of this date. While
+the outcome of the action cannot be determined, the Company believes the action
+is without merit and intends to defend the action vigorously. The Company may
+not be able to successfully defend this action and the failure by the Company to
+prevail for any reason could have an adverse effect on it's future business,
+financial condition and results of operations.
+
+    The Company and certain of its officers were sued in DAVID D. STARK, M.D. V.
+ADVANCED MAGNETICS, INC., JEROME GOLDSTEIN, ERNEST V. GROMAN AND LEE JOSEPHSON,
+Civil Action No. 93-02846-C, in the Superior Court Department of the
+Massachusetts Trial Court for Middlesex County. This case involves claims of
+breach of contract, breach of good faith and fair dealing, breach of implied
+contract, unjust enrichment and unfair trade practices that were originally
+dismissed by, but later remanded to, the Federal Court in the above-mentioned
+action, as well as a new count alleging tortious interference
+
+                                       42
+<PAGE>
+with contractual or advantageous relations. The Superior Court granted partial
+summary judgment in the Company's favor and dismissed the unfair trade practices
+and tort counts. The plaintiff's contract claims have been dismissed with
+prejudice and final judgment was entered against the plaintiff. The plaintiff
+filed an appeal in DAVID D. STARK, M.D. V. ADVANCED MAGNETICS, INC., JEROME
+GOLDSTEIN, ERNEST V. GROMAN AND LEE JOSEPHSON, Appeal No. 98-P-1749, in the
+Massachusetts Appeals Court, on January 25, 1999. On October 13, 2000, the
+Massachusetts Appeals Court reversed the grant of partial summary judgment in
+the Company's favor and ordered that the unfair trade practice and tort claims
+be reinstated. The Superior Court has redocketed the claims as directed by the
+Appeals Court, and it is anticipated that the litigation in state court will now
+move forward. While the outcome of the action cannot be determined, the Company
+believes the action is without merit and intends to defend the action
+vigorously. The Company may not be able to successfully defend this action and
+the failure by the Company to prevail for any reason could have an adverse
+effect on its future business, financial condition and results of operations.
+
+    The Company filed suit on October 7, 1997 against Sanofi
+Pharmaceuticals, Inc. (formerly known as Sanofi Winthrop, Inc.) and Sanofi SA
+(collectively, the "Defendants") in the Superior Court of the Commonwealth of
+Massachusetts. The action is entitled ADVANCED MAGNETICS, INC. V. SANOFI
+PHARMACEUTICALS, INC. AND SANOFI SA, Civil Action No. 97-5222B. The Company
+claims that the Defendants tortiously interfered with a license, supply and
+marketing agreement (the "Agreement"), and seeks unspecified monetary damages.
+In addition, the Company seeks a declaration that the Defendants do not have any
+rights under the Agreement and that the Company has not breached the Agreement.
+Sanofi Pharmaceuticals, Inc., filed counterclaims against the Company on
+February 4, 1998 seeking compensatory damages of $11,500,000 and multiple
+damages as a result of the Company's alleged breach of the Agreement. On
+November 13, 1998 the Company filed an amended complaint adding claims for
+unfair competition and breach of contract against the Defendants. On
+November 23, 1998, the Defendants answered the Company's amended complaint, and
+Sanofi Pharmaceuticals, Inc. served a new set of counterclaims seeking
+compensatory damages of $15,000,000 and multiple damages as a result of the
+Company's alleged conduct. On June 15, 1999, the court granted partial summary
+judgment in favor of the Company and against the Defendants, declared that the
+Company did not breach the Agreement, was not unjustly enriched, and did not
+violate Mass. Gen. Laws ch. 93A, and dismissed Sanofi Pharmaceuticals, Inc.'s
+counterclaims for breach of contract, unjust enrichment, conversion, account
+annexed and violation of Mass. Gen. Laws ch. 93A. On October 29, 1999, the
+Company served a second motion for partial summary judgment which, among other
+things, requests judgment in its favor on Sanofi Pharmaceuticals, Inc.'s
+remaining counterclaims against the Company and for judgment in its favor on the
+Company's breach of contract claim against Defendants. Also on October 29, 1999,
+Defendants served a motion for partial summary judgment which, among other
+things, requests judgment in its favor on the Company's remaining claims. On
+October 4, 2000, the Court granted the Company's motion and entered judgment on
+all remaining claims brought by Sanofi Pharmaceuticals, Inc. In addition, the
+Court granted in part and denied in part Defendants' motion for summary
+judgment. Only the Company's breach of contract claim against Sanofi SA remains
+in the case. On November 21, 2000, Sanofi SA and Sanofi Pharmaceuticals, Inc.
+served a Motion for Entry of Separate and Final Judgment, seeking to have the
+Court certify final judgment on all issues decided on summary judgment except
+for the Company's breach of contract claim against Sanofi SA. Sanofi SA and
+Sanofi Pharmaceuticals seek final judgment certification in order to obtain an
+immediate appeal on the summary judgment decisions. On December 1, 2000, the
+Company served a memorandum in opposition to the motion for final and separate
+judgment. On December 5, 2000, the Court set a trial date for March 19, 2001 on
+the Company's remaining claim. While the final outcome of this litigation cannot
+be determined, the Company intends to pursue its remaining claim. In the event
+that the judgments in the Company's favor are reversed on appeal, the Company
+intends to defend those claims vigorously. However, in such an event, the
+Company may not be able to successfully defend those
+
+                                       43
+<PAGE>
+claims and the failure of the Company to prevail for any reason could impair the
+Company's financial resources and disrupt the Company's future operating plans.
+
+O. AGREEMENTS:
+
+    To facilitate the marketing and distribution of its contrast agents, the
+Company has entered into strategic relationships with certain established
+pharmaceutical companies. These companies, both in the United States and abroad,
+include: (i) Guerbet S.A. ("Guerbet"), a leading European producer of contrast
+agents, in Western Europe and Brazil; (ii) Eiken Chemical Co., Ltd. ("Eiken"),
+one of Japan's leading medical diagnostics manufacturers, in Japan;
+(iii) Berlex Laboratories, Inc. ("Berlex"), the leading marketer of MRI contrast
+agents, in the United States; (iv) Cytogen Corporation ("Cytogen"), a U.S.
+marketer of oncology products, in the United States and (v) Mallinckrodt Inc.
+("Mallinckrodt"), a unit of Tyco Inc. and a leading manufacturer of contrast
+agents, in the United States, Canada and Mexico.
+
+    In August 2000, the Company entered into a license and marketing agreement
+and a supply agreement with Cytogen Corporation ("Cytogen"). The Company granted
+Cytogen the exclusive right to market and sell COMBIDEX and CODE 7228 for
+oncology applications in the United States and agreed to grant to Cytogen the
+exclusive right to market and sell FERIDEX I.V. in the United States if the
+Company's existing marketing agreement for FERIDEX I.V. terminates for any
+reason. Upon signing of the agreements, the Company received 1,500,000 shares of
+Cytogen common stock as a non-refundable license fee. An additional 500,000
+shares of Cytogen common stock were placed in escrow and will be released to the
+Company upon satisfaction of certain milestones under the agreements. Cytogen
+has agreed to pay the Company for manufacturing and supplying the products and
+royalties on sales. These agreements have an initial ten-year term with
+automatic five year extensions, but can be terminated earlier upon the
+occurrence of certain specified events.
+
+    On February 1, 1995, the Company entered into an agreement with Berlex
+granting Berlex a product license and exclusive marketing rights to Feridex I.V.
+in the United States and Canada. Under the terms of the agreement, Berlex paid a
+$5,000,000 non-refundable license fee in fiscal 1995. An additional $5,000,000
+license fee was received in October 1996 as a result of the FDA's marketing
+approval and Berlex's market launch of Feridex I.V. in the United States. In
+addition, the company receives payments for manufacturing the product and
+royalties on sales. Under the terms of the agreement, Berlex pays for 60% of
+ongoing development expenses related to FERIDEX I.V. These agreements expire in
+2010 with earlier termination upon certain events.
+
+    Under an agreement with Squibb Diagnostics, a division of Bristol-Myers
+Squibb Co., the Company is obligated to pay up to a maximum of $2,750,000 in
+royalties in connection with product sales of COMBIDEX.
+
+    In 1990, the Company entered into a manufacturing and distribution agreement
+with Mallinckrodt granting Mallinckrodt a product license and co-marketing
+rights to GastroMARK-Registered Trademark- in the United States, Canada and
+Mexico. Under the terms of the agreement, Mallinckrodt paid a $500,000
+non-refundable license fee in fiscal 1997 as a result of the FDA's marketing
+approval of Feridex I.V. in the United States. In addition, the company receives
+payments for manufacturing the product and royalties on sales.
+
+    The Company is the licensee of certain technologies under agreements with
+third parties which require the Company to make payments in accordance with
+these license agreements and upon the attainment of particular milestones. The
+Company is also required to pay royalties on a percentage of certain product
+sales, if any. There were no milestone payments in fiscal years 1998, 1999 or
+2000. Future milestone payments are not to exceed $400,000.
+
+                                       44
+<PAGE>
+P. RELATED PARTY TRANSACTIONS:
+
+    During the fiscal years ended September 30, 2000, 1999, and 1998, the
+Company paid approximately $16,600, $33,329, and $58,410, respectively, to
+Fahnestock & Co. Inc. as commissions on transactions involving its investments
+in securities. Mr. Leslie Goldstein, a shareholder and the brother of Jerome
+Goldstein, Chairman of the Board and CEO of the Company, is employed by SRG
+Associates, a division of Fahnestock & Co. Inc., as an investment analyst and
+advisor.
+
+Q. CONSOLIDATED QUARTERLY FINANCIAL DATA--UNAUDITED:
+
+    The following table provides quarterly data for the fiscal years ended
+September 30, 2000 and 1999.
+
+<TABLE>
+<CAPTION>
+                                           FISCAL 2000 QUARTERS ENDED (AS PREVIOUSLY FILED IN FORM 10-Q)
+                                          ---------------------------------------------------------------
+                                                JUNE 30              MARCH 31            DEC. 31, 1999
+                                          -------------------   -------------------   -------------------
+<S>                                       <C>                   <C>                   <C>
+License fees............................      $        --           $        --           $        --
+Royalties...............................          200,000               260,000               163,246
+Product sales...........................          616,911               161,530                    --
+Research and development services.......               --               105,393                10,995
+Interest, dividends and net gains and
+  losses on sales of securities.........          197,122               168,588               235,845
+                                              -----------           -----------           -----------
+  Total revenues........................        1,014,033               695,511               410,086
+
+Cost of product sales...................           43,195                62,954                    --
+Cost of contract research...............               --                    --                 3,195
+Operating expenses......................        1,553,488             1,664,705             1,838,531
+                                              -----------           -----------           -----------
+Net income (loss).......................      $  (582,650)          $(1,032,148)          $(1,431,640)
+                                              ===========           ===========           ===========
+  Net income (loss) per share...........      $     (0.09)          $     (0.15)          $     (0.21)
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                     FISCAL 2000 QUARTERS ENDED (AS AMENDED*)
+                                             --------------------------------------------------------
+                                             SEPTEMBER 30     JUNE 30      MARCH 31     DEC. 31, 1999
+                                             ------------   -----------   -----------   -------------
+<S>                                          <C>            <C>           <C>           <C>
+License fees...............................  $   572,367    $   183,894   $   183,894    $   183,894
+Royalties..................................      201,754        200,000       260,000        163,246
+Product sales..............................      475,096        616,911       161,530             --
+Research and development services..........           --             --        95,008         10,995
+Interest, dividends and net gains and
+  losses on sales of securities............      163,775        197,122       168,588        235,845
+                                             -----------    -----------   -----------    -----------
+  Total revenues...........................    1,412,992      1,197,927       869,020        593,980
+
+Cost of product sales......................      133,079         43,195        62,954             --
+Cost of contract research..................           --             --            --          3,195
+Operating expenses.........................    2,580,540      1,553,488     1,664,705      1,838,531
+Cumulative effect of accounting change
+  (loss)...................................           --             --            --     (7,457,717)
+                                             -----------    -----------   -----------    -----------
+Net income (loss)..........................  $(1,300,627)   $  (398,756)  $  (858,639)   $(8,705,463)
+                                             ===========    ===========   ===========    ===========
+Net income (loss) per share................  $     (0.19)   $     (0.06)  $     (0.13)   $     (1.29)
+</TABLE>
+
+------------------------
+
+* to reflect cumulative effect of accounting change (see Note B)
+
+                                       45
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                            FISCAL 1999 QUARTERS ENDED
+                                             --------------------------------------------------------
+                                             SEPTEMBER 30     JUNE 30      MARCH 31     DEC. 31, 1998
+                                             ------------   -----------   -----------   -------------
+<S>                                          <C>            <C>           <C>           <C>
+License fees...............................   $       --    $        --   $        --    $        --
+Royalties..................................      220,000        100,000       200,000        160,000
+Product sales..............................      383,866        264,113     1,001,239        316,841
+Research and development services..........      106,241         85,430       144,856        244,902
+Interest, dividends and net gains and
+  losses on sales of securities............    2,671,172        400,982       937,638        192,776
+                                              ----------    -----------   -----------    -----------
+  Total revenues...........................    3,381,279        850,525     2,283,733        914,519
+
+Cost of product sales......................       90,954         95,604       155,903        112,181
+Cost of contract research..................       17,138          4,103        15,815             --
+Operating expenses.........................    1,817,524      3,088,904     3,327,433      3,412,508
+Other (income) expenses....................      155,968             --      (421,561)            --
+                                              ----------    -----------   -----------    -----------
+Net income (loss)..........................   $1,299,695    $(2,338,086)  $  (793,857)   $(2,610,170)
+                                              ==========    ===========   ===========    ===========
+Net income (loss) per share................   $     0.19    $     (0.35)  $     (0.12)   $     (0.39)
+</TABLE>
+
+R. RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS:
+
+    In June 1998, the FASB issued Statement No. 133 ("SFAS 133"), "Accounting
+for Derivative Instruments and Hedging Activities" which is effective for fiscal
+years beginning after June 15, 2000. The statement establishes accounting and
+reporting standards requiring that every derivative instrument be recorded in
+the balance sheet as either an asset or liability, measured at its fair value.
+SFAS No. 133 also requires that changes in the derivative's fair value be
+recognized currently in earnings unless specific hedge accounting criteria are
+met. Adoption of this standard will increase or decrease the recorded value of
+options the Company may, in the future, acquire, and result in gains or losses
+being included in net income.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+  FINANCIAL DISCLOSURE:
+
+    Not applicable.
+
+                                       46
+<PAGE>
+PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT:
+
+    The information required by this item, other than with respect to the
+executive officers of the registrant, is incorporated by reference from the
+Company's definitive proxy statement in connection with its Annual Meeting of
+Stockholders to be held on February 6, 2001, filed with the Commission on or
+about December 21, 2000, under the caption "Election of Directors."
+
+    The information required by this item, with respect to executive officers of
+the registrant, can be found in Part I hereof.
+
+ITEM 11. EXECUTIVE COMPENSATION:
+
+    The information required by this item is incorporated by reference from the
+Company's definitive proxy statement in connection with its Annual Meeting of
+Stockholders to be held on February 6, 2001, filed with the Commission on or
+about December 21, 2000, under the captions "Compensation of Directors" and
+"Compensation and Other Information Concerning Directors and Officers."
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT:
+
+    The information required by this item is incorporated by reference from the
+Company's definitive proxy statement in connection with its Annual Meeting of
+Stockholders to be held on February 6, 2001 filed with the Commission on or
+about December 21, 2000, in the table under the caption "Principal
+Stockholders".
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS:
+
+    Not applicable.
+
+                                       47
+<PAGE>
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K:
+
+    (a) The following documents are filed as part of this Annual Report on
+       Form 10-K:
+
+       1.  FINANCIAL STATEMENTS. The financial statements included in Item 8 of
+           Part II of this Annual Report on Form 10-K.
+
+       2.  Financial Statement Schedules. Financial statement schedules have
+           been omitted because the required information is not present or not
+           present in amounts sufficient to require submission of the schedule,
+           or because the information required is included in the financial
+           statements or the notes thereto.
+
+       3.  The exhibits listed in the Exhibit Index immediately preceding the
+           Exhibits are filed as a part of this Annual Report on Form 10-K.
+
+    (b) Reports on Form 8-K:
+
+       The Company filed the following reports on Form 8-K during the fiscal
+       quarter ended September 30, 2000:
+
+       1.  Report on Form 8-K filed July 10, 2000 (Item 5: Other Event).
+
+       2.  Report on Form 8-K filed August 24, 2000 (Item 5: Other Event).
+
+       No financial statements were filed with these reports.
+
+                                       48
+<PAGE>
+                                   SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+<TABLE>
+<S>                                                    <C>  <C>
+                                                       ADVANCED MAGNETICS, INC.
+
+                                                       By:             /s/ JEROME GOLDSTEIN
+                                                            -----------------------------------------
+                                                                         Jerome Goldstein
+                                                               CHAIRMAN OF THE BOARD OF DIRECTORS,
+                                                              CHIEF EXECUTIVE OFFICER AND TREASURER
+</TABLE>
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+                      NAME                                     TITLE                      DATE
+                      ----                                     -----                      ----
+<C>                                               <S>                               <C>
+                                                  Chairman of the Board of
+              /s/ JEROME GOLDSTEIN                  Directors, Chief Executive
+     --------------------------------------         Officer and Treasurer           December 18, 2000
+                Jerome Goldstein                    (principal executive and
+                                                    financial officer)
+
+               /s/ JAMES MATHESON
+     --------------------------------------       Vice President-Finance            December 18, 2000
+                 James Matheson                     (principal accounting officer)
+
+              /s/ LEONARD M. BAUM
+     --------------------------------------       Director                          December 18, 2000
+                Leonard M. Baum
+
+           /s/ JOSEPH B. LASSITER III
+     --------------------------------------       Director                          December 18, 2000
+         Joseph B. Lassiter III, Ph.D.
+
+             /s/ MICHAEL D. LOBERG
+     --------------------------------------       Director                          December 18, 2000
+            Michael D. Loberg, Ph.D.
+
+             /s/ EDWARD B. ROBERTS
+     --------------------------------------       Director                          December 18, 2000
+            Edward B. Roberts, Ph.D.
+
+            /s/ GEORGE M. WHITESIDES
+     --------------------------------------       Director                          December 18, 2000
+          George M. Whitesides, Ph.D.
+</TABLE>
+
+                                       49
+<PAGE>
+                                 EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                          SEQUENTIALLY
+       EXHIBIT                                                                              NUMBERED
+       NUMBER                                       DESCRIPTION                               PAGE
+---------------------       ------------------------------------------------------------  ------------
+<S>                         <C>                                                           <C>
+ 3.1                        Certificate of Incorporation of the Company, as amended.
+ 3.2                        By-Laws of the Company, as amended.
+ 10.1        (1)            1983 Stock Option Plan of the Company, as amended on
+                            November 13, 1990.
+ 10.2        (1)            1992 Non-Employee Director Stock Option Plan.
+ 10.3        (2)            1993 Stock Plan, as amended on February 2, 1999.
+ 10.4        (2)            1993 Non-Employee Director Stock Option Plan.
+ 10.5        (3)            1997 Employee Stock Purchase Plan
+ 10.6        (4)            Clinical Testing, Supply and Marketing Agreement between the
+                            Company and Guerbet S.A. dated May 22, 1987 (confidential
+                            treatment previously granted).
+ 10.7        (5)            Clinical Testing, Supply and Marketing Agreement between the
+                            Company and Eiken Chemical Co., Ltd. dated August 30, 1988
+                            (confidential treatment previously granted).
+ 10.8        (6)            Contrast Agent Agreement between the Company and Guerbet
+                            S.A. dated September 29, 1989 (confidential treatment
+                            previously granted).
+ 10.9        (7)            Contrast Agent Agreement between the Company and Eiken
+                            Chemical Co., Ltd. dated March 27, 1990 (confidential
+                            treatment previously granted).
+ 10.10       (7)            Amendment to Clinical Testing, Supply and Marketing
+                            Agreement between the Company and Eiken Chemical Co., Ltd.
+                            dated September 29, 1990 (confidential treatment previously
+                            granted).
+ 10.11       (7)            License, Supply and Marketing Agreement between the Company
+                            and Mallinckrodt Medical, Inc. dated June 28, 1990
+                            (confidential treatment previously granted).
+ 10.12       (1)            Technology License Agreement between the Company and Squibb
+                            Diagnostics, dated February 5, 1991 (confidential treatment
+                            previously granted).
+ 10.13       (1)            Agreement of Amendment to Clinical Testing, Supply and
+                            Marketing Agreement between the Company and Guerbet, S.A.,
+                            dated August 13, 1990.
+ 10.14       (8)            Termination Agreement dated August 30, 1994 between the
+                            Company and Bristol-Myers Squibb Co.
+ 10.15       (9)            License and Marketing Agreement between the Company and
+                            Berlex Laboratories, Inc. dated as of February 1, 1995.
+ 10.16       (9)            Supply Agreement between the Company and Berlex
+                            Laboratories, Inc. dated as of February 1, 1995.
+ 10.17       (10)           Lease and Lease Agreement between the Company and Carnegie
+                            Center Associates dated September 6, 1994.
+ 10.18       (11)           Promissory Note dated February 10, 1998 issued to the
+                            Company by Leonard Baum.
+ 10.19       +              License and Marketing Agreement dated August 25, 2000
+                            between the Company and Cytogen Corporation.
+ 10.20       +              Supply Agreement dated August 25, 2000 between the Company
+                            and Cytogen Corporation.
+ 23.1                       Consent of PricewaterhouseCoopers LLP, independent
+                            accountants.
+ 27                         Financial Data Schedule
+</TABLE>
+
++   Confidential treatment requested as to certain portions, which portions have
+    been omitted and separately filed with the Securities and Exchange
+    Commission pursuant to a Confidential Treatment Request.
+
+                                       50
+<PAGE>
+(1) Incorporated herein by reference to the exhibits to the Company's Annual
+    Report on Form 10-K for the fiscal year ended September 30, 1991.
+
+(2) Incorporated herein by reference to the exhibits to the Company's definitive
+    proxy statement for the fiscal year ended September 30, 1992.
+
+(3) Incorporated herein by reference to the exhibits to the Company's definitive
+    proxy statement for the fiscal year ended September 30, 1996.
+
+(4) Incorporated herein by reference to the exhibits to the Company's Annual
+    Report on Form 10-K for the fiscal year ended September 30, 1987.
+
+(5) Incorporated herein by reference to the exhibits to the Company's Annual
+    Report on Form 10-K for the fiscal year ended September 30, 1988.
+
+(6) Incorporated herein by reference to the exhibits to the Company's Annual
+    Report on Form 10-K for the fiscal year ended September 30, 1989.
+
+(7) Incorporated herein by reference to the exhibits to the Company's Annual
+    Report on Form 10-K for the fiscal year ended September 30, 1990.
+
+(8) Incorporated herein by reference to the exhibits to the Company's Annual
+    Report on Form 10-K, for the fiscal year ended September 30, 1994.
+
+(9) Incorporated herein by reference to the exhibits to the Company's Quarterly
+    Report on Form 10-Q, as amended, for the fiscal quarter ended December 31,
+    1994.
+
+(10) Incorporated herein by reference to the exhibits to the Company's Annual
+    Report on Form 10-K, for the fiscal year ended September 30, 1997.
+
+(11) Incorporated herein by reference to the exhibits to the Company's Quarterly
+    Report on Form 10-Q, for the fiscal quarter ended March 31, 1998.
+
+                                       51
+</TEXT>
+</DOCUMENT>

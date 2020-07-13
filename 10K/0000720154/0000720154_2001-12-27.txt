@@ -1,0 +1,1250 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>bas10k.txt
+<DESCRIPTION>BIOANALYTICAL SYSTEMS 10-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+
+(Mark One)
+
+  [ X ]   ANNUAL  REPORT  PURSUANT  TO  SECTION  13 OR 15(d)  OF THE  SECURITIES
+          EXCHANGE ACT OF 1934 for the fiscal year ended September 30, 2001.
+
+   OR
+
+  [   ]   TRANSITION  REPORT  PURSUANT TO SECTION 13 OR 15(d) OF THE  SECURITIES
+          EXCHANGE ACT OF 1934 for the  transition  period from  ___________  to
+          _____________.
+
+                        Commission File Number 0-23357
+
+                           BIOANALYTICAL SYSTEMS, INC.
+           (Exact name of the registrant as specified in its charter)
+
+                      INDIANA                         35-1345024
+          -------------------------------         -------------------
+          (State or other jurisdiction of          (I.R.S. Employer
+          incorporation or organization)          Identification No.)
+
+
+                      2701 KENT AVENUE
+                     WEST LAFAYETTE, IN                     47906
+          ----------------------------------------       ----------
+          (Address of principal executive offices)       (Zip code)
+
+                                 (765) 463-4527
+              ----------------------------------------------------
+              (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+
+Securities registered pursuant to section 12(g) of the Act:  Common Shares
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days.  YES [ X ]    NO  [   ]
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation S-K (ss.229.045 of this chapter) is not contained herein, and will
+not be contained,  to the best of registrant's knowledge, in definitive proxy or
+information  statements  incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K.  [ X ]
+
+Based on the closing price on the NASDAQ exchange, the aggregate market value of
+the voting and non-voting common equity held by non-affiliates of the registrant
+is $18,686,833. As of November 30, 2001, 4,569,416 shares of registrant's common
+shares  were  outstanding.  No  shares  of  registrant's  Preferred  Stock  were
+outstanding as of November 30, 2001.
+
+Portions of the following  documents  have been  incorporated  by reference into
+this report:
+
+   Registrant's Document                    Parts Into Which Incorporated
+---------------------------                 -----------------------------
+Bioanalytical Systems, Inc.
+    2001 Annual Report                             Parts II and IV
+
+Proxy Statement                                    Part III
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+
+                                                                            Page
+                                                                            ----
+Part I
+
+Item 1.   Business                                                            3
+
+Item 2.   Properties                                                         10
+
+Item 3.   Legal Proceedings                                                  10
+
+Item 4.   Submission of Matters to a Vote of Security Holders                10
+
+
+Part II
+
+Item 5.   Market for Registrant's Common Equity and
+`         Related Stockholder Matters                                         11
+
+
+Item 6.   Selected Consolidated Financial Data                                12
+
+Item 7.   Management's Discussion and Analysis of Financial
+          Condition and Results of Operations                                 12
+
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk          12
+
+Item 8.   Financial Statements and Supplementary Data                         12
+
+Item 9.   Changes in and Disagreements with Accountants on Accounting
+          and Financial Disclosure                                            12
+
+
+Part III
+
+Item 10.  Directors and Executive Officers of the Registrant                  13
+
+Item 11.  Executive Compensation                                              14
+
+Item 12.  Security Ownership of Certain Beneficial Owners
+          and Management                                                      14
+
+Item 13.  Certain Relationships and Related Transactions                      15
+
+
+Part IV
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports
+          on Form 8-K                                                         16
+
+<PAGE>
+
+
+                                     Part I
+
+THIS REPORT CONTAINS CERTAIN  STATEMENTS THAT ARE  "FORWARD-LOOKING  STATEMENTS"
+WITHIN THE MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933, AS AMENDED, AND
+SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED.  READERS OF THIS
+REPORT ARE CAUTIONED  THAT RELIANCE ON ANY  FORWARD-LOOKING  STATEMENT  INVOLVES
+RISKS AND  UNCERTAINTIES.  ALTHOUGH THE COMPANY BELIEVES THAT THE ASSUMPTIONS ON
+WHICH THE FORWARD-LOOKING  STATEMENTS CONTAINED HEREIN ARE BASED ARE REASONABLE,
+ANY OF  THOSE  ASSUMPTIONS  COULD  PROVE TO BE  INACCURATE  GIVEN  THE  INHERENT
+UNCERTAINTIES AS TO THE OCCURRENCE OR NONOCCURRENCE OF FUTURE EVENTS.  THERE CAN
+BE NO ASSURANCE  THAT THE  FORWARD-LOOKING  STATEMENTS  CONTAINED IN THIS REPORT
+WILL PROVE TO BE ACCURATE.  THE INCLUSION OF A FORWARD-LOOKING  STATEMENT HEREIN
+SHOULD NOT BE REGARDED AS A  REPRESENTATION  BY THE COMPANY  THAT THE  COMPANY'S
+OBJECTIVES WILL BE ACHIEVED.
+
+Item 1. Business
+
+General
+
+     The Company provides contract  development  services and research equipment
+to many of the leading, global pharmaceutical,  medical device and biotechnology
+companies.  The Company  concentrates on services and tools to improve the speed
+and efficiency of preclinical  development.  It has played a significant role in
+understanding  the  underlying  causes  of  central  nervous  system  disorders,
+diabetes,  osteoporosis and other diseases.  Our clients have realized more than
+$15 billion in revenue from technologies and services provided by the Company.
+
+     The Company offers an efficient,  variable-cost alternative to its clients'
+internal product development, compliance and quality control programs. To reduce
+overhead  and speed  drug  approvals  through  the Food and Drug  Administration
+(FDA),  pharmaceutical  companies are  contracting  increasing  amounts of their
+development work to outside firms such as the Company.  As a result, the Company
+now derives its revenues  from both the sale of its  research  services and drug
+development  tools.  The Company  provides a range of  value-added  services and
+products focused on chemical analysis and preclinical  metabolism,  allowing its
+clients to perform  their  research  and  development  either in house or at the
+Company
+
+     The Company's  services and products combine basic research with diagnostic
+and  therapeutic  experience.  The Company is capable of supporting the clinical
+development   (formulations  and  clinical  trials)  and  preclinical  needs  of
+researchers and clinicians,  for small molecule drugs and hormones through large
+biomolecules. The Company believes their scientists have the skills necessary in
+instrumentation,  chemistry,  computer software,  physiology,  pathology and the
+global  presence to make the  services  and  products  it provides  increasingly
+valuable to the worldwide  pharmaceutical,  medical device and  biotechnological
+industries.
+
+     Over the past five years,  the Company has regularly  provided its services
+and/or products to most of the top 25 pharmaceutical  companies in the world, as
+ranked by 2000 research and  development  spending.  In fiscal 2001, the Company
+estimates  that  more than 40% of its  total  revenue  was  derived  from  these
+companies.  A growing pool of clients among smaller drug developers is viewed as
+favorable.  The Company has stated that it intends to become a strategic partner
+to that tier of clients rather than simply a tactical  services  provider to the
+largest companies.
+
+     The  Company's  services  groups  provide  screening  and   pharmacological
+testing,   preclinical/safety  testing,   formulation  development,   regulatory
+compliance  and  quality  control  testing.  The  Pharmaceutical   Research  and
+Manufacturing    Association   (PhRMA)   estimates   that   pharmaceutical   and
+biotechnology  companies spent approximately $30.5 billion worldwide on research
+and development in 2001.  Analysts  estimate that outsourced  services will grow
+from 20% of research and  development  expenditures  in 2000 to more than 40% by
+2004. The Company  believes that this outsourcing  trend will continue.  Several
+factors are driving pharmaceutical companies toward improving shareholder value.
+The Company agrees that the trend toward outsourcing will grow.
+
+     The Company  designs,  manufactures  and  markets a range of products  that
+collect,  separate,  detect and quantify chemicals in biological samples.  These
+tools and the Vetronics  line of veterinary  physiological  monitors are used to
+track  complex  chemical,  physiological  and  behavioral  effects in laboratory
+animal  models.  The Company is focusing  its  products  business on  expediting
+preclinical  screening of developmental drugs.
+
+
+                                     - 3 -
+<PAGE>
+
+     The  Company  competes  in  niches  of the $20  billion  (2001)  analytical
+instrument  industry.  The Company  leverages  its  talented  personnel in these
+instruments  businesses  to provide  solutions to highly  challenging  problems,
+adding significant value. The Company develops and manufactures state-of-the-art
+robotic blood sampling, in vivo microdialysis  collection systems and physiology
+monitoring tools.  Complementing these, the Company's liquid  chromatography and
+electrochemistry  instrument platform, epsilon, is used to separate and quantify
+drugs,  xenobiotics,  metabolites  and other  chemicals in blood,  cerebrospinal
+fluid and other biological media.
+
+     Scientists engaged in drug metabolism studies,  pharmacokinetics  and basic
+neuroscience research at pharmaceutical research organizations are the Company's
+principal clients.
+
+     Changing Nature of the Pharmaceutical Industry
+
+     The Company  provides  services  and products  globally to  pharmaceutical,
+medical  device  and   biotechnology   companies,   academic   institutions  and
+governments to facilitate  research and development.  The Company's services are
+generally  marketed to  pharmaceutical  and biotech  companies  engaged in early
+stages of drug  development.  The Company's  products are generally  marketed to
+both public and private research  organizations.  The research services industry
+is highly  fragmented  among  hundreds of niche  vendors  and a small  number of
+larger  companies  focused  on  an  ever-growing  portfolio  of  cradle-to-grave
+pharmaceutical development services.
+
+     While the markets for the  Company's  services and products  have  distinct
+customers (often separate  divisions in a single large  pharmaceutical  company)
+and requirements,  the Company believes that both are facing increased  pressure
+to outsource  facets of their research and development  activities.  The Company
+believes that the following factors will increase outsourcing by its customers.
+
+     Accelerated Drug Development
+
+     End users  continue to demand  faster,  more  efficient  drug  development.
+Pharmaceutical  developers are relying on external service providers for testing
+and analysis in all phases of development.  Clients demand fast, quality service
+in order to make immediate informed decisions to quickly exclude poor candidates
+and speed development of successful ones.
+
+     Cost Containment
+
+     Pharmaceutical companies are developing more efficient operating strategies
+due to the  increased  purchasing  power of large  buyer  groups and  government
+initiatives designed to reduce drug prices. The need for additional  development
+capacity to speed new  product  development,  maximize  market  exclusivity  and
+increase profitability drives the need for outsourced services.
+
+     Patent Expiration
+
+     Patents  on  all   pharmaceuticals  age  and  expire.  Drug  companies  are
+developing new products or modifying  existing products to maintain market share
+against generic  competition.  The Company believes that the pressure to develop
+new products  and to modify or  reformulate  existing  products,  combined  with
+internal capacity constraints, will lead clients to outsource development.
+
+     Strategic Alliances
+
+     Strategic  alliances  allow  pharmaceutical  companies  to  share  research
+know-how  and to develop  and market new drugs  faster in more  diverse,  global
+markets.  The Company  believes that  alliances will lead to a greater number of
+potential  drugs in testing,  many under study by new  companies  lacking  broad
+technical resources.
+
+     Mergers and Acquisitions
+
+     Consolidation in the pharmaceutical  industry is becoming  commonplace.  As
+firms blend personnel,  resources and business activities,  the Company believes
+they will continue to streamline operations, optimizing staffing which will lead
+to more outsourcing.  This may result in short-term  disruption in placement of,
+or progress on, drug development programs as merging companies rationalize their
+respective pipelines.
+
+
+                                     - 4 -
+<PAGE>
+
+     Biotechnology Industry and Virtual Drug Company Growth
+
+     The biotechnology industry has grown rapidly over the last 10 years and has
+introduced many new developmental drugs. Biotechnology companies do not have the
+in-house  resources  to conduct  development  and  testing.  Also,  several  new
+companies have pronounced a business strategy to develop a product  sufficiently
+to attract a strategic partner who will manufacture and market the drug. Many of
+these virtual drug  development  companies with little or no internal  resources
+must outsource drug development and testing.
+
+     Need for Unique Technical Expertise
+
+     The increasing  complexity of new drugs requires highly specialized quality
+and innovative, solution-driven research not available in the clients' labs. The
+Company believes that this need for unique technical expertise will increasingly
+lead to outsourcing of research activity.
+
+     Need for Data Management Expertise
+
+     The FDA is requiring more  regulatory  data and greater access to that data
+and is encouraging the use of computer-assisted filings in an effort to expedite
+approval.  The Company is able to provide  clients with remote access to Company
+computer systems while at the same time protecting client data from unauthorized
+access. The Company has also developed  proprietary  validated online data entry
+software enabling direct publication of data in unique client formats.
+
+     Globalization of the Marketplace
+
+     Foreign  firms  are  relying  on  independent  development  companies  with
+experience  in the United  States to provide  integrated  services  through  all
+phases of product  development  and to assist in  preparing  complex  regulatory
+submissions.  Domestic drug firms are broadening product availability  globally,
+demanding local regulatory approval.  The Company believes that domestic service
+providers with global reach,  established regulatory expertise and a broad range
+of integrated development services will benefit from this trend. The Company has
+a significant European presence and domestic skills in foreign operations.
+
+
+The Company's Role in the Drug Development Process
+
+     Process Overview
+
+     The Company has 27 years of experience in developing  analytical methods to
+support  drug  discovery.   Under  the  United  States  regulatory  system,  the
+development  process for new  pharmaceutical  products can be divided into three
+distinct phases.
+
+1)   The preclinical phase includes discovery, characterization, formulation and
+     safety testing to prepare an  Investigational  New Drug (IND) exemption for
+     submission  to the FDA. The IND must be accepted by the FDA before the drug
+     can be tested in humans.
+
+2)   The second,  clinical phase follows a successful IND submission and further
+     explores the safety, tolerability,  efficacy and dosage of the substance in
+     humans.  Early  manufacturing  demonstrates  production of the substance in
+     accordance with the FDA's cGMP  guidelines.  Data from these activities are
+     compiled in a New Drug Application  (NDA), or for biotechnology  products a
+     Product  License  Application  (PLA),  for submission to the FDA requesting
+     approval to market the drug.
+
+3)   The third phase  follows  FDA  approval  of the NDA or PLA.  This  includes
+     production and continued  analytical  and clinical  monitoring of the drug.
+     The  post-approval  phase also  involves  the  development  and  regulatory
+     approval of product  modifications and line extensions,  including improved
+     dosage forms.
+
+
+
+                                     - 5 -
+<PAGE>
+
+     The Company's Role
+
+     The  Preclinical  Phase.  New  molecules  are screened for  pharmacological
+activity using various  models.  Once the  pharmacologically  active molecule is
+fully characterized, it is analyzed to confirm its integrity. Development of the
+initial dosage form for clinical trials is completed,  with analytical chemistry
+protocols to determine its stability.  Upon successful completion of preclinical
+safety  and  efficacy  studies  in in vitro and in vivo,  an IND  submission  is
+prepared and provided to the FDA for review prior to human clinical trials.
+
+     Clients work with the Company's  Preclinical Services division to establish
+pharmacokinetic  and safety  testing  protocols.  These studies range from acute
+safety   monitoring  on  drugs  and  medical  devices  to  chronic,   multi-year
+oncogenicity studies.  Bioanalyses of blood sampled under these protocols by the
+Company's  bioanalytical  services  group provide  kinetic,  metabolism and dose
+ranging data.
+
+     Many  of the  Company's  products  are  designed  for  use  in  preclinical
+development. For example:
+
+1)   The Culex(R) ABS, a robotic automated blood sampler, enables researchers to
+     develop  pharmacokinetic  profiles of drugs in early  screening  in rodents
+     quickly and cost effectively.  Several variations on this technology are in
+     development.
+
+2)   Company   scientists   have  been  recognized  by  their  peers  for  their
+     contributions  to  technology  of drugs for central  nervous  system  (CNS)
+     disorders  such  as  depression,  Parkinson's  disease,  schizophrenia  and
+     Alzheimer's disease.
+
+3)   Company  technology is the basis for most of the glucose sensors  currently
+     sold to  diabetics  and the  majority  of firms in this  market are Company
+     clients.
+
+4)   The   Company's   bioanalytical   services   group   used   the   Company's
+     chromatography  products to develop a single, quick,  proprietary method to
+     screen up to ten  therapeutic  HIV drugs in the same blood  sample with the
+     cooperation  of  several  major  therapeutic  drug  developers.  The method
+     enables  researchers  to quantify  each  component in a drug cocktail or to
+     monitor HIV treatments.
+
+     The  Company's  ability to solve client  problems  combining  its knowledge
+base,  services  and products  has been a factor in the  Company's  selection by
+major pharmaceutical  companies to assist in several preclinical and Phase I, II
+and III clinical trials.
+
+     The Clinical Phase. After successful submission of an IND application,  the
+sponsor  conducts Phase I human  clinical  trials in a limited number of healthy
+individuals   to  determine   safety  and   tolerability.   This  work  requires
+bioanalytical  assays to determine the availability and metabolism of the active
+ingredient  following  administration.   Expertise  in  method  development  and
+validation is essential for this phase,  particularly for new chemical entities.
+When further safety,  tolerability  and dosing regimens have been established in
+Phase II, Phase III clinical trials are conducted to verify efficacy and safety.
+After the successful completion of Phase III clinical trials, the sponsor of the
+new  drug  submits  an NDA or PLA to the FDA  requesting  that  the  product  be
+approved for marketing.
+
+     The  Company's  bioanalytical  work per patient  grows rapidly from Phase I
+through  III. As the number of patients  grows the number of samples per patient
+declines.  Phase II and III studies take several years,  practicing  well proven
+analytical protocols.  It is unusual for a sponsor to change laboratories unless
+there are problems in the quality or timely delivery of results.
+
+     Many  patients are receiving  multiple drug therapy.  The influence of each
+drug on the  effectiveness  of the other  drugs  must be  monitored.  These drug
+interaction  studies often extend clinical trials. A CRO such as the Company can
+provide  services to several  different  manufacturers  of  complementary  drugs
+simultaneously  in cases of potential  synergy (e.g. the "cocktail"  approach to
+HIV therapy).  Multi-client studies frequently lead to cost sharing and contacts
+with new clients.
+
+     The Post-approval  Phase.  Following  approval,  the drug manufacturer must
+comply with  quality  assurance  and  quality  control  requirements  throughout
+production and must continue analytical and stability studies of the drug during
+commercial  production in order to continue to validate production processes and
+confirm product shelf life.  Samples from each manufactured batch must be tested
+prior to release of the batch for  distribution to the public.  The Company also
+provides services in all areas during the post-approval phase,  concentrating on
+bio-equivalence  studies  of new  formulations,  line  extensions,  new  disease
+indications and drug interaction studies.
+
+
+                                     - 6 -
+<PAGE>
+
+Company Services and Products
+
+     Overview
+
+     The Company  provides  bioanalytical  services,  preclinical  services  and
+methods  development.  The Company has, for 27 years,  developed  expertise in a
+number of core technologies,  which evolved into state-of-the-art  equipment and
+procedures  designed to  quantify  trace  chemicals  in complex  materials.  The
+Company also uses its expertise in analytical  chemistry to provide a wide range
+of bioanalytical services to drug developers. Preclinical services provide basic
+safety and dosage  information  to  researchers  and are a source of samples for
+bioanalytical analyses.
+
+     Services
+
+     The Company's  customers draw on the Company's  knowledge in  bioanalytical
+chemistry  and  preclinical   services  to  solve  complex  problems:
+
+     o    Method Development and Validation. Analytical methods are developed to
+          demonstrate potency, purity,  stability or physical attributes.  These
+          methods are validated to ensure that the data  generated are accurate,
+          precise,  reproducible  and reliable and are used  throughout the drug
+          development process and in product support testing
+
+     o    Product  Characterization.  Characterization  analysis  identifies the
+          chemical composition, structure and physical properties of a compound.
+          Characterization  data  is  a  significant  portion  of  a  regulatory
+          application.  The Company uses several  techniques to characterize the
+          compound.
+
+     o    Stability Testing. The Company provides required stability testing and
+          secure storage  facilities  necessary to establish and confirm product
+          purity,   potency  and   shelflife.   The  Company  has  multiple  ICH
+          (International   Conference  on  Harmonization)  validated  controlled
+          climate GMP systems.
+
+     o    Bioanalytical  Testing.  The  Company's  bioanalytical  testing  group
+          analyzes  biological samples to measure drug concentration and monitor
+          the rate of absorption and elimination.
+
+     o    Preclinical and Pathology Services. BAS Evansville is the core for the
+          Company's  preclinical  services group which provides  pharmacokinetic
+          and safety  testing  protocols  in studies  ranging  from acute safety
+          monitoring  on  drugs  and  medical  devices  to  chronic,  multi-year
+          oncogenicity studies.
+
+     o    In  Vivo  Sampling.  The  Company  pioneered  and  has  commercialized
+          miniaturized in vivo sampling products and services for the continuous
+          monitoring of chemical changes in life.
+
+     Products
+
+     The Company  designs,  manufactures  and  markets a range of  products  and
+related scientific procedures that detect and quantify the presence of chemicals
+in  certain   substances.   The  Company's  products  utilize   state-of-the-art
+scientific technology including liquid  chromatography,  electrochemistry and in
+vivo sampling instrumentation.  Presently, the Company's products and procedures
+include:
+
+     o    The Culex(R) ABS robotic  automatic  rodent blood  sampling  system is
+          used by pharmaceutical researchers to monitor drug concentrations as a
+          function of time  (pharmacokinetics).  The Culex provides  exceptional
+          cost savings,  significant  reduction in stress and shorter  screening
+          times to drug researchers.  Culex is one of the fastest-growing,  most
+          significant products for the Company in a decade.
+
+     o    Bioanalytical  separation  instrumentation (liquid chromatography) and
+          Windows(R)   software  detect  and  quantify  low   concentrations  of
+          substances in biological fluids and tissues.
+
+     o    A wide-range of chemical analyzers that use  electrochemistry,  liquid
+          chromatography   and  enzymology   analyze  trace  levels  of  organic
+          chemicals such as neurotransmitters in biological samples.
+
+     o    Diagnostic  kits  and  procedures  are  designed  to add  value to the
+          Company's   instrumentation  and  enable  clinical   laboratories  and
+          pharmaceutical researchers to determine the presence of multiple drugs
+          in blood plasma and to measure neurotransmitters and their metabolites
+          in plasma and urine.
+
+
+
+                                     - 7 -
+<PAGE>
+
+     o    A  line  of  miniaturized  in  vivo  sampling  devices,   marketed  to
+          veterinary  research  centers,  pharmaceutical  companies  and medical
+          research  centers,  assist  in  the  study  of  a  number  of  medical
+          conditions including stroke, depression, Parkinson's disease, diabetes
+          and osteoporosis.
+
+Clients
+
+     Over the past five years, the Company  regularly has provided  services and
+products to most of the top 25 pharmaceutical  companies in the world, as ranked
+by 2000 research and development spending. In fiscal 2001, the Company estimates
+that  more than 40% of its total  revenue  was  derived  from  these  companies.
+Approximately 20% of the Company's revenues are generated from customers outside
+the United States.
+
+     The  Company  redirected  its sales team in the middle of fiscal  2000,  to
+target pharmaceutical  companies with annual revenues less than $1 billion, with
+the belief  that risk of client  concentration  could be reduced if  distributed
+over a broader  account base.  The company also believes that  companies of this
+size are less likely to have  resources  comparable  to the  Company's  and will
+consequently be more inclined to establish a consistent, long-term relationship.
+
+Sales and Marketing
+
+     Although early client relationships grew primarily through direct, internal
+recommendations among major pharmaceutical manufacturers,  the current sales and
+marketing  plan  focuses  on key  account  development  among the top 200 global
+pharmaceutical  companies.  The Company recognizes that its growth and continued
+customer  satisfaction  depend upon its ability to continually improve its sales
+and marketing functions. The key account development program is succeeding.
+
+     In North America, the Company's products are sold directly to the end user.
+The Company has 20 sales personnel and an equal number  providing  technical and
+development  support.  The Company  also has created a  collection  of catalogs,
+training and technical support literature,  video tapes,  CD-Rom  presentations,
+web sites, workshops and academic publications.
+
+     Sales,  marketing  and technical  support are based in the  Company's  main
+office located in West Lafayette, Indiana. The Company also maintains offices in
+Evansville, Indiana, New Jersey, and Warwickshire and Congleton, UK, each with a
+sales and technical staff,  enabling the Company to present the Company in close
+proximity  to its largest  concentration  of key  customers.  The  Company  also
+maintains   sales  and  technical   support   capabilities  in  North  Carolina,
+Massachusetts, New York, Ohio, Texas, Pennsylvania, New Jersey and Kansas.
+
+     The Company's  primary  marketing  and sales  strategy is to be more client
+focused and to further strengthen  communications with its markets.  The Company
+will build on its long history of innovation and technical excellence.
+
+     BAS  Analytics,  Ltd., a wholly-owned  subsidiary of the Company,  provides
+direct liaison with research service clients in the United Kingdom and maintains
+a  laboratory  to  provide  those  services.  BAS  Instruments,   Ltd.,  also  a
+wholly-owned subsidiary of the Company, manages most product sales in Europe. In
+addition,  the  Company has a network of more than 20  established  distributors
+covering Japan, the Pacific Basin, South America,  the Middle East, India, South
+Africa and Eastern Europe.  All of the Company's  distributor  relationships are
+managed  from  the   Company's   headquarters   in  West   Lafayette,   Indiana.
+International growth is planned through  acquisitions,  stronger local promotion
+and significant expansion of the Company's distributor network.
+
+Contractual Arrangements
+
+     The Company's  service contracts  typically  establish an estimated fee for
+identified  services.  In most cases,  some percentage of the contract costs are
+paid in advance.  While the Company is  performing  a  contract,  clients  often
+adjust the scope of  services  to be provided by the Company in light of interim
+project results, at which time the fee is adjusted accordingly.  Generally,  the
+Company's  fee-for-service  contracts are  terminable by the client upon written
+notice of 30 days or less. Contracts may be terminated for a variety of reasons,
+including  the client's  decision to forego a particular  study,  the failure of
+product  prototypes to satisfy safety  requirements  and unexpected or undesired
+results of product testing. The loss of a large contract or the loss of multiple
+contracts could adversely affect the Company's future revenue and profitability.
+
+
+                                     - 8 -
+<PAGE>
+
+Backlog
+
+     Considering that the  arrangements,  pursuant to which the Company provides
+its services, are terminable upon written notice of 30 days or less, the Company
+does not  calculate  backlog for the  services it provides  and does not believe
+that determining such amount would provide a meaningful  indicator of the future
+performance of its services unit. Backlog for the Company's products consists of
+booked  purchase  orders for products  which have not been shipped.  The Company
+rarely  has a backlog  for its  products  of more than one month of sales.  Many
+products are shipped within 24 hours of receipt of order.
+
+Competition
+
+     With respect to its services,  the Company competes primarily with in-house
+research, development,  quality control and other support service departments of
+pharmaceutical  and biotechnology  companies.  There are also full-service CRO's
+that compete in this  industry.  The largest CRO  competitors  offering  similar
+research services include Covance,  Inc.,  Pharmaceutical  Product  Development,
+Inc.,  AAIpharma,  Inc. and MDS Health Group Ltd. CROs generally  compete on the
+basis of previous  experience and medical and  scientific  expertise in specific
+therapeutic areas, quality of contract research,  ability to organize and manage
+large-scale trials on a global basis, medical database management  capabilities,
+ability to  provide  statistical  and  regulatory  services,  ability to recruit
+investigators,  ability to  integrate  information  technology  with  systems to
+improve the  efficiency  of contract  research,  existence  of an  international
+presence with strategically located facilities, financial viability and price.
+
+     With respect to its  products,  the Company  competes  with  several  large
+equipment manufacturers,  including Agilent, Waters Corporation and Perkin Elmer
+Corporation. Competitive factors include product quality, reliability and price.
+The Company  believes it competes  favorably in its niche target markets because
+of its ability to combine quality products with technical assistance and service
+to meet customer needs.
+
+     Many  of the  Company's  competitors  are  much  larger  and  have  greater
+resources than the Company,  which makes it difficult for the Company to capture
+share from clients other than those who need the Company's unique capabilities.
+
+Government Regulation
+
+     The  services  performed  by the Company are subject to various  regulatory
+requirements  designed to ensure the quality and integrity of pharmaceutical and
+diagnostic products.  These regulations are governed primarily under the Federal
+Food, Drug and Cosmetic Act, as well as associated GLP and GMP regulations which
+are  administered  by the FDA in  accordance  with current  industry  standards.
+Noncompliance  by the  Company  with GLP and GMP  regulations  could  result  in
+disqualification  of data  collected  by the  Company in a  particular  project.
+Material  violation  of GLP or  GMP  requirements  could  result  in  additional
+regulatory sanctions and, in severe cases, could also result in a discontinuance
+of  selected  Company  operations.  Such  discontinuance  could  have a material
+adverse  effect on the Company's  business,  financial  condition and results of
+operations.
+
+     To help assure  compliance  with  applicable  regulations,  the Company has
+established  quality  assurance  controls at its facilities that monitor ongoing
+compliance by auditing test data and regularly inspecting facilities, procedures
+and other GMP compliance parameters. In addition, FDA regulations and guidelines
+serve  as  a  basis  for  the  Company's  standard  operating  procedures  where
+applicable. Some of the Company's development and testing activities are subject
+to the Controlled  Substances Act  administered by the Drug  Enforcement  Agency
+(DEA), which strictly regulates all narcotic and habit-forming  substances.  The
+Company maintains restricted-access facilities and heightened control procedures
+for projects  involving  such  substances due to the level of security and other
+controls  required by the DEA. In  addition to FDA  regulations,  the Company is
+subject  to other  federal  and state  regulations  concerning  such  matters as
+occupational safety and health and protection of the environment.
+
+     The Company's  activities involve the controlled use of hazardous materials
+and chemicals. The Company is subject to foreign,  federal, state and local laws
+and  regulations  governing  the use,  storage,  handling  and  disposal of such
+materials and certain waste products.  The risk of accidental  contamination  or
+injury from these  materials  cannot be completely  eliminated.  In the event of
+such an accident,  the Company could be held liable for any damages that result.
+Such damages could have a material adverse effect on the Company's  business and
+results of operations.
+
+
+
+                                     - 9 -
+<PAGE>
+
+Product Liability and Insurance
+
+     The  Company  maintains  product  liability  and  professional  errors  and
+omissions liability insurance,  providing approximately $6.0 million in coverage
+on a claims-made basis. Additionally, in certain circumstances the Company seeks
+to manage  its  liability  risk  through  contractual  provisions  with  clients
+requiring  the  Company to be  indemnified  by the client or covered by clients'
+product liability insurance policies.  Also, in certain types of engagements the
+Company  seeks to limit its  contractual  liability  to clients to the amount of
+fees  received  by the  Company.  The  contractual  arrangements  are subject to
+negotiation  with  clients  and the  terms  and  scope of such  indemnification,
+liability  limitation and insurance coverage vary based upon client and project.
+Although most of the Company's  clients are large,  well-capitalized  companies,
+the financial  performance of these indemnities is not secured.  Therefore,  the
+Company  bears the risk that the  indemnifying  party may not have the financial
+ability to fulfill  its  indemnification  obligations  or that  liability  would
+exceed the amount of  applicable  insurance.  Furthermore,  the Company could be
+held  liable  for  errors and  omissions  in  connection  with the  services  it
+performs.  There can be no assurance that the Company's  insurance coverage will
+be adequate,  or that insurance  coverage will continue to be available on terms
+acceptable  to the  Company,  or that the  Company  can  obtain  indemnification
+arrangements or otherwise be able to limit its liability risk.
+
+Employees
+
+     At September  30, 2001,  the Company had 260  full-time  employees,  152 of
+which hold college  degrees,  including 35 at the doctoral level.  All employees
+enter  into  confidentiality   agreements  intended  to  protect  the  Company's
+proprietary  information.  The  Company  believes  that its  relations  with its
+employees are good. None of the Company's  employees are represented by a union.
+The Company's performance depends on its ability to attract and retain qualified
+professional,  scientific and technical  staff.  The level of competition  among
+employers for skilled  personnel is high. The Company believes that its employee
+benefit  plans  enhance  employee  morale,   professional  commitment  and  work
+productivity  and provide an incentive for employees to remain with the Company.
+While the Company has not  experienced  any unusual  problems in  attracting  or
+retaining qualified  personnel,  there can be no assurance that the Company will
+be able to avoid these problems in the future.
+
+
+Item 2.  Properties
+
+     The Company's  principal executive offices are located at 2701 Kent Avenue,
+West Lafayette, Indiana, 47906, and constitute approximately 100,000 square feet
+of operational and administrative space. The BAS Evansville facility consists of
+seven buildings with 50,000 square feet of operational and administrative  space
+on 52  acres.  The  Company  also  maintains  offices  which  provide  sales and
+technical  support  services in New Jersey and the United  Kingdom,  and employs
+sales and technical support service  representatives  in North Carolina,  Texas,
+Massachusetts,  Pennsylvania  and New  Jersey.  The  Company  believes  that its
+facilities  are  adequate  for  the  Company's   operations  and  that  suitable
+additional space will be available when needed.
+
+Item 3.  Legal Proceedings
+
+     In April,  1997,  CMA  Microdialysis  Holding  A.B.  (CMA)  filed an action
+against the Company in the United States  District Court for the District of New
+Jersey in which CMA alleged that the  Company's  microdialysis  probes  infringe
+U.S.  Patent No.  4,694,832.  During the quarter  ended  December 31, 2000,  the
+Company settled this case for an immaterial amount.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+     Not applicable.
+
+                  [Remainder of page intentionally left blank.]
+
+
+                                     - 10 -
+<PAGE>
+
+                                     Part II
+
+Item 5. Market for Registrant's Common Equity and Related Stockholder Matters
+
+     Market for Registrant's  Common Equity and Related  Stockholder  Matters on
+the last page of our 2001 Annual Report is incorporated by reference.
+
+                  [Remainder of page intentionally left blank.]
+
+
+                                     - 11 -
+<PAGE>
+
+Item 6. Selected Financial Data
+
+     You can find  Selected  Financial  Data for  each of our five  most  recent
+fiscal  years  on the  first  page of our 2001  Annual  Report  under  "Selected
+Consolidated Financial Data". That information is incorporated in this Report by
+reference.
+
+Item 7. Management's  Discussion and Analysis of Financial Condition and Results
+of Operations
+
+     You can find  Management's  Discussion and Analysis of Results of Financial
+Condition  and  Operations  on  pages  10-13  of our 2001  Annual  Report.  This
+information is incorporated in this Report by reference.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+     Not Applicable.
+
+
+Item 8. Financial Statements and Supplementary Data
+
+     You can find the consolidated  financial  statements of the Company and its
+subsidiaries  in our 2001  Annual  Report at pages 14-17  (Consolidated  Balance
+Sheets,  Consolidated  Statements  of  Operations,  Consolidated  Statements  of
+Shareholders' Equity and Consolidated  Statements of Cash Flows) and pages 18-27
+(Notes  to  Consolidated  Financial  Statements).  You can  find the  Report  of
+Independent  Auditors  at page 28 of our 2001  Annual  Report.  All of the above
+information is incorporated in this Report by reference.
+
+     Also  incorporated  by reference  is  information  on quarterly  results of
+operations,  which  can be found  in our 2001  Annual  Report  under  "Quarterly
+Financial Data (unaudited)" at page 9.
+
+Item  9.  Changes  in and  Disagreements  with  Accountants  on  Accounting  and
+Financial Disclosure
+
+     None.
+
+                  [Remainder of page intentionally left blank.]
+
+
+                                     - 12 -
+<PAGE>
+
+                                    Part III
+
+Item 10.  Directors and Executive Officers of the Registrant.
+
+Name                           Age                    Position
+----                           ---                    --------
+
+Peter T. Kissinger, Ph.D.......57..........Chairman of the Board;
+                                           President; Chief Executive Officer
+Ronald E. Shoup, Ph.D..........50..........President, BAS Analytics; Director
+Douglas P. Wieten..............40..........Vice President, Finance; Chief
+                                           Financial Officer; Treasurer
+Candice B. Kissinger...........50..........Senior Vice President, Marketing;
+                                           Secretary and Director
+Craig S. Bruntlett, Ph.D.......52..........Senior Vice President,
+                                           International Sales
+Donnie A. Evans................55..........Vice President, Engineering
+Stephen Geary, Ph.D............60..........Vice President, United States Sales
+Lina L. Reeves-Kerner..........51..........Vice President, Human Resources
+Michael P. Silvon..............54..........Vice President, Business
+                                           Development
+Michelle L. Troyer.............30..........Corporate Controller
+William E. Baitinger...........68..........Director
+Michael K. Campbell............50..........Director
+John A. Kraeutler..............56..........Director
+W. Leigh Thompson..............63..........Director
+
+     PETER T. KISSINGER, PH.D. founded the Company in 1974 and has served as its
+Chairman,  President  and  Chief  Executive  Officer  since  1974.  He is also a
+part-time  Professor  of  Chemistry  at  Purdue  University,  where  he has been
+teaching  since  1975.  Dr.  Kissinger  has a  Bachelor  of  Science  degree  in
+Analytical  Chemistry from Union College and a Doctorate in Analytical Chemistry
+from the University of North Carolina.
+
+     RONALD E. SHOUP,  PH.D.  serves as President of the Company's BAS Analytics
+contract services and is Managing Director of BAS Analytics,  Ltd. in the UK. He
+joined BAS in 1980 as an applications chemist,  became Research Director in 1983
+and initiated the laboratory  services group within BAS in 1988. Dr. Shoup has a
+Bachelor of Science degree in Mathematics  and Chemistry from Purdue  University
+and  then  attended  Michigan  State  and  Purdue  University  for  his  Ph.D in
+Analytical  Chemistry.  He serves on the  Company's  board of directors and is a
+member of the external  advisory  board to the Purdue  University  Department of
+Chemistry.
+
+     DOUGLAS P. WIETEN has been Vice  President,  Finance since  February  1999,
+Chief Financial  Officer since September 1997 and Treasurer since March 1997. He
+served as Corporate  Controller from 1992 to February 1999.  Prior to that time,
+Mr. Wieten worked at Ernst & Young LLP,  where he had been employed  since 1984.
+Mr. Wieten is a certified public accountant and has a Bachelor of Science degree
+in Accounting from Butler University.
+
+     CANDICE B.  KISSINGER  has been  Senior  Vice  President,  Marketing  since
+January 2000. She served as Vice  President,  International  Sales and Marketing
+since  July  1981.  From 1978 to 1981,  Mrs.  Kissinger  served  as an  accounts
+receivable  clerk.   Mrs.   Kissinger  has  a  Bachelor  of  Science  degree  in
+Microbiology  from Ohio Wesleyan  University  and a Master of Science  degree in
+Food Science from the University of Massachusetts. Mrs. Kissinger is the wife of
+Dr. Peter Kissinger.
+
+     CRAIG S. BRUNTLETT,  PH.D. has been Senior Vice President of  International
+Sales  since   January  2000.   From  1992  to  1999  he  was  Vice   President,
+Electrochemical  Products.  From 1980 to 1990, Dr. Bruntlett was Director of New
+Products  Development  for the  Company.  Dr.  Bruntlett  has a Bachelor of Arts
+degree in Chemistry and Mathematics from St. Cloud State University in Minnesota
+and a Ph.D. in Chemistry from Purdue University.
+
+     DONNIE A.  EVANS he has been Vice  President,  Engineering  Services  since
+January of 1988. Mr. Evans was the Company's first full-time employee, beginning
+as an electronics engineer in 1978.
+
+
+
+                                     - 13 -
+<PAGE>
+
+     STEPHEN  GEARY,  PH.D has been Vice  President,  United  States Sales since
+January  1992.  Dr.  Geary is also  responsible  for the  sales  efforts  of the
+Company's  clinical  products.  Dr.  Geary has a Bachelor  of Science  degree in
+Biology  and  Chemistry  from Tufts  University,  a Master of Science  degree in
+Biology from the  University of New Hampshire and a Ph.D. in  Biochemistry  from
+Syracuse University.
+
+     LINA L.  REEVES-KERNER has been Vice President,  Human Resources since 1995
+and is  responsible  for the  administrative  support  functions of the Company,
+including shareholder relations,  human resources and community relations.  From
+1980 to 1990, Ms. Reeves-Kerner  served as an Administrative  Assistant with the
+Company.  Ms.  Reeves-Kerner  has a  Bachelor  of  Science  degree  in  Business
+Administration from Indiana Wesleyan University.
+
+     MICHAEL P. SILVON,  PH.D.  has been Vice  President,  Business  Development
+since March 1997.  Dr.  Silvon has been  general  manager,  BAS  Evansville  and
+Vetronics since January 2000. Prior to January 1997, Dr. Silvon was principal in
+his own consulting firm and Vice President Sales & Marketing at Hi-Port, Inc. in
+Houston,   Texas.   Before  October  1993,  Dr.  Silvon  was  Regional  Business
+Manager-Americas  for Zeneca  Fine  Chemical.  He has a  Bachelor  of Science in
+Chemistry from Loyola University of Chicago, a Master of Business Administration
+from Sacred Heart University and a Doctorate in Chemistry from the University of
+Vermont.
+
+     MICHELLE L. TROYER has been the Corporate  Controller  since February 1999.
+Ms. Troyer joined the Company in 1994 as a Staff Accountant and became Assistant
+Controller  in October  1996.  Ms.  Troyer has a Bachelor  of Science  degree in
+Accounting from Purdue University and is a certified public accountant.
+
+     WILLIAM E.  BAITINGER  has served as a director of the Company  since 1979.
+Mr.  Baitinger  was  Director of  Technology  Transfer  for the Purdue  Research
+Foundation  from 1988 until 2000.  In this capacity he was  responsible  for all
+licensing and commercialization  activities from Purdue University. He currently
+serves  as  Special  Assistant  to the Vice  President  for  Research  at Purdue
+University.  Mr.  Baitinger  has a Bachelor of Science  degree in Chemistry  and
+Physics from Marietta  College and a Master of Science  degree in Chemistry from
+Purdue University.
+
+     MICHAEL K. CAMPBELL has served as a director of the Company since 1991. Mr.
+Campbell has been the Chairman and Chief Executive Officer of Powerway,  Inc., a
+software company,  since May 1993. From November 1989 until January 1993, he was
+Chief  Financial  Officer  of  Hurco  Companies,  Inc.  and  president  of Hurco
+Manufacturing,  its largest  division.  He has a Bachelor  of Science  degree in
+Accounting from the University of Southern Indiana.
+
+     JOHN A.  KRAEUTLER  has served as a director of the Company  since  January
+1997. Mr.  Kraeutler has been President and Chief Operating  Officer of Meridian
+Bioscience,  Inc.  since  August 1992 and is also a  director.  Prior to joining
+Meridian  Bioscience,  Inc.,  Mr.  Kraeutler  held a  progression  of technical,
+marketing  and  general  management   positions  with  a  number  of  healthcare
+companies, including Carter-Wallace,  Becton Dickinson and Organon (Akzo Nobel).
+Mr.  Kraeutler  has  Bachelor  and  Master of Science  degrees  in biology  from
+Fairleigh  Dickinson  University  and a Master  of  Business  Administration  in
+marketing from Seton Hall University.
+
+     W. LEIGH  THOMPSON,  PH.D.,  M.D.  has served as a director  of the Company
+since January 1997. Since 1995, Dr. Thompson has been Chief Executive Officer of
+Profound Quality Resources,  Inc., a scientific  consulting firm. Prior to 1995,
+Dr. Thompson held various positions at Lilly Research Laboratories,  retiring as
+Chief  Scientific  Director.  Dr.  Thompson has a Bachelor of Science  degree in
+Biology  from the College of  Charleston,  a Master of Science,  a Doctorate  in
+Pharmacology  and a Doctorate  in Science from the Medical  University  of South
+Carolina and a Medical  Doctor  degree from The Johns  Hopkins  University.  Dr.
+Thompson  is also a director  of  Chrysalis  International  Corporation,  Corvas
+International,   Inc.  GeneMedicine,  Inc.,  La  Jolla  Pharmaceutical  company,
+Medarex, Inc., Ophidian Pharmaceuticals, Inc. and Orphan Medical, Inc.
+
+
+Item 11.  Executive Compensation.
+
+     The  information  included  under the  captions  "Election  of  Directors -
+Compensation of Directors" and "Executive  Compensation"  in the Proxy Statement
+is incorporated herein by reference in response to this item.
+
+
+                                     - 14 -
+<PAGE>
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management.
+
+     The information  contained  under the captions "Share  Ownership of Certain
+Beneficial Owners and Management" in the Proxy Statement is incorporated  herein
+by reference in response to this item.
+
+
+Item 13.  Certain Relationships and Related Transactions.
+
+     The information  contained under the caption "Certain  Transactions" in the
+Proxy Statement is incorporated herein by reference in response to this item.
+
+
+                  [Remainder of page intentionally left blank.]
+
+
+                                     - 15 -
+<PAGE>
+
+                                     Part IV
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+     (a) Documents filed as part of this Report.
+
+          1.   Financial Statements:
+
+               Included as outlined in Item 8 of Part II of this report.
+
+               Report of Independent Auditors.
+
+               Consolidated   Balance  Sheets  as  of  September  30,  2001  and
+               September 30, 2000.
+
+               Consolidated   Statements  of  Operations  for  the  Years  Ended
+               September 30, 2001, 2000 and 1999.
+
+               Consolidated  Statements  of  Shareholders'  Equity for the Years
+               Ended September 30, 2001, 2000 and 1999.
+
+               Consolidated  Statements  of  Cash  Flows  for  the  Years  Ended
+               September 30, 2001, 2000 and 1999.
+
+               Notes to Consolidated Financial Statements.
+
+
+          2.   Financial Statement Schedules:
+
+               Schedules  are  not  required,   are  not   applicable,   or  the
+               information is shown in the Notes to the  Consolidated  Financial
+               Statements.
+
+     (b) Reports on Form 8-K. None.
+
+     (c) Exhibits. See Index to Exhibits.
+
+
+
+                                     - 16 -
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant  to the  requirements  of  Section  13 or 15(d) of the  Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+                            BIOANALYTICAL SYSTEMS, INC.
+                            ---------------------------
+                                     (Registrant)
+
+
+                            By:  /s/ Peter T. Kissinger
+                                 -----------------------------------------------
+                                 Peter T. Kissinger
+                                 President, Chairman and Chief Executive Officer
+
+
+                            By:  /s/ Douglas P. Wieten
+                                 -----------------------------------------------
+                                 Douglas P. Wieten
+                                 Chief Financial Officer, Treasurer, VP Finance
+                                 (Principal Financial and Accounting Officer)
+
+Date:  December 27, 2001
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following  persons on behalf of the  Registrant and
+in the capacities and on the dates indicated.
+
+Signature                      Capacity                        Date
+---------                      --------                        ----
+
+
+/s/ Peter T. Kissinger         President, Chairman Chief       December 27, 2001
+----------------------------   Executive Officer and
+Peter T. Kissinger             Director
+
+
+/s/ Douglas P. Wieten          Chief Financial Officer,        December 27, 2001
+----------------------------   and Treasurer
+Douglas P. Wieten
+
+
+/s/ William E. Baitinger       Director                        December 27, 2001
+----------------------------
+William E. Baitinger
+
+
+/s/ Michael K. Campbell        Director                        December 27, 2001
+----------------------------
+Michael K. Campbell
+
+
+/s/ Candice B. Kissinger       Director                        December 27, 2001
+----------------------------
+Candice B. Kissinger
+
+
+/s/ John A. Kraeutler          Director                        December 27, 2001
+----------------------------
+John A. Kraeutler
+
+
+/s/ Ronald E. Shoup            Director                        December 27, 2001
+----------------------------
+Ronald E. Shoup
+
+
+/s/ W. Leigh Thompson          Director                        December 27, 2001
+----------------------------
+W. Leigh Thompson
+
+
+                                     - 17 -
+<PAGE>
+
+                               INDEX TO EXHIBITS
+
+
+                                                                     Sequential
+    Number                                                            Numbering
+ Assigned In                                                         System Page
+Regulation S-K                                                        Number of
+   Item 601                 Description of Exhibits                    Exhibit
+--------------              -----------------------                  -----------
+
+    (2)             No Exhibit
+
+    (3)    3.1      Second  Amended  and  Restated   Articles  of
+                    Incorporation of Bioanalytical  Systems, Inc.
+                    (Incorporated  by reference to Exhibit 3.1 to
+                    Form 10-Q for the quarter ended  December 31,
+                    1997).
+
+           3.2      Second  Restated   Bylaws  of   Bioanalytical
+                    Systems,  Inc.  (Incorporated by reference to
+                    Exhibit  3.2 to Form  10-Q  for  the  quarter
+                    ended December 31, 1997).
+
+    (4)    4.1      Specimen   Certificate   for  Common   Shares
+                    (Incorporated  by reference to Exhibit 4.1 to
+                    Registration    Statement    on   Form   S-1,
+                    Registration No. 333-36429).
+
+           4.2      See Exhibits 3.1 and 3.2
+
+
+    (9)             No Exhibit
+
+    (10)   10.2     Bioanalytical  Systems, Inc. Outside Director
+                    Stock Option Plan  (Incorporated by reference
+                    to Exhibit 10.2 to Registration  Statement on
+                    Form S-1, Registration No. 333-36429).
+
+           10.3     Form of Bioanalytical  Systems,  Inc. Outside
+                    Director Stock Option Agreement (Incorporated
+                    by reference to Exhibit 10.3 to  Registration
+                    Statement  on  Form  S-1,   Registration  No.
+                    333-36429).
+
+           10.4     Bioanalytical  Systems,  Inc.  1990  Employee
+                    Incentive Stock Option Plan  (Incorporated by
+                    reference  to  Exhibit  10.4 to  Registration
+                    Statement  on  Form  S-1,   Registration  No.
+                    333-36429).
+
+           10.5     Form  of  Bioanalytical  Systems,  Inc.  1990
+                    Employee  Incentive  Stock  Option  Agreement
+                    (Incorporated by reference to Exhibit 10.5 to
+                    Registration    Statement    on   Form   S-1,
+                    Registration No. 333-36429).
+
+
+
+                             - 18 -
+<PAGE>
+
+           10.6     Bioanalytical  Systems,  Inc.  1997  Employee
+                    Incentive Stock Option Plan  (Incorporated by
+                    reference  to Exhibit  10.26 to  Registration
+                    Statement  on  Form  S-1,   Registration  No.
+                    333-36429).
+
+           10.7     Form  of  Bioanalytical  Systems,  Inc.  1997
+                    Employee  Incentive  Stock  Option  Agreement
+                    (Incorporated  by reference to Exhibit  10.27
+                    to   Registration   Statement  on  Form  S-1,
+                    Registration No. 333-36429).
+
+           10.8     1997  Bioanalytical   Systems,  Inc.  Outside
+                    Director Stock Option Plan  (Incorporated  by
+                    reference  to Exhibit  10.28 to  Registration
+                    Statement  on  Form  S-1,   Registration  No.
+                    333-36429).
+
+           10.9     Form  of  Bioanalytical  Systems,  Inc.  1997
+                    Outside   Director  Stock  Option   Agreement
+                    (Incorporated  by reference to Exhibit  10.29
+                    to   Registration   Statement  on  Form  S-1,
+                    Registration No. 333-36429).
+
+           10.10    Business   Loan   Agreement  by  and  between
+                    Bioanalytical  Systems,  Inc.,  and Bank One,
+                    Indiana, N.A. dated April 1, 2001.
+
+           10.11    Commercial  Security Agreement by and between
+                    Bioanalytical  Systems,  Inc.  and Bank  One,
+                    Indiana,    N.A.,   dated   March   1,   1998
+                    (Incorporated  by reference to Exhibit  10.15
+                    to Form 10-Q for the quarter  ended March 31,
+                    1998).
+
+           10.12    Negative  Pledge  Agreement  by  and  between
+                    Bioanalytical  Systems,  Inc.  and Bank  One,
+                    Indiana,    N.A.,   dated   March   1,   1998
+                    (Incorporated  by reference to Exhibit  10.16
+                    to Form 10-Q for the quarter  ended March 31,
+                    1998).
+
+           10.13    Promissory Note by and between  Bioanalytical
+                    Systems,  Inc.  and Bank One,  Indiana  N.A.,
+                    dated  June 24,  1999  related to loan in the
+                    amount   of   $3,500,000   (Incorporated   by
+                    reference to Exhitibit 10.18 to Form 10-Q for
+                    the quarter ended June 30, 1999).
+
+           10.14    Promissory  Note for  $3,500,000  executed by
+                    Bioanalytical  Systems, Inc. in favor of Bank
+                    One,   Indiana  N.A.,  dated  April  1,  2001
+                    (Incorporated  by reference to Exhibit  10.14
+                    to Form 10-Q for the  quarter  ended June 30,
+                    2000).
+
+    (12)            No Exhibit
+
+    (13)   13.1     2001 Annual Report
+
+    (16)            No Exhibit
+
+    (18)            No Exhibit
+
+    (21)   21.1     Subsidiaries of the Registrant
+
+    (23)   23.1     Consent of Independent Auditors
+
+    (24)            No Exhibit
+
+    (27)            No Exhibit
+
+    (99)   99.1     Risk Factors
+
+
+
+                             - 19 -
+
+</TEXT>
+</DOCUMENT>

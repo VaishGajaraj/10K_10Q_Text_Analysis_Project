@@ -1,0 +1,2511 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a4789625.txt
+<DESCRIPTION>ADDVANTAGE TECHNOLOGIES 10-K
+<TEXT>
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+                |X|ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+                  For the fiscal year ended September 30, 2004
+
+              |_|TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                         Commission file number 1-10799
+
+                       ADDVANTAGE TECHNOLOGIES GROUP, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+                Oklahoma                            73-1351610
+                --------                            ----------
+    (State or other jurisdiction of              (I.R.S. Employer
+     incorporation or organization)             Identification No.)
+
+             1605 East Iola
+         Broken Arrow, Oklahoma                        74012
+         ----------------------                        -----
+(Address of principal executive offices)            (Zip code)
+
+                  Registrant's telephone number: (918) 251-9121
+
+              Securities registered under Section 12(b) of the Act:
+                          Common Stock, $.01 par value
+
+           Securities registered under Section 12(g) of the Act: None
+
+
+
+Indicate by check mark whether the registrant (1) filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+during the past 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+         Yes      X           No
+               -----             -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and disclosure will not be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K. |_|
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Act)
+
+         Yes                  No      X
+             ------                ------
+
+The aggregate market value of the shares of common stock, par value $.01
+per share, held by non-affiliates of the issuer was $14,419,734 as of March 31,
+2004.
+
+The number of the registrant's common stock, $.01 par value per share,
+outstanding was 10,082,889 as of December 1, 2004.
+
+The identified sections of definitive Proxy Statement to be filed as
+Schedule 14A pursuant to Regulation 14A in connection with the Registrant's 2005
+annual meeting of shareholders is incorporated by reference into Part III of
+this Form 10-K. The Proxy Statement will be filed with the Securities and
+Exchange Commission within 120 days after the close of the registrant's most
+recent fiscal year.
+<PAGE>
+                       ADDVANTAGE TECHNOLOGIES GROUP, INC.
+                                    FORM 10-K
+                          YEAR ENDED SEPTEMBER 30, 2004
+                                      INDEX
+<TABLE>
+<CAPTION>
+
+
+                                                                                                 Page
+                           PART I
+<S>  <C>                                                                                            <C>
+Item 1.     Business                                                                                3
+Item 2.     Properties                                                                             11
+Item 3.     Legal Proceedings                                                                      11
+Item 4.     Submission of Matters to a Vote of Security Holders                                    11
+
+                           PART II
+
+Item 5.     Market for Registrant's Common Equity, Related Stockholder Matters and
+                Issuer Purchases of Equity Securities                                              11
+Item 6.     Selected Financial Data                                                                13
+Item 7.     Management's Discussion and Analysis of Financial Condition and Results of
+                Operation                                                                          13
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk                               20
+Item 8.     Financial Statements and Supplementary Data                                            20
+Item 9.     Changes in and Disagreements With Accountants on Accounting and
+                Financial Disclosure                                                               38
+Item 9A.  Controls and Procedures                                                                  38
+Item 9B.  Other Information                                                                        39
+
+                           PART III
+
+Item 10.    Directors and Executive Officers of the Registrant                                     39
+Item 11.    Executive Compensation                                                                 39
+Item 12.    Security Ownership of Certain Beneficial Owners and Management                         39
+Item 13.    Certain Relationships and Related Transactions                                         39
+Item 14.    Principal Accounting Fees and Services                                                 40
+
+                           PART IV
+
+Item 15.    Exhibits, Financial Statement Schedules                                                40
+</TABLE>
+
+                                       2
+<PAGE>
+
+
+
+
+                           Forward Looking-Statements
+
+Certain matters discussed in this report constitute forward-looking
+statements, within the meaning of the Private Securities Litigation Reform Act
+of 1995, including statements which relate to, among other things, expectations
+of the business environment in which the Company operates, projections of future
+performance, perceived opportunities in the market and statements regarding our
+goals and objectives and other similar matters. The words "estimates",
+"projects," "intends," "expects," "anticipates," "believes," "plans" and similar
+expressions are intended to identify forward-looking statements. These
+forward-looking statements are found at various places throughout this report
+and the documents incorporated into it by reference. These and other statements
+which are not historical facts are hereby identified as "forward-looking
+statements" for purposes of the safe harbor provided by Section 21E of the
+Securities Exchange Act of 1934, as amended, and Section 27A of the Securities
+Act of 1933, as amended. These statements are subject to a number of risks,
+uncertainties and developments beyond the control or foresight of the Company,
+including changes in the trends of the cable television industry, technological
+developments, changes in the economic environment generally, the growth or
+formation of competitors, changes in governmental regulation or taxation,
+changes in our personnel and other such factors. Our actual results,
+performance, or achievements may differ significantly from the results,
+performance, or achievements expressed or implied in the forward-looking
+statements. We do not undertake any obligation to publicly release any revisions
+to these forward-looking statements to reflect events or circumstances after the
+date of this report or to reflect the occurrence of unanticipated events.
+Readers should carefully review the risk factors described herein and in other
+documents we file from time to time with the Securities and Exchange Commission.
+
+
+                                     PART I
+
+ITEM 1.           BUSINESS
+
+Recent Developments in the Business
+
+     On September 30, 2004, the Company redeemed all of the outstanding shares
+of its Series A 5% Cumulative Convertible Preferred Stock at its aggregate
+stated value of $8 million. All of the outstanding shares of Series A Preferred
+Stock were held beneficially by David E. Chymiak, Chairman of the Board of the
+Company, and Kenneth A. Chymiak, President and Chief Executive Officer of the
+Company. The Company financed the redemption with a new credit agreement with
+its bank which includes a Revolving Credit Commitment in the amount of $7
+million and a Term Loan Commitment in the amount of $8 million. The proceeds
+from the Term Loan were used to redeem the Series A Preferred Stock.
+
+     On September 29, 2004, the Company's majority shareholders, David Chymiak
+and Ken Chymiak, entered into a stock purchase agreement in which they sold
+500,000 shares of their common stock to Barron Partners, LP ("Barron"), a
+private investment partnership, for $3.25 per share. Under this agreement,
+Barron also received options to purchase up to 3 million additional shares of
+the common stock owned by these majority shareholders. The Company did not
+receive any of the proceeds from the sale of the shares and will not receive any
+of the proceeds from the exercise of any of the options, but paid the cost of
+registering the sales for resale by the selling shareholders. The Company filed
+a registration statement covering the resale of the shares of common stock sold
+as well as the shares of common stock issuable upon exercise of the options.
+
+                                       3
+<PAGE>
+
+Risk Factors
+
+     Each of the following risk factors could adversely affect our business,
+operating results and financial condition, as well as adversely affect the value
+of an investment in our common stock. Additional risks not presently known, or
+which we currently consider immaterial also may adversely affect us.
+
+     We are highly dependent upon our principal executive officers who also
+control us. At September 30, 2004, David Chymiak, Chairman of the Board, and
+Kenneth Chymiak, President and Chief Executive Officer, owned approximately 74%
+of our outstanding common stock and 100% of our outstanding preferred stock. Our
+performance is highly dependent upon the skill, experience and availability of
+these two persons. Should either of them become unavailable to us, our
+performance and results of operations would probably be adversely affected to a
+material extent. In addition, they will continue to own a controlling interest
+in us, thus restricting our ability to take any action without their approval or
+acquiescence. Likewise, as shareholders, they may elect to take certain actions
+which may be contrary to the interests of the other shareholders.
+
+     Our business is dependent on our customers' capital budgets. Our
+performance is impacted by our customers' capital spending for constructing,
+rebuilding, maintaining or upgrading broadband communications systems. Capital
+spending in the telecommunications industry is cyclical. A variety of factors
+will affect the amount of capital spending, and therefore, our sales and
+profits, including:
+
+     o    consolidations and recapitalizations in the cable television industry;
+
+     o    general economic conditions;
+
+     o    availability and cost of capital;
+
+     o    other demands and opportunities for capital;
+
+     o    regulations;
+
+     o    demands for network services;
+
+     o    competition and technology; and
+
+     o    real or perceived trends or uncertainties in these factors.
+
+Developments in the industry and in the capital markets in recent years
+have reduced access to funding for certain customers, causing delays in the
+timing and scale of deployments of our equipment, as well as the postponement or
+cancellation of certain projects by our customers.
+
+     On the other hand, a significant increase in the capital budgets of our
+customers could impact us in a negative fashion. Much of our inventory consists
+of refurbished and surplus-new equipment and materials that we have acquired
+from other cable operators. If our customers seek higher end, more expensive
+equipment, the demand for our products may suffer.
+
+     The markets in which we operate are very competitive, and competitive
+pressures may adversely affect our results of operations. The markets for
+broadband communication equipment are extremely competitive and dynamic,
+requiring the companies that compete in these markets to react quickly and
+capitalize on change. This will require us to make quick decisions and deploy
+substantial resources in an effort to keep up with the ever-changing demands of
+the industry. We compete with national and international manufacturers,
+distributors, resellers and wholesalers including many companies larger than we
+are.
+
+                                       4
+<PAGE>
+
+     The rapid technological changes occurring in the broadband markets may lead
+to the entry of new competitors, including those with substantially greater
+resources than we have. Because the markets in which we compete are
+characterized by rapid growth and, in some cases, low barriers to entry, smaller
+niche market companies and start-up ventures also may become principal
+competitors in the future. Actions by existing competitors and the entry of new
+competitors may have an adverse effect on our sales and profitability. The
+broadband communications industry is further characterized by rapid
+technological change. In the future, technological advances could lead to the
+obsolescence of a substantial portion of our current inventory, which could have
+a material adverse effect on our business.
+
+     Consolidations in the telecommunications industry could result in delays or
+reductions in purchases of products, which would have a material adverse effect
+on our business. The telecommunications industry has experienced the
+consolidation of many industry participants, and this trend is expected to
+continue. We and one or more of our competitors may each supply products to
+businesses that have merged, such as AT&T Broadband and Comcast, or will merge
+in the future. Consolidations could result in delays in purchasing decisions by
+the merged businesses, and we could play either a greater or lesser role in
+supplying the communications products to the merged entity. These purchasing
+decisions of the merged companies could have a material adverse effect on our
+business. Mergers among the supplier base also have increased, and this trend
+may continue. The larger combined companies with pooled capital resources may be
+able to provide solution alternatives with which we would be at a disadvantage
+to compete. The larger breadth of product offerings by these consolidated
+suppliers could result in customers electing to trim their supplier base for the
+advantages of one-stop shopping solutions for all of their product needs.
+Consolidation of the supplier base could have a material adverse effect on our
+business.
+
+     Our success depends in large part on our ability to attract and retain
+qualified personnel in all facets of our operations. Competition for qualified
+personnel is intense, and we may not be successful in attracting and retaining
+key executives, marketing, engineering and sales personnel, which could impact
+our ability to maintain and grow our operations. Our future success will depend,
+to a significant extent, on the ability of our management to operate
+effectively. The loss of services of any key personnel, the inability to attract
+and retain qualified personnel in the future or delays in hiring required
+personnel, particularly engineers and other technical professionals, could
+negatively affect our business.
+
+     We are substantially dependent on certain manufacturers, and an inability
+to obtain adequate and timely delivery of products could adversely affect our
+business. We are a value added reseller and master distributor for
+Scientific-Atlanta and a value added reseller of Motorola broadband and
+transmission products. Should these relationships terminate or deteriorate, or
+should either manufacturer be unable or unwilling to deliver the products needed
+by us for our customers, our performance could be adversely impacted. An
+inability to obtain adequate deliveries or any other circumstance that would
+require us to seek alternative sources of supplies could affect our ability to
+ship products on a timely basis. Any inability to reliably ship our products on
+time could damage relationships with current and prospective customers and harm
+our business.
+
+     We have a large investment in our inventory which could become obsolete or
+outdated. Much of our inventory is acquired from other cable operators and is in
+the nature of used, refurbished, remanufactured or surplus new equipment.
+Determining the amounts and types of inventory requires us to speculate to some
+degree as to what the future demands of our customers will be. Technological
+changes, consolidation in the industry or competition from other types of
+broadcast media could substantially reduce the demands for our inventory, which
+could have a material adverse effect upon our business and financial results.
+
+                                       5
+<PAGE>
+
+     Our outstanding common stock is very thinly traded. While we have
+approximately 10.1 million shares of common stock outstanding, 69.2% of these
+shares are beneficially owned at December 1, 2004 by David Chymiak and Kenneth
+Chymiak and 4.9% are beneficially held by Barron Partners, L.P. As a
+consequence, only about 21% of our shares of common stock are held by
+nonaffiliated, public investors and available for public trading. The average
+daily trading volume of our common stock is low. Thus, investors in our common
+stock may encounter difficulty in liquidating their investment in a timely and
+efficient manner.
+
+     We have not paid any dividends on our outstanding common stock and have no
+plans to pay dividends in the future. We currently plan to retain our earnings
+and have no plans to pay dividends on our common stock in the future. We may
+also enter into credit agreements or other borrowing arrangements which may
+restrict our ability to declare dividends on our common stock.
+
+     Our principal executive officers and shareholders have a number of
+conflicts of interest with us. Certain of our key properties are leased from
+entities owned by our principal executive officers. Also, these executives have
+made loans to us in various amounts in the past and were paid interest on these
+loans. These transactions are described in the proxy statement that is
+incorporated by reference into this report. These arrangements create certain
+conflicts of interest between these executives and us that may not always be
+resolved in a manner most beneficial to us.
+
+     Our international operations may be adversely affected by a number of
+factors. Although the majority of our business efforts are focused in the United
+States, we have international operations in the Philippines, Taiwan, Korea,
+Japan, Australia, Brazil, Ecuador, Dominican Republic, Honduras and a few other
+Latin American countries. We currently have no binding agreements or commitments
+to make any material international investment. Our foreign operations may be
+adversely affected by a number of factors, including:
+
+     o    local political and economic developments could restrict or increase
+          the cost of our
+
+     o    foreign operations;
+
+     o    exchange controls and currency fluctuations;
+
+     o    tax increases and retroactive tax claims could increase costs of our
+          foreign operations;
+
+     o    expropriation of our property could result in loss of revenue,
+          property and equipment;
+
+     o    import and export regulations and other foreign laws or policies could
+          result in loss of revenues; and
+
+     o    laws and policies of the United States affecting foreign trade,
+          taxation and investment could restrict our ability to fund foreign
+          operations or make foreign operations more costly.
+
+                                       6
+<PAGE>
+Current Business
+
+     We are a supplier of a comprehensive line of electronics and hardware for
+the cable television ("CATV") industry (both franchise and non-franchise, or
+private cable). Our products are used to acquire, distribute and protect the
+broad range of communications signals carried on fiber optic, coaxial cable and
+wireless distribution systems. These products are sold to customers providing an
+array of communications services including television, high-speed data
+(internet) and telephony, to single family dwellings, apartments and
+institutions such as hospitals, prisons, universities, schools, cruise boats and
+others.
+
+     TULSAT, one of our subsidiaries, is an exclusive Scientific-Atlanta Master
+Distributor for certain legacy products and distributes most of
+Scientific-Atlanta's other products. TULSAT has been designated an authorized
+third party Scientific-Atlanta repair center for selected products. Another
+subsidiary, NCS Industries, is a leading distributor of Motorola broadband
+products. Other subsidiaries distribute Standard, Corning-Gilbert,
+Blonder-Tongue, RL Drake, Quintech and Videotek products. We continue to upgrade
+our products to stay in the forefront of the communications broadband technology
+revolution.
+
+     We continue to expand our core product lines (head end and distribution),
+to maintain the ability to provide electronics equipment needed to build smaller
+cable systems and much of the equipment needed in larger systems for the most
+efficient operation and highest profitability in high density areas.
+
+     We also continue to purchase surplus equipment from cable operators and
+others that become available as a result of upgrades in their systems or
+overstocks in their warehouses. We maintain one of the industries' largest
+inventories of new and refurbished equipment, allowing us to provide products
+within a short period of time. Each of our six locations operates service
+centers specializing in Motorola, Magnavox, Scientific-Atlanta and Alpha Power
+Supplies repairs.
+
+Overview of the Industry
+
+     We participate in markets for equipment sold primarily to cable operators
+and other related parties. As internet usage by households continues to
+increase, more customers are electing to switch from dial-up access services to
+high-speed services, particularly those offered by cable operators in the United
+States. Within the last few years, certain cable operators have begun to offer a
+"triple-play" bundle of services that includes voice, video and high-speed data
+over a single network with the objective of capturing higher average revenues
+per subscriber. We believe cable operators are well positioned to deliver
+next-generation voice, video and data services because cable operators have
+invested significantly over the past few years to upgrade their cable plants to
+digital networks. These upgrades allow them to leverage their incumbent video
+and high speed data positions further. Many cable operators have well-equipped
+networks to offer video and two-way high-speed data services to over 90% of
+their subscribers and through their existing Hybrid Fiber Co-axial (HFC)
+infrastructure, are capable of delivering symmetrical high-bandwidth video,
+voice and data to their subscribers.
+
+     For the past couple of years, we believe that we have been able to provide
+the products and services sought after by cable operators as they establish and
+expand their services and territories. Our relationships with our principal
+vendors, Scientific-Atlanta and Motorola, provide solutions with products that
+are required to implement and support existing cable operators. These
+relationships and our inventory are key factors in our significant revenue and
+profits.
+
+                                       7
+<PAGE>
+
+     We are focused on the opportunities provided by technological changes in
+fiber-to-the premises, the expansion of bandwidth, and our recent appointment as
+a Scientific-Atlanta International Distributor for Latin and South America. We
+will continue to stock legacy CATV equipment as well as digital and optical
+broadband telecommunications equipment from major suppliers so we can provide
+our customers one-stop shopping and access to "hard-to-find" products by
+reducing customer downtime by our having the product in stock. Our customers
+consult with us for solutions for various products and configurations. We have
+the technical know-how from our experienced sales support staff. Through our six
+"world-class" service centers that provide warranty and out-of-warranty repairs,
+we continue to reach new customers.
+
+Business of the Company
+
+     We continue to add products and services to maintain and expand our current
+customer base in North America, Latin and South America, Europe and the Far
+East. Recently, Scientific-Atlanta has appointed one of our subsidiaries, Tulsat
+Corporation, to become one of their non-exclusive distributors in Latin and
+South America. Since the appointment, management has made several trips to the
+area, visiting with relationships that had previously been developed by our new
+sales associate for this area. In addition, Tulsat has contracted for 12 months
+of advertising in the leading magazine for the cable equipment market in this
+area and Spain.
+
+     Economics seem to be improving for the international cable operators in
+Latin and South America. The continuing advances in technology, products and
+services will continue to create a better financial model for potential
+customers. We require prepayment of purchases or letters of credit from U.S.
+banks prior to shipment of products to most international customers. Recently,
+we have found several other methods of guaranteeing payment through insurance
+companies or government agencies. The successful implementation of alternative
+methods of payments should put our companies in a better position to capture
+market share.
+
+         Geographic Areas
+
+Revenues by geographic areas are as follows:
+<TABLE>
+<CAPTION>
+                                                     Year ended September 30,
+                                    -----------------------------------------------------------------------
+                                            2004                     2003                 2002
+                                    -----------------------------------------------------------------------
+Geographic Area
+<S>                                    <C>                    <C>                       <C>
+     United States                     $46,163,254            $32,026,494               $24,710,724
+     Latin America, Mexico,
+       and Other                           908,075              1,301,251                   698,207
+                                    -----------------------------------------------------------------------
+                                       $47,071,329            $33,327,745               $25,408,931
+                                    =======================================================================
+</TABLE>
+
+                                       8
+<PAGE>
+
+Revenues attributed to geographic areas are based on the location of the
+customer. All of our long-lived assets are located in the United States.
+
+     Products and Services
+
+     Our sales of new products represent 70% of our revenue and re-manufactured
+product sales represent 20% of our revenues. Repair services contribute the
+remaining 10% of our revenues.
+
+     Headend products are used by a system operator for signal acquisition,
+processing and manipulation for further transmission. Among the products we
+offer in this category are satellite receivers (digital and analog), integrated
+receiver/decoders, demodulators, modulators, antennas and antenna mounts,
+amplifiers, equalizers and processors. The headend of a television signal
+distribution system is the "brain" of the system, the central locations where
+the multi-channel signal is initially received, converted and allocated to
+specific channels for distribution. In some cases, where the signal is
+transmitted in encrypted form or digitized and compressed, the receiver will
+also be required to decode the signal.
+
+     Fiber products are used to transmit the output of cable system headend to
+multiple locations using fiber optic cable. Among the products offered are
+optical transmitters, receivers, couplers, splitters and compatible accessories.
+These products convert RF frequencies to light frequencies and launch them on
+optical fiber. At each receiver site, an optical receiver is used to convert the
+signals back to RF VHF frequencies for distribution to subscribers.
+
+     Distribution products are used to permit signals to travel from the headend
+to their ultimate destination in a home, apartment, hotel room, office or other
+terminal location along a distribution network of fiber optic or coaxial cable.
+Among the products we offer in this category are optical transmitters, optical
+receivers, line extenders, broadband amplifiers, directional taps and splitters.
+
+     Other hardware such as test equipment, connector and cable products are
+also inventoried and sold to our customers.
+
+     Sales and Marketing
+
+     We market and sell our products to franchise and private cable operators,
+system contractors and others directly. Our sales and marketing are
+predominantly performed by our internal sales force. We also have sales
+representatives in particular geographic areas. The majority of our sales
+activity is generated through personal relationships developed by our sales
+personnel and executives, referrals from manufacturers we represent, advertising
+in trade journals, telemarketing and direct mail to our customer base in the
+United States. We have developed contacts with the major CATV operators in the
+United States and we are constantly in touch with these operators regarding
+their plans for upgrading or expansion and their needs to either purchase or
+sell equipment. In 2004, we purchased approximately 39% of our inventory from
+Scientific-Atlanta and approximately 14% of our inventory from Motorola. The
+concentration of suppliers of our inventory subjects us to risk. We also
+purchase a large amount of our inventory from cable operators who have upgraded
+or are in the process of upgrading, their systems.
+
+                                       9
+<PAGE>
+     Competition
+
+     The CATV industry is highly competitive with numerous companies competing
+in various segments of the market. There are a number of customers throughout
+the United States engaged in buying and selling re-manufactured CATV equipment.
+Most of our competitors are not able to maintain the large inventory we maintain
+due to capital requirements. In terms of sales and inventory, we are the largest
+in this industry, providing both sales and service of new and re-manufactured
+CATV equipment.
+
+     We also face competition from manufacturers and other vendors supplying new
+products. Due to our large inventory, we generally have the ability to ship and
+supply products to our customers from our large inventory without having to wait
+for the manufacturers to supply the items.
+
+     Significant Customers
+
+     We are not dependent on one or a few customers to support our business. The
+customer base consists of over 1,200 active accounts. Sales to Power and
+Telephone Supply Company accounted for approximately 11.9% of our revenues in
+fiscal 2004. Approximately 23% of our revenues for fiscal year 2004 and
+approximately 33% for 2003 were derived from sales of products and services to
+our five largest customers. There are approximately 6,000 cable television
+systems within the United States, each of which is a potential customer.
+
+     Personnel
+
+     At September 30, 2004, we had 141 employees. Management considers its
+relationships with its employees to be excellent. Our employees are not
+unionized and we are not subject to any collective bargaining agreements.
+
+
+ITEM 2. PROPERTIES
+
+     Each subsidiary owns or leases property for office space and warehouse
+facilities. Tulsat Corporation ("Tulsat") leases a total of approximately
+133,050 square feet of facilities in seven buildings from entities which are
+controlled by David E. Chymiak, Chairman of the Board, and Kenneth A. Chymiak,
+President and Chief Executive Officer. Each lease has a renewable five-year
+term, expiring at different times through 2008. At September 30, 2004, total
+monthly rental payments of $38,800 were required. ADDvantage Technologies Group
+of Nebraska, Inc. (dba "Lee Enterprise") owns property of approximately 8,000
+square feet, with an investment of $267,000. NCS Industries, Inc. ("NCS") owns
+property of approximately 12,000 square feet, with an investment of $567,000,
+financed by loans of $419,000, due in monthly payments through 2013 at an
+interest rate of 5.5% through 2008, converting thereafter to prime minus 1/4%.
+NCS also rents property of approximately 2,000 square feet, with monthly rental
+payments of $1,200 through November 2005. ADDvantage Technologies Group of
+Missouri, Inc. (dba "ComTech Services") owns property of approximately 11,000
+square feet, with an investment of $343,000. ADDvantage Technologies Group of
+Texas, Inc. ("Tulsat-Texas") owns property of approximately 13,000 square feet,
+with an investment of $150,000. Tulsat-Atlanta, LLC ("Tulsat-Atlanta") rents
+property of approximately 4,300 square feet. The term is month-to-month, with
+monthly rental payments of approximately $2,400. We believe that our current
+facilities are adequate to meet our needs.
+
+                                       10
+<PAGE>
+ITEM 3. LEGAL PROCEEDINGS
+
+     From time to time in the ordinary course of business, we have become a
+defendant in various types of legal proceedings. We do not believe that these
+proceedings, individually or in the aggregate, will have a material adverse
+effect on our financial position, results of operations or cash flows.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     There were no matters submitted to a vote of our stockholders in the fourth
+quarter of fiscal 2004.
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS
+AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+     Prior to November 24, 2003, our common stock was traded on the OTC Bulletin
+Board under the symbol ADDM. On November 24, 2003, our common stock began
+trading on the American Stock Exchange under the symbol AEY.
+
+     The following table sets forth, for the quarterly periods indicated of
+fiscal 2003 and the first quarter (through November 23, 2003) of fiscal 2004,
+the high and low bid quotations per share for our common stock as quoted on the
+OTC bulletin board. These quotations represent inter-dealer prices without an
+adjustment for retail mark-ups, mark-downs or commissions and may not represent
+actual transactions. From November 24, 2003 through the end of fiscal 2004, the
+table sets forth the high and low sales prices on the American Stock Exchange
+for the quarterly periods indicated.
+<TABLE>
+<CAPTION>
+
+Year Ended September 30, 2003                                          High                       Low
+-----------------------------                                          ----                       ---
+
+<S>                                                                    <C>                       <C>
+First Quarter                                                          $0.90                     $0.52
+Second Quarter                                                         $2.10                     $0.60
+Third Quarter                                                          $2.50                     $1.40
+Fourth Quarter                                                         $4.50                     $1.60
+
+Year Ended September 30, 2004                                          High                       Low
+-----------------------------                                          ----                       ---
+
+First Quarter                                                          $6.05                     $3.00
+Second Quarter                                                         $5.90                     $4.00
+Third Quarter                                                          $6.90                     $4.66
+Fourth Quarter                                                         $5.30                     $3.35
+</TABLE>
+
+                                       11
+<PAGE>
+     Substantially all of the holders of our common stock maintain ownership of
+their shares in "street name" accounts and are not, individually, shareholders
+of record. As of December 1, 2004, there were approximately 80 holders of record
+of our common stock. However, we believe there are in excess of 500 beneficial
+owners of our common stock.
+
+     Dividend Policy
+
+     We have never declared or paid a cash dividend on our common stock. It has
+been the policy of our Board of Directors to use all available funds to finance
+the development and growth of our business. The payment of cash dividends in the
+future will be dependent upon our earnings and financial requirements and other
+factors deemed relevant by our Board of Directors. Under the terms of our
+outstanding preferred stock, no dividends may be paid on our common stock unless
+all cumulative cash dividends due on the preferred stock have been paid or
+provided for.
+
+     Repurchase Program
+
+     In 2000, our Board of Directors authorized the repurchase of up to $l.0
+million of our outstanding common stock from time to time in the open market at
+prevailing market prices or in privately negotiated transactions. The
+repurchased shares will be held in treasury and used for general corporate
+purposes including possible use in our employees' stock plans or for
+acquisitions. We did not repurchase any shares during the 2003 or 2004 fiscal
+years.
+
+
+ITEM 6. SELECTED FINANCIAL DATA
+<TABLE>
+<CAPTION>
+
+                      SELECTED CONSOLIDATED FINANCIAL DATA
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+                                                       Year ended September 30,
+                                          2004                2003              2002             2001              2000
+                                          ----                ----              ----             ----              ----
+
+<S>                                     <C>               <C>               <C>                <C>             <C>
+Net Sales and service income            $47,071           $ 33,327          $ 25,409           $ 22,885        $ 22,003
+
+Income from operations                    9,484              6,197             3,550              4,855           6,134
+
+Net income                                5,814              4,493             2,201              2,851           3,708
+
+Earnings per share
+  Basic                                   $ .46              $ .33             $ .10              $ .16           $ .25
+  Diluted                                 $ .41              $ .30             $ .10              $ .16           $ .24
+
+
+Total assets                           $ 32,359           $ 31,748          $ 26,531           $ 25,335         $21,951
+Long-term obligations inclusive
+  of current maturities                $ 11,610             $6,912            $6,276             $6,253         $ 5,039
+</TABLE>
+
+                                       12
+<PAGE>
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATION
+
+     The following discussion and analysis of financial condition and results of
+operations should be read in conjunction with our consolidated historical
+financial statements and the notes to those statements that appear elsewhere in
+this report. Certain statements in the discussion contain forward-looking
+statements based upon current expectations that involve risks and uncertainties,
+such as plans, objectives, expectations and intentions. Actual results and the
+timing of events could differ materially from those anticipated in these
+forward-looking statements as a result of a number of factors, including those
+set forth under "Business - Risk Factors" and elsewhere in this report.
+
+General
+
+     We and our subsidiaries, Tulsat, Lee Enterprise, NCS, ComTech Services,
+Tulsat - Texas and Tulsat - Atlanta comprise an organization involved in the
+re-manufacture, repair and sale of previously owned cable television ("CATV")
+equipment and the distribution of new and surplus equipment to CATV operators.
+New sales are defined as products that are purchased from the manufacturer, and
+includes new surplus, which is defined as inventory items purchased from other
+distributors or MSOs with excess equipment that have never been used.
+Remanufactured sales are defined as used inventory that is updated to meet
+customer needs and requirements.
+
+     Overview
+
+     It is difficult to time the placing of orders in our business due to
+cyclical conditions that exist in the broadband and cable industry and present
+economic conditions that affect it. Fiscal 2004 continued to be a challenging
+business environment in the industry due to a significant reduction in capital
+spending that began in fiscal 2001. We believe we are in a unique position to
+service those MSOs, which are looking to minimize costs. We have a large
+inventory of new and used equipment, $16.4 million and $5.7 million,
+respectively, at September 30, 2004. We also offer repair services, which are
+available to our customers who include some of the largest cable operators in
+the industry. The industry conditions have affected all equipment suppliers, and
+we have worked to minimize the negative impact of these conditions on our
+financial results and operations. We have aggressively sought to stimulate sales
+by marketing our products and services to the larger MSOs, and we have managed
+our receivables to minimize any bad debt write-offs. Our efforts have resulted
+in increasing sales in a slowly expanding economy (41.2% over last year), while
+minimizing the overall impact of bad debts written-off in total compared to net
+income. However, our largest risk is our investment in inventory. After
+consideration of continued analysis, review, and evaluation of our inventory, we
+recorded an allowance for excess and obsolete inventory of $1,093,000,
+representing 5% of inventory at September 30, 2004. At September 30, 2003, this
+allowance amounted to $447,100. We expect fiscal 2005 to continue the trend of
+increasing sales based on preliminary results from increased sales in the first
+quarter of 2005 compared to first quarter 2004. However, there is no assurance
+that revenues in fiscal 2005 will continue to exceed those for comparable
+periods in fiscal 2004 due to the factors discussed elsewhere in this report.
+
+                                       13
+<PAGE>
+Results of Operation
+
+     Year Ended September 30, 2004, Compared to Year Ended September 30, 2003
+(all references to years are to fiscal years)
+
+     Net Sales. Net sales climbed $13.7 million or 41.2% to $47.1 million for
+2004 from $33.3 million for 2003. Sales of new and refurbished equipment
+increased 47.3% from $28.8 million in 2003 to $42.4 million for 2004, primarily
+due to the positive results of our marketing initiatives and the strengthening
+of our distributor relationships. Sales of new Scientific-Atlanta and Motorola
+equipment increased substantially as we strengthened our strategic alliances
+with these manufacturers. Repair service revenues increased by 2.7% from $4.5
+million last year to $4.6 million this year. The increase in repair services was
+due to the continued focus of being a leading repair service provider for both
+warranty and non-warranty repairs.
+
+     Costs of Sales. Costs of sales includes the costs of new and refurbished
+equipment, on a weighted average cost basis, sold during the period, the
+equipment costs used in repairs, and the related transportation costs. Costs of
+sales this year were 61.2% of net sales compared to 57.2% last year. Costs of
+sales for new and refurbished equipment increased to 65.2% of net sales for 2004
+from 63.3% of net sales for 2003. This was primarily due to the higher
+proportion in 2004 of sales of new equipment, which has margins lower than that
+of refurbished equipment. Costs of sales for repair services increased to 24.6%
+of net sales for 2004 from 19.9% of net sales for 2003. This increase was due
+primarily to the high-end hybrid and fiber optic equipment being repaired, which
+involves a higher relative cost of material.
+
+     Gross Profit. Gross profit climbed $4.0 million, or 28.1%, to $18.3 million
+for fiscal 2004 from $14.3 million for fiscal 2003. The gross margin percentage
+was 38.8% for the current year, compared to 42.8% for last year. The percentage
+decrease was primarily due to an increase in sales of new and surplus equipment,
+which is accompanied by margins lower than that of re-manufactured equipment or
+repairs.
+
+     Operating, Selling, General and Administrative Expenses. Operating,
+selling, general and administrative expenses include all personnel costs,
+including fringe benefits, insurance and taxes, occupancy, transportation,
+communication and professional services, among other less significant accounts.
+Operating, selling, general and administrative expenses increased by $693,000
+for fiscal 2004 to $8.5 million from $7.8 million in 2003, an increase of 8.9%.
+The increase in operating, selling, general and administrative expenses was
+primarily due to increases in salaries and wages and the incurrence of fees for
+the Company's commencement of trading on the American Stock Exchange.
+
+     Income from Operations. Income from operations increased $3.3 million, or
+53.1%, to $9.5 million for 2004 from $6.2 million for 2003. This increase was
+primarily due to increases in sales of new equipment to the larger MSOs,
+partially offset by the lower margins received and the increase in our
+operating, selling, general and administrative expenses.
+
+     Interest Expense. Interest expense for fiscal 2004 was $158,000 compared to
+$217,000 in fiscal 2003. The decrease was primarily attributable to a lower
+average interest rate on our line of credit and the lower average balances
+outstanding on this line during 2004. The weighted average interest rate paid on
+the line of credit decreased to 2.85% for 2004 from 2.98% for 2003.
+
+                                       14
+<PAGE>
+     Income Taxes. The provision for income taxes for fiscal 2004 increased to
+$3.5 million from $1.5 million in fiscal 2003. The increase was primarily due to
+higher pre-tax earnings in fiscal 2004 and a reduction in fiscal 2003 of the
+Company's allowance against deferred tax assets due to favorable tax
+developments during that period. For a more complete discussion of income taxes,
+please see "Note 4 - Income Taxes" in the notes to the consolidated financial
+statements.
+
+     Year Ended September 30, 2003, Compared to Year Ended September 30, 2002
+(all references to years are to fiscal years)
+
+     Net Sales. Net sales climbed $7.9 million or 31.2% to $33.3 million for
+2003 from $25.4 million for 2002. Sales of new and refurbished equipment
+increased 33.9% from $21.5 million for 2002 to $28.8 million for 2003 as we
+strengthened our role as a Master Distributor for several of
+Scientific-Atlanta's legacy products and increased sales of Motorola products.
+Our focus on increasing repair revenue resulted in a 15.8% increase in those
+revenues, from $3.9 million for 2002 to $4.5 million for 2003. The increase in
+repair services was due to the continued focus of being a leading repair service
+provider and the expansion of our repairs sales to our Atlanta operations which
+began in June of 2002.
+
+     Costs of Sales. Costs of sales includes the costs of new and refurbished
+equipment, on a weighted average cost basis, sold during the period, the
+equipment costs used in repairs, and the related transportation costs. Costs of
+sales for 2003 were 57.2% of net sales compared to 56.6% for 2002. Costs of
+sales for new and refurbished equipment decreased slightly to 63.3% of net sales
+for 2003 from 63.8% of net sales for 2002. This was primarily due to the
+write-down of inventory in 2002 of $1.4 million, partially offset by the
+allowance for obsolete inventory recorded in 2003 of $447,000. Costs of sales
+for repair services increased to 19.9% of net sales for 2003 from 16.9% of net
+sales for 2002. This increase was due primarily to the increase in our repairs
+on more high-end hybrid and fiber optic equipment, which involve a higher
+relative cost of material.
+
+     Operating, Selling, General and Administrative Expenses. Operating,
+selling, general and administrative expenses includes all personnel costs,
+including fringe benefits, insurance and taxes, occupancy, transportation (other
+than freight-in), communication and professional services, among other less
+significant accounts. Operating, selling, general and administrative expenses
+increased $629,000 or 8.8% in 2003 over the previous year. Most of this increase
+was directly attributable to the commencement of operations of Tulsat - Atlanta
+in June 2002, coupled with an expanding sales force and other added expenses
+incurred to meet the marketing initiatives described previously.
+
+     Income from Operations. Income from operations increased 74.6% to $6.2
+million for 2003 from $3.5 million for 2002. This increase was primarily due to
+the increase in net sales and the inventory write-down in 2002, partially offset
+by the charge in 2003 to reduce inventory for obsolete equipment and the
+increase in our operating, selling, general and administrative expenses.
+
+     Interest Expense. Interest expense for fiscal 2003 was $217,000 compared to
+$245,000 in fiscal 2002. The decrease was primarily attributable to a lower
+average interest rate on our line of credit, partially offset by higher average
+balances outstanding on this line during 2003. The weighted average interest
+rate paid on the line of credit decreased to 2.98% for 2003 from 3.67% for 2002.
+
+                                       15
+<PAGE>
+     Income Taxes. The provision for income taxes for fiscal 2003 increased to
+$1.5 million from $1.1 million in fiscal 2002. The increase was primarily due to
+higher pre-tax earnings, partially offset by a favorable impact from changes in
+the deferred tax valuation allowance. For a more complete discussion of income
+taxes, please see "Note 4 - Income Taxes" in the notes to the consolidated
+financial statements.
+
+     Liquidity and Capital Resources
+
+     We finance our operations primarily through internally generated funds and
+a bank line of credit.
+
+     During 2004, we generated approximately $5.4 million cash flow from
+operations after decreasing the net carrying value of inventory by $1.2 million,
+and increased our bank borrowings by $6.0 million, which we used to invest in
+property ($77,000), repurchase the outstanding Series A Preferred Stock ($8.0
+million), repay stockholder notes ($1.2 million), and meet our preferred stock
+dividend obligations of $1.34 million.
+
+     We lease various properties primarily from a company owned by our principal
+shareholders. Future minimum lease payments under these leases are as follows:
+
+                           2005                               $    480,240
+                           2006                                    380,040
+                           2007                                    360,000
+                           2008                                    324,000
+                                                              ------------
+                                                              $  1,544,280
+                                                              ============
+
+     Cash used in financing activities in 2004 was primarily used to pay
+dividends on our Series A and Series B Preferred Stock. With the redemption of
+the Series A Preferred Stock on September 30, 2004, dividends on the remaining
+Series B preferred stock total $840,000 annually. The outstanding common and
+preferred stock is beneficially owned by our principal shareholders as reflected
+in the following table.
+
+Stock Ownership
+---------------
+                                                              Percent of
+                                     Percent of                Series B
+                                        Common                 Preferred
+                                        Stock                    Stock
+Name of                             Beneficially              Beneficially
+Beneficial Owner                       Owned                    Owned (A)
+----------------                       -----                    ---------
+
+David E. Chymiak                         39.0%                    50.0%
+Kenneth A. Chymiak                       35.2%                    50.0%
+
+                                       16
+<PAGE>
+(A) The outstanding preferred stock has an aggregate preference upon
+liquidation of $12,000,000.
+
+     On September 29, 2004, David Chymiak and Ken Chymiak entered into a stock
+purchase agreement in which they sold 500,000 shares of their common stock to
+Barron Partners, LP, a private investment partnership, for $3.25 per share.
+Under this agreement, Barron also received options to purchase up to 3 million
+additional shares of the common stock owned by these majority shareholders.
+Option 1 grants Barron the option to purchase an additional one million shares
+over a period of 15 months at a price of $4.25 per share. Option 2 grants Barron
+the option to purchase an additional one million shares over a period of 18
+months at a price of $5.25 per share. Option 3 grants Barron the option to
+purchase an additional one million shares over a period of 24 months at a price
+of $6.25 per share. The Company did not receive any of the proceeds from the
+sale of the shares and will not receive any of the proceeds from the exercise of
+any of the options, but paid the cost of registering the sales for resale by the
+selling shareholders. The Company filed a registration statement covering the
+resale of the shares of common stock sold as well as the shares of common stock
+issuable upon exercise of the options.
+
+     We have a line of credit with the Bank of Oklahoma under which we are
+authorized to borrow up to $7.0 million at a borrowing rate based on the
+prevailing 30-day LIBOR rate plus 2.0% (3.84% at September 30, 2004.) This line
+of credit will provide the lesser of $7.0 million or the sum of 80% of qualified
+accounts receivable and 50% of qualified inventory in a revolving line of credit
+for working capital purposes. The line of credit is collateralized by inventory,
+accounts receivable, equipment and fixtures, and general intangibles and had an
+outstanding balance at September 30, 2004, of $3.2 million, due September 30,
+2005.
+
+     An $8 million amortizing term note with Bank of Oklahoma was obtained to
+finance the redemption of the outstanding share of the Series A convertible
+preferred stock at September 30, 2004. The note is due on September 30, 2009
+with monthly principal payments of $100,000 plus accrued interest, and the note
+bears interest at the prevailing 30-day LIBOR rate plus 2.50%. An interest rate
+swap was entered into simultaneously with the note on September 30, 2004, which
+fixed the interest rate at 6.13%. Notes payable secured by real estate of
+$384,381 are due in monthly payments through 2013 with interest at 5.5% through
+2008, converting thereafter to prime minus .25%.
+
+     The aggregate maturities of notes payable and the line of credit for the
+five years ending September 30, 2009 are as follows:
+
+
+                         2005                               $   4,462,230
+                         2006                                   1,237,047
+                         2007                                   1,237,047
+                         2008                                   1,237,047
+                         2009                                   3,237,047
+                         Thereafter                               199,146
+                                                            -------------
+                           Total                            $  11,609,564
+                                                            =============
+
+                                       17
+<PAGE>
+     We believe that cash flow from operations, existing cash balances and our
+existing line of credit provide sufficient liquidity and capital resources to
+meet our working capital needs.
+
+     Critical Accounting Policies and Estimates
+
+     Note 1 to the Consolidated Financial Statements in this Form 10-K for
+fiscal year 2004 includes a summary of the significant accounting policies or
+methods used in the preparation of our Consolidated Financial Statements. Some
+of those significant accounting policies or methods require us to make estimates
+and assumptions that affect the amounts reported by us. We believe the following
+items require the most significant judgments and often involve complex
+estimates.
+
+     General
+
+     The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the reporting periods. We base our estimates and judgments on historical
+experience, current market conditions, and various other factors we believe to
+be reasonable under the circumstances, the results of which form the basis for
+making judgments about the carrying values of assets and liabilities that are
+not readily apparent from other sources. Actual results may differ from these
+estimates under different assumptions or conditions. The most significant
+estimates and assumptions relate to the carrying value of our inventory and, to
+a lesser extent, the adequacy of our allowance for doubtful accounts.
+
+     Inventory Valuation
+
+     Inventory consists of new and used electronic components for the cable
+television industry. Inventory is stated at the lower of cost or market. Market
+is defined principally as net realizable value. Cost is determined using the
+weighted average method.
+
+     We market our products primarily to MSOs and other users of cable
+television equipment who are seeking products for which manufacturers have
+discontinued production, or are seeking shipment on a same-day basis. Our
+position in the industry requires us to carry large inventory quantities
+relative to annual sales, but also allows us to realize high overall gross
+profit margins on our sales. Carrying these large inventories represents our
+largest risk. For individual inventory items, we may carry inventory quantities
+that are excessive relative to market potential, or we may not be able to
+recover our acquisition costs for sales that we do make.
+
+     In order to address the risks associated with our investment in inventory,
+we regularly review inventory quantities on hand and reduce the carrying value
+when the loss of usefulness of an item or other factors, such as obsolete and
+excess inventories, indicate that cost will not be recovered when an item is
+sold. Demand for some of the items in our inventory has been impacted by recent
+economic conditions present in the cable industry. We recorded an allowance of
+2%, or $447,000, of the inventory balance at September 30, 2003 as a reserve for
+excess and obsolete equipment. We increased this allowance to a total of 5%, or
+$1,093,000, of the inventory balance at September 30, 2004. Any significant,
+unanticipated changes in product demand, technological developments or continued
+economic trends affecting the cable industry could have a significant impact on
+the value of our inventory and operating results.
+
+                                       18
+<PAGE>
+     Inbound freight charges are included in costs of sales. Purchasing and
+receiving costs, inspection costs, warehousing costs, internal transfer costs
+and other inventory expenditures are included in operating expenses since the
+amounts involved are not considered material.
+
+     Accounts Receivable Valuation
+
+     Management judgments and estimates are made in connection with establishing
+the allowance for doubtful accounts. Specifically, we analyze the aging of
+accounts receivable balances, historical bad debts, customer concentrations,
+customer credit-worthiness, current economic trends and changes in our customer
+payment terms. Significant changes in customer concentration or payment terms,
+deterioration of customer credit-worthiness, as in the case of the bankruptcy of
+Adelphia and its affiliates, or weakening in economic trends could have a
+significant impact on the collectibility of receivables and our operating
+results. If the financial condition of our customers were to deteriorate,
+resulting in an impairment of their ability to make payments, additional
+allowances may be required. The reserve for bad debts decreased to $68,063 at
+September 30, 2004 from $78,359 at September 30, 2003. This decrease is
+primarily due to the increasingly optimistic outlook for economic conditions in
+the coming year. At September 30, 2004, accounts receivable, net of allowance
+for doubtful accounts, amounted to $4.8 million.
+
+     Impact of Recently Issued Accounting Standards
+
+     In November 2002, the Financial Accounting Standards Board ("FASB") issued
+FASB Interpretation No. 45 (FIN 45), "Guarantor's Accounting and Disclosure
+Requirements for Guarantees, Including Indirect Guarantees of Indebtedness of
+Others." FIN 45 requires certain guarantees to be recorded at fair value
+regardless of the probability of the loss. The adoption did not have a material
+impact on our consolidated financial statements.
+
+     In January 2003, the FASB issued FASB Interpretation No. 46 (FIN 46),
+"Consolidation of Variable Interest Entities.", and a revised interpretation of
+FIN 46 (FIN 46R) in December 2003. FIN 46 requires certain variable interest
+entities to be consolidated by the primary beneficiary of the entity if the
+equity investors in the entity do not have the characteristics of a controlling
+financial interest or do not have sufficient equity at risk for the entity to
+finance its activities without additional subordinated financial support from
+other parties. The provisions FIN 46 are effective immediately for all
+arrangements entered into after January 31, 2003. We have not invested in any
+entities that we believe are variable interest entities for which we are the
+primary beneficiary. The adoption of FIN 46R had no impact on our financial
+position, results of operations or cash flows.
+
+     In November 2004, the FASB issued SFAS No. 151, "Inventory Costs", which
+revised ARB No. 43, relating to inventory costs. This revision is to clarify the
+accounting for abnormal amounts of idle facility expense, freight, handling
+costs and wasted material (spoilage). This Statement requires that these items
+be recognized as a current period charge regardless of whether they meet the
+criterion specified in ARB 43. In addition, this Statement requires the
+allocation of fixed production overheads to the costs of conversion be based on
+normal capacity of the production facilities. SFAS 151 is effective for
+inventory costs incurred during fiscal years beginning after June 15, 2005. We
+believe that the adoption of this standard will have no material impact on our
+financial position and results of operations.
+
+                                       19
+<PAGE>
+
+ITEM 7A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     The Company's exposure to market rate risk for changes in interest rates
+relates primarily to its revolving line of credit. The interest rates under the
+line of credit and the stockholder notes fluctuate with the LIBOR rate. At
+September 30, 2004, the outstanding balances subject to variable interest rate
+fluctuations totaled $3.2 million. Future changes in interest rates could cause
+our borrowing costs to increase or decrease.
+
+     The Company maintains no cash equivalents. However, the Company entered
+into an interest rate swap on September 30, 2004, in an amount equivalent to the
+$8 million notes payable in order to minimize interest rate risk. Although the
+note bears interest at the prevailing 30-day LIBOR rate plus 2.50%, the swap
+effectively fixed the interest rate at 6.13%. The fair value of this derivative
+will increase or decrease opposite any future changes in interest rates. All
+sales and purchases are denominated in U.S. dollars.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+<TABLE>
+<CAPTION>
+
+
+                           Index to Financial Statements                                                Page
+                           -----------------------------                                                ----
+
+<S>                                                                                                       <C>
+Report of Independent Registered Public Accounting Firm
+                                                                                                           21
+
+Consolidated Balance Sheets, September 30, 2004 and 2003
+                                                                                                           23
+
+Consolidated Statements of Income, Years Ended September 30, 2004, 2003 and
+2002                                                                                                       25
+
+Consolidated Statements of Changes in Stockholders' Equity, Years ended
+September 30, 2004, 2003 and 2002
+                                                                                                           26
+
+Consolidated Statements of Cash Flows, Years Ended September 30, 2004, 2003 and
+2002                                                                                                       27
+
+Notes to Consolidated Financial Statements                                                                 28
+</TABLE>
+
+
+                                       20
+<PAGE>
+              MANAGEMENT'S RESPONSIBILITY FOR FINANCIAL STATEMENTS
+
+     The management of ADDvantage Technologies Group, Inc. is responsible for
+the accuracy and consistency of all the information contained in the annual
+report, including the accompanying consolidated financial statements. These
+statements have been prepared to conform with U.S. generally accepted accounting
+principles appropriate to the circumstances. The statements include amounts
+based on estimates and judgments as required.
+
+     ADDvantage Technologies Group, Inc. maintains internal accounting controls
+designed to provide reasonable assurance that the financial records are
+accurate, that the assets of the Company are safeguarded, and that the financial
+statements present fairly the consolidated financial position, results of
+operations and cash flows of the Company.
+
+     The Audit Committee of the Board of Directors reviews the scope of the
+audits and the findings of the independent certified public accountants. The
+auditors meet regularly with the Audit Committee to discuss audit and financial
+reporting issues, with and without management present.
+
+     Tullius Taylor Sartain & Sartain LLP, our independent registered public
+accounting firm, has audited the financial statements prepared by management.
+Their opinion on the statements is presented below.
+
+
+/s/ Kenneth A. Chymiak
+Kenneth A. Chymiak,
+President, Chief Executive Officer
+and Chief Financial Officer
+
+
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+The Stockholders of
+ADDvantage Technologies Group, Inc.
+
+We have audited the accompanying consolidated balance sheets of ADDvantage
+Technologies Group, Inc. and subsidiaries (the "Company") as of September 30,
+2004 and 2003, and the related consolidated statements of income, changes in
+stockholders' equity and cash flows for each of the three years in the period
+ended September 30, 2004. These financial statements are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures in
+the financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+                                       21
+<PAGE>
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position of
+ADDvantage Technologies Group, Inc. and subsidiaries as of September 30, 2004
+and 2003, and the consolidated results of their operations and their cash flows
+for each of the three years in the period ended September 30, 2004, in
+conformity with accounting principles generally accepted in the United States of
+America.
+
+Our audits were conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and were made for the purpose
+of forming an opinion on the basic consolidated financial statements taken as a
+whole. The consolidated supplemental schedule II is presented for purposes of
+complying with the Securities and Exchange Commission's rules and are not a part
+of the basic consolidated financial statements. This schedule has been subjected
+to the auditing procedures applied in our audits of the basic consolidated
+financial statements and, in our opinion, are fairly stated in all material
+respects in relation to the basic consolidated financial statements taken as a
+whole.
+
+As discussed in Note 1 to the consolidated financial statements, in 2003,
+the Company changed its method of accounting for goodwill as a result of
+adopting the provisions of Statement of Financial Accounting Standards No. 142
+"Goodwill and Other Intangible Assets."
+
+
+/s/ TULLIUS TAYLOR SARTAIN & SARTAIN LLP
+
+
+Tulsa, Oklahoma
+December 3, 2004
+
+                                       22
+<PAGE>
+                       ADDVANTAGE TECHNOLOGIES GROUP, INC.
+                           CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                            September 30,
+Assets                                                                     2004        2003
+------                                                                     ----        ----
+Current assets:
+<S>                                                                 <C>           <C>
+   Cash                                                             $   1,316,239 $   496,283
+   Accounts receivable, net of allowance of $68,063 and $78,359         4,787,749   3,783,680
+   Inventories, net of allowance for excess and obsolete inventory
+       $1,093,000 and $447,100, respectively                           20,978,714  22,131,096
+   Deferred income taxes                                                  651,000     367,000
+                                                                    ------------- -----------
+Total current assets                                                   27,733,702  26,778,059
+
+Property and equipment, at cost:
+   Machinery and equipment                                              2,138,798   2,061,598
+   Land and buildings                                                   1,302,527   1,326,939
+   Leasehold improvements                                                 521,972     527,972
+                                                                    ------------- -----------
+                                                                        3,963,297   3,910,509
+Less accumulated depreciation and amortization                         (1,561,698) (1,284,347)
+                                                                    ------------- -----------
+Net property and equipment                                              2,401,599   2,626,162
+
+Other assets:
+   Deferred income taxes                                                1,042,000   1,154,000
+   Goodwill                                                             1,150,060   1,150,060
+   Other assets                                                            31,222      39,628
+                                                                    ------------- -----------
+Total other assets                                                      2,223,282   2,343,688
+                                                                    ------------- -----------
+
+Total assets                                                        $  32,358,583  31,747,909
+                                                                    =============  ==========
+
+             See notes to audited consolidated financial statements.
+</TABLE>
+
+                                       23
+<PAGE>
+
+                       ADDVANTAGE TECHNOLOGIES GROUP, INC.
+                           CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                         September 30,
+Liabilities and Stockholders' Equity                                    2004       2003
+                                                                        ----       ----
+ Current liabilities:
+<S>                                                               <C>          <C>
+   Accounts payable                                               $  1,758,695 $ 2,631,221
+   Accrued expenses                                                  1,011,911     829,459
+   Accrued income taxes                                                120,748      95,114
+   Bank revolving line of credit                                     3,225,183   5,185,902
+   Notes payable - current portion                                   1,237,047     118,393
+   Dividends payable                                                   210,000     310,000
+   Stockholder notes                                                         -     838,473
+                                                                  ------------ -----------
+Total current liabilities                                            7,563,584  10,008,562
+Notes payable                                                        7,147,334     384,411
+Stockholder notes                                                            -     385,171
+Stockholders' equity:
+   Preferred stock, 5,000,000 shares authorized,
+     $1.00 par value, at stated value:
+     Series A, 5% cumulative convertible; 200,000 shares issued
+       and outstanding at September 30, 2003 with a stated value
+       of $40 per share                                                      -   8,000,000
+     Series B, 7% cumulative; 300,000 shares issued and
+       outstanding with a stated value of $40 per share             12,000,000  12,000,000
+   Common stock, $.01 par value; 30,000,000 shares authorized;
+     10,081,789 and 10,030,414 shares issued and outstanding,
+      respectively                                                     100,818     100,304
+   Paid-in capital                                                  (7,285,564) (7,389,197)
+   Retained earnings                                                12,886,575   8,312,822
+                                                                  ------------ -----------
+                                                                    17,701,829  21,023,929
+
+   Less:  Treasury stock, 21,100 shares at cost                        (54,164)    (54,164)
+                                                                  ------------ -----------
+Total stockholders' equity                                          17,647,665  20,969,765
+                                                                  ------------ -----------
+
+
+Total liabilities and stockholders' equity                        $ 32,358,583 $31,747,909
+                                                                  ============ ===========
+             See notes to audited consolidated financial statements.
+</TABLE>
+
+                                       24
+<PAGE>
+                       ADDVANTAGE TECHNOLOGIES GROUP, INC.
+                        CONSOLIDATED STATEMENTS OF INCOME
+
+
+<TABLE>
+<CAPTION>
+                                                          Year ended September 30,
+                                               2004                 2003               2002
+                                            -----------        -----------        -----------
+<S>                                         <C>                <C>                <C>
+Net sales income                            $42,430,052        $28,809,947        $21,508,380
+Net service income                            4,641,277          4,517,798          3,900,551
+                                            -----------        -----------        -----------
+                                             47,071,329         33,327,745         25,408,931
+Costs of sales                               28,815,132         19,072,042         14,370,776
+                                            -----------        -----------        -----------
+Gross profit                                 18,256,197         14,255,703         11,038,155
+Operating, selling, general and
+  administrative expenses                     8,494,486          7,801,231          7,172,510
+Depreciation and amortization                   277,352            257,821            315,691
+                                            -----------        -----------        -----------
+Income from operations                        9,484,359          6,196,651          3,549,954
+Interest expense                                157,606            217,063            244,746
+                                            -----------        -----------        -----------
+Income before income taxes                    9,326,753          5,979,588          3,305,208
+Provision for income taxes                    3,513,000          1,487,000          1,104,000
+                                            -----------        -----------        -----------
+Net income                                    5,813,753          4,492,588          2,201,208
+Preferred stock dividends                     1,240,000          1,240,000          1,240,000
+                                            -----------        -----------        -----------
+Net income attributable
+  to common stockholders                      4,573,753        $ 3,252,588        $   961,208
+                                            ===========        ===========        ===========
+
+Earnings per share:
+  Basic                                     $      0.46        $      0.33        $      0.10
+  Diluted                                   $      0.41        $      0.30        $      0.10
+
+Shares used in per share calculation
+  Basic                                      10,041,197         10,007,756          9,991,716
+  Diluted                                    12,104,541         12,021,235         11,991,716
+
+             See notes to audited consolidated financial statements.
+
+</TABLE>
+
+                                       25
+<PAGE>
+
+                       ADDVANTAGE TECHNOLOGIES GROUP, INC.
+           CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+                  Years ended September 30, 2004, 2003 and 2002
+<TABLE>
+<CAPTION>
+
+
+                                                          Series A    Series B                    Retained
+                                    Common Stock         Preferred    Preferred   Paid-in      Earnings   Treasury
+                                Shares      Amount         Stock       Stock       Capital     (Deficit)   Stock         Total
+                              --------------------------------------------------------------------------------------------------
+<S>                           <C>           <C>        <C>          <C>          <C>           <C>         <C>       <C>
+Balance, September 30, 2001   10,011,716    $100,117   $8,000,000   $12,000,000 ($7,389,010) $ 4,099,026   ($54,164) $16,755,969
+
+Net income                            -           -             -             -           -    2,201,208          -    2,201,208
+Preferred stock dividends             -           -             -             -           -   (1,240,000)         -   (1,240,000)
+                              --------------------------------------------------------------------------------------------------
+Balance, September 30, 2002  10,011,716     100,117     8,000,000    12,000,000  (7,389,010)  (5,060,234)   (54,164)  17,717,177
+
+Net income                            -           -             -             -           -    4,492,588          -    4,492,588
+Preferred stock dividends             -           -             -             -           -   (1,240,000)         -   (1,240,000)
+Issue common shares for
+     business purchase           18,698         187             -             -        (187)           -          -            -
+                              --------------------------------------------------------------------------------------------------
+Balance, September 30, 2003  10,030,414     100,304     8,000,000    12,000,000  (7,389,197)   8,312,822    (54,164)   20,969,765
+
+Net income                            -           -             -             -           -    5,813,753          -     5,813,753
+Preferred stock dividends             -           -             -             -           -   (1,240,000)         -    (1,240,000)
+Stock options exercised          51,375         514             -             -     103,633            -          -       104,147
+Redemption of Series A
+Preferred Stock                       -           -    (8,000,000)            -           -            -          -    (8,000,000)
+                              --------------------------------------------------------------------------------------------------
+Balance, September 30, 2004  10,081,789    $100,818             -   $12,000,000 ($7,285,564) $12,886,575   ($54,164)  $17,647,665
+                             ===================================================================================================
+
+             See notes to audited consolidated financial statements.
+</TABLE>
+
+                                       26
+<PAGE>
+
+                       ADDVANTAGE TECHNOLOGIES GROUP, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+<TABLE>
+<CAPTION>
+
+
+                                                           Year ended September 30,
+                                                         2004       2003       2002
+                                                         ----       ----       ----
+Cash Flows from Operating Activities
+<S>                                              <C>            <C>        <C>
+Net income                                       $    5,813,753 $4,492,588 $2,201,208
+Adjustments to reconcile net income to net cash
+  provided by operating activities:
+   Depreciation and amortization                        277,352    257,821    315,691
+   Loss on disposal of property and equipment            24,412          -          -
+   Deferred income tax benefit                         (172,000)  (414,000)   (81,000)
+   Change in:
+      Receivables                                    (1,004,069)  (278,382)  (509,811)
+      Inventories                                     1,152,382 (4,456,859)   144,883
+      Other assets                                        8,406    (12,770)    79,634
+      Accounts payable                                 (872,526) 1,159,549    619,248
+      Accrued liabilities                               208,086    337,975   (397,385)
+                                                 -------------- ---------- ----------
+Net cash provided by operating activities             5,435,796    995,922  2,372,468
+                                                 -------------- ---------- ----------
+
+Cash Flows from Investing Activities
+Additions to property and equipment                     (77,201)  (671,412)  (610,630)
+                                                 -------------- ---------- ----------
+Net cash used in investing activities                   (77,201)  (671,412)  (610,630)
+                                                 -------------- ---------- ----------
+
+Cash Flows from Financing Activities
+Net change under bank revolving line of credit       (1,960,719)   712,221    222,548
+Payments on stockholder notes                        (1,223,644)  (335,705)  (150,000)
+Proceeds on notes payable                             8,000,000    440,000          -
+Payments on notes payable                              (118,423)  (180,483)   (49,204)
+Proceeds from stock options exercised                   104,147          -          -
+Payments of preferred dividends                      (1,340,000)(1,240,000)(1,240,000)
+Redemption of preferred stock                        (8,000,000)         -          -
+                                                 -------------- ---------- ----------
+Net cash used in financing activities                (4,538,639)  (603,967)(1,216,656)
+                                                 -------------- ---------- ----------
+
+Net (increase) decrease in cash                         819,956   (279,457)   545,182
+
+Cash, beginning of year                                 496,283    775,740    230,558
+                                                 -------------- ---------- ----------
+
+Cash, end of year                                $    1,316,239   $496,283   $775,740
+                                                 ==============   ========   ========
+
+
+Supplemental Cash Flow Information
+   Cash paid for interest                        $      172,426   $205,626   $244,253
+   Cash paid for income taxes                    $    3,669,170 $1,699,785 $1,832,342
+</TABLE>
+
+             See notes to audited consolidated financial statements.
+
+                                       27
+<PAGE>
+
+                       ADDVANTAGE TECHNOLOGIES GROUP, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                  Years ended September 30, 2004, 2003 and 2002
+
+
+Note 1 - Summary of Significant Accounting Policies
+
+Description of business
+
+ADDvantage Technologies Group, Inc. and its subsidiaries (the "Company")
+sell new, surplus, and re-manufactured cable television equipment throughout
+North America, Latin America and South America in addition to being a repair
+center for various cable companies. The Company operates in one business
+segment.
+
+Principles of consolidation
+
+The consolidated financial statements include the accounts of ADDvantage
+Technologies Group, Inc. and its subsidiaries: Tulsat Corporation, NCS
+Industries, Inc., Tulsat Atlanta LLC, ADDvantage Technologies Group of Missouri,
+Inc. (dba "ComTech Services"), ADDvantage Technologies Group of Nebraska, Inc.
+(dba "Lee Enterprise") and ADDvantage Technologies Group of Texas, Inc. (dba
+"Tulsat Texas"). All significant intercompany balances and transactions have
+been eliminated in consolidation.
+
+Accounts receivable
+
+Trade receivables are carried at original invoice amount less an estimate
+made for doubtful receivables based on a review of all outstanding amounts on a
+monthly basis. Management determines the allowance for doubtful accounts by
+regularly evaluating individual customer receivables and considering a
+customer's financial condition, credit history, and current economic conditions.
+Trade receivables are written-off when deemed uncollectible. Recoveries of trade
+receivables previously written-off are recorded when received.
+
+Inventory valuation
+
+Inventory consists of new and used electronic components for the cable
+television industry. Inventory is stated at the lower of cost or market. Market
+is defined principally as net realizable value. Cost is determined using the
+weighted average method.
+
+Property and equipment
+
+Property and equipment consists of office equipment, other equipment, and
+buildings, with estimated useful lives of 5 years, 10 years, and 40 years,
+respectively. Depreciation is provided using straight line and accelerated
+methods over the estimated useful lives of the related assets. Leasehold
+improvements are amortized over the remainder of the lease agreement. Repairs
+and maintenance are expensed as incurred, whereas major improvements are
+capitalized. Depreciation and amortization expense was $277,352, $257,821 and
+$157,267 for the years ended September 30, 2004, 2003 and 2002, respectively.
+
+                                       28
+<PAGE>
+Income taxes
+
+The Company provides for income taxes in accordance with the liability
+method of accounting pursuant to Statement of Financial Accounting Standards
+("SFAS") No. 109, "Accounting for Income Taxes." Under this method, deferred tax
+assets and liabilities are recognized for the future tax consequences
+attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases, and tax
+carryforward amounts. Management provides a valuation allowance against deferred
+tax assets for amounts which are not considered "more likely than not" to be
+realized.
+
+Revenue recognition
+
+Our principal sources of revenues are from sales of new, remanufactured or
+used equipment, and repair services. The Company recognizes revenue for product
+sales when title transfers, the risks and rewards of ownership have been
+transferred to the customer, the fee is fixed and determinable, and the
+collection of the related receivable is probable which is generally at the time
+of shipment. The stated shipping terms are FOB shipping point per our sales
+agreements with customers. Accruals are established for expected returns based
+on historical activity. Revenue for services is recognized when the repair is
+completed and the product is shipped back to the customer.
+
+Derivatives
+
+     SFAS No. 133, "Accounting for Derivative Instruments and Hedging
+Activities", as amended, requires that all derivatives, whether designated in
+hedging relationships or not, be recorded on the balance sheet at fair value. If
+the derivative is designated as a fair value hedge, the changes in the fair
+value of the derivative and of the hedged item attributable to the hedged risk
+are recognized in earnings. If the derivative is designated as a cash flow
+hedge, the effective portions of the changes in the fair value of the derivative
+are recorded in Other Comprehensive Income and are recognized in the income
+statement when the hedged item affects earnings. Ineffective portions of changes
+in the fair value of cash flow hedges are recognized in other income (expense).
+
+     Our objective of holding derivatives is to minimize the risks of interest
+rate fluctuation by using the most effective methods to eliminate or reduce the
+impact of this exposure. The Company has designated its interest rate swap as a
+hedge for the underlying note payable. Interest expense on the note is adjusted
+to include the payment made or received under the interest rate swap agreement.
+
+Freight
+
+Amounts billed to customers for shipping and handling represent revenues
+earned and are included in Net Sales Income and Net Service Income in the
+accompanying Consolidated Statements of Income. Actual costs for shipping and
+handling of these sales is included in Costs of Sales.
+
+                                       29
+<PAGE>
+Advertising costs
+
+Advertising costs are expensed as incurred. Advertising expense was
+$265,112, $229,534 and $224,468 for the years ended September 30, 2004, 2003 and
+2002 respectively.
+
+Management estimates
+
+The preparation of financial statements in conformity with U.S. generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenue and expenses during the reporting
+period. Actual results could differ from those estimates.
+
+Any significant, unanticipated changes in product demand, technological
+developments or continued economic trends affecting the cable industry could
+have a significant impact on the value of our inventory and operating results.
+
+Concentrations of credit risk
+
+Financial instruments that potentially subject the Company to concentration
+of credit risk consist principally of trade receivables. Concentrations of
+credit risk with respect to trade receivables are limited because a large number
+of geographically diverse customers make up our customer base, thus spreading
+the trade credit risk. The Company controls credit risk through credit
+approvals, credit limits, and monitoring procedures. The Company performs
+in-depth credit evaluations for all new customers but does not require
+collateral to support customer receivables. In 2004, we purchased approximately
+39% of our inventory from Scientific-Atlanta and approximately 14% of our
+inventory from Motorola. The concentration of suppliers of our inventory
+subjects us to risk.
+
+Goodwill
+
+     In July, 2001, the Financial Accounting Standards Board ("FASB") issued
+Statements of Financial Accounting Standards No. 142, "Goodwill and Other
+Intangible Assets" (SFAS 142). SFAS 142 addresses financial accounting and
+reporting for acquired goodwill and other intangible assets. SFAS 142 requires,
+among other things, that companies no longer amortize goodwill, but instead test
+goodwill for impairment at least annually. SFAS 142 was adopted by the Company
+on October 1, 2002, the date of the annual impairment review. The Company
+completed its transitional impairment testing of goodwill, which indicated that
+goodwill was not impaired as of October 1, 2002. Therefore, the adoption of this
+pronouncement had no impact on the Company's carrying value of its goodwill.
+Annual impairment testing indicates that goodwill is not impaired as of
+September 30, 2004. If SFAS 142 had been adopted in 2002, the Company's earnings
+would have been improved because of reduced amortization, as described below:
+
+                                       30
+<PAGE>
+         Goodwill - Adoption of Statement 142
+         ------------------------------------
+<TABLE>
+<CAPTION>
+
+Year ended September 30,
+------------------------
+                                                      2004                            2003                            2002
+                                                      ----                            ----                            ----
+<S>                                             <C>                             <C>                              <C>
+Reported Net Income                             $ 5,813,753                     $ 4,492,588                      $ 2,201,208
+Add back: Goodwill amortization                           -                               -                          158,424
+                                                -----------                     -----------                      -----------
+Adjusted Net Income                             $ 5,813,753                     $ 4,492,588                      $ 2,359,632
+                                                ===========                     ===========                      ===========
+
+Basic Earnings per Share
+Reported Net Income                                   $0.46                           $0.33                            $0.10
+Add back: Goodwill amortization                           -                               -                             0.01
+                                                -----------                     -----------                      -----------
+Adjusted Net Income                                   $0.46                           $0.33                            $0.11
+                                                ===========                     ===========                      ===========
+Diluted Earnings per Share
+Reported Net Income                                   $0.41                           $0.30                            $0.10
+Add back: Goodwill amortization                           -                               -                             0.01
+                                                -----------                     -----------                      -----------
+Adjusted Net Income                                   $0.41                           $0.30                            $0.11
+                                                ===========                     ===========                      ===========
+
+</TABLE>
+
+Employee stock-based awards
+
+Employee stock-based awards are accounted for using the intrinsic value
+method prescribed in Accounting Principles Board Opinion ("APB") No. 25,
+"Accounting for Stock Issued to Employees" and related interpretations. Under
+APB No. 25, compensation expense is based on the difference, if any, on the date
+of grant between the fair value of the Company's stock and the exercise price.
+The Company accounts for stock issued to non-employees in accordance with the
+provisions of SFAS No. 123, "Accounting for Stock-Based Compensation."
+
+SFAS No. 123, "Accounting for Stock-Based Compensation" ("SFAS 123")
+provides an alternative method of determining compensation cost for employee
+stock options, which alternative method may be adopted at the option of the
+Company. Had compensation cost been determined consistent with SFAS 123, the
+Company's net income would not have changed significantly.
+
+Earnings per share
+
+Basic earnings per share are based on the sum of the average number of
+common shares outstanding and issuable restricted and deferred shares. Diluted
+earnings per share include any dilutive effect of stock options, restricted
+stock and convertible preferred stock.
+
+Fair value of financial instruments
+
+The carrying amounts of accounts receivable and accounts payable
+approximate fair value due to their short maturities. The carrying value of the
+Company's line of credit approximates fair value since the interest rate
+fluctuates periodically based on the prime rate. Terms of the stockholder loans
+are similar to the bank loan. Management believes that the carrying value of the
+Company's borrowings approximate fair value based on credit terms currently
+available for similar debt.
+
+                                       31
+<PAGE>
+Impact of recently issued accounting standards
+
+In January 2003, the FASB issued FASB Interpretation No. 46 (FIN 46),
+"Consolidation of Variable Interest Entities," and a revised interpretation of
+FIN 46 (FIN 46R) in December 2003. FIN 46 requires certain variable interest
+entities to be consolidated by the primary beneficiary of the entity if the
+equity investors in the entity do not have the characteristics of a controlling
+financial interest or do not have sufficient equity at risk for the entity to
+finance its activities without additional subordinated financial support from
+other parties. The provisions of FIN 46 were effective immediately for all
+arrangements entered into after January 31, 2003. We have not invested in any
+entities that we believe are variable interest entities for which we are the
+primary beneficiary. The adoption of FIN 46 and 46R had no impact on our
+financial position, results of operations or cash flows.
+
+     In November 2004, the FASB issued SFAS No. 151, "Inventory Costs", which
+revised ARB No. 43, relating to inventory costs. This revision is to clarify the
+accounting for abnormal amounts of idle facility expense, freight, handling
+costs and wasted material (spoilage). This Statement requires that these items
+be recognized as a current period charge regardless of whether they meet the
+criterion specified in ARB 43. In addition, this Statement requires the
+allocation of fixed production overheads to the costs of conversion be based on
+normal capacity of the production facilities. SFAS 151 is effective for
+inventory costs incurred during fiscal years beginning after June 15, 2005. We
+believe that the adoption of this standard will have no material impact on our
+financial position and results of operations.
+
+Reclassifications
+
+Certain reclassifications have been made to the 2003 and 2002 financial
+statements to conform to the 2004 presentation.
+
+
+Note 2 - Inventories
+
+Inventories are summarized as follows:
+<TABLE>
+<CAPTION>
+
+                                                                      2004                     2003
+                                                             ------------------------ -----------------------
+<S>                                                                <C>                      <C>
+                New                                                $   16,410,694           $ 16,479,825
+                Used                                                    5,661,020              6,098,371
+                Allowance for excess and obsolete inventory
+                                                                       (1,093,000)              (447,100)
+                                                             ------------------------ -----------------------
+
+                                                                   $   20,978,714           $ 22,131,096
+                                                             ======================== =======================
+</TABLE>
+
+New inventory includes products purchased from the manufacturers plus
+"surplus-new" which is unused products purchased from other distributors or
+multiple system operators. Used inventory includes factory remanufactured,
+Company remanufactured and used products.
+
+We regularly review inventory quantities on hand and a departure from cost
+is required when the loss of usefulness of an item or other factors, such as
+obsolete and excess inventories, indicate that cost will not be recovered when
+an item is sold. Demand for some of the items in our inventory has been impacted
+by recent economic conditions present in the cable industry. The Company
+recorded a charge to allow for obsolete inventory at September 30, 2004,
+increasing the cost of sales by $645,900. We recorded a charge to allow for
+obsolete inventory at September 30, 2003, increasing the cost of sales by
+$447,100. We wrote certain items in inventory down to their estimated market
+values at September 30, 2002, increasing the cost of sales by $1,442,938.
+
+                                       32
+<PAGE>
+Note 3 - Line of Credit, Stockholder Notes, and Notes Payable
+
+At September 30, 2004, a $3,225,183 balance is outstanding under a $7.0
+million line of credit due September 30, 2005, with interest payable monthly
+based on the prevailing 30-day LIBOR rate plus 2.0% (3.84% at September 30,
+2004). Borrowings under the line of credit are limited to the lesser of $7.0
+million or the sum of 80% of qualified accounts receivable and 50% of qualified
+inventory for working capital purposes. Among other financial covenants, the
+line of credit agreement provides that the Company's net worth must be greater
+than $15.0 million plus 50% of annual net income (with no deduction for net
+losses), determined quarterly. The line of credit is collateralized by
+inventory, accounts receivable, equipment and fixtures, and general intangibles.
+
+Cash receipts are applied from the Company's lockbox account directly
+against the bank line of credit, and checks clearing the bank are funded from
+the line of credit. The resulting overdraft balance, consisting of outstanding
+checks, was $471,620 at September 30, 2004, and is included in the bank
+revolving line of credit.
+
+An $8 million amortizing term note with Bank of Oklahoma was obtained to
+finance the redemption of the outstanding share of the Series A Convertible
+Preferred Stock at September 30, 2004. The note is due on September 30, 2009,
+with monthly principal payments of $100,000 plus accrued interest, and the note
+bears interest at the prevailing 30-day LIBOR rate plus 2.50%. An interest rate
+swap was entered into simultaneously with the note on September 30, 2004, which
+fixed the interest rate at 6.13%. Upon entering into this interest rate swap,
+the Company designated this derivative as a cash flow hedge by documenting our
+risk management objective and strategy for undertaking the hedge along with
+methods for assessing the swap's effectiveness. At September 30, 2004, the fair
+market value of the interest rate swap approximated its carrying value of $0.
+Notes payable secured by real estate of $384,381 are due in monthly payments
+through 2013 with interest at 5.5% through 2008, converting thereafter to prime
+minus .25%.
+
+The aggregate maturities of notes payable and the line of credit for the
+five years ending September 30, 2009 are as follows:
+
+                         2005                               $   4,462,230
+                         2006                                   1,237,047
+                         2007                                   1,237,047
+                         2008                                   1,237,047
+                         2009                                   3,237,047
+                         Thereafter                               199,146
+                                                            -------------
+                           Total                            $  11,609,564
+                                                            =============
+
+                                       33
+<PAGE>
+Note 4 - Income Taxes
+
+The provisions for income taxes consist of:
+<TABLE>
+<CAPTION>
+
+                                                              2004                    2003                    2002
+                                                     ----------------------- ----------------------- -----------------------
+<S>                                                         <C>                     <C>                       <C>
+       Current                                              $   3,685,000           $   1,901,000             $1,185,000
+       Deferred                                                  (172,000)               (414,000)              (81,000)
+                                                     ----------------------- ----------------------- -----------------------
+                                                            $   3,513,000           $   1,487,000             $1,104,000
+                                                     ======================= ======================= =======================
+</TABLE>
+ The following table summarizes the differences between the U.S. federal
+statutory rate and the Company's effective tax rate for financial statement
+purposes for the year ended September 30,:
+<TABLE>
+<CAPTION>
+
+
+                                                                  2004                2003                 2002
+                                                      ------------------- -------------------- ---------------------
+<S>                                                                 <C>                 <C>                  <C>
+        Statutory tax rate                                          34.0%               34.0%                34.0%
+        State income taxes, net of U.S.
+            federal tax benefit                                      4.7                 5.0                  2.4
+        Non-deductible goodwill
+             amortization and other
+             non-deductible expenses                                   -                   -                  1.4
+        Tax credits and exclusions                                  (0.6)               (2.8)                   -
+        Adjustment of deferred tax
+            asset valuation allowance                                  -                (7.4)                (3.8)
+        Other                                                       (0.4)               (3.9)                (0.6)
+                                                      ------------------- -------------------- ---------------------
+                                                                    37.7%               24.9%                33.4%
+                                                      =================== =================== =====================
+</TABLE>
+
+Deferred tax assets consist of the following at September 30:
+<TABLE>
+<CAPTION>
+
+                                                                         2004                    2003
+                                                               ------------------------- ---------------------
+
+<S>                                                                 <C>                       <C>
+           Net operating loss carryforwards                         $   1,316,000             $   1,417,000
+           Financial basis in excess of tax basis
+             of certain assets                                           (155,000)                 (131,000)
+           Financial liability accruals                                   532,000                   235,000
+                                                               ------------------------- ---------------------
+           Net deferred tax asset                                   $   1,693,000             $   1,521,000
+                                                               ========================= =====================
+
+           Deferred tax assets are classified as:
+             Current                                                $     651,000             $     367,000
+             Non-Current                                                1,042,000                 1,154,000
+                                                               ------------------------- ---------------------
+
+                                                                    $   1,693,000             $   1,521,000
+                                                               ========================= =====================
+</TABLE>
+
+                                       34
+<PAGE>
+
+Utilization of ADDvantage's net operating loss carry forward of
+approximately $3,467,000 to reduce future taxable income is limited to an annual
+amount of $265,000. The NOL carryforward expires in varying amounts from 2014 to
+2019.
+
+Note 5 - Stockholders' Equity
+
+The 1998 Incentive Stock Plan (the "Plan") provides for the award to
+officers, directors, key employees and consultants of stock options and
+restricted stock. The Plan provides that upon any issuance of additional shares
+of common stock by the Company, other than pursuant to the Plan, the number of
+shares covered by the Plan will increase to an amount equal to 10% of the then
+outstanding shares of common stock. Under the Plan, option prices will be set by
+the Board of Directors and may be greater than, equal to, or less than fair
+market value on the grant date.
+
+At September 30, 2004, 1,001,041 shares of common stock were reserved for
+the exercise of stock awards under the 1998 Incentive Stock Plan. Of the shares
+reserved for exercise of stock awards, 811,041 shares were available for future
+grants at September 30, 2004.
+
+A summary of the status of the Company's stock options at September 30,
+2004, 2003 and 2002 and changes during the years then ended is presented below.
+<TABLE>
+<CAPTION>
+
+
+                                                    2004                             2003                            2002
+                                            ----------------------------------------------------------------------------------------
+                                                             Wtd. Avg.                        Wtd. Avg.                Wtd. Avg.
+                                               Shares        Ex. Price         Shares         Ex. Price     Shares     Ex. Price
+                                            ---------------------------------------------------------------------------------------
+
+<S>                                             <C>            <C>             <C>              <C>        <C>              <C>
+ Outstanding, beginning of year                 179,000        $1.97           114,500          $2.07      114,500          $2.07
+ Granted                                          4,000         4.40            71,500           1.81            -              -
+ Exercised                                      (51,375)        2.03                 -              -            -              -
+ Canceled                                          (500)        1.50            (7,000)          1.50            -              -
+
+ Outstanding, end of year                       131,125        $2.83           179,000          $1.97      114,500          $2.07
+
+ Exercisable, end of year                       108,500        $3.08           129,875          $2.79       46,125          $2.31
+
+ Weighted average fair value of
+     Options granted                             $4.04                           $1.55                         N/A
+                                            ==============              ==============                ==============
+</TABLE>
+
+
+The following table summarizes information about fixed stock options
+outstanding at September 30, 2004:
+<TABLE>
+<CAPTION>
+
+                                           Options Outstanding                       Options Exercisable
+                              -----------------------------------------------  --------------------------------
+                                  Number        Remaining                          Number
+                                Outstanding    Contractual      Exercise         Exercisable      Exercise
+       Exercise Price           At 9/30/04         Life           Price          At 9/30/04         Price
+-----------------------------------------------------------------------------  --------------------------------
+<S>        <C>                      <C>         <C>                <C>               <C>             <C>
+           $4.400                   4,000       9.5 years          $4.400            2,500           $1.900
+           $1.650                   5,000       7.5 years          $1.650            5,000           $1.650
+           $0.810                   5,000       6.5 years          $0.810            5,000           $0.810
+           $1.500                   5,000       5.5 years          $1.500            5,000           $1.500
+           $1.500                  29,625       4.5 years          $1.500           14,500           $1.500
+           $3.125                  22,500       3.5 years          $3.125           22,500           $3.125
+           $4.000                  50,000       3.0 years          $4.000           50,000           $4.000
+                              ----------------                                 ----------------
+                                  131,125                                          108,500
+                              ================                                 ================
+</TABLE>
+
+                                       35
+<PAGE>
+The fair value of each option grant is estimated on the date of grant using
+the Black-Scholes option pricing model with the following weighted-average
+assumptions used for grants in 2004: risk-free interest rates of 2.0%; expected
+dividend yield of 0.0%; expected lives of 6 years; and estimated volatility of
+142%.
+
+The Series B Preferred Stock (the "Preferred Stock") has priority over the
+Company's common stock with respect to the payment of dividends and the
+distribution of assets. Cash dividends on the Preferred Stock shall be payable
+quarterly when and as declared by the Board of Directors. Interest accrues on
+unpaid dividends at the rate of 7% per annum. No dividends may be paid on any
+class of stock ranking junior to the Preferred Stock unless Preferred Stock
+dividends have been paid. Liquidation preference is equal to the stated value
+per share. The Preferred Stock is redeemable at any time at the option of the
+Board of Directors at a redemption price equal to the stated value per share.
+Holders of the Preferred Stock do not have any voting rights unless the Company
+fails to pay dividends for four consecutive dividend payment dates.
+
+Note 6 - Related Parties
+
+Cash used in financing activities in 2004 was primarily used to pay
+dividends on the Company's Series A and Series B Preferred Stock. On September
+30, 2004, the Company redeemed, at the $8 million stated value, all of the
+Series A Preferred Stock, which was beneficially owned by David E. Chymiak and
+Kenneth A. Chymiak. With the redemption of the Series A Preferred Stock on
+September 30, 2004, dividends on the remaining Series B Preferred Stock total
+$840,000 annually. The outstanding common and preferred stock is beneficially
+owned by our principal shareholders as reflected in the following table.
+
+Stock Ownership
+---------------
+                                                              Percent of
+                                     Percent of                Series B
+                                        Common                 Preferred
+                                        Stock                     Stock
+Name of                              Beneficially              Beneficially
+Beneficial Owner                          Owned                Owned (A)
+----------------                          -----                ---------
+
+David E. Chymiak                         39.0%                    50.0%
+
+Kenneth A. Chymiak                       35.2%                    50.0%
+
+(A) The outstanding preferred stock has an aggregate preference upon
+liquidation of $12,000,000.
+
+In fiscal 1999, Chymiak Investments, L.L.C., which is owned by David E.
+Chymiak and Kenneth A. Chymiak, purchased from TULSAT Corporation on September
+30, 1999, the real estate and improvements comprising the headquarters and a
+substantial portion of the other office and warehouse space of TULSAT
+Corporation for a price of $1,286,000. The price represents the appraised value
+of the property less the sales commission and other sales expenses that would
+have been incurred by TULSAT Corporation if it had sold the property to a third
+party in an arm's-length transaction. TULSAT Corporation entered into a
+five-year lease commencing October 1, 1999 with Chymiak Investments, L.L.C.
+covering the property. This lease was renewed on October 1, 2004 and will expire
+on September 30, 2008.
+
+                                       36
+<PAGE>
+In fiscal 2001, ADDvantage Technologies Group of Texas borrowed $150,000 on
+June 26, 2001 from Chymiak Investments, L.L.C for the purchase of a building
+consisting of office and warehouse space at the location in Texas. The note is
+payable at 7.5% over 10 years and total interest paid in 2004, 2003 and 2002 was
+$4,898, $9,869 and $10,694, respectively. The note was repaid in April 2004.
+
+In fiscal 2002, ADDvantage Technologies Group of Missouri completed
+additions at its location in Missouri and financed $342,000 from Chymiak
+Investments, L.L.C for a building consisting of office and warehouse space. The
+note is payable at 7.5% over 10 years and total interest paid in 2004, 2003 and
+2002 was $11,694, $23,371 and $21,657, respectively. The note was repaid in
+April 2004.
+
+Chymiak Investments Inc., which is owned by Kenneth A. Chymiak and his
+wife, Susan C. Chymiak, owns three other properties leased to TULSAT Corporation
+for five-year terms (all ending in 2008).
+
+The Company had outstanding, unsecured stockholder loans of $800,000 at
+September 30, 2003. Of this amount, $650,000 was payable to revocable trusts for
+the benefit of Kenneth A. Chymiak and his wife and $150,000 was payable to David
+E. Chymiak. The interest rate on the notes was 1.25% below the Chase Manhattan
+Bank Prime, which was the same rate as the Company's bank line of credit. The
+total interest paid on the notes was $19,134 in 2004, $30,323 in 2003 and
+$47,352 in 2002. These notes were repaid in August and September 2004.
+
+ The Company leases various properties primarily from two companies owned by
+David E. Chymiak and Kenneth A. Chymiak. Future minimum lease payments under
+these leases are as follows:
+
+                           2005                               $    480,240
+                           2006                                    380,040
+                           2007                                    360,000
+                           2008                                    324,000
+                                                              ------------
+                                                              $  1,544,280
+                                                              ============
+
+Related party rental expense for the years ended September 30, 2004, 2003
+and 2002 was $466,000, $461,000 and $438,000, respectively.
+
+Note 7 - Retirement Plan
+
+The Company sponsors a 401(k) plan that covers all employees who are at
+least 21 years of age and have completed one year of service as of the plan
+effective date. The Company's contributions to the plan consist of a matching
+contribution as determined by the plan document. Pension expense under the
+401(k) plan was $161,644 during the year ended September 30, 2004, $140,673
+during the year ended September 30, 2003, and $111,144 during the year ended
+September 30, 2002.
+
+                                       37
+<PAGE>
+
+Note 8 - Earnings per Share
+<TABLE>
+<CAPTION>
+                                                          Year ended          Year ended          Year Ended
+                                                        September 30,       September 30,       September 30,
+                                                             2004                2003                2002
+                                                      ------------------- ------------------- -------------------
+
+<S>                                                   <C>                 <C>                 <C>
+Net income                                            $     5,813,753     $     4,492,588     $     2,201,208
+Dividends on preferred stock                                1,240,000           1,240,000           1,240,000
+                                                      ------------------- ------------------- -------------------
+Net income attributable to
+    common shareholders - basic                             4,573,753           3,252,588             961,208
+Dividends on Series A convertible
+    preferred stock                                           400,000             400,000             400,000
+                                                      ------------------- ------------------- -------------------
+Net income attributable to common
+    shareholders - diluted                            $     4,973,753     $     3,652,588     $     1,361,208
+                                                      =================== =================== ===================
+
+
+Weighted average shares outstanding                        10,041,197          10,007,756           9,991,716
+
+Potentially dilutive securities
+Assumed conversion of 200,000 shares of
+  Series A convertible preferred stock                      2,000,000           2,000,000           2,000,000
+
+Effect of dilutive stock options                               63,344              13,479                   -
+                                                      ------------------- ------------------- -------------------
+
+Weighted average shares outstanding -
+    assuming dilution                                      12,104,541          12,021,235          11,991,716
+                                                      =================== =================== ===================
+
+Earnings per common share:
+    Basic                                             $         0.46      $         0.33      $         0.10
+    Diluted                                           $         0.41      $         0.30      $         0.10
+                                                      =================== =================== ===================
+</TABLE>
+
+
+Earnings per common share-diluted for the year ended September 30, 2002 are
+the same as basic earnings per share as conversion of potentially dilutive
+securities are anti-dilutive.
+
+                                       38
+<PAGE>
+Note 9 - Quarterly Results of Operations (Unaudited)
+
+The following is a summary of the quarterly results of operations for the
+years ended September 30, 2004 and 2003.
+<TABLE>
+<CAPTION>
+
+
+                                                                                Three months ended
+                                                   ------------------ -- ------------------ -- --------------- -- ---------------
+                                                      December 31            March 31             June 30          September 30
+                                                   ------------------    ------------------    ---------------    ---------------
+Fiscal year ended 2004
+<S>                                                     <C>                   <C>                <C>                <C>
+Net sales and service income                            $ 11,292,500          $ 11,654,041       $ 12,682,449       $ 11,442,339
+Gross profit                                               4,447,890             4,427,620          4,830,899          4,549,788
+Net income                                                 1,393,170             1,523,626          1,715,232          1,181,725
+Basic earnings per common share                                 0.11                  0.12               0.14               0.09
+Diluted earnings per common share                               0.10                  0.11               0.12               0.08
+
+Fiscal year ended 2003
+Net sales and service income                              $7,696,978            $8,570,726         $8,249,732         $8,810,309
+Gross profit                                               3,624,056             3,696,875          3,631,845          3,302,927
+Net income                                                 1,014,175             1,049,409          1,308,592          1,120,412
+Basic earnings per common share                                 0.07                  0.07               0.10               0.09
+Diluted earnings per common share                               0.07                  0.07               0.10               0.06
+</TABLE>
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+         None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Our management carried out an evaluation pursuant to Rule 13a-15 of the
+Securities Exchange Act of 1934, as amended, under the supervision and with the
+participation of our chief executive officer and chief financial officer, of the
+effectiveness of the design and operation of our disclosure controls and
+procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act)
+as of the end of the period covered by this Report. Based upon that evaluation,
+our chief executive officer and chief financial officer concluded that our
+disclosure controls and procedures are effective to ensure that information
+required to be disclosed by us in reports that we file or furnish under the
+Exchange Act are recorded, processed, summarized and reported within the time
+periods specified in Securities and Exchange Commission rules and forms.
+
+During the period covered by this report on Form 10-K, there has been no
+change in our internal control over financial reporting that has materially
+affected, or is reasonably likely to materially affect, our internal control
+over financial reporting.
+
+                                       39
+<PAGE>
+ITEM 9B. OTHER INFORMATION
+
+         None.
+
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The information required by this item concerning our officers, directors
+and compliance with Section 16(a) of the Securities Exchange Act of 1934, as
+amended, is incorporated by reference to the information in the sections
+entitled "Identity of Officers," "Election of Directors" and "Compliance with
+Section 16(a) of the Exchange Act," respectively, of our Proxy Statement for the
+2005 Annual Meeting of Shareholders (the "Proxy Statement") to be filed with the
+Securities and Exchange Commission within 120 days after the end of our fiscal
+year ended September 30, 2004.
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     The information required by this item concerning executive compensation is
+incorporated by reference to the information set forth in the section entitled
+"Compensation of Directors and Executive Officers" of our Proxy Statement.
+
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information required by this item regarding certain relationships and
+related transactions is incorporated by reference to the information set forth
+in the section entitled "Security Ownership of Certain Beneficial Owners and
+Management" of our Proxy Statement.
+
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information required by this item regarding certain relationships and
+related transactions is incorporated by reference to the information set forth
+in the section entitled "Certain Relationships and Related Transactions" of our
+Proxy Statement.
+
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+     The information required by this item regarding principal accounting fees
+and services is incorporated by reference to the information set forth in the
+section entitled "Appointment Of Independent Auditors" of our Proxy Statement.
+
+                                       40
+<PAGE>
+                                     PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+
+(a)      1.       The following financial statements are included in Part II,
+                  Item 8 of this Form 10-K.
+
+                  Report of Independent Registered Public Accounting Firm
+
+                  Consolidated Balance Sheets as of September 30, 2004 and 2003
+
+                  Consolidated Statements of Operations for the years ended
+                  September 30, 2004, 2003 and 2002
+
+                  Consolidated Statements of Stockholders' Equity for the years
+                  ended September 30, 2004, 2003 and 2002
+
+                  Consolidated Statements of Cash Flows for the years ended
+                  September 30, 2004, 2003 and 2002
+
+                  Notes to Consolidated Financial Statements
+
+         2.       The following financial statement Schedule II - Valuation and
+                  Qualifying Accounts for the years ended September 30, 2004,
+                  2003 and 2002 is filed as part of this report. All other
+                  financial statement schedules have been omitted because they
+                  are not applicable or are not required or the information
+                  required to be set forth therein is included in the financial
+                  statements or notes thereto contained in Part II, Item 8 of
+                   this current report.
+
+         Schedule II - Valuation and Qualifying Accounts
+<TABLE>
+<CAPTION>
+
+                                                   Balance at         Charged to                                    Balance at
+                                                   Beginning          Costs and                                       End
+                                                   of Period          Expenses       Write-offs     Recoveries     of Period
+                                                   ---------          --------       ----------     ----------     ---------
+Period Ended September 30, 2004
+<S>                                                   <C>             <C>            <C>            <C>             <C>
+Allowance for Doubtful Accounts                       $ 78,359        $(58,413)      $(19,968)      $ 68,085        $ 68,063
+Allowance for Excess and Obsolete Inventory            447,100          645,900              -             -       1,093,000
+Valuation Allowance of Deferred Tax Asset                    -                -              -             -               -
+
+Period Ended September 30, 2003
+Allowance for Doubtful Accounts                       $ 85,212         $ 83,740      $(90,593)        $    -        $ 78,359
+Allowance for Excess and Obsolete Inventory                  -          447,100              -             -         447,100
+Valuation Allowance of Deferred Tax Asset              443,000                -              -       443,000               -
+
+Period Ended September 30, 2002
+Allowance for Doubtful Accounts                         $    -        $ 229,975     $(144,763)        $    -        $ 85,212
+Allowance for Excess and Obsolete Inventory                  -                -              -             -               -
+Valuation Allowance of Deferred Tax Asset              567,000                -              -       124,000         443,000
+</TABLE>
+
+                                       41
+<PAGE>
+
+
+     3. The following documents are included as exhibits to this Form 10-K.
+Those exhibits below incorporated by reference herein are indicated as such by
+the information supplied in the parenthetical thereafter. If no parenthetical
+appears after an exhibit, such exhibit is filed herewith.
+
+     Exhibit
+     -------
+
+     3.1  Certificate of Incorporation of the Company and amendments thereto
+          incorporated by reference to Exhibit 3.1 to the Annual Report on Form
+          10-KSB filed with the Securities Exchange Commission by the Company on
+          January 10, 2003.
+
+     3.2  Bylaws of the Company, as amended, incorporated by reference to
+          Exhibit 3.2 to the Annual Report on Form 10-KSB filed with the
+          Securities Exchange Commission by the Company on January 10, 2003.
+
+     4.1  Certificate of Designation, Preferences, Rights and Limitations of
+          ADDvantage Media Group, Inc. Series A 5% Cumulative Convertible
+          Preferred Stock and Series B 7% Cumulative Preferred Stock as filed
+          with the Oklahoma Secretary of State on September 30, 1999
+          incorporated by reference to Exhibit 4.1 to the Current Report on Form
+          8-K filed with the Securities Exchange Commission by the Company on
+          October 14, 1999.
+
+     10.1 Lease Agreement dated September 15, 1999 by and between Chymiak
+          Investments, L.L.C. and TULSAT Corporation (formerly named DRK
+          Enterprises, Inc.) incorporated by reference to Exhibit 10.3 to the
+          Annual Report on Form 10-KSB filed with the Securities Exchange
+          Commission by the Company on December 30, 1999.
+
+     10.2 Schedule of documents substantially similar to Exhibit 10.1
+          incorporated by reference to Exhibit 10.3 to the Annual Report on Form
+          10-KSB filed with the Securities Exchange Commission by the Company on
+          December 30, 1999.
+
+     10.4 Form of promissory notes issued by TULSAT to David Chymiak and to Ken
+          Chymiak Revocable Trust and Susan C. Chymiak Revocable Trust dated as
+          of February 7, 2000 incorporated by reference to Exhibit 10.7 to the
+          Annual Report on Form 10-KSB filed with the Securities Exchange
+          Commission on January 9, 2001.
+
+     10.5 Revolving Credit and Term Loan Agreement dated September 30, 2004, by
+          and between Bank of Oklahoma, N.A. ("Lender") and Registrant
+          ("Borrower").
+
+     21.1 Subsidiaries incorporated by reference to Exhibit 21.1 to the Annual
+          Report on Form 10-KSB filed with the Securities Exchange Commission by
+          the Company on January 10, 2003.
+
+                                       42
+<PAGE>
+
+     23.1 Consent of Tullius Taylor Sartain & Sartain LLP.
+
+     31.1 Certification of Chief Executive Officer and Chief Financial Officer
+          pursuant to Section 302 of the Sarbanes Oxley Act of 2002.
+
+     32.1 Certification of the Chief Executive Officer and Chief Financial
+          Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                    ADDvantage Technologies Group, Inc.
+
+Date:  December 22, 2004            By: /s/ Kenneth A. Chymiak
+                                        ----------------------
+                                        Kenneth A. Chymiak, President
+
+
+     In accordance with the Exchange Act, this report has been signed below by
+the following persons on behalf of the registrant and in the capacities and on
+the dates indicated.
+
+
+Date:  December 22, 2004              /s/ David E. Chymiak
+                                      --------------------
+                                      David E. Chymiak, Chairman of the Board of
+                                      Directors
+
+Date:  December 22, 2004              /s/ Kenneth A. Chymiak
+                                      ----------------------
+                                      Kenneth A. Chymiak, President, Chief
+                                      Executive Officer and Director (Principal
+                                      Executive Officer and Principal Financial
+                                      Officer)
+
+Date:  December 22, 2004              /s/ Dee Cooper
+                                      --------------
+                                      Dee Cooper, Controller (Principal
+                                      Accounting Officer)
+
+Date:  December 22, 2004              /s/ Stephen J. Tyde
+                                      -------------------
+                                      Stephen J. Tyde, Director
+
+
+Date:  December 22, 2004              /s/ Freddie H. Gibson
+                                      ---------------------
+                                      Freddie H. Gibson, Director
+
+
+Date:  December 22, 2004              /s/ Henry F. McCabe
+                                      -------------------
+                                      Henry F. McCabe, Director
+
+
+                                       43
+<PAGE>
+                                INDEX TO EXHIBITS
+
+The following documents are included as exhibits to this Form 10-K. Those
+exhibits below incorporated by reference herein are indicated as such by the
+information supplied in the parenthetical thereafter. If no parenthetical
+appears after an exhibit, such exhibit is filed herewith.
+
+         Exhibit                 Description
+         -------                 -----------
+
+          3.1  Certificate of Incorporation of the Company and amendments
+               thereto incorporated by reference to Exhibit 3.1 to the Annual
+               Report on Form 10-KSB filed with the Securities Exchange
+               Commission by the Company on January 10, 2003.
+
+          3.2  Bylaws of the Company, as amended, incorporated by reference to
+               Exhibit 3.2 to the Annual Report on Form 10-KSB filed with the
+               Securities Exchange Commission by the Company on January 10,
+               2003.
+
+          4.1  Certificate of Designation, Preferences, Rights and Limitations
+               of ADDvantage Media Group, Inc. Series A 5% Cumulative
+               Convertible Preferred Stock and Series B 7% Cumulative Preferred
+               Stock as filed with the Oklahoma Secretary of State on September
+               30, 1999 incorporated by reference to Exhibit 4.1 to the Current
+               Report on Form 8-K filed with the Securities Exchange Commission
+               by the Company on October 14, 1999.
+
+          10.1 Lease Agreement dated September 15, 1999 by and between Chymiak
+               Investments, L.L.C. and TULSAT Corporation (formerly named DRK
+               Enterprises, Inc.) incorporated by reference to Exhibit 10.3 to
+               the Annual Report on Form 10-KSB filed with the Securities
+               Exchange Commission by the Company on December 30, 1999.
+
+          10.2 Schedule of documents substantially similar to Exhibit 10.1
+               incorporated by reference to Exhibit 10.3 to the Annual Report on
+               Form 10-KSB filed with the Securities Exchange Commission on
+               December 30, 1999.
+
+          10.4 Form of promissory notes issued by TULSAT to David Chymiak and to
+               Ken Chymiak Revocable Trust and Susan C. Chymiak Revocable Trust
+               dated as of February 7, 2000 incorporated by reference to Exhibit
+               10.7 to the Annual Report on Form 10-KSB filed with the
+               Securities Exchange Commission on January 9, 2001.
+
+          10.5 Revolving Credit and Term Loan Agreement dated September 30,
+               2004, by and between Bank of Oklahoma, N.A. ("Lender") and
+               Registrant ("Borrower").
+
+          21.1 Subsidiaries incorporated by reference to Exhibit 21.1 to the
+               Annual Report on Form 10-KSB filed with the Securities Exchange
+               Commission by the Company on January 10, 2003.
+
+                                       44
+<PAGE>
+
+          23.1 Consent of Tullius Taylor Sartain & Sartain LLP.
+
+          31.1 Certification of Chief Executive Officer and Chief Financial
+               Officer pursuant to Section 302 of the Sarbanes Oxley Act of
+               2002.
+
+          32.1 Certification of the Chief Executive Officer and Chief Financial
+               Officer pursuant to Section 906 of the Sarbanes-Oxley Act of
+               2002.
+
+                                       45
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,835 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>c67956e10-k405.txt
+<DESCRIPTION>ANNUAL REPORT FOR FISCAL YEAR ENDED 12/31/01
+<TEXT>
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+[X] Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act
+    of 1934
+
+For the fiscal year ended DECEMBER 31, 2001
+
+[ ] Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+    Act of 1934
+
+For the transition period from ____________to____________
+
+Commission file number     1-6706
+
+                               BADGER METER, INC.
+               (Exact name of registrant as specified in charter)
+
+      WISCONSIN                                         39-0143280
+(State of Incorporation)                    (I.R.S. Employer Identification No.)
+
+4545 W. BROWN DEER ROAD
+ MILWAUKEE, WISCONSIN                                     53223
+(Address of principal executive offices)                (Zip Code)
+
+Registrant's telephone number, including area code:    414 - 355-0400
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                  Name of each exchange
+Title of class:                                   on which registered:
+COMMON STOCK                                      AMERICAN STOCK EXCHANGE
+COMMON SHARE PURCHASE RIGHTS                      AMERICAN STOCK EXCHANGE
+
+Securities registered pursuant to Section 12(g) of the Act:        NONE
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months and (2) has been subject to such filing requirements for
+the past 90 days. YES X   NO
+                     ---     ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+The aggregate market value of voting stock held by nonaffiliates of the
+registrant was $73,922,683 as of February 28, 2002. At February 28, 2002, the
+registrant had 2,926,472 shares of Common Stock outstanding.
+
+                      Documents Incorporated by Reference:
+
+         Parts I and II incorporate information by reference from the company's
+2001 Annual Report to Shareholders.
+
+         Part III incorporates information by reference from the definitive
+Proxy Statement for the Annual Meeting of Shareholders to be held on April 19,
+2002 [to be filed with the Securities and Exchange Commission under Regulation
+14A within 120 days after the end of the registrant's fiscal year].
+
+
+<PAGE>
+                                     Part I
+
+
+Item 1. Business
+
+         Badger Meter, Inc. (the "company") is a leading marketer and
+manufacturer of products, and a provider of services, using flow measurement and
+control technologies serving markets worldwide. The company was incorporated in
+1905.
+
+                              Markets and Products
+
+         The company's products are sold to water utilities, original equipment
+manufacturers and various industrial customers primarily operating in the
+following markets: water, wastewater and process waters; energy and petroleum;
+food and beverage; pharmaceutical; chemical; and concrete.
+
+         The company has five major product lines: residential and
+commercial/industrial water meters (with related technologies), automotive fluid
+meters, small precision valves and industrial process meters. Water meters and
+related systems produce the majority of the company's sales. A "water meter
+system" generally consists of a water meter, a register (some with an interface
+technology for communicating the reading), packaging and the monitoring or
+computerized management system used to collect and relay the reading.
+
+         The company's products are primarily manufactured and assembled in the
+company's Milwaukee, Wisconsin, Tulsa, Oklahoma, Rio Rico, Arizona and Brno,
+Czech Republic facilities. Assembly is also done in the company's Nogales,
+Mexico and Stuttgart, Germany facilities.
+
+         Badger Meter's products are sold throughout the world through various
+distribution channels including direct sales representatives, distributors and
+independent sales representatives. There is only a moderate seasonal impact on
+sales, primarily relating to slightly higher sales of certain utility products
+during the spring and summer months. No single customer accounts for more than
+10% of the company's sales.
+
+                                   Competition
+
+         There are several competitors in each of the markets in which the
+company sells its products, and the competition varies from moderate to intense.
+Major competitors include Invensys, Inc., Neptune Technology Group, Inc.
+(formerly Schlumberger Industries, Inc.) and ABB-Kent Meters, Inc. A number of
+the company's competitors in certain markets have greater financial resources.
+The company believes it currently provides the leading technology in certain
+types of automated and automatic water meter systems and small, high-precision
+valves. As a result of significant research and development activities, the
+company enjoys favorable patent positions for several of its products.
+
+                                     Backlog
+
+         The dollar amount of the company's total backlog of unshipped orders at
+December 31, 2001 and 2000 was $18,100,000 and $20,400,000, respectively. The
+company expects to ship nearly all of the December 31, 2001 backlog in 2002.
+
+                                  Raw Materials
+
+         Raw materials used in the manufacture of the company's products include
+metal or alloys (such as bronze, aluminum, stainless steel, cast iron, brass and
+stellite), plastic resins, glass, microprocessors and other electronic
+subassemblies and components. There are multiple sources for these raw
+materials, but the company purchases some bronze castings and certain electronic
+subassemblies from single suppliers. The company believes these items would be
+available from other sources, but that the loss of its current suppliers would
+result in higher cost of materials, delivery delays, short-term increases in
+inventory and higher quality control costs. The company carries business
+interruption insurance on key suppliers. Prices may also be affected by world
+commodity markets.
+
+
+
+
+                                       2
+<PAGE>
+                            Research and Development
+
+         Expenditures for research and development activities relating to the
+development of new products, the improvement of existing products and
+manufacturing process improvements were $5,422,000 during 2001, as compared to
+$6,562,000 during 2000 and $6,012,000 during 1999. Research and development
+activities are primarily sponsored by the company. The company also engages in
+some joint research and development with other companies.
+
+                                Intangible Assets
+
+         The company owns or controls many patents, trademarks, trade names and
+license agreements in the United States and other countries that relate to its
+products and technologies. No single patent, trademark, trade name or license is
+material to the company's business as a whole.
+
+                            Environmental Protection
+
+         The company is subject to contingencies relative to compliance with
+Federal, State and local provisions and regulations relating to the protection
+of the environment. Currently the company is in the process of resolving an
+issue relative to a landfill site. The company does not believe the ultimate
+resolution of this issue will have a material adverse effect on the company's
+financial position or results of operations. Expenditures during 2001 and 2000
+for compliance with environmental control provisions and regulations were not
+material and the company does not anticipate any material future expenditures.
+
+         To insure compliance with environmental regulations at company sites,
+the Board of Directors has established a Compliance Committee that monitors the
+company's compliance with various regulatory authorities in regard to
+environmental matters, among other things.
+
+                                    Employees
+
+         The company and its subsidiaries employed 936 persons at December 31,
+2001, of which 230 employees are covered by a collective bargaining agreement
+with District 10 of the International Association of Machinists. The company is
+currently operating under a four-year contract with the union, which expires on
+October 31, 2004. The company has good relations with the union and all of its
+employees.
+
+                       Foreign Operations and Export Sales
+
+         The company has distributors and sales representatives throughout the
+world. Additionally, the company has a sales, assembly and distribution facility
+in Stuttgart, Germany, sales and customer service offices in Mexico City and
+Singapore, an assembly facility in Nogales, Mexico, and a manufacturing facility
+in Brno, Czech Republic. The company exports products from the United States
+that are manufactured in Milwaukee, Wisconsin, Tulsa, Oklahoma, and Rio Rico,
+Arizona.
+
+         Information about the company's foreign operations and export sales is
+included in Note 10 in the Notes to Consolidated Financial Statements of the
+company's 2001 Annual Report to Shareholders and such information is
+incorporated herein by reference.
+
+
+                  Financial Information about Industry Segments
+
+         The company operates in one industry segment as a marketer and
+manufacturer of various flow measurement and control products as described in
+Note 10 in the Notes to Consolidated Financial Statements of the company's 2001
+Annual Report to Shareholders and such information is incorporated herein by
+reference.
+
+
+                                       3
+<PAGE>
+
+Item 2. Properties
+
+         The principal facilities utilized by the company at December 31, 2001,
+are listed below. Except as indicated, the company owns all of such facilities
+in fee simple. The company believes that its facilities are generally well
+maintained and have sufficient capacity for its current needs.
+
+<TABLE>
+<CAPTION>
+                                                                                      Approximate Area
+Location                                Principal Use                                  (Square Feet)
+--------                                -------------                                  -------------
+<S>                                     <C>                                           <C>
+Milwaukee, Wisconsin                    Manufacturing and offices                        323,000
+Tulsa, Oklahoma                         Manufacturing and offices                         59,500
+Rio Rico, Arizona                       Manufacturing and offices                         36,000
+Nogales, Mexico                         Assembly and offices                              41,700 (1)
+Stuttgart, Germany                      Assembly and offices                              23,000 (2)
+Brno, Czech Republic                    Manufacturing and offices                         12,900
+</TABLE>
+
+(1)  Leased facility. Lease term expires January 31, 2004.
+(2)  Leased facility. Lease term expires December 31, 2005.
+
+
+Item 3. Legal Proceedings
+
+         There are currently no material legal proceedings pending with relation
+to the company.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+         No matters were submitted to a vote of the company's shareholders
+during the quarter ended December 31, 2001.
+
+
+
+
+
+
+
+
+
+
+
+                                       4
+<PAGE>
+                        Executive Officers of the Company
+
+              The following table sets forth certain information regarding the
+executive officers of the company.
+<TABLE>
+<CAPTION>
+                                                                                         Age at
+Name                                        Position                                    2/28/2002
+----                                        --------                                    ---------
+<S>                                         <C>                                         <C>
+James L. Forbes                             Chairman and Chief Executive Officer             69
+
+Richard A. Meeusen                          President                                        47
+
+Robert D. Belan                             Executive Vice President                         61
+
+Robert M. Bullis                            Vice President - Manufacturing                   52
+
+Ronald H. Dix                               Vice President - Administration and              57
+                                            Human Resources
+
+Deirdre C. Elliott                          Vice President - Corporate Counsel               45
+                                            and Secretary
+
+Horst Gras                                  Vice President - International Operations        46
+
+Richard E. Johnson                          Vice President - Finance, Chief Financial        47
+                                            Officer and Treasurer
+
+Beverly L.P. Smiley                         Vice President - Corporate Controller            52
+
+Kenneth E. Smith                            Vice President - Sales and Marketing             53
+
+Dennis J. Webb                              Vice President - Engineering                     54
+
+Daniel D. Zandron                           Vice President - Business Development            53
+</TABLE>
+
+         There are no family relationships between any of the executive
+officers. All of the officers are elected annually at the first meeting of the
+Board of Directors held after each annual meeting of the shareholders. Each
+officer holds office until his successor has been elected or until his death,
+resignation or removal. There is no arrangement or understanding between any
+executive officer and any other person pursuant to which he was elected as an
+officer.
+
+         Mr. Forbes was elected Chairman and Chief Executive Officer in November
+2001. Mr. Forbes served as Chairman, President and Chief Executive officer from
+February to November 2001, and has served as Chairman and Chief Executive
+Officer from April 1999 to February 2001. Prior to that date, Mr. Forbes served
+as President and Chief Executive Officer for more than five years.
+
+         Mr. Meeusen was elected President in November 2001. Mr. Meeusen served
+as Executive Vice President - Administration from February to November 2001, and
+as Treasurer from January 1996 to February 2001. In addition, Mr. Meeusen served
+as Vice President - Finance and Chief Financial Officer from November 1995 to
+February 2001.
+
+         Mr. Belan was elected Executive Vice President in November 2001. Mr.
+Belan served as Executive Vice President - Operations from February to November
+2001, and as President and Chief Operating Officer from April 1999 to February
+2001. Mr. Belan served as Executive Vice President from April 1998 to April
+1999. Prior to that date, Mr. Belan served as Vice President - Utility for more
+than five years.
+
+         Mr. Bullis was elected Vice President - Manufacturing in February 2001.
+He served as Vice President - Operations from November 1999 to February 2001.
+Prior to that date, Mr. Bullis served as Vice President - Operations - Utility
+for more than five years.
+
+
+
+                                       5
+<PAGE>
+
+         Mr. Dix was elected Vice President - Administration and Human Resources
+in November 2001. Mr. Dix served as Vice President - Human Resources from
+February to November 2001. Prior to that date, Mr. Dix served as Vice President
+- Administration and Human Resources for more than five years.
+
+         Ms. Elliott has served as Vice President - Corporate Counsel and
+Secretary for more than five years.
+
+         Mr. Gras was elected Vice President - International Operations in
+November 2001. Prior to that date, Mr. Gras served as Vice President - Badger
+Meter Europe for more than five years.
+
+         Mr. Johnson joined the company and was elected Vice President -
+Finance, Chief Financial Officer and Treasurer in February 2001. Prior to
+joining the company, Mr. Johnson served as Director of Business Support for the
+Energy Delivery Business of Wisconsin Electric Power Company from 1999 to
+December 2000. From 1996 to 1999, Mr. Johnson served as the Director of Business
+Support for the Distribution Operations of Wisconsin Electric Power Company.
+
+         Ms. Smiley was elected Vice President - Corporate Controller in
+November 1999. Ms. Smiley served as Corporate Controller from April 1997 to
+November 1999. Prior to that date, Ms. Smiley served as Accounting Manager of
+the company for more than five years.
+
+         Mr. Smith was elected Vice President - Sales and Marketing in November
+2001. Mr. Smith served as Vice President - Industrial Products and International
+from November 2000 to November 2001. Mr. Smith served as Vice President -
+Industrial and Commercial Products from January 2000 to November 2000. Prior to
+joining the company, Mr. Smith served as President of Peek Measurement Group for
+more than five years.
+
+         Mr. Webb was elected Vice President - Engineering in November 2001. Mr.
+Webb served as Vice President - Customer Solutions from April 2000 to November
+2001, and as Vice President - Engineering and Quality from November 1999 to
+April 2000. Prior to that date, Mr. Webb served as Vice President - Engineering
+and Quality - Utility for more than five years.
+
+         Mr. Zandron was elected Vice President - Business Development in
+November 2001. Mr. Zandron served as Vice President - Utility Products from
+November 2000 to November 2001, and as Vice President - Commercial and
+Industrial Products, and a number of similar capacities, from January 2000 to
+November 2000. From May 1999 to January 2000, Mr. Zandron served as Vice
+President - Commercial and Industrial Products - Utility. Prior to that date,
+Mr. Zandron served as Vice President - Commercial and Industrial and Marketing
+for more than five years.
+
+
+                                     Part II
+
+
+Item 5.   Market for the Registrant's Common Stock and Related Stockholder
+          Matters
+
+          The information set forth on page 25 in the company's 2001 Annual
+          Report to Shareholders is incorporated herein by reference in response
+          to this Item.
+
+Item 6.   Selected Financial Data
+
+          The information set forth on pages 1 and 26 in the company's 2001
+          Annual Report to Shareholders is incorporated herein by reference in
+          response to this Item.
+
+Item 7.   Management's Discussion and Analysis of Financial Condition and
+          Results of Operations
+
+          The information set forth on pages 12 through 15 in the company's 2001
+          Annual Report to Shareholders is incorporated herein by reference in
+          response to this Item.
+
+Item 7.a. Quantitative and Qualitative Disclosures of Market Risk
+
+          The information set forth on page 15 under the heading "Market Risk"
+          in the company's 2001 Annual Report to Shareholders is incorporated
+          herein by reference in response to this Item.
+
+
+
+                                       6
+<PAGE>
+
+Item 8.  Financial Statements and Supplementary Data
+
+         Consolidated financial statements of the company at December 31, 2001
+         and 2000 and for each of the three years in the period ended December
+         31, 2001 and the auditor's report thereon and the company's unaudited
+         quarterly financial data for the two-year period ended December 31,
+         2001 are incorporated herein by reference from the 2001 Annual Report
+         to Shareholders, pages 16 through 26.
+
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+         Financial Disclosure
+
+         None.
+
+
+                                    Part III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+         Information required by this Item with respect to directors is included
+         under the headings "Nomination and Election of Directors" and "Section
+         16(a) Beneficial Ownership Reporting Compliance" in the company's
+         definitive Proxy Statement relating to the Annual Meeting of
+         Shareholders to be held on April 19, 2002, and is incorporated herein
+         by reference.
+
+         Information concerning the executive officers of the company is
+         included in Part I of this Form 10-K.
+
+Item 11. Executive Compensation
+
+         Information required by this Item is included under the headings
+         "Nomination and Election of Directors - Director Compensation" and
+         "Executive Compensation" in the company's definitive Proxy Statement
+         relating to the Annual Meeting of Shareholders to be held on April 19,
+         2002, and is incorporated herein by reference; provided, however, that
+         the subsection entitled "Executive Compensation-Board Management Review
+         Committee Report on Executive Compensation" shall not be deemed to be
+         incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+         Information required by this Item is included under the heading "Stock
+         Ownership of Management and Others" in the company's definitive Proxy
+         Statement relating to the Annual Meeting of Shareholders to be held on
+         April 19, 2002, and is incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions
+
+         Information required by this Item is included under the headings
+         "Management Review Committee Interlocks and Insider Participation" and
+         "Certain Transactions" in the company's definitive Proxy Statement
+         relating to the Annual Meeting of Shareholders to be held on April 19,
+         2002, and is incorporated herein by reference.
+
+
+                                     Part IV
+
+
+Item 14. Exhibits, Financial Statement Schedule, and Reports on Form 8-K
+
+         (a)  Documents filed
+
+              1. and 2.  Financial Statements and Financial Statement Schedule.
+                         See Index to Financial Statements and Financial
+                         Statement Schedule on page F-0 which is incorporated
+                         herein by reference.
+
+
+                                       7
+<PAGE>
+
+                     3.  Exhibits. See the Exhibit Index included as the last
+                         pages of this report which is incorporated herein by
+                         reference.
+
+         (b)  Reports on Form 8-K
+
+              No report on Form 8-K was filed by the registrant during the
+              quarter ended December 31, 2001.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       8
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this Annual Report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+BADGER METER, INC.
+Registrant
+
+By:     /s/ Richard E. Johnson
+        ----------------------
+        Richard E. Johnson
+        Vice President - Finance, Chief Financial Officer,
+        and Treasurer
+        February 8, 2002
+
+By:     /s/ Beverly L.P. Smiley
+        -----------------------
+        Beverly L.P. Smiley
+        Vice President - Corporate Controller
+        February 8, 2002
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated:
+
+
+/s/ James L. Forbes                             /s/ Andrew J. Policano
+-------------------                             ----------------------
+James L. Forbes                                 Andrew J. Policano
+Chairman and                                    Director
+Chief Executive Officer                         February 8, 2002
+February 8, 2002
+
+/s/ Richard A. Meeusen                          /s/ Steven J. Smith
+----------------------                          -------------------
+Richard A. Meeusen                              Steven J. Smith
+President                                       Director
+February 8, 2002                                February 8, 2002
+
+/s/ Charles F. James, Jr.                       /s/ John J. Stollenwerk
+-------------------------                       -----------------------
+Charles F. James, Jr.                           John J. Stollenwerk
+Director                                        Director
+February 8, 2002                                February 8, 2002
+
+/s/ Kenneth P. Manning                          /s/ James O. Wright, Jr.
+----------------------                          ------------------------
+Kenneth P. Manning                              James O. Wright, Jr.
+Director                                        Director
+February 8, 2002                                February 8, 2002
+
+/s/ Ulice Payne, Jr.
+--------------------
+Ulice Payne, Jr.
+Director
+February 8, 2002
+
+
+
+
+                                       9
+<PAGE>
+                               BADGER METER, INC.
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+                 AND CONSOLIDATED FINANCIAL STATEMENT SCHEDULES
+
+<TABLE>
+<CAPTION>
+                                                                       Page References
+                                                              Annual Report
+                                                                  to
+                                                              Shareholders          Form 10-K
+                                                              Page Number           Page Number
+                                                              -----------           -----------
+<S>                                                           <C>                   <C>
+Item 14(a) 1
+
+   Financial statements:
+
+     Consolidated statements of operations
+       for each of the three years in the
+       period ended December 31, 2001                             16
+
+     Consolidated balance sheets at
+       December 31, 2001 and 2000                                 17
+
+     Consolidated statements of cash flows
+       for each of the three years in the
+       period ended December 31, 2001                             18
+
+     Consolidated statements of shareholders'
+       equity for each of the three years in
+       the period ended December 31, 2001                         19
+
+     Notes to consolidated financial
+       statements                                               20 - 25
+
+     Report of Ernst & Young LLP,
+       Independent Auditors                                       26
+
+
+Item 14(a) 2
+
+   Financial statement schedules:
+     Consolidated schedules for each of
+       the three years in the period ended
+       December 31, 2001
+         II - Valuation and qualifying accounts                                      F-1
+</TABLE>
+
+All other schedules are omitted since the required information is not present or
+is not present in amounts sufficient to require submission of the schedules, or
+because the information required is included in the financial statements and the
+notes thereto.
+                                      F-0
+
+
+                                       10
+<PAGE>
+
+                               BADGER METER, INC.
+
+          SCHEDULE II - CONSOLIDATED VALUATION AND QUALIFYING ACCOUNTS
+
+                  Years ended December 31, 2001, 2000 and 1999
+
+
+<TABLE>
+<CAPTION>
+                                            Balance at           Additions           Deductions          Balance
+                                            beginning            charged to          from                at end
+                                            of year              earnings            allowances          of year
+<S>                                         <C>                  <C>                 <C>                 <C>
+
+Allowance for doubtful receivables:
+
+                  2001                        $626,000                $23,000         $ 17,000 (a)         $632,000
+                                              ========                =======         ============         ========
+
+
+
+                  2000                        $496,000               $154,000          $24,000 (a)         $626,000
+                                              ========               ========          ===========         ========
+
+
+
+                  1999                        $369,000                $95,000        $(32,000) (a)         $496,000
+                                              ========                =======        =============         ========
+
+
+
+
+
+
+
+Warranty/after-sale cost reserve:
+
+                  2001                      $3,245,000             $1,837,000           $1,629,000       $3,453,000
+                                            ==========             ==========           ==========       ==========
+
+
+
+                  2000                      $3,835,000             $1,503,000           $2,093,000       $3,245,000
+                                            ==========             ==========           ==========       ==========
+
+
+
+                  1999                      $4,386,000             $1,368,000           $1,919,000       $3,835,000
+                                            ==========             ==========           ==========       ==========
+</TABLE>
+
+
+
+Note:
+
+(a) Accounts receivable written off, less recoveries, against the allowance.
+
+
+                                      F-1
+
+                                       11
+<PAGE>
+                                  EXHIBIT INDEX
+
+Exhibit No.                          Exhibit Description
+
+  (3.0)           Restated Articles of Incorporation effective September 30,
+                  1999. [Incorporated by reference from Exhibit (3.0) (i) to the
+                  Registrant's Quarterly Report on Form 10-Q for the period
+                  ended September 30, 1999].
+
+  (3.1)           Restated By-Laws as amended November 9, 2001.
+
+  (4.0)           Loan Agreement, as amended April 30, 1988, between the
+                  Registrant and the M&I Marshall & Ilsley Bank relating to the
+                  Registrant's revolving credit loan. [Incorporated by reference
+                  from Exhibit (4.0) to the Registrant's Quarterly Report on
+                  Form 10-Q for the period ended March 31, 1988].
+
+  (4.1)           Loan Agreement between Firstar Bank Milwaukee, N.A. and the
+                  Badger Meter Employee Savings and Stock Ownership Plan and
+                  Trust, dated December 1, 1995. [Incorporated by reference from
+                  Exhibit (4.3) to the Registrant's Annual Report on Form 10-K
+                  for the year ended December 31, 1995].
+
+  (4.2)           Loan Agreement, as amended December 21, 1998, between Firstar
+                  Bank Milwaukee, N.A. and the Badger Meter Employee Savings and
+                  Stock Ownership Plan and Trust. [Incorporated by reference
+                  from Exhibit (4.2) to the Registrant's Annual Report on Form
+                  10-K for the year ended December 31, 1998].
+
+  (4.3)           Rights Agreement, dated May 26, 1998, between Registrant and
+                  Firstar Trust Company. [Incorporated by reference to Exhibit
+                  (4.1) to the Registrant's Registration Statement on Form 8-A
+                  (Commission File No. 1-6706)].
+
+  (9.1)           Badger Meter Officers' Voting Trust Agreement dated December
+                  18, 1991. [Incorporated by reference from Exhibit (9.1) to the
+                  Registrant's Annual Report on Form 10-K for the year ended
+                  December 31, 1991].
+
+  (10.1)*         Badger Meter, Inc. 1989 Stock Option Plan. [Incorporated by
+                  reference from Exhibit (4.1) to the Registrant's Form S-8
+                  Registration Statement (Registration No. 33-27650)].
+
+  (10.2)*         Badger Meter, Inc. 1993 Stock Option Plan. [Incorporated by
+                  reference from Exhibit (4.3) to the Registrant's Form S-8
+                  Registration Statement (Registration No. 33-65618)].
+
+  (10.3)*         Badger Meter, Inc. 1995 Stock Option Plan. [Incorporated by
+                  reference from Exhibit (4.1) to the Registrant's Form S-8
+                  Registration Statement (Registration No. 33-62239)].
+
+* A management contract or compensatory plan or arrangement.
+
+
+
+                                       12
+<PAGE>
+
+
+EXHIBIT INDEX (CONTINUED)
+
+
+
+Exhibit No.                            Exhibit Description
+
+  (10.4)*         Badger Meter, Inc. 1997 Stock Option Plan. [Incorporated by
+                  reference from Exhibit (4.1) to the Registrant's Form S-8
+                  Registration Statement (Registration No. 333-28617)].
+
+  (10.5)*         Badger Meter, Inc. Deferred Compensation Plan. [Incorporated
+                  by reference from Exhibit (10.5) to the Registrant's Annual
+                  Report on Form 10-K for the year ended December 31, 1993].
+
+  (10.6)          Badger Meter, Inc. Employee Savings and Stock Ownership Plan.
+                  [Incorporated by reference from Exhibit (4.1) to the
+                  Registrant's Form S-8 Registration Statement (Registration No.
+                  033-62241)].
+
+  (10.7)*         Long-Term Incentive Plan. [Incorporated by reference from
+                  Exhibit (10.6) to the Registrant's Annual Report on Form 10-K
+                  for the year ended December 31, 1995].
+
+  (10.8)*         Badger Meter, Inc. Supplemental Non-Qualified Unfunded Pension
+                  Plan. [Incorporated by reference from Exhibit (10.7) to the
+                  Registrant's Annual Report on Form 10-K for the year ended
+                  December 31, 1995].
+
+  (10.9)*         Forms of the Key Executive Employment and Severance Agreements
+                  between Badger Meter, Inc. and the applicable executive
+                  officers. [Incorporated by reference from Exhibit (10.0) to
+                  the Registrant's Quarterly Report on Form 10-Q for the period
+                  ended September 30, 1999].
+
+  (10.10)*        Badger Meter, Inc. 1999 Stock Option Plan. [Incorporated by
+                  reference from Exhibit (4.1) to the Registrant's Form S-8
+                  Registration Statement (Registration No. 333-73228)].
+
+  (10.11)*        Badger Meter, Inc. Amendment to Deferred Compensation Plan.
+                  [Incorporated by reference from Exhibit (10.11) to the
+                  Registrant's Annual Report on Form 10-K for the year ended
+                  December 31, 2000.]
+
+  (10.12)*        Retirement Agreement between Robert D. Belan and the
+                  Registrant, dated January 28, 2002.
+
+  (13.0)          Portions of the Annual Report to Shareholders that are
+                  incorporated by reference.
+
+  (21.0)          Subsidiaries of the Registrant.
+
+  (23.0)          Consent of Ernst & Young LLP, Independent Auditors.
+
+  (99.0)          Definitive Proxy Statement for the Annual Meeting of
+                  Shareholders to be held April 19, 2002. [To be filed with the
+                  Securities and Exchange Commission under Regulation 14A within
+                  120 days after the end of the Registrant's fiscal year. With
+                  the exception of the information incorporated by reference
+                  into Items 10, 11, 12 and 13 of this Form 10-K, the definitive
+                  Proxy Statement is not deemed filed as part of this report].
+
+
+* A management contract or compensatory plan or arrangement.
+
+
+
+                                       13
+
+</TEXT>
+</DOCUMENT>

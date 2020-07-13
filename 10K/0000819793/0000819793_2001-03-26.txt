@@ -1,0 +1,1162 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>a2042040z10-k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+                                   FORM 10-K
+
+<TABLE>
+<C>        <S>
+   /X/     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+                  FOR THE FISCAL YEAR ENDED: DECEMBER 31, 2000
+
+                                       OR
+
+<TABLE>
+<C>        <S>
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+        FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+                         COMMISSION FILE NUMBER 0-16214
+                            ------------------------
+                           ALBANY INTERNATIONAL CORP.
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                             <C>
+                DELAWARE                                     14-0462060
+    (State or other jurisdiction of                        (IRS Employer
+     incorporation or organization)                     Identification No.)
+
+    1373 BROADWAY, ALBANY, NEW YORK                            12204
+(Address of principal executive offices)                     (Zip Code)
+</TABLE>
+
+        Registrant's telephone number, including area code: 518-445-2200
+                            ------------------------
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+<TABLE>
+<CAPTION>
+             TITLE OF EACH CLASS                 NAME OF EACH EXCHANGE ON WHICH REGISTERED
+             -------------------                 -----------------------------------------
+<S>                                            <C>
+                                                        New York Stock Exchange and
+   Class A Common Stock ($0.001 par value)                Pacific Stock Exchange
+</TABLE>
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+
+<TABLE>
+<CAPTION>
+                                       TITLE OF CLASS
+                                       --------------
+<S>                                            <C>
+                                            None
+</TABLE>
+
+                            ------------------------
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports,) and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/  No / /
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.[  ]
+
+    The aggregate market value of Class A Common Stock held on February 15, 2001
+by non-affiliates of the registrant was $431,892,520.
+
+    The registrant had 24,954,605 shares of Class A Common Stock and 5,869,457
+shares of Class B Common Stock outstanding as of February 15, 2001.
+
+<TABLE>
+<CAPTION>
+DOCUMENTS INCORPORATED BY REFERENCE                             PART
+-----------------------------------                           --------
+<S>                                                           <C>
+Registrant's Annual Report to Shareholders for the year
+  ended December 31, 2000...................................  II
+Registrant's Proxy Statement for the Annual Meeting of
+  Shareholders to be held on
+  May 10, 2001..............................................  III
+</TABLE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+                                     PART I
+
+ITEM 1. BUSINESS
+
+    Albany International Corp. ("the Registrant") designs, manufactures and
+markets paper machine clothing for each section of the paper machine. It
+manufactures and sells more paper machine clothing worldwide than any other
+company. In 1999, to enhance that position, the Company purchased the paper
+machine clothing business of the Geschmay group. Paper machine clothing consists
+of large continuous belts of custom designed and custom manufactured, engineered
+fabrics that are installed on paper machines and carry the paper stock through
+each stage of the paper production process. Paper machine clothing is a
+consumable product of technologically sophisticated design that is made with
+synthetic monofilament and fiber materials. The design and material composition
+of paper machine clothing can have a considerable effect on the quality of paper
+products produced and the efficiency of the paper machines on which it is used.
+The Registrant produces a substantial portion of its monofilament requirements.
+
+    Practically all press fabrics are woven tubular or endless from monofilament
+yarns on large, specially designed looms. After weaving, the base press fabric
+goes to a needling operation where a thick fiber layer, called a batt, is laid
+on the base just before passing through the needling machine. The needles are
+equipped with tiny barbs that grab batt fibers locking them into the body of the
+fabric. After needling, the composite fabrics are usually washed, and water is
+removed. The fabric then is heat set, treatments and coatings may be applied,
+and it is measured and trimmed to width.
+
+    The Registrant's manufacturing process is similar for forming fabrics and
+drying fabrics, except that there is normally no needling operation in the
+construction of those fabrics. Most monofilament screens are woven flat on wide
+looms. The fabrics are seamed to produce an endless loop, and heat stabilized by
+running them around two large cylinders under heat and drawn out by tension.
+After heat setting, the fabrics are seamed and boxed.
+
+    In addition to paper machine clothing, the Registrant manufactures other
+engineered products for the non-woven industry, corrugator belts, filtration
+media and high performance doors. The High Performance Door Division, which
+includes Rapid Roll Doors-Registered Trademark-, is the operation of the Company
+that developed high speed, high performance doors, which grew from the
+application of the Company's coated fabric technology to its woven fabrics.
+Since the inception of Rapid Roll Doors in the early 1980's, manufacturing
+operations in North America and Europe have supplied over 100,000 installations
+worldwide. Since 1996, the Registrant has acquired Schieffer Door Systems and
+Jansen Tortechnik in Germany, Burwell Door Systems in Australia and M&I Door
+Systems in Canada to enhance the high performance door operations.
+
+INDUSTRY FACTORS
+
+    There are approximately 1,100 paper machines in the United States located in
+approximately 530 paper mills. It is estimated that there are approximately
+4,770 paper machines in the world which produce at least 50 tons of paper per
+day. Additionally, there are many smaller paper machines. Demand for paper
+machine clothing is tied to the volume of paper production, which in turn
+reflects economic growth. According to published data, world paper production
+volumes have grown at an annual rate of approximately 3.5% over the last ten
+years. The Registrant anticipates continued growth for the long-term in world
+paper production. The profitability of the paper machine clothing business has
+generally been less cyclical than the profitability of the papermaking industry.
+
+    Because the paper industry has been characterized by an evolving but
+essentially stable manufacturing technology based on the wet forming papermaking
+process, which requires a very large capital investment, the Registrant does not
+believe that a commercially feasible substitute technology that does not employ
+paper machine clothing is likely to be developed and incorporated into the paper
+
+                                       2
+<PAGE>
+production process by paper manufacturers in the foreseeable future.
+Accordingly, the prospects for continued demand for paper machine clothing
+appear excellent.
+
+    Over the last few years, paper manufacturers have generally reduced the
+number of suppliers of paper machine clothing per machine position. This trend
+has increased opportunities for market leaders, including the Registrant, to
+expand their market share.
+
+INTERNATIONAL OPERATIONS
+
+    The Registrant maintains wholly-owned manufacturing facilities in Australia,
+Brazil, Canada, China, Finland, France, Germany, Great Britain, Italy, Mexico,
+The Netherlands, South Korea, Sweden and the United States. The Registrant has
+50% interests in an entity in South Africa and an entity in Russia which are
+engaged primarily in the engineered fabrics business. The Registrant also has a
+50% interest in an entity in England which is engaged in the high performance
+door business (see Note 1 of Notes to Consolidated Financial Statements).
+
+    The Registrant's geographically diversified operations allow it to serve the
+world's paper markets more efficiently and to provide superior technical service
+to its customers. The Registrant benefits from the transfer of research and
+development product innovations between geographic regions. The worldwide scope
+of the Registrant's manufacturing and marketing efforts also limits the impact
+on the Registrant of economic downturns that are limited to a geographic region.
+
+    The Registrant's widespread presence subjects it to certain risks, including
+controls on foreign exchange and the repatriation of funds. However, the
+Registrant has been able to repatriate earnings in excess of working capital
+requirements from each of the countries in which it operates without substantial
+governmental restrictions and does not foresee any material changes in its
+ability to continue to do so in the future. In addition, the Registrant believes
+that the risks associated with its operations and locations outside the United
+States are those normally associated with doing business in these locations.
+
+MARKETING, CUSTOMERS AND BACKLOG
+
+    Paper machine clothing is custom designed for each user depending upon the
+type, size and speed of the papermaking machine, the machine section, the grade
+of paper being produced, and the quality of the pulp stock used. Technical
+expertise, judgment and experience are critical in designing the appropriate
+clothing for each position on the machine. As a result, the Registrant employs
+highly skilled sales and technical service personnel in 25 countries who work
+directly with paper mill operating management. The Registrant's technical
+service program in the United States gives its service engineers field access to
+the measurement and analysis equipment needed for troubleshooting and
+application engineering. Sales, service and technical expenses are major cost
+components of the Registrant. The Registrant employs approximately 1,200 people
+in the sales and technical functions combined, many of whom have engineering
+degrees or paper mill experience. The Registrant's market leadership position
+reflects the Company's commitment to technological innovation.
+
+    Typically, the Registrant experiences its highest quarterly sales levels in
+the fourth quarter of each fiscal year. The Registrant believes that this
+pattern only partially reflects seasonal shifts in demand for its products but
+is more directly related to purchasing policies of the Registrant's customers.
+
+    Payment terms granted to customers reflect general competitive practices.
+Terms vary with product and competitive conditions, but generally require
+payment within 30 to 90 days, from the date of invoice, depending on the country
+of operation. Historically, bad debts have been insignificant. No single
+customer, or group of related customers, accounted for more than 5% of the
+Registrant's sales of paper machine clothing in any of the past three years.
+Management does not believe that the loss of any one customer would have a
+material adverse effect on the Registrant's business.
+
+                                       3
+<PAGE>
+    The Registrant's order backlogs at December 31, 2000 and 1999 were
+approximately $604 million and $592 million, respectively. Order backlog at
+December 31, 2000 is generally expected to be invoiced during the next
+12 months.
+
+RESEARCH AND DEVELOPMENT
+
+    The Registrant invests heavily in research, new product development and
+technical analysis to maintain its leadership in the paper machine clothing
+industry. The Registrant's expenditures fall into two primary categories,
+research and development and technical expenditures. Research and development
+expenses totaled $23.3 million in 2000, $23.6 million in 1999, and
+$23.7 million in 1998. While most research activity supports existing products,
+the Registrant engages in research for new products. New product research has
+focused primarily on more sophisticated paper machine clothing and has resulted
+in a stream of products such as PRINTEX-TM-, KRAFTEX-Registered Trademark- and
+MICROTEX-Registered Trademark- forming fabrics,
+SEAMTECH-Registered Trademark-PLUS, the latest patented on-machine-seamed press
+fabric, DYNATEX-TM-, a unique multiaxial press fabric, SeamDynatex-TM-, our
+newest innovation combining the benefits of seamed and multi axial features and
+APERTECH-TM-, a new class of porous, polymeric press fabrics, process belts such
+as TRANSBELT -Registered Trademark-, VENTABELT -Registered Trademark-( ) and
+GLOSSBELT-TM-, as well as THERMONETICS-Registered Trademark-, AERO2000-TM-,
+AEROLINE-Registered Trademark- and AEROGRIP-Registered Trademark- which are
+dryer fabrics. Technical expenditures totaled $26.2 million in 2000,
+$24.5 million in 1999, and $26.3 million in 1998. Technical expenditures are
+focused on design, quality assurance and customer support.
+
+    Although the Registrant has focused most of its research and development
+efforts on paper machine clothing products and design, the Registrant also has
+made progress in developing non-paper machine clothing products, such as
+Primaloft-Registered Trademark-, a synthetic down alternative.
+Primaloft-Registered Trademark- is widely used in technical outdoor apparel as
+well as premium comforters and pillows. Through its major research subsidiary,
+Albany International Research Co. located in Mansfield, Massachusetts, the
+Registrant conducts research under contract for the U.S. government and major
+corporations. In addition to Albany International Research Co., the Registrant
+has another significant research facility in Halmstad, Sweden and four other
+development centers located at manufacturing locations in Selestat, France;
+Goppingen, Germany; Albany, New York; and Menasha, Wisconsin.
+
+    The Registrant holds a number of patents, trademarks and licenses, none of
+which are material to the continuation of the Registrant's business. The
+Registrant has licensed some of its patents to one or more competitors, mainly
+to enhance customer acceptance of the new products. The revenue from such
+licenses is less than 1% of consolidated net sales.
+
+RAW MATERIALS AND INVENTORY
+
+    Primary raw materials for the Registrant's products are synthetic fibers,
+which are generally available from a number of suppliers. The Registrant,
+therefore, is not required to maintain raw material inventories in excess of its
+current needs to assure availability. In addition, the Registrant manufactures
+monofilament, a basic raw material for all types of paper machine clothing, at
+its facility in Homer, New York, which supplies approximately 35% of its
+world-wide monofilament requirements. This manufacturing capability assists the
+Registrant in its negotiations with monofilament producers for the balance of
+its supply requirements, and enhances the ability of the Registrant to develop
+proprietary products.
+
+COMPETITION
+
+    While there are a number of small regional paper machine clothing suppliers
+worldwide, only four compete on a global basis. Market shares vary depending on
+the country and the type of paper machine clothing produced. In the paper
+machine clothing market, the Registrant believes that it has a market share of
+approximately 36% in the United States and Canadian markets, taken together, 27%
+
+                                       4
+<PAGE>
+in the rest of the world and approximately 30% in the world overall. Together,
+the United States and Canada constitute approximately 38% of the total world
+market for paper machine clothing.
+
+    Competition is intense in all areas of the Registrant's business. While
+price competition is, of course, a factor, the primary bases for competition are
+the performance characteristics of the Registrant's products, which are
+principally technology-driven, and the quality of customer service. The
+Registrant, like its competitors, provides diverse services to customers through
+its sales and technical service personnel including: (1) consulting on
+performance of the paper machine; (2) consulting on paper machine
+configurations, both new and rebuilt; (3) selection and custom manufacture of
+the appropriate paper machine clothing; and (4) storing fabrics for delivery to
+the user.
+
+EMPLOYEES
+
+    The Registrant employs 6,929 persons, of whom approximately 74% are engaged
+in manufacturing the Registrant's products. Wages and benefits are competitive
+with those of other manufacturers in the geographic areas in which the
+Registrant's facilities are located. The Registrant considers its relations with
+its employees in general to be excellent.
+
+EXECUTIVE OFFICERS OF REGISTRANT
+
+    The following table sets forth certain information with respect to the
+executive officers of the Registrant:
+
+<TABLE>
+<CAPTION>
+NAME                                          AGE                       POSITION
+----                                        --------   ------------------------------------------
+<S>                                         <C>        <C>
+Francis L. McKone.........................     66      Chairman of the Board and Director
+Frank R. Schmeler.........................     62      President, Chief Executive Officer and
+                                                       Director
+Michel J. Bacon...........................     51      Group Vice President--Europe
+William M. McCarthy.......................     50      Group Vice President--Canada, Pacific and
+                                                       Latin America
+Edward Walther............................     57      Group Vice President--United States
+Michael C. Nahl...........................     58      Senior Vice President and Chief Financial
+                                                       Officer
+Edward R. Hahn............................     56      Senior Vice President--Chief Technical
+                                                       Officer
+Frank Kolf................................     55      Senior Vice President--Administration and
+                                                       Development
+Thomas H. Hagoort.........................     68      General Counsel and Secretary
+Richard A. Carlstrom......................     57      Vice President--Controller
+Thomas H. Curry...........................     52      Vice President--Sales and Marketing United
+                                                       States
+David C. Michaels.........................     45      Vice President--Treasury and Tax
+Kenneth C. Pulver.........................     57      Vice President--Corporate Communications
+John C. Treanor...........................     62      Treasurer
+Charles J. Silva, Jr......................     41      Assistant General Counsel and Assistant
+                                                       Secretary
+</TABLE>
+
+    FRANCIS L. MCKONE joined the Registrant in 1964. He has served the
+Registrant as Chairman of the Board since 1998, Chief Executive Officer from
+1993 to 2000, President from 1984 to 1998, Executive Vice President from 1983 to
+1984, Group Vice President-Papermaking Products Group from 1979 to 1983, and
+prior to 1979 as a Vice President of the Registrant and Division
+President-Papermaking Products U.S. He has been a Director of the Registrant
+since 1983. He is a Director of Thermo Fibergen, Inc., Thermo Fibertek, Inc. and
+a member of the Advisory Board of Albank, a division of Charter One Bank.
+
+                                       5
+<PAGE>
+    FRANK R. SCHMELER joined the Registrant in 1964. He has served the
+Registrant as Chief Executive Officer since 2000, as President since 1998, Chief
+Operating Officer from 1997 to 2000, Executive Vice President from 1997 to 1998,
+Senior Vice President from 1988 to 1997, Vice President and General Manager of
+the Felt Division from 1984 to 1988, Division Vice President and General
+Manager, Albany International Canada from 1978 to 1984 and as Vice President of
+Marketing, Albany International Canada from 1976 to 1978. He has been a Director
+of the Registrant since 1997.
+
+    MICHEL J. BACON joined the Registrant in 1978. He has served the Registrant
+as Group Vice President since 2001, Senior Vice President from 1996 to 2001,
+Vice President and General Manager of Albany International Canada from 1991 to
+1996, Vice President of Operations, Albany International Canada Press Division
+from 1989 to 1991 and as Vice President of Marketing, Albany International
+Canada from 1987 to 1989.
+
+    WILLIAM M. MCCARTHY joined the Registrant in 1977. He has served the
+Registrant as Group Vice President since 2001, Senior Vice President from 1997
+to 2001, and since 1991 has held various positions for Press Fabrics U.S.
+including Vice President and General Manager, Vice President-Marketing and
+Technical Director. From 1988 to 1991 he was Technical Director for Continental
+Europe-Press Fabrics.
+
+    EDWARD WALTHER joined the Registrant in 1994. He has served the Registrant
+as Group Vice President since 2001, as Executive Vice President from 1997 to
+2001, Senior Vice President from 1995 to 1997 and as Vice President and General
+Manager--Continental Europe from 1994 to 1995. Prior to joining the Registrant,
+he held various marketing and managerial positions with a company in the paper
+machine clothing business.
+
+    MICHAEL C. NAHL joined the Registrant in 1981. He has served the Registrant
+as Senior Vice President and Chief Financial Officer since 1983 and prior to
+1983 as Group Vice President. From 1965 to 1979 he served in marketing,
+financial, logistical, analytical and management positions for the Exxon
+Corporation and from 1979 to 1981 he was with General Refractories Corporation
+as Director of Strategic Planning, Vice President and Chief Financial Officer.
+He is a Director of UCAR International Inc. and First Integrated Capital Corp.
+
+    EDWARD R. HAHN joined the Registrant in 1971. He has served the Registrant
+as Senior Vice President since 2000 and as Vice President-Research and
+Development and Executive Director of Albany International Research Company from
+1995 to 2000, as Vice President and General Manager of Press Fabrics U.S. from
+1990 to 1995, as Vice President of Euroscan Press and Dryer Divisions from 1987
+to 1990 and as Vice President of Operations for Nordiskafilt from 1986 to 1987.
+
+    FRANK KOLF joined the Registrant in 2001 as Senior Vice President. Prior to
+joining the Registrant, he served as Executive Vice President for the Wangner
+Group and as Director of Strategic Corporate Controlling with Carl Schenck AG.
+
+    THOMAS H. HAGOORT joined the Registrant in 1991. He has served the
+Registrant as General Counsel and Secretary since 1997 and as General Counsel
+from 1991 to 1997. From 1968 until December 31, 1990 he was a partner in Cleary,
+Gottlieb, Steen and Hamilton, an international law firm with headquarters in New
+York City.
+
+    RICHARD A. CARLSTROM joined the Registrant in 1972. He has served the
+Registrant as Vice President-Controller since 1993, as Controller since 1980, as
+Controller of a U.S. division from 1975 to 1980, and prior to 1975 as Financial
+Controller of Albany International Pty. in Australia.
+
+    THOMAS H. CURRY joined the Registrant in 1992. He has served the Registrant
+as Vice President-Sales and Marketing U.S. since 1999 and from 1995 to 1999 held
+various positions for Press Fabrics U.S. including Vice President-General
+Manager and Vice President-Marketing and from 1992 to 1995 held various sales
+and marketing positions for the U.S. Dryer Division.
+
+                                       6
+<PAGE>
+    DAVID C. MICHAELS joined the registrant in 1987. He has served the
+Registrant as Vice President-Treasury and Tax since 2000 and previously served
+as Director of Tax. Prior to 1987, he held various financial and tax positions
+at Veeco Instruments, Inc.
+
+    KENNETH C. PULVER joined the Registrant in 1968. He has served the
+Registrant as Vice President-Corporate Communications since 1997 and as Vice
+President of Operations for Primaloft from 1992 to 1997. From 1984 to 1992 he
+served in various marketing positions with Albany Engineered Systems.
+
+    JOHN C. TREANOR joined the Registrant in 1970. He has served the Registrant
+as Treasurer since 1997, as Controller of Albany International Europe from 1992
+to 1997 and as Controller of Albany International Canada from 1985 to 1992.
+
+    CHARLES J. SILVA, JR.  joined the Registrant in 1994. He has served the
+Registrant as Assistant General Counsel and Assistant Secretary since 1996 and
+as Assistant General Counsel from 1994 to 1996. Prior to 1994, he was an
+associate with Cleary, Gottlieb, Steen and Hamilton, an international law firm
+with headquarters in New York City.
+
+    The Registrant believes it is in compliance with all Federal, State and
+local provisions which have been enacted or adopted regarding the discharge of
+materials into the environment, or otherwise relating to the protection of the
+environment, and does not have knowledge of environmental regulations which do
+or might have a material effect on future capital expenditures, earnings, or
+competitive position.
+
+    The Registrant is incorporated under the laws of the State of Delaware and
+is the successor to a New York corporation which was originally incorporated in
+1895 and which was merged into the Registrant in August 1987 solely for the
+purpose of changing the domicile of the corporation. Upon such merger, each
+outstanding share of Class B Common Stock of the predecessor New York
+corporation was changed into one share of Class B Common Stock of the
+Registrant. References to the Registrant that relate to any time prior to the
+August 1987 merger should be understood to refer to the predecessor New York
+corporation.
+
+ITEM 2. PROPERTIES
+
+    The Registrant's principal manufacturing facilities are located in the
+United States, Canada, Europe, Brazil, Mexico, Australia, South Korea and China.
+The aggregate square footage of the Registrant's operating facilities in the
+United States and Canada is approximately 2,866,000 square feet, of which
+2,640,000 square feet are owned and 226,000 square feet are leased. The
+Registrant's facilities located outside the United States and Canada comprise
+approximately 4,037,000 square feet, of which 3,171,000 square feet are owned
+and 866,000 square feet are leased. The Registrant considers these facilities to
+be in good condition and suitable for their purpose. The capacity associated
+with these facilities is adequate to meet production levels required and
+anticipated through 2000. The Registrant's expected 2001 capital expenditures,
+including leases, of about $40 million will provide sufficient capacity for
+anticipated growth.
+
+    The Registrant believes it has modern, efficient production equipment. In
+the last five years, excluding acquisitions, it has spent $215 million on new
+plants and equipment or upgrading existing facilities.
+
+                                       7
+<PAGE>
+ITEM 3. LEGAL PROCEEDINGS
+
+    The Registrant was initially named as a defendant in two actions in state
+court in Louisiana, seeking damages from the Registrant and approximately fifty
+other defendants (including primary suppliers of asbestos, asbestos abatement
+and removal companies, paper machine builders, pump manufacturers, insulation
+and building materials suppliers, boiler manufacturers and other suppliers of
+products alleged to have contained asbestos) for injuries allegedly suffered by
+approximately 2,000 employees at two paper mills in Bogalusa and St.
+Francisville, Louisiana, due to exposure to asbestos. Liberty Mutual, the
+underwriter of insurance coverage applicable to these claims, defended these
+matters on the Registrant's behalf, subject to the standard reservation of any
+rights under the applicable policies. (Mount Vernon Mills, from which the
+Registrant acquired the Albany Mount Vernon dryer business assets, and Brandon
+Drying Fabrics, Inc., a subsidiary of Geschmay Corp. (formerly Wangner Systems
+Corporation) acquired in 1999, are also named as separate defendants.)
+
+    The information identified during the discovery process suggests that the
+Registrant's production of asbestos-containing paper machine clothing products
+was limited to certain synthetic dryer fabrics marketed during the period from
+1967 to 1976. It is the position of the Registrant and the other paper machine
+clothing defendants that there was insufficient exposure to asbestos from any
+paper machine clothing products to cause asbestos-related injury in any
+plaintiff. Furthermore, asbestos contained in the Company's synthetic products
+was encapsulated in a resin-coated yarn woven into the interior of the fabric,
+further reducing the likelihood of fiber release.
+
+    Discovery by both plaintiffs and defendants in the Bogalusa proceeding was
+essentially completed in late 1998. The first trial commenced in January 1999.
+(All claims relating to this first trial against the Registrant were settled
+prior to that time.) A unanimous jury verdict in favor of the remaining
+defendants (including two dryer fabric producers) was returned in early
+March 1999.
+
+    All remaining claims against Albany International Corp. pending in each of
+the Bogalusa and St. Francisville proceedings (approximately 2,000 plaintiffs in
+the aggregate) were settled during 2000. All settlement amounts were funded by
+Liberty Mutual. (Brandon Drying Fabrics, Inc. remains a defendant in these
+proceedings.)
+
+    The Company currently remains a defendant in a number of asbestos
+proceedings involving an aggregate of approximately 2,200 claimants. Brandon
+Drying Fabrics, Inc. is named as a separate defendant in most of these same
+proceedings.
+
+    One proceeding, in Jefferson County, Mississippi, accounts for 1,400
+claimants. Based upon preliminary work histories provided by counsel, it appears
+that as many as half of these plaintiffs were never employed in paper mills. Of
+the approximately 800 remaining cases, a large number do not provide sufficient
+employment histories to determine whether the claimants would have ever had any
+contact with any asbestos-containing paper machine clothing sold by the Company.
+
+    The Registrant, in addition to being named as a direct defendant in the
+above proceedings, has also been named separately as the "successor-in-interest"
+to Mount Vernon Mills in many of these proceedings. The Registrant denies any
+liability for products sold by Mount Vernon Mills prior to the acquisition of
+the Mount Vernon assets, and has successfully moved for dismissal in several
+proceedings before the first trial. Similar motions will be filed in other
+proceedings.
+
+    The Registrant believes all asbestos-related claims to be without merit.
+While there can be no assurance as to their outcome, the Registrant believes
+that any material liability relating to the aforementioned proceedings in excess
+of existing insurance coverage limits is unlikely.
+
+    Brandon Drying Fabrics, Inc. is also a party to the above asbestos
+proceedings in the United States.
+
+                                       8
+<PAGE>
+    Brandon Drying Fabrics, Inc. was created in 1978 in connection with the
+purchase of certain assets from Abney Mills, a South Carolina textile
+manufacturing entity. Brandon Sales, Inc. was a wholly-owned subsidiary of Abney
+and its assets were among those purchased from Abney Mills. After the purchase,
+Brandon Drying Fabrics, Inc. manufactured drying fabrics under its own name,
+none of which contained asbestos. It is believed that Abney Mills ceased
+production of asbestos-containing products prior to the 1978 purchase.
+Affidavits obtained from former Abney Mills employees confirm that belief.
+
+    Under the terms of the Assets Purchase Agreement between Brandon Drying
+Fabrics, Inc. and Abney Mills, Abney Mills agreed to indemnify, defend and hold
+harmless from any actions or claims on account of products manufactured by Abney
+Mills and its related corporations prior to the date of the sale whether or not
+the product was sold subsequent to the date of the sale. It appears that Abney
+Mills has since been dissolved. Nevertheless, a representative of this dissolved
+entity has been notified of the pendency of these actions and demand has been
+made that it assume the defense of these actions.
+
+    Brandon Drying Fabric, Inc.'s insurance carriers have agreed to
+indemnification and defense costs related to these proceedings of 88.2% of the
+total, subject to the standard reservation of rights. The remaining 11.8% is
+being sought from an insurance company that denies that it issued a policy.
+Brandon's internal records demonstrate otherwise, and Brandon has filed suit
+against this company as well as its other carriers. Based on advice of counsel,
+Brandon is confident that it will prevail in establishing 100% indemnification
+and defense cost coverage.
+
+    The Registrant is unable to predict the outcome of these matters, but does
+not believe, based upon currently available information, that the ultimate
+resolution of such matters will have a material adverse effect on the financial
+position, results of operations, or cash flows of the Registrant. There are no
+other material pending legal proceedings, other than ordinary routine litigation
+incidental to the business.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+    There were no matters submitted during the fourth quarter of 2000 to a vote
+of security holders.
+
+                                    PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+  MATTERS
+
+    "Stock and Shareholders" and "Quarterly Financial Data" on page 38 of the
+Annual Report are incorporated herein by reference.
+
+    Restrictions on dividends and other distributions are described in Note 6,
+on pages 22 and 23 of the Annual Report. Such description is incorporated herein
+by reference.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+    "Eleven Year Summary" on pages 36 and 37 of the Annual Report is
+incorporated herein by reference.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+  OF OPERATIONS
+
+    "Review of Operations" on pages 32 to 35 of the Annual Report is
+incorporated herein by reference.
+
+                                       9
+<PAGE>
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+    The following consolidated financial statements of the Registrant and its
+subsidiaries, included on pages 14 to 31 in the Annual Report, are incorporated
+herein by reference:
+
+    Consolidated Statements of Income and Retained Earnings--years ended
+December 31, 2000, 1999, and 1998
+
+    Consolidated Statements of Comprehensive Income--years ended December 31,
+2000, 1999 and 1998
+
+    Consolidated Balance Sheets--December 31, 2000 and 1999
+
+    Consolidated Statements of Cash Flows--years ended December 31, 2000, 1999
+and 1998
+
+    Notes to Consolidated Financial Statements
+
+    Report of Independent Accountants
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+  FINANCIAL DISCLOSURE
+
+None.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+    (a) DIRECTORS.  The information set out in the section captioned "Election
+       of Directors" of the Proxy Statement is incorporated herein by reference.
+
+    (b) EXECUTIVE OFFICERS OF REGISTRANT.  Information about the officers of the
+       Registrant is set forth in Item 1 above.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+    The information set forth in the sections of the Proxy Statement captioned
+"Executive Compensation", "Summary Compensation Table", "Option/SAR Grants in
+Last Fiscal Year", "Option/ SAR Exercises During 2000 and Year-End Values",
+"Pension Plan Table", "Compensation and Stock Option Committee Report on
+Executive Compensation", "Compensation and Stock Option Committee Interlocks and
+Insider Participation", "Stock Performance Graph", and "Directors' Fees" is
+incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+    The information set out in the section captioned "Share Ownership" of the
+Proxy Statement is incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+None.
+
+                                       10
+<PAGE>
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENTS SCHEDULE AND REPORTS ON FORM 8-K
+
+<TABLE>
+<S>                    <C>
+(a)(1)                 FINANCIAL STATEMENTS.    The consolidated financial
+                       statements included in the Annual Report are incorporated by
+                       reference in Item 8.
+(a)(2)                 SCHEDULE.  The following consolidated financial statements
+                       schedule for each of the three years in the period ended
+                       December 31, 2000 is included pursuant to Item 14(d):
+                       Report of Independent Accountants on Financial Statements
+                       Schedule Schedule II--Valuation and Qualifying Accounts
+(a)(3)(b)              No reports on Form 8-K were filed during the fourth quarter
+                       of 2000.
+</TABLE>
+
+<TABLE>
+<CAPTION>
+    (3) EXHIBITS
+<S>                    <C>
+
+3(a)                   Certificate of Incorporation of Registrant. (3)
+
+3(b)                   Bylaws of Registrant. (10)
+
+4(a)                   Article IV of Certificate of Incorporation of Registrant
+                       (included in Exhibit 3(a)).
+
+4(b)                   Specimen Stock Certificate for Class A Common Stock. (1)
+
+                                 CREDIT AGREEMENT
+
+10(i)(i)               Credit Agreement, dated as of August 11, 1999 (the "Credit
+                       Agreement") among the Registrant, certain banks listed
+                       therein, The Chase Manhattan Bank, as Administrative Agent,
+                       Chase Manhattan International Limited, as London Agent,
+                       Citibank N.A., as Syndication Agent and Banc One Capital
+                       Markets, Inc., as Documentation Agent. (9)
+
+10(i)(ii)              Amendment No. 1, dated as of December 22, 1999, to the
+                       Credit Agreement. (11)
+
+                                   STOCK OPTIONS
+
+10(m)(i)               Form of Stock Option Agreement, dated as of August 1, 1983,
+                       between the Registrant and each of five employees, together
+                       with schedule showing the names of such employees and the
+                       material differences among the Stock Option Agreements with
+                       such employees. (1)
+
+10(m)(ii)              Form of Amendment of Stock Option Agreement, dated as of
+                       July 1, 1987, between the Registrant and each of the five
+                       employees identified in the schedule referred to as Exhibit
+                       10(m)(i). (1)
+
+10(m)(iii)             1988 Stock Option Plan. (2)
+
+10(m)(iv)              1992 Stock Option Plan. (4)
+
+10(m)(v)               1997 Executive Stock Option Agreement. (7)
+
+10(m)(vi)              1998 Stock Option Plan. (8)
+
+                              EXECUTIVE COMPENSATION
+
+10(n)                  Pension Equalization Plan adopted April 16, 1986, naming two
+                       current executive officers and one former executive officer
+                       of Registrant as "Participants" thereunder. (1)
+
+10(n)(i)               Supplemental Executive Retirement Plan. (5)
+
+10(o)(i)               Form of Executive Deferred Compensation Plan adopted
+                       September 1, 1985, and Forms of Election Agreement. (1)
+</TABLE>
+
+                                       11
+<PAGE>
+<TABLE>
+<S>                    <C>
+10(o)(ii)              Form of Directors' Deferred Compensation Plan adopted
+                       September 1, 1985, and Forms of Election Agreement. (1)
+
+10(o)(iii)             Executive Deferred Compensation Plan. (2)
+
+10(o)(iv)              Directors' Deferred Compensation Plan. (2)
+
+10(o)(v)               Deferred Compensation Plan of Albany International Corp. (6)
+
+10(o)(vi)              Centennial Deferred Compensation Plan. (6)
+
+                                  OTHER EXHIBITS
+
+11                     Schedule of Computation of Net Income Per Share and Diluted
+                       Net Income Per Share.
+
+13                     Annual Report to Security Holders for the year ended
+                       December 31, 2000.
+
+21                     Subsidiaries of Registrant.
+
+23                     Consent of PricewaterhouseCoopers LLP.
+
+24                     Powers of Attorney.
+
+27                     Financial Data Schedule.
+</TABLE>
+
+    All other schedules and exhibits are not required or are inapplicable and,
+therefore, have been omitted.
+
+<TABLE>
+<S>                     <C>
+(1)                     Previously filed as an Exhibit to the Company's Registration
+                        Statement on Form S-1, No. 33-16254, as amended, declared
+                        effective by the Securities and Exchange Commission on
+                        September 30, 1987, which previously-filed Exhibit is
+                        incorporated by reference herein.
+
+(2)                     Previously filed as an Exhibit to the Registrant's Current
+                        Report on Form 8-K dated August 8, 1988, which
+                        previously-filed Exhibit is incorporated by reference
+                        herein.
+
+(3)                     Previously filed as an Exhibit to the Registrant's
+                        Registration Statement on Form 8-A, File No. 1-10026,
+                        declared effective by the Securities and Exchange Commission
+                        on August 26, 1988 (as to The Pacific Stock Exchange, Inc.),
+                        and on September 7, 1988 (as to The New York Stock Exchange,
+                        Inc.), which previously-filed Exhibit is incorporated by
+                        reference herein.
+
+(4)                     Previously filed as an Exhibit to the Registrant's Current
+                        Report on Form 8-K dated January 18, 1993, which
+                        previously-filed Exhibit is incorporated by reference
+                        herein.
+
+(5)                     Previously filed as an Exhibit to the Registrant's Current
+                        Report on Form 8-K dated June 30, 1994, which
+                        previously-filed Exhibit is incorporated by reference
+                        herein.
+
+(6)                     Previously filed as an Exhibit to the Registrant's Current
+                        Report on Form 8-K dated March 15, 1996, which
+                        previously-filed Exhibit is incorporated by reference
+                        herein.
+
+(7)                     Previously filed as an Exhibit to the Registrant's Current
+                        Report on Form 10-K dated March 16, 1998, which
+                        previously-filed Exhibit is incorporated by reference
+                        herein.
+
+(8)                     Previously filed as an Exhibit to the Registrant's Current
+                        Report on Form 10-Q dated August 10, 1998, which
+                        previously-filed Exhibit is incorporated by reference
+                        herein.
+
+(9)                     Previously filed as an Exhibit to the Registrant's Current
+                        Report on form 8-K dated September 21, 1999, which
+                        previously-filed Exhibit is incorporated by reference
+                        herein.
+
+(10)                    Previously filed as an Exhibit to the Registrant's Current
+                        Report on Form 10-Q dated November 10, 1999, which
+                        previously-filed Exhibit is incorporated by reference
+                        herein.
+
+(11)                    Filed herewith.
+</TABLE>
+
+                                       12
+<PAGE>
+                                   SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized on the 26nd day of
+March, 2001.
+
+<TABLE>
+<S>                                            <C>  <C>
+                                               ALBANY INTERNATIONAL CORP.
+
+                                               By:                 /s/ MICHAEL C. NAHL
+                                                    ------------------------------------------------
+                                                                     Michael C. Nahl
+                                                        PRINCIPAL FINANCIAL OFFICER, SENIOR VICE
+                                                          PRESIDENT AND CHIEF FINANCIAL OFFICER
+</TABLE>
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+                  SIGNATURE                                  TITLE                        DATE
+                  ---------                                  -----                        ----
+<C>                                            <S>                                 <C>
+                      *                        Chairman of the Board and Director    March 26, 2001
+    ------------------------------------
+             (Francis L. McKone)
+
+             /s/ MICHAEL C. NAHL               Senior Vice President and Chief       March 26, 2001
+    ------------------------------------         Financial Officer (Principal
+              (Michael C. Nahl)                  Accounting Officer)
+
+                      *                        Vice President-Controller             March 26, 2001
+    ------------------------------------         (Principal Accounting Officer)
+           (Richard A. Carlstrom)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+           (Thomas R. Beecher Jr.)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+            (Charles B. Buchanan)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+           (Erland E. Kailbourne)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+           (Dr. Joseph G. Morone)
+</TABLE>
+
+                                       13
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                  SIGNATURE                                  TITLE                        DATE
+                  ---------                                  -----                        ----
+<C>                                            <S>                                 <C>
+                      *                        President and Director (Chief         March 26, 2001
+    ------------------------------------         Executive Officer)
+             (Frank R. Schmeler)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+           (Christine L. Standish)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+              (Allan Stenshamn)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+             (Barbara P. Wright)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+             (John C. Standish)
+
+                      *                        Director                              March 26, 2001
+    ------------------------------------
+           (James L. Ferris Ph.D.)
+</TABLE>
+
+<TABLE>
+<S>  <C>
+                /s/ MICHAEL C. NAHL
+          -------------------------------
+                  Michael C. Nahl
+*By              Attorney-in-fact
+</TABLE>
+
+                                       14
+<PAGE>
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+                        ON FINANCIAL STATEMENTS SCHEDULE
+
+To The Board of Directors and
+
+Shareholders of Albany International Corp.
+
+    Our audits of the consolidated financial statements referred to in our
+report dated January 25, 2001 appearing in the 2000 Annual Report to
+Shareholders of Albany International Corp. (which report and consolidated
+financial statements are incorporated by reference in this Annual Report on
+Form 10-K) also included an audit of the financial statement schedule listed in
+Item 14(a)(2) of this Form 10-K. In our opinion, the financial statement
+schedule presents fairly, in all material respects, the information set forth
+therein when read in conjunction with the related consolidated financial
+statements.
+
+                                          /s/ PRICEWATERHOUSECOOPERS LLP
+                                          Albany, New York
+                                          January 25, 2001
+<PAGE>
+                                  SCHEDULE II
+                  ALBANY INTERNATIONAL CORP. AND SUBSIDIARIES
+
+                       VALUATION AND QUALIFYING ACCOUNTS
+                             (DOLLARS IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+             COLUMN A                 COLUMN B             COLUMN C               COLUMN D        COLUMN E
+             --------                ----------   ---------------------------   -------------   -------------
+                                                           ADDITIONS
+                                     BALANCE AT   ---------------------------
+                                     BEGINNING    CHARGED TO     CHARGED TO                      BALANCE AT
+            DESCRIPTION              OF PERIOD     EXPENSE     INTANGIBLES(A)   DEDUCTIONS(B)   END OF PERIOD
+            -----------              ----------   ----------   --------------   -------------   -------------
+<S>                                  <C>          <C>          <C>              <C>             <C>
+Allowance for doubtful accounts
+  Year ended December 31:
+
+    2000...........................    $8,768       $1,008         $   --           $2,088         $7,688
+
+    1999...........................    $5,504       $2,071         $2,838           $1,645         $8,768
+
+    1998...........................    $5,224       $1,312         $   --           $1,032         $5,504
+</TABLE>
+
+------------------------
+
+(A) Represents the allowance for doubful accounts opening balance sheet amount
+    for the Geschmay group, which was acquired in 1999.
+
+(B) Includes accounts written off as uncollectible, recoveries and the effect of
+    currency exchange rates.
+<PAGE>
+
+Index to Exhibits
+-----------------
+
+3(a)        -     Certificate of Incorporation of Registrant. (3)
+
+3(b)        -     Bylaws of Registrant. (10)
+
+4(a)        -     Article IV of Certificate of Incorporation of Registrant
+                 (included in Exhibit 3(a)).
+
+4(b)        -     Specimen Stock Certificate for Class A Common Stock. (1)
+
+                                CREDIT AGREEMENT
+
+10(i)(i)   -      Credit Agreement, dated as of August 11, 1999 (the "Credit
+                  Agreement") among the Registrant, certain banks listed
+                  therein, The Chase Manhattan Bank, as Administrative Agent,
+                  Chase Manhattan International Limited, as London Agent,
+                  Citibank N.A., as Syndication Agent and Banc One Capital
+                  Markets, Inc., as Documentation Agent. (9)
+
+10(i)(ii)   -     Amendment No. 1, dated as of December 22, 1999, to the Credit
+                  Agreement.  (11)
+
+                                  STOCK OPTIONS
+
+10(m)(i)    -     Form of Stock Option Agreement, dated as of August 1, 1983,
+                  between the Registrant and each of five employees, together
+                  with schedule showing the names of such employees and the
+                  material differences among the Stock Option Agreements with
+                  such employees. (1)
+
+10(m)(ii)   -     Form of Amendment of Stock Option Agreement, dated as of
+                  July 1, 1987, between the Registrant and each of the five
+                  employees identified in the schedule referred to as Exhibit
+                  10(m)(i). (1)
+
+10(m)(iii)  -     1988 Stock Option Plan. (2)
+
+10(m)(iv)   -     1992 Stock Option Plan. (4)
+
+10(m)(v)    -     1997 Executive Stock Option Agreement. (7)
+
+10(m)(vi)   -     1998 Stock Option Plan. (8)
+<PAGE>
+
+                             EXECUTIVE COMPENSATION
+
+10(n)       -     Pension Equalization Plan adopted April 16, 1986, naming two
+                  current executive officers and one former executive officer of
+                  Registrant as "Participants" thereunder. (1)
+
+10(n)(i)    -     Supplemental Executive Retirement Plan. (5)
+
+10(o)(i)    -     Form of Executive Deferred Compensation Plan adopted
+                  September 1, 1985, and Forms of Election Agreement. (1)
+
+10(o)(ii)   -     Form of Directors' Deferred Compensation Plan adopted
+                  September 1, 1985, and Form of Election Agreement. (1)
+
+10(o)(iii)  -     Executive Deferred Compensation Plan. (2)
+
+10(o)(iv)   -     Directors' Deferred Compensation Plan. (2)
+
+10(o)(v)    -     Deferred Compensation Plan of Albany International Corp. (6)
+
+10(o)(vi)   -     Centennial Deferred Compensation Plan. (6)
+
+                                 OTHER EXHIBITS
+
+11          -     Schedule of Computation of Net Income Per Share and Diluted
+                  Net Income Per Share.
+
+13          -     Annual Report to Security Holders for the year ended
+                  December 31, 2000.
+
+21          -     Subsidiaries of Registrant.
+
+23          -     Consent of PricewaterhouseCoopers LLP.
+
+24          -     Powers of Attorney.
+
+27          -     Financial Data Schedule.
+
+All other schedules and exhibits are not required or are inapplicable and,
+therefore, have been omitted.
+
+
+(1)   Previously filed as an Exhibit to the Company's Registration Statement on
+      Form S-1, No. 33-16254, as amended, declared effective by the Securities
+      and Exchange Commission on September 30, 1987, which previously-filed
+      Exhibit is incorporated by reference herein.
+<PAGE>
+
+(2)   Previously filed as an Exhibit to the Registrant's Current Report on Form
+      8-K dated August 8, 1988, which previously-filed Exhibit is incorporated
+      by reference herein.
+
+(3)   Previously filed as an Exhibit to the Registrant's Registration Statement
+      on Form 8-A, File No. 1-10026, declared effective by the Securities and
+      Exchange Commission on August 26, 1988 (as to The Pacific Stock Exchange,
+      Inc.), and on September 7, 1988 (as to The New York Stock Exchange, Inc.),
+      which previously-filed Exhibit is incorporated by reference herein.
+
+(4)   Previously filed as an Exhibit to the Registrant's Current Report on Form
+      8-K dated January 18, 1993, which previously-filed Exhibit is incorporated
+      by reference herein.
+
+(5)   Previously filed as an Exhibit to the Registrant's Current Report on Form
+      8-K dated June 30, 1994, which previously-filed Exhibit is incorporated by
+      reference herein.
+
+(6)   Previously filed as an Exhibit to the Registrant's Current Report on Form
+      8-K dated March 15, 1996, which previously-filed Exhibit is incorporated
+      by reference herein.
+
+(7)   Previously filed as an Exhibit to the Registrant's Current Report on Form
+      10-K dated March 16, 1998, which previously-filed Exhibit is incorporated
+      by reference herein.
+
+(8)   Previously filed as an Exhibit to the Registrant's Current Report on Form
+      10-Q dated August 10, 1998, which previously-filed Exhibit is incorporated
+      by reference herein.
+
+(9)   Previously filed as an Exhibit to the Registrant's Current Report on form
+      8-K dated September 21, 1999, which previously-filed Exhibit is
+      incorporated by reference herein.
+
+(10)  Previously filed as an Exhibit to the Registrant's Current Report on Form
+      10-Q dated November 10, 1999, which previously-filed Exhibit is
+      incorporated by reference herein.
+
+(11)  Filed herewith.
+</TEXT>
+</DOCUMENT>

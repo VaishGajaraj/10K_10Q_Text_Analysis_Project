@@ -1,0 +1,2513 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>c57236e10-k405.txt
+<DESCRIPTION>FORM 10-K405
+<TEXT>
+
+<PAGE>   1
+                                    FORM 10-K
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+(Mark One)
+
+[X]           ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF THE
+                           SECURITIES EXCHANGE ACT OF
+
+             For the fiscal year ended           JULY 2, 2000
+                                       ------------------------------
+                                       OR
+
+[ ]         TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+         For the transition period from                to
+                                        --------------    -----------------
+
+Commission file number 1-1370
+                          BRIGGS & STRATTON CORPORATION
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+      A Wisconsin Corporation                              39-0182330
+      -----------------------                          ------------------
+      (State or other jurisdiction of                   (I.R.S. Employer
+       incorporation or organization)                  Identification No.)
+
+               12301 WEST WIRTH STREET
+                 WAUWATOSA, WISCONSIN                          53222
+       ----------------------------------------             ----------
+       (Address of principal executive offices)             (Zip Code)
+
+Registrant's telephone number, including area code: 414-259-5333
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+<TABLE>
+<S>                                           <C>
+              Title of Each Class              Name of Each Exchange on Which Registered
+              -------------------              -----------------------------------------
+   Common Stock (par value $0.01 per share)               New York Stock Exchange
+   Common Share Purchase Rights                           New York Stock Exchange
+
+</TABLE>
+
+Securities registered pursuant to Section 12(g) of the Act: NONE
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes   X   No
+                                       -----    -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+
+The aggregate market value of voting stock held by nonaffiliates of the
+registrant was approximately $867,993,000 based on the reported last sale price
+of such securities as of August 24, 2000.
+
+
+Number of Shares of Common Stock Outstanding at August 24, 2000: 21,592,570.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+                       -----------------------------------
+
+<TABLE>
+<CAPTION>
+                                        Part of Form 10-K Into Which Portions
+               Document                     of Document are Incorporated
+               --------                 --------------------------------------
+<S>                                     <C>
+Proxy Statement for Annual Meeting
+      on October 18, 2000                              Part III
+</TABLE>
+
+
+The Exhibit Index is located on page 29.
+
+<PAGE>   2
+
+                          BRIGGS & STRATTON CORPORATION
+                       2000 FORM 10-K - TABLE OF CONTENTS
+
+
+<TABLE>
+<CAPTION>
+                                                                                                     PAGE
+                                                                                                     ----
+
+<S>          <C>                                                                                    <C>
+PART I
+Item 1.      Business                                                                                   1
+Item 2.      Properties                                                                                 3
+Item 3.      Legal Proceedings                                                                          4
+Item 4.      Submission of Matters to a Vote of Security Holders                                        4
+             Executive Officers of the Registrant                                                       4
+PART II
+Item 5.      Market for the Registrant's Common Equity and Related Stockholder Matters                  5
+Item 6.      Selected Financial Data                                                                    6
+Item 7.      Management's Discussion and Analysis of Financial Condition and
+                Results of Operations                                                                   7
+Item 7A.     Quantitative and Qualitative Disclosures About Market Risk                                10
+Item 8.      Financial Statements and Supplementary Data                                               11
+Item 9.      Changes in and Disagreements with Accountants on Accounting and
+                Financial Disclosure                                                                   27
+PART III
+Item 10.     Directors and Executive Officers of the Registrant                                        27
+Item 11.     Executive Compensation                                                                    27
+Item 12.     Security Ownership of Certain Beneficial Owners and Management                            27
+Item 13.     Certain Relationships and Related Transactions                                            27
+
+PART IV
+Item 14.     Exhibits, Financial Statement Schedules, and Reports on Form 8-K                          27
+             Signatures                                                                                28
+</TABLE>
+
+
+
+
+CAUTIONARY STATEMENT ON FORWARD-LOOKING STATEMENTS
+
+Certain statements in Item 1. Business and Item 7. Management's Discussion and
+Analysis of Financial Condition and Results of Operations may contain
+forward-looking statements that involve risks and uncertainties that could cause
+actual results to differ materially from those projected in the forward-looking
+statements. The words "anticipate", "believe", "estimate", "expect",
+"objective", and "think" or similar expressions are intended to identify
+forward-looking statements. The forward-looking statements are based on the
+Company's current views and assumptions and involve risks and uncertainties that
+include, among other things, the effects of weather on the purchasing patterns
+of the Company's customers and end use purchasers of the Company's engines; the
+seasonal nature of the Company's business; actions of competitors; changes in
+laws and regulations, including accounting standards; employee relations;
+customer demand; prices of purchased raw materials and parts; domestic economic
+conditions, including housing starts and changes in consumer disposable income;
+foreign economic conditions, including currency rate fluctuations and other
+factors that may be disclosed from time to time in our SEC filings or otherwise.
+Some or all of the factors may be beyond the Company's control.
+
+<PAGE>   3
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+Briggs & Stratton Corporation is the world's largest producer of air cooled
+gasoline engines for outdoor power equipment. The Company designs, manufactures,
+markets and services these products for original equipment manufacturers (OEMs)
+worldwide. These engines are primarily aluminum alloy gasoline engines ranging
+from 3 through 25 horsepower.
+
+The Company's engines are used primarily by the lawn and garden equipment
+industry, which accounted for 79% of fiscal 2000 OEM engine sales. Major lawn
+and garden equipment applications include walk-behind lawn mowers, riding lawn
+mowers and garden tillers. The remaining 21% of OEM sales in fiscal 2000 were
+for use on many products for industrial, construction, agricultural and consumer
+applications, including generators, pumps and pressure washers. Many retailers
+specify the Company's engines on the powered equipment they sell, and the Briggs
+& Stratton name is often featured prominently on a product despite the fact that
+the engine is just a component. Briggs & Stratton engines are marketed under
+various brand names including Classic(TM), Sprint(TM), Quattro(TM), Quantum(R),
+INTEK(TM), I/C(R), Industrial Plus(TM) and Vanguard(TM).
+
+In fiscal 2000, approximately 21% of the Company's net sales were derived from
+sales in international markets, primarily to customers in Europe. Briggs &
+Stratton serves its key international markets through its European regional
+office in Switzerland, its distribution center in the Netherlands and sales and
+service subsidiaries in Australia, Austria, Canada, the Czech Republic, France,
+Germany, Mexico, New Zealand, South Africa, Sweden and the United Kingdom. The
+Company is a leading supplier of gasoline engines in developed countries where
+there is an established lawn and garden equipment market. The Company also
+exports to developing nations where its engines are used in agricultural,
+marine, construction and other applications.
+
+Briggs & Stratton engines are sold primarily by its worldwide sales force
+through direct calls on customers. The Company's marketing staff and engineers
+in the United States provide support and technical assistance to its sales
+force.
+
+Briggs & Stratton also manufactures replacement engines and service parts and
+sells them to sales and service distributors. The Company owns its principal
+international distributors. In the United States the distributors are
+independently owned and operated. These distributors supply service parts and
+replacement engines directly to approximately 33,000 independently owned,
+authorized service dealers throughout the world. These distributors and service
+dealers implement Briggs & Stratton's commitment to reliability and service.
+
+CUSTOMERS
+The Company's sales are made primarily to original equipment manufacturers. The
+Company's three largest customers in each of the last three fiscal years were AB
+Electrolux (principally its Electrolux Home Products group), MTD Products Inc.,
+and Tomkins PLC (principally its Murray subsidiary). Sales to each of these
+customers were more than 10% of net sales in fiscal 2000, 1999, and 1998. Sales
+to all three combined were 45% of net sales in fiscal 2000, 42% of net sales in
+fiscal 1999 and 46% in 1998. Under purchasing plans available to all of its
+gasoline engine customers, the Company typically enters into annual engine
+supply arrangements with these large customers. The Company has no reason to
+anticipate a change in this practice.
+
+
+Over the past several years, sales in the United States of lawn and garden
+equipment by mass merchandisers have increased significantly, while sales by
+independent distributors and dealers have declined. The Company believes that in
+fiscal 2000 more than 75% of all lawn and garden equipment sold in the United
+States was sold through mass merchandisers such as Sears, Home Depot, Wal-Mart,
+and Lowe's. Given the buying power of the mass merchandisers, the Company,
+through its customers, has continued to experience pricing pressure. The Company
+expects that this trend will continue in the foreseeable future. The Company
+believes that a similar trend has developed for engine products for industrial
+and consumer applications.
+
+
+                                       1
+<PAGE>   4
+COMPETITION
+The small gasoline engine industry is highly competitive. The Company's major
+domestic competitors in engine manufacturing are Tecumseh Products Company,
+Honda Motor Co., Ltd., Kohler Co. and Kawasaki Heavy Industries, Ltd. Also, a
+domestic lawn mower manufacturer, Toro Co. under its Lawn-Boy brand,
+manufactures its own engines. Eight Japanese small engine manufacturers, of
+which Honda and Kawasaki are the largest, compete directly with the Company in
+world markets in the sale of engines and indirectly through their sale of end
+products that compete with the end products produced by the Company's customers.
+Tecumseh Europa S.p.A., located in Italy, is a major competitor in Europe.
+
+The Company believes the major areas of competition from all engine
+manufacturers include product quality, brand strength, price, timely delivery
+and service. Other factors affecting competition are short-term market share
+objectives, short-term profit objectives, exchange rate fluctuations, technology
+and product support and distribution strength. Briggs & Stratton believes its
+product value and service reputation have given it strong brand name recognition
+and enhance its competitive position.
+
+SEASONALITY OF DEMAND
+Sales of engines to lawn and garden equipment manufacturers are highly seasonal
+because of the buying patterns of retail customers. The majority of lawn and
+garden equipment is sold during the spring and summer months when most lawn care
+and gardening activities are performed. Sales of lawn and garden equipment are
+also influenced by weather conditions. Sales in the Company's fiscal third
+quarter have historically been the highest, while sales in the first fiscal
+quarter have historically been the lowest.
+
+The sale of lawn and garden equipment has shifted from smaller dealers to larger
+mass merchandisers, who do not wish to carry large inventories of lawn and
+garden equipment. In order to efficiently use its capital investments and meet
+seasonal demand for engines, the Company pursues a balanced production schedule
+throughout the year, subject to ongoing adjustment to reflect changes in
+estimated demand, customer inventory levels and other matters outside the
+control of the Company. Accordingly, inventory levels are generally higher
+during the first and second fiscal quarters in anticipation of increased
+customer demand in the third fiscal quarter, at which time inventory levels
+begin to decrease as sales increase. This seasonal pattern, which results in
+high inventories and low cash flow for the Company in the second and the
+beginning of the third fiscal quarters, shifts ultimately to higher cash flow in
+the latter portion of the third fiscal quarter and in the fourth fiscal quarter
+as inventories are liquidated and receivables are collected.
+
+MANUFACTURING
+Briggs & Stratton manufactures engines and parts at the following locations in
+the United States: Wauwatosa, Wisconsin; Murray, Kentucky; Poplar Bluff and
+Rolla, Missouri; Auburn, Alabama; and Statesboro, Georgia. The Company has a
+parts distribution center in Menomonee Falls, Wisconsin.
+
+Briggs & Stratton manufactures a majority of the structural components used in
+its engines, including aluminum die castings and a high percentage of other
+major components, such as carburetors and ignition systems. The Company
+purchases certain parts such as piston rings, spark plugs, valves, ductile and
+grey iron castings, zinc die castings and plastic components, some stampings and
+screw machine parts and smaller quantities of other components. Raw material
+purchases are principally aluminum and steel. The Company believes its sources
+of supply are adequate.
+
+The Company has joint ventures with Daihatsu Motor Company for the manufacture
+of engines in Japan, with Puling Machinery Works and Yimin Machinery Plant for
+the production of engines in China, and with Starting Industrial of Japan for
+the production of rewind starters in the U.S. The Company also has two joint
+ventures in India. Kirloskar Briggs & Stratton, a joint venture with Kirloskar
+Oil Engines Ltd., is responsible for sales and distribution of Briggs & Stratton
+engines and
+
+                                       2
+<PAGE>   5
+
+parts in India and assembles and distributes generators and pumps powered by
+Briggs & Stratton engines. Hero Briggs & Stratton is a joint venture with Hero
+Motors, part of the Hero Group, for the manufacture of engines and transmissions
+to be used in two wheel transportation vehicles.
+
+The Company has a strategic relationship with Mitsubishi Heavy Industries (MHI)
+for the global distribution of air cooled gasoline engines manufactured by MHI
+in Japan under the Company's Vanguard(TM) brand.
+
+
+OTHER GENERAL INFORMATION
+The Company holds certain patents on features incorporated in its products;
+however, the success of the Company's business is not considered to be primarily
+dependent upon patent protection. Licenses, franchises and concessions are not a
+material factor in the Company's business.
+
+For the years ending July 2, 2000, June 27, 1999, and June 28, 1998, the Company
+spent approximately $24,305,000, $17,920,000, and $19,950,000, respectively, on
+Company sponsored research activities relating to the development of new
+products or the improvement of existing products. Included in fiscal 1998 were
+costs related to the Company's software business of $3,136,000. This business
+was sold in the first quarter of the 1999 fiscal year.
+
+The average number of persons employed by the Company during the fiscal year was
+7,814. Employment ranged from a low of 7,186 in June 2000 to a high of 8,098 in
+August 1999.
+
+EXPORT SALES
+Export sales for fiscal 2000 were $339,363,000 (21% of total sales), for fiscal
+1999 were $316,115,000 (21% of total sales) and for fiscal 1998 were
+$288,510,000 (22% of total sales). These sales were principally to customers in
+European countries. See Note 4 of Notes to Consolidated Financial Statements for
+financial information about geographic areas. Also, see Item 7A and Note 10 of
+Notes to Consolidated Financial Statements for information about the Company's
+foreign exchange risk management.
+
+ITEM 2. PROPERTIES
+
+The corporate offices and one of the Company's manufacturing facilities are
+located in a suburb of Milwaukee, Wisconsin. The Company also has manufacturing
+facilities in Murray, Kentucky; Poplar Bluff and Rolla, Missouri; Auburn,
+Alabama and Statesboro, Georgia. These are owned facilities containing 3.6
+million square feet of office and production area. The Company occupies
+warehouse space totalling 400,000 square feet in a suburb of Milwaukee,
+Wisconsin under a reservation of interest agreement. The Company also leases
+80,000 square feet of manufacturing space in the Milwaukee area.
+
+The engine business with the OEMs is seasonal, with demand for engines at its
+height in the winter and early spring. Engine manufacturing operations run at
+capacity levels during the peak season, with many operations running three
+shifts. Engine operations generally run fewer shifts in the summer, when demand
+is weakest and production is considerably under capacity. During the winter,
+when finished goods inventories reach their highest levels, owned warehouse
+space may be insufficient and capacity may be expanded through rented space.
+Excess warehouse space exists in the spring and summer seasons. The Company's
+owned properties are well maintained.
+
+The Company leases 200,000 square feet of space to house its European warehouse
+in the Netherlands and its foreign sales and service operations in Australia,
+Austria, Canada, China, the Czech Republic, France, Germany, Mexico, New
+Zealand, Russia, South Africa, Sweden, Switzerland, United Arab Emirates and the
+United Kingdom.
+
+                                       3
+<PAGE>   6
+ITEM 3. LEGAL PROCEEDINGS
+
+There are no pending legal proceedings that are required to be reported under
+this item.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders, through the
+solicitation of proxies or otherwise, during the three months ended July 2,
+2000.
+
+
+<TABLE>
+EXECUTIVE OFFICERS OF THE REGISTRANT
+------------------------------------
+
+               Name, Age, Position                        Business Experience for Past Five Years
+               -------------------                        ---------------------------------------
+<S>                                               <C>
+FREDERICK P. STRATTON, JR., 61                    Mr. Stratton was elected to the position of Chief
+Chairman and Chief Executive Officer              Executive Officer in May 1977 and Chairman in November
+(1) (2) (3)                                       1986.
+
+JOHN S. SHIELY, 48                                Mr. Shiely was elected to his current position in
+President and Chief Operating Officer             August 1994.
+(1) (2)
+
+MICHAEL D. HAMILTON, 58                           Mr. Hamilton was elected to his current position
+Executive Vice President -                        effective June 1989.
+Sales and Service
+
+JAMES E. BRENN, 52                                Mr. Brenn was elected to his current position in
+Senior Vice President and                         October 1998, after serving as Vice President and
+Chief Financial Officer                           Controller since November 1988. He also served as
+                                                  Treasurer from November 1999 until January 2000.
+
+RICHARD J. FOTSCH, 45                             Mr. Fotsch was elected to his current position in May
+Senior Vice President and                         1999 after serving as Senior Vice President -
+General Manager                                   Operations since January 1999. He had previously held
+                                                  the position Senior Vice President - Engine Group since
+                                                  July 1997 and prior to that Vice President; General
+                                                  Manager - Small Engine Division.
+
+HUGO A. KELTZ, 52                                 Mr. Keltz was elected to his current position in May
+Vice President - International                    1992.
+
+CURTIS E. LARSON, JR., 52                         Mr. Larson was elected to this executive officer
+Vice President - Distribution                     position in October 1995 after serving as Vice
+Sales and Service                                 President - Industrial Engine Division since January
+                                                  1993.
+
+PAUL M. NEYLON, 53                                Mr. Neylon was elected to his current position in
+Senior Vice President - Production                August 2000, after serving as Vice President -
+                                                  Production since May 1999. He previously served as Vice
+                                                  President - Operations Support since January 1999 and prior
+                                                  to that held the position of Vice President; General
+                                                  Manager - Spectrum Division.
+</TABLE>
+
+                                       4
+<PAGE>   7
+
+
+
+<TABLE>
+<S>                                               <C>
+KASANDRA K. PRESTON, 56                           Ms. Preston was elected to her current position in July
+Vice President and Secretary                      2000, after serving as Director of Corporate Compliance
+                                                  and Shareholder Relations since June 1995.
+
+WILLIAM H. REITMAN, 44                            Mr. Reitman was elected an executive officer effective
+Vice President - Marketing                        April 1998. He had served as Vice President - Marketing
+                                                  since November 1995, after serving as Marketing Director
+                                                  - New Ventures since March 1993.
+
+STEPHEN H. RUGG, 53                               Mr. Rugg was elected to his current position in May
+Senior Vice President - Sales and Service         1999, after serving as Vice President - Sales since
+                                                  November 1995. His prior position was Vice President -
+                                                  Sales and Marketing.
+
+MICHAEL D. SCHOEN, 40                             Mr. Schoen was elected an executive officer in August
+Vice President - Operations Support               2000, after serving as Vice President - Operations
+                                                  Support since July 1999. He previously held the position
+                                                  of Vice President - International Operations since
+                                                  July 1996 after previously serving as International
+                                                  Marketing Director.
+
+THOMAS R. SAVAGE, 52                              Mr. Savage was elected to his current position
+Senior Vice President - Administration            effective July 1997, after serving as Vice President -
+                                                  Administration and General Counsel since November 1994.
+                                                  He also served as Secretary from November 1999 to June
+                                                  2000.
+
+TODD J. TESKE, 35                                 Mr. Teske was elected to his current position in
+Controller                                        October 1998, after serving as Assistant Controller since
+                                                  joining the Company in June 1996. He held the position of
+                                                  Audit Manager at Arthur Andersen LLP, a public
+                                                  accounting firm, from 1992 to 1996.
+
+CARITA R. TWINEM, 45                              Ms. Twinem was elected to her current position in
+Treasurer                                         February 2000, after serving as Tax Director since
+                                                  July 1994.
+</TABLE>
+
+(1)  Officer is also a Director of the Company.
+(2)  Member of Executive Committee.
+(3)  Member of Planning Committee.
+
+Officers are elected annually and serve until they resign, die, are removed, or
+a different person is appointed to the office.
+
+
+                                     PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+        MATTERS
+
+Information required by this Item is incorporated by reference to "Quarterly
+Financial Data, Dividend and Market Information" on page 26.
+
+                                       5
+<PAGE>   8
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+
+<TABLE>
+<CAPTION>
+Fiscal Year                                     2000         1999       1998          1997         1996
+----------------------------------------------------------------------------------------------------------
+(dollars in thousands, except per share data)
+
+<S>                                        <C>           <C>         <C>          <C>           <C>
+SUMMARY OF OPERATIONS
+  NET SALES ............................    $1,590,557   $1,501,726   $1,327,610   $1,316,413   $1,287,029
+  GROSS PROFIT ON SALES ................       339,454      305,355      254,674      221,216      261,748
+  PROVISION FOR INCOME TAXES ...........        80,150       63,670       42,500       37,740       56,640
+  NET INCOME ...........................       136,473      106,101       70,645       61,565       92,412
+  PER SHARE OF COMMON STOCK:
+    Basic Earnings .....................          5.99         4.55         2.86         2.16         3.19
+    Diluted Earnings ...................          5.97         4.52         2.85         2.15         3.18
+    Cash Dividends .....................          1.20         1.16         1.12         1.09         1.05
+    Shareholders' Investment ...........    $    18.83   $    15.77   $    13.28   $    13.82   $    17.30
+  WEIGHTED AVERAGE NUMBER OF SHARES OF
+   COMMON STOCK OUTSTANDING (in 000's)..        22,788       23,344       24,666       28,551       28,927
+  DILUTED NUMBER OF SHARES OF
+   COMMON STOCK OUTSTANDING (in 000's)..        22,842       23,459       24,775       28,678       29,059
+
+OTHER DATA
+  SHAREHOLDERS' INVESTMENT .............    $  409,465   $  365,910   $  316,488   $  351,097   $  500,505
+  LONG-TERM DEBT .......................        98,512      113,307      128,102      142,897       60,000
+  TOTAL ASSETS .........................       930,245      875,885      793,409      842,189      838,164
+  PLANT AND EQUIPMENT ..................       838,655      859,848      812,428      796,714      776,638
+  PLANT AND EQUIPMENT, NET OF RESERVES..       395,580      404,454      391,927      396,266      374,212
+  PROVISION FOR DEPRECIATION ...........        51,097       49,346       47,511       43,345       43,032
+  EXPENDITURES FOR PLANT AND EQUIPMENT..        71,441       65,998       45,893       71,262       77,746
+  WORKING CAPITAL ......................    $  159,219   $  160,350   $  149,846   $  199,039   $  258,834
+    Current Ratio ......................      1.5 TO 1     1.6 to 1     1.7 to 1     1.9 to 1     2.4 to 1
+  NUMBER OF EMPLOYEES AT YEAR END ......         7,233        7,994        7,265        7,661        7,199
+  NUMBER OF SHAREHOLDERS AT YEAR END ...         4,385        4,628        4,911        5,336        5,879
+  QUOTED MARKET PRICE:
+    High ...............................    $    63.63   $    70.94   $    53.38   $    53.63   $    46.88
+    Low ................................    $    31.00   $    33.69   $    36.88   $    36.50   $    32.75
+</TABLE>
+
+
+
+                                        6
+<PAGE>   9
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+FISCAL 2000 COMPARED TO FISCAL 1999
+
+Sales
+Net sales for fiscal 2000 totaled $1,591 million, an increase of $89 million or
+6% compared to the preceding year. The primary factors were a $104 million
+increase in sales dollars related to a 6% increase in engine unit shipments, a
+favorable mix of engines sold amounting to $24 million, and $9 million from
+increased prices. Offsetting these factors was a $48 million decrease of
+castings sales resulting from the disposition of the Company's ductile iron
+foundries in the first quarter of fiscal 2000.
+
+Gross Profit
+The gross profit rate increased to 21% in fiscal 2000 from 20% in fiscal 1999.
+Favorable factors to the gross profit were $18 million attributed to the benefit
+of higher production during the year and $9 million of price increases.
+Offsetting these improvements were $6 million of higher costs for purchased
+items including increased costs for imported engines due to currency exchange
+rates.
+
+Engineering, Selling, General and Administrative Expenses
+Engineering, selling, general and administrative expenses increased $9 million
+or 7% compared to fiscal 1999. This increase was primarily from a $6 million
+increase in research and development costs and a $3 million increase in profit
+sharing expenses due to improved results. These increases were offset by a $2
+million decrease in costs related to the Company's POWERCOM software business
+that was sold in the first quarter of the preceding year.
+
+Interest Expense
+Interest expense increased $4 million or 25% in fiscal 2000 compared to fiscal
+1999. These increases were the result of the Company's higher level of
+short-term borrowings during the year to fund working capital needs.
+
+Gain on Disposition of Foundry Assets
+At the end of August 1999, the Company contributed its two ductile iron
+foundries to Metal Technologies Holding Company, Inc. (MTHC) in exchange for $24
+million in cash and $45 million aggregate par value convertible preferred stock
+which was recorded at $22 million. The transaction resulted in a $17 million
+gain, and is shown as such on the income statement. The provisions of the
+preferred stock include a 15% cumulative dividend and conversion rights into a
+minimum of 31% of the common stock of MTHC. MTHC became the primary supplier to
+Briggs & Stratton Corporation of iron castings.
+
+Other Income
+Other income increased $9 million in fiscal 2000 compared to fiscal 1999. This
+increase is primarily attributed to increased equity income from joint ventures.
+
+Provision for Income Taxes
+The effective tax rate used in fiscal 2000 was 37.0% compared with 37.5% in
+fiscal 1999.
+
+FISCAL 1999 COMPARED TO FISCAL 1998
+
+Sales
+Net sales for fiscal 1999 totaled $1,502 million, an increase of $174 million or
+13% when compared to the prior year. This was due to a $120 million increase in
+sales dollars resulting from an 8% increase in unit shipments, a favorable mix
+change in engines sold of $38 million and $16 million from increased prices.
+
+Gross Profit
+The gross profit margin increased to 20% in the 1999 fiscal year from 19% in the
+preceding year. This increase resulted primarily from the following factors: $16
+million of price increases, $15 million attributed to the benefit of higher
+production during the year and $14 million in lower costs for purchased parts
+and engines and raw material. Lower aluminum costs, the major raw material used
+in engines, accounted for $8 million of the lower raw material costs. Offsetting
+these improvements were a mix shift to lower margin engines of $22 million and
+inefficiencies of $3 million caused by operating plants at full capacity.
+
+Engineering, Selling, General and Administrative Expenses
+Engineering, selling, general and administrative expenses for fiscal 1999
+decreased 4% or $5 million compared to fiscal 1998. This decrease was primarily
+due to a $10 million decrease in costs related to the Company's POWERCOM
+software business that was sold in the first quarter of this fiscal year. Costs
+related
+
+                                       7
+
+<PAGE>   10
+
+
+
+
+to implementing the Company's new enterprise-wide information system decreased
+$2 million between the fiscal years. Offsetting these reductions in costs was a
+$4 million increase in profit sharing expenses due to improved results and a $1
+million increase in research and development expenses.
+
+Interest Expense
+Interest expense decreased 12% or $2 million for the 1999 fiscal year compared
+to the 1998 fiscal year. This decrease was the result of a $15 million repayment
+of long-term debt at the end of the 1998 fiscal year and lower average interest
+rates on working capital borrowings throughout the year.
+
+Provision for Income Taxes
+The effective tax rate decreased to 37.5% in 1999 from 37.6% in the previous
+year due to lower state income taxes and reductions in other related items.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+FISCAL YEARS 2000, 1999 AND 1998
+
+Cash flow from operating activities was $77 million, $116 million and $136
+million, in fiscal 2000, 1999 and 1998, respectively.
+
+The fiscal 2000 cash flow from operating activities decreased $39 million. This
+reflects increased net income of $30 million offset by the gain on disposition
+of foundry assets of $17 million and an increased requirement for operating
+capital of $43 million caused by increases in inventories at the end of fiscal
+2000 offset by lower accounts receivable. The increase in inventories was
+planned as inventories at the end of fiscal 1999 were unusually low. Lower
+accounts receivable was caused by lower sales in June 2000 compared to June
+1999.
+
+The fiscal 1999 cash flow from operating activities declined $20 million. This
+reflects improved net income of $35 million, offset by an increased requirement
+for operating capital of $53 million, caused primarily by strong fourth quarter
+business which increased year-end receivables and a restoration of inventories
+to higher year-end levels.
+
+The fiscal 1998 cash flow from operating activities reflects a $7 million
+increase in accounts receivable and an $18 million decrease in inventories
+resulting from increased sales late in the last fiscal quarter.
+
+Net cash used in investing activities amounted to $43 million, $67 million and
+$45 million in fiscal 2000, 1999 and 1998, respectively. These cash flows
+included additions to plant and equipment of $71 million, $66 million and $46
+million in fiscal 2000, 1999 and 1998, respectively. The fiscal 2000 capital
+expenditures related primarily to reinvestment in equipment, capacity additions
+and new products. The fiscal 1999 capital expenditures related primarily to
+reinvestment in equipment and new products. The fiscal 1998 capital expenditures
+principally related to reinvestment in equipment. The fiscal 2000 cash used in
+investing activities is net of $24 million of proceeds received on the
+disposition of plant and equipment.
+
+Net cash used in financing activities amounted to $77 million, $73 million and
+$119 million in fiscal 2000, 1999 and 1998, respectively. These financing
+activities included the repurchase of the Company's common stock, totaling $69
+million in 2000, $75 million in 1999 and $86 million in 1998. During fiscal
+2000, the Company repaid the remaining $30 million on the 9.21% Senior Notes due
+2001. There was no gain or loss associated with this repayment. In fiscal 1999
+and 1998, the Company paid $15 million on these notes. These uses of cash
+resulted in higher borrowings at July 2, 2000 of $44 million. Proceeds from the
+exercise of stock options amounted to $45 million in 1999, substantially higher
+than in fiscal 2000 and 1998 due to increased option activities.
+
+Future Liquidity and Capital Resources
+The Company has in place a $250 million revolving credit facility to be used to
+fund seasonal working capital requirements and other financing needs. This
+credit facility expires in April 2002 and contains certain restrictive
+covenants.
+
+In April 2000, the Company's Board of Directors approved capital expenditures of
+$76 million for fiscal 2001. These anticipated expenditures include capacity
+increases, continuing investment in equipment and new products.
+
+In May 1997, the Company filed a shelf registration for $175 million of debt
+securities to be issued periodically. Of this, $75 million has not yet been
+issued on the registration statement. The Company may decide to offer all or
+part of the remaining securities depending on many factors, including general
+economic conditions or cash required for operations.
+
+Management believes that available cash, the credit facility, cash generated
+from operations, existing lines of credit and access to debt markets will be
+adequate to fund the Company's capital requirements for the foreseeable future.
+
+
+                                       8
+
+<PAGE>   11
+
+
+FINANCIAL STRATEGY
+
+Management of the Company subscribes to the premise that the value of the
+Company is enhanced if the capital invested in the Company's operations yields a
+cash return that is greater than the Company's cost of capital. Given this
+belief, the Company implemented this financial strategy by means of a "dutch
+auction" tender offer and a public debt offering in fiscal 1997. The Company
+also continued the repurchase of its outstanding common stock in the open market
+in fiscal 2000, 1999 and 1998. The Company believes this will provide a capital
+structure that makes greater use of financial leverage without imposing
+excessive risk on either the Company's shareholders or creditors. The Company
+also believes that the substitution of lower (after-tax) cost debt for equity in
+its permanent capital structure will reduce its overall cost of capital and that
+its profitability and strong cash flows will accommodate the increased use of
+debt without impairing its ability to finance growth or increase cash dividends
+per share on its common stock.
+
+The share repurchase program authorized by the Board of Directors in fiscal 1997
+for $300 million of its common stock was completed in the second quarter of
+fiscal 1999. Subsequent to this, the Company has repurchased an additional 2.3
+million shares. In June 2000, the Board of Directors authorized additional
+purchases of up to 2 million shares.
+
+Also as a part of its financial strategy, subject to the discretion of its Board
+of Directors and the requirements of applicable law, the Company currently
+intends to increase future cash dividends per share at a rate approximating the
+inflation rate.
+
+OTHER MATTERS
+
+Emissions
+The U.S. Environmental Protection Agency (EPA) has developed national emission
+standards under a two phase process for small air cooled engines. The Company
+currently has a complete product offering which complies with EPA's Phase I
+engine emission standards. The EPA finalized its Phase II emission standards in
+March of 1999. The Phase II program will impose more stringent standards over
+the useful life of the engine and will be phased in from 2001 to 2005 for Class
+II (225 or greater cubic centimeter displacement) engines and from 2003 to 2008
+for Class I (under 225 cubic centimeter displacement) engines. The Company does
+not believe compliance with the new standards will have a material adverse
+effect on its financial position or results of operations.
+
+The Company implemented a supplemental compliance plan for model year 2000 with
+the California Air Resources Board (CARB), as required of companies which sell
+more than a threshold number of Class I engines into California. A second plan
+for model year 2001 has been submitted to CARB. The objective of the plans is to
+achieve additional reductions in extreme non-attainment areas. While CARB's
+aggressive program will result in a reduced product offering by the Company in
+California, the Company does not believe the California program will have a
+material effect on the financial condition or results of operations of the
+Company.
+
+New Accounting Pronouncements
+In June 1998 the Financial Accounting Standards Board issued Financial
+Accounting Standard (FAS) No. 133 "Accounting for Derivative Instruments and
+Hedging Activities". This new standard as amended will be effective for the
+Company in fiscal 2001, and requires companies to record derivatives on the
+balance sheet as assets or liabilities, measured at fair value. Any fair value
+changes will be recorded in net income or comprehensive income. The adoption of
+this standard will not have a material effect on the Company's financial
+statements.
+
+                                       9
+
+<PAGE>   12
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company is exposed to market risk from changes in foreign exchange and
+interest rates. To reduce the risk from changes in foreign exchange rates, the
+Company selectively uses financial instruments. The Company does not hold or
+issue financial instruments for trading purposes.
+
+FOREIGN CURRENCY
+
+The Company's earnings are affected by fluctuations in the value of the U.S.
+dollar against foreign currencies primarily as a result of purchasing engines
+from its Japanese joint venture. The Company's foreign subsidiaries' earnings
+are also influenced by fluctuations of the local currency against the U.S.
+dollar as these subsidiaries purchase inventory from the parent in U.S. dollars.
+Forward foreign exchange contracts are used to partially hedge against the
+earnings effects of such fluctuations. At July 2, 2000, the Company had the
+following forward foreign exchange contracts outstanding with the Fair Value
+Gains and (Losses) ("FV") shown (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                 CURRENCY
+                           NOTIONAL          ----------------
+  CURRENCY                    VALUE          AMOUNT      TYPE            FV
+  --------                 ---------         ------      ----            --
+<S>                        <C>              <C>        <C>           <C>
+Japanese Yen               1,952,789        18,732     U.S.           $(404)
+U.S. Dollars                   3,721         5,760     Australian     $ 283
+British Pounds                   739         1,052     U.S.           $  69
+
+</TABLE>
+
+All of the above contracts expire within thirteen months.
+
+Although the Company sells its domestically produced engines to foreign
+customers in U.S. dollars, the Company has shared some of the currency risk with
+customers for certain sales transactions. Accordingly, the Company is exposed to
+fluctuations in foreign exchange rates, primarily related to the U.S.
+dollar/Euro rate. Historically, the Company has managed these risks through
+limitations on the amount of sharing provided to customers. These programs were
+terminated in fiscal 2000.
+
+Beginning in fiscal 2001, the Company began selling certain products to European
+customers for which the Company will receive Euro currency. The Company plans to
+manage this exposure to foreign currency fluctuations using foreign exchange
+contracts.
+
+Fluctuations in currency exchange rates may also impact the shareholders'
+investment in the Company. Amounts invested in the Company's non-U.S.
+subsidiaries are translated into U.S. dollars at the exchange rates in effect at
+year end. The resulting translation adjustments are recorded in shareholders'
+investment as cumulative translation adjustments. The cumulative translation
+adjustments component of shareholders' investment decreased $1.8 million during
+the year. Using the year-end exchange rates, the total amount invested in
+subsidiaries at July 2, 2000 was approximately $21.5 million.
+
+INTEREST RATES
+
+The Company is exposed to interest rate fluctuations on its borrowings. The
+Company manages its interest rate exposure through a combination of fixed and
+variable rate debt. Depending on general economic conditions, the Company has
+typically used variable rate debt for short-term borrowings and fixed rate debt
+for longer-term borrowings.
+
+At July 2, 2000, the Company had the following short-term loans outstanding
+(amount in thousands):
+
+<TABLE>
+<CAPTION>
+                                            Average Annual
+Currency                 Amount             Interest Rate
+--------                 ------             -------------
+<S>                    <C>                 <C>
+German Mark              22,684                5.25%
+Dutch Guilder             1,399                5.00%
+Canadian Dollars          2,480                6.50%
+U.S. Dollars             48,809                6.16%
+
+</TABLE>
+
+All of the above loans carry variable interest rates.
+
+Long-term loans consisted of the following (amounts in thousands):
+
+<TABLE>
+<CAPTION>
+
+Description            Amount             Maturity
+-----------            ------             --------
+<S>                  <C>                 <C>
+7.25% Notes           $98,512               2007
+
+</TABLE>
+
+The above loan carries a fixed rate of interest.
+
+                                       10
+<PAGE>   13
+
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+CONSOLIDATED STATEMENTS OF EARNINGS
+--------------------------------------------------------------------------------
+FOR THE YEARS ENDED JULY 2, 2000, JUNE 27, 1999, AND JUNE 28, 1998 (in
+thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+
+                                                    2000             1999             1998
+                                             -----------      -----------      -----------
+<S>                                          <C>              <C>              <C>
+NET SALES ..............................     $ 1,590,557      $ 1,501,726      $ 1,327,610
+COST OF GOODS SOLD .....................       1,251,103        1,196,371        1,072,936
+                                             -----------       -----------     -----------
+   Gross Profit on Sales ...............         339,454          305,355          254,674
+ENGINEERING, SELLING, GENERAL AND
+ ADMINISTRATIVE EXPENSES ...............         134,225          125,219          129,986
+                                             -----------      -----------      -----------
+   Income from Operations ..............         205,229          180,136          124,688
+INTEREST EXPENSE .......................         (21,267)         (17,024)         (19,352)
+GAIN ON DISPOSITION OF FOUNDRY ASSETS ..          16,545             --               --
+OTHER INCOME, Net ......................          16,116            6,659            7,809
+                                             -----------      -----------      -----------
+   Income Before Provision
+   for Income Taxes ....................         216,623          169,771          113,145
+PROVISION FOR INCOME TAXES .............          80,150           63,670           42,500
+                                             -----------      -----------      -----------
+NET INCOME .............................     $   136,473      $   106,101      $    70,645
+                                             ===========      ===========      ===========
+   Average Shares Outstanding ..........          22,788           23,344           24,666
+BASIC EARNINGS PER SHARE ...............     $      5.99      $      4.55      $      2.86
+                                             ===========      ===========      ===========
+   Diluted Average Shares Outstanding ..          22,842           23,459           24,775
+DILUTED EARNINGS PER SHARE .............     $      5.97      $      4.52      $      2.85
+                                             ===========      ===========      ===========
+</TABLE>
+
+
+     The accompanying notes to consolidated financial statements are an integral
+part of these statements.
+
+                                       11
+
+<PAGE>   14
+
+
+CONSOLIDATED BALANCE SHEETS
+
+AS OF JULY 2, 2000 AND JUNE 27, 1999
+(in thousands)
+
+
+<TABLE>
+<CAPTION>
+
+                           ASSETS                                     2000        1999
+                                                                      ----        ----
+CURRENT ASSETS:
+
+<S>                                                                <C>          <C>
+  Cash and Cash Equivalents ...................................     $ 16,989     $ 60,806
+  Receivables, Less Reserves of $1,544 and $1,516, Respectively      140,097      194,096
+  Inventories -
+   Finished Products and Parts ................................      181,800       72,196
+   Work in Process ............................................       70,908       59,665
+   Raw Materials ..............................................        5,066        5,587
+                                                                    --------     --------
+     Total Inventories ........................................      257,774      137,448
+  Future Income Tax Benefits ..................................       39,138       34,383
+  Prepaid Expenses ............................................       17,999       16,119
+                                                                    --------     --------
+     Total Current Assets .....................................      471,997      442,852
+INVESTMENTS ...................................................       50,228       19,024
+PREPAID PENSION ...............................................        5,506         --
+DEFERRED INCOME TAX ASSETS ....................................         --          2,039
+CAPITALIZED SOFTWARE ..........................................        6,934        7,516
+PLANT AND EQUIPMENT:
+  Land and Land Improvements ..................................       15,087       16,024
+  Buildings ...................................................      139,588      151,035
+  Machinery and Equipment .....................................      651,740      651,129
+  Construction in Progress ....................................       32,240       41,660
+                                                                    --------     --------
+                                                                     838,655      859,848
+  Less - Accumulated Depreciation .............................      443,075      455,394
+                                                                    --------     --------
+     Total Plant and Equipment, Net ...........................      395,580      404,454
+                                                                    --------     --------
+                                                                    $930,245     $875,885
+                                                                    ========     ========
+
+</TABLE>
+
+
+     The accompanying notes to consolidated financial statements are an integral
+part of these statements.
+
+
+                                       12
+
+<PAGE>   15
+
+
+
+ AS OF JULY 2, 2000 AND JUNE 27, 1999
+(in thousands)
+
+
+<TABLE>
+<CAPTION>
+
+
+       LIABILITIES AND SHAREHOLDERS' INVESTMENT             2000                1999
+                                                            ----                ----
+CURRENT LIABILITIES:
+
+<S>                                                      <C>                 <C>
+  Accounts Payable ............................          $ 117,556           $ 117,757
+  Domestic Notes Payable ......................             48,809               4,335
+  Foreign Loans ...............................             13,356              13,824
+  Current Maturities on Long-Term Debt ........               --                15,000
+  Accrued Liabilities -
+    Wages and Salaries ........................             39,464              38,744
+    Warranty ..................................             46,352              36,978
+    Other .....................................             42,622              43,963
+                                                         ---------           ---------
+      Total Accrued Liabilities ...............            128,438             119,685
+  Federal and State Income Taxes ..............              4,619              11,901
+                                                         ---------           ---------
+      Total Current Liabilities ...............            312,778             282,502
+DEFERRED REVENUE ON SALE OF PLANT AND EQUIPMENT             15,679              15,798
+DEFERRED INCOME TAX LIABILITY .................              4,011                --
+ACCRUED PENSION COST ..........................             11,428              17,306
+ACCRUED EMPLOYEE BENEFITS .....................             12,607              13,185
+ACCRUED POSTRETIREMENT HEALTH CARE OBLIGATION .             65,765              67,877
+LONG-TERM DEBT ................................             98,512             113,307
+COMMITMENTS AND CONTINGENCIES
+SHAREHOLDERS' INVESTMENT:
+  Common Stock -
+    Authorized 60,000 Shares $.01 Par Value,
+      Issued 28,927 in 2000 and 1999 ..........                289                 289
+  Additional Paid-In Capital ..................             36,478              37,657
+  Retained Earnings ...........................            721,980             612,807
+  Accumulated Other Comprehensive Loss ........             (3,931)             (1,732)
+  Unearned Compensation on Restricted Stock ...               (226)               (235)
+  Treasury Stock at cost,
+    7,181 Shares in 2000 and 5,727 in 1999 ....           (345,125)           (282,876)
+                                                         ---------           ---------
+      Total Shareholders' Investment ..........            409,465             365,910
+                                                         ---------           ---------
+                                                         $ 930,245           $ 875,885
+                                                         =========           =========
+</TABLE>
+
+
+     The accompanying notes to consolidated financial statements are an integral
+part of these statements.
+
+
+                                       13
+
+<PAGE>   16
+
+
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' INVESTMENT
+
+FOR THE YEARS ENDED JULY 2, 2000, JUNE 27, 1999, AND JUNE 28, 1998 (in
+thousands)
+
+<TABLE>
+<CAPTION>
+
+                                                                           Accumulated      Unearned
+                                                Additional                  Other Com-     Compensation
+                                      Common     Paid-In       Retained     prehensive     on Restricted   Treasury   Comprehensive
+                                       Stock     Capital       Earnings    Income (Loss)      Stock          Stock        Income
+                                       -----     -------       --------    -------------      -----          -----        ------
+
+<S>                                <C>          <C>           <C>           <C>           <C>           <C>
+BALANCES, JUNE 29, 1997 .......    $     289    $  40,533     $ 490,682     $  (1,033)    $    --       $(179,374)
+Comprehensive Income -
+  Net Income ..................         --           --          70,645          --            --            --        $  70,645
+  Foreign Currency Translation
+   Adjustments ................         --           --            --          (1,077)         --            --           (1,077)
+                                                                                                                       ---------
+  Total Comprehensive Income ..         --           --            --            --            --            --        $  69,568
+                                                                                                                       =========
+Cash Dividends Paid
+  ($1.12 per share) ...........         --           --         (27,522)         --            --            --
+Purchase of Common Stock
+  for Treasury ................         --           --            --            --            --         (85,943)
+
+Exercise of Stock Options .....         --         (2,757)         --            --            --          12,045
+                                   -------------------------------------------------------------------------------
+BALANCES, JUNE 28, 1998 .......    $     289    $  37,776     $ 533,805     $  (2,110)    $    --       $(253,272)
+Comprehensive Income -
+  Net Income ..................         --           --         106,101          --            --            --        $ 106,101
+  Foreign Currency Translation
+   Adjustments ................         --           --            --            (199)         --            --             (199)
+  Unrealized Gain on Marketable
+   Securities, net of
+   tax of $368 ................         --           --            --             577          --            --              577
+                                                                                                                       ---------
+  Total Comprehensive Income ..         --           --            --            --            --            --        $ 106,479
+                                                                                                                       =========
+Cash Dividends Paid
+  ($1.16 per share) ...........         --           --         (27,099)         --            --            --
+Purchase of Common Stock
+  for Treasury ................         --           --            --            --            --         (75,141)
+Exercise of Stock Options .....         --            (13)         --            --            --          45,143
+Restricted Stock Issued .......         --           (106)         --            --            (288)          394
+Amortization of Unearned
+  Compensation ................         --           --            --            --              53          --
+                                   -------------------------------------------------------------------------------
+BALANCES, JUNE 27, 1999 .......    $     289    $  37,657     $ 612,807     $  (1,732)    $    (235)    $(282,876)
+Comprehensive Income -
+  Net Income ..................         --           --         136,473          --            --            --        $ 136,473
+  Foreign Currency Translation
+   Adjustments ................         --           --            --          (1,816)         --            --           (1,816)
+  Unrealized Loss on Marketable
+   Securities, net of
+   tax of $241 ................         --           --            --            (383)         --            --             (383)
+                                                                                                                       ---------
+  Total Comprehensive Income ..         --           --            --            --            --            --        $ 134,274
+                                                                                                                       =========
+Cash Dividends Paid
+  ($1.20 per share) ...........         --           --         (27,300)         --            --            --
+Purchase of Common Stock
+  for Treasury ................         --           --            --            --            --         (69,083)
+Exercise of Stock Options .....         --         (1,189)         --            --            --           6,784
+Restricted Stock Issued .......         --             10          --            --             (60)           50
+Amortization of Unearned
+  Compensation ................         --           --            --            --              69          --
+                                   -------------------------------------------------------------------------------
+BALANCES, JULY 2, 2000 ........    $     289    $  36,478     $ 721,980     $  (3,931)    $    (226)    $(345,125)
+                                   ===============================================================================
+
+</TABLE>
+
+     The accompanying notes to consolidated financial statements are an integral
+part of these statements.
+
+
+                                       14
+<PAGE>   17
+
+CONSOLIDATED STATEMENTS OF CASH FLOW
+
+
+ FOR THE YEARS ENDED JULY 2, 2000, JUNE 27, 1999, AND JUNE 28, 1998 (in
+thousands)
+
+<TABLE>
+<CAPTION>
+
+                                                               2000         1999         1998
+CASH FLOWS FROM OPERATING ACTIVITIES:
+<S>                                                         <C>          <C>          <C>
+ Net Income ...............................................  $ 136,473    $ 106,101    $  70,645
+ Adjustments to Reconcile Net Income to
+  Net Cash Provided by Operating Activities -
+  Depreciation and Amortization ...........................     51,370       49,604       47,716
+  Equity in Earnings of Unconsolidated Affiliates .........    (13,333)      (5,275)      (4,446)
+  (Gain) Loss on Disposition of Plant and Equipment .......    (14,167)       2,355        1,973
+  Provision for Deferred Income Taxes .....................      1,542        4,052        7,735
+  Change in Operating Assets and Liabilities -
+   (Increase) Decrease in Receivables .....................     51,837      (58,738)      (6,752)
+   (Increase) Decrease in Inventories .....................   (121,685)     (29,570)      18,081
+   (Increase) Decrease in Prepaid Expenses ................     (2,391)      (3,766)         272
+   Increase in Accounts Payable,
+    Accrued Liabilities and Income Taxes ..................      1,413       61,697        8,274
+   Other, Net .............................................    (13,577)     (10,748)      (7,676)
+                                                            ----------    ---------    ---------
+    Net Cash Provided by Operating Activities .............     77,482      115,712      135,822
+                                                            ----------    ---------    ---------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Additions to Plant and Equipment .........................    (71,441)     (65,998)     (45,893)
+ Proceeds Received on Disposition of Plant and Equipment ..     23,511        1,142          620
+ Other, Net ...............................................      5,142       (1,764)         568
+                                                            ----------    ---------    ---------
+    Net Cash Used in Investing Activities .................    (42,788)     (66,620)     (44,705)
+                                                            ----------    ---------    ---------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+ Net Borrowings (Repayments) on Loans and Notes Payable ...     44,005         (401)         677
+ Repayment on 9.21% Senior Notes Due 2001 .................    (30,000)     (15,000)     (15,000)
+ Cash Dividends Paid ......................................    (27,300)     (27,099)     (27,522)
+ Purchase of Common Stock for Treasury ....................    (69,083)     (75,141)     (85,943)
+ Proceeds from Exercise of Stock Options ..................      5,561       45,130        9,288
+                                                            ----------    ---------    ---------
+   Net Cash Used in Financing Activities ..................    (76,817)     (72,511)    (118,500)
+                                                            ----------    ---------    ---------
+EFFECT OF FOREIGN CURRENCY EXCHANGE RATE
+ CHANGES ON CASH AND CASH EQUIVALENTS .....................     (1,694)        (302)        (949)
+                                                            ----------    ---------    ---------
+NET DECREASE IN CASH AND
+ CASH EQUIVALENTS .........................................    (43,817)     (23,721)     (28,332)
+CASH AND CASH EQUIVALENTS:
+ Beginning of Year ........................................     60,806       84,527      112,859
+                                                            ----------    ---------    ---------
+ End of Year ..............................................  $  16,989    $  60,806    $  84,527
+                                                            ==========    =========    =========
+SUPPLEMENTAL DISCLOSURE OF
+ CASH FLOW INFORMATION:
+ Interest Paid ............................................  $  21,407    $  17,025    $  17,989
+                                                            ==========    =========    =========
+ Income Taxes Paid ........................................  $  84,535    $  54,491    $  33,352
+                                                            ==========    =========    =========
+</TABLE>
+
+The accompanying notes to consolidated financial statements are an integral
+part of these statements.
+
+                                       15
+
+<PAGE>   18
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+ FOR THE YEARS ENDED JULY 2, 2000, JUNE 27, 1999, AND JUNE 28, 1998
+
+(1)  NATURE OF OPERATIONS:
+Briggs & Stratton Corporation (the Company) is a U.S. based producer of air
+cooled gasoline engines. These engines are sold worldwide, primarily to original
+equipment manufacturers of lawn and garden equipment and other gasoline engine
+powered equipment.
+
+(2)  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+Fiscal Year: The Company's fiscal year consists of 52 or 53 weeks, ending on the
+Sunday nearest the last day of June in each year. Therefore, the 2000 fiscal
+year was 53 weeks long and the 1999 and 1998 fiscal years were 52 weeks long.
+All references to years relate to fiscal years rather than calendar years.
+
+Principles of Consolidation: The consolidated financial statements include the
+accounts of Briggs & Stratton Corporation and its wholly owned domestic and
+foreign subsidiaries after elimination of intercompany accounts and
+transactions.
+
+Accounting Estimates: The preparation of financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+Cash and Cash Equivalents: This caption includes cash, commercial paper and
+certificates of deposit. The Company considers all highly liquid investments
+purchased with a maturity of three months or less to be cash equivalents.
+
+Inventories: Inventories are stated at cost, which does not exceed market. The
+last-in, first-out (LIFO) method was used for determining the cost of
+approximately 91% of total inventories at July 2, 2000, 89% at June 27, 1999 and
+88% at June 28, 1998. The cost for the remaining portion of the inventories was
+determined using the first-in, first-out (FIFO) method. If the FIFO inventory
+valuation method had been used exclusively, inventories would have been
+$45,200,000, $43,900,000 and $48,100,000 higher in the respective years. The
+LIFO inventory adjustment was determined on an overall basis, and accordingly,
+each class of inventory reflects an allocation based on the FIFO amounts.
+
+Investments: This caption represents the Company's investments in five 50%-owned
+foreign joint ventures, preferred stock in a privately-held iron castings
+business and common stock in a publicly traded software company. The common
+stock in the publicly traded company is being classified as available-for-sale
+and is reported at a fair market value of $2,100,000 as of July 2, 2000 and
+$2,730,000 as of June 27, 1999. The unrealized gain incurred on this stock is
+recorded as Unrealized Gain on Marketable Securities in the Shareholders'
+Investment section of the balance sheet. The investments in the five joint
+ventures and the privately held business are accounted for under the equity
+method.
+
+Capitalized Software: This caption represents costs of software used in the
+Company's business. Amortization of Capitalized Software is computed on an
+item-by-item basis over a period of three to ten years, depending on the
+estimated useful life of the software. Accumulated amortization amounted to
+$6,173,000 as of July 2, 2000 and $5,655,000 as of June 27, 1999.
+
+Plant and Equipment and Depreciation:
+Plant and equipment is stated at cost, and depreciation is computed using the
+straight-line method at rates based upon the estimated useful lives of the
+assets.
+
+Expenditures for repairs and maintenance are charged to expense as incurred.
+Expenditures for major renewals and betterments, which significantly extend the
+useful lives of existing plant and equipment, are capitalized and depreciated.
+Upon retirement or disposition of plant and equipment, the cost and related
+accumulated depreciation are removed from the accounts and any resulting gain or
+loss is recognized in other income.
+
+
+                                       16
+<PAGE>   19
+
+
+
+
+NOTES...
+
+Deferred Revenue on Sale of Plant & Equipment: In fiscal 1997, the Company sold
+its Menomonee Falls, Wisconsin facility for approximately $16.0 million. The
+provisions of the contract state that the Company will continue to own and
+occupy the warehouse portion of the facility for a period of up to ten years
+(the "Reservation Period"). The contract also contains a buyout clause, at the
+buyer's option and under certain circumstances, of the remaining Reservation
+Period. Under the provisions of Statement of Financial Accounting Standards
+(FAS) No. 66, "Accounting for Sales of Real Estate," the Company is required to
+account for this as a financing transaction as the Company continues to have
+substantial involvement with the facility during the Reservation Period or until
+the buyout option is exercised. Under this method, the cash received is
+reflected as a deferred revenue, and the assets and the accumulated depreciation
+remain on the Company's books. Depreciation expense continues to be recorded
+each period, and imputed interest expense is also recorded and added to deferred
+revenue. Offsetting this is the imputed fair value lease income on the
+non-Company occupied portion of the building. A pretax gain, which will be
+recognized at the earlier of the exercise of the buyout option or the expiration
+of the Reservation Period, is estimated to be $10 million to $12 million. The
+annual cost of operating the warehouse portion of the facility is not material.
+
+Income Taxes: The Provision for Income Taxes includes Federal, state and foreign
+income taxes currently payable and those deferred or prepaid because of
+temporary differences between the financial statement and tax basis of assets
+and liabilities. The Future Income Tax Benefits represent temporary differences
+relating to current assets and current liabilities and the Deferred Income Tax
+Assets/Liabilities represent temporary differences relating to noncurrent assets
+and liabilities.
+
+Research and Development Costs: Expenditures relating to the development of new
+products and processes, including significant improvements and refinements to
+existing products, are expensed as incurred. The amounts charged against income
+were $24,305,000 in 2000, $17,920,000 in 1999, and $19,950,000 in 1998. Included
+in the fiscal 1998 amounts were software development costs related to the
+Company's software business of $3,136,000.
+
+Advertising Costs: Advertising costs, included in Engineering, Selling, General
+and Administrative Expenses on the accompanying Consolidated Statements of
+Earnings, are expensed as incurred. These expenses totaled $8,078,000 in 2000
+$7,724,000 in 1999, and $7,325,000 in 1998.
+
+Foreign Currency Translation: Foreign currency balance sheet accounts are
+translated into United States dollars at the rates of exchange in effect at
+fiscal year end. Income and expenses are translated at the average rates of
+exchange in effect during the year. The related translation adjustments are made
+directly to a separate component of Shareholders' Investment.
+
+Earnings Per Share: The Company's earnings per share were computed by dividing
+net income by the weighted average number of shares of common stock outstanding
+during the period. Diluted earnings per share, for each period presented, were
+computed on the assumption that stock options were exercised at the beginning of
+the periods reported. The difference between weighted average shares outstanding
+and diluted average shares outstanding reflects the dilutive effects of stock
+options.
+
+Earnings per share of common stock are computed based on the weighted average
+number of shares outstanding during each period. The Company's ongoing share
+repurchase program may affect the year-to-date comparisons.
+
+Comprehensive Income: During fiscal 1999 the Company adopted Statement of
+Financial Accounting Standard (FAS) No. 130, "Reporting Comprehensive Income".
+This statement requires the reporting of comprehensive income in addition to net
+income from operations. Comprehensive income is a more inclusive financial
+reporting method that includes disclosure of certain financial information that
+historically has not been recognized in the calculation of net income. The
+Company has chosen to report Comprehensive
+
+
+                                       17
+<PAGE>   20
+NOTES....
+
+Income and Accumulated Other Comprehensive Income (Loss) which encompasses net
+income, unrealized gain (loss) on marketable securities and foreign currency
+translation in the Consolidated Statements of Shareholders' Investment.
+Information on accumulated other comprehensive income (loss) is as follows (in
+thousands of dollars):
+
+<TABLE>
+<CAPTION>
+                             Unrealized                   Accumulated
+                             Gain (Loss)                  Other Com-
+                                 on       Cumulative       prehensive
+                             Marketable   Translation       Income
+                             Securities   Adjustments       (Loss)
+                             ----------   -----------     -----------
+<S>                          <C>          <C>             <C>
+Balance at June 29, 1997 .   $  --          $(1,033)       $(1,033)
+Current year change ......      --           (1,077)        (1,077)
+                             -------        -------        -------
+Balance at June 28, 1998 .      --           (2,110)        (2,110)
+Current year change ......       577           (199)           378
+                             -------        -------        -------
+Balance at June 27, 1999 .       577         (2,309)        (1,732)
+Current year change ......      (383)        (1,816)        (2,199)
+                             -------        -------        -------
+Balance at July 2, 2000 ..   $   194        $(4,125)       $(3,931)
+                             =======        =======        =======
+</TABLE>
+
+Derivatives: The Company uses derivative financial instruments to manage its
+foreign currency exposures. Gains and losses relating to hedges of probable
+transactions with noncontrolled subsidiaries and third parties are deferred and
+recognized as adjustments of carrying amounts when the transaction occurs. Gains
+and losses on hedges of transactions that are not probable of occurring and
+hedges of transactions with controlled subsidiaries are recognized in the
+Company's results of operations.
+
+In June 1998 the Financial Accounting Standards Board issued Financial
+Accounting Standard (FAS) No. 133 "Accounting for Derivative Instruments and
+Hedging Activities". This new standard as amended will be effective for the
+Company in fiscal 2001, and requires companies to record derivatives on the
+balance sheet as assets or liabilities, measured at fair value. Any fair value
+changes will be recorded in net income or comprehensive income. The adoption of
+this standard will not have a material effect on the Company's financial
+statements.
+
+Reclassification: Certain amounts in prior year financial statements have been
+reclassified to conform to current year presentation.
+
+(3)  INCOME TAXES:
+The provision for income taxes consists of the following (in thousands of
+dollars):
+
+<TABLE>
+<CAPTION>
+
+                              2000           1999           1998
+                              ----           ----           ----
+<S>                          <C>            <C>            <C>
+Current
+ Federal ................    $66,169        $51,344        $29,295
+ State ..................     10,425          7,014          4,442
+ Foreign ................      2,014          1,260          1,028
+                             -------        -------        -------
+                              78,608         59,618         34,765
+Deferred ................      1,542          4,052          7,735
+                             -------        -------        -------
+Total ...................    $80,150        $63,670        $42,500
+                             =======        =======        =======
+</TABLE>
+
+
+A reconciliation of the U.S. statutory tax rates to the effective tax rates
+follows:
+
+<TABLE>
+<CAPTION>
+                                2000           1999          1998
+                               ----           ----           ----
+<S>                           <C>            <C>            <C>
+U.S. statutory rate .....      35.0%          35.0%          35.0%
+State taxes, net of
+ Federal tax benefit ....       3.2%           2.9%           3.1%
+Foreign Sales Corporation
+ tax benefit ............       (.5%)          (.5%)          (.8%)
+Other ...................       (.7%)           .1%            .3%
+                               ----           ----           ----
+Effective tax rate ......      37.0%          37.5%          37.6%
+                               ====           ====           ====
+</TABLE>
+
+
+The components of deferred income taxes at the end of the fiscal year were (in
+thousands of dollars):
+
+
+<TABLE>
+<CAPTION>
+
+                                               2000      1999
+                                               ----      ----
+<S>                                          <C>       <C>
+Future Income Tax Benefits:
+  Inventory ...........................   $ 4,152   $ 3,402
+  Payroll related accruals ............     4,539     4,363
+  Warranty reserves ...................    18,077    14,421
+  Other accrued liabilities ...........    11,011    12,026
+  Miscellaneous .......................     1,359       171
+                                          -------   --------
+                                          $39,138   $34,383
+                                          =======   =======
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+                                           2000        1999
+                                           ----        ----
+<S>                                      <C>         <C>
+Deferred Income Taxes:
+  Difference between book and
+   tax methods applied to
+   maintenance and supply
+   inventories .....................    $ 11,429    $ 11,463
+  Pension cost .....................      (1,338)      3,345
+  Accumulated depreciation .........     (53,719)    (56,131)
+  Accrued employee benefits ........       9,405       9,142
+  Postretirement
+    health care obligation .........      25,649      26,472
+  Deferred revenue on sale
+    of plant & equipment ...........       6,115       6,161
+  Miscellaneous ....................      (1,552)      1,587
+                                        --------    --------
+                                        $ (4,011)   $  2,039
+                                        ========    ========
+</TABLE>
+
+
+                                       18
+
+<PAGE>   21
+
+
+NOTES...
+
+The Company has not recorded deferred income taxes applicable to undistributed
+earnings of foreign subsidiaries that are indefinitely reinvested in foreign
+operations. These undistributed earnings amounted to approximately $7,120,000 at
+July 2, 2000. If these earnings were remitted to the U.S., they would be subject
+to U.S. income tax. However, this tax would be substantially less than the U.S.
+statutory income tax because of available foreign tax credits.
+
+(4) GEOGRAPHIC INFORMATION AND SIGNIFICANT CUSTOMERS:
+The Company reviewed the criteria for determining operating segments in
+accordance with FAS No. 131, "Disclosures about Segments of an Enterprise and
+Related Information" and concluded that it operates as one segment. Geographic
+sales by the location in which the sale originated is as follows (in thousands
+of dollars):
+
+<TABLE>
+<CAPTION>
+
+                            2000         1999         1998
+                            ----         ----         ----
+<S>                   <C>          <C>          <C>
+United States ....... $1,501,723   $1,422,988   $1,258,609
+All Other Countries..     88,834       78,738       69,001
+                      ----------   ----------   ----------
+Total ............... $1,590,557   $1,501,726   $1,327,610
+                      ==========   ==========   ==========
+</TABLE>
+
+The Company has no material long lived assets in an individual foreign country.
+
+In the fiscal years 2000, 1999 and 1998, there were sales to three major engine
+customers that individually exceeded 10% of total Company net sales. The sales
+to these customers are summarized below (in thousands of dollars and percent of
+total Company sales):
+
+<TABLE>
+<CAPTION>
+
+                  2000             1999             1998
+                  ----             ----             ----
+Customer      Sales    %       Sales    %       Sales    %
+--------      -----   ---      -----   ---      -----   ---
+<S>        <C>        <C>   <C>        <C>   <C>        <C>
+  A        $287,769   18%   $250,755   17%   $235,552   18%
+  B         229,873   15%    219,209   14%    203,931   15%
+  C         190,659   12%    161,857   11%    165,937   13%
+           --------   ---   --------   ---   --------   ---
+           $708,301   45%   $631,821   42%   $605,420   46%
+           ========   ===   ========   ===   ========   ===
+</TABLE>
+
+
+
+(5)  INDEBTEDNESS:
+The Company has access to a $250,000,000 revolving credit facility (the Credit
+Facility) which expires in April 2002. The Company also has access to additional
+domestic lines of credit totaling $18,000,000 which remain in effect until
+canceled by either party. They provide amounts for short-term use at the then
+prevailing rate. There are no significant compensating balance requirements for
+any of these lines. There were borrowings of $45 million at July 2, 2000 using
+these lines or the Credit Facility and are included in domestic notes payable.
+
+Borrowings under the Credit Facility by the Company bear interest at a rate per
+annum equal to, at its option, either:
+
+(1) the higher of (a) the bank's reference rate or (b) 0.5% per annum above the
+Federal Funds rate; or
+
+(2) LIBOR plus a margin that may be adjusted up or down based on the Company's
+debt ratings.
+
+The Credit Facility contains restrictive covenants that require the Company to
+maintain certain financial conditions including a maximum limit on the ratio of
+debt to capital and a minimum fixed charge coverage ratio. The Credit Facility
+imposes limitations on liens, indebtedness, the sales of assets and certain
+investments.
+
+The following data relates to domestic notes payable (in thousands of dollars):
+
+<TABLE>
+<CAPTION>
+                                   2000          1999
+                                   ----          ----
+<S>                             <C>           <C>
+Balance at
+  Fiscal Year End ...........   $   48,809    $    4,335
+Weighted Average
+  Interest Rate at
+  Fiscal Year End ...........         6.91%         5.31%
+</TABLE>
+
+
+The lines of credit available to the Company in foreign countries are in
+connection with short-term borrowings and bank overdrafts used in the normal
+course of business. These amounts total $3,380,000, expire at various times
+through April, 2001 and are renewable. There were borrowings of $2 million at
+July 2, 2000 using these lines of credit and are included in foreign loans. None
+of these arrangements had material commitment fees or compensating balance
+requirements.
+
+The following information relates to foreign loans (in thousands of dollars):
+
+<TABLE>
+<CAPTION>
+                                     2000          1999
+                                     ----          ----
+<S>                              <C>           <C>
+Balance at
+  Fiscal Year End ............   $   13,356    $   13,824
+Weighted Average
+  Interest Rate at
+  Fiscal Year End ............         5.40%         5.30%
+</TABLE>
+
+
+                                       19
+<PAGE>   22
+NOTES...
+
+
+The Long-Term Debt caption consists of the following (in thousands of dollars):
+
+<TABLE>
+<CAPTION>
+                                                2000        1999
+                                                ----        ----
+<S>                                          <C>        <C>
+9.21% Senior Notes
+ at Face Amount ...............              $   --     $ 30,000
+7.25% Notes Due 2007, Net of
+ Unamortized Discount of
+ $1,488 in 2000 and
+ $1,693 in 1999 ...............                98,512     98,307
+                                             --------   --------
+                                             $ 98,512   $128,307
+Less Current Maturities .......                  --       15,000
+                                             --------   --------
+ Total Long-Term Debt .........              $ 98,512   $113,307
+                                             ========   ========
+</TABLE>
+
+
+During fiscal 2000, the Company repaid the remaining $30 million on the 9.21%
+Senior Notes due 2001. There was no gain or loss associated with this repayment.
+In fiscal 1999 the Company paid $15 million on these notes.
+
+The 7.25% notes are due September 15, 2007. No principal payments are due before
+that date. These notes have covenants that limit secured funded debt and certain
+sale-leaseback transactions.
+
+(6)  OTHER INCOME:
+The components of other income (expense) are (in thousands of dollars):
+
+<TABLE>
+<CAPTION>
+                             2000       1999         1998
+                             ----       ----         ----
+<S>                       <C>         <C>         <C>
+Interest income ........   $  1,589    $  1,993    $  2,720
+Loss on the
+ disposition of
+ plant and equipment....     (2,378)     (2,355)     (1,973)
+Income from joint
+ ventures ..............     14,364       5,442       5,232
+Other items ............      2,541       1,579       1,830
+                           --------    --------    --------
+Total ..................   $ 16,116    $  6,659    $  7,809
+                           ========    ========    ========
+</TABLE>
+
+(7)  COMMITMENTS AND CONTINGENCIES:
+The Company is a 50% guarantor on bank loans of two unconsolidated joint
+ventures. They are in the United States for the manufacture of parts and in
+India for the manufacture of engines and parts. These bank loans totaled
+approximately $3,100,000 at July 2, 2000.
+
+
+Product and general liability claims arise against the Company from time to time
+in the ordinary course of business. The Company is generally self-insured for
+future claims up to $1 million per claim. Accordingly, a reserve is maintained
+for the estimated costs of such claims. At July 2, 2000 and June 27, 1999 the
+reserve for product and general liability claims was $4.0 million and $6.8
+million, respectively, based on available information. There is inherent
+uncertainty as to the eventual resolution of unsettled claims. Management,
+however, believes that any losses in excess of established reserves will not
+have a material effect on the Company's financial condition or results of
+operations.
+
+The Company has no material commitments for materials or capital expenditures at
+July 2, 2000.
+
+(8)  STOCK OPTIONS:
+The Company has a Stock Incentive Plan under which 5,361,935 shares of common
+stock have been reserved for issuance. The Company accounts for the plan under
+Accounting Principles Board Opinion No. 25, under which no compensation cost has
+been recognized. Had compensation cost for these plans been determined
+consistent with FAS No. 123, "Accounting for Stock-Based Compensation," the
+Company's net income and earnings per share would have been reduced to the
+following pro forma amounts:
+
+<TABLE>
+<CAPTION>
+
+                                            2000         1999             1998
+                                            ----         ----             ----
+<S>                                   <C>             <C>             <C>
+Net Income (in thousands):
+ As Reported ....................     $   136,473     $   106,101     $   70,645
+ Pro Forma ......................     $   134,600     $   105,283     $   69,574
+Basic Earnings Per Share:
+ As Reported ....................     $      5.99     $      4.55     $     2.86
+ Pro Forma ......................     $      5.91     $      4.51     $     2.82
+Diluted Earnings Per Share:
+ As Reported ....................     $      5.97     $      4.52     $     2.85
+ Pro Forma ......................     $      5.89     $      4.49     $     2.81
+</TABLE>
+
+
+
+Because the FAS No. 123 method of accounting has not been applied to options
+granted prior to July 2, 1995, the resulting pro forma compensation cost may not
+be representative of that to be expected in future years.
+
+
+
+                                       20
+
+<PAGE>   23
+NOTES...
+
+
+Information on the options outstanding is as follows:
+<TABLE>
+<CAPTION>
+                                            Wtd. Avg.
+                               Shares      Ex. Price
+                               ------      ---------
+<S>                          <C>          <C>
+Balance, June 29, 1997...... 1,786,712    $   43.95
+Granted during the year.....   241,980        65.69
+Exercised during the year...  (236,873)       35.65
+                             ----------
+Balance, June 28, 1998...... 1,791,819    $   47.98
+
+Granted during the year.....   354,020        44.98
+Exercised during the year...  (926,000)       45.30
+Expired during the year.....  (177,828)       48.37
+                             ----------
+Balance, June 27, 1999...... 1,042,011    $   49.28
+
+Granted during the year.....   471,020    $   74.53
+Exercised during the year...  (151,033)       38.49
+Expired during the year ....   (58,970)       67.55
+                             ----------
+Balance, July 2, 2000....... 1,303,028    $   58.83
+                             ==========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+                      Grant Summary
+------------------------------------------------------------------
+Fiscal   Grant   Exercise       Date         Options    Expiration
+ Year    Date    Price (a)   Exercisable   Outstanding     Date
+ ----    ----    ---------   -----------   -----------     ----
+<S>     <C>      <C>         <C>           <C>          <C>
+ 1991   2-19-91  14.524      50%, 1-1-95;     2,072      2-18-01
+                             50%, 1-1-96
+ 1992   5-18-92  21.525      50%, 1-1-96;    40,654      5-17-02
+                             50%, 1-1-97
+ 1996    8-7-95  49.080        8-7-98       180,738      8-7-00
+ 1997    8-6-96  53.300        8-6-99        86,584      8-6-01
+ 1998    8-5-97  65.690        8-5-00       233,480      8-5-02
+ 1999    8-5-98  44.980        8-5-01       327,560      8-5-03
+ 2000    8-4-99  74.530        8-4-02       431,940      8-4-04
+</TABLE>
+
+
+There were no options granted in fiscal 1993. Options granted in fiscal years
+1990 and 1995 expired in fiscal 2000, and options granted in fiscal 1994 expired
+in fiscal 1999.
+
+(a)  Exercise prices of earlier grants have been adjusted as appropriate to
+     reflect a two-for-one stock split in October 1994 and the spin-off of the
+     Company's lock business in February 1995.
+
+The fair value of each option is estimated using the Black-Scholes option
+pricing model. The grant-date fair market value of the options and assumptions
+used to determine such value are as follows:
+
+<TABLE>
+<CAPTION>
+Options granted during             2000        1999        1998
+                                   ----        ----        ----
+<S>                              <C>          <C>         <C>
+Grant date fair value.........   $13.07       $5.04       $5.98
+Assumptions:
+ Risk-free interest rates.....     6.0%        5.4%        6.1%
+ Expected volatility..........    30.1%       22.3%       20.4%
+ Expected dividend yield......     2.5%        2.5%        2.6%
+ Expected term (in years).....     5.0         5.0         5.0
+</TABLE>
+
+(9)  SHAREHOLDER RIGHTS PLAN:
+On August 6, 1996, the Board of Directors declared a dividend distribution of
+one common stock purchase right (a "right") for each share of the Company's
+common stock outstanding on August 19, 1996. Each right would entitle
+shareowners to buy one-half of one share of the Company's common stock at an
+exercise price of $160.00 per full common share, subject to adjustment. The
+rights are not currently exercisable, but would become exercisable if certain
+events occurred relating to a person or group acquiring or attempting to acquire
+15 percent or more of the outstanding shares of common stock. The rights expire
+on August 19, 2006, unless redeemed or exchanged by the Company earlier.
+
+(10)  FOREIGN EXCHANGE RISK MANAGEMENT:
+The Company enters into forward exchange contracts to hedge purchase commitments
+denominated in foreign currencies. The term of these currency derivatives does
+not exceed thirteen months and the purpose is to protect the Company from the
+risk that the eventual dollars being transferred will be adversely affected by
+changes in exchange rates.
+
+The Company has forward foreign currency exchange contracts to purchase 1.8
+billion Japanese yen for $17 million through September, 2000. These contracts
+are used to hedge the commitments to purchase engines from the Company's
+Japanese joint venture and accordingly any gain or loss has been deferred at the
+end of the 2000 fiscal year.
+
+At July 2, 2000 the loss on these contracts at fair value totaled $300,000.
+
+The Company's foreign subsidiaries have the following forward currency contracts
+outstanding at the end of fiscal 2000:
+
+<TABLE>
+<CAPTION>
+                      In Millions
+                  ---------------
+                   Local                                   Latest
+Currency         Currency     Amount    Dollars        Expiration Date
+--------         --------     ------    -------        ---------------
+<S>              <C>          <C>       <C>            <C>
+Japanese Yen      172.6        1.7      U.S.             July 2001
+U.S. Dollars        3.7        5.8      Australian       December 2000
+British Pounds       .7        1.1      U.S.             March 2001
+</TABLE>
+
+
+At July 2, 2000 the gain on these contracts at fair value totaled $248,000.
+
+
+                                       21
+
+
+<PAGE>   24
+
+
+
+
+NOTES...
+
+(11)  EMPLOYEE BENEFIT COSTS:
+Retirement Plan and Postretirement Benefits
+The Company has noncontributory, defined benefit retirement plans and
+postretirement benefit plans covering most Wisconsin employees. Effective the
+last quarter of fiscal 1999, the Company adopted FAS 132 "Disclosures about
+Pensions and Other Postretirement Benefits". The following provides a
+reconcilation of obligations, plan assets and funded status of the plans for the
+two years indicated, (dollars in thousands):
+<TABLE>
+<CAPTION>
+                                                     Pension Benefits         Other Postretirement Benefits
+                                                     ----------------         -----------------------------
+                                                    2000          1999             2000            1999
+                                                    ----          ----             ----            ----
+<S>                                                 <C>           <C>            <C>           <C>
+Actuarial Assumptions:
+----------------------
+Discounted Rate Used to Determine Present
+ Value of Projected Benefit Obligation..........     7.5%          7.0%          7.5%          7.0%
+
+Expected Rate of Future Compensation
+ Level Increases................................     5.0%          5.0%          n/a           n/a
+
+Expected Long-Term Rate of Return on
+ Plan Assets ...................................     9.0%          9.0%          n/a           n/a
+
+Change in Benefit Obligations:
+------------------------------
+Actuarial Present Value of Benefit Obligations
+ at Beginning of Year ..........................     $ 689,397     $ 649,083     $ 109,485     $  96,580
+Service Cost....................................        10,622        10,073         1,307         1,437
+Interest Cost...................................        47,475        44,911         7,343         6,466
+Acturial (Gain) Loss............................       (37,124)       27,865        (6,657)       15,924
+Benefits Paid...................................       (43,978)      (42,535)      (11,685)      (10,922)
+                                                     ---------     ---------     ---------     ---------
+Acturial Present Value of Benefit Obligation
+ at End of Year.................................     $ 666,392     $ 689,397     $  99,793     $ 109,485
+                                                     ---------     ---------     ---------     ---------
+
+Change in Plan Assets:
+----------------------
+Plan Assets at Fair Value at Beginning of Year..     $ 886,422     $ 845,955     $    --       $    --
+Actual Return on Plan Assets....................       108,544        82,474          --            --
+Employer Contributions..........................           769           528        11,685        10,922
+Benefits Paid...................................       (43,978)      (42,535)      (11,685)      (10,922)
+                                                     ---------     ---------     ---------     ---------
+Plan Assets at Fair Value at End of Year             $ 951,757     $ 886,422     $    --       $    --
+                                                     ---------     ---------     ---------     ---------
+
+Plan Assets in Excess of (Less Than) Projected
+ Benefit Obligation.............................     $ 285,365     $ 197,025     $ (99,793)    $(109,485)
+Remaining Unrecognized Net Obligation (Asset)...        (9,995)      (15,301)          368           414
+Unrecognized Net Loss (Gain)....................      (285,144)     (201,227)       17,221        24,989
+Unrecognized Prior Service Cost.................         3,024         1,475           134           165
+                                                     ---------     ---------     ---------     ---------
+Net Amount Recognized at End of Year............     $  (6,750)    $ (18,028)    $ (82,070)    $ (83,917)
+                                                     =========     =========     =========     =========
+
+
+Amounts Recognized on the Balance Sheets:
+-----------------------------------------
+Prepaid Pension.................................     $   5,506     $    --       $    --       $    --
+Accrued Pension Cost............................       (11,428)      (17,306)         --            --
+Accrued Wages and Salaries......................          (828)         (722)         --            --
+Accrued Post Retirement Health Care Obligation..           --            --        (65,765)      (67,877)
+Other Accruals..................................           --            --         (4,800)       (4,800)
+Accrued Employee Benefits.......................           --            --        (11,505)      (11,240)
+                                                     ---------     ---------     ---------     ---------
+Net Amount Recognized at End of Year............     $  (6,750)    $ (18,028)    $ (82,070)    $ (83,917)
+                                                     =========     =========     =========     =========
+</TABLE>
+
+                                       22
+
+<PAGE>   25
+
+NOTES...
+
+The following table summarizes the plans' income and expense for the three years
+indicated (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+                                                           Pension Benefits            Other Postretirement Benefits
+                                                           ----------------            -----------------------------
+                                                     2000        1999        1998        2000       1999       1998
+                                                     ----        ----        ----        ----       ----       ----
+<S>                                               <C>         <C>         <C>         <C>        <C>        <C>
+Components of Net Periodic Benefit Cost:
+----------------------------------------
+Service Cost-Benefits Earned During the Year....  $ 10,622    $ 10,073    $  9,491    $  1,307   $  1,437   $  1,206
+Interest Cost on Projected Benefit Obligation...    47,475      44,911      44,531       7,343      6,466      6,773
+Expected Return on Plan Assets..................   (63,845)    (58,252)    (53,881)       --         --         --
+Amoritization of:
+  Transition Obligation (Asset)................     (5,306)     (5,306)     (5,236)         46         47         47
+  Prior Service Cost...........................        186        (106)       (106)         31         71         71
+  Actuarial (Gain) Loss........................        359         291         273       1,111         41        --
+                                                  --------    --------    --------    --------   --------   --------
+Net Periodic Benefit Expense (Income)..........   $(10,509)   $ (8,389)   $ (4,928)   $  9,838   $  8,062   $  8,097
+                                                  ========    ========    ========    ========   ========   ========
+</TABLE>
+
+As described in Note 13, the Company contributed its two ductile iron foundries
+to Metal Technologies Holding Company, Inc. (MTHC). In connection with the
+contribution, MTHC agreed to assume pension and postretirement benefit
+obligations related to employees working at the foundries at the time of the
+transaction. The Company agreed to transfer to MTHC pension assets amounting to
+$11.3 million plus accrued interest from the date of the contribution to the
+date of the transfer. A condition of the pension asset transfer requires MTHC to
+establish a qualified pension plan and to obtain a favorable tax determination
+letter from the Internal Revenue Service. MTHC expects to receive the
+determination letter in early fiscal 2001. As the conditions to the transfer
+have not been fulfilled as of July 2, 2000, the foregoing benefit obligations
+and asset information has not been adjusted to reflect the assumption of
+obligations by MTHC or the transfer of pension assets. The assumption of
+obligations by MTHC and transfer of pension assets will not result in a gain or
+loss to the Company.
+
+The Company's supplemental pension plan has benefit obligations in excess of
+plan assets. The benefit obligation, accumulated benefit obligation and fair
+value of plan assets were $17,740,000, $14,941,000 and $0 respectively for the
+2000 fiscal year, and $16,555,000, $13,975,000 and $0, respectively for the 1999
+fiscal year. The postretirement benefit plans are unfunded.
+
+For the other postretirement benefit plans, the assumed early retirement rates
+were adjusted for participants with over 30 years of service in fiscal 1999. In
+addition, the postretirement medical coverage was limited to 10 years for
+coverage prior to age 65. The impact of these changes was not material.
+
+For measurement purposes a 9% annual rate of increase in the per capita cost of
+covered health care claims was assumed for the years 2001 through 2002,
+decreasing gradually to 6% for the year 2009. The health care cost trend rate
+assumption has a significant effect on the amounts reported. An increase of one
+percentage point, would increase the accumulated postretirement benefit by
+$6,155,000, and would increase the service and interest cost by $757,000 for the
+year. A corresponding decrease of one percentage point, would decrease the
+accumulated postretirement benefit by $5,792,000 and decrease the service and
+interest cost by $713,000 for the year.
+
+Defined Contribution Plans
+The Company has a defined contribution retirement plan that includes most U.S.
+non-Wisconsin employees. Under the plan the Company makes a contribution on
+behalf of covered employees equal to 2% of each participant's gross income, as
+defined. For the fiscal years 2000, 1999 and 1998, the cost to the Company was
+$2,095,000, $1,919,000 and $1,641,000, respectively.
+
+Wisconsin employees of the Company may participate in a salary reduction
+deferred compensation retirement plan. The Company makes matching contributions
+of $.50 for every $1.00 deferred by a participant to a maximum of 1-1/2% or 3%
+of each participant's salary, depending upon the participant's group. Company
+contributions
+
+                                       23
+
+<PAGE>   26
+
+NOTES...
+
+totaled $4,559,000 in 2000, $4,213,000 in 1999 and $3,918,000 in 1998.
+
+Postemployment Benefits
+The Company accrues the expected cost of postemployment benefits over the years
+that the employees render service. These benefits are substantially smaller
+amounts because they apply only to employees who permanently terminate
+employment prior to retirement. The items include disability payments, life
+insurance and medical benefits. These amounts are also discounted using a 7.5%
+interest rate. Amounts are included in Accrued Employee Benefits in the balance
+sheet.
+
+(12)  DISCLOSURES ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS:
+The following methods and assumptions were used to estimate the fair value of
+each class of financial instruments for which it is practicable to estimate that
+value:
+
+Cash and Cash Equivalents, Domestic Notes Payable and Foreign Loans: The
+carrying amounts approximate fair value because of the short maturity of those
+instruments.
+
+Long-Term Debt: The fair value of the Company's long-term debt is estimated
+based on quotations made on similar issues.
+
+The estimated fair values of the Company's financial instruments are as follows
+(in thousands of dollars):
+
+<TABLE>
+<CAPTION>
+                                      2000
+                                ----------------
+                                Carrying   Fair
+                                 Amount    Value
+                                 ------    -----
+ <S>                            <C>        <C>
+ Cash and cash equivalents.......$16,989   $16,989
+ Domestic notes payable..........$48,809   $48,809
+ Foreign loans ..................$13,356   $13,356
+ Long-term debt -
+   7.25% Notes due 2007..........$98,512   $98,633
+<CAPTION>
+                                      1999
+                                ----------------
+                                Carrying   Fair
+                                 Amount    Value
+                                 ------    -----
+<S>                             <C>        <C>
+ Cash and cash equivalents.......$60,806   $60,806
+ Domestic notes payable..........$ 4,335   $ 4,335
+ Foreign loans...................$13,824   $13,824
+ Long-term debt -
+   9.21% Senior Notes due 2001,
+   including current maturities..$30,000   $30,678
+   7.25% Notes due 2007..........$98,307   $97,545
+</TABLE>
+
+
+
+(13)  DISPOSITION OF BUSINESSES:
+At the end of August 1999, the Company contributed its two ductile iron
+foundries to MTHC in exchange for $24 million in cash and $45 million aggregate
+par value convertible preferred stock which was recorded at $22 million. The
+transaction resulted in a $17 million gain. The provisions of the preferred
+stock include a 15% cumulative dividend and conversion rights into a minimum of
+31% of the common stock of MTHC. MTHC is the primary supplier to Briggs &
+Stratton Corporation of iron castings.
+
+In September 1998, the Company completed the sale of its POWERCOM software
+business. The proceeds on the sale were in the form of marketable securities,
+and are included in investments on the balance sheet. This sale did not result
+in any material gains or losses.
+
+
+
+                                       24
+
+<PAGE>   27
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Shareholders of
+Briggs & Stratton Corporation:
+
+We have audited the accompanying consolidated balance sheets of Briggs &
+Stratton Corporation (a Wisconsin Corporation) and subsidiaries as of July 2,
+2000 and June 27, 1999, and the related consolidated statements of earnings,
+shareholders' investment and cash flow for each of the three years in the period
+ended July 2, 2000. These financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Briggs & Stratton Corporation
+and subsidiaries as of July 2, 2000 and June 27, 1999, and the results of their
+operations and their cash flows for each of the three years in the period ended
+July 2, 2000, in conformity with accounting principles generally accepted in the
+United States.
+
+
+ARTHUR ANDERSEN LLP
+Milwaukee, Wisconsin,
+July 27, 2000.
+
+
+
+
+
+
+
+                                       25
+
+
+<PAGE>   28
+
+
+QUARTERLY FINANCIAL DATA, DIVIDEND AND MARKET INFORMATION (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+
+                              In Thousands                    Per Share of Common Stock
+                  ------------------------------------   ----------------------------------------
+                                                                             Market Price Range
+                                                                                 on New York
+                                                                               Stock Exchange
+ Quarter               Net        Gross          Net        Net     Dividends  --------------
+  Ended               Sales       Profit       Income     Income    Declared     High   Low
+  -----               -----       ------       ------     ------    --------     ----   ---
+<S>               <C>          <C>          <C>          <C>          <C>      <C>      <C>
+Fiscal 2000
+-----------
+September         $  298,933   $   55,382   $   25,703   $   1.10     $  .30   $63.63   $55.88
+December             422,238       99,723       41,144       1.77        .30    59.63    49.75
+March                468,678      101,840       42,056       1.84        .30    53.88    31.00
+June                 400,708       82,509       27,570       1.24        .30    44.63    34.25
+                  ----------   ----------   ----------   --------    -------
+ Total            $1,590,557   $  339,454   $  136,473   $   5.97 *  $  1.20
+                  ==========   ==========   ==========   ========    =======
+
+Fiscal 1999
+-----------
+September         $  223,981   $   37,612   $    4,441   $    .19     $  .29   $43.50   $33.69
+December             359,943       71,471       24,637       1.05        .29    52.44    38.44
+March                476,259      102,831       41,813       1.79        .29    56.38    46.69
+June                 441,543       93,441       35,210       1.51        .29    70.94    49.25
+                  ----------   ----------   ----------   --------     ------
+ Total            $1,501,726   $  305,355   $  106,101   $   4.52 *   $ 1.16
+                  ==========   ==========   ==========   ========     ======
+</TABLE>
+
+The number of record holders of Briggs & Stratton Corporation Common Stock on
+August 24, 2000 was 4,345.
+
+Net Income per share of Common Stock represents Diluted Earnings per
+Share.
+
+ *  See Note 2 to Consolidated Financial Statements, for information
+about earnings per share. Amounts do not total because of differing numbers of
+shares outstanding at the end of each quarter.
+
+
+
+                                       26
+
+
+<PAGE>   29
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+The Company has not changed independent accountants in the last two years.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+The information in the Corporation's definitive Proxy Statement, prepared for
+the 2000 Annual Meeting of Shareholders, concerning directors of the Corporation
+under the caption "Election of Directors", is incorporated herein by reference.
+The information concerning "Executive Officers of the Registrant" as a separate
+item, appears in Part I of this Form 10-K. There is no information required by
+Item 405 of Regulation S-K to be reported.
+
+ITEM 11. EXECUTIVE COMPENSATION
+The information in the Corporation's definitive Proxy Statement, prepared for
+the 2000 Annual Meeting of Shareholders, concerning this item, in paragraphs two
+and three under the caption "Election of Directors", in the final two paragraphs
+of the "Nominating, Compensation and Governance Committee Report on Executive
+Compensation" and the "Executive Compensation" section, is incorporated herein
+by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The information in the Corporation's definitive Proxy Statement, prepared for
+the 2000 Annual Meeting of Shareholders, concerning this item, under the
+captions "Security Ownership of Certain Beneficial Owners" and "Security
+Ownership of Management", is incorporated herein by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+The Company has no relationships or related transactions to report pursuant to
+Item 13.
+
+                                     PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a)  1.  Financial Statements
+         The following financial statements are included under the caption
+         "Financial Statements and Supplementary Data" in Part II, Item 8 hereof
+         and are incorporated herein by reference:
+
+             Consolidated Balance Sheets, July 2, 2000 and June 27, 1999
+
+             For the Years Ended July 2, 2000, June 27, 1999, and June 28, 1998:
+
+               Consolidated Statements of Earnings
+               Consolidated Statements of Shareholders' Investment
+               Consolidated Statements of Cash Flow
+               Notes to Consolidated Financial Statements
+
+             Report of Independent Public Accountants
+
+     2.   Financial Statement Schedules
+          All financial statement schedules for which provision is made in the
+          applicable accounting regulations of the Securities and Exchange
+          Commission are not required under the related instructions.
+
+     3.   Exhibits See
+          Exhibit Index following the Signature Page, which is incorporated
+          herein by reference. Each management contract or compensatory plan or
+          arrangement required to be filed as an exhibit to this report is
+          identified in the Exhibit Index by an asterisk following the Exhibit
+          Number.
+
+(b)  Reports on Form 8-K
+     No reports on Form 8-K were filed during the last quarter of the period
+     covered by this report.
+
+                                       27
+
+
+<PAGE>   30
+
+                                   SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                               BRIGGS & STRATTON CORPORATION
+
+                                               By      /s/ James E. Brenn
+                                                  ------------------------------
+                                                         James E. Brenn
+    September 7      , 2000                         Senior Vice President and
+---------------------                                Chief Financial Officer
+
+        ------------------------------------------------------------
+
+                                POWER OF ATTORNEY
+
+KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears below
+constitutes and appoints Frederick P. Stratton, Jr. and John S. Shiely, and each
+of them, his true and lawful attorneys-in-fact and agents, with full power of
+substitution and resubstitution, for him and in his name, place and stead, in
+any and all capacities, to sign any and all amendments to this report, and to
+file the same, with all exhibits thereto, and other documents in connection
+therewith, with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do
+and perform each and every act and thing requisite and necessary to be done in
+and about the premises, as fully to all intents and purposes as he might or
+could do in person, hereby ratifying and confirming all that said
+attorneys-in-fact and agents or any of them, or their substitutes, may lawfully
+do or cause to be done by virtue thereof.
+       ------------------------------------------------------------
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the date indicated.*
+<TABLE>
+<S>                                                    <C>
+     /s/ F. P. Stratton, Jr.                               /s/ Peter A. Georgescu
+-------------------------------                        -------------------------------
+F. P. Stratton, Jr.                                    Peter A. Georgescu
+Chairman and Chief Executive                           Director
+Officer and Director (Principal
+Executive Officer)
+
+    /s/ James E. Brenn                                     /s/ Robert J. O'Toole
+-------------------------------                        -------------------------------
+James E. Brenn                                         Robert J. O'Toole
+Senior Vice President and                              Director
+Chief Financial Officer (Principal
+Financial Officer)
+
+    /s/ Todd J. Teske                                      /s/ C. B. Rogers, Jr.
+-------------------------------                        -------------------------------
+Todd J. Teske                                          C. B. Rogers, Jr.
+Controller (Principal Accounting                       Director
+Officer)
+
+    /s/ Jay H. Baker                                       /s/ John S. Shiely
+-------------------------------                        -------------------------------
+Jay H. Baker                                           John S. Shiely
+Director                                               President and Chief Operating
+                                                       Officer and Director
+
+    /s/ Michael E. Batten                                  /s/ Charles I. Story
+-------------------------------                        -------------------------------
+Michael E. Batten                                      Charles I. Story
+Director                                               Director
+
+    /s/ E. Margie Filter
+-------------------------------
+E. Margie Filter                                       *Each signature affixed as of
+Director                                                      September 7      , 2000.
+                                                       ------------------------
+</TABLE>
+
+
+
+
+                                       28
+
+<PAGE>   31
+
+
+                          BRIGGS & STRATTON CORPORATION
+                          (Commission File No. 1-1370)
+
+                                  EXHIBIT INDEX
+                         2000 ANNUAL REPORT ON FORM 10-K
+    Exhibit
+    Number                     Document Description
+    ------                     --------------------
+      3.1         Articles of Incorporation.
+                     (Filed as Exhibit 3.2 to the Company's Report on Form 10-Q
+                     for the quarter ended October 2, 1994, and incorporated by
+                     reference herein.)
+      3.2         Bylaws, as amended August 2, 2000 (reflecting amendments to
+                     Sections 1.03, 2.04, 2.09 and 3.06.) (Filed herewith.)
+      4.0         Rights Agreement dated as of August 7, 1996, between Briggs &
+                  Stratton Corporation and Firstar Trust Company which includes
+                  the form of Right Certificate as Exhibit A and the Summary of
+                  Rights to Purchase Common Shares as Exhibit B.
+                     (Filed as Exhibit 4.1 to the Company's Registration
+                     Statement on Form 8-A, dated as of August 7, 1996 and
+                     incorporated by reference herein.)
+      4.1         Indenture dated as of June 4, 1997 between Briggs & Stratton
+                  Corporation and Bank One, N.A., as Trustee.
+                     (Filed as Exhibit 4.1 to the Company's Report on Form 8-K
+                     dated May 30, 1997 and incorporated by reference herein.)
+      4.2         Form of 7-1/4% Note due September 15, 2007 of Briggs &
+                  Stratton Corporation issued pursuant to the Indenture dated as
+                  of June 4, 1997 between Briggs & Stratton Corporation and Bank
+                  One, N.A., as Trustee.
+                     (Filed as Exhibit 4.2 to the Company's Report on Form 8-K
+                     dated May 30, 1997 and incorporated by reference herein.)
+      4.3         Resolutions of the Board of Directors of Briggs & Stratton
+                  Corporation authorizing the public offering of debt securities
+                  of Briggs & Stratton Corporation in an aggregate principal
+                  amount of up to $175,000,000.
+                     (Filed as Exhibit 4.3 to the Company's Report on Form 8-K
+                     dated May 30, 1997 and incorporated by reference herein.)
+      4.4         Actions of the Authorized Officers of Briggs & Stratton
+                  Corporation authorizing the issuance of $100,000,000 aggregate
+                  principal amount of 7-1/4% Notes due September 15, 2007.
+                     (Filed as Exhibit 4.4 to the Company's Report on Form 8-K
+                     dated May 30, 1997 and incorporated by reference herein.)
+      4.5         Officers' Certificate and Company Order of Briggs & Stratton
+                  Corporation executed in conjunction with the issuance of
+                  $100,000,000 aggregate principal amount of 7-1/4% Notes due
+                  September 15, 2007.
+                     (Filed as Exhibit 4.5 to the Company's Report on Form 8-K
+                     dated May 30, 1997 and incorporated by reference herein.)
+     10.0*        Form of Officer Employment Agreement.
+                     (Filed as Exhibit 10.0 to the Company's Report on Form 10-Q
+                     for the quarter ended March 29, 1998 and incorporated by
+                     reference herein.)
+     10.1*        Executive Supplemental Retirement Plan.
+                     (Filed as Exhibit 10.0 to the Company's Report on Form 10-Q
+                     for the quarter ended March 26, 2000 and incorporated by
+                     reference herein.)
+     10.2*       Economic Value Added Incentive Compensation Plan, as amended
+                  and restated.
+                     (Filed as Exhibit 10.3 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 27, 1999 and
+                     incorporated by reference herein.)
+
+                                       29
+
+<PAGE>   32
+
+    Exhibit
+    Number                     Document Description
+    ------                     --------------------
+     10.3*        Form of Change of Control Employment Agreements.
+                     (Filed as Exhibit 10.4 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 27, 1993 and
+                     incorporated by reference herein.)
+     10.4 (a)*    Trust Agreement with an independent trustee to provide
+                  payments under various compensation agreements with company
+                  employees upon the occurrence of a change in control.
+                     (Filed as Exhibit 10.5 (a) to the Company's Annual Report
+                     on Form 10-K for fiscal year ended July 2, 1995 and
+                     incorporated by reference herein.)
+     10.4 (b)*    Amendment to Trust Agreement with an independent trustee
+                  to provide payments under various compensation agreements with
+                  company employees.
+                     (Filed as Exhibit 10.5 (b) to the Company's Annual Report
+                     on Form 10-K for fiscal year ended July 2, 1995 and
+                     incorporated by reference herein.)
+     10.5 (a)*    1999 Amended and Restated Stock Incentive Plan.
+                     (Filed as Exhibit A to the Company's 1999 Annual Meeting
+                     Proxy Statement and incorporated by reference herein.)
+     10.5 (b)*    Amendment to Amended and Restated Stock Incentive Plan.
+                     (Filed as Exhibit 10.0 (b) to the Company's Report on Form
+                     10-Q for the quarter ended September 26, 1999 and
+                     incorporated by reference herein.)
+     10.6*        Amended and Restated Leveraged Stock Option Program.
+                     (Filed as Exhibit 10.7(c) to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 27, 1999 and
+                     incorporated by reference herein.)
+     10.7*       Amended and Restated Deferred Compensation Agreement for
+                  Fiscal 1995.
+                     (Filed as Exhibit 10.9 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended July 2, 1995 and
+                     incorporated by reference herein.)
+     10.8*        Deferred Compensation Agreement for Fiscal 1998.
+                     (Filed as Exhibit 10.11 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 29, 1997 and
+                     incorporated by reference herein.)
+     10.9*        Deferred Compensation Agreement for Fiscal 1999.
+                     (Filed as Exhibit 10.11 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 28, 1998 and
+                     incorporated by reference herein.)
+     10.10*       Deferred Compensation Agreement for Fiscal 2000.
+                     (Filed as Exhibit 10.12 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 27, 1999 and
+                     incorporated by reference herein.)
+     10.11*       Amended and Restated Deferred Compensation Plan for Directors.
+                     (Filed as Exhibit 10.00 to the Company's Report on Form
+                     10-Q for the quarter ended December 26, 1999 and
+                     incorporated by reference herein.)
+     10.12 (a)*   Director's Leveraged Stock Option Plan.
+                     (Filed as Exhibit 10.14 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 29, 1997 and
+                     incorporated by reference herein.)
+     10.12 (b)*   Amendment to Director's Leveraged Stock Option Plan.
+                     (Filed as Exhibit 10.14(b) to the Company's Annual Report
+                     on Form 10-K for fiscal year ended June 27, 1999 and
+                     incorporated by reference herein.)
+     10.13*       Release and Settlement Agreement.
+                     (Filed as Exhibit 10.1 to the Company's Report on Form 10-Q
+                     for the quarter ended September 26, 1999 and incorporated
+                     by reference herein.)
+     10.14*       Agreement with Executive Officer.
+                     (Filed as Exhibit 10.1 to the Company's Report on Form 10-Q
+                     for the quarter ended March 26, 2000 and incorporated by
+                     reference herein.)
+
+                                       30
+
+<PAGE>   33
+
+    Exhibit
+    Number                     Document Description
+    ------                     --------------------
+     10.15*       Agreement with Executive Officer.
+                     (Filed as Exhibit 10.2 to the Company's Report on Form 10-Q
+                     for the quarter ended December 27, 1998 and incorporated by
+                     reference herein.)
+     10.16*       Executive Life Insurance Plan.
+                     (Filed as Exhibit 10.17 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 27, 1999 and
+                     incorporated by reference herein.)
+     10.17*       Key Employees Savings and Investment Plan.
+                     (Filed as Exhibit 10.18 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 27, 1999 and
+                     incorporated by reference herein.)
+     10.18*       Consultant Reimbursement Arrangement.
+                     (Filed as Exhibit 10.19 to the Company's Annual Report on
+                     Form 10-K for fiscal year ended June 27, 1999 and
+                     incorporated by reference herein.)
+     11           Computation of Earnings Per Share of Common Stock.
+                     (Filed herewith.)
+     12           Computation of Ratio of Earnings to Fixed Charges.
+                     (Filed herewith.)
+     21           Subsidiaries of the Registrant.
+                     (Filed herewith.)
+     23           Consent of Independent Public Accountants.
+                     (Filed herewith.)
+     24           Power of Attorney.
+                     (Included in the Signatures Page of this report.)
+     27           Financial Data Schedule
+
+  --------------------------------------------------------------------------
+
+*  Management contracts and executive compensation plans and arrangements
+   required to be filed as exhibits pursuant to Item 14 (c) of Form 10-K.
+
+
+                                       31
+</TEXT>
+</DOCUMENT>

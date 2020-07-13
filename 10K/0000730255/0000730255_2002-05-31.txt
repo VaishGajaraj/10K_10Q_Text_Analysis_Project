@@ -1,0 +1,3585 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>calamp2002_10-k.txt
+<DESCRIPTION>FISCAL 2002 FORM 10-K
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+                  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                          OF THE SECURITIES ACT OF 1934
+
+                    FOR THE FISCAL YEAR ENDED FEBRUARY 28, 2002
+
+                        COMMISSION FILE NUMBER:   0-12182
+                                                ___________
+
+                           CALIFORNIA AMPLIFIER, INC.
+             (Exact name of Registrant as specified in its Charter)
+
+           DELAWARE                                          95-3647070
+______________________________                          __________________
+(State or other jurisdiction of                          (I.R.S. Employer
+ incorporation or organization)                          Identification No.)
+
+
+460 CALLE SAN PABLO, CAMARILLO, CALIFORNIA                      93012
+_________________________________________               __________________
+ (Address of principal executive offices)                       (Zip Code)
+
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE:  (805) 987-9000
+                                                            ________________
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+TITLE OF EACH CLASS                                     NAME OF EACH EXCHANGE
+___________________                                      __________________
+
+       None                                                         None
+
+           SECURITIES REGISTERED PURSUANT TO SECTION 12(g) OF THE ACT:
+                           $.01 PAR VALUE COMMON STOCK
+                           ___________________________
+                                (Title of Class)
+
+     Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months, and (2) has been subject to such
+filing requirements for the past 90 days.     Yes [X]  No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K. [ ]
+
+     The aggregate market value of the voting stock of the Company held by
+non-affiliates of the Company as of May 22, 2002 was approximately
+$98,481,000.
+
+     There were 14,597,437 shares of the Company's Common Stock outstanding
+as of May 22, 2002.
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of the Company's definitive Proxy Statement for the Annual
+Meeting of Stockholders to be held on July 18, 2002 are incorporated by
+reference into Part III, Items 11, 12 and 13 of this Form 10-K. This Proxy
+Statement will be filed within 120 days after the end of the fiscal year
+covered by this report.
+
+<page>
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+THE COMPANY
+
+     California Amplifier, Inc. (the "Company") is engaged in the design,
+manufacture and marketing of a broad line of integrated microwave fixed point
+reception and transmission products used primarily in satellite television
+and terrestrial broadband applications.  The Company's Satellite Products
+business unit designs and markets reception components for the worldwide
+Direct Broadcast Satellite ("DBS") television market as well as a full line
+of consumer and commercial products for video and data reception.  The
+Wireless Access business unit designs and markets integrated reception and
+two-way transmission fixed wireless solutions for video, voice, data,
+telephony and networking applications.  California Amplifier is an ISO 9001
+certified company.
+
+     In July 2001, the Company sold its 51% interest in Micro Pulse, Inc.
+("Micro Pulse").  Micro Pulse designs, manufactures and markets antennas and
+amplifiers used principally in GPS applications.  Accordingly, the results of
+operations of Micro Pulse, which represented a separate business segment of
+the Company, have been presented as a discontinued operation for all periods
+presented in the accompanying consolidated statements of operations.
+
+     The Company was incorporated in California in 1981 and was
+reincorporated in Delaware in 1987.
+
+     SATELLITE PRODUCTS
+
+     Satellite dishes are used for the reception of video, audio and data
+transmitted from orbiting satellites. The Company's products, which are
+components of the dish assembly, are used in both commercial satellite dish
+applications and home satellite dishes. The Company's Satellite product sales
+to date have been primarily generated from sales of integrated
+downconverters, amplifiers and feedhorns used in home satellite dish and
+cable headend dish applications.
+
+     The satellite dish is a parabolic reflector antenna. Microwave signals
+transmitted primarily in Ku-band or C-band for video and data transmission
+are transmitted from orbiting satellites toward the earth's surface. The dish
+reflects the microwaves back to a focal point where a feedhorn collects the
+microwaves transferring the signals into an amplifier/downconverter. The
+microwave amplifier amplifies the microwave signal millions of times for
+further processing. The downconverter changes the frequency into an
+intermediate frequency so that the receiver and television can process the
+signal and create a picture.
+
+     Since the early 1980s the Company has been a leading supplier of C-band
+downconverters and amplifiers to the "large backyard dish" markets worldwide,
+primarily the United States in the 1980s and 1990s, and Brazil and the Middle
+East in the mid 1990s. In April 1999, the Company purchased substantially all
+of the satellite television products business from Gardiner Communications
+Corp. This acquisition allowed the Company immediate entry into the U.S. Ku-
+band DBS mainstream consumer market, and provided the Company with the
+opportunity to service certain satellite markets in Europe, and Asia, both of
+which position the Company to be a more significant supplier to key markets
+around the world.
+
+     In fiscal year 2002, substantially all of the Company's satellite
+product sales were Ku-DBS products, while sales of C-band satellite products
+were negligible. The Company believes Ku-band DBS products will continue to
+dominate its satellite product sales as the Company focuses on the DBS market
+opportunities in the United States, Europe, Latin America and Asia.
+
+     WIRELESS ACCESS PRODUCTS
+
+     The Company's legacy Wireless Access products relate primarily to
+microwave downconverter/amplifier reception products and broadband scrambling
+products for wireless cable video reception. The downconverter/amplifier
+products are similar in function to the Company's satellite products, except
+that the microwave programming is transmitted from a terrestrial tower
+instead of a satellite. Two years ago, the Company's product focus shifted to
+transceiver products, and more recently to the development of integrated
+modem-transceiver products located at customer premises, for use in "last-
+mile" wireless access to homes and businesses. The market and product
+background is outlined below.
+
+     Wireless Cable Video
+
+     Wireless Cable television operates similarly to coaxial cable television
+transmission. The key difference is that Wireless Cable uses a microwave
+frequency band (Multichannel Multipoint Distribution System, or MMDS) to
+transmit programming from a headend site to homes within a local service
+area. The signal can generally be received by subscribers within a 25 to 40
+mile omni-directional radius of the transmission tower; however, the
+subscriber must have a direct line-of-sight or "view" between the
+transmission tower and the receive antenna at the home. Typically, 55% to 80%
+of the homes within a service area are able to receive these wireless
+signals, with the remainder shadowed from the transmitter. The percentage of
+line-of-sight homes is affected by the tower elevation, local topology and
+the height of the subscriber's antenna.
+
+     In 1995, the Wireless Cable industry in the United States generated a
+great deal of interest in Tele-TV, a consortium comprised of Bell Atlantic,
+NYNEX and Pacific Telesis, which announced its intention to deliver digitally
+compressed video to customers using Wireless Cable technology. In late 1996,
+the Tele-TV consortium announced that certain members had changed their
+strategic emphasis and were not going forward with their Wireless Cable
+plans. That same year, BellSouth announced its plan to use digital Wireless
+Cable technology to deliver video services in the southeastern region of the
+United States, and launched video programming services in Atlanta, New
+Orleans, Orlando, Daytona Beach, and Jacksonville. In 2000, BellSouth re-
+evaluated its video programming delivery service, and converted a portion of
+its subscriber base to wired cable service. The remainder of its wireless
+cable television subscriber base was sold to a DBS satellite operator to
+deliver video services, allowing BellSouth to utilize its MMDS spectrum for
+other applications.  Smaller service providers such as Nucentrix have also
+followed this model by selling their subscriber base to DBS satellite
+operators, in order to free up their spectrum for alternate uses. Currently,
+the domestic Wireless Cable video market is small and shrinking.
+
+     Internationally, the Wireless Cable industry has also been declining.
+Increasing worldwide demand for multichannel television programming has been
+offset by constraints on capital available to the Wireless Cable service
+providers and increased competition from alternate distribution means, such
+as satellite and cable. It is expected that an increasing number of
+operators/MMDS spectrum owners may re-assess their video strategy and focus
+on broadband Internet and telephony services, as described below.
+
+    Broadband Wireless Products
+
+    Terrestrial Wireless Cable operators own significant wireless spectrum in
+the 2.5 to 2.7 gigahertz range. Additionally, a number of countries have
+recently licensed spectrum in the 3.4 to 3.6 GHz range for wireless
+communications. As worldwide markets move toward wireless communications,
+these spectrum holders have considered using a portion or all of this
+spectrum for broadband data applications, such as high speed Internet access.
+
+     By deploying two-way wireless technology, operators can offer a high-
+speed data service alternative to bridge the critical "last mile" between
+networks and customers. There are key distinctions between broadband wireless
+access and the two most prevalent traditional high-speed pipelines, cable and
+digital subscriber line (DSL), typically provided by local cable or telephone
+companies. Wireless allows rapid deployment of broadband services with
+relatively low build-out costs and it extends high-speed access to rural and
+suburban markets that are not served or are underserved by cable or DSL.
+Essentially, operators will establish two-way transmissions to and from base
+stations and homes, and businesses, operating in many instances like cellular
+and PCS systems. The Company currently provides outdoor transceivers, which
+the system operator installs on the subscriber's home or business rooftop.
+These transceivers interface to an indoor modem which is connected to PCs or
+local area networks, and send and receive data to/from the base stations to
+provide access to the Internet. The network management system manages and
+controls the traffic transmitted over the broadband wireless system, allowing
+many users to share the available bandwidth.
+
+     Beginning in March 1999, MCI WorldCom and Sprint began making debt and
+equity investments in many of the U.S. MMDS multi-system operators,
+essentially acquiring over 60% of the MMDS spectrum in major cities
+throughout the United States. In conjunction with these acquisitions, the
+companies announced their intention to initiate a broad-based roll-out of
+fixed wireless broadband services to consumers in approximately 100 U.S.
+cities by the end of 2001 using technology that required line-of-sight
+between the base station tower and subscriber antenna. As of September 2001,
+Sprint was operating in 13 cities, and as of May 2002 MCI WorldCom was
+operating in 14 cities. In late 2001, Sprint announced that it had suspended
+its previous roll-out strategies using line-of-sight technology, and was
+awaiting the availability of next generation broadband non-line-of-sight
+technologies before finalizing its deployment strategies. MCI WorldCom has
+continued its service roll-out to small and medium sized businesses in
+already launched markets, but plans to launch additional markets only when
+suitable next generation technology is available.
+
+Following MCI WorldCom's lead, a number of international spectrum
+holders launched two way services to small and medium sized businesses using
+line-of-sight technologies. These spectrum holders continue to roll out
+service to businesses.
+
+     In December 2001, the Company announced a licensing agreement that
+provides access to non-line-of-sight broadband modem technology and allows
+the Company to develop integrated customer premise equipment that
+interoperates with base stations from Navini Networks ("Navini"). Sprint and
+Navini have announced technology trials that Company management believes are
+initially yielding promising results. In addition to Sprint, a number of
+other wireless spectrum holders are running field trials of Navini technology
+in anticipation of launching broadband wireless data networks.  However,
+there can be no assurances that the Company's development efforts or these
+trials will be successful.
+
+     For additional information regarding the Company's sales by segment and
+geographical area, see Note 13 of Notes to Consolidated Financial Statements.
+
+MANUFACTURING
+     The Company currently manufactures and assembles its products in
+Camarillo, California and under a subcontract arrangement in China. In fiscal
+years 2000 and 2001, the Company also manufactured and assembled satellite
+DBS products in Garland, Texas.  At the end of fiscal 2001, the Company's
+domestic manufacturing operations were consolidated in Camarillo, California.
+
+     Manufacturing operations consist of assembly of printed circuit boards
+and components utilizing surface mount technology automated assembly
+equipment.  All printed circuit assemblies are then hand assembled into
+various aluminum and plastic housings, in-line tested, and subjected to
+additional tests on a sampled basis to ensure functional reliability.
+
+     Electronic devices, components and made-to-order assemblies used in the
+Company's products are generally obtained from a number of suppliers,
+although certain components are obtained from sole source suppliers. Some
+devices or components are standard items while others are manufactured to the
+Company's specifications by its suppliers. The Company attempts to operate
+without substantial levels of raw materials by depending on certain key
+suppliers to provide material on a "just-in-time" basis. The Company believes
+that most raw materials are available from alternative suppliers. However,
+any significant interruption in the delivery of such items could have an
+adverse effect on the Company's operations.
+
+ISO 9001 INTERNATIONAL CERTIFICATION
+     In August 1995, the Company became registered to ISO 9001, the
+international standard for conformance to quality excellence in meeting
+market needs in all areas including product design, manufacturing, quality
+assurance and marketing. The registration assessment was performed by
+Underwriter's Laboratory, Inc., according to the ISO 9001:1994 International
+Standard. Continuous assessments to maintain certification are performed
+semi-annually, and the Company has maintained its certification through each
+audit evaluation, most recently in March 2002.
+
+RESEARCH AND DEVELOPMENT
+     Each of the markets the Company competes in are characterized by
+technological change, evolving industry standards, and new product
+requirements to meet market growth. During the last three years, the Company
+has focused its research and development resources primarily on: Satellite
+DBS products, two-way MMDS transceivers, two-way MMDS integrated
+transceiver/modems. In addition, development resources were allocated to
+broaden existing product lines, reduce product costs and improve performance
+by product redesign efforts.
+
+     Research and development expenses in fiscal years 2002, 2001 and 2000
+were $7,583,000, $6,120,000 and $4,685,000, respectively.  Given the rapid
+pace of technological change involving its products, management anticipates
+that the Company's research and development expenses will continue to
+increase in the future in order to maintain the Company's a competitive
+position in the markets that it serves.
+
+SALES AND MARKETING
+     The Company sells its Satellite products primarily to DBS operators and
+to manufacturers for incorporation into complete satellite dish systems.  A
+small portion of Satellite product sales are made to satellite equipment
+distributors.  The Company sells its Wireless Access products directly to
+system operators as well as through distributors and system integrators.
+
+     The Company's sales and marketing functions for both business units are
+centralized at its corporate headquarters in Camarillo, California. In
+addition, the Company has sales offices and personnel in Paris, France and
+Sao Paulo, Brazil. The Company may add additional sales offices and employees
+as market conditions warrant, in market areas that require additional sales
+and customer support not adequately served by a major distributor or
+reseller.
+
+     See also Note 13 of Notes to Consolidated Financial Statements for
+segment and geographical sales information.
+
+COMPETITION
+     The markets in which the Company competes are highly competitive. In
+addition, if the markets for the Company's products continue to grow, the
+Company anticipates increased competition from new companies entering such
+markets, some of whom may have financial and technical resources
+substantially greater than those of the Company. Furthermore, because some of
+the Company's products may not be proprietary, they may be duplicated by low-
+cost producers, resulting in price and margin pressures.
+
+     The Company believes that competition in its markets is based primarily
+on price, performance, reputation, product reliability and technical support.
+In the terrestrial Wireless Access market, the Company has supplier
+relationships with major operators in various regions of the world, and
+believes that its pricing, accompanied by product performance, reliability,
+low field failure rate, and its ongoing technical support, are currently
+competitive advantages to the Company. In the Satellite television market,
+its reputation for performance and quality allows the Company a competitive
+advantage if pricing of its products is comparable to its competitors. Its
+acquisition of rights to U.S. DBS products in 1999 allowed the Company
+immediate entry into the U.S. DBS market where it believes it now maintains a
+leadership position.
+
+     The Company's continued success in these markets, however, will depend
+upon its ability to continue to design and manufacture quality products at
+competitive prices.
+
+BACKLOG
+     The Company's products are sold to customers that do not usually enter
+into long-term purchase agreements, and as a result, the Company's backlog at
+any date is not significant to the annualized sales trends. In addition,
+because of customer order modifications, cancellations, or orders requiring
+wire transfers or letters of credit from international customers, the
+Company's backlog as of any particular date, may not be indicative of sales
+for any future period.
+
+INTELLECTUAL PROPERTY
+     The Company's timely application of its technology and its design,
+development and marketing capabilities have been of substantially greater
+importance to its business than patents or licenses.
+
+     The Company currently has 19 patents ranging from design features for
+downconverter and antenna products, to its MultiCipher broadband scrambling
+system. Those that relate to its downconverter products do not give the
+Company any significant advantage since other manufacturers using different
+design approaches can offer similar microwave products in the marketplace.
+In addition to its awarded patents, the Company currently has 10 patent
+applications pending.
+
+     California Amplifier(R) and MultiCipher(R) are federally registered
+trademarks of the Company.
+
+EMPLOYEES
+     At February 28, 2002, the Company had 276 employees. None of the
+Company's employees are represented by a labor union.  In addition, the
+Company contracts with an independent temporary agency to provide certain of
+its production personnel at its manufacturing facilities in Camarillo,
+California; the Company employs none of the personnel provided through the
+agency.  At February 28, 2002, the number of contracted production personnel
+was approximately 160.
+
+
+ITEM 2.  PROPERTIES
+
+     The Company's corporate headquarters and its primary manufacturing
+operations are located in two adjacent facilities in Camarillo, California
+(approximately 60 miles north of Los Angeles) totaling approximately 90,000
+square feet. The leases on both facilities expire in February 2004.  Neither
+of these leases contain renewal options.  The Company is currently evaluating
+its facility alternatives and has not yet reached a decision on whether to
+seek an extension of one or both of the existing leases, or to pursue a new
+lease on different facilities.  The Company also has sales offices France and
+Brazil, and product design centers in Dallas, Texas and Chanhassen,
+Minnesota.
+
+     Subsequent to fiscal 2002, as part of the acquisition of the assets and
+business of Kaul-Tronics, Inc. and two affiliated companies, the Company
+acquired three facilities in Wisconsin.  See Note 15 to the accompanying
+consolidated financial statements.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+Yourish class action and RLI Insurance Company litigation:
+
+     On March 29, 2000 the Company and the individual defendants (present
+and former officers and directors of the Company) reached a settlement in
+the matter entitled Yourish v. California Amplifier, Inc., et al., Case
+No. CIV 173569 shortly after trial commenced in the Superior Court for the
+State of California, County of Ventura.  The terms of the settlement called
+for the issuance by the Company of 187,500 shares of stock along with a cash
+payment of $3.5 million, funded in part by insurance proceeds, for a total
+settlement valued at approximately $11.0 million.  Of the total settlement,
+$9.5 million was accrued in the consolidated financial statements for the
+year ended February 28, 2000, and the remaining $1.5 million was expected to
+be funded by the Company's director and officer liability insurance
+carriers.  The common stock portion of the settlement was originally accrued
+at $7.5 million, or $40 per share, which share price was based on the
+trading range of the Company's common stock at the time the settlement
+agreement was reached.  By Order dated September 14, 2000, the court
+approved the terms of the settlement and dismissed the action with
+prejudice.
+
+     Upon approval of the settlement agreement by the court, in September
+2000 the Company issued 65,625 of the 187,500 shares of common stock and
+paid $2.5 million of the $3.5 million cash portion of the settlement.
+T.I.G. Insurance Company ("T.I.G."), one of the Company's liability
+insurance carriers, paid the remaining $1 million.
+
+     The fair value of the Company's common stock on September 14, 2000, the
+date the settlement agreement was approved by the court, was $33.063 per
+share.  Accordingly, at that time the Company reduced its litigation accrual
+by $1.3 million to revalue the common stock portion of the settlement at
+$33.063 per share instead of $40 per share.  Also in September 2000, the
+Company accrued $500,000 for additional legal expenses associated with this
+litigation which had not been previously accrued, and accrued $800,000 for a
+refund contingently payable to T.I.G., which had contributed $1 million to
+the settlement under a reservation of rights.
+
+     In connection with the settlement of the Yourish action, the Company
+and certain of its former and current officers and directors filed a lawsuit
+(California Amplifier, Inc., et al. v. RLI Insurance Company, et al.,
+Ventura County Superior Court Case No. CIV196258), against one of its
+insurance carriers to recover $2.0 million of coverage the insurance carrier
+has stated was not covered under its policy of insurance.  The insurance
+carrier filed a Motion for Judgment on the Pleadings seeking judgment on the
+basis, inter alia, that the claims in the Yourish action for alleged
+violations of Sections 25400 and 25500 of the California Corporation Code
+were not insurable as a matter of law pursuant to Insurance Code Section
+533.  The Plaintiffs opposed the motion and a hearing was held on
+September 22, 2000.  On October 18, 2000, the Court entered an Order
+granting the motion for judgment on the pleadings.  Judgment was entered on
+November 9, 2000, and Notice of Entry of Judgment given on November 15,
+2000.  California Amplifier filed a Notice of Appeal on November 21, 2000.
+The matter was fully briefed and argued before the Court of Appeals on
+September 12, 2001.  On December 4, 2001, the Court of Appeals upheld the
+decision of the lower court in favor of the insurance carrier.  The Company
+filed a petition for review with the California Supreme Court in January
+2002, but the petition for review was denied by the State Supreme Court.
+
+     In March 2002, T.I.G. notified the Company that it intends to seek a
+refund of its $1 million settlement contribution made under a reservation of
+rights, based on the adverse outcome of the Company's action against RLI
+Insurance Company.  As discussed above, the Company had previously accrued a
+reserve of $800,000 for the refund contingently payable to T.I.G.
+Consequently, at February 28, 2002 the Company accrued an additional
+$200,000 for the contingent refund payable to T.I.G.
+
+     The Company's consolidated balance sheet at February 28, 2002 includes
+an accrued liability of $5.0 million related to the Yourish settlement,
+which amount represents the remaining 121,875 shares still to be issued,
+valued at $33.063 per share, and the $1 million reserved for the contingent
+refund payable to T.I.G.  Pursuant to the terms of the court-approved
+settlement, the Company must wait for instructions from plaintiffs' counsel
+before issuing the remaining shares of common stock under the settlement.
+
+2001 securities litigation and shareholder derivative lawsuit:
+
+     Following the announcement by the Company on March 29, 2001 of the
+resignation of its controller and the possible overstatement of net income
+for the fiscal year ended February 28, 2000 and the subsequent restatement
+of the Company's financial statements for fiscal year 2000 and the interim
+periods of fiscal years 2000 and 2001, the Company and certain officers were
+named as defendants in twenty putative actions in Federal Court.  Caption
+information for each of the lawsuits is set forth in Item 3 of the Company's
+Form 10-K for the fiscal year ended February 28, 2001.  On June 18, 2001,
+the twenty actions were consolidated into a single action pursuant to
+stipulation of the parties, and lead plaintiffs' counsel was appointed.
+
+    In July 2001, all of the current directors of the Company were named as
+defendants in the above-entitled shareholder derivative lawsuit filed in Los
+Angeles Superior Court.  The Company was named as a nominal defendant.  The
+complaint alleged claims against the directors for breach of fiduciary duty,
+abuse of control and gross mismanagement, arising out of the Company's
+restatement of earnings for fiscal year 2000 and portions of fiscal year
+2001.
+
+     In October 2001, the insurance company that provides the Company's
+primary director and officer liability coverage applicable to the above
+matters  filed a lawsuit seeking to rescind the policy on the grounds that
+there was a misstatement in the policy application that incorporated by
+reference the Company's financial statements prior to their restatement.
+
+     In December 2001, the parties reached an agreement to settle both the
+class action litigation and the shareholder derivative lawsuit for the
+aggregate sum of $1.5 million, subject to final court approval.  Of this
+amount, the Company's primary directors and officers liability insurance
+carrier agreed to contribute $575,000 toward the settlement, which amount
+was paid in December 2001, and agreed to withdraw its policy rescission
+lawsuit.   The Company has accrued its $925,000 share of the settlement in
+the accompanying consolidated financial statements for the year ended
+February 28, 2002.  Of this amount, $425,000 was paid by the Company in
+December 2001, and the remaining $500,000 is to be paid once the court
+approves the settlement.  At the Company's option, this final settlement
+installment of $500,000 may be paid in the form of cash or Common Stock.
+The Stipulation of Settlement seeking preliminary Court approval of the
+settlement by the Court was filed in May 2002.  Once preliminary approval is
+obtained, plaintiff's counsel will send notice to the class and obtain a
+hearing date for final approval of the settlement agreement.  The Company
+expects this process to be completed over the next several months.
+
+Investigation by the Securities and Exchange Commission:
+
+     In May 2001, the Company announced that it had received notice from the
+Securities and Exchange Commission (SEC) that the SEC was conducting an
+informal inquiry into the circumstances that caused the Company to announce
+that it would be restating earnings for fiscal year 2000 and certain interim
+quarters of fiscal year 2001.  Subsequently, the Company learned that the
+SEC adopted an order directing a private investigation and designating
+officers to take testimony.  The Company has been and expects to continue
+cooperating with the SEC in connection with its investigation.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     During the three months ended February 28, 2002, no matters were
+submitted to a vote of the Company's security holders.
+
+
+
+                                     PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED SECURITY
+         HOLDER MATTERS
+
+     The Company's Common Stock trades on The Nasdaq Stock Market under the
+symbol "CAMP".  The following table sets forth for each fiscal period
+indicating the high and low sale prices for the Company's Common Stock, as
+reported by Nasdaq:
+
+                                                 LOW            HIGH
+
+         Fiscal Year Ended February 28, 2002:
+         1st Quarter                            $ 5.03          $ 7.25
+         2nd Quarter                              3.50            8.50
+         3rd Quarter                              3.55            5.72
+         4th Quarter                              4.30            7.49
+
+         Fiscal Year Ended February 28, 2001:
+         1st Quarter                            $14.50          $49.75
+         2nd Quarter                             19.25           63.00
+         3rd Quarter                             15.50           45.88
+         4th Quarter                              5.44           19.44
+
+
+
+     At May 22, 2002 the number of stockholders of record of the Company's
+Common Stock was 254.  The number of stockholders of record does not include
+the number of persons having beneficial ownership held in "street name" which
+are estimated to approximate 11,000.
+
+     The Company has never paid a cash dividend and has no current plans to
+pay cash dividends on its Common Stock.
+
+<page>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     The selected consolidated financial data for the years ended February
+28, 1998 through 2002 set forth below are derived from the audited
+consolidated financial statements and notes thereto.  The consolidated
+balance sheets as of February 28, 2002 and 2001 and the related consolidated
+statements of operations, stockholders' equity and comprehensive income
+(loss) and cash flows for each of the years in the three-year period ended
+February 28, 2002, appear elsewhere in this Report.  The Selected
+Consolidated Financial Data are qualified in their entirety by reference to,
+and should be read in conjunction with, the consolidated financial
+statements and related notes and "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" included elsewhere in this
+Report.
+
+                    CALIFORNIA AMPLIFIER, INC. AND SUBSIDIARIES
+                           FIVE-YEAR FINANCIAL SUMMARY
+                     (In thousands except per share amounts)
+
+                                            Year ended February 28,
+                                ---------------------------------------------
+OPERATING DATA                    2002      2001     2000     1999     1998
+                                --------  --------  -------  -------  -------
+Sales                           $100,715  $117,129  $79,429  $33,248  $41,229
+Cost of goods sold                77,834    93,776   64,296   24,034   33,087
+                                --------  --------  -------  -------  -------
+Gross profit                      22,881    23,353   15,133    9,214    8,142
+                                --------  --------  -------  -------  -------
+Operating expenses:
+  Research and development         7,583     6,120    4,685    3,949    3,946
+  Selling                          2,299     3,255    4,254    3,858    4,601
+  General and administrative       7,740     5,869    4,850    3,429    4,033
+                                --------  --------  -------  -------  -------
+Total operating expenses          17,622    15,244   13,789   11,236   12,580
+                                --------  --------  -------  -------  -------
+Operating income (loss)            5,259     8,109    1,344   (2,022)  (4,438)
+                                --------  --------  -------  -------  -------
+Non-operating income (expense):
+  Settlement of litigation        (1,125)       -    (9,500)      -        -
+  Other income (expense), net         47      (359)     (60)     106       -
+                                --------  --------  -------  -------  -------
+Total non-operating expense       (1,078)     (359)  (9,560)     106       -
+                                --------  --------  -------  -------  -------
+Income (loss) from continuing
+ operations before income taxes    4,181     7,750   (8,216)  (1,916)  (4,438)
+
+Income tax (provision) benefit    (1,307)   (2,810)   2,950      603    1,663
+                                --------  --------  -------  -------  -------
+Income (loss) from
+ continuing operations             2,874     4,940   (5,266)  (1,313)  (2,775)
+
+Income (loss) from discontinued
+  operations, net of tax             (25)      269      202     (123)     110
+
+Gain on sale of discontinued
+  operations, net of tax           1,615        -        -        -        -
+                                --------  --------  -------  -------  -------
+Net income (loss)               $  4,464  $  5,209  $(5,064) $(1,436) $(2,665)
+                                ========  ========  =======  =======  =======
+
+<page>
+                    CALIFORNIA AMPLIFIER, INC. AND SUBSIDIARIES
+                           FIVE-YEAR FINANCIAL SUMMARY
+                     (In thousands except per share amounts)
+                                   (Continued)
+
+
+                                           Year ended February 28,
+                                 -------------------------------------------
+OPERATING DATA (Continued)        2002     2001     2000     1999     1998
+                                 -------  -------  -------  -------  -------
+Basic earnings (loss)
+ per share:
+   Income (loss) from
+     continuing operations       $  0.21  $  0.37  $ (0.44) $ (0.11) $ (0.24)
+   Income (loss) from
+    discontinued operations          -       0.02     0.02    (0.01)    0.01
+   Gain on sale of
+     discontinued operations        0.12      -        -        -        -
+                                 -------  -------  -------  -------  -------
+     Basic earnings (loss)
+       per share                 $  0.33  $  0.39  $ (0.42) $ (0.12) $ (0.23)
+                                 =======  =======  =======  =======  =======
+Diluted earnings (loss)
+ per share:
+   Income (loss) from
+     continuing operations       $  0.21  $  0.35  $ (0.44) $ (0.11) $ (0.24)
+   Income from discontinued
+     operations                      -       0.02     0.02    (0.01)    0.01
+   Gain on sale of
+     discontinued operations        0.11      -        -        -        -
+                                 -------  -------  -------  -------  -------
+     Diluted earnings (loss)
+       per share                 $  0.32  $  0.37  $ (0.42) $ (0.12) $ (0.23)
+                                 =======  =======  =======  =======  =======
+
+
+                                                 February 28,
+                                 -------------------------------------------
+BALANCE SHEET DATA                2002     2001     2000     1999     1998
+                                 -------  -------  -------  -------  -------
+Current assets                   $45,739  $35,523  $37,201  $20,331  $19,887
+
+Current liabilities              $15,480  $15,032  $32,729  $ 4,853  $ 5,001
+
+Working capital                  $30,259  $20,491  $ 4,472  $15,478  $14,886
+
+Current ratio                        3.0      2.4      1.1      4.2      4.0
+
+Total assets                     $56,688  $49,812  $51,497  $25,549  $27,831
+
+Long-term debt                   $ 3,628  $ 4,500  $   145  $   516  $ 1,112
+
+Stockholders' equity             $37,580  $29,624  $18,281  $20,065  $21,397
+
+Equity per share                 $  2.76  $  2.18  $  1.44  $  1.70  $  1.82
+
+Shares outstanding (000s)         13,630   13,601   12,658   11,785   11,771
+
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+Basis of Presentation
+
+     The Company uses a 52-53 week fiscal year ending on the Saturday
+closest to February 28, which for fiscal years 2002, 2001 and 2000 fell on
+March 2, 2002, March 3, 2001 and February 26, 2000, respectively.  In these
+consolidated financial statements, the fiscal year end for all years,
+including leap years, is shown as February 28 for clarity of presentation.
+Fiscal year 2001 consisted of 53 weeks, compared to 52 weeks for the fiscal
+years 2002 and 2000.
+
+     As more fully described in Note 2 to the accompanying consolidated
+financial statements, in July 2001 the Company sold its 51% interest in
+Micro Pulse.  Micro Pulse designs, manufactures and markets antennas and
+amplifiers used principally in GPS applications.  Accordingly, the results
+of operations of Micro Pulse, which represented a separate business segment
+of the Company, have been presented as a discontinued operation for all
+periods presented.
+
+Critical Accounting Policies
+
+     The Company's discussion and analysis of its financial condition and
+results of operations are based upon the Company's Consolidated Financial
+Statements, which have been prepared in accordance with accounting
+principles generally accepted in the United States of America.  The
+preparation of these financial statements requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosure of contingent assets and liabilities at the date
+of the financial statements and the reported amounts of sales and expenses
+during the reporting periods.  Areas where significant judgments are made
+include, but are not limited to: allowance for doubtful accounts, inventory
+valuation, product warranties and the deferred tax asset valuation
+allowance.  Actual results could differ materially from these estimates.
+
+     Allowance for Doubtful Accounts
+
+     The Company establishes an allowance for estimated bad debts based upon
+a review and evaluation of specific customer accounts identified as known
+and expected collection problems, based on historical experience, due to
+insolvency, disputes or other collection issues.  As further described in
+Note 1 to the accompanying consolidated financial statements, the Company's
+customer base is quite concentrated, with only four customers accounting for
+approximately 82% of the Company's fiscal 2002 sales.  Changes in either a
+key customer's financial position, or the economy as a whole, could cause
+actual write-offs to be materially different from the recorded allowance
+amount.
+
+     Inventories
+
+     The Company evaluates the carrying value of inventory on a quarterly
+basis to determine if the carrying value is recoverable at estimated selling
+prices.  To the extent that estimated selling prices do not exceed the
+associated carrying values, inventory carrying amounts are written down.  In
+addition, the Company generally considers that inventory on hand or
+committed with suppliers, which is not expected to be sold within the next
+12 months, as excess and thus appropriate write-downs of the inventory
+carrying amounts are established through a charge to cost of sales.
+Estimated usage in the next 12 months is based on firm demand represented by
+orders in backlog at the end of the quarter and management's estimate of
+sales beyond existing backlog, giving consideration to customers' forecasted
+demand, ordering patterns and product life cycles.  Significant reductions
+is product pricing, or changes in technology and/or demand may necessitate
+additional write-downs of inventory carrying value in the future.
+
+     Product Warranties
+
+     The Company provides for the estimated cost of product warranties at
+the time revenue is recognized. While it engages in extensive product
+quality programs and processes, including actively monitoring and evaluating
+the quality of its component suppliers, the Company's warranty obligation is
+affected by product failure rates and material usage and service delivery
+costs incurred in correcting a product failure. Should actual product
+failure rates, material usage or service delivery costs differ from
+management's estimates, revisions to the estimated warranty liability would
+be required.
+
+     Deferred Income Tax Asset Valuation Allowance
+
+     The deferred income tax asset reflects the net tax effects of temporary
+differences between the carrying amount of assets and liabilities for
+financial reporting purposes and the amounts used for income tax purposes.
+A deferred income tax asset is recognized if realization of such asset is
+more likely than not, based upon the weight of available evidence which
+includes historical operating performance and the Company's forecast of
+future operating performance.  The Company evaluates the realizability of
+its deferred income tax asset on a quarterly basis, and a valuation
+allowance is provided, as necessary.  During this evaluation, the Company
+reviews its forecasts of income in conjunction with the positive and
+negative evidence surrounding the realizability of its deferred income tax
+asset to determine if a valuation allowance is needed.  If in the future a
+portion or all of the valuation allowance is no longer deemed to be
+necessary, reductions of the valuation allowance will either increase
+additional paid-in capital or decrease the income tax provision, depending
+on the nature of the underlying deferred tax asset.  Alternatively, if in
+the future the Company were unable to support the recovery of its net
+deferred income tax asset, it would be required to provide an additional
+valuation allowance for all or a portion of the net deferred income tax
+asset, which would increase the income tax provision.  At February 28, 2002,
+the Company's net deferred income tax asset was $3,580,000, which amount
+includes a valuation allowance of $8,724,000.  Approximately  $5.6 million
+of the valuation allowance at February 28, 2002 is related to a tax asset
+generated upon the exercise of non-qualified stock options and, in general,
+these are the tax benefits which are being recognized first.  Any future
+reduction of this portion of the valuation allowance will result in the tax
+benefit being recorded as an increase in additional paid-in capital.  If and
+when this portion of the valuation allowance is completely eliminated,
+further reductions of the remaining valuation allowance will be recognized
+as an income tax benefit.
+
+Results of Operations
+
+     The following table sets forth, for the periods indicated, the
+percentage of sales represented by items included in the Company's
+Consolidated Statements of Operations:
+
+                                                    Year Ended February 28,
+                                                 ----------------------------
+                                                  2002       2001       2000
+                                                 ------     ------     ------
+
+Sales                                            100.0%     100.0%     100.0%
+Cost of goods sold                                77.3       80.1       80.9
+                                                 -----      -----      -----
+Gross profit                                      22.7       19.9       19.1
+
+Operating expenses:
+  Research and development                         7.5        5.2        5.9
+  Selling                                          2.3        2.8        5.4
+  General and administrative                       7.7        5.0        6.1
+                                                 -----      -----      -----
+Operating income                                   5.2        6.9        1.7
+
+Settlement of litigation                          (1.1)        -       (12.0)
+Other expense, net                                  -        (0.3)      (0.1)
+                                                 -----      -----      -----
+Income (loss) from continuing operations
+  before income taxes                              4.1        6.6      (10.4)
+Income tax (provision) benefit                    (1.3)      (2.4)       3.7
+                                                 -----      -----      -----
+Income (loss) from continuing operations           2.8        4.2       (6.7)
+Income from discontinued operations                 -         0.2        0.3
+Gain on sale of discontinued operations            1.6         -          -
+                                                 -----      -----      -----
+Net income (loss)                                  4.4%       4.4%      (6.4)%
+                                                 =====      =====      =====
+
+Fiscal Years 2002 and 2001
+
+     Sales
+
+     Total sales for fiscal 2002 were $100,715,000, a decline of 14% from
+fiscal 2001 sales of $117,129,000.  Sales of Satellite products decreased
+$6,208,000, or 7%, from $85,107,000 to $78,899,000.  Sales of Wireless
+Access products decreased $10,206,000, or 32%, from $32,022,000 to
+$21,816,000.
+
+     Sales of the Satellite segment in fiscal 2002 declined from the prior
+year in part because system operators maintained higher ordering patterns in
+the first half of fiscal 2001 in an effort to avoid product shortages in the
+event electronic components supply disruptions affected manufacturers'
+production.  This led to order cutbacks by the system operators beginning in
+the third quarter of fiscal 2001 in order to work down their high inventory
+levels.  These order cutbacks persisted through the first half of fiscal
+2002, during which Satellite product sales amounted to $33.0 million.
+Although sales increased to $45.9 million in the second half of fiscal 2002,
+sales for the year as a whole still fell short of the fiscal 2001 level.
+
+     The downturn in Wireless Access product sales is attributable to a
+combination of the general slowdown in capital spending in the
+telecommunications industry and the anticipation of second generation non-
+line of sight products.  These factors resulted in a steady decline in
+sequential quarter sales of the Wireless business segment during the past
+year.  Fiscal 2002 fourth quarter Wireless Access sales were only $2.7
+million.  The Company expects its Wireless Access sales to remain low in
+fiscal 2003.  The Company does not anticipate that Wireless Access sales
+will rebound until the development of second generation non-line of sight
+two-way transceiver products is completed, and until wireless access service
+providers resume the expansion of their subscriber bases.  Management
+believes that the future success of the Company's Wireless Access business
+segment is dependent to a large degree on the market acceptance and market
+penetration of wireless broadband access technology developed by Navini.
+The Company has licensed this technology from Navini, and is developing
+customer premise equipment products which are compatible with Navini's
+technology.
+
+     Gross Profit and Gross Margins
+
+     Gross profit for fiscal 2002 declined slightly to $22,881,000 from
+$23,353,000 in fiscal 2001.  Consolidated gross margin improved from 19.9%
+last year to 22.7% in fiscal 2002.  The increase in consolidated gross
+margin is attributable to higher gross margins for Satellite products.
+
+     Gross margins for Satellite products improved to 19.9% in fiscal 2002
+from 15.2% in fiscal 2001.  Satellite gross margins improved primarily
+because the Company completed the consolidation of its Texas plant into its
+California manufacturing operations at the end of fiscal 2001, resulting in
+reduced manufacturing costs beginning in fiscal 2002.  Also, Satellite gross
+margin in fiscal 2001 had been adversely impacted by electronic component
+shortages that caused production inefficiencies.
+
+     Gross margins for Wireless Access products declined to 32.8% in fiscal
+2002 from 32.6% last fiscal year.  Wireless Access gross margins have
+declined principally due to the decline in sales as discussed above.
+
+     See also Note 13 to the accompanying consolidated financial statements
+for additional operating data by business segment.
+
+     Operating Expenses
+
+     Research and development expense ("R&D")increased by $1,463,000 from
+$6,120,000 in fiscal 2001 to $7,583,000 in fiscal 2002.  Investment in R&D
+has been increased in an effort to improve the Company's market position in
+both of its business segments.  Increased R&D spending is primarily in the
+form of additional engineering and design personnel, higher salaries to
+remain competitive with industry compensation trends, and higher material
+costs relating to new product design primarily related to the next
+generation of products for the Company's Wireless Access business segment.
+
+     Selling expense decreased by 29% from $3,255,000 last year to
+$2,299,000 in fiscal 2002.  These declines are attributable primarily to
+decreases in discretionary marketing spending.
+
+     General and administrative expense increased by $1,871,000 to
+$7,740,000 in fiscal 2002 from $5,869,000 in fiscal 2001.  This increase was
+due primarily to expenses of $950,000, primarily accounting and legal,
+incurred in the first quarter of fiscal 2002 in connection with the
+restatement of the Company's fiscal 2000 and fiscal 2001 financial
+statements, and to a bad debt write-off of $817,000 during fiscal 2002 for
+uncollectible receivable balances due from a Wireless Access customer.
+
+     Litigation Settlement
+
+     The non-operating expense captioned "Settlement of Litigation" in the
+amount of $1,125,000 for fiscal 2002 represents an accrued settlement of
+$925,000 for litigation brought against the Company as a result of the
+fiscal 2000 and 2001 financial misstatements caused by the Company's former
+controller, and an accrual of $200,000 for a contingent refund payable to an
+insurance company involving a legal settlement reached in March 2000, all as
+further described in Note 12 to the accompanying consolidated financial
+statements.
+
+     Income from Continuing Operations Before Income Taxes
+
+     Income from continuing operations before income taxes decreased from
+$7,750,000 in fiscal 2001 to $4,181,000 in fiscal 2002 due primarily to the
+increase in operating expenses of $2,378,000 and to the non-operating
+expense of $1,125,000 for litigation settlement.
+
+     Income Tax Provision and Deferred Income Tax Asset
+
+     The effective tax rates for fiscal 2002 and 2001 were 31.2% and 36.3%,
+respectively.  The decline in the tax rate is attributable primarily to the
+estimated tax benefit associated with the new Extraterritorial Income
+Exclusion ("EIE") beginning in fiscal 2002.  Under the EIE rules, taxable
+income associated with qualifying sales made to foreign customers is
+excludable from taxable income.
+
+	During fiscal 2002, the Company recognized income tax benefits of
+$3,525,000 associated with tax deductions on non-qualified employee stock
+options which were exercised prior to fiscal 2002.  These tax benefits were
+recognized by reducing the deferred income tax asset valuation allowance in
+the aggregate amount of $3,525,000, with a corresponding increase in
+additional paid-in capital.  Reduction of the deferred income tax asset
+valuation allowance during fiscal 2002 resulted in a net deferred income tax
+asset of $3,580,000 at the end of fiscal 2002.  The deferred income tax
+asset valuation allowance was established in years prior to fiscal 2002
+because management believed at the time that it did not have the basis to
+conclude that it was more likely than not that the deferred income tax asset
+would be fully realized in the future.  In view of the Company's profitable
+operations in fiscal 2001 and fiscal 2002, during which time the Company
+generated aggregate income from continuing operations before income taxes of
+$11.9 million, management believes that it is more likely than not that the
+Company will generate sufficient taxable income in the future to utilize the
+net deferred income tax asset of $3,580,000.
+
+     Discontinued Operations
+
+     As described further in Note 2 to the accompanying consolidated
+financial statements, the Company sold its 51% ownership interest in Micro
+Pulse during the second quarter of fiscal 2002.  A gain of $1,615,000 net of
+tax was recognized on this transaction.
+
+     Net Income
+
+     Net income, for reasons described above, decreased to $4,464,000 in
+fiscal 2002 from $5,209,000 in fiscal 2001.
+
+
+Fiscal Years 2001 and 2000
+
+     Sales increased $37,700,000, or 47.5%, from $79,429,000 in fiscal year
+2000 to $117,129,000 in fiscal year 2001. The fiscal year 2001 sales
+increase resulted primarily from increases in each of both of the Company's
+business segments.
+
+     Sales of Satellite products increased $24,696,000, or 40.9%, from
+$60,411,000 to $85,107,000.  The increase in Satellite product sales
+resulted primarily from increased sales of DBS products to domestic
+customers. The Company experienced significant year-to-year sales growth
+($28.7 million increase) in the first half of fiscal year 2001 as compared
+to the first half of fiscal year 2000, offset by a negative comparison ($4.0
+million decrease) for the second half year-to-year comparisons. The
+reductions of shipments of satellite DBS products in the second half of
+fiscal year 2000 reflects a slowing of subscriber additions, reduction in
+inventory levels by operators, in addition to the elimination of single
+output downconverters from their product offering. A delay by the Company of
+a new product introduction contributed $3.4 million of the fourth quarter
+sales decrease. This product began shipments of small volume in the
+Company's first quarter of fiscal year 2002.
+
+     Sales of Wireless Access products increased $13,004,000, or 68.4%, from
+$19,018,000 to $32,022,000.  The increase in Wireless Access product sales
+results from increased sales of two-way wireless transceivers, partially
+offset by reductions in the Company's legacy wireless cable video products.
+
+     Gross profits increased $8,220,000, or 54.3%, from $15,133,000 in
+fiscal year 2000 to $23,353,000 in fiscal year 2001. The increase in gross
+profits occurred primarily because of the increase in sales, and slightly
+higher product gross margins.
+
+     Gross margins increased from 19.1% in fiscal year 2000 to 19.9% in
+fiscal year 2001. The increase in gross margins relates to increased sales
+of Wireless Access products at higher gross margins of 32.6% while Satellite
+product gross margins remained relatively consistent with the prior year at
+15.2%.  See also Note 13 to notes to the consolidated financial statements
+included elsewhere herein.
+
+     Research and development expenses increased by $1,435,000, from
+$4,685,000 in fiscal year 2000 to $6,120,000 in fiscal year 2001. The
+increase results primarily to additional design personnel in the Wireless
+Access business unit to focus on the development of wireless two-way MMDS
+transceivers, and salary increases to ensure engineers' compensation is
+competitive with current market conditions.
+
+     Selling expenses decreased by $999,000 from $4,254,000 in fiscal year
+2000 to $3,255,000 in fiscal year 2001. The decrease relates primarily to
+reductions in discretionary marketing expense, offset by additions in
+personnel and salary increases.
+
+     General and administrative expenses increased by $1,019,000 from
+$4,850,000 in fiscal year 2000 to $5,869,000 in fiscal year 2001. The
+increase results primarily from increases in legal and other professional
+fees.
+
+     Operating income increased by $6,765,000 from $1,344,000 in fiscal year
+2000 to $8,109,000 in fiscal year 2001. The principal reasons for the
+improvement are as described above: a $37.7 million increase in sales, a
+$8.2 million increase in gross profits, offset by a $1.5 million increase in
+operating expenses.
+
+     The $9.5 million settlement of litigation in fiscal year 2000 relates
+to the settlement of the class action lawsuit filed in June 1997. See Note
+12 to the consolidated financial statements included elsewhere herein.
+
+     The (provision for) benefit from income taxes for fiscal years 2001 and
+2000 was approximately 36% of income (loss) before taxes.
+
+     For the reasons outlined above, income from continuing operations for
+fiscal year 2001 increased $10.2 million from a loss of $5.3 million in
+fiscal year 2000 to income of $4.9 million in fiscal year 2001.
+
+Liquidity and Capital Resources
+
+     The Company's primary sources of liquidity are its cash and cash
+equivalents, which amounted to $23,156,000 at February 28, 2002, and its $8
+million working capital line of credit with a bank.  During fiscal year
+2002, cash and cash equivalents increased by $13,147,000.  This increase
+consisted of cash provided by operating activities of $12,313,000, net
+proceeds from the sale of discontinued operations of $2,956,000, and other
+activity with a net cash inflow impact of $11,000, partially offset by
+capital expenditures of $1,534,000 and debt repayments of $599,000.
+
+     Components of operating working capital decreased by $2,130,000 during
+fiscal 2002, comprised of a $2,269,000 decrease in accounts receivable, a
+$283,000 decrease in inventories, and an increase of $458,000 in accounts
+payable and accrued liabilities, partially offset by a $880,000 increase in
+prepaid expenses and other assets.
+
+     The Company believes that inflation and foreign currency exchange rates
+have not had a material effect on its operations.  The Company believes that
+fiscal year 2003 will not be impacted significantly by foreign exchange
+since a significant portion of the Company's sales are to U.S. markets, or
+to international markets where its sales are denominated in U.S. dollars.
+
+     At February 28, 2002, the Company had contractual cash obligations,
+consisting of future maturities of debt and operating lease commitments,
+ranging from $542,000 to $1.7 million annually in fiscal 2003 through fiscal
+2007, for a total of $6.1 million.  As further described in Note 15 to the
+accompanying consolidated financial statements, on May 2, 2002, the Company
+entered into a new $12 million term loan with its bank to partially finance
+the acquisition of the assets and business of Kaul-Tronics, Inc. and two
+affiliated companies (the "KTI Acquisition"), which was consummated on April
+5, 2002.  Future maturities of this $12 million term loan are $200,000 per
+month, or $2.4 million annually, beginning April 1, 2003.  The new term loan
+bears interest at LIBOR plus 2.0% or the bank's prime rate.
+
+     On April 3, 2002, the Company's working capital line of credit was
+increased from $8 million to $13 million, and on April 5, 2002, the Company
+borrowed $12 million on the working capital line of credit to partially fund
+the KTI Acquisition.  In addition to the $12 million proceeds of the line of
+credit borrowing, the Company used approximately $4.3 million of its
+existing cash and cash equivalents and issued approximately 929,000 shares
+of its common stock to pay for the KTI Acquisition.  On May 2, 2002, the $12
+million outstanding balance on the working capital line of credit was repaid
+in full from the proceeds of the new $12 million bank term loan referred to
+in the preceding paragraph.  Also on May 2, 2002, the maturity date of the
+working capital line was extended from August 2, 2002 to August 2, 2005.  At
+February 28, 2002 and at the present time, there are no outstanding
+borrowings under the working capital line of credit, and $1 million of the
+line is reserved for a standby letter of credit.
+
+     The Company believes that cash flow from operations, together with
+amounts available under its working capital line of credit, are sufficient
+to support operations, fund capital equipment requirements and discharge
+contractual cash obligations over the next twelve months.
+
+New Authoritative Pronouncements
+
+     See Note 1 of the accompanying consolidated financial statements for a
+description of new authoritative accounting pronouncements which had not yet
+been adopted by the Company as of the end of fiscal 2002.
+
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+     The Company's primary market risk exposure is interest rate risk. As of
+February 28, 2002, the Company's term debt and credit facility with its bank
+are subject to variable interest rates. The Company monitors its debt and
+interest bearing cash equivalents levels to mitigate the risk of interest
+rate fluctuations. A fluctuation of one percent in interest rates would have
+an annual impact of less than $50,000 net of tax on the Company's Statement
+of Operations.
+
+
+FORWARD LOOKING STATEMENTS
+
+     Forward looking statements in this Form 10-K which include, without
+limitation, statements relating to the Company's plans, strategies,
+objectives, expectations, intentions, projections and other information
+regarding future performance, are made pursuant to the safe harbor
+provisions of the Private Securities Litigation Reform Act of 1995. The
+words "may" "could", "plans", "believes," "anticipates," "expects," and
+similar expressions are intended to identify forward-looking statements.
+These forward-looking statements reflect the Company's current views with
+respect to future events and financial performance and are subject to
+certain risks and uncertainties, including, without limitation, product
+demand, market growth, new competition, competitive pricing and continued
+pricing declines in the DBS market, supplier constraints, manufacturing
+yields, meeting demand with multiple facilities, timing and market
+acceptance of new product introductions, new technologies, the outcome of
+pending litigation, and other risks and uncertainties that are detailed from
+time to time in the Company's periodic reports filed with the Securities and
+Exchange Commission, copies of which may be obtained from the Company upon
+request. Such risks and uncertainties could cause actual results to differ
+materially from historical results or those anticipated. Although the
+Company believes the expectations reflected in such forward-looking
+statements are based upon reasonable assumptions, it can give no assurance
+that its expectations will be attained. The Company undertakes no obligation
+to update or revise any forward-looking statements, whether as a result of
+new information, future events or otherwise.
+
+
+RISK FACTORS
+
+     The Company's business operations and implementation of its long-term
+business strategy are subject to significant risks inherent in its business,
+including, without limitation, the risks and uncertainties described below.
+The occurrence of any one or more of the risks or uncertainties described
+below could have a material adverse effect on the Company's financial
+condition, results of operations and cash flows.
+
+  OUR BUSINESS IS SUBJECT TO MANY FACTORS THAT COULD CAUSE OUR QUARTERLY
+  OR ANNUAL OPERATING RESULTS TO FLUCTUATE AND OUR STOCK PRICE TO BE
+  VOLATILE
+
+     Our quarterly and annual operating results have fluctuated in the past
+and may fluctuate significantly in the future due to a variety of factors,
+many of which are outside of our control.  If our quarterly or annual
+operating results do not meet the expectations of securities analysts and
+investors, the trading price of our common stock could significantly
+decline.  Some of the factors that could affect our quarterly or annual
+operating results include:
+
+- the timing and amount of, or cancellation or rescheduling of, orders
+  for our products;
+
+- our ability to develop, introduce, ship and support new products and
+  product enhancements and manage product transitions; announcements,
+  new product introductions and reductions in price of products offered
+  by our competitors;
+
+- our ability to achieve cost reductions;
+
+- our ability to obtain sufficient supplies of sole or limited source
+  components for our products;
+
+- our ability to achieve and maintain production volumes and quality
+  levels for our products;
+
+- the volume of products sold and the mix of distribution channels
+  through which they are sold;
+
+- the loss of any one of our major customers or a significant reduction
+  in orders from those customers;
+
+- increased competition, particularly from larger, better capitalized
+  competitors;
+
+- fluctuations in demand for our products and services; and
+
+- telecommunications and wireless market conditions specifically and
+  economic conditions generally.
+
+     Due in part to factors such as the timing of product release dates,
+purchase orders and product availability, significant volume shipments of
+products could occur at the end of our fiscal quarter. Failure to ship
+products by the end of a quarter may adversely affect our operating results.
+In the future, our customers may delay delivery schedules or cancel their
+orders without notice. Due to these and other factors, quarterly revenue,
+expenses and results of operations could vary significantly in the future,
+and period-to-period comparisons should not be relied upon as indications of
+future performance.
+
+  BECAUSE SOME OF OUR KEY COMPONENTS ARE FROM SOLE SOURCE SUPPLIERS OR
+  REQUIRE LONG LEAD TIMES, OUR BUSINESS IS SUBJECT TO UNEXPECTED
+  INTERRUPTIONS, WHICH COULD CAUSE OUR OPERATING RESULTS TO SUFFER.
+
+     Some of our key components are complex to manufacture and have long
+lead times.  Also, some of our components are purchased from sole source
+vendors for which alternative sources are not readily available. In the
+event of a reduction or interruption of supply, or a degradation in quality,
+as many as six months could be required before we would begin receiving
+adequate supplies from alternative suppliers, if any. As a result, product
+shipments could be delayed and our revenues and results of operations would
+suffer. If we receive a smaller allocation of component parts than is
+necessary to manufacture products in quantities sufficient to meet customer
+demand, customers could choose to purchase competing products and we could
+lose market share.
+
+  OUR LACK OF PRODUCT DIVERSIFICATION MEANS THAT ANY DECLINE IN PRICE OR
+  DEMAND FOR OUR PRODUCTS WOULD ADVERSELY AFFECT OUR BUSINESS.
+
+     Our Satellite and Wireless Access products have accounted for
+substantially all of our historical revenue and are expected to do so for
+the foreseeable future.  Consequently, a decline in the price of, or demand
+for, our Satellite or Wireless Access products, or their failure to achieve
+or maintain broad market acceptance, would adversely affect our business.
+
+  IF WE DO NOT MEET PRODUCT INTRODUCTION DEADLINES, OUR BUSINESS COULD BE
+  ADVERSELY AFFECTED.
+
+     Our inability to develop new products or product features on a timely
+basis, or the failure of new products or product features to achieve market
+acceptance, could adversely affect our business. In the past, we have
+experienced design and manufacturing difficulties that have delayed our
+development, introduction or marketing of new products and enhancements
+which has caused us to incur unexpected expenses.  In addition, some of our
+customers have conditioned their future purchases of our products on the
+addition of product features. In the past we have experienced delays in
+introducing new features. Furthermore, in order to compete in some markets,
+we will have to develop different versions of our existing products that
+operate at different frequencies and comply with diverse, new or varying
+governmental regulations in each market.
+
+  DEMAND FOR CALIFORNIA AMPLIFIER'S PRODUCTS FLUCTUATES RAPIDLY AND
+  UNPREDICTABLY, WHICH MAKES IT DIFFICULT TO MANAGE ITS BUSINESS EFFICIENTLY
+  AND CAN REDUCE ITS GROSS MARGINS AND PROFITABILITY.
+
+     Our cost structure is based in part on our expectations for future
+demand. Many costs, particularly those relating to capital equipment and
+manufacturing overhead, are relatively fixed. The rapid and unpredictable
+shifts in demand for our products make it difficult to plan manufacturing
+capacity and business operations efficiently.  If demand is significantly
+below expectations, we may be unable to rapidly reduce these fixed costs,
+which can diminish gross margins and cause losses. A sudden downturn may
+also leave us with excess inventory, which may be rendered obsolete as
+products evolve during the downturn and demand shifts to newer products.
+Our ability to reduce costs and expenses is further constrained because we
+must continue to invest in research and development to maintain our
+competitive position and to maintain service and support for our existing
+global customer base. Conversely, in sudden upturns, we sometimes incur
+significant costs to rapidly expedite delivery of components, procure scarce
+components and outsource additional manufacturing processes.  These costs
+could reduce our gross margins and overall profitability.  Any of these
+results could adversely affect our business.
+
+  BECAUSE WE SELL SOME OF OUR PRODUCTS IN COUNTRIES OTHER THAN THE UNITED
+  STATES, SUBJECTING US TO DIFFERENT REGULATORY SCHEMES, AND WE HAVE A
+  SIGNIFICANT FOREIGN SUPPLY BASE, WE MAY NOT BE ABLE TO DEVELOP PRODUCTS
+  THAT WORK WITH THE DIFFERENT STANDARDS RESULTING IN OUR INABILITY TO SELL
+  OUR PRODUCTS, AND, FURTHER, WE MAY BE SUBJECT TO POLITICAL, ECONOMIC, AND
+  OTHER CONDITIONS AFFECTING SUCH COUNTRIES THAT COULD RESULT IN REDUCED
+  SALES OF OUR PRODUCTS AND WHICH COULD ADVERSELY AFFECT OUR BUSINESS.
+
+     If our sales are to grow in the longer term, we must continue to sell
+our products in many different countries. Many countries require
+communications equipment used in their country to comply with unique
+regulations, including safety regulations, radio frequency allocation
+schemes and standards. If we cannot develop products that work with
+different standards, we will be unable to sell our products.  If compliance
+proves to be more expensive or time consuming than we anticipate, our
+business would be adversely affected. Some countries have not completed
+their radio frequency allocation process and therefore we do not know the
+standards with which we would be forced to comply. Furthermore, standards
+and regulatory requirements are subject to change. If we fail to anticipate
+or comply with these new standards, our business and results of operations
+will be adversely affected.
+
+     Sales to customers outside the U.S. accounted for 16.5% and 19.9% of
+our total sales for the fiscal years ended February 28, 2002 and 2001,
+respectively. Accordingly, we are subject to the political, economic and
+other conditions affecting countries or jurisdictions other than the U.S.,
+including Africa, the Middle East, Europe and Asia.  Additionally, a
+substantial portion of our components and subassemblies are procured from
+foreign suppliers located primarily in Hong Kong, mainland China, Taiwan,
+and other Pacific Rim countries. Any interruption or curtailment of trade
+between the countries in which we operate and their present trading
+partners, change in exchange rates, a significant shift in U.S. trade policy
+toward these countries or a significant downturn in the political, economic
+or financial condition of these countries could cause demand for and sales
+of our products to decrease, cause disruption of our supply channels or
+otherwise disrupt our operations, cause our costs of doing business to
+increase, or subject us to increased regulation including future import and
+export restrictions, any of  which could adversely affect our business.
+
+  WE RELY ON A RELATIVELY LIMITED NUMBER OF CUSTOMERS FOR A LARGE PORTION OF
+  OUR SALES AND BUSINESS.
+
+     We generate a significant portion of our sales from a relatively small
+number of customers.  Sales to our four largest customers accounted for
+approximately 82% and 56% of total sales in the fiscal years ended February
+28, 2002 and 2001, respectively.  Furthermore, if the pending merger between
+Echostar Communications Corporation and DirectTv is consummated, our
+customer base could become even more concentrated because we sell, directly
+or indirectly, to both of these DBS system operators.  The loss of, or a
+decrease in orders by, one or more of our major customers could adversely
+affect our sales, business and reputation.
+
+     In addition, Sprint, the largest MMDS license holder in the U.S.,
+accounted for 62% and 37% of the sales of our Wireless Access business unit
+in fiscal years ended February 28, 2002 and 2001, respectively.  In October
+2001, Sprint announced that it has  suspended any new  deployments of
+broadband wireless equipment, as well as ceasing the acquisition of any new
+customers, until a second-generation  system could be evaluated.  Our
+Wireless Access business unit has only a small number of other customers.
+We expect little or no revenue from Sprint in our fiscal year ending
+February 28, 2003.
+
+  WE DO NOT HAVE LONG-TERM CONTRACTS WITH OUR CUSTOMERS AND OUR CUSTOMERS
+  MAY CEASE PURCHASING OUR PRODUCTS AT ANY TIME.
+
+     We generally do not have long-term contracts with our customers. As a
+result, our agreements with our customers do not provide any assurance of
+future sales. Accordingly, our customers can cease purchasing our products
+at any time without penalty, our customers are free to purchase products
+from our competitors, we are exposed to competitive price pressure on each
+order, and our customers are not required to make minimum purchases.
+
+  OUR WIRELESS ACCESS BUSINESS IS SUBJECT TO RAPID TECHNOLOGY CHANGES,
+  EVOLVING STANDARDS AND GOVERNMENT REGULATION.
+
+     The market for wireless Internet access served by our Wireless Access
+business is subject to rapid technological change, frequent new service
+introductions and evolving industry standards.  We believe that our future
+success will depend largely on our ability to anticipate or adapt to these
+changes and to offer, on a timely basis, products that meet evolving
+standards.  We cannot predict the extent to which competitors using existing
+or future methods of delivery of Internet access services will compete with
+our services. We cannot assure you that:
+
+ - existing, proposed or undeveloped technologies will not render our
+   broadband wireless systems less profitable or less viable,
+
+ - we will have the resources to acquire new technologies or to introduce
+   new services that could compete with future technologies, or
+
+ - we will be successful in responding to technological changes in a
+   timely and cost effective manner.
+
+     Additionally, regulatory changes by the U.S. Federal Communications
+Commission or by regulatory agencies outside the United States, including
+changes in the allocation of available frequency spectrum, could
+significantly affect our operations by restricting our development efforts,
+rendering current products obsolete, or increasing the opportunity for
+additional competition.  There can be no assurance that new regulations will
+not be promulgated that could materially and adversely affect our business
+and operating results.
+
+  BECAUSE THE MARKETS IN WHICH WE COMPETE ARE HIGHLY COMPETITIVE AND MANY OF
+  OUR COMPETITORS HAVE GREATER RESOURCES THAN WE HAVE, WE CANNOT BE CERTAIN
+  THAT OUR PRODUCTS WILL CONTINUE TO BE ACCEPTED IN THE MARKETPLACE OR
+  CAPTURE INCREASED MARKET SHARE.
+
+     The market for integrated microwave fixed point reception and
+transmission products is intensely competitive and characterized by rapid
+technological change, evolving standards, short product life cycles, and
+price erosion. We expect competition to intensify as current competitors
+expand their product offerings and new competitors enter the market. Given
+the highly competitive environment in which we operate, we cannot be sure
+that any competitive advantages enjoyed by our products would be sufficient
+to establish and sustain our products in the market. Any increase in price
+or other competition could result in erosion of our market share, to the
+extent we have obtained market share, and would have a negative impact on
+our financial condition and results of operations. We cannot provide
+assurance that we will have the financial resources, technical expertise or
+marketing and support capabilities to continue to compete successfully.
+
+     We face competition from a variety of companies, which generally vary
+in size and in the scope and breadth of products and services offered.  We
+also face competition from customers' or prospective customers' own internal
+development efforts.  Many of the companies that compete, or may compete in
+the future, against us have longer operating histories, greater name
+recognition, larger installed customer bases and significantly greater
+financial, technical and marketing resources.  These competitors may also
+have pre-existing relationships with our customers or potential customers.
+As a result, they may be able to introduce new technologies, respond more
+quickly to changing customer requirements or devote greater resources to the
+development, promotion and sale of their products than we can.  Our
+competitors may successfully integrate the functionality of our reception
+and transmission products into their products and thereby render our
+products obsolete. Further, in the event of a manufacturing capacity
+shortage, these competitors may be able to manufacture products when we are
+unable to do so.
+
+     We believe our principal competitors include or will include REMEC,
+Sharp, Channelmaster, Andrew corp., Signal Technology, IP Wireless and
+NextNet.  In addition, there have been a number of announcements by other
+companies, including smaller emerging companies, that they intend to enter
+the market segments adjacent to or addressed by our products.
+
+  WE MAY NOT BE ABLE TO ADEQUATELY PROTECT OUR INTELLECTUAL PROPERTY, AND
+  OUR COMPETITORS MAY BE ABLE TO OFFER SIMILAR PRODUCTS AND SERVICES THAT
+  WOULD HARM OUR COMPETITIVE POSITION.
+
+     Our success depends, in large part, upon our intellectual property. We
+rely primarily on patents, trademark and trade secret laws, confidentiality
+procedures and contractual provisions to establish and protect our
+intellectual property. These mechanisms provide us with only limited
+protection.  We currently hold 19 patents and have 10 patent applications
+pending.  As part of our confidentiality procedures, we enter into non-
+disclosure agreements with all of our executive officers, managers and
+supervisory employees.  Despite these precautions, third parties could copy
+or otherwise obtain and use our technology without authorization, or develop
+similar technology independently.  Furthermore, effective protection of
+intellectual property rights is unavailable or limited in some foreign
+countries.  Our protection of our intellectual property rights may not
+provide us with any legal remedy should our competitors independently
+develop similar technology, duplicate our products and services, or design
+around any intellectual property rights we hold.
+
+  IF WE ARE UNABLE TO INTEGRATE SUCCESSFULLY INTO OUR COMPANY THE EMPLOYEES,
+  TECHNOLOGIES AND OTHER ASSETS WE RECENTLY ACQUIRED FROM KAUL-TRONICS,
+  INC., WE MAY NOT ACHIEVE THE ANTICIPATED BENEFITS OF THE ACQUISITION.
+
+     We are in the initial stages of integrating the new employees,
+technologies and other assets related to the DBS antenna dish business that
+we acquired from Kaul-Tronics, Inc. and two affiliated companies in April
+2002. Because the new employees and facilities will remain in Wisconsin, and
+our headquarters are in Camarillo, California, we face the additional
+challenge of integrating employees in geographically disparate locations.
+The integration effort will take time and could distract management from
+other aspects of our business. We cannot assure you that we will be
+successful in integrating the acquired business and if we are unable to do
+so, we may incur increased expenses and may not achieve the benefits of the
+acquisition.
+
+  WE MAY ENGAGE IN FUTURE ACQUISITIONS THAT HAVE ADVERSE CONSEQUENCES FOR
+  OUR BUSINESS.
+
+     Recently, we completed the acquisition of the assets and business of
+Kaul-Tronics, Inc., as described above.  As part of our business strategy,
+from time to time, we expect to review opportunities to acquire and may
+acquire other businesses or products that will complement our existing
+product offerings, augment our market coverage or enhance our technological
+capabilities.  Although we have no current agreements or negotiations
+underway with respect to any material acquisitions, we may make acquisitions
+of businesses, products or technologies in the future.  However, we cannot
+be sure that we will be able to locate suitable acquisition opportunities.
+The acquisitions that we have completed, agreed to complete and which we may
+complete in the future could result in the following, any of which could
+seriously harm our results of operations or the price of our stock: (i)
+issuances of equity securities that would dilute the percentage ownership of
+our current stockholders; (ii) large one-time write-offs; (iii) the
+incurrence of debt and contingent liabilities; (iv) difficulties in the
+assimilation and integration of the acquired companies; (v) diversion of
+management's attention from other business concerns; (vi) contractual
+disputes; (vii) risks of entering geographic and business markets in which
+we have no or only limited prior experience; and (viii) potential loss of
+key employees of acquired organizations.
+
+  OUR PRIMARY OPERATIONS ARE LOCATED NEAR KNOWN EARTHQUAKE FAULTS.
+
+    The occurrence of an earthquake or other natural disaster in the
+vicinity of our primary operations located in Camarillo, California could
+cause significant damage to our facility that may require us to cease or
+suspend operations.  Although we currently have insurance for earthquake
+risks, we can provide no assurance that such insurance coverage would be
+adequate in the event of a catastrophic loss, or that earthquake insurance
+will continue to be available, or that if available that earthquake coverage
+will continue to be carried by us in the future.
+
+  WE DEPEND ON OUR SENIOR MANAGEMENT AND OTHER KEY PERSONNEL.  IF WE LOSE
+  ANY OF MEMBERS OF OUR SENIOR MANAGEMENT TEAM, OUR ABILITY TO CARRY OUT OUR
+  LONG-TERM BUSINESS STRATEGY COULD BE ADVERSELY AFFECTED.
+
+     We believe our future success largely depends on the expertise of our
+senior management team.  The loss of one or more members of senior
+management could disrupt our operations or the execution of our business
+strategy.  We do not maintain key person life insurance on any officer or
+manager.
+
+  WE FACE RISKS ASSOCIATED WITH SHAREHOLDER LITIGATION.
+
+     We and certain members of our board of directors have been sued by
+alleged shareholders in two class action lawsuits during the past several
+years.  The most recent litigation was initiated in April 2001 as a result
+of financial misstatements affecting our fiscal 2000 and fiscal 2001
+financial statements caused by the our former controller, which we became
+aware of and disclosed in March 2001.  An out-of-court settlement of this
+class action litigation was reached in December 2001, but this settlement
+agreement has not yet been filed with the court for approval.  We can
+provide no assurance that the court will approve it on the terms and
+conditions which we agreed to with the plaintiffs.  If the court does not
+approve the settlement agreement as currently structured, it could adversely
+affect our financial position, results of operations, cash flows and
+liquidity.
+
+  WE FACE RISKS ASSOCIATED WITH A PENDING SEC INVESTIGATION.
+
+     As a result of the financial misstatements caused by our former
+controller, as discussed above, the Securities and Exchange Commission
+opened an investigation into the matter.  The Company has been and expects
+to continue cooperating with the SEC in connection with its investigation.
+We can provide no assurance that we will be able to avoid the imposition of
+penalties or other sanctions by the SEC as a result of this investigation.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The financial statements and related financial information required to
+be filed hereunder are indexed on page 33 of this report and are
+incorporated herein by reference.
+
+
+ITEM 9.  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+     None.
+
+<page>
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS
+
+     The directors and executive officers of the Company are as follows:
+
+      NAME                          AGE                    POSITION
+--------------------------          ---            -----------------------
+Ira Coron (1)                        73            Chairman of the Board
+                                                    of Directors
+
+Fred M. Sturm                        44            Chief Executive Officer,
+                                                   President and Director
+
+Philip Cox                           62            Vice President, Wireless
+                                                    Access Products
+Robert Hannah                        41            Vice President,
+                                                    Satellite Products
+
+Patrick Hutchins                     39            Vice President, Operations
+
+Kris Kelkar                          38            Senior Vice President,
+                                                    Wireless Access Products
+
+Richard K. Vitelle                   48            Vice President, Finance,
+                                                    Chief Financial Officer
+                                                    and Corporate Secretary
+
+Richard B. Gold (1)                  47            Director
+
+Arthur H. Hausman (1)(2)             78            Director
+
+Frank Perna, Jr. (2)                 64            Director
+
+Thomas L. Ringer (2)                 70            Director
+
+
+(1)  Member of Compensation Committee.
+(2)  Member of Audit Committee.
+
+
+     IRA CORON has been Chairman of the Board for California Amplifier, Inc.
+since March of 1994, and in addition was the Chief Executive Officer until
+1997 and remained an officer of the Company until February 1999. From 1989 to
+1994 he was an independent management consultant to several companies and
+venture capital firms. He retired from TRW, Inc., after serving in numerous
+senior management positions from June 1967 to July 1989 among which was Vice
+President and General Manager of TRW's Electronic Components Group. He also
+served as a member of the Executive Committee of the Wireless Communications
+Association.
+
+     FRED M. STURM was appointed Chief Executive Officer, President and
+Director in August 1997. Prior to joining the Company from 1990 to 1997, Mr.
+Sturm was President of Chloride Power Systems (USA), and Managing Director of
+Chloride Safety, Security, and Power Conversion (UK), both of which are part
+of Chloride Group, PLC (LSE: CHLD). From 1979 to 1990, he held a variety of
+general management positions with M/A-Com and TRW Electronics, which served
+RF and microwave markets.
+
+     PHILIP COX joined the Company in July 1996. In January 1998, in
+conjunction with the reorganization previously mentioned, Mr. Cox was
+appointed Vice President, Wireless Products and most recently Vice President
+Sales, Wireless Access Products. Prior to July 1996, he held various sales
+and marketing positions with Signal Technology and M/A-Com.
+
+     ROBERT HANNAH joined the Company as Vice President of Engineering in
+April 1995. In January 1998, in conjunction with the reorganization
+previously mentioned, Mr. Hannah was appointed Vice President, Satellite
+Products. Prior to April 1995, Mr. Hannah held various positions with Hughes,
+most recently the position of Technical Manager at Hughes Network Systems.
+
+     PATRICK HUTCHINS joined the Company as Vice President, Operations in
+August 2001.  From March 1997 until joining the Company, Mr. Hutchins served
+in general management capacities with several units of Chloride Group PLC and
+Genlyte Thomas LLC, most recently serving as the President and General
+Manager of Chloride Systems, a division of Genlyte Thomas.
+
+     KRIS KELKAR was appointed Senior Vice President of Sales and Marketing
+in April 1995 and Vice President, Marketing in April 1997. In January 1998,
+in conjunction with the reorganization previously mentioned, Mr. Kelkar was
+appointed Vice President, Voice and Data Products, and, most recently, Vice
+President, Wireless Access Products. Prior to April 1995, he held various
+positions with General Instrument Corporation, the most recent Vice President
+of International Marketing for General Instrument's Communications Division.
+
+     RICHARD K. VITELLE joined the Company as Vice President, Finance, Chief
+Financial Officer and Corporate Secretary in July 2001. Prior to joining the
+Company, he served as Vice President of Finance and CFO of SMTEK
+International, Inc., a publicly held electronics manufacturing services
+provider, where he was employed for a total of 11 years.  Earlier in his
+career Mr. Vitelle served as a senior manager with Price Waterhouse.
+
+     RICHARD B. GOLD became a director of California Amplifier, Inc. in
+December 2000. Mr. Gold has been the Chairman, President and Chief Executive
+Officer of Genoa Corporation, a privately-held optical communications
+equipment company, since January 1999. From November 1991 through December
+1998, Mr. Gold held various senior-level executive positions with Pacific
+Monolithics, Inc., a supplier of wireless communications equipment, including
+Vice President -- Engineering, Chief Operating Officer and, from January 1997
+through December 1998, President and Chief Executive Officer. In October
+1998, Pacific Monolithics filed a voluntary petition for reorganization under
+Chapter 11 of the U.S. Bankruptcy Code.  Mr. Gold is a director of Nucentrix
+Broadband Networks, Inc., a publicly held company.
+
+     ARTHUR H. HAUSMAN has been a director of the Company since 1987. Mr.
+Hausman is Chairman Emeritus of the Board of Ampex Corporation. He served as
+Chairman of the Board of Directors and Chief Executive Officer of Ampex,
+having been with Ampex for 27 years until his retirement in 1988. He
+currently serves as a director of Vista Research Corporation, a privately
+held company, and Drexler Technology Corporation, a publicly held company.
+He was appointed by President Reagan to the President's Export Council, to
+the Council's Executive Committee and to the Chairmanship of the Export
+Administration Subordinate Committee of the Council for the period 1985 to
+1989.
+
+     FRANK PERNA, JR. has been a director since May 2000. From 1990 to 1993,
+Mr. Perna was Chief Executive Officer of MagneTek. From 1994 to 1998 Mr.
+Perna was Chairman and Chief Executive Officer of EOS Corporation, and from
+1998 to the present as Chairman and Chief Executive Officer of MSC Software.
+Mr. Perna also serves as Chairman of the Board of Software.com and on the
+Board of Trustees of Kettering University.
+
+     THOMAS L. RINGER has been a director of the Company since August 1996.
+Since 1990, Mr. Ringer has been actively involved as a member of the boards
+of directors for various public and private companies. Mr. Ringer is
+currently Chairman of Wedbush Morgan Securities, Inc., Chairman of Wedbush
+Capital Corporation, Chairman of M.S. Aerospace, Inc., Chairman of Document
+Sciences Corporation, a publicly held company, Chairman of the Center for
+Innovation and Entrepreneurship, Chairman of Camping Business Systems, Inc.,
+and a director of VoiceViewer Technologies, Inc.  Prior to 1990, Mr. Ringer
+served as Chairman, President and Chief Executive Officer of Recognition
+Equipment, Inc., President and Chief Executive Officer of Fujitsu Systems of
+America, Inc., and President and Chief Executive Officer of Computer
+Machinery Corporation.
+
+     The Company has a Compensation Committee which reviews and makes
+recommendations to the Board of Directors with respect to the compensation of
+the Company's executive officers and to administer the Company's Stock Option
+Plans.
+
+     The Company also has an Audit Committee which reviews the scope of audit
+procedures employed by the Company's independent auditors, approves the audit
+fee charged by the independent auditors, and reviews the audit reports
+rendered by the Company's independent auditors. The Audit Committee reports
+to the Board of Directors with respect to such matters and recommends the
+selection of independent auditors.
+
+     Officers are appointed by and serve at the discretion of the Board of
+Directors.
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+     Incorporated by reference from the information under the caption
+"Executive Compensation" in the Company's definitive proxy statement for the
+Annual Meeting of Stockholders to be held on July 18, 2002
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     Incorporated by reference from the information under the caption "Stock
+Ownership" in the Company's definitive proxy statement for the Annual Meeting
+of Stockholders to be held on July 18, 2002.
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Incorporated by reference from the information contained under the
+caption "Certain Relationships and Related Transactions" in the Company's
+definitive proxy statement for the Annual Meeting of Stockholders to be held
+on July 18, 2002.
+
+
+
+                                     PART IV
+
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+(a)  FINANCIAL STATEMENTS. Reference is made to the Index to Consolidated
+     Financial Statements on page 33 of this report.
+
+(b)  FORM 8-K. The Company made no filings on Form 8-K during the three
+     months ended February 28, 2002.
+
+(c)  EXHIBITS. Reference is made to the Index to Exhibits on pages 63-64 of
+     this report.
+
+
+
+<page>
+                                    SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized, on May 31, 2002.
+
+                                       CALIFORNIA AMPLIFIER, INC.
+
+                                       By:  /s/ Fred M. Sturm
+                                           __________________________
+                                           Fred M. Sturm
+                                           Chief Executive Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+      Signature                      Title                      Date
+
+ /s/ Ira Coron             Chairman of the Board of          May 25, 2002
+______________________     Directors                      ___________________
+   Ira Coron
+
+
+ /s/ Richard B. Gold      Director                           May 28, 2002
+______________________                                   ___________________
+   Richard B. Gold
+
+
+ /s/ Arthur H. Hausman    Director                           May 27, 2002
+______________________                                   ___________________
+   Arthur H. Hausman
+
+
+ /s/ Frank Perna, Jr.     Director                           May 23, 2002
+______________________                                   ___________________
+   Frank Perna, Jr.
+
+
+ /s/ Thomas L. Ringer     Director                           May 24, 2002
+______________________                                   ___________________
+   Thomas L. Ringer
+
+
+ /s/ Fred M. Sturm        President, Chief Executive         May 31, 2002
+______________________    Officer and Director           ___________________
+   Fred M. Sturm          (principal executive officer)
+
+
+ /s/ Richard K. Vitelle   VP Finance, Chief Financial        May 31, 2002
+______________________    Officer and Treasurer          ___________________
+   Richard K. Vitelle     (principal accounting officer)
+
+
+<page>
+                           CALIFORNIA AMPLIFIER, INC.
+
+                   INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+REPORTS OF INDEPENDENT AUDITORS                                            34
+
+FINANCIAL STATEMENTS:
+
+Consolidated Balance Sheets                                                36
+
+Consolidated Statements of Operations                                      37
+
+Consolidated Statements of Stockholders' Equity and
+ Comprehensive Income (Loss)                                               38
+
+Consolidated Statements of Cash Flows                                      39
+
+Notes to Consolidated Financial Statements                                 40
+
+
+
+
+
+
+<page>
+
+                         INDEPENDENT AUDITORS' REPORT
+
+
+
+The Board of Directors
+California Amplifier, Inc.:
+We have audited the accompanying consolidated balance sheet of California
+Amplifier, Inc. and subsidiaries as of March 2, 2002 and the related
+consolidated statements of operations, stockholders' equity and
+comprehensive income (loss) and cash flows for the year then ended.  These
+consolidated financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these
+consolidated financial statements based on our audit.
+
+We conducted our audit in accordance with auditing standards generally
+accepted in the United States of America.  Those standards require that we
+plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement.  An audit includes
+examining, on a test basis, evidence supporting the amounts and disclosures
+in the financial statements.  An audit also includes assessing the
+accounting principles used and significant estimates made by management, as
+well as evaluating the overall financial statement presentation.  We believe
+that our audit provides a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of
+California Amplifier, Inc. and subsidiaries as of March 2, 2002 and the
+results of their operations and their cash flows for the year then ended in
+conformity with accounting principles generally accepted in the United
+States of America.
+
+
+
+
+/s/KPMG LLP
+Los Angeles, California
+May 13, 2002
+
+
+
+<page>
+
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+
+To California Amplifier, Inc.:
+
+     We have audited the accompanying consolidated balance sheet of
+California Amplifier, Inc. (a Delaware corporation) and subsidiaries as of
+March 3, 2001, and the related consolidated statements of operations,
+stockholders' equity and comprehensive income (loss), and cash flows for the
+two years in the period ended March 3, 2001.  These financial statements are
+the responsibility of the Company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+     We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining,
+on a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+     In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of California
+Amplifier, Inc. and subsidiaries as of March 3, 2001, and the results of
+their operations and their cash flows for the two years in the period ended
+March 3, 2001 in conformity with accounting principles generally accepted in
+the United States.
+
+
+
+/s/ ARTHUR ANDERSEN LLP
+
+Los Angeles, California
+May 30, 2001
+
+
+
+
+<page>
+                           CALIFORNIA AMPLIFIER, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                        (IN THOUSANDS, EXCEPT PAR VALUE)
+
+                                                           February 28,
+                                                      ---------------------
+                                                        2002         2001
+                                                      --------     --------
+             Assets
+Current assets:
+   Cash and cash equivalents                          $ 23,156     $ 10,009
+   Accounts receivable, less allowance for
+    doubtful accounts of $417 and $467 in 2002
+    and 2001, respectively                               8,219       12,370
+   Inventories, net                                      9,472       10,373
+   Deferred income tax asset, net                        3,580        2,256
+   Prepaid expenses and other current assets             1,312          515
+                                                      --------     --------
+          Total current assets                          45,739       35,523
+                                                      --------     --------
+Equipment and improvements, net of
+   accumulated depreciation and amortization             7,375       10,231
+Goodwill, net of accumulated amortization of
+   $765 and $495 in 2002 and 2001, respectively          3,287        3,557
+Other assets                                               287          501
+                                                      --------     --------
+                                                      $ 56,688     $ 49,812
+                                                      ========     ========
+    Liabilities and Stockholders' Equity
+Current liabilities:
+   Current portion of long-term debt                  $    917     $    644
+   Accounts payable                                      5,713        5,677
+   Accrued payroll and employee benefits                 1,870        1,594
+   Other accrued liabilities                             6,980        7,117
+                                                      --------     --------
+          Total current liabilities                     15,480       15,032
+                                                      --------     --------
+Long-term debt, less current portion                     3,628        4,500
+                                                      --------     --------
+Minority interest in Micro Pulse, Inc.                     -            656
+                                                      --------     --------
+Commitments and contingencies
+Stockholders' equity:
+   Preferred stock, $.01 par value; 3,000 shares
+    authorized; no shares issued or outstanding            -            -
+   Common Stock, $.01 par value; 30,000 shares
+    authorized; 13,630 and 13,601 shares issued
+    and outstanding in 2002 and 2001, respectively         136          136
+   Additional paid-in capital                           27,569       23,975
+   Retained earnings                                    10,676        6,212
+   Accumulated other comprehensive loss                   (801)        (699)
+                                                      --------     --------
+          Total stockholders' equity                    37,580       29,624
+                                                      --------     --------
+                                                      $ 56,688     $ 49,812
+                                                      ========     ========
+
+            See accompanying notes to consolidated financial statements.
+
+<page>
+                           CALIFORNIA AMPLIFIER, INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+
+                                                 Year ended February 28,
+                                             -----------------------------
+                                               2002       2001       2000
+                                             --------   --------   -------
+Sales                                       $100,715    $117,129    $79,429
+Cost of goods sold                            77,834      93,776     64,296
+                                            --------    --------    -------
+Gross profit                                  22,881      23,353     15,133
+                                            --------    --------    -------
+Operating expenses:
+  Research and development                     7,583       6,120      4,685
+  Selling                                      2,299       3,255      4,254
+  General and administrative                   7,740       5,869      4,850
+                                            --------    --------    -------
+Total operating expenses                      17,622      15,244     13,789
+                                            --------    --------    -------
+
+Operating income                               5,259       8,109      1,344
+                                            --------    --------    -------
+Non-operating income (expense):
+   Settlement of litigation                   (1,125)        -       (9,500)
+   Other income (expense), net                    47        (359)        60
+                                            --------    --------     -------
+Total non-operating expense                   (1,078)       (359)    (9,560)
+                                            --------    --------     -------
+Income (loss) from continuing
+  operations before income taxes               4,181       7,750     (8,216)
+
+Income tax (provision) benefit                (1,307)     (2,810)     2,950
+                                            --------    --------    -------
+Income (loss) from continuing operations       2,874       4,940     (5,266)
+
+Income (loss) from discontinued operations,
+  net of tax                                     (25)        269        202
+Gain on sale of discontinued operations,
+  net of tax                                   1,615         -          -
+                                            --------    --------    -------
+Net income (loss)                           $  4,464    $  5,209    $(5,064)
+                                            ========    ========    =======
+
+Basic earnings (loss) per share:
+  Income (loss) from continuing operations  $   0.21    $   0.37    $ (0.44)
+  Income from discontinued operations            -          0.02       0.02
+  Gain on sale of discontinued operations       0.12         -          -
+                                            --------    --------    -------
+    Net income (loss)                       $   0.33    $   0.39    $ (0.42)
+                                            ========    ========    =======
+
+Diluted earnings (loss) per share:
+  Income (loss) from continuing operations  $   0.21    $   0.35    $ (0.44)
+  Income from discontinued operations            -          0.02       0.02
+  Gain on sale of discontinued operations       0.11         -          -
+                                            --------    --------    -------
+    Net income (loss)                       $   0.32    $   0.37    $ (0.42)
+                                            ========    ========    =======
+
+Shares used in computing basic and
+  diluted earnings (loss) per share:
+    Basic                                     13,727      13,507     12,072
+                                            ========    ========    =======
+    Diluted                                   13,979      14,217     12,072
+                                            ========    ========    =======
+
+        See accompanying notes to consolidated financial statements.
+
+<page>
+                           CALIFORNIA AMPLIFIER, INC.
+                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                         AND COMPREHENSIVE INCOME (LOSS)
+                                 (IN THOUSANDS)
+                                                             Accum-
+                                                             ulated
+                                                             Other
+                                                             Compre-
+                      Common Stock     Additional            hensive
+                     --------------     Paid-in   Retained   Income
+                     Shares    Amount   Capital   Earnings   (Loss)   Total
+                     ------    ------    ------    ------    ------   ------
+Balances at
+ February 28, 1999    11,785   $  118    $14,050   $ 6,067  $ (170)  $20,065
+Exercise of stock
+ options                 873        9      3,327       -        -      3,336
+Net loss                  -        -          -     (5,064)     -     (5,064)
+Foreign currency
+ translation
+ adjustment               -        -          -        -       (56)      (56)
+                                                                      ------
+Comprehensive loss                                                    (5,120)
+                      ------   ------    -------   -------  ------    ------
+Balances at
+ February 28, 2000    12,658      127     17,377     1,003    (226)   18,281
+Exercise of stock
+ options                 353        3      2,207       -        -      2,210
+Issuances of
+ common stock            590        6      4,391       -        -      4,397
+Net income                -        -          -      5,209      -      5,209
+Foreign currency
+ translation
+ adjustment               -        -          -        -      (473)     (473)
+                                                                      ------
+Comprehensive income                                                   4,736
+                      ------   ------    -------   -------  ------    ------
+Balances at
+ February 28, 2001    13,601      136     23,975     6,212    (699)   29,624
+Exercise of stock
+ options                  29       -          69       -        -         69
+Tax benefits from
+ exercise of non-
+ qualified stock
+ options                  -        -       3,525       -        -      3,525
+Net income                -        -          -      4,464      -      4,464
+Foreign currency
+ translation
+ adjustment               -        -          -        -      (102)     (102)
+                                                                      ------
+Comprehensive income                                                   4,362
+                      ------   ------    -------   -------  ------    ------
+Balances at
+ February 28, 2002    13,630   $  136    $27,569   $10,676   $(801)  $37,580
+                      ======   ======    =======   =======   =====    ======
+
+            See accompanying notes to consolidated financial statements.
+
+<page>
+                           CALIFORNIA AMPLIFIER, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+                                                   Year ended February 28,
+                                               ------------------------------
+                                                 2002       2001       2000
+                                               --------   --------    -------
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income (loss)                               $ 4,464    $ 5,209   $(5,064)
+Adjustments to reconcile net income (loss)
+ to net cash provided by operating activities:
+  Provision for doubtful accounts                   991        144        37
+  Depreciation and amortization                   4,317      4,250     2,990
+  Non-cash litigation charge                        700        -       9,500
+  (Gain) loss on sale and disposal of
+    equipment and improvements                       58        (41)        3
+  Increase in equity associated with tax
+   benefit from exercise of stock options         3,525        -         -
+  Deferred tax assets, net                       (2,233)     2,608    (4,252)
+  Minority interest in net income (loss)
+    of Micro Pulse, Inc., net of tax                (24)       314       228
+  Gain on sale of discontinued operation         (1,615)       -         -
+  Changes in operating assets and liabilities:
+    Accounts receivable                           2,269      3,524   (11,252)
+    Inventories                                     283      2,520    (6,267)
+    Prepaid expenses and other assets              (880)       184       263
+    Accounts payable                                424     (8,981)   10,014
+    Accrued liabilities                              34     (2,222)    4,615
+                                               --------   --------  --------
+NET CASH PROVIDED BY OPERATING ACTIVITIES        12,313      7,509       815
+                                               --------   --------  --------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of equipment and improvements          (1,534)    (4,337)   (5,357)
+Proceeds from sale of equipment                      44         51         7
+Net proceeds from sale of discontinued
+ operations                                       2,956        -         -
+Acquisition of net assets from Gardiner             -          -      (6,170)
+                                               --------   --------  --------
+NET CASH PROVIDED BY (USED IN) INVESTING
+ ACTIVITIES                                       1,466     (4,286)  (11,520)
+                                               --------   --------  --------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from long-term debt                        -        5,000     1,500
+Debt repayments                                    (599)    (2,742)     (596)
+Proceeds from exercise of stock options              69      2,210     3,336
+                                               --------   --------  --------
+NET CASH PROVIDED BY (USED IN) FINANCING
+ ACTIVITIES                                        (530)     4,468     4,240
+                                               --------   --------  --------
+EFFECT OF FOREIGN EXCHANGE RATES                   (102)      (473)      (56)
+                                               --------   --------  --------
+Net change in cash and cash equivalents          13,147      7,218    (6,521)
+Cash and cash equivalents at beginning of year   10,009      2,791     9,312
+                                               --------   --------  --------
+Cash and cash equivalents at end of year        $23,156    $10,009   $ 2,791
+                                               ========   ========  ========
+
+            See accompanying notes to consolidated financial statements.
+
+<page>
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+NOTE 1 - DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING
+         POLICIES
+
+Description of Business
+
+     California Amplifier, Inc. (the "Company") designs, manufactures and
+markets microwave equipment used in the reception of video transmitted from
+satellites and wireless terrestrial transmission sites, and two-way wireless
+transceivers used for fixed point wireless voice (telephony) and broadband
+data (Internet) applications.  The Company's Satellite business unit designs
+and markets reception components for the worldwide direct broadcast
+satellite (DBS) television market as well as a full line of consumer and
+commercial products for video and data reception.  The Wireless Access
+business unit  designs and markets integrated reception and two-way
+transmission fixed wireless equipment for video, voice, data, telephony and
+networking applications.
+
+     As described further in Note 2, in July 2001 the Company sold its 51%
+interest in Micro Pulse.  Micro Pulse designs, manufactures and markets
+antennas and amplifiers used principally in GPS applications.  Accordingly,
+the results of operations of Micro Pulse, which represented a separate
+business segment of the Company, have been presented as a discontinued
+operation for all periods presented in the accompanying consolidated
+statements of operations.
+
+Principles of Consolidation
+
+     The consolidated financial statements include the accounts of the
+Company (a Delaware corporation) and its wholly-owned subsidiaries,
+California Amplifier SARL, the Company's subsidiary in France, and Cal Amp
+Limited, the Company's Hong Kong subsidiary.  All significant intercompany
+transactions have been eliminated in consolidation.
+
+Fiscal Year
+
+     The Company uses a 52-53 week fiscal year ending on the Saturday
+closest to February 28, which for fiscal years 2002, 2001 and 2000 fell on
+March 2, 2002, March 3, 2001 and February 26, 2000, respectively.  In these
+consolidated financial statements, the fiscal year end for all years,
+including leap years, is shown as February 28 for clarity of presentation.
+Fiscal year 2001 consisted of 53 weeks, compared to 52 weeks for the fiscal
+years 2002 and 2000.
+
+Revenue Recognition
+
+     The Company recognizes revenue when persuasive evidence of an
+arrangement exists, delivery has occurred, the sales price is fixed and
+determinable and collection is probable. Generally, these criteria are met
+at the time product is shipped.  Customers do not have rights of return
+except for defective products returned during the warranty period.
+
+     In fiscal 2001, the Company adopted Emerging Issues Task Force (EITF)
+Issue No. 00-10, Accounting for Shipping and Handling Fees and Costs. In
+accordance with the requirements of this pronouncement, the Company includes
+shipping and handling fees billed to customers as sales.  Shipping and
+handling fees included in sales for fiscal years 2002, 2001 and 2000 were
+$224,000, $446,000 and $567,000, respectively.
+
+Cash and Cash Equivalents
+
+     The Company considers all highly liquid investments with an original
+maturity of less than three months to be cash equivalents.
+
+Concentrations of Risk
+
+     Financial instruments that potentially subject the Company to
+concentrations of credit risk consist principally of money market
+instruments and trade receivables.
+
+     The Company currently invests its excess cash in money market mutual
+funds managed by or affiliated with its U.S. commercial bank.  The Company
+had cash and cash equivalents in one U.S. bank in excess of federally
+insured amounts.  Cash and cash equivalents in U.S. and foreign banks is as
+follows (in thousands):
+                                    February 28,
+                                --------------------
+                                 2002          2001
+                                ------        ------
+U.S. banks                     $22,582       $ 8,983
+Foreign banks                      574         1,026
+                               -------       -------
+                               $23,156       $10,009
+                               =======       =======
+
+     Because the Company sells into markets dominated by a few large service
+providers, a significant percentage of consolidated sales and consolidated
+accounts receivable relate to a small number of customers.  Sales to
+significant customers as a percent of consolidated sales are as follows:
+
+                              Year ended February 28,
+                           ------------------------------
+             Customer       2002        2001        2000
+             --------      ------      ------      ------
+                A           30.6%       23.9%       20.9%
+                B           25.8%       22.0%       10.7%
+                C           13.5%       10.0%         *
+                D           11.7%         *           *
+                E             *           *         18.8%
+
+     Accounts receivable from significant customers as a percent of
+consolidated net accounts receivable are as follows:
+
+                                    February 28,
+                                --------------------
+                                 2002          2001
+                                ------        ------
+                A                30.0%         17.9%
+                B                39.6%           *
+                C                  *           20.6%
+                D                  *           19.2%
+
+     Customers A, B, D and E are Satellite customers, while C is a Wireless
+Access customer.
+
+* Customer represents less than 10% of consolidated sales or year-end
+  accounts receivable, as applicable, for period indicated.
+
+Allowance for Doubtful Accounts
+
+     During the second quarter of fiscal 2002, the Company provided a
+reserve of $1,162,000 for a receivable balance due from a customer of the
+Wireless Access business unit.  In the fourth quarter of fiscal 2002, the
+Company received approximately 1% of the customer's common stock in full
+settlement of this receivable balance.  The Company recorded a reduction of
+bad debts expense of $345,000 in the fiscal 2002 fourth quarter as a result
+of receiving this common stock.  The value assigned to the common stock was
+equal to the quoted price of the shares on the Canadian stock exchange on
+which the stock is traded.  This available-for-sale investment valued at
+$345,000 is included in prepaid expenses and other current assets in the
+accompanying balance sheet at February 28, 2002.
+
+Inventories
+
+     Inventories include costs of materials, labor and manufacturing
+overhead. Inventories are stated at the lower of cost or net realizable
+value, with cost determined principally by the use of the first-in, first-
+out method.
+
+Investments
+
+     The Company classifies investments in one of three categories: trading,
+available-for-sale or held-to-maturity. Trading securities are bought and
+held principally for the purpose of selling them in the near term. Held-to-
+maturity securities are those securities that the Company has the ability
+and intent to hold until maturity. All other securities not included in
+trading or held-to-maturity are classified as available-for-sale.
+
+     Held-to-maturity securities are recorded at amortized cost, adjusted
+for the amortization or accretion of premiums or discounts. Unrealized
+holding gains and losses on trading securities are included in earnings.
+Unrealized holding gains and losses, net of the related tax effect, on
+available-for-sale securities are excluded from earnings and are reported as
+a component of accumulated other comprehensive income until realized.
+
+     At February 28, 2002, the Company had no trading or held-to-maturity
+investments.  Its available-for-sale investment had a carrying value of
+$345,000 at February 28, 2002 (see "Allowance for Doubtful Accounts" above).
+
+Equipment and improvements
+
+     Equipment and improvements are stated at cost.  The Company follows the
+policy of capitalizing expenditures which increase asset lives, and charging
+ordinary maintenance and repairs to operations, as incurred. When assets are
+sold or disposed of, the cost and related accumulated depreciation are
+removed from the accounts and any resulting gain or loss is included in
+income (loss) from operations.
+
+     Depreciation and amortization are based upon the estimated useful lives
+of the related assets using the straight-line method. Useful lives range
+from two to five years, and in the case of leasehold improvements over the
+shorter of the lease term or the useful life of the improvements.
+
+Goodwill
+
+     Goodwill represents the excess of purchase price and related costs over
+the value assigned to the net tangible assets and identifiable intangible
+assets of businesses acquired. Through the end of fiscal 2002, goodwill was
+amortized on a straight-line basis over 15 years. As a result of adopting
+Statement of Financial Accounting Standards No. 142, "Accounting for
+Goodwill and Intangible Assets" effective March 3, 2002, beginning in fiscal
+year 2003 goodwill will no longer be amortized.  Instead, goodwill will be
+evaluated periodically for impairment pursuant to the provisions of this new
+pronouncement, as described in more detail under "New Authoritative
+Pronouncements" below.
+
+Accounting for Long-Lived Assets
+
+     The Company reviews property and equipment and other long-lived assets
+for impairment whenever events or changes in circumstances indicate that the
+carrying amounts of an asset may not be recoverable. Recoverability is
+measured by comparison of carrying amount to the undiscounted future net
+cash flows an asset is expected to generate. If an asset is considered to be
+impaired, the impairment to be recognized is measured by the amount at which
+the carrying amount of the assets exceeds the projected discounted future
+cash flows arising from the asset.
+
+Disclosures About Fair Value of Financial Instruments
+
+     The following methods and assumptions were used to estimate the fair
+value of each class of financial instrument for which it is practicable to
+estimate:
+
+    Cash and cash equivalents, accounts receivable and accounts payable -
+The carrying amount is a reasonable estimate of fair value given the short
+maturity of these instruments.
+
+    Long-term debt - The carrying value approximates fair value since the
+interest rate on the long-term debt approximates the interest rate which is
+currently available to the Company for the issuance of debt with similar
+terms and maturities.
+
+Warranty
+
+     The Company warrants its products against defects over periods ranging
+from 3 to 24 months. An accrual for estimated future costs relating to
+products returned under warranty is recorded as an expense when products are
+shipped.
+
+Foreign Currency Translation and Comprehensive Income (Loss)
+
+     Historically, the Company's French subsidiary used the local currency as
+its functional currency.  The local currency was the French franc until
+January 1, 2002 and the Euro beginning on that date. The financial statements
+of the French subsidiary were translated into U.S. dollars using current or
+historical exchange rates, as appropriate, with translation gains or losses
+included in the accumulated other comprehensive income (loss) account in the
+stockholders' equity section of the consolidated balance sheet.
+
+     In connection with the conversion of the French subsidiary's local
+currency from the franc to the Euro, the Company evaluated which currency,
+the Euro or the U.S. dollar, is best suited to be used as the functional
+currency.  On the basis of this evaluation, management determined that the
+functional currency should be changed from the Euro to the U.S. dollar, and
+this change was made effective February 1, 2002.  As a result of this
+change, the foreign currency translation account debit balance of $801,000
+included in accumulated other comprehensive income (loss) will remain
+unchanged until such time as the French subsidiary ceases to be part of the
+Company's consolidated financial statements.
+
+     The functional currency of the Company's Hong Kong subsidiary is the
+U.S. dollar.
+
+Earnings (Loss) Per Share
+
+     Basic earnings per share is computed by dividing net income available
+to common stockholders by the weighted average number of common shares
+outstanding during the period.  Diluted earnings per share reflects the
+potential dilution, using the treasury stock method, that could occur if
+securities or other contracts to issue Common Stock were exercised or
+converted into Common Stock or resulted in the issuance of Common Stock that
+then shared in the earnings of the Company.
+
+Accounting for Stock Options
+
+     As allowed by Statement of Financial Accounting Standards (SFAS) No.
+123, the Company has elected to continue to measure compensation cost under
+Accounting Principles Board Opinion No. 25, "Accounting for Stock Issued to
+Employees" (APB No. 25) and comply with the pro forma disclosure
+requirements of SFAS 123 (see Note 8).
+
+New Authoritative Pronouncements
+
+     In July 2001, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 141, "Accounting for Business
+Combinations" ("SFAS 141"). SFAS 141 establishes accounting and reporting
+standards for business combinations initiated after June 30, 2001. It
+requires that all business combinations use the Purchase Method of
+Accounting. Goodwill will continue to be initially recognized as an asset in
+the financial statements and goodwill will be measured as the excess of the
+cost of an acquired entity over the net amounts assigned to assets acquired
+and liabilities assumed. An intangible asset acquired in a business
+combination is recognized as an asset apart from goodwill if that asset
+arises from contractual or other legal rights. The provisions of SFAS 141 are
+required to be applied starting with fiscal years beginning after December
+15, 2001. The Company adopted SFAS 141 on March 3, 2002 (i.e., the first day
+of fiscal 2003). The adoption of SFAS 141 will not have a material effect on
+the Company's results of operations, financial position or liquidity.
+
+     In July 2001, the FASB also issued Statement of Financial Accounting
+Standards No. 142, "Accounting for Goodwill and Intangible Assets" ("SFAS
+142"). Under SFAS 142, goodwill is no longer amortized but rather is tested
+for impairment at least annually at the reporting unit level.  A recognized
+intangible asset is amortized over its useful life and reviewed for
+impairment in accordance with Statement of Financial Accounting Standards No.
+121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to be Disposed Of" ("SFAS 121") or, upon its adoption, SFAS 144 (see
+below).  A recognized intangible asset with an indefinite useful life is not
+amortized until its life is determined to be finite.  The provisions of SFAS
+142 are required to be applied starting with fiscal years beginning after
+December 15, 2001.  The Company adopted SFAS 142 on March 3, 2002.  As a
+result of adopting SFAS 142, beginning in fiscal 2003 the Company will no
+longer record amortization on goodwill of $270,000 per year.  The Company has
+not yet made a determination of how much, if any, of the Company's existing
+goodwill is impaired under SFAS No. 142 or what charges would have to be
+recorded upon the Company's adoption of SFAS No. 142.  However, management
+believes that the initial effects of adopting SFAS 142 will not be material
+to the Company's consolidated financial statements.
+
+     In August 2001, the FASB issued Statement of Financial Accounting
+Standards No. 143, "Accounting for Asset Retirement Obligations" ("SFAS
+143").  SFAS 143 addresses financial accounting and reporting for obligations
+associated with the retirement of tangible long-lived assets and the
+associated asset retirement costs and applies to all entities.  It applies to
+legal obligations associated with the retirement of long-lived assets that
+result from the acquisition, construction, development and (or) the normal
+operation of a long-lived asset, except for certain obligations of lessees.
+SFAS 143 requires that the fair value of a liability for an asset retirement
+obligation be recognized in the period in which it is incurred if a
+reasonable estimate of fair value can be made.  The associated asset
+retirement costs are capitalized as part of the carrying amount of the long-
+lived asset.  SFAS 143 is effective for financial statements issued for
+fiscal years beginning after June 15, 2002. The Company plans on adopting
+SFAS 143 in March 2003.  The Company believes that the adoption of SFAS 143
+will not have a material effect on the Company's results of operations,
+financial position or liquidity.
+
+     In August 2001, the FASB also issued Statement of Financial Accounting
+Standards No. 144, "Accounting for the Impairment or Disposal of Long-Lived
+Assets" ("SFAS 144"). SFAS 144 addresses financial accounting and reporting
+for the impairment or disposal of long-lived assets. SFAS 144 establishes a
+single accounting model, based on the framework established in SFAS 121, for
+long-lived assets to be disposed of by sale. SFAS 121 did not address the
+accounting for a segment of a business accounted for as a discontinued
+operation under APB Opinion No. 30, "Reporting the Results of Operations-
+Reporting the Effects of Disposal of a Segment of a Business, and
+Extraordinary, Unusual and Infrequently Occurring Events and Transactions"
+("APB 30") so two accounting models existed for the disposal of long-lived
+assets. SFAS 144 replaces both SFAS 121 and APB 30, so that only one
+accounting model exists for the disposal of long-lived assets. SFAS 144 also
+resolves implementation issues related to SFAS 121. The provisions of SFAS
+144 are effective for financial statements issued for fiscal years beginning
+after December 15, 2001. The provisions of SFAS 144 are to be applied
+prospectively. The Company adopted SFAS 144 on March 3, 2002. The Company
+believes that the adoption of SFAS 144 will not have a material effect on the
+Company's results of operations, financial position or liquidity.
+
+Use of Estimates
+
+     The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States requires management to
+make estimates and assumptions that affect the reported amounts of assets
+and liabilities and disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from those
+estimates.  Areas where significant judgments are made include, but are not
+limited to: allowance for doubtful accounts, inventory valuation, product
+warranties and deferred income tax asset valuation allowances. Actual
+results could differ materially from these estimates.
+
+Reclassifications
+
+     Certain prior year amounts have been reclassified to conform to the
+current year presentation.
+
+NOTE 2 - DISCONTINUED OPERATIONS
+
+     On July 31, 2001, the Company sold its 51% ownership interest in Micro
+Pulse.  After giving consideration to disposition costs and cash of $275,000
+which remained with the divested operation, the net cash proceeds of this
+transaction amounted to $2,956,000.  The sale generated an after-tax gain of
+$1,615,000.
+
+     Micro Pulse was the sole operating unit comprising the Company's
+Antenna segment.  Accordingly, operating results for Micro Pulse have been
+presented in the accompanying consolidated statements of operations as a
+discontinued operation, and are summarized as follows (in thousands):
+
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2002         2001         2000
+                                      ------       ------       ------
+Sales                                $ 2,556      $ 7,850      $ 6,988
+                                     =======      =======      =======
+Operating income (loss)              $  (105)     $   766      $   681
+                                     =======      =======      =======
+Income (loss) from discontinued
+ operations, net of tax              $   (25)     $   269      $   202
+                                     =======      =======      =======
+
+     The net assets of Micro Pulse, and the Company's basis in its
+investment in Micro Pulse, consisted of the following on July 31, 2001, the
+date of sale (in thousands):
+
+  Current assets                                 $ 1,845
+  Property, equipment and improvements, net          269
+  Other assets                                       142
+  Current liabilities                               (983)
+                                                 -------
+  Net assets of Micro Pulse                        1,273
+  Less: Minority interest in Micro Pulse            (566)
+                                                 -------
+  Basis in Micro Pulse investment                $   707
+                                                 =======
+
+     The net assets of Micro Pulse at February 28, 2001, which are included
+in the accompanying consolidated balance sheet at that date, amounted to
+$1,325,000.
+
+     The gain on sale of the Company's 51% interest Micro Pulse, shown in
+the accompanying consolidated statements of operations as "Gain on sale of
+discontinued operation, net of tax", is comprised as follows (in thousands):
+
+  Gross sales proceeds                           $ 3,408
+  Less disposal costs                               (177)
+                                                 -------
+  Net sales proceeds                               3,231
+  Less: Basis in Micro Pulse investment             (707)
+                                                 -------
+  Pre-tax gain on sale                             2,524
+  Income tax provision                              (909)
+                                                 -------
+  Gain on sale of discontinued
+   operations, net of tax                        $ 1,615
+                                                 =======
+
+
+NOTE 3 - ACQUISITION
+
+     On April 19, 1999, the Company acquired the technology and product
+rights to substantially all of Gardiner Communications Corp.'s (Gardiner)
+products, inventory, and manufacturing and development related equipment.
+The total purchase price, including assumption of certain liabilities and
+certain costs incurred in connection with the acquisition was approximately
+$9.3 million. The Company paid $6.2 million in cash, and Gardiner received a
+$3.1 million, 8% one year convertible promissory note due April 19, 2000. In
+April 2000, a portion of the debt was converted into 525,000 shares of the
+Company's common stock at $4.25 per share, which approximated the market
+value at the date of the acquisition, and the remaining balance was paid in
+cash. As part of the purchase, the Company recorded Goodwill of $4.1 million
+which was being amortized over 15 years.
+
+
+NOTE 4 - INVENTORIES
+
+     Inventories consist of the following (in thousands):
+
+                                            February 28,
+                                      -----------------------
+                                       2002             2001
+                                      ------           ------
+Raw materials                         $ 6,163         $ 7,174
+Work in process                           -               251
+Finished goods                          3,309           2,948
+                                      -------         -------
+                                      $ 9,472         $10,373
+                                      =======         =======
+
+
+
+
+NOTE 5 - EQUIPMENT AND IMPROVEMENTS
+
+     Equipment and improvements consist of the following (in thousands):
+
+                                            February 28,
+                                      -----------------------
+                                       2002             2001
+                                      ------           ------
+Plant equipment                       $19,792         $19,790
+Office equipment, computers
+ and furniture                          4,231           4,564
+Tooling                                 1,694           3,844
+Leasehold improvements                  1,283           1,401
+                                      -------         -------
+                                       27,000          29,599
+Less accumulated depreciation
+ and amortization                     (19,625)        (19,368)
+                                      -------         -------
+                                      $ 7,375         $10,231
+                                      =======         =======
+
+
+NOTE 6 - FINANCING ARRANGEMENTS AND CONTRACTUAL CASH OBLIGATIONS
+
+Short-term Borrowings and Credit Facilities
+
+     At February 28, 2002, the Company had a $8 million working capital
+revolving line of credit with  a commercial bank.  Borrowings under this
+line of credit bear interest at LIBOR plus 2.2% or the bank's prime rate
+(4.75% at February 28, 2002), and are secured by substantially all of the
+Company's assets.  At February 28, 2002 and 2001, no amounts were
+outstanding under this credit facility.  At February 28, 2002, $1 million of
+the line of credit amount was reserved for an irrevocable stand-by letter of
+credit issued in February 2002 for the benefit of a foreign supplier. The
+credit facility contains certain financial covenants and ratios that the
+Company is required to maintain, including a fixed charge coverage ratio of
+not less than 1.25 to 1.0, a current ratio of not less than 2.0 to 1.0, a
+leverage ratio of not more than 2.25 to 1.0, tangible net worth of at least
+$19,050,000 (such minimum amount increasing by $1 million annually beginning
+on March 1, 2003), cash and cash equivalents not less than $8 million, and
+net income of at least $1.00 in each fiscal year.  At February 28, 2002, the
+Company was in compliance with all such covenants.  On April 3, 2002, the
+working capital line of credit was increased from $8 million to $13 million,
+and on May 2, 2002 the maturity date of this line was extended to from
+August 2, 2002 to August 3, 2005.
+
+     In April 1999, in conjunction with the Gardiner acquisition (see Note
+3), the Company issued a $3.1 million one-year convertible promissory note
+bearing interest at 8% due on April 19, 2000. In April 2000, $2,231,250 of
+the note principal was converted into 525,000 shares of common stock at
+$4.25 per share and the remaining balance was paid in cash.
+
+
+
+Long-term Debt
+
+     Long-term debt consists of the following (in thousands):
+
+                                            February 28,
+                                      -----------------------
+                                       2002             2001
+                                      ------           ------
+Bank term loan payable, interest
+ at LIBOR plus 2.2%, principal
+ due in sixty monthly payments
+ beginning September 2001             $ 4,545         $ 5,000
+
+Note payable to bank, secured
+ by equipment, bearing interest at
+ LIBOR plus 2.55% (7.80% at February
+ 28, 2001) payable monthly through
+ January 2002                            -                144
+                                      -------         -------
+                                        4,545           5,144
+Less portion due within one year         (917)           (644)
+                                      -------         -------
+                                      $ 3,628         $ 4,500
+                                      =======         =======
+
+     The effective rate on the bank term loan was 4.03% and 7.45% at
+February 28, 2002 and 2001, respectively.  On April 2, 2002, the rate on
+this term loan was fixed for two years at 4.75%.  Thereafter, the interest
+rate will revert to a variable rate of prime plus 0% or LIBOR plus 2.0%.
+
+Contractual Cash Obligations
+
+     Following is a summary of the Company's contractual cash obligations as
+of February 28, 2002 (in thousands):
+
+                          Future Cash Payments Due by Fiscal Year
+  Contractual        -----------------------------------------------
+  Obligations         2003    2004    2005    2006    2007     Total
+---------------      ------  ------  ------  ------  ------    -----
+
+Debt                $  917  $  967  $1,027  $1,092  $  542   $4,545
+
+Operating leases       761     756      42      28     -      1,587
+                    ------  ------  ------  ------  ------   ------
+Total contractual
+ cash obligations   $1,678  $1,723  $1,069  $1,120  $  542   $6,132
+                    ======  ======  ======  ======  ======   ======
+
+
+     Rent expense under operating leases was $1,062,000, $842,000 and
+$732,000 for fiscal years 2002, 2001 and 2000, respectively.
+
+
+
+
+NOTE 7 - INCOME TAXES
+
+     The Company's income (loss) from continuing operations before income
+taxes consists of the following (in thousands):
+
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2002         2001         2000
+                                      ------       ------       ------
+
+        Domestic                     $ 3,930      $ 6,550      $(8,617)
+        Foreign                          251        1,200          401
+                                     -------      -------      -------
+                                     $ 4,181      $ 7,750      $(8,216)
+                                     =======      =======      =======
+
+
+     The income tax (provision) benefit consists of the following (in
+thousands):
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2002         2001         2000
+                                      ------       ------       ------
+Current:
+  Federal                            $    -       $    -       $  (419)
+  State                                   (6)         (14)         (83)
+  Foreign                                 (9)        (290)        (161)
+                                      ------       ------       ------
+  Total current                          (15)        (304)        (663)
+                                      ------       ------       ------
+Deferred:
+  Federal                             (1,899)      (2,251)       3,050
+  State                                  607         (294)         563
+  Foreign                                 -            39           -
+                                     -------      -------      -------
+  Total deferred                      (1,292)      (2,506)       3,613
+                                     -------      -------      -------
+                                     $(1,307)     $(2,810)     $ 2,950
+                                     =======      =======      =======
+
+
+     Differences between the income tax (provision) benefit and income taxes
+computed using the statutory federal income tax rate are as follows (in
+thousands):
+
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2002         2001         2000
+                                      ------       ------       ------
+Income tax at statutory federal
+ rate (34%)                         $ (1,421)     $(2,635)     $ 2,793
+State income taxes, net of
+ federal income tax effect               194         (201)         150
+Foreign taxes                            (38)          -          (161)
+Valuation allowance                     (230)        (157)          -
+Research and development credit          154           -            -
+Extraterritorial income exclusion        102           -            -
+Other, net                               (68)         183          168
+                                     -------      -------      -------
+                                     $(1,307)     $(2,810)     $ 2,950
+                                     =======      =======      =======
+
+
+     The components of the net deferred income tax asset for fiscal years
+2002 and 2001 are as follows (in thousands):
+
+                                            February 28,
+                                       ----------------------
+                                        2002            2001
+                                       ------          ------
+Depreciation                          $   185         $   204
+Capitalized R&D cost amortization         503             337
+Warranties                                146             129
+Compensation accrual                      240             304
+Inventory reserve                         749             357
+Allowance for doubtful accounts           136             145
+Litigation settlement accrual             389           1,063
+Net operating loss carryforward         6,609           8,692
+Research and development credits        2,093           2,284
+Other tax credits                       1,118             966
+Other, net                                136             283
+                                      -------         -------
+                                       12,304          14,764
+Valuation allowance                    (8,724)        (12,508)
+                                      -------         -------
+                                      $ 3,580         $ 2,256
+                                      =======         =======
+
+
+     The Company establishes a valuation allowance in accordance with the
+provisions of SFAS No. 109, "Accounting for Income Taxes." The Company
+continually reviews the adequacy of the valuation allowance and recognizes
+the benefits from its deferred tax assets only when an analysis of both
+positive and negative factors indicate that it is more likely than not that
+the benefits will be realized. Based on the Company's analysis of its
+operating performance and the estimated realizability of its deferred tax
+assets, the Company has recorded valuation allowances of $8,724,000 and
+$12,508,000 at February 28, 2002 and 2001, respectively.  Approximately $5.6
+million of the valuation allowance at February 28, 2002 is related to tax
+assets generated upon the exercise of non-qualified stock options. As such,
+any future benefit from the recognition of this deferred tax asset will be
+an adjustment to the valuation allowance and additional paid-in capital.
+
+     At February 28, 2002, the Company has net operating loss carryforwards
+of approximately $19.0 million and $3.9 million for federal and state
+purposes expiring at various dates through 2022 and 2007, respectively.
+
+     As of February 28, 2002 and 2001, the Company had foreign tax credit
+carryforwards of $113,000 and $87,000, respectively, expiring at various
+dates through 2006, research and development tax credit carryforwards for
+federal and state income tax purposes of $1,423,000 and $1,015,000,
+respectively, expiring at various dates through 2012, and manufacturing
+investment credit carryforwards of $940,000 for state income tax purposes
+expiring in 2012.
+
+     Consolidated U.S. income before income taxes was $3,930,000 and
+$6,898,000 for the years ended February 28, 2002 and 2001, respectively.
+The corresponding income before taxes for non-U.S. based operations was
+$251,000 and $852,000 for the years ended February 28, 2002 and 2001,
+respectively.  The Company has not provided withholdings and U.S. federal
+income taxes on approximately $650,000 of undistributed earnings of its
+foreign subsidiaries because such earnings are or will be reinvested
+indefinitely in such subsidiaries or will be offset by approximate credits
+for foreign taxes paid.  It is not practical to determine the U.S. federal
+income tax liability, if any, that would be payable if such earnings were
+not reinvested indefinitely.
+
+
+NOTE 8 - STOCKHOLDERS' EQUITY
+
+Stock Options
+
+     The Company has two stock option plans for its employees, the 1989 Key
+Employee Stock Option Plan ("1989 Plan"), and the 1999 Stock Option Plan
+("1999 Plan"). Under the 1999 Plan, stock options can be granted at prices
+not less than 100% of the fair market value at the date of grant. Option
+grants are exercisable at the discretion of the Compensation Committee, but
+usually vest over a four-year period.
+
+     The following table summarizes the option activity for fiscal years
+2002, 2001, and 2000 (in thousands except dollar amounts):
+
+                                                    Weighted
+                                      Number         Average
+                                      Shares       Option Price
+                                     --------        --------
+
+Outstanding at February 28, 1999      2,017           $ 3.88
+Granted                                 706            19.25
+Exercised                              (873)            3.82
+Canceled                               (165)            3.74
+                                      -----           ------
+Outstanding at February 28, 2000      1,685            10.36
+Granted                                 564            28.78
+Exercised                              (353)            6.27
+Canceled                               (102)           29.84
+                                      -----           ------
+Outstanding at February 28, 2001      1,794           $15.85
+Granted                                 754             4.68
+Exercised                               (29)            2.34
+Canceled                               (315)           23.06
+                                      -----           ------
+Outstanding at February 28, 2002      2,204           $11.17
+                                      =====           ======
+
+
+     Options outstanding at February 28, 2002 and related weighted average
+price and life information is as follows:
+
+
+                            Weighted      Total
+                             Average     Weighted                   Weighted
+   Range of       Total     Remaining    Average                     Average
+   Exercise      Options       Life      Exercise     Options       Exercise
+    Prices     Outstanding   (Years)      Price     Exercisable       Price
+   --------      --------   --------     --------     --------      --------
+ $1.50-$1.88      193,000       6.6       $ 1.79       145,500       $ 1.79
+  2.06- 2.76      267,250       5.9         2.27       247,250         2.24
+  3.50- 4.72      835,500       8.3         4.35       244,000         3.97
+  5.00- 7.22      311,088       6.9         6.24       148,088         6.97
+  8.00-12.25       84,250       7.1         9.15        63,125         9.18
+ 13.69-19.88      129,500       8.4        19.57        39,000        19.00
+ 20.19-27.44       90,000       7.7        25.86        70,998        26.00
+ 28.00-40.00      141,500       8.0        39.77        68,875        39.88
+ 43.50-50.56      152,000       8.1        44.99        62,000        47.15
+ -----------    ---------      ----       ------     ---------       ------
+$1.50-$50.56    2,204,088       7.5       $11.17     1,088,836       $10.70
+ ===========    =========      ====       ======     =========       ======
+
+     The weighted average fair value for stock options was $4.58, $26.28,
+and $9.43 for fiscal years 2002, 2001, and 2000, respectively.
+
+     The number of stock options available for grant under the 1999 Stock
+Option Plan at the end of each fiscal year was 19,899, 22,834, and 3,852 for
+2002, 2001 and 2000, respectively.  Pursuant to the Company's 1999 Stock
+Option Plan, the number of options available to grant is replenished to
+500,000 on the first day of each fiscal year.  The 1989 Plan expired in May
+1999 and no additional options may be granted under this plan.
+
+     As permitted by SFAS No. 123, the Company continues to apply the
+accounting rules of APB No. 25 governing the recognition of compensation
+expense from its Stock Option Plans. Such accounting rules measure
+compensation expense on the first date at which both the number of shares
+and the exercise price are known. Under the Company's plans, this would
+typically be the grant date. To the extent that the exercise price equals or
+exceeds the market value of the stock on the grant date, no expense is
+recognized. As options are generally granted at exercise prices not less
+than the market value on the date of grant, no compensation expense is
+recognized under this accounting treatment in the accompanying consolidated
+statements of operations.
+
+     The fair value of options at date of grant was estimated using the
+Black-Scholes options pricing model with the following assumptions:
+
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2002         2001         2000
+                                      ------       ------       ------
+Expected life (years)                   10         5 to 10        10
+Dividend yield                           0%           0%           0%
+
+
+     The range for interest rates is 4.06% to 6.82%, and the range for
+volatility is 49% to 147%. The estimated stock-based compensation cost
+calculated using the assumptions indicated totaled $6,713,000, $6,369,000,
+and $846,000 in fiscal years 2002, 2001, and 2000, respectively. This would
+result in pro forma net income (loss) and net income (loss) per share,
+resulting from the increased compensation cost, of ($30,000) or ($.00) per
+share, $1,113,000 or $.08 per share, and ($5,605,000) or ($.46) per share in
+fiscal years 2002, 2001, and 2000, respectively.
+
+Preferred Stock Purchase Rights
+
+     At February 28, 2002, 13,630,351 preferred stock purchase rights are
+outstanding.  Each right may be exercised to purchase one-hundredth of a
+share of Series A Participating Junior Preferred Stock at a purchase price
+of $50 per right, subject to adjustment.  The rights may be exercised only
+after commencement or public announcement that a person (other than a person
+receiving prior approval from the Company) has acquired or obtained the
+right to acquire 20% or more of the Company's outstanding common stock.  The
+rights, which do not have voting rights, may be redeemed by the Company at a
+price of $.01 per right within ten days after the announcement that a person
+has acquired 20% or more of the outstanding common stock of the Company.  In
+the event that the Company is acquired in a merger or other business
+combination transaction, provision shall be made so that each holder of a
+right shall have the right to receive that number of shares of common stock
+of the surviving company which at the time of the transaction would have a
+market value of two times the exercise price of the right.  750,000 shares
+of Series A Junior Participating Cumulative Preferred Stock, $.01 par value,
+are authorized.
+
+
+Note 9 - EARNINGS PER SHARE
+
+     Because the Company reported a net loss for the year ended February 28,
+2000, the shares used in computing diluted earnings (loss) per share for
+that year is equal to the weighted average number of common shares
+outstanding for the period and excludes the dilutive effect of stock options
+and convertible debt.
+
+     Following is a summary of the calculation of basic and diluted weighted
+average shares outstanding for fiscal 2002 and 2001 (in thousands):
+
+                                              Year ended
+                                             February 28,
+                                         -------------------
+                                          2002         2001
+                                         ------       ------
+Weighted average shares:
+  Weighted average number of
+   common shares outstanding             13,605       13,365
+  Shares issuable for legal
+   settlement                               122          142
+                                         ------       ------
+     Basic weighted average number
+      of common shares outstanding       13,727       13,507
+
+  Effect of dilutive securities:
+    Stock options                           252          631
+    Convertible debt                         -            79
+                                         ------       ------
+     Diluted weighted average number
+      of common shares outstanding       13,979       14,217
+                                         ======       ======
+
+     Options to purchase approximately 828,000 shares of Common Stock at
+prices ranging from $5.69 to $50.56 were outstanding at February 28, 2002,
+but were not included in the computation of diluted earnings per share for
+the year then ended because the exercise price of these options was greater
+than the average market price of the Common Stock and accordingly the effect
+of inclusion would be antidilutive.  For fiscal year 2001 there were 488,000
+stock options not considered in the calculation of diluted weighted average
+shares since their inclusion would be anti-dilutive.
+
+
+NOTE 10 - OTHER FINANCIAL INFORMATION
+
+     "Other accrued liabilities" in the consolidated balance sheets consist
+of the following (in thousands):
+                                            February 28,
+                                      -----------------------
+                                       2002             2001
+                                      ------           ------
+Accrued litigation settlements        $ 5,534         $ 4,834
+Customer prepayments                       92           1,117
+Other                                   1,354           1,166
+                                      -------         -------
+                                      $ 6,980         $ 7,117
+                                      =======         =======
+
+     "Net cash provided by operating activities" in the consolidated
+statements of cash flows includes cash payments for interest and income as
+follows (in thousands):
+
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2002         2001         2000
+                                      ------       ------       ------
+
+Interest paid                          $323         $479         $382
+
+Income taxes paid                      $497         $133         $ 21
+
+
+
+     Following is the supplemental schedule of non-cash investing and
+financing activities (in thousands):
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2002         2001         2000
+                                      ------       ------       ------
+
+Conversion of debt to equity          $   -       $ 2,231       $   -
+
+Issuance of common stock to reduce
+ accrued liability                    $   -       $ 2,166       $   -
+
+Note payable issued for acquisition
+ of net assets of Gardiner
+ Communications Corp.                 $   -       $   -         $ 3,100
+
+Non-cash income tax benefit
+ associated with non-cash litigation
+ settlement charge of $9,500          $   -       $   -         $ 3,606
+
+
+Valuation and Qualifying Accounts and Reserves
+
+     Following is the Company's schedule of valuation and qualifying
+accounts and reserves for the last three years (in thousands):
+
+                      Balance at   Charged to                Balance
+                      beginning    costs and                 at end
+                      of period    expenses    Deductions   of period
+                      ---------    --------    ---------    ---------
+Allowance for doubtful accounts:
+-------------------------------
+    Fiscal 2000          $535         $ 37      $   (99)       $473
+    Fiscal 2001           473          144         (150)        467
+    Fiscal 2002           467          991       (1,041)        417
+
+Warranty reserve:
+----------------
+    Fiscal 2000          $545         $201      $  (284)       $462
+    Fiscal 2001           462          333         (348)        447
+    Fiscal 2002           447          144         (215)        376
+
+
+NOTE 11 - COMMITMENTS
+
+     The Company leases its corporate and manufacturing facilities in
+Camarillo, California under operating leases that expire in February 2004.
+The lease agreements for the Camarillo facilities requires the Company to
+pay all property taxes and insurance premiums associated with the coverage
+of the facilities.
+
+     In addition, the Company leases small offices and/or warehouse space in
+Dallas, Texas; Chanhassen, Minnesota; Paris, France; Sao Paulo, Brazil; and
+Hong Kong, China. The Company also leases certain equipment used in the
+manufacturing operation under operating lease arrangements.  A summary of
+future operating lease commitments is included in the contractual cash
+obligations table in Note 6.
+
+
+NOTE 12 - LEGAL PROCEEDINGS
+
+Yourish class action and RLI Insurance Company litigation:
+
+     On March 29, 2000 the Company and the individual defendants (present and
+former officers and directors of the Company) reached a settlement in the
+matter entitled Yourish v. California Amplifier, Inc., et al., Case
+No. CIV 173569 shortly after trial commenced in the Superior Court for the
+State of California, County of Ventura.  The terms of the settlement called
+for the issuance by the Company of 187,500 shares of stock along with a cash
+payment of $3.5 million, funded in part by insurance proceeds, for a total
+settlement valued at approximately $11.0 million.  Of the total settlement,
+$9.5 million was accrued in the consolidated financial statements for the
+year ended February 28, 2000, and the remaining $1.5 million was expected to
+be funded by the Company's director and officer liability insurance carriers.
+The common stock portion of the settlement was originally accrued at $7.5
+million, or $40 per share, which share price was based on the trading range
+of the Company's common stock at the time the settlement agreement was
+reached.  By Order dated September 14, 2000, the court approved the terms of
+the settlement and dismissed the action with prejudice.
+
+     Upon approval of the settlement agreement by the court, in September
+2000 the Company issued 65,625 of the 187,500 shares of common stock and
+paid $2.5 million of the $3.5 million cash portion of the settlement.
+T.I.G. Insurance Company ("T.I.G."), one of the Company's liability
+insurance carriers, paid the remaining $1 million.
+
+     The fair value of the Company's common stock on September 14, 2000, the
+date the settlement agreement was approved by the court, was $33.063 per
+share.  Accordingly, at that time the Company reduced its litigation accrual
+by $1.3 million to revalue the common stock portion of the settlement at
+$33.063 per share instead of $40 per share.  Also in September 2000, the
+Company accrued $500,000 for additional legal expenses associated with this
+litigation which had not been previously accrued, and accrued $800,000 for a
+refund contingently payable to T.I.G., which had contributed $1 million to
+the settlement under a reservation of rights.
+
+     In connection with the settlement of the Yourish action, the Company
+and certain of its former and current officers and directors filed a lawsuit
+(California Amplifier, Inc., et al. v. RLI Insurance Company, et al.,
+Ventura County Superior Court Case No. CIV196258), against one of its
+insurance carriers to recover $2.0 million of coverage the insurance carrier
+has stated was not covered under its policy of insurance.  The insurance
+carrier filed a Motion for Judgment on the Pleadings seeking judgment on the
+basis, inter alia, that the claims in the Yourish action for alleged
+violations of Sections 25400 and 25500 of the California Corporation Code
+were not insurable as a matter of law pursuant to Insurance Code Section
+533.  The Plaintiffs opposed the motion and a hearing was held on
+September 22, 2000.  On October 18, 2000, the Court entered an Order
+granting the motion for judgment on the pleadings.  Judgment was entered on
+November 9, 2000, and Notice of Entry of Judgment given on November 15,
+2000.  California Amplifier filed a Notice of Appeal on November 21, 2000.
+The matter was fully briefed and argued before the Court of Appeals on
+September 12, 2001.  On December 4, 2001, the Court of Appeals upheld the
+decision of the lower court in favor of the insurance carrier.  The Company
+filed a petition for review with the California Supreme Court in January
+2002, but the petition for review was denied by the State Supreme Court.
+
+     In March 2002, T.I.G. notified the Company that it intends to seek a
+refund of its $1 million settlement contribution made under a reservation of
+rights, based on the adverse outcome of the Company's action against RLI
+Insurance Company.  As discussed above, the Company had previously accrued a
+reserve of $800,000 for the refund contingently payable to T.I.G.
+Consequently, at February 28, 2002 the Company accrued an additional
+$200,000 for the contingent refund payable to T.I.G.
+
+     The Company's consolidated balance sheet at February 28, 2002 includes
+an accrued liability of $5.0 million related to the Yourish settlement,
+which amount represents the remaining 121,875 shares still to be issued,
+valued at $33.063 per share, and the $1 million reserved for the contingent
+refund payable to T.I.G.  Pursuant to the terms of the court-approved
+settlement, the Company must wait for instructions from plaintiffs' counsel
+before issuing the remaining shares of common stock under the settlement.
+
+2001 securities litigation and shareholder derivative lawsuit:
+
+     Following the announcement by the Company on March 29, 2001 of the
+resignation of its controller and the possible overstatement of net income
+for the fiscal year ended February 28, 2000 and the subsequent restatement
+of the Company's financial statements for fiscal year 2000 and the interim
+periods of fiscal years 2000 and 2001, the Company and certain officers were
+named as defendants in twenty putative actions in Federal Court.  Caption
+information for each of the lawsuits is set forth in Item 3 of the Company's
+Form 10-K for the fiscal year ended February 28, 2001.  On June 18, 2001,
+the twenty actions were consolidated into a single action pursuant to
+stipulation of the parties, and lead plaintiffs' counsel was appointed.
+
+    In July 2001, all of the current directors of the Company were named as
+defendants in the above-entitled shareholder derivative lawsuit filed in Los
+Angeles Superior Court.  The Company was named as a nominal defendant.  The
+complaint alleged claims against the directors for breach of fiduciary duty,
+abuse of control and gross mismanagement, arising out of the Company's
+restatement of earnings for fiscal year 2000 and portions of fiscal year
+2001.
+
+     In October 2001, the insurance company that provides the Company's
+primary director and officer liability coverage applicable to the above
+matters  filed a lawsuit seeking to rescind the policy on the grounds that
+there was a misstatement in the policy application that incorporated by
+reference the Company's financial statements prior to their restatement.
+
+     In December 2001, the parties reached an agreement to settle both the
+class action litigation and the shareholder derivative lawsuit for the
+aggregate sum of $1.5 million, subject to final court approval.  Of this
+amount, the Company's primary directors and officers liability insurance
+carrier agreed to contribute $575,000 toward the settlement, which amount
+was paid in December 2001, and agreed to withdraw its policy rescission
+lawsuit.   The Company has accrued its $925,000 share of the settlement in
+the accompanying consolidated financial statements for the year ended
+February 28, 2002.  Of this amount, $425,000 was paid by the Company in
+December 2001, and the remaining $500,000 is to be paid once the court
+approves the settlement.  At the Company's option, this final settlement
+installment of $500,000 may be paid in the form of cash or Common Stock.
+The Stipulation of Settlement seeking preliminary Court approval of the
+settlement by the Court was filed in May 2002.  Once preliminary approval is
+obtained, plaintiff's counsel will send notice to the class and obtain a
+hearing date for final approval of the settlement agreement.  The Company
+expects this process to be completed over the next several months.
+
+Investigation by the Securities and Exchange Commission:
+
+     In May 2001, the Company announced that it had received notice from the
+Securities and Exchange Commission (SEC) that the SEC was conducting an
+informal inquiry into the circumstances that caused the Company to announce
+that it would be restating earnings for fiscal year 2000 and certain interim
+quarters of fiscal year 2001.  Subsequently, the Company learned that the
+SEC adopted an order directing a private investigation and designating
+officers to take testimony.
+
+
+NOTE 13 - SEGMENT AND GEOGRAPHIC DATA
+
+     Information by business segment is as follows:
+
+Fiscal Year 2002:
+                                              WIRELESS
+                                SATELLITE      ACCESS    CORPORATE    TOTAL
+                                 -------       ------     -------     -----
+
+Sales                           $ 78,899     $ 21,816        -      $100,715
+Gross profit                      15,723        7,158        -        22,881
+Gross margin                        19.9%       32.8%        -          22.7%
+Income (loss) from continuing
+ operations before income taxes   11,847          333     (7,999)      4,181
+Identifiable assets               23,565        4,783     28,340      56,688
+
+
+
+
+Fiscal Year 2001:
+                                              WIRELESS
+                                SATELLITE      ACCESS    CORPORATE    TOTAL
+                                 -------       ------     -------     -----
+
+Sales                           $ 85,107     $ 32,022        -      $117,129
+Gross profit                      12,920       10,433        -        23,353
+Gross margin                        15.2%       32.6%        -          19.9%
+Income (loss) from continuing
+ operations before income taxes    8,719        5,259     (6,228)      7,750
+Identifiable assets               22,146        8,262     19,404      49,812
+
+
+Fiscal Year 2000:
+                                              WIRELESS
+                                SATELLITE      ACCESS    CORPORATE    TOTAL
+                                 -------       ------     -------     -----
+
+Sales                           $ 60,411     $ 19,018        -      $ 79,429
+Gross profit                       9,146        5,987        -        15,133
+Gross margin                        15.1%       31.5%        -          19.1%
+Income (loss) from continuing
+ operations before income taxes    5,440          752    (14,408)     (8,216)
+Identifiable assets               21,773        8,349     21,375      51,497
+
+
+     The Company does not have significant long-lived assets outside the
+United States.
+
+     Sales information by geographical area for each of the three years in
+the period ended February 28, 2002 is as follows (000s):
+
+                                           Year ended February 28,
+                                      --------------------------------
+                                       2002         2001         2000
+                                      ------       ------       ------
+United States                       $ 84,098     $ 93,764      $60,305
+Canada                                10,653       11,220        5,419
+Europe                                 2,258        2,895        4,394
+Latin America                          1,738        2,661        1,240
+Middle East                              249        1,447          847
+Africa                                 1,309        2,895        1,832
+Asia                                     410        2,247        4,368
+Australia                                -            -          1,024
+                                     -------      -------      -------
+                                    $100,715     $117,129      $79,429
+                                     =======      =======      =======
+
+See also "Concentrations of Risk" in Note 1 for sales by major customer.
+
+
+NOTE 14 - QUARTERLY FINANCIAL INFORMATION (unaudited)
+
+     The following summarizes certain quarterly statement of operations data
+for each of the quarters in fiscal years 2002 and 2001 (in thousands, except
+percentages and per share data):
+
+                   First      Second        Third       Fourth       Fiscal
+                  Quarter     Quarter      Quarter      Quarter       2002
+                  -------     -------      -------      -------      ------
+Sales             $20,802     $24,654      $32,756      $22,503     $100,715
+Gross profits       4,779       6,152        7,546        4,404       22,881
+Gross margins        23.0%       25.0%        23.0%        19.6%        22.7%
+Income from
+ continuing
+ operations            91         465        1,352          966        2,874
+Net income             71       2,075        1,352          966        4,464
+Net income per
+ diluted share       0.01        0.15         0.10         0.07         0.32
+
+
+                   First      Second        Third       Fourth       Fiscal
+                  Quarter     Quarter      Quarter      Quarter       2001
+                  -------     -------      -------      -------      ------
+Sales             $29,866     $31,738      $30,902      $24,623     $117,129
+Gross profits       5,846       6,100        6,679        4,728       23,353
+Gross margins        19.6%       19.2%        21.6%        19.2%        19.9%
+Income from
+ continuing
+ operations         1,450       1,349        1,816          325        4,940
+Net income          1,540       1,419        1,850          400        5,209
+Net income per
+ diluted share       0.11        0.10         0.13         0.03         0.37
+
+
+NOTE 15 - SUBSEQUENT EVENTS
+
+     On April 5, 2002, the Company acquired substantially all of the assets,
+properties and rights of Kaul-Tronics, Inc., a Wisconsin corporation, and
+two affiliated companies (collectively, "KTI").  The operations acquired by
+the Company involve primarily the design and manufacture of satellite
+antenna dishes used in the DBS industry.  The satellite antenna dishes of
+the type produced by KTI, and the downconverter/amplifier devices of the
+type produced by the Company, together comprise the outdoor portion of
+customer premise equipment for DBS television reception. In calendar year
+2001, KTI had revenues of approximately $36 million and pretax income of
+$4.8 million.  KTI's 2001 revenues included approximately $12 million of
+satellite downconverter/amplifier devices of the type produced by the
+Company.
+
+     The aggregate purchase price was approximately $22.7 million,
+consisting of a cash payment of approximately $16.1 million, issuance of
+929,086 shares of the Company's common stock valued at approximately $6.1
+million, and transaction costs of approximately $530,000.  The acquisition
+gave rise to goodwill of approximately $17.7 million.
+
+     The source of funds for the cash payment was the Company's cash on hand
+and the proceeds of a $12 million drawdown on the Company's existing bank
+revolving line of credit which had been increased from $8 million to $13
+million effective April 3, 2002.  On May 2, 2002, the $12 million
+outstanding principal balance on the revolver was repaid in full from the
+proceeds of a new $12 million term loan.  The new term loan bears interest
+at LIBOR plus 2.0% or the bank's prime rate.  The $12 million term loan
+provides for interest only payments until April 1, 2003, and thereafter
+provides for monthly principal reductions of $200,000 plus accrued interest.
+Also on May 2, 2002, the $13 million revolving line of credit was amended to
+extend the maturity date to August 3, 2005.
+
+
+<page>
+
+
+                                INDEX TO EXHIBITS
+
+
+2.1      Asset Purchase Agreement dated April 5, 2002 between and among the
+         Company, Kaul-Tronics, Inc., NGP, Inc., and Interactive Technologies
+         International, LLC (incorporated by reference to Exhibit 2.1 of the
+         Company's Current Report on Form 8-K dated April 5, 2002).
+
+3.1      Certificate of Incorporation of the Company, as amended, filed as
+         Exhibit 3.1 to the Company's Registration Statement on Form S-1
+         (33-59702) and by this reference is incorporated herein and made a
+         part hereof.
+
+3.1.1    Amendment to Certificate of Incorporation of the Company, as
+         filed with the Delaware Secretary of State on September 19, 1996,
+         filed as Exhibit 3.1.1 to the Company's Interim Report on Form
+         10-Q for the period ended August 31, 1996.
+
+3.2      Bylaws of the Company, as amended, filed as Exhibit 3.2 to the
+         Company's Form 8-K dated February 28, 1992 and by this reference
+         is incorporated herein and made a part hereof.
+
+4.1      Amended and Restated Rights Agreement, amended and restated as of
+         September 5, 2001, by and between California Amplifier, Inc. and
+         Mellon Investor Services LLC, as Rights Agent (incorporated by
+         reference to Exhibit 4.1 of the Company's Form 8-K filed on
+         September 6, 2001).
+
+10.1     1989 Key Employee Stock Option Plan filed as Exhibit 4.4 to the
+         Company's Registration Statement on Form S-8 (33-31427) and by
+         this reference is incorporated herein and made a part hereof.
+
+10.1.1   Amendment No. 1 to the 1989 Key Employee Stock Option Plan filed as
+         Exhibit 4.7 to the Company's Registration Statement on Form S-8
+         (33-36944) and by this reference is incorporated herein and made a
+         part hereof.
+
+10.1.2   Amendment No. 2 to the 1989 Key Employee Stock Option Plan filed as
+         Exhibit 4.8 to the Company's Registration Statement on Form S-8
+         (33-72704) and by this reference is incorporated herein and made a
+         part hereof.
+
+10.1.3   Amendment No. 3 to the 1989 Key Employee Stock Option Plan filed as
+         Exhibit 4.10 to the Company's Registration Statement on Form S-8
+         (33-60879) and by this reference is incorporated herein and made a
+         part hereof.
+
+10.2     The 1999 Stock Option Plan filed as Exhibit 4.1 to the Company's
+         Registration Statement on Form S-8 (333-93097) and by this
+         reference is incorporated herein and made a part hereof.
+
+10.3     Building Lease and Rider on building between the Company and
+         Calle San Pablo Property Co. dated January 31, 1989, filed as an
+         exhibit to the Company's Annual Report on Form 10-K for the
+         fiscal year ended February 28, 1989 and by this reference is
+         incorporated herein and made a part hereof.
+
+10.3.1   Amendment of Lease on building between the Company and Calle San
+         Pablo Property Co. dated February 9, 1995, filed as an exhibit to
+         this Annual Report on Form 10-K for the fiscal year ended February
+         28, 1995.
+
+10.4     Building Lease on building between the Company and The Jennings
+         Bypass Trust, dated September 11, 1996, filed as an exhibit to this
+         Annual Report on Form 10-K for the fiscal year ended February 28,
+         1997.
+
+10.5     Form of Indemnity Agreement filed as an exhibit to the Company's
+         Annual Report on Form 10-K for the fiscal year ended February 28,
+         1988 and by this reference is incorporated herein and made a part
+         hereof.
+
+10.6     Loan and Security Agreement by and between the Company and U.S.
+         Bank National Association dated as of May 2, 2002.
+
+11       Statement re Computation of Per Share Earnings (incorporated by
+         reference to Note 9 of the Company's consolidated financial
+         statements for the year ended February 28, 2002).
+
+13       Annual Report to security holders.
+
+21       Subsidiaries of the Registrant.
+
+23.1     Consent of KPMG LLP.
+
+23.2     Consent of Arthur Andersen, LLP.
+
+99       Undertaking for Form S-8 Registration Statement.
+
+
+
+
+<page>
+
+                                                                 EXHIBIT 21
+
+
+                            CALIFORNIA AMPLIFIER, INC.
+                         SUBSIDIARIES OF THE REGISTRANT
+
+
+All subsidiaries are 100% owned by California Amplifier, Inc., and are
+included in the consolidated financial statements.  Each subsidiary was
+organized in the jurisdiction specified under its name in the following
+list.
+
+
+
+1.  California Amplifier SARL
+    France
+
+
+2.  Cal Amp Limited
+    Hong Kong
+
+
+
+
+
+
+<page>
+                                                                EXHIBIT 23.1
+
+
+
+
+                     CONSENT OF INDEPENDENT AUDITORS
+
+We consent to the incorporation by reference in the registration statements
+(Nos. 33-31427, 33-36944, 33-72704, 33-60879, 333-33925 and 333-93097) on
+Form S-8 of California Amplifier, Inc. and subsidiaries of our report dated
+May 13, 2002, relating to the consolidated balance sheet of California
+Amplifier, Inc. and subsidiaries as of March 2, 2002, and the related
+consolidated statements of operations, stockholders' equity and
+comprehensive income (loss) and cash flows for the year then ended, which
+report appears in the fiscal year 2002 annual report on Form 10-K of
+California Amplifier, Inc.
+
+
+/s/ KPMG LLP
+
+Los Angeles, California
+May 29, 2002
+
+
+
+
+<page>
+                                                                EXHIBIT 23.2
+
+
+
+
+
+                  CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+As independent public accountants, we hereby consent to the incorporation of
+our report included in this Form 10-K, into the Company's previously filed
+Registration Statement File Nos. 33-31427, 33-36944, 33-72704, 33-60879,
+333-33925 and 333-93097.
+
+
+
+/s/ ARTHUR ANDERSEN LLP
+
+Los Angeles, California
+May 29, 2002
+
+
+
+<page>
+
+                                                                 EXHIBIT 99
+
+
+
+                UNDERTAKING FOR FORM S-8 REGISTRATION STATEMENT
+
+
+
+With respect to the Registration Statements previously filed by California
+Amplifier, Inc. (the "Company") on Form S-8, the Company hereby undertakes
+as follows:
+
+Insofar as indemnification for liabilities arising under the Securities Act
+of 1933 may be permitted to directors, officers and controlling persons of
+the Company pursuant to the foregoing provisions, or otherwise, the Company
+has been advised that in the opinion of the Securities and Exchange
+Commission such indemnification is against public policy as expressed in the
+Act and is, therefore, unenforceable.  In the event that a claim for
+indemnification against such liabilities (other than the payment by the
+Company of expenses incurred or paid by a director, officer or controlling
+person of the Company in the successful defense of any action, suit or
+proceeding), is asserted by such director, officer or controlling person in
+connection with the securities being registered, the Company will, unless in
+the opinion of its counsel the matter has been settled by controlling
+precedent, submit to a court of appropriate jurisdiction the question
+whether such indemnification by it is against public policy as expressed in
+the Act and will be governed by the final adjudication of such issue.
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

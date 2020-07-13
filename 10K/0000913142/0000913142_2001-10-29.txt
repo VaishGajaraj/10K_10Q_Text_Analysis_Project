@@ -1,0 +1,1251 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+(Mark One)
+
+[x]  Annual report pursuant to Section 13 or 15(d) of the Securities Exchange
+     Act of 1934 For the fiscal year ended July 31, 2001
+
+                                       or
+
+[_]  Transition report pursuant to Section 13 or 15(d) of the Securities
+     Exchange Act of 1934 For the transition period from ________ to _________
+
+                           Commission File No. 0-22724
+                      CABLE DESIGN TECHNOLOGIES CORPORATION
+             (Exact Name of Registrant as Specified in Its Charter)
+
+       Delaware                                                  36-3601505
+(State or Other Jurisdiction of                               (I.R.S. Employer
+Incorporation or Organization)                               Identification No.)
+
+                                 Foster Plaza 7
+                               661 Andersen Drive
+                              Pittsburgh, PA 15220
+              (Address of Principal Executive Offices and Zip Code)
+
+                                 (412) 937-2300
+              (Registrant's Telephone Number, Including Area Code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                           Name of Each Exchange
+     Title of Each Class                                     on Which Registered
+     -------------------                                     -------------------
+Common Stock, $.01 par value                             New York Stock Exchange
+Preferred Stock Purchase Rights, with respect to Common
+     Stock, par value $.01 per share                     New York Stock Exchange
+
+
+Securities registered pursuant to Section 12(g) of the Act:    None
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirement for the past 90 days.                               Yes [x] No [_]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of regulation S-K is not contained herein, and need not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.
+
+================================================================================
+
+<PAGE>
+
+The aggregate market value of the registrant's voting stock held by
+non-affiliates of the registrant at October 17, 2001 is $590,023,002.
+
+The number of shares outstanding of the registrant's Common Stock at October 17,
+2001, is 44,066,412.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Cable Design Technologies Corporation Proxy Statement for the
+Annual Meeting of Stockholders to be held on December 10, 2001, (the "Proxy
+Statement") are incorporated by reference into Part III.
+
+Portions of the 2001 Cable Design Technologies Corporation Annual Report to
+Stockholders (the "2001 Annual Report") are incorporated by reference into Parts
+I, II and IV.
+
+<PAGE>
+
+
+                      CABLE DESIGN TECHNOLOGIES CORPORATION
+                                Table of Contents
+<TABLE>
+<CAPTION>
+
+
+                                                       PART I                                                  Page
+
+<S>           <C>                                                                                              <C>
+Item 1.       Business ...........................................................................................2
+
+Item 2.       Properties ........................................................................................10
+
+Item 3.       Legal Proceedings .................................................................................11
+
+Item 4.       Submission of Matters to a Vote of Security Holders ...............................................11
+
+Item 4.1.     Executive Officers of the Registrant ..............................................................11
+
+                                                      PART II
+
+Item 5.       Market for the Registrant's Common Stock
+              and Related Stockholder Matters ...................................................................13
+
+Item 6.       Selected Financial Data ...........................................................................13
+
+Item 7.       Management's Discussion and Analysis of
+              Financial Condition and Results of Operations .....................................................13
+
+Item 7a.      Quantitative and Qualitative Disclosures
+              About Market Risk .................................................................................13
+
+Item 8.       Financial Statements and Supplementary Data .......................................................13
+
+Item 9.       Changes in and Disagreements with Accountants
+              on Accounting and Financial Disclosure ............................................................13
+
+                                                     PART III
+
+Item 10.      Directors and Executive Officers of
+              the Registrant ....................................................................................14
+
+Item 11.      Executive Compensation ............................................................................14
+
+Item 12.      Security Ownership of Certain Beneficial
+              Owners and Management .............................................................................14
+
+Item 13.      Certain Relationships and Related Transactions ....................................................14
+
+                                                     PART IV
+
+Item 14.      Exhibits, Financial Statement Schedules,
+              and Reports on Form 8-K ...........................................................................15
+
+              Signatures ........................................................................................19
+</TABLE>
+
+<PAGE>
+
+
+PART I.
+
+ITEM 1.  BUSINESS
+
+     General
+
+     Cable Design Technologies Corporation ("CDT" or "the Company") is a leading
+worldwide designer and manufacturer of high bandwidth network connectivity
+products, including gigabit and fiber optic network cables and connectors,
+network structured wiring components, assemblies, electronic and fiber optic
+passive and active components, and interconnect cables for computer and
+communication switching applications, and communication cable products used in
+local loop, central office, wireless and other applications. We also manufacture
+electronic cable products that are used in automation, process control and
+specialty applications.
+
+     Our sales for the fiscal year ended July 31, 2001 ("fiscal 2001") were
+$763.2 million as compared to $797.8 million for the same period in fiscal 2000
+("fiscal 2000"), representing a decrease of 4%, and our net income, excluding
+nonrecurring items, was $37.8 million for fiscal 2001 as compared to $54.8
+million for fiscal 2000, representing a decrease of 31%. Nonrecurring charges of
+$14.3 million, net of tax, were incurred in fiscal 2001 related to
+restructuring, goodwill impairment, and a loss on the sale of a business.
+Reported net income after nonrecurring charges was $23.5 million. Fiscal 2001
+results were negatively impacted by the slowdown in the network and
+telecommunication marketplaces, particularly in the United States, which began
+in the second half of the Company's fiscal year.
+
+     Business Strategy
+
+     We have achieved our current market position and success by emphasizing
+five primary strategies: (i) be the leading worldwide designer and manufacturer
+of electronic wire and cable and connectivity products; (ii) achieve growth both
+internally and through acquisition; (iii) grow internationally through
+acquisition; (iv) be a low cost producer; and (v) differentiate ourselves from
+our competition through outstanding service.
+
+     Products. We focus on designing, developing and marketing technologically
+advanced network connectivity products, communication cable products used in
+local loop, central office and wireless applications, and specialty electronic
+cable products that are used in automation, process control and specialty
+applications. Examples of advanced network connectivity products include gigabit
+and fiber optic network cable and connectors, network structured wiring
+components, assemblies, electronic and fiber optic passive and active
+components, and interconnect cables for computer and communication switching
+applications. This strategy has enabled us to attain a leading position in the
+network and specialty electronic cable industries and avoid many
+price-sensitive, low technology sectors. This leading position has enabled us to
+establish strategic relationships with many customers.
+
+
+
+
+                                       2
+
+<PAGE>
+
+     Internal and Acquisition Growth. We continue to focus on internal growth by
+broadening our product offerings, investing in additional manufacturing
+capabilities and developing new customer relationships. In addition, we
+continually evaluate strategic acquisition opportunities. Since 1984, we have
+made 20 acquisitions. These acquisitions have contributed to our significant
+growth in revenues and operating profit. We intend to continue to seek
+acquisitions that will broaden our product mix and international presence,
+including acquisitions in the fiber optic, passive network component and
+connector marketplaces.
+
+     International Expansion. In fiscal 2001, 40% of our sales were in markets
+outside of the United States and 24% were outside of North America. We believe
+that the international markets represent a significant opportunity because many
+systems within these markets need to be upgraded in order to participate in
+high-speed worldwide communications. We intend to continue to capitalize on the
+size and potential of the international markets by increasing sales of existing
+operations and establishing or acquiring additional manufacturing and sales
+capabilities in these markets.
+
+     Manufacturing Infrastructure. We focus on consistently expanding and
+upgrading our manufacturing infrastructure in order to improve efficiencies to
+maintain a low cost structure as well as to meet current and future product
+needs. During the last three fiscal years, we have invested over $85 million for
+plant and machinery. Capital projects included in such spending were: (i)
+purchase of two buildings which were previously leased; (ii) purchase and
+expansion of a facility in Sweden for communications and specialty cable
+production; (iii) expansion of our optical fiber capacity; (iv) upgrade of our
+network cable facilities worldwide to equip them to manufacture high bandwidth
+network cables; and (v) expansion of the facility where we manufacture our high
+performance connectors.
+
+     Customer Service. We place a great emphasis on providing technical
+resources to solve customer problems and on R&D efforts to create solutions for
+our markets and customers. We seek highly qualified employees with significant
+industry experience and continually invest in R&D and testing resources. In
+addition, we maintain a synergistic network of internal communications that
+allows each of our business units to share ideas and innovations company-wide.
+Customer sales support is a very important part of our business strategy. Each
+operating unit maintains a highly trained sales support staff and, for certain
+of our products, we maintain multiple warehouse locations to service customers
+with same-day or second-day delivery.
+
+     Network Communication Segment
+
+     Network Communication segment sales were $512.7 million, $545.0 million and
+$446.6 million for fiscal 2001, 2000 and 1999, respectively, and represented
+67%, 68% and 65% of total revenues for fiscal 2001, 2000 and 1999, respectively.
+This segment encompasses connectivity products for the electronic transmission
+of data, voice, and multimedia over local and wide area networks and local loop
+communication infrastructures. The products include high performance fiber optic
+and twisted pair and coaxial copper cables and connectors, wiring racks and
+panels, outlets and interconnecting hardware for end-to-end network structured
+wiring systems, fiber optic assemblies and patch cords and communication cable
+products for outside communication and central office switchboard and equipment
+applications. In addition, through the acquisition of BoseLAN/CDT in fiscal
+2000, we added high performance passive and active fiber optic and electronic
+components to our product portfolio, including multiplexers, switches, media
+converters and Ethernet test equipment used in a wide array of voice, video and
+data connectivity applications. Bose LAN/CDT, a relatively small operation, adds
+diversity to our network product lines and a basis to grow our participation in
+the network component marketplace.
+
+
+                                       3
+
+<PAGE>
+
+     Local Area Network (LAN) Systems. LANs typically consist of one or more
+computers, peripheral devices, software and interconnecting cables, connectors
+and accessories. The interconnecting cables can be copper, fiber or a composite
+cable including both copper and fiber. Due to the expense and increased
+difficulty of installing fiber cable as compared to copper cables and the cost
+of transmitters, repeaters and other electronics required for a fiber optic
+system, fiber cables have generally been limited to riser applications and
+backbone parts of the local area network. Copper cables, while still used in
+riser and backbone applications, are predominate in premise wiring and
+horizontal portions of network systems. In addition, each network system,
+whether fiber or copper, includes a large number of other structured wiring
+components, such as connectors, patch panels, outlets and racks.
+
+     We manufacture and sell fiber optic, copper and composite cables,
+connectors, rack enclosures and cabinets, fiber optic splitters and couplers and
+other passive components used in LAN systems. Our connectors include our
+patented Optimax(TM) and Quick Connect(TM) fiber optic connectors and our
+industry leading high performance GigaFlex(TM) copper connector series. In
+addition, we offer "plug & play" fiber optic cabling systems. We are also one of
+a few companies that offer a fully integrated end-to-end warranted network
+structured wiring system. The ability to offer a fully warranted end-to-end
+system is an important marketing feature that differentiates us from many of our
+competitors.
+
+     We have invested heavily over the past few years to increase our gigabit
+network cable manufacturing capacity. Such investment has resulted in our
+ability to increase our percentage of gigabit network cables to 71% of category
+5 and above network cable sales during fiscal 2001 from 30% of category 5 and
+above network cable sales during fiscal 1999.
+
+     Interconnect and Central Office Products. Interconnect products refers to
+transmission cables used inside computers and other electronic equipment, as
+well as to connect large and small computers to a variety of peripheral devices.
+Central office products refers to cable used to connect switching and related
+telecommunications equipment, as well as switchboard cable. We produce both
+fiber optic and copper cables for such uses and believe that we are one of the
+leaders in this market. The market is generally defined by the computer OEM
+specifications and often requires our engineers to work closely with component
+engineers during the product design and development process. We believe that our
+strengths in engineering and design, together with our historical relationships
+and reputation with OEM's, gives us an advantage in this market.
+
+     Cellular Communication. We believe that the rapid growth of cellular or
+"wireless" applications presents a significant opportunity. Wireless
+communications rely on antenna towers, base station transmission and central
+office switching, with each application requiring high performance cable and
+other connectivity products. Greater traffic over cellular networks also
+requires greater switching capabilities and other electronic equipment, which
+drives demand for our interconnect products. We produce specialized cables used
+in these applications.
+
+     Communications. We produce communication distribution cables that are used
+in the telecommunications industry to service business and residential customers
+in the local loop. Demands for new services and phone lines due to increased
+Internet, fax, telecommuting, DSL and other uses, growth of home offices and
+overdue maintenance of the existing copper local loop infrastructures drive this
+market.
+
+
+                                       4
+
+<PAGE>
+
+     Specialty Electronic Segment
+
+     Specialty Electronic segment sales were $250.5 million, $252.8 million and
+$237.4 million for fiscal 2001, 2000 and 1999, respectively, and represented
+33%, 32% and 35% of total revenues in fiscal 2001, 2000 and 1999, respectively.
+The Specialty Electronic segment includes highly engineered wire and cable
+products covering a broad range of specialized applications and niche markets,
+including commercial aviation and marine, automotive electronics, medical
+electronics, electronic testing equipment, robotics and electronically
+controlled factory equipment. Also included are cables for automation
+applications, such as climate control, premise video distribution and
+sophisticated security and signal systems involving motion detection, electronic
+card and video surveillance technologies, process control applications, such as
+remote signaling and electronic monitoring systems, sound applications, such as
+voice activation, evacuation and other similar systems, and safety applications,
+such as data transmission cable for advanced fire alarm and safety systems,
+including cable having improved safety and performance attributes under
+hazardous conditions. Included in the Specialty Electronic segment are non-cable
+related manufacturing activities encompassing precision tire casting and sheet
+metal fabrication which are not material to our business.
+
+     Raw Materials
+
+     The principal raw materials we use are copper and insulating compounds. Raw
+materials are purchased on a consolidated basis whenever possible to reduce
+costs and improve supplier service levels. Copper is purchased from several
+suppliers. Price terms are generally producers' prices at time of shipment. We
+do not generally engage in hedging transactions for the purchase of copper.
+Currently, world stocks of and capacity for copper are adequate to meet our
+requirements. We purchase insulating compounds, including Teflon(R), from
+various suppliers and, while from time to time there have been shortages of such
+material, supplies are currently adequate to meet our needs. Certain of our
+products also require bulk uncabled optical fiber singles, which are currently
+purchased primarily from one supplier. While supplies are currently adequate to
+meet our need, there have, in the past, been periods when the worldwide supply
+of bulk optical fiber and certain other fiber optic components, such as
+ferrules, has been limited. Other materials used include reels, tapes, textiles,
+chemicals and other materials. Currently, supplies of these other materials are
+adequate to meet our needs.
+
+     Customers
+
+     We sell our products directly or through established distributors to a
+variety of customers, including original equipment manufacturers, regional Bell
+operating companies, competitive local exchange carriers, and certified system
+vendors. We support over 10,000 customers. No single customer accounted for more
+than 10% of sales in fiscal 2001, 2000 or 1999.
+
+     Competition
+
+     The markets served by our products are competitive. Although some of our
+competitors are substantially larger and have greater resources than we do, we
+believe that we compete successfully in our markets due to our experienced
+management team, manufacturing expertise, breadth of product offerings and
+leading edge technology, large number of customer approved specifications,
+emphasis on quality and established reputation. In all of our markets we compete
+with a large number of competitors, some of which are significantly larger than
+us.
+
+
+                                       5
+
+<PAGE>
+
+     Backlog
+
+     Backlog orders believed to be firm were $68.8 million at July 31, 2001,
+compared to $126.8 million at July 31, 2000. We believe that substantially all
+of the backlog is shippable within the next twelve months. Generally, customers
+may cancel orders for standard products without penalty upon thirty days notice.
+
+     Research and Development
+
+     We engage in research and development activities including new and existing
+product development. Research and development costs were $5.2 million, $4.6
+million and $5.5 million in fiscal 2001, 2000 and 1999, respectively.
+
+     Foreign Operations
+
+     Information regarding the Company's foreign and domestic operations is set
+forth in Note 14, "Industry and Geographic Segment Information" as presented in
+the Company's Notes to Consolidated Financial Statements, and is incorporated
+herein by reference.
+
+     Environmental Matters
+
+     We are subject to numerous federal, state, provincial, local and foreign
+laws and regulations relating to the storage, handling, emission and discharge
+of materials into the environment, including the United States Comprehensive
+Environmental Response, Compensation and Liability Act, the Clean Water Act, the
+Clean Air Act, the Emergency Planning and Community Right-To-Know Act and the
+Resource Conservation and Recovery Act. Regulations of particular significance
+to us include those pertaining to handling and disposal of solid and hazardous
+waste, discharge of process wastewater and storm water and release of hazardous
+chemicals. Although we believe that we are in substantial compliance with such
+laws and regulations, we may from time to time not be in full compliance and may
+be subject to fines or other penalties for noncompliance.
+
+     We do not currently anticipate any material adverse effect on our business
+as a result of compliance with federal, state, provincial, local or foreign
+environmental laws or regulations. However, some risk of environmental liability
+and other costs is inherent in the nature of our business, and there can be no
+assurance that material environmental costs will not arise in the future.
+
+     The Company was named as a third party defendant in People of the State of
+                                                         ----------------------
+California v. M&P Investments and various other parties (CIV-S-00-24411 Eastern
+-----------------------------
+District, CA). The complaint, brought under Federal, State and local statutory
+provisions, alleges that property previously owned by a predecessor to the
+Company contributed to ground water pollution in the City of Lodi, California.
+The Company believes that initial reports prepared on behalf of the City of Lodi
+show that the property alleged to have been owned by a predecessor to the
+Company is not one of the potential pollution sources. The Company does not
+believe that the resolution of this matter will have a material adverse effect
+on the Company.
+
+
+                                       6
+
+<PAGE>
+
+     Employees
+
+     As of July 31, 2001, we had approximately 3,300 full-time employees and 550
+workers under contract manufacturing arrangements in Mexico, excluding employees
+under notice periods associated with the Company's restructuring plan announced
+in the fourth fiscal quarter. Approximately 1,100 of the full-time employees are
+represented by labor unions. We have not experienced any material work stoppages
+at our plants and we believe that, in general, our current relations with our
+employees are good. Union contracts covering approximately 500 employees at
+various operating units have expired and are currently being negotiated or
+expire within the next twelve months, including contracts relating to our
+Nordx/CDT operations in Montreal, Canada. There can be no assurance that
+conflicts will not arise with unions (whether in the context of contract
+negotiations or otherwise) or other employee groups or that such conflicts would
+not have a material adverse effect on our business.
+
+     Risk Factors
+
+     We may not be able to successfully identify, finance or integrate
+acquisitions. Growth through acquisitions is an important part of our strategy.
+We cannot assure that we will be successful in identifying, financing and
+closing acquisitions at favorable prices and terms. Many of the areas in which
+we are looking to expand through acquisition have been characterized by high
+valuations. These acquisition opportunities may only be feasible if we obtain
+additional financing, and such financing may not be available on terms
+acceptable to us, or at all. Further, we cannot assure that we will be
+successful in integrating any such acquisitions that are completed. Also,
+integration of any such acquisitions may require substantial management,
+financial and other resources and may pose risks with respect to production,
+customer service and market share of existing operations.
+
+     Because we operate in markets that experience rapid technological change,
+certain of our products could become obsolete or marketplaces in which we sell
+could become more competitive. Many of the markets that we serve are
+characterized by rapid technological change. We believe that our future success
+will depend in part upon our ability to enhance existing products and to develop
+or acquire new products that meet or anticipate such changes. The failure to
+successfully introduce new or enhanced products on a timely and cost-competitive
+basis could have a material adverse effect on our business. At the same time,
+however, the introduction of new or enhanced products tends to have the effect
+of reducing the prices at which we can sell some of our existing product lines,
+which may harm our net sales and profitability.
+
+     Many of our network cable products are subject to various industry
+standards. Many of such standards, particularly for newer high bandwidth cable
+products, are still being developed. In the event we are unable to meet such
+standards when adopted, or if the implementation of such standards was delayed,
+our business could be adversely affected.
+
+
+
+
+                                       7
+
+<PAGE>
+
+     Fiber optic technology represents a substitute for copper based cable
+products. A significant decrease in the cost and complexity of installation of
+fiber optic systems, or increase in the cost of copper based systems, could make
+fiber optic systems superior on a price performance basis to copper systems and
+may have a material adverse effect on our business. Also, wireless technology,
+as it relates to premise network and communication systems, may represent a
+threat to both copper and fiber optic cable based systems by reducing the need
+for premise wiring. While we sell fiber optic cable and components and cable
+that is used in various wireless applications, if fiber optic systems or
+wireless technology were to significantly erode the markets for copper based
+systems or, in the case of wireless technology, fiber optic based systems, our
+sales of fiber optic and wireless products may not be sufficient to offset any
+decrease in sales or profitability of other products that may occur.
+
+     Technological advances could require significant capital or other
+expenditures to manufacture new products or maintain market positions. Our
+failure to make such capital expenditures on a timely basis or our making
+capital expenditures in markets that fail to adequately develop could have an
+adverse effect on us. Further, as other manufacturers make capital expenditures
+to enable them to manufacture products similar to those manufactured by us,
+markets for such products may become more competitive resulting in decreases in
+sales and profits.
+
+     Price fluctuations or shortages of raw materials could adversely affect our
+operations. Copper is a principal raw material purchased by us, and our sales
+may be affected by the market price of copper. Significant fluctuations in the
+price of copper or other raw materials could have a negative effect on our
+business. We generally do not engage in hedging transactions for copper or other
+raw materials and we may not be able to pass on increases in the price of copper
+and other raw materials to our customers. We also purchase compounds, such as
+Teflon(R), from various suppliers. From time to time, the supply of such
+materials has been limited. The inability of suppliers to supply such raw
+materials could have a material adverse effect on our business until a
+replacement supplier is found or substitute materials are approved for use. In
+addition, we purchase bulk uncabled optical fiber singles which we further
+process and sell. While supplies are currently adequate to meet our need, there
+have, in the past, been periods when the worldwide supply of bulk optical fiber
+and certain other fiber optic components, such as ferrules, has been limited. If
+adequate supplies of such fiber and other components were unavailable and/or
+additional suppliers could not be obtained, our growth in the fiber optic cable
+marketplace could be limited.
+
+     Our business is subject to the economic and political risks of maintaining
+facilities and selling products in foreign countries. During fiscal 2001, 40% of
+our sales were in markets outside the United States. Our operations may be
+adversely affected by significant fluctuations in the value of the U.S. dollar
+against foreign currencies or by the enactment of exchange controls or foreign
+governmental or regulatory restrictions on the transfer of funds. Furthermore,
+our foreign operations are subject to risks inherent in maintaining operations
+abroad such as economic and political destabilization, international conflicts,
+restrictive actions by foreign governments, nationalizations and adverse foreign
+tax laws.
+
+     Our markets are competitive. We are subject to competition from a
+substantial number of international and regional competitors, some of which have
+greater financial, engineering, manufacturing and other resources than we do.
+Our competitors can be expected to continue to improve the design and
+performance of their products and to introduce new products with competitive
+price and performance characteristics. Furthermore, maintaining our current
+technological advantages will require continued investment by us in engineering,
+research and development, marketing and customer service and support. There can
+be no assurance that we will have sufficient resources to continue to make such
+investments or that we will be successful in maintaining such advantages.
+
+
+                                       8
+
+<PAGE>
+
+     Potential environmental, product, warranty or other liabilities could
+adversely impact our financial position. Risk of environmental, product and
+warranty liabilities, and other costs associated therewith, are inherent in the
+nature of our business. We cannot assure you that material environmental,
+product or warranty costs will not arise in the future.
+
+     Losing the services of key personnel or adverse relations with employees
+could harm our business. Our continued success depends on the efforts and
+abilities of our executive officers and other key employees. The loss of any of
+our executive officers or other key employees could adversely affect our
+operations. We generally do not have employment contracts with our executive
+officers or other key employees. Our ability to attract and retain quality
+employees in all disciplines is important to our future success. See also
+"Business-Employees".
+
+     The Company's main credit facility expires in April 2002. The Company is
+working on refinancing such facility and believes that its cash flow, asset base
+and business plan are sufficient to accomplish such refinancing in the current
+lending markets. There are risks, however, that due to the current industry
+conditions, economic slowdown and tight credit markets that the cost, conditions
+and covenants of such new credit facility could be substantially more onerous
+than those in the Company's current facility. There is also risk that prior to
+completing such new facility, events occur with respect to the Company, the
+economy or the credit markets that close the bank market to the Company.
+
+     Anti-takeover provisions could delay or prevent a change in control or
+adversely impact the price of our common stock. Provisions of our Rights Plan
+and our certificate of incorporation, and provisions of the Delaware General
+Corporation Law could each have the effect of deterring hostile takeovers or
+delaying, deterring or preventing a change in control of our company, including
+transactions in which stockholders might otherwise receive a premium for their
+shares over current market prices.
+
+Disclosure Regarding Forward-Looking Statements
+
+This report includes and incorporates by reference "Forward-looking statements"
+within the meaning of Section 27A of the Securities Act and Section 21E of the
+Exchange Act. All statements other than statements of historical fact included
+or incorporated in this report may constitute forward-looking statements.
+Although the Company believes that the expectations reflected in such
+forward-looking statements are reasonable, it can give no assurance that such
+expectations will prove to have been correct. Important factors, including those
+described under "Risk Factors", could cause actual results to differ materially
+from the Company's expectations. All subsequent written and oral forward-looking
+statements attributable to the Company or persons acting on its behalf are
+expressly qualified in their entirety by the cautionary statements.
+
+
+
+
+                                       9
+
+<PAGE>
+
+ITEM 2.  PROPERTIES
+
+     The Company uses various owned or leased properties as manufacturing
+facilities, warehouses, and sales and administration offices. The Company
+believes that current facilities, together with planned expenditures for normal
+maintenance, capacity and technological improvements, will provide adequate
+production capacity to meet expected demand for its products.
+
+     Listed below are the principal manufacturing, warehouse and sales
+facilities operated by the Company. Additionally, the Company also owns or
+leases approximately 196,000 square feet of other warehouse and sales
+facilities. Manufacturing facilities of approximately 127,000 and 60,000 square
+feet are operated on behalf of the Company in Nogales, Mexico and Tijuana,
+Mexico, respectively, by third parties pursuant to contract manufacturing
+arrangements.
+
+<TABLE>
+<CAPTION>
+                                                                                         Owned or          Approx.
+Location                                 Use                                             Leased           Sq. Feet
+<S>                                      <C>                                             <C>              <C>
+Auburn, MA                               Manufacturing, Sales and Administration         Owned              146,000
+Auburn, MA                               Manufacturing and Warehousing                   Leased              71,000
+Bagnacavallo, Italy                      Manufacturing, Sales and Administration         Owned              126,000
+Barberton, OH                            Manufacturing, Sales and Administration         Owned               52,000
+Chicago, IL                              Manufacturing                                   Owned               18,000
+Ft. Lauderdale, FL                       Manufacturing, Sales and Administration         Owned               46,000
+Gjern, Denmark                           Manufacturing, Sales and Administration         Owned               22,000
+Irvine, CA                               Manufacturing, Sales and Administration         Leased              77,000
+Kingston, Ontario                        Manufacturing                                   Owned              500,000
+Kinna, Sweden                            Manufacturing, Sales and Administration         Owned              108,000
+Las Vegas, NV                            Warehousing                                     Leased              44,000
+Leominster, MA                           Manufacturing, Sales and Administration         Owned              202,000
+Leominster, MA                           Manufacturing                                   Leased             101,000
+Leominster, MA                           Warehouse                                       Leased              38,000
+Littleborough, United Kingdom            Manufacturing                                   Owned               42,000
+Longueuil, Quebec                        Manufacturing, Sales and Administration         Leased              50,000
+Lugo, Italy                              Manufacturing and Warehousing                   Leased              58,000
+Manchester, CT                           Manufacturing                                   Leased              55,000
+Manchester, CT                           Manufacturing, Sales and Administration         Leased             150,000
+Memphis, TN                              Warehousing                                     Owned              147,000
+Montreal, Quebec                         Manufacturing, Sales and Administration         Owned              300,000
+Orebro, Sweden                           Manufacturing, Sales and Administration         Owned               47,000
+Skelmersdale, United Kingdom             Manufacturing, Sales and Administration         Owned              122,000
+Wadsworth, OH                            Manufacturing, Sales and Administration         Owned               45,000
+Waynesburg, PA                           Manufacturing                                   Owned               42,000
+Washington, PA                           Manufacturing                                   Leased              82,000
+Washington, PA                           Manufacturing                                   Owned              123,000
+Washington, PA                           Manufacturing, Sales and Administration         Owned               85,000
+Washington, PA                           Warehousing                                     Owned               79,000
+Wheeling, IL                             Manufacturing, Sales and Administration         Owned              110,000
+Wheeling, IL                             Manufacturing, Sales and Administration         Owned               80,000
+Wipperfurth, Germany                     Manufacturing, Sales and Administration         Owned              351,000
+Wipperfurth, Germany                     Manufacturing                                   Leased              69,000
+</TABLE>
+
+
+
+
+                                       10
+
+<PAGE>
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     The Company is a party to various legal proceedings and administrative
+actions incidental to the operations of the Company. In the opinion of the
+Company's management, such proceedings and actions should not, individually or
+in the aggregate, have a material adverse effect on the Company's results of
+operations or financial condition. See also Item I., Business--Environmental
+Matters.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     During the fourth quarter of the fiscal year covered by this report no
+matter was submitted to a vote of security holders.
+
+ITEM 4.1. EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Age      Present Office and Experience
+---      -----------------------------
+
+67       Paul M. Olson has been President and a director of the Company since
+         1985, and Chief Executive Officer of the Company since 1993. From 1972
+         to 1984 Mr. Olson was the President of Phalo Corporation, a wire and
+         cable manufacturer, and directed sales and marketing at Phalo
+         Corporation from 1967 to 1972. From 1963 to 1967, Mr. Olson was
+         employed at General Electric and from 1960 to 1963, at General Cable,
+         in wire and cable related sales and marketing positions. Mr. Olson has
+         a Bachelor's Degree in Economics from Hobart College.
+
+59       George C. Graeber has been Chief Operating Officer and a director of
+         the Company since 1998. From 1992 to 1998, Mr. Graeber served in
+         various other positions with the Company, including Executive Vice
+         President of the Company and President of Montrose/CDT. From 1990 to
+         1992 Mr. Graeber was a Vice President and General Manager of the Energy
+         division of Anixter International, Inc., a distributor of cable and
+         communication equipment. Mr. Graeber also was the President of the
+         Industrial Electronic division of Brintec Corp. and a Vice President of
+         Brand Rex Cable. Mr. Graeber has a Master's Degree in Electrical
+         Engineering from the University of Connecticut.
+
+59       Michael A. Dudley has been an Executive Vice President of the Company
+         and President of CDT International since 1991. From 1988 to 1991 he was
+         the President of Superior Optics, a division of Superior Teletec, Inc.,
+         a manufacturer of communication cable. Mr. Dudley has a Doctorate
+         Degree in Material Science from The National College of Rubber
+         Technology in London, England.
+
+51       Normand R. Bourque has been an Executive Vice President of the Company
+         since 1996 and President and Chief Executive Officer of NORDX/CDT since
+         its acquisition. Prior to the acquisition, Mr. Bourque was Vice
+         President-Cable Group at Nortel from 1991 to 1995 and Vice President,
+         Operations-Cable Group from 1989 to 1991. From 1985 to 1988, Mr.
+         Bourque was Vice President and General Manager-Transmission Networks at
+         Nortel, and prior to that, held a number of positions in general
+         management and finance at Nortel. Mr. Bourque has a Bachelor's Degree
+         in Business Administration from the Ecole des Hautes Etudes
+         Commerciales in Montreal, Canada.
+
+
+                                       11
+
+<PAGE>
+
+62       David R. Harden has been a Senior Vice President of CDT and President
+         of West Penn/CDT since 1988. He founded West Penn Wire in 1971, and
+         operated that company until 1984 when it was acquired by the Company.
+         From 1984 until 1988 Mr. Harden was an Executive Vice President of West
+         Penn/CDT.
+
+40       Peter Sheehan has been an Executive Vice President of the Company since
+         1998. Mr. Sheehan joined the Company in 1995 in the area of
+         international sales and marketing. Prior to joining the company Mr.
+         Sheehan was Senior Vice President of Sales and Marketing of Berk-tek, a
+         wire and cable company. Mr. Sheehan has a Bachelor's Degree from Boston
+         College.
+
+51       Kenneth O. Hale has been Vice President and Chief Financial Officer of
+         the Company since 1987. Mr. Hale holds a Certified Public Accountant's
+         certificate and an MBA in finance from the University of Missouri.
+
+40       Charles B. Fromm was appointed Vice President and General Counsel of
+         the Company in October 1997, and Secretary of the Company in 1999.
+         Prior to joining the Company, Mr. Fromm was a Partner at Kirkland &
+         Ellis, New York. Mr. Fromm has a Bachelor's Degree in Business
+         Administration and a Juris Doctor Degree from the University of
+         Michigan.
+
+54       Ian Mack was appointed President of European Operations in August 2000.
+         Prior thereto, Mr. Mack was managing director of Brand Rex Limited, a
+         division of BICC plc, a company based in the United Kingdom.
+
+
+
+                                       12
+
+<PAGE>
+
+PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER
+         MATTERS
+
+     As of October 17, 2001, there were 178 holders of record of the Company's
+Common Stock.
+
+     Additional information required by this item is set forth under the heading
+"Directors, Officers, and Corporate Information" on page 38 of the 2001 Annual
+Report and is incorporated herein by reference.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+     Information required by this item is set forth under the heading "Selected
+Historical Consolidated Financial Data" on page 37 of the 2001 Annual Report and
+is incorporated herein by reference.
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+     Management's Discussion and Analysis of Financial Condition and Results of
+Operations appears on pages 9 through 15 of the 2001 Annual Report and is
+incorporated herein by reference.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     Information required by this item appears under the heading "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" on
+page 14 of the 2001 Annual Report and is incorporated herein by reference.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     Information required by this item is set forth on pages 16 through 36 of
+the 2001 Annual Report and is incorporated herein by reference and filed
+electronically herewith as Exhibit 13.1.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+     None.
+
+
+
+                                       13
+
+<PAGE>
+
+PART III.
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+   a.   Information concerning the Registrant's directors is set forth in the
+        Registrant's definitive proxy statement to be filed with the Securities
+        and Exchange Commission on or before November 16, 2001. Such information
+        is incorporated herein by reference.
+
+   b.   Information concerning executive officers of the Registrant is set forth
+        in Item 4.1 of Part I at page 11 of this Report under the heading
+        "Executive Officers of the Registrant".
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+   Information concerning executive officers of the Registrant is set forth in
+the Registrant's definitive proxy statement to be filed with the Securities and
+Exchange Commission on or before November 16, 2001. Such information is
+incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+   Information concerning security ownership of certain beneficial owners and
+management is set forth in the Registrant's definitive proxy statement to be
+filed with the Securities and Exchange Commission on or before November 16,
+2001. Such information is incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+   Information concerning certain relationships and related transactions is set
+forth in the Registrant's definitive proxy statement to be filed with the
+Securities and Exchange Commission on or before November 16, 2001. Such
+information is incorporated herein by reference.
+
+
+                                       14
+
+<PAGE>
+
+PART IV.
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+  (a) 1.  The following documents are included in the 2001 Annual Report, pages
+          16 through 36, and are incorporated herein by reference:
+
+
+              a.    Report of Independent Public Accountants.
+              b.    Consolidated Statements of Income for the years ended July
+                    31, 2001, 2000 and 1999.
+              c.    Consolidated Balance Sheets as of July 31, 2001 and 2000.
+              d.    Consolidated Statements of Cash Flow for the years ended
+                    July 31, 2001, 2000 and 1999.
+              e.    Consolidated Statements of Stockholders' Equity for the
+                    years ended July 31, 2001, 2000 and 1999.
+              f.    Notes to Consolidated Financial Statements.
+
+      2.  The following documents are filed as part of this report:
+
+              a.    Report of Independent Public Accountants on Supplemental
+                    Schedule.
+              b.    Schedule II: Valuation and Qualifying Accounts for the
+                    three years ended July 31, 2001.
+              c.    List of Exhibits
+
+      3.  List of Exhibits
+
+          3.1       Amended and Restated Certificate of Incorporation of CDT as
+                    filed with the Secretary of State of Delaware on November
+                    10, 1993, incorporated by reference to Exhibit 3.1 to CDT's
+                    Registration Statement on Form S-1 (File No. 33-69992),
+                    Certificate of Amendment of the Restated Certificate of
+                    Incorporation of CDT and Certificate of Designation,
+                    Preferences and Rights of Junior Participating Preferred
+                    Stock, Series A of CDT, as filed with the Secretary of State
+                    of Delaware on December 11, 1996 and incorporated by
+                    reference to CDT's Registration Statement on Form 8-A/A, as
+                    filed on December 23, 1996.
+
+          3.2-      By-Laws of CDT, as amended to date, incorporated by
+                    reference to Exhibit 3.2 to the Post-Effective Amendment No.
+                    1 to CDT's Registration Statement on Form S-3 (File No.
+                    333-00554), as filed on February 28, 1996.
+
+          4.1       Form of certificate representing shares of the Common Stock
+                    of CDT. Incorporated by reference to Exhibit 4.1 to CDT's
+                    Registration Statement on Form S-1 (File No. 33-69992).
+
+          4.2-      Rights Agreement dated as of December 11, 1996, between
+                    Cable Design Technologies Corporation and The First National
+                    Bank of Boston, as Rights Agent, including the form of
+                    Certificate of Designation, Preferences and Rights of Junior
+                    Participating Preferred Stock, Series A attached thereto as
+                    Exhibit A, the form of Rights Certificate attached thereto
+                    as Exhibit B and the Summary of Rights attached thereto as
+                    Exhibit C. Incorporated herein by reference to CDT's
+                    Registration Statement on Form 8-A, as filed on December 11,
+                    1996.
+
+
+
+                                       15
+
+<PAGE>
+
+          10.1   -  CDT Long-Term Performance Incentive Plan (adopted on
+                    September 23, 1993). Incorporated by reference to Exhibit
+                    10.18 to CDT's Registration Statement on Form S-1 (File No.
+                    33-69992).
+
+          10.2   -  CDT Stock Option Plan. Incorporated by reference to Exhibit
+                    4.3 to CDT's Registration Statement on Form S-8 as filed on
+                    December 22, 1993.
+
+          10.3   -  Cable Design Technologies Corporation Management Stock Award
+                    Plan (adopted on September 23, 1993). Incorporated by
+                    reference to Exhibit 4.3 to CDT's Registration Statement on
+                    Form S-8, as filed on May 2, 1994.
+
+          10.4   -  Description of CDT Bonus Plan. Incorporated by reference to
+                    Exhibit 10.20 to CDT's Registration Statement on Form S-1
+                    (File No. 33-69992).
+
+          10.5   -  Lease Agreement between Phalo and First Hartford Realty
+                    Corp., dated as of November 9, 1992. Incorporated by
+                    reference to Exhibit 10.23 to CDT's Registration Statement
+                    on Form S-1 (File No. 33-69992).
+
+          10.6   -  Employment Agreement dated February 2, 1996, among CDT,
+                    NORDX/CDT and Normand Bourque. Incorporated by reference to
+                    Exhibit 10.17 to CDT's Report on Form 8-K as filed on
+                    February 20, 1996.
+
+          10.7   -  Collective Labour Agreement dated June 10, 1996, between
+                    NORDX/CDT and Canadian Union of Communications Workers Unit
+                    4. Incorporated by reference to Exhibit 10.19 to CDT's
+                    Annual Report on Form 10-K, as filed on October 29, 1996.
+
+          10.8   -  Form of Change in Control Agreement between CDT and each of
+                    George C. Graeber, Kenneth O. Hale, Charles B. Fromm, Peter
+                    Sheehan, Michael A. Dudley and Ian Mack. Incorporated by
+                    reference to Exhibit 10.14 to CDT's Annual Report on Form
+                    10-K, as filed on October 27, 1999.
+
+          10.9   -  Change in Control Agreement dated June 11, 1999, between CDT
+                    and Paul M. Olson. Incorporated by reference to Exhibit
+                    10.15 to CDT's Annual Report on Form 10-K, as filed on
+                    October 27, 1999.
+
+          10.10  -  Cable Design Technologies Corporation 1999 Long-Term
+                    Performance Incentive Plan adopted April 19, 1999 and
+                    amended June 11, 1999. Incorporated by reference to Exhibit
+                    10.16 to CDT's Annual Report on Form 10-K, as filed on
+                    October 27, 1999.
+
+          10.11  -  Cable Design Technologies Corporation Employee Stock
+                    Purchase Plan. Incorporated by reference to Exhibit 4.3 to
+                    CDT's Registration Statement on Form S-8 (File No.
+                    333-76351).
+
+
+          10.12  -  Form of June 11, 1999 Stock Option Grant under the 1999
+                    Long-Term Performance Incentive Plan. Incorporated by
+                    reference to Exhibit 10.18 to CDT's Annual Report on Form
+                    10-K, as filed on October 27, 1999.
+
+
+                                       16
+
+<PAGE>
+
+          10.13  -  Form of April 23, 1999 Stock Option Grant. Incorporated by
+                    reference to Exhibit 10.19 to CDT's Annual Report on Form
+                    10-K, as filed on October 27, 1999.
+
+          10.14     Amendment No. 1, dated March 7, 2000, to Cable Design
+                    Technologies Corporation Non-Employee Director Stock Plan.
+                    Incorporated by reference to Exhibit 10.14 to CDT's Annual
+                    Report on Form 10-K, as filed on October 27,2000.
+
+          10.15     Amendment No. 2, dated July 13, 2000, to Cable Design
+                    Technologies Corporation 1999 Long-Term Performance
+                    Incentive Plan. Incorporated by reference to Exhibit 10.15
+                    to CDT's Annual Report on Form 10-K, as filed on October
+                    27,2000.
+
+          10.16     Employment agreement dated August 1, 2000, among CDT, Noslo
+                    Ltd. and Ian Mack. Incorporated by reference to Exhibit
+                    10.16 to CDT's Annual Report on Form 10-K, as filed on
+                    October 27,2000.
+
+          10.17     Cable Design Technologies Corporation 2001 Long-Term
+                    Performance Incentive Plan adopted December 6, 2000.
+                    Incorporated by reference to Exhibit 99.1 to CDT's Report on
+                    Form 10-Q as filed March 15, 2001.
+
+          10.18     Form of Stock Option Grant under CDT Non-Employee Director
+                    Stock Plan. Incorporated by reference to Exhibit 99.2 to
+                    CDT's Report on Form 10-Q as filed March 15, 2001.
+
+          13.1   -  CDT 2001 Annual Report to Stockholders (to the extent
+                    incorporated herein by reference).**
+
+          21.1   -  List of Subsidiaries of CDT.**
+
+          23.1   -  Consent of Arthur Andersen LLP.**
+
+          99.4   -  Credit Agreement dated April 10, 1997, among the Company,
+                    The First National Bank of Boston, Banque Paribas, Chicago
+                    Branch, Paribas Bank of Canada, Bank of America Illinois,
+                    Bank of America Canada and other lenders party thereto.
+                    Incorporated by reference to CDT's Report on Form 10-Q, as
+                    filed on June 16, 1997.
+
+          99.5   -  First Amendment to Credit Agreement dated July 31, 1998
+                    (effective August 3, 1998) among CDT, BankBoston N.A.,
+                    Paribas, Paribas Bank of Canada, Bank of America NT & SA,
+                    Bank of America Canada and other Lenders party thereto.
+                    Incorporated by reference to CDT's Report on Form 10-K as
+                    filed on October 29, 1998.
+
+          99.6   -  Second Amendment to Credit Agreement dated July 31, 1998
+                    (effective August 3, 1998) among CDT, BankBoston N.A.,
+                    Paribas, Paribas Bank of Canada, Bank of America NT & SA,
+                    Bank of America Canada and other Lenders party thereto.
+                    Incorporated by reference to CDT's Report on Form 10-K as
+                    filed on October 29, 1998.
+
+                                       17
+
+<PAGE>
+
+          99.7   -  Revolving Line of Credit Letter Agreement dated March 9,
+                    2001, between CDT and Fifth Third Bank. Incorporated by
+                    reference to Exhibit 99.1 to CDT's Report on Form 10-Q as
+                    filed on June 13, 2001.
+
+          99.8   -  Master Revolving Line of Credit Promissory Note issued by
+                    CDT in favor of Fifth Third Bank. Incorporated by reference
+                    to Exhibit 99.2 to CDT's Report on Form 10-Q as filed on
+                    June 13, 2001.
+
+          ** Filed Herein
+
+          (b)  Reports on Form 8-K
+
+                   None
+
+
+                                       18
+
+<PAGE>
+
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereto duly authorized.
+
+Cable Design Technologies Corporation
+
+By:/s/ Paul M. Olson                                            October 29, 2001
+   -------------------------------------
+   Paul M. Olson
+   President and Chief Executive Officer
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the Registrant and
+in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+
+SIGNATURE                                       TITLE                                         DATE
+
+<S>                                             <C>                                     <C>
+/s/ Bryan C. Cressey                            Chairman of the Board                   October 29, 2001
+---------------------------------------         Director
+Bryan C. Cressey
+
+/s/ Paul M. Olson                               Director, President, Chief              October 29, 2001
+---------------------------------------         Executive Officer (Principal
+Paul M. Olson                                   Executive Officer)
+
+/s/ George C. Graeber                           Director, Chief Operating               October 29, 2001
+---------------------------------------
+George C. Graeber                               Officer
+
+/s/ Kenneth O. Hale                             Vice President, Chief Financial         October 29, 2001
+---------------------------------------         Officer (Principal Financial
+Kenneth O. Hale                                 and Accounting Officer)
+
+/s/ Ferdinand Kuznik                            Director                                October 29, 2001
+---------------------------------------
+Ferdinand Kuznik
+
+/s/ Michael F.O. Harris                         Director                                October 29, 2001
+---------------------------------------
+Michael F. O. Harris
+
+/s/ Glenn Kalnasy                               Director                                October 29, 2001
+---------------------------------------
+Glenn Kalnasy
+
+/s/ Richard C. Tuttle                           Director                                October 29, 2001
+---------------------------------------
+Richard C. Tuttle
+
+/s/ Lance Balk                                  Director                                October 29, 2001
+---------------------------------------
+Lance Balk
+</TABLE>
+
+
+                                       19
+
+<PAGE>
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                            ON SUPPLEMENTAL SCHEDULE
+
+
+
+We have audited in accordance with auditing standards generally accepted in the
+United States, the consolidated financial statements included in Cable Design
+Technologies Corporation and Subsidiaries' annual report to stockholders
+incorporated by reference in this Form 10-K, and have issued our report thereon
+dated September 26, 2001. Our audits were made for the purpose of forming an
+opinion on those financial statements taken as a whole. The schedule listed in
+the accompanying index is the responsibility of the Company's management and is
+presented for purposes of complying with the Securities and Exchange
+Commission's rules and is not part of the basic financial statements. This
+schedule has been subjected to the auditing procedures applied in the audits of
+the basic financial statements and, in our opinion, fairly states in all
+material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+
+/s/ Arthur Andersen LLP
+
+Pittsburgh, Pennsylvania
+  September 26, 2001
+
+
+
+
+                                       20
+
+<PAGE>
+
+
+                      CABLE DESIGN TECHNOLOGIES CORPORATION
+                 SCHEDULE II: VALUATION AND QUALIFYING ACCOUNTS
+                FOR THE YEARS ENDED JULY 31, 2001, 2000 and 1999
+
+<TABLE>
+<CAPTION>
+
+                                                        Additions to
+                                                        Reserve from    Additions
+                                        Balance at      Acquisitions    Charged to                   Balance at
+                                        Beginning of     & Other        Costs and    Reduction        End of
+                                        Period          Adjustments     Expenses     from Reserve     Period
+                                        ------          -----------     --------     ------------     ------
+                                                                    (Dollars in thousands)
+
+   Allowance for uncollectible
+   accounts/sales returns:
+
+
+<S>                                       <C>              <C>           <C>            <C>            <C>
+        Year Ended July 31, 1999          $3,995           $ 172         $1,479         $  (720)       $4,926
+        Year Ended July 31, 2000          $4,926           $  13         $3,071         $(1,830)       $6,180
+        Year Ended July 31, 2001          $6,180           $ (94)        $8,413         $(8,138)       $6,361
+
+   Restructuring reserve:
+
+
+        Year Ended July 31, 1999          $1,759           $-----        $ (264)        $(1,247)       $ 248
+        Year Ended July 31, 2000          $  248           $-----        $ (248)        $-------       $-----
+        Year Ended July 31, 2001          $-----           $    6        $6,128         $  (543)       $5,591
+</TABLE>
+
+
+                                       21
+
+<PAGE>
+
+                      CABLE DESIGN TECHNOLOGIES CORPORATION
+                         INDEX TO EXHIBITS FILED HEREIN
+                                  JULY 31, 2001
+
+EXHIBIT
+NUMBER          EXHIBIT
+
+13.1    -       CDT 2001 Annual Report to Stockholders (to the extent
+                incorporated herein by reference).
+
+21.1    -       List of Subsidiaries of CDT.
+
+23.1    -       Consent of Arthur Andersen LLP.
+
+
+
+
+                                       22
+
+</TEXT>
+</DOCUMENT>

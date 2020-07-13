@@ -1,0 +1,2564 @@
+<DOCUMENT>
+<TYPE>10-K405
+<SEQUENCE>1
+<FILENAME>a70769e10-k405.txt
+<DESCRIPTION>FORM 10-K405 FOR PERIOD ENDING 12/31/00
+<TEXT>
+
+<PAGE>   1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-K
+
+                            ------------------------
+(MARK ONE)
+
+     [X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+
+                    FOR THE PERIOD ENDED: DECEMBER 31, 2000
+
+                                       OR
+
+     [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+
+                        COMMISSION FILE NUMBER: 33-90532
+
+                      SPATIALIZER AUDIO LABORATORIES, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+           DELAWARE                                      95-4484725
+(STATE OR OTHER JURISDICTION OF                       (I.R.S. EMPLOYER
+INCORPORATION OR ORGANIZATION)                       IDENTIFICATION NO.)
+
+                       20700 VENTURA BOULEVARD, SUITE 140
+                     WOODLAND HILLS, CALIFORNIA 91364-2357
+                    (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+                        TELEPHONE NUMBER: (818) 227-3370
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days:  Yes [X]  No [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+
+     The aggregate market value of the voting stock held by non-affiliates of
+the registrant at March 8, 2001 was approximately $18,500,000.
+
+     As of March 8, 2001, there were 47,401,939 shares of the Registrant's
+Common Stock outstanding.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>   2
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+Overview
+
+     Spatializer Audio Laboratories, Inc. ("The Company" or "we") is a leading
+developer, licensor and marketer of next generation technologies for the
+consumer electronics, personal computing, enterprise computing and entertainment
+industries. Our position as a leading developer of next generation technologies
+is based on our strong relationships with brand leaders, such as Apple, Toshiba
+and Hitachi. We conduct our audio business through our parent company and our
+wholly owned subsidiary, Desper Products, Inc. ("DPI"). DPI has developed a full
+complement of patented and proprietary 3-D or virtual audio signal processing
+technologies directed to the consumer electronics and multimedia PC markets. We
+continue to expand our product offerings to take advantage of the emerging
+digital audio marketplace specifically for consumer products like Digital
+Versatile Disc ("DVD") players, portable mp3 players, digital televisions and
+digital home, portable and auto entertainment devices. As of December 31, 2000,
+more than 25 million licensed units had been shipped covering all of these
+applications. DPI's virtual audio signal processing technologies are currently
+incorporated in products offered by global brand leaders including in consumer
+electronics, Toshiba, Panasonic, JVC, Hitachi, Mitsubishi, Samsung, Sanyo, LG
+Electronics, Zenith, Sharp and Proton, in the PC multimedia marketplace by Apple
+Computer, among others, and on the Internet through software plug-ins for the
+WinAmp and Linux-based XMMS mp3 players. We are focused on broadening
+recognition for the Spatializer brand name through association with these and
+other globally recognized consumer electronics and multimedia computer brand
+leaders, and on broadening our audio technology and software base to position
+ourselves for continued growth. We believe that with the accelerating growth in
+the digital audio/video marketplace, the market for virtual audio technologies,
+and therefore for our products, is entering a new phase of opportunity.
+
+     Our other wholly owned subsidiary, MultiDisc Technologies, Inc., ("MDT")
+formed in June 1996 when we acquired development stage optical disc storage and
+robotics assets and technologies from Home Theater Products, International,
+Inc., a debtor in possession, is now inactive. In September 1998, we announced
+our plan to refocus our business on the exploitation of our core audio
+technologies, suspend research and development at MDT and to properly position
+the MultiDisc assets for sale. Therefore, MDT has been accounted for as a
+discontinued operation. Since 1998 we have been unsuccessful in identifying a
+purchaser for this technology. This repositioning strategy recognized that the
+capital investment required to properly commercialize the MDT technology was
+beyond our current capacity. We believe this strategy provides a better
+opportunity to further solidify our position as a leading provider of virtual
+audio solutions, based on available capital resources.
+
+     In December 1999, we completed the placement of $1 million of Common Stock,
+at no discount from market, the conversion of $1 million of short-term debt to
+new Series B Redeemable Convertible Preferred Stock and the restatement of
+$225,000 of existing secured debt to secured long-term debt (the "December
+Transactions"). The December Transactions significantly strengthened our balance
+sheet and restored working capital and shareholder's equity. The resulting
+liquidity allowed us to emerge from turnaround mode and to pursue growth and
+operating stability in 2000.
+
+     Our executive offices are located at 20700 Ventura Boulevard, Suite 140,
+Woodland Hills, California 91364, Telephone (818) 227-3370. We maintain a
+Website at www.spatializer.com. We were incorporated in the State of Delaware in
+February, 1994.
+
+DESPER PRODUCTS, INC. -- VIRTUAL AUDIO SIGNAL PROCESSING TECHNOLOGIES
+
+     DPI has developed a suite of proprietary advanced audio signal processing
+technologies for the entire spectrum of applications falling under the general
+category of virtual audio. The objective in each product category is to create
+or simulate the effect of a multi-speaker sonic environment using two ordinary
+speakers (or headphones) for playback. The market for virtual audio is segmented
+into five broad categories of technology as identified in the listing below.
+Each of these technologies utilizes different underlying scientific principles
+in accomplishing its design objectives and is targeted to a specific class of
+consumer electronics or multimedia computer depending on the intended product
+use and functional capability of the product. DPI currently has other audio
+signal processing technologies under development which will serve to expand its
+market scope and partner product capabilities.
+
+
+                                       2
+<PAGE>   3
+
+<TABLE>
+<CAPTION>
+----------------------------------------------------------------------------------------------------------
+      CATEGORY OF TECHNOLOGY                PRODUCT CATEGORIES              VIRTUAL AUDIO ENHANCEMENT
+----------------------------------------------------------------------------------------------------------
+<S>                                 <C>                                 <C>
+ 3-D Stereo                         Consumer electronics products       Surround Sound enhancement from an
+ (Spatializer(R) 3-D Stereo)        providing stereo playback -- DVD    ordinary stereo signal
+                                    Players, Stereo TV's, VCR's,
+                                    Stereo Components and Systems, Car
+                                    Audio, Laptop and Desktop
+                                    Multimedia Computers, Set-top
+                                    Boxes
+----------------------------------------------------------------------------------------------------------
+ Two-Speaker Virtualization         Products incorporating              Creation of spatially accurate
+ (Spatializer N-2-2(TM))            multi-channel audio sources like    multi- speaker cinematic audio
+ Digital Virtual Surround           Dolby Digital(R) (AC-3), Dolby      experience from two speakers, and
+                                    ProLogic(R) or MPEG-2. Home         headphones utilizing discrete
+                                    Theater, DVD-Video, Multimedia      multi-channel audio information.
+                                    Computers utilizing DVD/MPEG and
+                                    decoding.
+----------------------------------------------------------------------------------------------------------
+ Bass Enhancement                   Consumer electronics products       Simulation of lower frequency
+ (Vi.B.E.(TM))                      providing stereo playback -- DVD    response from speakers with
+                                    Players, Stereo TV's, VCR's,        relatively high low frequency
+                                    Stereo Components and Systems, Car  capability
+                                    Audio, Laptop and Desktop
+                                    Multimedia Computers and Speakers
+----------------------------------------------------------------------------------------------------------
+ Internet Audio Enhancement         Laptop and Desktop Multimedia       Surround Sound and bass
+ (Spatializer(R)                    Computers and portable music        enhancement to playback of
+ StreamFX(TM))                      devices running MP3 media player    ordinary MP3 files
+                                    Software
+----------------------------------------------------------------------------------------------------------
+ Headphone Virtualization           Products incorporating              Creation of spatially accurate
+ (Spatializer Natural               multi-channel audio sources like    multi- speaker cinematic audio
+ Headphone(TM))                     Dolby Digital(R) (AC-3), Dolby      experience from headphones
+ Digital Virtual Surround           ProLogic(R), MPEG-2 or stereo.      utilizing discrete multi-channel
+                                    Home Theater, DVD-Video,            audio information.
+                                    Multimedia Computers utilizing
+                                    DVD/MPEG Decoding or stereo.
+----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+LICENSED PRODUCTS
+
+     Our current technology product applications are directed to (1) two-speaker
+and headphone virtualization of multi-channel audio for DVD players and home
+theater applications, (2) stereo and bass enhancement in consumer electronics
+products and multimedia PCs, and (3) downloadable software, purchased directly
+by consumers, delivering audio enhancement applications for PCs .
+
+     1. SPATIALIZER(R) 3D STEREO. Based upon proprietary and patented methods of
+        stereo signal processing, the Company's Spatializer(R) 3-D Stereo
+        technology is designed to create a vivid and expansive three-
+        dimensional surround sound listening experience from any stereo source
+        input using only two ordinary speakers. Along with professional audio
+        quality and coherent stable sonic imaging, the technology includes the
+        Company's unique DDP(TM) (Double Detect and Protect(TM)) algorithm.
+        DDP(TM) continuously monitors the underlying stereo signal and
+        dynamically optimizes spatial processing, avoiding deleterious sonic
+        artifacts common in other systems and provides "set and forget" ease of
+        use for consumers. First introduced in July 1994 by DPI, in the form of
+        a 20 pin analog integrated circuit (IC) from Matsushita Electronics
+        Corporation ("MEC"), the technology is now incorporated into low-cost,
+        standard process ICs by four chip foundries (Matsushita, ESS
+        Technologies, Inc., OnChip Systems and Luxsonor) for easy and
+        inexpensive implementation in any consumer electronics or computer
+        products utilizing stereo audio. The technology is currently
+        available in both analog and digital formats. Matsushita introduced a
+        new Spatializer IC design in 1999, offering the Spatializer 3-D Stereo
+        effect in a simplified, lower cost package.
+
+     2. SPATIALIZER(R) N-2-2(TM) DIGITAL VIRTUAL SURROUND. In September 1996,
+        DPI introduced Spatializer N-2-2, which the Company considers a "core",
+        and "enabling" technology for DVD based home theater products and
+        personal computers. Through outstanding performance and continuous
+        enhancement, Spatializer N-2-2 has emerged as the "de facto standard"
+        for virtual surround sound as measured by most brand adoptions and
+        market share of such brands in the DVD player market. DVD is considered
+        by many to be the single most important and fastest adopted consumer
+        audio/computer technology ever introduced. The audio standards for DVD
+        (based upon geographic region) are multi-channel audio formats (Dolby
+        Digital(R) (AC-3) and MPEG-2) which carry six (or more) discrete
+        (independent) channels of audio -- the front left and right channels, a
+        center channel (for vocal tracks), two rear surround channels and a Low
+        Frequency Effects (LFE or "sub-woofer") channel for sound
+
+
+                                       3
+<PAGE>   4
+
+        effects. The Spatializer N-2-2 software- based algorithms permit
+        spatially accurate reproduction of this multi-channel audio over any
+        ordinary stereo system using two rather than the five or six speakers
+        normally required in traditional home theater setups. Spatializer N-2-2
+        runs in real-time on general purpose Digital Signal Processing ("DSP")
+        hardware platforms like those offered by C-Cube, Acer Labs, Inc.,
+        Motorola, VM Labs and Zoran; may be integrated with host based
+        software-only MPEG-2 or DVD decoders (like WinDVD and DVDExpress,
+        offered by Intervideo and Mediamatics, respectively, for the Intel(R)
+        Pentium(R) microprocessors); and can be ported to any of the principal
+        audio codecs or media processor/accelerator platforms performing Dolby
+        Digital (AC-3) or MPEG-2 audio decoding. Spatializer N-2-2 has been
+        approved by Dolby Laboratories and qualifies Spatializer licensees to
+        use the newly created Dolby Digital VIRTUAL(TM) trademark on products
+        incorporating the technology. We believe our Spatializer N-2-2 process
+        will serve to widen and accelerate the market for DVD acceptance,
+        because it delivers the full cinematic audio experience to ordinary
+        consumers without the additional expense and complication of
+        multi-speaker home theater playback systems.
+
+     3. SPATIALIZER(R) VI.B.E(TM). In early 1999, DPI introduced Spatializer
+        Vi.B.E., a virtual bass enhancement technology. Spatializer Vi.B.E.
+        produces a dynamic bass response from even the lowest-end speakers or
+        headphones. This is particularly important in enhancing the audio of all
+        forms of portable digital audio devices. Spatializer Vi.B.E. uses
+        proprietary technology to generate the perception of realistic bass
+        frequencies that are unaffected by actual speaker system frequency
+        response capability.
+
+     4. SPATIALIZER(R) STREAMFX(TM). First introduced by DPI in 1999,
+        Spatializer StreamFX creates a dramatic and enveloping sound experience
+        out of any pair of regular speakers or headphones when playing MP3 music
+        files. Spatializer StreamFX utilizes Spatializer 3-D Stereo and is a
+        long-time favorite of both movie and sound studios in addition to
+        numerous audio product manufacturers. Combined with Vi.B.E., this
+        product widens and deepens the soundfield to surround the listener with
+        rich and ambient enhanced audio. A headphone option generates the same
+        equally immersive experience over headphones creating a dramatic audio
+        experience.
+
+     5. SPATIALIZER(R) NATURAL HEADPHONE(TM). Spatializer Natural Headphone,
+        introduced by DPI in March 2001, renders spatially accurate multiple
+        speaker positions simulating the typical home theater or stereo
+        arrangement through a headphone. The headphone algorithm delivers a high
+        performance simulated surround sound experience, using a reasonable
+        amount of processing power at a reasonable cost. Thus, this solution is
+        equally practical and effective for both low-power portable devices and
+        home theater applications. Unlike typical virtual surround sound
+        headphone solutions, which rely heavily on reverberation which can sound
+        unnatural, Spatializer Natural Headphone utilizes a combination of
+        techniques to provide an expanded, yet natural sound field.
+
+     In addition to these technologies, we offer a series of products introduced
+by DPI under the Spatializer DigitalFX(TM) brand, first introduced in early
+2000. The Spatializer DigitalFX series is a comprehensive audio enhancement
+software solution based on the Company's Spatializer N-2-2 virtual surround
+sound technology and Spatializer Vi.B.E., the Company's virtual bass enhancement
+technology, combined with additional audio effects tailored and optimized for
+specific product applications. This powerful combination of technologies in a
+single product targeted for specific product applications provides a highly
+efficient and cost effective solution for the television, portable MP3, PDA, AV
+Receiver, PC and car audio markets.
+
+     Spatializer Digital TVFX(TM) is a customized application of Spatializer
+technology optimized for digital and analog televisions with an on board digital
+signal processor. Spatializer integrates its original, patented 3D Stereo and
+N-2-2 technologies with speaker-compensation and Vi.B.E. bass enhancement
+algorithms. The digital processing of the stereo signal provides a striking and
+immersive audio experience while the virtual bass enhancement creates apparently
+deeper bass response from the small speakers utilized by most televisions.
+Optional reverb and equalizer features further enhance the audio experience. The
+result is a dramatic improvement to the overall audio soundfield provided by the
+television. Spatializer Digital TVFX is 100% digital, and applicable to any TV
+system with an embedded DSP.
+
+     Spatializer Digital OntheGoFX(TM) is targeted specifically for portable MP3
+player devices, including Personal Data Assistants (PDAs). According to industry
+analysts, the portable MP3 player market is expected to grow to 32 million units
+sold by 2003. Spatializer Digital OntheGoFX shares the same core 3D stereo
+technology as other members of the Spatializer DigitalFX series, but includes a
+highly effective headphone algorithm which produces an expanded headphone audio
+experience.. In addition, the included Vi.B.E technology is particularly
+effective in improving the limited bass response of inexpensive lightweight
+stereo headphones often incorporated into these devices. The algorithms are
+highly efficient, utilizing a minimal amount of MIPS any standard embedded DSP.
+
+
+
+                                       4
+<PAGE>   5
+
+     Spatializer Digital PCFX(TM) combines the entire suite of respected
+Spatializer audio technologies into a single, comprehensive and cost effective
+software audio solution for the Wintel platform. Since the product runs on the
+host CPU, with minimal CPU utilization, no discrete chip is required.
+Spatializer Digital PCFX provides Spatializer 3-D stereo, Spatializer N-2-2
+virtual surround sound for DVD playback, Vi.B.E virtual bass enhancement and
+enCompass(TM), Spatializer's positional audio technology for computer games
+utilizing the Microsoft DirectXTM API. Spatializer technology has been utilized
+by Apple Computer across their product platforms since October 1999.
+
+     Spatializer Digital AVFX(TM) is tailored for AV Receivers equipped with a
+Dolby Digital decoder.. Spatializer Digital AVFX provides Spatializer 3-D
+stereo, Spatializer N-2-2 virtual surround sound for DVD audio or video
+playback, Vi.B.E virtual bass enhancement and in the future, extensive room
+modeling and customized effects.
+
+     Spatializer Digital AutoFX(TM) enhances the audio performance of DSP-based
+car stereo systems by delivering Spatializer's acclaimed 3-D stereo, bass
+enhancement, equalizer and reverb technology in a single solution. Optional
+positional audio voice cues for on board GPS and navigation systems, virtual
+surround sound for on board DVD player systems and space modeling will be
+offered as per customer requirements.
+
+LICENSING ACTIVITIES
+
+     We have traditionally licensed our technologies through semiconductor
+manufacturing and distribution licenses ("Foundry Licenses") with semiconductor
+foundries ("Foundries"). In turn, these Foundries manufacture and distribute
+integrated circuits ("ICs") or digital signal processors ("DSPs") incorporating
+Spatializer technology to manufacturers of consumer electronics and multimedia
+computer products ("OEMs").
+
+     The terms of many of the Foundry Licenses are negotiated on an
+individual basis requiring the payment of a per unit running royalty according
+to sliding scales based upon cumulative volume. Some of the licenses call for
+the payment of an up-front license issuance fee either in lieu of, or in
+addition to the running royalty. Other agreements require the OEM customer,
+rather than the foundry, to pay the royalty. Per unit royalties are payable in
+the quarter following shipment from the Foundry to the OEM.
+
+     OEMs who desire to incorporate these ICs into their products are required
+to enter into a license ("OEM Licenses") with us before they may purchase the
+ICs in quantity. Foundry Licenses generally have limited the sale of Spatializer
+ICs to OEMs who have entered into an OEM License with us. OEM licenses generally
+provide for the payment of a further per unit royalty by the OEM for OEM
+products incorporating a Spatializer IC ("Licensed Products") payable in the
+quarter following shipment by the OEM of its Licensed Products.
+
+     In mid-1996, we modified our licensing program to ease the licensing
+process and accelerate cash flow by offering Foundries an alternative "Bundled
+Royalty" arrangement which permits the IC foundry to make a traditional
+component IC sale to an OEM without requiring the OEM to negotiate a separate
+royalty license agreement with the Company. In these situations, the IC Foundry
+is authorized to sell Spatializer ICs to OEMs, which enter into a simplified
+Logo Usage Agreement ("LUA"), or to be authorized customers in consideration for
+a higher ("bundled") per unit royalty from the IC Foundry. This license
+structure has relieved much of the licensing burden from the IC foundries and
+has resulted in an increase in License signings.
+
+     In 2000, we began offering IC and DSP foundries the option of entering into
+a non-royalty bearing distribution agreement with us. Under this business model,
+the foundry offers Spatializer technology as an optional feature, promotes our
+technology in their sales materials and cooperates with the Spatializer sales
+force in closing license agreements for Spatializer technology with the OEM
+customer. This business model provides the foundry with an additional selling
+feature at no additional cost to the foundry. The OEM can obtain use of the
+technology directly from Spatializer without any additional mark-up from the
+foundry.
+
+     In early 2001, we agreed with C-Cube Semiconductor II to unbundle the
+royalty on their DSPs in order to facilitate the licensing of multiple
+technologies to OEM manufacturers and to help ensure that their products
+remained highly competitive in the market. As such, on April 1, 2001, C-Cube's
+customers using Spatializer technology will enter into direct licenses with us.
+These agreements, with Samsung Electronics and LG Electronics have been closed.
+
+     Because the Spatializer N-2-2 technology may be fully implemented in
+software to run in host based (Intel Pentium(R)) or general purpose DSP
+environments, no IC Foundry may be involved, as is the licensing arrangement
+with Apple Computer, Inc. In these
+
+
+
+                                       5
+<PAGE>   6
+
+situations, we will enter into royalty bearing licenses directly with the OEM.
+However, we may still pursue bundled agreements with DSP providers, if
+appropriate.
+
+     We are currently negotiating new IC/DSP Foundry and OEM licenses for
+Spatializer N-2-2, Spatializer Vi.B.E., Spatializer 3-D stereo and combinations
+and optimizations of these technologies under the Spatializer DigitalFX series.
+
+IC/DSP Foundry Licenses
+
+     In 2000 and early 2001, VM Labs, Inc., MIPS Technologies, New Japan Radio
+Corporation ("NJRC"), Tvia, Inc. and Link Up Systems. entered into Foundry
+License or Distibution Agreements for Spatializer N-2-2 and or DigitalFX. All
+but the NJRC agreements were non-royalty bearing distribution agreements, with
+per unit royalties to be paid by the OEM customer.
+
+     As of December 31, 2000, we have entered into eleven non-exclusive Foundry
+Licenses for its Virtual Audio Signal Processing technologies with Matsushita
+Electronics Corporation ("MEC"), ESS Technology, Inc. ("ESS"), OnChip Systems,
+Inc. ("OnChip"), C-Cube Technologies, Inc. ("C-Cube"), Acer Labs, Inc. ("Ali"),
+Luxsonor, VM Labs, Inc., MIPS Technologies, NJRC, Tvia, Inc. and Link Up
+Systems. Many Foundry Licenses generally require the payment of per unit running
+royalties based upon a sliding scale computed on the number of Spatializer ICs
+or DSPs sold.
+
+     As of December 31, 2000, more than 25 million ICs and DSPs incorporating
+Spatializer 3-D audio signal processing and N-2-2 digital virtual surround sound
+technology had been manufactured and sold.
+
+OEM Licensees and Customers
+
+     As of December 31, 2000, our technology has been incorporated in products
+offered by over 90 separate OEM Licensees and customers on various economic and
+business terms. Some of these OEM Licenses required a license issuance fee
+and/or a separate per unit royalty, while others were licensed under the LUA or
+were authorized customers under bundled royalty licenses with the IC foundries.
+The OEM licensees and customers offer a wide range of products, which include
+DVDs, car stereo systems, direct view TVs, wide screen and projection TVs, VCRs,
+powered speakers, portable audio systems ("Boomboxes"), HiFi stereo systems and
+components, computer sound cards and graphics accelerator cards, multimedia
+desktop personal computers, notebook computers, LCD projectors, multimedia
+computer monitors, and arcade pinball and video games.
+
+     The following table is a partial list of the OEM Licensees and authorized
+customers as of December 31, 2000:
+
+<TABLE>
+<CAPTION>
+---------------------------------------------  ---------------------------------------------
+PARTIAL LIST OF OEM LICENSEES OR CUSTOMERS     LISTING -- CONTINUED
+---------------------------------------------  ---------------------------------------------
+<S>                                            <C>
+Apple Computer Inc.                            NEC
+Compaq Computer Corp.                          Panasonic TV & VCR (Matsushita Kotobuki
+Dell Computer Corp.                            Electronics Industries, Ltd.)
+Digital Technology Systems Of California,      Panasonic Car Audio (Matsushita
+Inc.                                           Communications Industrial Co., Ltd.)
+Emerson                                        Proton Electronic Industrial Co., Ltd.
+Fujitsu Computer Corp.                         Samsung
+Hewlett Packard                                Seiko Epson Corp.
+Hitachi, Ltd.                                  Sanyo Corp.
+Iiyama Electric Co., Ltd.                      Sharp Corp.
+Gateway Computer Corp.                         Toshiba DVD
+Golden Regent                                  Toshiba TV
+LG Electronics                                 Taisei Electric, Inc.
+JVC                                            Taiyo Electric Company, Ltd.
+Labtec Enterprises, Inc.                       Texas Instruments
+Mag Monitors                                   Theta Digital
+Marantz                                        VM Labs, Inc.
+Micron Computer Corp                           Zenith
+Mitsubishi Image and Information Works
+---------------------------------------------  ---------------------------------------------
+</TABLE>
+
+
+
+                                       6
+<PAGE>   7
+
+HARDWARE PRODUCTS
+
+     Sales of our professional and consumer hardware products to date have not
+generated significant revenues and we do not plan to manufacture these products
+in the future. Instead, we are focusing our attention on licensing these product
+designs to third parties and concentrating on software-only products and
+"plug-ins" for use with MP3 players for PC platforms and portable audio devices.
+
+MultiDisc Technologies, Inc. -- Network Based Modular, Scalable Compact Disc/DVD
+Servers
+
+     As its first effort to broaden our technology portfolio and capitalize on
+our strong relationships with manufacturers of consumer electronics and personal
+computer peripheral products, we acquired certain developmental stage
+technologies and assets from Home Theatre Products ("HTP"), for approximately
+$1,062,000 in June 1996 and formed a subsidiary, MDT. The MultiDisc transaction,
+which was implemented through a court-approved sale in the HTP bankruptcy
+proceeding, included an array of compact disc server robotics and software
+technologies in various stages of completion. The MultiDisc transaction was
+intended to position us for long term growth in a significant new market. Our
+intention was to license this technology or enter into third party manufacturing
+arrangements for sale of MDT CD/DVD changer products to OEMs.
+
+     The MultiDisc transaction brought a unique combination of proprietary
+electromechanical designs, robotics, operating software, firmware, intellectual
+property, and engineering know-how and five patent applications acquired in the
+asset acquisition. MDT added an additional forty-seven patent applications filed
+with the United States Patent & Trademark Office ("USPTO") to bring the total to
+fifty-two patent applications filed.
+
+     On September 25, 1998, we announced our plan to refocus our business on the
+exploitation of its core audio technologies and to properly position the
+MultiDisc assets for sale. The repositioning strategy recognized that the
+capital investment required to properly commercialize the MDT technology was
+beyond the Company's capacity. As a result, all operations, including research
+and development activities, were suspended and the Company has accounted for MDT
+as a discontinued operation. The Company has explored the sale of the business
+or the patent portfolio with interested parties, but to date, no transaction has
+been consummated.
+
+Revenues and Expenses
+
+     We generate revenues in its audio business from royalties pursuant to its
+Foundry, OEM, and other licenses, and from non-recurring engineering fees to
+port our technologies to specific licensees' applications. The Company's
+revenues, which totaled $2,201,812 in 2000, were derived almost entirely from
+Foundry and OEM license fees and royalties.
+
+     We seek to maximize return on our intellectual property base by
+concentrating our efforts in very high margin licensing and software products
+and have eliminated our hardware product operations. Licensing operations have
+been managed internally by our personnel and through use of an international
+sales rep force.
+
+     We had three major customers, C-Cube Technologies, Inc., Apple Computer,
+Inc. and Toshiba Corporation in 2000, each of whom accounted for greater than
+10% of our total 2000 revenues. One OEM accounted for 36%, another accounted for
+35% and one accounted for 14% of our royalty revenues during 2000. Two other
+accounts comprised 9% and 7% of total 2000 revenues. All other OEM's accounted
+for less than 1% of royalty revenues individually.
+
+     In September, 1998, the U.S. Court of Appeals for the Federal Court upheld
+the U.S District Court's ruling of August 1996, in which we prevailed in a
+22-month legal battle over its 3-D Stereo intellectual property when the U.S.
+District Court granted the Company's motion for summary judgment against a
+competitor's assertions of patent infringement.. (See ITEM 3 -- LEGAL
+PROCEEDINGS, Page 8, for further detail). The uncertainties caused by the patent
+litigation had hindered our corporate results, particularly since licensing
+revenue depends upon OEM unit shipments, which follow three to four quarter
+production cycles. The resolution of this litigation contributed to the
+Company's ability to attract new licensing and financing arrangements and to
+reposition the Company for positive growth in profitability.
+
+     In September 1998, we implemented cost cutting measures in conjunction with
+the suspension of our research and development activities at MDT and to further
+rationalize the overhead of DPI and the overall corporate structure in response
+to lower levels of operating performance. The result of these initiatives was to
+reduce 1999 operating costs from 1998 levels, which enabled the Company to
+achieve profitable operating results in 1999 and to remain profitable in 2000.
+
+
+
+                                       7
+<PAGE>   8
+
+Competition
+
+  VIRTUAL AUDIO SIGNAL PROCESSING MARKETPLACE
+
+     We compete with a number of entities that produce various audio enhancement
+processes, technologies and products, some utilizing traditional two-speaker
+playback, others utilizing multiple speakers, and others restricted to headphone
+listening. These include the consumer versions of multiple speakers, matrix and
+discrete digital technologies developed for theatrical motion picture exhibition
+(like Dolby Digital(R), Dolby ProLogic(R), and DTS(R)), as well as other
+technologies designed to create an enhanced stereo image from two or more
+speakers.
+
+     Our principal competitors in the field of virtual audio are QSound Labs,
+Inc. ("QSound") and SRS Labs, Inc In addition, some DSP foundries and OEMs have
+proprietary virtual audio technologies. In the future, our products and
+technologies also may compete with audio technologies and product applications
+developed by other companies including entities that have business relationships
+with the Company.
+
+     We believe that we will favorably compete in this market because we offer a
+single source, complete suite of patented and proprietary 3D Stereo, interactive
+positional, and speaker virtualization technologies. By virtue of our
+specialized engineering and OEM support, we can offer a "turn-key" audio
+solution to OEMs who do not possess this expertise internally. In addition, the
+strength of our IC Foundry and OEM relationships and the Spatializer brand name
+recognition in the industry are other key differentiators between both our
+branded and unbranded competition.
+
+Patents, Trademarks and Copyrights
+
+     Our core signal processing technology is covered by our U.S. patent
+5,412,731, issued May 2, 1995. On July 15, 1997, the Company filed a patent in
+the U.S. Patent office on our N-2-2(TM) intellectual property with the U.S.
+Patent Office. On March 20, 1998, we filed a patent on our enCompass V 2.0
+technology with the U.S. Patent Office covering the Company's enCompass 2.0
+positional audio gaming technology. In June 2000, we filed an additional patent
+application for our reduced cost/higher performance 3-D Stereo circuit design.
+Much of our intellectual property consists of trade secrets. We possess
+copyright protection for its principal software applications and has U.S. and
+foreign trademark protection for its key product names and logo marks.
+
+     The MultiDisc transaction brought a unique combination of proprietary
+electromechanical designs, robotics, operating software, firmware, intellectual
+property, and engineering know-how and five patent applications acquired in the
+asset acquisition. MDT added an additional forty-seven patent applications filed
+with the United States Patent & Trademark Office ("USPTO") to bring the total to
+fifty-two patent applications filed. However, due to the absence of working
+capital and suspension of all operating activities of MDT, MDT cannot pursue
+these applications and some applications have lapsed. The core MDT data storage
+technology is covered by U.S. patents 5,774,431, 5,822,283, 5,886,960 and
+5,886,974. MDT have either obtained or applied for U.S. trademark protection for
+its principal product names and logo marks.
+
+     On September 25, 1998, we announced our plan to refocus our business on the
+exploitation of our core audio technologies and to properly position the
+MultiDisc assets for sale. The repositioning strategy recognized that the
+capital investment required to properly commercialize the MDT technology was
+beyond our capacity. As a result, operations, including all research and
+development activities were suspended and we have accounted for MDT as a
+discontinued operation.
+
+Employees
+
+     We began 2000 with five full-time and six part-time employees and sales
+representatives and increased our staff to six full time and twelve part-time
+employees, consultants and sales representatives by December 31, 2000. At
+year-end, there were three full-time employees and two consultants engaged in
+research and development. We employ the services of outside professional
+consultants, particularly in the engineering area, due to the tight labor market
+for such professionals in Silicon Valley as well as the need for specialized
+expertise in the course of our business. None of our employees are represented
+by a labor union or are subject to a collective bargaining agreement. We
+consider our relations with our employees and consultants to be satisfactory.
+
+
+
+                                       8
+<PAGE>   9
+
+                                    PART II
+
+ITEM 2. PROPERTIES
+
+     Our executive office is located in Woodland Hills, California where we
+occupy approximately 900 square feet with an annual rent of approximately
+$32,000. The lease term on this space is month to month. During 2000, we also
+had leased facilities in Santa Clara, CA.
+
+     Our operations office in Santa Clara, CA, is the primary location for our
+audio technology division, ("DPI"). We occupy approximately 2,700 square feet
+with an annual rent on a full service basis of approximately $75,000. The lease
+expires on November 30, 2002.
+
+     We lease an apartment in Santa Clara, CA for use by the chief executive
+officer when away from the executive office. The annual rent on this apartment
+is approximately $18,000. The lease expires on June 30, 2001.
+
+     We lease our space at rental rates and on terms which management believes
+are consistent with those available for similar space in the applicable local
+area. Our properties are well maintained, considered adequate and are being
+utilized for their intended purposes.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     In February 1999, a complaint was filed in the Superior Court of Los
+Angeles County, Northwest District, by I.N. Associates, Inc., against the
+Company's wholly owned subsidiary, MultiDisc Technologies, Inc. ("MDT"),
+alleging breach of contract and fraud, and claiming $499,954 in damages,
+attorneys fees, interest and the costs of suit. MDT has answered and denied the
+claims. The matter was subject to a mediation preceding in March 2000, and has
+been settled. The settlement specifies that I.N. will be entitled to a cashless
+exercise of warrants for the 125,000 shares originally issued to them in 1997
+and 1998, or a cash payment of $50,000 if the warrants remained unexercised. In
+January 2001, the cash payment was made and no further liabilities or
+contingencies exist.
+
+     In connection with the downsizing of the Company, a number of employees
+were terminated and have filed, on various dates since the downsizing in 1998,
+various employment and compensation related claims with the various State labor
+authorities, all but two of which claims have either been settled or have been
+paid as of the date of this report. In February, 2000, an appeal was heard in
+the Superior Court of Orange County, California, relating to a claim filed by a
+former employee of MDT for back vacation pay and penalties. In March 2000, both
+parties agreed to dismiss the action as part of a settlement, which was not
+material to the financial statements for the period ended March 31, 2000. In
+July 2000, the Labor Commission of the State of California awarded $122,000 to a
+claimant arising from a claim for commissions over a three-year period. We
+appealed the order to the Superior Court of California, Santa Clara County,
+since, under California law, the Labor Commission order will have no effect on
+the court's consideration of the matter. On October 27, 2000, the matter was
+settled by mutual release and payment in an amount which was not material to the
+financial statements of the Company for the period ended September 30, 2000. Two
+former officers and employees of MDT initiated proceedings before the Labor
+Commissioner in 2000 seeking amounts allegedly due under their employment
+agreements, which claims, if resolved in favor of the claimants, could be
+material to the financial statements of the Company. The Labor Commissioner has
+postponed those proceedings. In that action, the claimants filed a motion to
+strike the MDT complaint under the California "anti-Slapp" legislation. The
+Court rejected that motion and the litigation is in the discovery stages.
+Separately, MDT has initiated litigation in the Superior Court, Orange County
+seeking declaratory relief to bar the labor claims, as well as return of
+intellectual property and unspecified damages for breaches of the former
+officers' and employees' employment agreements.
+
+     We also anticipate that, from time to time, we may be named as a party to
+other legal proceedings that may arise in the ordinary course of its business.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     There were no matters submitted to a vote of the security holders of the
+Company either through solicitation of proxies or otherwise in the fourth
+quarter of the fiscal year ended December 31, 2000.
+
+
+
+                                       9
+<PAGE>   10
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     Our Common Stock trades on the OTC Bulletin Board under the symbol "SPAZ".
+The following table sets forth the high and low sales price of our Common Stock
+on its principal market for fiscal years 1999 and 2000:
+
+<TABLE>
+<CAPTION>
+PERIOD:                                               HIGH (U.S. $)      LOW (U.S. $)
+-------                                               -------------      ------------
+<S>                                                   <C>                <C>
+1999
+  First Quarter.....................................      $0.44             $0.08
+  Second Quarter....................................      $0.36             $0.08
+  Third Quarter.....................................      $0.90             $0.20
+  Fourth Quarter....................................      $0.96             $0.26
+2000
+  First Quarter.....................................      $2.56             $0.94
+  Second Quarter....................................      $1.56             $0.44
+  Third Quarter.....................................      $1.06             $0.50
+  Fourth Quarter....................................      $0.69             $0.19
+</TABLE>
+
+     On March 8, 2001, the closing price reported by the OTC Bulletin Board was
+U.S. $0.39. Stockholders are urged to obtain current market prices for our
+Common Stock. Since April 1, 1997, Computershare Investor Services, through its
+purchase of the transfer agent business in 2000 of Harris Trust Company of
+California, has been our transfer agent.
+
+RECORD HOLDERS
+
+     To our knowledge there were approximately 125 holders of record of the
+stock of the Company as of March 8, 2001. However, our transfer agent has
+indicated that beneficial ownership is in excess of 3,300 shareholders.
+
+DIVIDENDS
+
+     We have not paid any cash dividends on its Common Stock and have no present
+intention of paying any dividends. Our current policy is to retain earnings, if
+any, for use in operations and in the development of its business. Our future
+dividend policy will be determined from time to time by the Board of Directors.
+
+
+
+                                       10
+<PAGE>   11
+
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+
+     The following selected consolidated financial data should be read in
+conjunction with the Company's Consolidated Financial Statements and related
+Notes and with "Management's Discussion and Analysis of Financial Condition and
+Results of Operations", included in Item 7. The selected data presented below
+under the headings "Consolidated Statement of Operations Data" and "Consolidated
+Balance Sheet Data" as of and for the years ended December 31, 1997 and 1996 are
+derived from the consolidated financial statements of Spatializer Audio
+Laboratories, Inc. and subsidiaries, which consolidated balance sheets have been
+audited by KPMG Peat Marwick LLP, independent certified public accountants. The
+selected financial data for the years ended December 31, 2000, 1999 and 1998 are
+derived from the Company's consolidated financial statements which have been
+audited by Farber & Hass LLP, independent certified public accountants. The
+consolidated statements of operation and cashflows for the year ended December
+31, 2000 and the report thereon are included elsewhere in this Report.
+
+<TABLE>
+<CAPTION>
+                                                           FISCAL YEAR ENDED
+                               --------------------------------------------------------------------------
+                               DECEMBER 31,     DECEMBER 31,   DECEMBER 31,   DECEMBER 31,   DECEMBER 31,
+                                   1996             1997           1998           1999           2000
+                               ------------     ------------   ------------   ------------   ------------
+<S>                            <C>              <C>            <C>            <C>            <C>
+CONSOLIDATED STATEMENT OF
+  OPERATIONS DATA:
+Revenues.....................  $     2,024      $     2,781    $     1,680    $     1,660    $     2,202
+Cost Of Revenues.............         (186)            (230)          (134)           (49)          (248)
+                               -----------      -----------    -----------    -----------    -----------
+Gross Profit.................        1,838            2,551          1,546          1,611          1,954
+Total Operating Expenses.....      (27,042)(3)       (7,238)        (3,490)        (1,156)        (1,596)
+Other Income (Expense),
+  Net........................          119               27           (108)           (94)            34
+Loss from Discontinued
+  Operations.................                                       (3,702)
+Income taxes.................         (310)             (60)           (38)            (6)           (10)
+                               -----------      -----------    -----------    -----------    -----------
+Net Income (Loss)............  $   (25,395)(4)  $    (4,720)   $    (5,792)   $       355    $       382
+                               -----------      -----------    -----------    -----------    -----------
+Basic Income (Loss) Per
+  Share(5)...................  $     (2.01)     $     (0.23)   $     (0.29)   $      0.01    $      0.01
+                               ===========      ===========    ===========    ===========    ===========
+Diluted Income (Loss) Per
+  Share(5)...................  $     (2.01)     $     (0.23)   $     (0.29)   $      0.01    $      0.01
+                               ===========      ===========    ===========    ===========    ===========
+Weighted Average Common
+  Shares.....................   12,644,751       20,604,095     22,180,180     33,805,512     46,736,224
+                               ===========      ===========    ===========    ===========    ===========
+CONSOLIDATED BALANCE SHEET
+  DATA:
+Cash and Cash Equivalents....  $     1,587      $       577    $       264    $     1,022    $     1,468
+Working Capital (Deficit)....        2,092               83         (1,975)           395          1,195
+Total Assets.................        4,141            3,165            893          2,118          2,457
+Advances From Related
+  Parties....................          113              113            857            337            337
+Total Shareholders' Equity
+  (Deficit)..................  $     3,268      $     1,525    $    (1,553)   $       768    $     1,651
+</TABLE>
+
+---------------
+(1) Not used.
+
+(2) Not used.
+
+(3) Includes two one-time significant changes. Compensation Expense of
+    $20,218,450 was recorded associated with the transfer of the Company's
+    performance shares from Canadian Escrow into a new escrow arrangement which
+    will provide for the release of the performance shares over the next six
+    years. Based on the revised escrow arrangement, which primarily converts the
+    escrow shares release from performance criteria to time-based criteria, the
+    Company recorded compensation expense on the date the new escrow arrangement
+    terms were accepted by the Company. Additionally, In-Process Research &
+    Development ("IPR&D") expense of $679,684 related to the allocation of costs
+    was incurred as a result of the MultiDisc Technologies, Inc. ("MDT") asset
+    acquisition in June 1996.
+
+(4) The Company incurred and paid Canadian income taxes in the amount of
+    $249,000 during the year associated with the liquidation of
+    Spatializer-Yukon, the Company's Canadian predecessor.
+
+(5) Loss per share has been calculated based on the weighted average number of
+    common shares outstanding including escrowed performance shares, which are
+    factored into the calculation as of December 30, 1996, the date on which the
+    British Columbia Securities Commission ("BCSC") issued its consent to the
+    Company's revised escrow arrangement.
+
+
+
+                                       11
+<PAGE>   12
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+     The following discussion and analysis relates to the financial condition
+and results of operations of Spatializer Audio Laboratories, Inc. and
+subsidiaries (the "Company") for the year ended December 31, 2000 compared to
+the year ended December 31, 1999, and the year ended December 31, 1999, compared
+with the year ended December 31, 1998.
+
+RESULTS OF OPERATIONS
+
+FOR THE YEAR ENDED DECEMBER 31, 2000, COMPARED TO THE YEAR ENDED DECEMBER 31,
+1999
+
+REVENUES
+
+     Revenues increased to $2,202,000 for the year ended December 31, 2000
+compared to $1,660,000 for the year ended December 31, 1999, an increase of 33%.
+Revenues include license issuance fees and royalties pertaining to the licensing
+of Spatializer(R) audio signal processing designs and non-recurring engineering
+fees.
+
+     The increase in revenues is attributed primarily to the inclusion of four
+quarters of royalties from a major account for which there was only one quarter
+of royalty and a non-recurring engineering fee in the prior year and increases
+in Spatializer N-2-2 running royalties from OEM DVD player sales. This increase
+in revenues was partially offset by decreases in per unit Spatializer N-2-2
+royalties due to a volume-based sliding scale pricing structure with DSP
+foundries agreed to in prior years when the original agreements were made. By
+the beginning of the third quarter of 2000, pricing levels at the maximum volume
+levels were substantially achieved, resulting in a stabilization of the per unit
+royalty rate.
+
+     Gross profit increased to $1,954,000 for the year ended December 3, 2000
+compared to $1,612,000 in the comparable period last year. Gross margin
+decreased to 89% of revenue in the year ended December 31, 2000 compared with
+97% of revenue for the comparable period last year. The increase in gross profit
+results from higher revenues in the current year, partially offset by lower
+gross margin. This decrease in the gross margin percentage reflects the
+restoration of Japan sales support which were reduced significantly in 1999
+during the period of constrained liquidity. The Company maintains a high margin
+as the majority of revenues are from licensing and royalty activities, which
+have little or no associated direct costs.
+
+  OPERATING EXPENSES
+
+     Operating expenses for the year ended December 31, 2000 increased to
+$1,595,000 (72% of sales) from $1,156,000 (70% of sales) for the year ended
+December 31, 1999, an increase of 38%. The increase in operating expenses result
+from expansion of the Company's research and development and sales and marketing
+efforts, which were curtailed in most of 1999 to minimal levels as a result of
+the period of constrained liquidity. With liquidity restored as a result of the
+December 1999 financing, the Company expanded its staff to more normalized
+levels and the increase was limited to 200 basis points of sales.
+
+  GENERAL AND ADMINISTRATIVE
+
+     General and administrative costs increased to $599,000 for the year ended
+December 31, 2000 from $516,000 for the year ended December 31, 1999, an
+increase of 16%. The increase is primarily due to the retention of an investor
+relations firm and a local business tax settlement. General operating costs
+include rent, telephone, office supplies and stationery, postage, depreciation
+and similar costs.
+
+  RESEARCH AND DEVELOPMENT
+
+     Research and Development costs increased to $540,000 for the year ended
+December 31, 2000, compared to $383,000 for the year ended December 31,1999, an
+increase of 41%. The increase in research and development expense was due
+additions to headcount throughout the year, search fees paid for certain
+engineers hired and expanded use of engineering consultants for specialized
+projects.
+
+     In addition, the Company continued efforts to identify, validate, and
+develop new product ideas at DPI. Specific engineering efforts were directed
+toward a new version of Spatializer N-2-2(TM), optimization of technologies for
+the DigitalFX(TM) series and development of a new series of headphone
+algorithms.
+
+                                       12
+<PAGE>   13
+
+  SALES AND MARKETING
+
+     Sales and marketing costs increased to $456,000 for the year ended December
+31, 2000, compared to $257,000 for the year ended December 31, 1999, an increase
+of 77%. The increase results from the appointment of a public relations firm,
+formal trade show participation, increased customer visits and prospecting,
+support staff expansion and revision of marketing collateral materials.
+
+  NET INCOME
+
+     Net Income increased to $382,000 for the year ended December 31, 2000,
+compared to net income of $355,000 for the year ended December 31, 1999, an
+increase of 8%. The improvement for the period is primarily the result of higher
+interest income and lower interest expense, partially offset by lower operating
+profit driven by lower gross margin and slightly higher overhead expenses as a
+percentage of sales.
+
+FOR THE YEAR ENDED DECEMBER 31, 1999, COMPARED TO THE YEAR ENDED DECEMBER 31,
+1998
+
+REVENUES
+
+     Revenues declined to $1,660,000 for the year ended December 31, 1999
+compared to $1,680,000 for the year ended December 31, 1998, a decline of 1%.
+Revenues include license issuance fees and royalties pertaining to the licensing
+of Spatializer(R) audio signal processing designs and non-recurring engineering
+fees.
+
+     The decrease in revenues is attributed primarily to the settlement in early
+1998 of royalty claims from a licensee for which there was no comparable license
+settlement in the current fiscal year, competitive market pricing pressure and
+decreases in recurring royalties for the licensing of Spatializer audio
+technology reflecting weakness in the Japanese 3-D audio market. This was
+substantially offset by increases in royalties derived from DSP foundries and
+OEMs for the Company's N-2-2 technology and royalty and engineering fees from a
+new licensee in 1999.
+
+     Gross profit increased to 97% in the year ended December 31, 1999 compared
+with 92% for the comparable period last year. This increase reflects the impact
+of the discontinuation of lower margin consumer products sales, and inventory
+write-downs on the remaining consumer products inventory to market in 1998, for
+which there was no comparable adjustment in 1999. The Company maintains a high
+margin as the majority of revenues are from licensing and royalty activities,
+which have little or no associated direct costs.
+
+  OPERATING EXPENSES
+
+     Operating expenses for the year ended December 31, 1999 decreased to
+$1,156,000 from $3,490,000 for the year ended December 31, 1998, a decrease of
+67%. The decrease in operating expenses result from the rationalization of
+overhead, particularly with regard to the corporate office, implemented in late
+September 1998, as part of the Company's strategic repositioning to focus
+exclusively on its core audio business.
+
+     Based on this strategic refocusing, MultiDisc Technologies, Inc. is being
+treated as a discontinued operation for accounting purposes. Operating
+expenditures in 1999 were minimal and were accrued in the year ending December
+31, 1998. Operating and wind down expenses of MultiDisc Technologies, Inc
+totaling $3,000,000 were excluded from 1998 operating expenses and presented
+separately as a discontinued operation. Total operating expenses of MultiDisc
+Technologies, Inc. for the year ended December 31, 1997 were $3,791,000.
+
+  GENERAL AND ADMINISTRATIVE
+
+     General and administrative costs decreased to $516,000 for the year ended
+December 31, 1999 from $1,732,000 for the year ended December 31, 1998, a
+decrease of 70%. The decrease is primarily due to decreased payroll and
+payroll-related costs primarily related to the downsizing of the corporate
+office as a result of overhead rationalizations implemented beginning in
+September 1998. General operating costs include rent, telephone, office supplies
+and stationery, postage, depreciation and similar costs.
+
+
+
+                                       13
+<PAGE>   14
+
+  RESEARCH AND DEVELOPMENT
+
+     Research and Development costs decreased to $383,000 for the year ended
+December 31, 1999, compared to $756,000 for the year ended December 31,1998, a
+decrease of 49%. The decrease in research and development expense was due to
+headcount attrition and a delay in efforts to fill open positions until
+additional working capital became available through the December Transactions.
+
+     In addition, the Company continued efforts to identify, validate, and
+develop new product ideas at DPI. Specific engineering efforts were directed
+toward porting support of N-2-2(TM) -- Digital Virtual Surround technologies to
+current and potential licensees during the year and toward development of
+StreamFX, an Internet audio enhancement product and Vi.B.E., a virtual bass
+enhancement technology.
+
+  SALES AND MARKETING
+
+     Sales and marketing costs decreased to $257,000 for the year ended December
+31, 1999, compared to $1,002,000 for the year ended December 31, 1998, a
+decrease of 74%. The decrease results from headcount reductions effected in
+September 1998 and suspension of public relations, formal trade show
+participation and advertising efforts until the additional working capital
+became available through the December Transactions.
+
+  LOSS ON DISCONTINUED OPERATION
+
+     There was no loss on discontinued operation in the year ended December 31,
+1999, compared to a loss on discontinued operation of $3,702,000 for the year
+ended December 31, 1998. Expenditures for MDT were minimal in fiscal 1999 and
+were accrued in the year ended December 31, 1998. Loss on discontinued operation
+was comprised of the reclassification of $2,847,000 of the net MDT expenses and
+valuation adjustments of $855,000. The net expense primarily represented general
+and administrative, sales and marketing and research and development expenses
+for the period January 1 through September 30,1998. The Board of Directors
+announced the discontinued operation of MDT on September 25, 1998 and had
+preliminary indications from its banker and potential buyers that the sale of
+MDT's assets would not result in a loss to the Company. However, since no
+transaction had been consummated for the MDT assets as of the date on which the
+Company filed its annual report Form 10-K in April 1999, the Company elected to
+reserve for the contingency.
+
+  NET INCOME (LOSS)
+
+     Net Income increased to $355,000 for the year ended December 31, 1999,
+compared to a net loss of $5,792,000 for the year ended December 31, 1998, an
+increase of 106%. The improvement for the period is primarily the result of
+overhead rationalization and corporate refocusing which began its implementation
+in September 1998 and the wind down costs of MDT in 1998, for which there were
+no such expenses in the current fiscal year.
+
+  LIQUIDITY AND CAPITAL RESOURCES
+
+     At December 31, 2000, we had $1,468,000 in cash and cash equivalents as
+compared to $1,022,000 at December 31, 1999. The increase in cash and cash
+equivalents is attributed to cash provided by the exercise of warrants and
+options. We had working capital of $1,195,000 at December 31, 2000 as compared
+with a working capital of $395,000 at December 31, 1999. Our future cash flow
+will come primarily from the audio signal processing licensing business' Foundry
+and Original Equipment Manufacturers' ("OEM") royalties and from possible common
+stock issuances including warrant and option exercises. At December 31, 2000 we
+had eleven Foundry licensees, as compared with six Foundry licensees at December
+31, 1999. We are actively engaged in negotiations for additional audio signal
+processing licensing arrangements which will generate additional cash flow
+without imposing any substantial costs on the Company.
+
+     We have related party obligations of $225,000, convertible into Common
+Stock at our or Lender's option. The obligation matures in June 2001. The
+Company owed $337,500 to related parties as of December 31, 2000 and at December
+31, 1999.
+
+     On April 14, 1998, we entered into a private placement for up to $5 million
+of which $3 million was funded. In connection with the private placement, the
+Company authorized 100,000 shares of a new Series A, 7% Convertible Preferred
+Stock at a stated price of $50 per share and issued 60,000 shares for $3
+million. In connection with the April funding, we issued purchase warrants,
+exercisable for three years and entitling the holders to acquire one share of
+the Company's common stock for each warrant. Of the warrants,
+
+
+                                       14
+<PAGE>   15
+
+450,000 were issued and 150,000 warrants were issued to placement agents. The
+investor warrants are exercisable at 140% and the placement warrants are
+exercisable at 120%, respectively, of the average closing bid price of our
+common stock for the 10 days preceding the closing. In addition, cash placement
+fees of 10% were paid. A related party received 50,000 of the placement agent
+warrants and $100,000 of the placement agent cash fee for arranging $1 million
+of the $3 million investment. No additional investment above the initial $3
+million was received under this placement. At December 31, 1999, 60,000 shares
+of Series A Convertible Preferred Stock, representing the entire placement had
+been converted into a total of 30,517,943 shares of our Common Stock, which are
+covered by Form S-1.
+
+     On September 25, 1998, we announced that our Board of Directors was
+refocusing our business on the exploitation of our audio technologies, and, as
+noted above, to properly position the MultiDisc assets for sale. Currently we
+are actively pursuing licensing opportunities, including possible strategic
+alliances and capital funding opportunities based on its core audio
+technologies. In reaching its decision of September 25, 1998, we indicated that
+while we recognized the prospects of MultiDisc, the capital investment required
+to properly commercialize the technology was beyond our capacity and, therefore,
+we made the decision to seek a sale transaction. Effective as of that date,
+Steven D. Gershick resigned as chief executive officer of the Company and as
+president of MultiDisc Technologies, Inc., but continued to serve as chairman of
+the board and director of the Company until February 10, 2000. Henry R. Mandell,
+who joined the Company in March, 1998 as senior vice president finance was
+designated as interim chief executive officer to oversee all of the corporate
+activities, reporting to the Board of Directors, and continues in that capacity.
+Michael Bolcerek resigned as president of Desper Products, Inc. Mr. Mandell was
+elected as a director by the stockholders on February 10, 2000 and also was
+designated chief executive officer and chairman of the board.
+
+     We responded to inquiries from NASDAQ and attended a hearing with respect
+to our continued listing on October 29, 1998 at which time we outlined our
+strategy for continued listing. In November, 1998, NASDAQ provided us with an
+extension and conditional listing until December 31, 1998 to provide evidence of
+compliance with all requirements for continued listing. On December 31, 1998, we
+informed NASDAQ that we would be unable to comply with these requirements. On
+January 5, 1999, our common stock was delisted from the NASDAQ SmallCap Market
+and, on the same day, commenced trading on the NASD Bulletin Board under the
+symbol "SPAZ".
+
+     In December 1999, we completed a set of financial transactions (the
+"December Transactions") with certain existing holders of our equity and debt
+and with new institutional investors. The December Transactions included the
+private placement of 1,884,254 additional shares of our Common Stock ($1.05
+million in new capital or $0.56 per share), the issuance of warrants to acquire
+2,100,000 shares of Common Stock exercisable for three years at an exercise
+price of $.67 per share), the cancellation of 500,000 warrants to acquire Common
+Stock issued in that earlier financing, the conversion of $1 million of short
+term debt into a new Series B Redeemable Convertible Preferred Stock ("Series B
+Preferred Stock") and the conversion of $225,000 of secured debt into secured
+convertible debt.
+
+     In the December Transactions, $895,000 in short term loan advances from
+officers, directors and their affiliates and certain other securities holders,
+and accrued interest of $134,647, were restructured into the $1,000,000 in new
+Series B Preferred Stock. The Series B Preferred Stock, and any dividends
+therefrom not converted into cash, are convertible commencing in 2001 into
+restricted Common Stock at a 10% discount, based on the 10 day average closing
+bid price prior to the conversion, but subject to a minimum conversion of $.56
+per share and a maximum of $1.12 per share. We have a three year option to
+redeem any Series B Preferred Stock, not sooner converted, in whole or in part,
+in cash.
+
+     In the December Transactions, $225,000 of secured debt, including accrued
+interest, was converted into secured long term convertible debt. The long term
+debt is held by existing institutional investors and is secured by essentially
+all of our assets. The debt, and accrued interest, is convertible at our or the
+holder's options into registered Common Stock at a conversion price equal to the
+average 10 day closing bid price prior to conversion but subject to the same
+minimum and maximum conversion prices set for the Series B Preferred Stock.
+
+     Funds generated by these financing activities as well as cash generated
+from our existing operations is expected to be sufficient for us to meet our
+operating obligations and the anticipated additional research and development
+for its audio technology business.
+
+
+
+                                       15
+<PAGE>   16
+
+  Net Operating Loss Carry forwards
+
+     At December 31, 2000, the Company had net operating loss carry forwards for
+Federal income tax purposes. These net operating loss carry forwards are subject
+to an annual limitation of approximately $26,000,000 which are available to
+offset future Federal taxable income, if any, through 2013. Approximately
+$21,700,000 of these net operating loss carry forwards are subject to an annual
+limitation of approximately $1,000,000.
+
+  Inflation
+
+     We believe that the moderate inflation rate of the last several years has
+not impacted our operations.
+
+  The Asian Economic Crisis
+
+     Approximately 60% of our revenues for the year ended December 31, 2000 were
+derived from foundries or OEM's based in Japan and other Asian countries. While
+the level of the Company's Asian business is material, the concentration of this
+Asian business with large, well capitalized entities such as Matsushita
+Electronics Corporation, Toshiba Corporation, Samsung and LG Electronics may
+tend to minimize any real or potential risk of concentration in this market.
+
+  Comprehensive Income
+
+     The Financial Accounting Standards Board issued Statement No. 130,
+Reporting Comprehensive Income ("SFAS 130"), in June 1997. FAS 130 establishes
+standards for reporting and display of comprehensive income and its components
+in financial statements. FAS No. 130 is effective for fiscal years beginning
+after December 15, 1997. The Company adopted FAS No. 130 in the first quarter of
+fiscal year ended December 31, 1998.
+
+
+
+                                       16
+<PAGE>   17
+
+                          INDEPENDENT AUDITORS' REPORT
+
+To the Board of Directors
+of Spatializer Audio Laboratories, Inc.:
+
+     We have audited the accompanying consolidated balance sheets of Spatializer
+Audio Laboratories, Inc. and subsidiaries (The "Company") as of December 31,
+2000 and 1999 and the related consolidated statements of operations,
+shareholders' equity (deficit), and cash flows for the years ended December 31,
+2000, 1999 and 1998. These consolidated financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these consolidated financial statements based on our audits.
+
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Spatializer
+Audio Laboratories, Inc. and subsidiaries as of December 31, 2000 and 1999, and
+the results of its operations and its cash flows for the years ended December
+31, 2000, 1999 and 1998 in conformity with generally accepted accounting
+principles.
+
+/s/  FARBER & HASS LLP
+
+Oxnard, California
+March 20, 2001
+
+
+
+                                       17
+<PAGE>   18
+
+ITEM 8. FINANCIAL STATEMENTS
+
+                      SPATIALIZER AUDIO LABORATORIES, INC.
+                                AND SUBSIDIARIES
+
+                          CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                     ASSETS
+
+                                                              DECEMBER 31,    DECEMBER 31,
+                                                                  2000            1999
+                                                              ------------    ------------
+<S>                                                           <C>             <C>
+Current Assets:
+  Cash and Cash Equivalents.................................  $  1,467,988    $  1,021,998
+  Accounts Receivable.......................................       506,558         687,595
+  Prepaid Expenses and Deposits.............................        26,458          22,640
+                                                              ------------    ------------
+          Total Current Assets..............................     2,001,004       1,732,233
+Property and Equipment, Net.................................       108,061         132,803
+Intangible Assets, Net......................................       302,789         207,793
+Other Assets................................................        45,170          45,170
+                                                              ------------    ------------
+                                                              $  2,457,024    $  2,117,999
+                                                              ============    ============
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+  Notes Payable.............................................  $          0    $     14,149
+  Notes Payable to Related Party............................       337,742         337,742
+  Accounts Payable..........................................        51,782         234,118
+  Accrued Wages and Benefits................................        61,390          53,136
+  Accrued Expenses..........................................        99,595         291,117
+  Net Liabilities of Discontinued Operation.................       255,840         419,600
+                                                              ------------    ------------
+          Total Current Liabilities.........................       806,349       1,349,862
+                                                              ------------    ------------
+  Commitments and Contingencies
+Stockholders' Equity (Deficit):
+  10% Series B Convertible Redeemable Preferred shares,
+     $0.01 par value; 1,000,000 shares authorized; 102,967
+     shares issued and outstanding at December 31, 2000 and
+     1999, respectively.....................................         1,030           1,030
+  Common shares, $0.01 par value; 65,000,000 shares
+     authorized; 47,087,971 and 46,174,970 shares issued and
+     outstanding at December 31, 2000 and 1999,
+     respectively...........................................       470,880         461,750
+  Additional Paid-In Capital................................    46,404,892      45,913,503
+  Accumulated Deficit.......................................   (45,226,127)    (45,608,146)
+                                                              ------------    ------------
+          Total Shareholders' Equity........................     1,650,675         768,137
+                                                              ------------    ------------
+                                                              $  2,457,024    $  2,117,999
+                                                              ============    ============
+</TABLE>
+
+          See accompanying notes to consolidated financial statements
+
+
+                                       18
+<PAGE>   19
+
+                      SPATIALIZER AUDIO LABORATORIES, INC.
+                                AND SUBSIDIARIES
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                               YEAR ENDED DECEMBER 31,
+                                                      -----------------------------------------
+                                                         2000           1999           1998
+                                                      -----------    -----------    -----------
+<S>                                                   <C>            <C>            <C>
+Revenues:
+  Product Revenues, Net.............................                                $    39,496
+  Licensing Revenues................................                                    663,522
+  Royalty Revenues..................................  $ 2,201,812    $ 1,660,371        976,697
+                                                      -----------    -----------    -----------
+                                                        2,201,812      1,660,371      1,679,715
+     Cost of Revenues...............................      248,217         48,780        134,190
+                                                      -----------    -----------    -----------
+                                                        1,953,595      1,611,591      1,545,525
+                                                      -----------    -----------    -----------
+Operating Expenses:
+  General and Administrative........................      599,291        515,843      1,732,097
+  Research and Development..........................      540,269        383,176        755,899
+  Sales and Marketing...............................      455,901        257,017      1,001,747
+                                                      -----------    -----------    -----------
+                                                        1,595,461      1,156,036      3,489,743
+                                                      -----------    -----------    -----------
+     Operating Income (Loss)........................      358,134        455,555     (1,944,218)
+                                                      -----------    -----------    -----------
+Interest Income.....................................       64,857          3,401         27,672
+Interest Expense....................................      (34,112)      (102,468)       (84,723)
+Other Income (Expense), Net.........................        3,140          4,804        (50,955)
+                                                      -----------    -----------    -----------
+                                                           33,885        (94,263)      (108,006)
+                                                      -----------    -----------    -----------
+       Income (Loss) from Continuing Operations.....      392,019        361,292     (2,052,224)
+       Loss from Discontinued Operations............                                 (3,701,599)
+                                                      -----------    -----------    -----------
+     Income (Loss) Before Income Taxes..............      392,019        361,292     (5,753,823)
+     Income Taxes...................................      (10,000)        (6,500)       (38,238)
+                                                      -----------    -----------    -----------
+     Net Income (Loss)..............................  $   382,019    $   354,792    $(5,792,061)
+                                                      ===========    ===========    ===========
+     Basic and Diluted Income (Loss) per Share:
+       Continued Operations.........................  $       .01    $       .01    $      (.12)
+       Discontinued Operations......................                                       (.17)
+                                                      -----------    -----------    -----------
+                                                      $       .01    $       .01    $      (.29)
+                                                      ===========    ===========    ===========
+       Weighted-Average Shares Outstanding..........   46,736,224     33,805,512     22,180,180
+                                                      ===========    ===========    ===========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements
+
+
+                                       19
+<PAGE>   20
+
+                      SPATIALIZER AUDIO LABORATORIES, INC.
+                                AND SUBSIDIARIES
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                                YEAR ENDED DECEMBER 31,
+                                                        ---------------------------------------
+                                                           2000          1999          1998
+                                                        ----------    ----------    -----------
+<S>                                                     <C>           <C>           <C>
+Cash Flows from Operating Activities:
+  Net Income (Loss)...................................  $  382,019    $  354,792    $(5,792,061)
+  Adjustments to Reconcile Net Income (Loss) to Net
+     Cash Provided (Used) by Operating Activities:
+     Depreciation and Amortization....................      85,969       103,564        126,334
+     Discontinued Operations..........................                                  962,060
+     Deferred Transaction Costs.......................                                  146,529
+     Loss on Disposal of Property and Equipment.......                                   50,308
+     Options and Warrants Issued for Services.........      30,000                       56,030
+  Net Change in Assets and Liabilities:
+     Accounts Receivable and Employee Advances........     181,037      (558,583)       798,675
+     Inventory........................................                     7,993         85,257
+     Prepaid Expenses and Deposits....................      (3,818)       16,521         31,112
+     Other Assets.....................................                   (12,993)
+     Accounts Payable.................................    (182,335)     (101,667)       102,737
+     Accrued Expenses and Other Liabilities...........    (183,268)     (360,718)       503,007
+     Discontinued Operations..........................    (163,760)     (114,291)       (66,796)
+                                                        ----------    ----------    -----------
+Net Cash Provided (Used) by Operating Activities......     145,844      (665,382)    (2,996,808)
+                                                        ----------    ----------    -----------
+Cash Flows from Investing Activities:
+     Purchase of Property and Equipment...............     (40,489)      (16,365)       (43,079)
+     Proceeds from Disposal...........................         500                       20,400
+     Intangible Assets................................    (116,235)       (6,740)       (34,350)
+     Deferred Transaction Costs.......................
+     Discontinued Operations..........................                                 (238,025)
+                                                        ----------    ----------    -----------
+Net Cash Used by Investing Activities.................    (156,224)      (23,105)      (295,054)
+                                                        ----------    ----------    -----------
+Cash Flows from Financing Activities:
+  Issuance of Common and Preferred Shares, Net........                 1,959,627      2,611,474
+  Exercise of Options and Warrants....................     470,519         7,208         45,954
+  Notes and Amounts Due to (from) Related Parties.....                  (519,757)       745,000
+  Proceeds (Repayments) on Line of Credit.............                                 (400,000)
+  Discontinued Operations.............................                                  (20,501)
+  Repayments/Termination of Notes Payable.............     (14,149)         (647)        (3,424)
+                                                        ----------    ----------    -----------
+Net Cash Provided by Financing Activities.............     456,370     1,446,431      2,978,503
+                                                        ----------    ----------    -----------
+Increase (Decrease) in Cash and Cash Equivalents......     445,990       757,944       (313,359)
+Cash and Cash Equivalents, Beginning of Year..........   1,021,998       264,054        577,413
+                                                        ----------    ----------    -----------
+Cash and Cash Equivalents, End of Year................  $1,467,988    $1,021,998    $   264,054
+                                                        ==========    ==========    ===========
+Supplemental Disclosure of Cash Flow Information:
+  Cash Paid During the Year for:
+     Interest.........................................  $   11,250    $   11,250    $    26,370
+     Income Taxes.....................................  $    2,569    $    6,500    $    35,838
+</TABLE>
+
+          See accompanying notes to consolidated financial statements
+
+
+                                       20
+<PAGE>   21
+
+                      SPATIALIZER AUDIO LABORATORIES, INC.
+                                AND SUBSIDIARIES
+
+           CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY (DEFICIT)
+<TABLE>
+<CAPTION>
+                        SERIES A, 7% CONVERTIBLE    SERIES B, 10% CONVERTIBLE
+                            PREFERRED SHARES            PREFERRED SHARES                       COMMON SHARES
+                        -------------------------   -------------------------   --------------------------------------------
+                         NUMBER OF                   NUMBER OF                  NUMBER OF                      ADDITIONAL
+                          SHARES       PAR VALUE      SHARES       PAR VALUE      SHARES       PAR VALUE     PAID-IN-CAPITAL
+                        -----------   -----------   -----------   -----------   ----------   -------------   ---------------
+<S>                     <C>           <C>           <C>           <C>           <C>          <C>             <C>
+Balance, January 1,
+  1998................                                                          21,410,012     $214,100         41,181,890
+Issuance of Preferred
+  Shares, Net.........     60,000        $ 600                                                                   2,610,874
+Issuance of Common
+  Shares, Net.........                                                           1,884,254       18,843            911,137
+Options Issued for
+  Services............                                                              13,333          133             12,571
+Options Exercised.....                                                              19,000          190             33,060
+Conversion of
+  Preferred Shares....     (7,100)         (71)                                  4,399,522       43,995            (43,924)
+Net Income............                                                                  --           --                 --
+                          -------        -----        -------        ------     ----------     --------        -----------
+Balance, December 31,
+  1998................     52,900        $ 529                                  25,841,867     $258,418         44,150,501
+Issuance of Preferred
+  Shares, Net.........                                102,967        $1,030                                      1,028,617
+Issuance of Common
+  Shares, Net.........                                                           1,884,254       18,843            911,137
+Options Exercised.....                                                              59,998          600              6,608
+Conversion of
+  Preferred Shares....    (52,900)        (529)                                 18,388,851      183,889           (183,360)
+Net Income............                                                                  --           --                 --
+                          -------        -----        -------        ------     ----------     --------        -----------
+Balance, December 31,
+  1999................          0            0        102,967        $1,030     46,174,970     $461,750        $45,913,503
+Options Exercised.....                                                             648,001        6,480            438,839
+Warrants Exercised....                                                             210,000        2,100             23,100
+Stock Issued for
+  Services............                                                              55,000          550             29,450
+Net Income............
+Balance, December 31,
+  2000................          0            0        102,967        $1,030     47,087,971     $470,880        $46,404,892
+                          =======        =====        =======        ======     ==========     ========        ===========
+
+<CAPTION>
+
+                                           TOTAL
+                        ACCUMULATED    SHAREHOLDERS'
+                          DEFICIT         EQUITY
+                        ------------   -------------
+<S>                     <C>            <C>
+Balance, January 1,
+  1998................   (40,170,877)     1,525,113
+Issuance of Preferred
+  Shares, Net.........                    2,611,474
+Issuance of Common
+  Shares, Net.........                      929,980
+Options Issued for
+  Services............                       12,704
+Options Exercised.....                       33,250
+Conversion of
+  Preferred Shares....
+Net Income............    (5,792,061)    (5,792,061)
+                        ------------    -----------
+Balance, December 31,
+  1998................   (45,962,938)    (1,553,490)
+Issuance of Preferred
+  Shares, Net.........                    1,029,647
+Issuance of Common
+  Shares, Net.........                      929,980
+Options Exercised.....                        7,208
+Conversion of
+  Preferred Shares....
+Net Income............       354,792        354,792
+                        ------------    -----------
+Balance, December 31,
+  1999................  $(45,608,146)   $   768,137
+Options Exercised.....                      445,319
+Warrants Exercised....                       25,200
+Stock Issued for
+  Services............                       30,000
+Net Income............       382,019        382,019
+                        ------------    -----------
+Balance, December 31,
+  2000................  $(45,226,127)   $ 1,650,675
+                        ============    ===========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements
+
+
+                                       21
+<PAGE>   22
+
+                      SPATIALIZER AUDIO LABORATORIES, INC.
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+(1) NATURE OF BUSINESS
+
+     Spatializer Audio Laboratories, Inc. and subsidiaries (the "Company") is in
+the business of developing and licensing technology.
+
+     The Company's wholly-owned subsidiary, Desper Products, Inc. ("DPI"), is in
+the business of developing proprietary advanced audio signal processing
+technologies and products for consumer electronics, entertainment, and
+multimedia computing.
+
+     The Company's wholly-owned subsidiary, MultiDisc Technologies, Inc.
+("MDT"), was in the business of developing scalable, modular compact disc and
+digital versatile disc ("DVD") server technologies associated with a network
+based compact disc/DVD server for internet and intranet applications. Operations
+of MDT were discontinued in the fourth quarter of 1998 and the assets have been
+marketed for sale (see Note 11).
+
+(2) SIGNIFICANT ACCOUNTING POLICIES
+
+     BASIS OF CONSOLIDATION -- The consolidated financial statements include the
+accounts of Spatializer Audio Laboratories, Inc. and its wholly-owned
+subsidiary, Desper Products, Inc. MultiDisc Technologies, Inc. has been
+presented as a discontinued operation (see Note 11). All significant
+intercompany balances and transactions have been eliminated in consolidation.
+
+     REVENUE RECOGNITION -- The Company recognizes revenue from product sales
+upon shipment to the customer. License revenues are recognized when earned, in
+accordance with the contractual provisions. Royalty revenues are recognized upon
+shipment of products incorporating the related technology by the original
+equipment manufacturers (OEMs) and foundries.
+
+     CONCENTRATION OF CREDIT RISK -- Financial instruments, which potentially
+subject the company to concentrations of credit risk, consist principally of
+cash, cash equivalents and trade accounts receivable. The Company places its
+temporary cash investments in certificates of deposit with high quality national
+financial institutions. At December 31, 2000 substantially all cash and cash
+equivalents were on deposit at two financial institutions.
+
+     At December 31, 2000, three customers accounted for 36%, 35% and 14%,
+respectively, of the Company's trade receivables. The Company performs ongoing
+credit evaluations of its customers and normally does not require collateral to
+support accounts receivable.
+
+     CASH AND CASH EQUIVALENTS -- Cash equivalents consist of highly liquid
+investments with original maturities of three months or less.
+
+     MAJOR CUSTOMERS -- During the year ended December 31, 2000, three customers
+accounted for 36%, 35% and 14%, respectively, of the Company's net sales.
+
+     RESEARCH AND DEVELOPMENT COSTS -- The Company expenses research and
+development costs as incurred.
+
+     PROPERTY AND EQUIPMENT -- Property and equipment are stated at cost.
+Property and equipment under capital leases are stated at the present value of
+minimum lease payments. Property and equipment are depreciated over three to
+five years using accelerated-depreciation methods, which approximates 150%
+declining balance. Leasehold improvements are amortized over the shorter of the
+useful life of the asset or lease term.
+
+     INTANGIBLE ASSETS -- Intangible assets consist of patent costs which are
+amortized on a straight-line basis over the estimated useful lives of the
+patents which range from five to ten years.
+
+     EARNINGS PER SHARE -- On December 31, 1997, the Company retroactively
+adopted the provisions of Statement of Financial Accounting Standards No. 128,
+Earnings Per Share ("SFAS 128") which replaces the presentation of primary and
+fully diluted
+
+
+
+                                       22
+<PAGE>   23
+
+earnings (loss) per share with a presentation of basic and diluted earnings
+(loss) per share. Basic earnings (loss) per share is computed by dividing net
+income (loss) available to common shareholders by the weighted average number of
+common shares outstanding during the period. Diluted earnings (loss) per share
+reflects the potential dilution that could occur if securities or other
+contracts to issue common stock were exercised or converted into common stock or
+resulted in the issuance of common stock that then shared in the earnings of the
+entity. Diluted earnings (loss) per share is computed similarly to fully diluted
+earnings (loss) per share pursuant to the Accounting Principles Board ("APB")
+Opinion No. 15.
+
+     The impact of Statement 128 on the calculation of earnings per share is as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                     YEAR ENDED DECEMBER 31,
+                                                    --------------------------
+                                                       2000           1999
+                                                    -----------    -----------
+<S>                                                 <C>            <C>
+BASIC:
+Net Income (Loss) Available to Common
+  Shareholders....................................  $   382,019    $   354,792
+Weighted Average Shares Outstanding...............   46,736,224     33,805,512
+Basic Earnings per Share..........................  $      0.01    $      0.01
+DILUTED:
+Net Income (Loss) Available to Common
+  Shareholders....................................  $   382,019    $   354,792
+Weighted Average Shares Outstanding...............   46,736,224     33,805,512
+Net Effect of Dilutive Stock Options and Warrants
+  Based on the Treasury Stock Method Using Average
+  Market Price....................................      544,586      1,859,519
+Total Shares......................................   47,280,810     35,665,031
+Diluted Earnings per Share........................  $    0.0100    $    0.0100
+Average Market Price of Common Stock..............  $    0.9418    $    0.4700
+Ending Market Price of Common Stock...............  $    0.2344    $    0.9375
+</TABLE>
+
+     The following table presents contingently issuable shares, options and
+warrants to purchase shares of common stock at 2000 and 1999 and those that were
+outstanding during 1998 which were not included in the computation of diluted
+loss per share because the impact would have been antidilutive:
+
+<TABLE>
+<CAPTION>
+                                              2000         1999         1998
+                                            ---------    ---------    ---------
+<S>                                         <C>          <C>          <C>
+Options...................................  2,212,299    2,859,467    1,972,300
+Warrants..................................  2,520,000    2,730,000      732,000
+                                            ---------    ---------    ---------
+Total.....................................  4,732,299    5,589,467    2,704,300
+                                            =========    =========    =========
+</TABLE>
+
+     The loss per share for the year ended December 31, 1998 includes the effect
+of approximately $371,000 of the beneficial conversion feature of the Series
+"A", 7% Convertible Preferred Stock as well as dividends in arrears of
+approximately $149,000 related to this Preferred Stock.
+
+     STOCK OPTION PLAN -- Prior to January 1, 1996 the Company accounted for its
+stock option plan in accordance with the provisions of APB Opinion No. 25,
+Accounting for Stock Issued to Employees, and related interpretations. As such,
+compensation expense would be recorded on the date of grant only if the current
+market price of the underlying stock exceeded the exercise price. On January 1,
+1996, the Company adopted SFAS No. 123, Accounting for Stock-Based Compensation,
+which permits entities to recognize as expense using the fair-value-based method
+over the vesting period the fair value of all employee stock-based awards on the
+date of grant. Alternatively, SFAS No. 123 allows entities to continue to apply
+the provisions of APB Opinion No. 25 and provide pro forma net income (loss) and
+pro forma earnings (loss) per share disclosures for employee stock option grants
+made in 1995 and future years as if the fair-value-based method defined in SFAS
+No. 123 has been applied. The Company has elected to continue to apply the
+provisions of APB Opinion No. 25 and provide the pro forma disclosure provisions
+of SFAS No. 123 (Note 8).
+
+     IMPAIRMENT OF LONG-LIVED ASSETS AND ASSETS TO BE DISPOSED OF -- The Company
+adopted the provisions of SFAS No. 121, Accounting for the Impairment of
+Long-Lived Assets and for Long-Lived Assets to Be Disposed of, on January 1,
+1996. This Statement requires that long-lived assets and certain identifiable
+intangibles be reviewed for impairment whenever events or changes in
+circumstances indicate that the carrying amount of an asset may not be
+recoverable. Recoverability of assets to be held and used is measured by a
+comparison of the carrying amount of an asset to future net cash flows expected
+to be generated by the asset. If such assets are considered to be impaired, the
+impairment to be recognized is measured as the amount by which the carrying
+amounts of the assets exceed the fair value of the assets (see Notes 4). Assets
+to be disposed of are reported at the lower of the carrying amount or fair value
+less costs to sell.
+
+
+
+                                       23
+<PAGE>   24
+
+     SEGMENT REPORTING -- The Financial Accounting Standards Board issued
+Statement No. 131, Disclosures about Segments of an Enterprise and Related
+Information ("SFAS No. 131"), in June 1997. SFAS No. 131 establishes standards
+for the way public business enterprises are to report information about
+operating segments in annual financial statements and requires enterprises to
+report selected information about operating segments in interim financial
+reports issued to shareholders. It also establishes standards for related
+disclosures about products and services, geographic areas, and major customers.
+It replaces the "industry segment" concept of SFAS No. 14, Financial Reporting
+for Segments of a Business Enterprise, with a "management approach" concept as
+to basis for identifying reportable segments. SFAS 131 is effective for
+financial statements for fiscal years beginning after December 15, 1997. The
+Company adopted SFAS 131 in December 1997. MDT is considered a discontinued
+operation as of September 1998. As of December 31, 2000, the Company has only
+one operating segment, DPI, the Company's 3-D Audio Signal Processing business.
+
+     COMPREHENSIVE INCOME -- The Financial Accounting Standards Board issued
+Statement No. 130, Reporting Comprehensive Income ("SFAS 130"), in June 1997.
+SFAS 130 establishes standards for reporting and display of comprehensive income
+and its components in financial statements. SFAS No. 130 is effective for fiscal
+years beginning after December 15, 1997. The Company adopted SFAS No. 130
+January 1, 1998. Comprehensive income (loss) is the change in equity of a
+business enterprise during a period from transactions and all other events and
+circumstances from non-owner sources. Other comprehensive income (loss) includes
+foreign currency items, minimum pension liability adjustments, and unrealized
+gains and losses on certain investments in debt and equity securities. The
+Company did not have components of other comprehensive income (loss) during the
+years ended December 31, 2000, 1999 and 1998. As a result, comprehensive income
+(loss) is the same as the net income (loss) for the years ended December 31,
+2000, 1999 and 1998.
+
+     INCOME TAXES -- Income taxes are accounted for under the asset and
+liability method. Deferred tax assets and liabilities are recognized for the
+future tax consequences attributable to differences between the financial
+statement carrying amounts of existing assets and liabilities and their
+respective tax bases and operating loss and tax credit carry forwards. Deferred
+tax assets and liabilities are measured using enacted tax rates expected to
+apply to taxable income in the years in which those temporary differences are
+expected to be recovered or settled. The effect on deferred tax assets and
+liabilities of a change in tax rates is recognized in income in the period that
+includes the enactment date.
+
+     USE OF ESTIMATES -- Management of the Company has made a number of
+estimates and assumptions relating to the reporting of assets and liabilities
+and the disclosure of contingent assets and liabilities to prepare these
+financial statements in conformity with generally accepted accounting
+principles. Actual results could differ from those estimates.
+
+     FINANCIAL INSTRUMENTS -- The carrying values of cash equivalents, accounts
+receivable, accounts payable and accrued liabilities at December 31, 2000 and
+1999 approximated fair value due to the short maturity of those investments.
+
+     The fair value of the advances from related parties could not be estimated
+due to the nature of the borrowings.
+
+     The fair values of notes payable at December 31, 2000 and 1999 are
+materially consistent with the related carrying values based on current rates
+offered to the Company for instruments with similar maturities.
+
+     DISCONTINUED OPERATION -- In September 1998, the Board of Directors
+approved a plan to refocus corporate activities on the Company's core audio
+business, Desper Products, Inc. In conjunction to this strategic refocusing, the
+Company permanently suspended operations of MDT and placed the business and its
+related patent portfolio up for sale. The Company is accounting for the on-going
+operating and termination expenses of MDT as a discontinued operation (see Note
+11).
+
+     Certain 1999 amounts have been reclassified in order to conform to 2000
+classification.
+
+
+
+                                       24
+<PAGE>   25
+
+(3) PROPERTY AND EQUIPMENT
+
+     Property and equipment, as of December 31, 2000 and 1999, consists of the
+following, net of a reserve for impairment loss in 1998 in accordance with
+application of SFAS 121:
+
+<TABLE>
+<CAPTION>
+                                                           2000        1999
+                                                         --------    --------
+<S>                                                      <C>         <C>
+Office Computers, Software, Equipment and Furniture....  $268,799    $242,272
+Test Equipment.........................................    61,737      60,647
+Tooling Equipment......................................    49,514      44,136
+Trade Show Booth and Demonstration Equipment...........   122,761     122,768
+Automobiles............................................     7,000           0
+Leasehold Improvements.................................    22,122      22,122
+                                                         --------    --------
+Total Property and Equipment...........................   531,933     491,945
+Less Accumulated Depreciation and Amortization.........   423,872     359,142
+                                                         --------    --------
+Property and Equipment, Net............................  $108,061    $132,803
+                                                         ========    ========
+</TABLE>
+
+(4) INTANGIBLE ASSETS
+
+     Intangible assets, as of December 31, 2000 and 1999 consist of the
+following:
+
+<TABLE>
+<CAPTION>
+                                                           2000        1999
+                                                         --------    --------
+<S>                                                      <C>         <C>
+Capitalized Patent and Technology Costs................  $489,911    $373,677
+Less Accumulated Amortization..........................   187,122     165,884
+                                                         --------    --------
+Intangible Assets, Net.................................  $302,789    $207,793
+                                                         ========    ========
+</TABLE>
+
+(5) NOTES PAYABLE TO RELATED PARTIES
+
+     The Company was indebted to certain related parties for an amount totaling
+$337,742 at December 31, 2000. This amount bears interest at a fixed rate of 10%
+annually and is due on demand. It is convertible into shares of common stock
+based on the 10 day average closing bid price immediately prior to notice of
+conversion.
+
+     At December 31, 1998, the Company was indebted to four of its directors and
+one of its executives for an amount totaling $745,000. This amount bore interest
+at a fixed rate of 10% annually. Of this amount, $650,000 was due on December
+31, 1998. The remaining $95,000 was due on November 30, 1999, or upon the sale
+of the MDT assets. The Company granted 95,000 warrants to purchase common stock
+at $0.20 per share in connection with the $95,000 of indebtedness. This debt was
+converted into Series B preferred stock in December 1999 (see Note 6).
+
+(6) SHAREHOLDERS' EQUITY
+
+  During the year ended December 31, 2000, shares were issued or converted as
+follows:
+
+     In the third quarter of 2000, the Company issued 55,000 shares of common
+stock to its law firm for services rendered. No other issuances or conversions
+occurred during the year ended December 31, 2000.
+
+  During the year ended December 31, 1999, shares were issued or converted as
+follows:
+
+     In December 1999, the Company completed a set of financial transactions
+(the "December Transactions") with certain existing holders of the Company's
+equity and debt and with new institutional investors. The December Transactions
+included the private placement of 1,884,254 additional shares of our common
+stock ($1.05 million in new capital or $0.55725 per share), the issuance of
+warrants to acquire 2,100,000 shares of common stock exercisable for three years
+at an exercise price of $.67 per share), the cancellation of 500,000 warrants to
+acquire common stock issued in an earlier financing, the conversion of $1
+million of short-term debt into a new Series B Convertible Redeemable Preferred
+Stock ("Series B Preferred Stock") and the conversion of $225,000 of secured
+debt into secured long-term convertible debt.
+
+     In the December Transactions, $895,000 in short-term loan advances from
+officers, directors and their affiliates and certain other securities holders,
+and accrued interest of $134,647, were restructured into $1,000,000 in new
+Series B Preferred Stock. The Series B Preferred Stock, and any dividends
+therefrom not converted into cash, are convertible commencing in 2001 into
+restricted common stock at a 10% discount, based on the 10-day average closing
+bid price prior to the conversion, but subject to a minimum conversion
+
+
+
+                                       25
+<PAGE>   26
+
+of $56 per share and a maximum of $1.12 per share. The Company has a three-year
+option to redeem any Series B Preferred Stock, not sooner converted, in whole or
+in part, in cash.
+
+     In the December Transactions, $225,000 of secured debt, including accrued
+interest, was converted into secured long-term convertible debt. The long-term
+debt is held by existing institutional investors and is secured by essentially
+all of the Company's assets. The debt, and accrued interest, is convertible at
+the Company's or the holder's options into registered common stock at a
+conversion price equal to the average 10-day closing bid price prior to
+conversion but subject to the same minimum and maximum conversion prices set for
+the Series B Preferred Stock.
+
+     Also, concurrently with the December Transactions, 55,000 shares were
+allocated to the Company's outside legal counsel in payment of a portion of its
+legal fees for this transaction.
+
+  During the year ended December 31, 1998, shares were issued or converted as
+follows:
+
+     On April 14, 1998, the Company entered into a private placement for up to
+$5 million of which $3 million was funded at December 31, 1998. In connection
+with the private placement, the Company authorized 100,000 shares of a new
+Series A, 7% Convertible Preferred Stock at a stated price of $50 per share and
+issued 60,000 shares for the $3 million. In connection with the April funding,
+the Company issued purchase warrants, exercisable for three years and entitling
+the holders to acquire one share of the Company's common stock for each warrant.
+Of the warrants, 450,000 were issued and 150,000 warrants were issued to
+placement agents. The investor warrants are exercisable at 140% and the
+placement warrants are exercisable at 120%, respectively, of the average closing
+bid price of the Company's common stock for the 10 days preceding the closing.
+In addition, cash placement fees of 10% were paid. A related party of the
+Company received 50,000 of the placement agent warrants and $100,000 of the
+placement agent cash fee for arranging $1 million of the $3 million investment.
+As of December 31, 1998, $1 million of the remaining $2 million of the funding
+was due but had not yet been received.
+
+     Holders of the Series A Preferred Stock have a right to convert their
+shares, at their option on the earlier of (x) ninety (90) days after issuance or
+(y) on the effective date of a Form S-3 Registration Statement (the "Conversion
+Date") with such conversion to be based on a per share conversion price
+("Conversion Price") equal to the lesser of a price that reflects a discount
+(the "Conversion Discount") to the average of any three (3) consecutive closing
+bid prices for the Company's Common Stock within twenty (20) trading days
+immediately prior to the conversion date (the "Floating Conversion Price") or a
+price which is equal to one hundred thirty percent (130%) of the closing bid
+prices of the Company's Common Stock for the ten (10) trading days immediately
+preceding the date of issuance (the "Fixed Conversion Price") provided that in
+determining the Conversion Price, the holder shall not count any day on which
+its sales account for greater than twenty percent (20%) of the volume of the
+Company's Common Stock and on which the holder has sales in the last hour of
+trading. The Conversion Discount shall be equal to fifteen percent (15%) if the
+Conversion Rights are exercised within one hundred twenty (120) days of first
+issuance of the Series A Preferred Stock and shall be equal to seventeen and
+one-half percent (17.5%) if the Conversion Rights are exercised after one
+hundred twenty (120) days and prior to one hundred forty-nine (149) days of
+first issuance of the Series A Preferred Stock. The applicable Conversion
+Discount increased by five percent (5%) when the Company was delisted on NASDAQ.
+In addition, the percentage of shares that can be converted at any one time is
+limited during such time periods and the holders cannot own more than 4.99% of
+the equity of the Company after the Conversion.
+
+     At December 31, 1998, 7,100 shares of the Convertible Preferred Series A
+Stock had been converted into a total of 4,399,522 shares of the Company's
+Common Stock.
+
+     The beneficial conversion feature of the Series A Preferred Stock was
+recorded as a dividend using the most favorable conversion terms available to
+the shareholder to calculate the dividend in accordance with FASB (Emerging
+Issues Task Force) Topic D-60. Since the Company has an accumulated deficit and,
+under Delaware Law, must charge dividends against additional paid-in capital,
+the net impact of recording the beneficial conversion feature is zero since both
+sides of the entry are recorded in additional paid-in capital. At December 31,
+1998, dividends in arrears were $131,148.
+
+     In the private placement, the participants were granted certain rights to
+participate in the separate financing of approximately $6 million currently
+being pursued by the Company to fund the commercial introduction of its
+MultiDisc CD/DVD server technology. However, as reported by the Company on
+September 25, 1998, the Company has decided to refocus on the core audio
+technologies and to properly position the MultiDisc assets for sale. Therefore
+this financing is not currently being pursued actively.
+
+
+
+                                       26
+<PAGE>   27
+
+(7) ESCROWED PERFORMANCE SHARES
+
+     In December 1996, the Company accepted the terms outlined by the British
+Columbia Securities Commissions ("BCSC") for the release of the Company's
+5,776,700 escrowed "Performance Shares" from Canadian Escrow into a new escrow
+arrangement with the Company. The overall modification was approved by the
+Company's shareholders in August 1996. Under the revised arrangement, the
+performance shares will be released automatically as follows: 20% on June 22,
+2000; 30% on June 22, 2001; and 30% on June 22, 2002. In addition to the
+automatic releases, performance shares can be released based on the cash flow
+release criteria contained in the original June 22, 1992 escrow agreement
+although, to maintain a stable market in the Company's stock, in any year not
+more than 30% of the shares will be released, based on the cash flow criteria.
+
+     Under the revised escrow arrangement, the performance shares will vest,
+provided the individual has not voluntarily terminated his/her relationship with
+the Company prior to applicable vesting dates.
+
+     Based on the revised escrow arrangement, which primarily converts the
+escrow shares release from performance criteria to a time-based criteria, the
+Company recorded as compensation expense the excess of the fair market value of
+the 5,776,700 performance shares on the date the Company accepted the terms of
+the new escrow arrangement over the purchase price of such escrow shares.
+
+     All of the performance shares are included in the issued and outstanding
+shares for the years ended December 31, 2000, 1999 and 1998. However, the shares
+were not reflected in the calculation of loss per common share until earned by
+and released to the holders on December 30, 1996, the date on which the Company
+and the BCSC accepted and entered into the terms of the current escrowed
+agreement as discussed above.
+
+(8) STOCK OPTIONS
+
+     In 1995, the Company adopted a stock option plan (the "Plan") pursuant to
+which the Company's Board of Directors may grant stock options to directors,
+officers and employees. The Plan authorizes grants of options to purchase
+authorized but unissued common stock up to 10% of total common shares
+outstanding at each calendar quarter, 4,708,797 as of December 31, 2000. Stock
+options are granted with an exercise price equal to the stock's fair market
+value at the date of grant. Stock options have five-year terms and vest and
+become fully exercisable up to three years from the date of grant.
+
+     At December 31, 2000, there were 2,527,894 additional shares available for
+grant under the Plan. The per share weighted-average fair value of stock options
+granted during 2000, 1999 and 1998 was $0.19, $0.32, and $0.25, respectively, on
+the date of grant using the Black-Scholes option-pricing model with the
+following weighted-average assumptions: 2000 -- expected dividend yield 0%, risk
+free interest rate of 9%, expected volatility of 654% and expected life of 5
+years. 1999 and 1998 -- expected dividend yield 0%, risk-free interest rate of
+9.0%, expected volatility of 95% and an expected life of 3 years.
+
+     The Company applies APB Opinion No. 25 in accounting for its Plan and,
+accordingly, no compensation cost has been recognized for the fair value of its
+stock options in the consolidated financial statements. Had the Company
+determined compensation cost based on the fair value at the grant date for its
+stock options under SFAS No. 123, the Company's net loss would have been
+increased to the pro forma amounts indicated below:
+
+<TABLE>
+<CAPTION>
+                                                  2000           1999         1998
+                                                ------------   --------    -----------
+<S>                                             <C>            <C>         <C>
+NET INCOME (LOSS):
+As Reported...................................  382,019        $354,792    $(5,792,061)
+Pro Forma.....................................  292,169        $(49,978)   $(5,792,061)
+BASIC AND DILUTED LOSS:
+As Reported................................... $   0.01        $   0.01    $      (.29)
+Pro Forma..................................... $   0.01        $  (0.01)   $      (.29)
+</TABLE>
+
+     Pro forma net loss reflects only options granted since December 31, 1994.
+Therefore, the full impact of calculating compensation cost for stock options
+under SFAS No. 123 is not reflected in the pro forma net loss amounts presented
+above because compensation cost is reflected over the options' vesting period
+and compensation cost for options granted prior to January 1, 1995 is not
+considered.
+
+                                       27
+<PAGE>   28
+
+     Stock option activity during the periods indicated is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                WEIGHTED-AVERAGE
+                                                    NUMBER       EXERCISE PRICE
+                                                   ---------    ----------------
+<S>                                                <C>          <C>
+Options outstanding at January 1, 1998...........  1,855,070         $1.897
+Options granted..................................    646,000         $0.728
+Options exercised................................    (13,333)        $0.953
+Options forfeited................................   (515,437)        $1.763
+                                                   ---------
+Options outstanding at December 31, 1998.........  1,972,300         $1.515
+Options granted..................................  1,280,000         $0.316
+Options exercised................................    (59,998)        $1.242
+Options forfeited................................   (332,835)        $1.131
+                                                   ---------
+Options outstanding at December 31, 1999.........  2,859,467         $1.271
+                                                   =========
+Options granted..................................    400,000         $0.19
+Options exercised................................   (648,001)        $0.69
+Options forfeited................................   (399,167)        $1.92
+                                                   ---------
+Options outstanding at December 31, 2000.........  2,212,299         $1.13
+                                                   =========
+</TABLE>
+
+     At December 31, 2000, the number of options exercisable was 1,563,099 and
+the weighted-average exercise price of those options was $0.97.
+
+     On October 30, 1998, the Compensation Committee of the Board of Directors
+re-priced qualified stock options to purchase 121,000 shares of common stock
+granted to various employees beginning in June 1995. The exercise price for
+these options was adjusted to $.01875 per share (the closing market price on
+October 30, 1998) reducing grant date exercise prices ranging from $0.72 to
+$2.34 per share. Also, on November 12, 1998, the compensation Committee of the
+Board of Directors re-priced qualified stock options to purchase 100,000 shares
+of common stock granted to an employee in March 1998. The exercise price for
+these options was adjusted to $0.125 per share (the closing market price on
+November 12, 1998) reducing the grant date exercise price from $1.18 per share.
+The vesting schedules and expiration dates for these options were not modified.
+
+ (9) WARRANTS
+
+     Warrant activity for the periods indicated below is as follows:
+
+<TABLE>
+<CAPTION>
+                                                      WARRANTS     WARRANT PRICE
+                                                      ---------    -------------
+<S>                                                   <C>          <C>
+Warrants outstanding at January 1, 1998.............    934,750        $1.70
+Warrants issued.....................................    720,000        $1.45
+Warrants exercised..................................    (19,000)       $1.75
+Warrants expired....................................   (903,750)       $1.70
+                                                      ---------
+Warrants outstanding at December 31, 1998...........    732,000        $1.11
+Warrants issued.....................................  2,410,000        $0.60
+Warrants exercised..................................          0        $0.00
+Warrants expired....................................   (412,000)       $1.26
+                                                      ---------
+Warrants outstanding at December 31, 1999...........  2,730,000        $0.67
+Warrants issued.....................................          0        $0.00
+Warrants exercised..................................   (210,000)       $0.12
+Warrants expired....................................          0        $0.00
+                                                      ---------
+Warrants outstanding at December 31, 2000...........  2,520,000        $0.72
+                                                      =========
+</TABLE>
+
+     All of the warrants granted in 1999 and 1998 were issued in connection with
+private placements except for the following: 25,000 warrants were granted in
+1998 as consideration for consulting services rendered during 1998; and 95,000
+warrants were granted in 1998 in connection with a debt financing with the
+Company's directors. For those warrants granted as consideration for consulting
+services, the fair value of the consulting services was included in research and
+development costs in the accompanying consolidated statement of operations for
+the year ended December 31, 1998. At December 31, 2000, the number of warrants
+exercisable was 2,520,000.
+
+(10) INCOME TAXES
+
+     The Company files a consolidated return for U.S. income tax purposes.
+Income tax expense for the years ended December 31, 2000, 1999 and 1998
+consisted of the following:
+
+<TABLE>
+<CAPTION>
+                                                  2000       1999      1998
+                                                 -------    ------    -------
+<S>                                              <C>        <C>       <C>
+State franchise tax............................  $   800    $  800    $ 2,400
+Federal taxes..................................    9,200     5,700     35,838
+                                                 -------    ------    -------
+Total..........................................  $10,000    $6,500    $38,238
+                                                 =======    ======    =======
+</TABLE>
+
+
+                                       28
+<PAGE>   29
+
+     Certain revenues received from customers in foreign countries are subject
+to withholding taxes that are deducted from outgoing funds at the time of
+payment. These taxes range from approximately 8.5% to 15% and are recorded as
+foreign tax expense when incurred.
+
+     Income tax expense for the years ended December 31, 2000, 1999 and 1998
+differed from the amounts computed by applying the U.S. federal income tax rate
+of 34 percent to loss before income taxes primarily due to the generation of
+additional net operating loss carryforwards for which no tax benefit has been
+provided.
+
+     The tax effects of temporary differences that give rise to significant
+portions of the deferred tax assets at December 31, 2000 is composed primarily
+of the net loss carryforwards. The net change in the total valuation allowance
+for the year ended December 31, 2000 was insignificant. In assessing the
+realizability of deferred tax assets, management considers whether it is more
+likely than not that some portion or all of the deferred tax assets will not be
+realized. The ultimate realization of deferred tax assets is dependent upon the
+generation of future taxable income during the periods in which those temporary
+differences become deductible. Management considers projected future taxable
+income and tax planning strategies in making this assessment. Based upon the
+level of historical taxable losses, management believes it is more likely than
+not the Company will not realize the benefits of these deductible differences
+and has established a valuation allowance to fully reserve the deferred tax
+assets at December 31, 2000. Additionally, the ultimate realizability of net
+operating losses may be limited by change of control provisions under Section
+382 of the Internal Revenue Code.
+
+     At December 31, 2000, the Company had net operating loss carryforwards for
+Federal income tax purposes of approximately $26,000,000 which are available to
+offset future Federal taxable income, if any, through 2013. Approximately
+$21,700,000 of these net operating loss carry forwards are subject to an annual
+limitation of approximately $1,000,000.
+
+(11) DISCONTINUED OPERATION
+
+     On September 25, 1998, the Board of Directors determined that it would be
+unable to raise the necessary capital required to properly commercialize the MDT
+technology. Therefore, the Company ceased funding the operations of MDT and is
+actively seeking to sell the assets and technology. All employees of MDT have
+been terminated and the Company has vacated the MDT facilities.
+
+     Based on this action, the Company is treating MDT as a discontinued
+operation. Accordingly, the balance sheet and statement of operations of MDT are
+not consolidated in the continuing operations of the Company, but rather are
+disclosed as Net Liabilities of Discontinued Operation and Loss from
+Discontinued Operation, respectively.
+
+     The Net Liabilities of Discontinued Operation at December 31, 2000 are
+comprised of the following:
+
+<TABLE>
+<S>                                                        <C>
+Accounts payable.........................................  $(220,691)
+Accrued expenses.........................................     (9,597)
+Notes payable............................................    (25,552)
+                                                           ---------
+Net liabilities of discontinued operations...............  $(255,840)
+                                                           =========
+</TABLE>
+
+(12) COMMITMENTS AND CONTINGENCIES
+
+     In February 1999, a complaint was filed in the Superior Court of Los
+Angeles County, Northwest District, by I.N. Associates, Inc., against the
+Company's wholly owned subsidiary, MultiDisc Technologies, Inc. ("MDT"),
+alleging breach of contract and fraud, and claiming $499,954 in damages,
+attorneys fees, interest and the costs of suit. MDT has answered and denied the
+claims. The matter was subject to a mediation preceding in March 2000, and has
+been settled. The settlement specifies that I.N. will be entitled to a cashless
+exercise of warrants for the 125,000 shares originally issued to them in 1997
+and 1998, or a cash payment of $50,000 if the warrants remained unexercised. In
+January 2001, the cash payment was made and no further liabilities or
+contingencies exist.
+
+     In connection with the downsizing of the Company, a number of employees
+were terminated and have filed, on various dates since the downsizing in 1998,
+various employment and compensation related claims with the various State labor
+authorities. All but two of which claims have either been settled or have been
+paid as of the date of this report. In February, 2000, an appeal was heard in
+the Superior Court of Orange County, California, relating to a claim filed by a
+former employee of MDT for back vacation pay and penalties. In March 2000, both
+parties agreed to dismiss the action as part of a settlement, which was not
+material to the financial statements for the period ended March 31, 2000. In
+July 2000, the Labor Commission of the State of California awarded $122,000 to a
+claimant arising from a claim for commissions over a three-year period. The
+Company appealed the order to the Superior Court of California, Santa Clara
+County, since, under California law, the Labor Commission order will have no
+effect on the court's
+
+
+                                       29
+<PAGE>   30
+consideration of the matter. On October 27, 2000, the matter was settled by
+mutual release and payment in an amount which was not material to the financial
+statements of the Company for the period ended September 30, 2000. Two former
+officers and employees of MDT initiated proceedings before the Labor
+Commissioner in 2000 seeking amounts allegedly due under their employment
+agreements, which claims, if resolved in favor of the claimants, could be
+material to the financial statements of the Company. The Labor Commissioner has
+postponed those proceedings. In that action, the claimants filed a motion to
+strike under the California "anti-Slapp" legislation. The court rejected that
+motion and the litigation is in the discovery stages. Separately, MDT has
+initiated litigation in the Superior Court, Orange County seeking declaratory
+relief to bar the labor claims, as well as return of intellectual property and
+unspecified damages for breaches of the former officers' and employees'
+employment agreements.
+
+  Operating Lease Commitments
+
+     The Company is obligated for future minimum rental payments for all
+operating leases of approximately $93,000 per year through November 2002. Rent
+expense amounted to approximately $ 115,000, $140,000 and $251,000 for the years
+ended December 31, 2000, 1999 and 1998, respectively.
+
+
+
+                                       30
+<PAGE>   31
+
+ITEM 9. CHANGE IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL
+        DISCLOSURE
+
+     None.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     Information required for this item incorporated by reference to the
+Definitive Proxy filed on or before April 30, 2001.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     Information required for this item incorporated by reference to the
+Definitive Proxy filed on or before April 30, 2001.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     Information required for this item incorporated by reference to the
+Definitive Proxy filed on or before April 30, 2001.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Information required for this item incorporated by reference to the
+Definitive Proxy filed on or before April 30, 2001.
+
+                                    PART IV
+
+ITEM 14. EXHIBITS
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                             DESCRIPTION
+-------                            -----------
+<S>        <C>
+  2.1*     Desper-Spatializer Reorganization Agreement dated January
+           29, 1992. (Incorporated by reference to the Company's
+           Registration Statement on Form S-1, Registration No.
+           33-90532, effective August 21, 1995.)
+  2.2*     Arrangement Agreement dated as of March 4, 1994 among
+           Spatializer-Yukon, DPI and Spatializer-Delaware.
+           (Incorporated by reference to the Company's Registration
+           Statement on Form S-1, Registration No. 33-90532, effective
+           August 21, 1995.)
+  3.1*     Certificate of Incorporation of Spatializer-Delaware as
+           filed February 28, 1994. (Incorporated by reference to the
+           Company's Registration Statement on Form S-1, Registration
+           No. 33-90532, effective August 21, 1995.)
+  3.2*     Amended and Restated Bylaws of Spatializer-Delaware.
+           (Incorporated by reference to the Company's Registration
+           Statement on Form S-1, Registration No. 33-90532, effective
+           August 21, 1995.)
+  3.3*     Certificate of Designation of Series B 10% Redeemable
+           Convertible Preferred Stock of the Company as filed December
+           27, 1999.
+  3.4*     Certificate of Amendment of Certificate of Incorporation of
+           the Company as filed on February 25, 2000.
+  4.1*     Form of Subscription Agreement for August 1994 Private
+           Placement. (Incorporated by reference to the Company's
+           Registration Statement on Form S-1, Registration No.
+           33-90532, effective August 21, 1995.)
+  4.2*     Form of Subscription Agreement for November 1994 Private
+           Placement. (Incorporated by reference to the Company's
+           Registration Statement on Form S-1, Registration No.
+           33-90532, effective August 21, 1995.)
+  4.3*     Form of Spatializer-Yukon Incentive Stock Option Agreement.
+           (Incorporated by reference to the Company's Registration
+           Statement on Form S-1, Registration No. 33-90532, effective
+           August 21, 1995.)
+  4.4*     Spatializer-Delaware Incentive Stock Option Plan (1995
+           Plan). (Incorporated by reference to the Company's
+           Registration Statement on Form S-1, Registration No.
+           33-90532, effective August 21, 1995.)
+  4.5*     Performance Share Escrow Agreements dated June 22, 1992
+           among Montreal Trust Company of Canada, Spatializer-Yukon
+           and certain shareholders with respect to escrow of 2,181,048
+           common shares of Spatializer-Yukon. (Incorporated by
+           reference to the Company's Registration Statement on Form
+           S-1, Registration No. 33-90532, effective August 21, 1995.)
+</TABLE>
+
+
+                                       31
+<PAGE>   32
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                             DESCRIPTION
+-------                            -----------
+<S>        <C>
+  4.6*     Spatializer-Delaware 1996 Incentive Plan. (Incorporated by
+           reference to the Company's Proxy Statement dated June 25,
+           1996 and previously filed with the Commission.)
+  4.7*     Form of Subscription Agreement for 1995 Private Placements.
+           (Incorporated by reference to the Company's Registration
+           Statement on Form S-1, Registration No. 33-90532, effective
+           August 21, 1995.)
+  4.8*     Form of Subscription Agreement and Warrant Agreement for
+           March 7, 1997 Private Placement. (Incorporated by reference
+           to the Company's Annual Report on Form 10-K for the year
+           ended December 31, 1997.)
+  4.9*     Modification Agreement for Escrowed Performance Shares.
+           (Incorporated by reference to the Company's Definitive Proxy
+           Statement dated June 28, 1996 and previously filed with the
+           Commission.)
+  4.10*    Subscription Agreement for April 1998 Private Placement.
+           (Incorporated by reference to the Company's Registration
+           Statement on Form S-3, Registrations No. 333-52863, filed
+           May 15, 1998.)
+  4.11*    Common Stock Purchase Agreement dated as of December 29,
+           1999 among the Company, CPR (USA) Inc., LibertyView Funds,
+           L.P., LibertyView Fund, LLC.
+  4.12*    Stock Purchase Warrant, dated as of December 29, 1999 issued
+           by the Company to CPR (USA) Inc.
+  4.13*    Stock Purchase Warrant, dated as of December 29, 1999 issued
+           by the Company to LibertyView Funds, L.P.
+  4.14*    Stock Purchase Warrant, dated as of December 29, 1999 issued
+           by the Company to LibertyView Fund, LLC.
+  4.15*    Registration Rights Agreement dated as of December 29, 1999
+           among the Company and CPR (USA) Inc., LibertyView Funds,
+           L.P. and LibertyView Fund, LLC.
+  4.16*    Secured Non-Negotiable Convertible Promissory Note dated as
+           of December 29, 1999 issued by the Company to CPR (USA) Inc.
+  4.17*    Secured Non-Negotiable Convertible Promissory Note dated as
+           of December 29, 1999 issued by the Company to LibertyView
+           Funds, L.P.
+  4.18*    Secured Non-Negotiable Convertible Promissory Note dated as
+           of December 29, 1999 issued by the Company to LibertyView
+           Fund LLC.
+  4.19*    Registration Rights Agreement dated as of December 29, 1999
+           among the Company and CPR (USA) Inc., LibertyView Funds,
+           L.P. and LibertyView Fund, LLC.
+  4.20*    Agreement Regarding Cancellation of Warrants, dated as of
+           December 29, 1999 among CPR (USA), Inc., LibertyView Funds,
+           L.P. and LibertyView Fund, LLC.
+  4.21*    Common Stock Subscription Agreement dated as of December 29,
+           1999 between the Company and Lufeng Investments (as assignee
+           of Arab Commerce Bank).
+  4.22*    Stock Purchase Warrant, dated as of December 29, 1999 issued
+           by the Company to Lufeng Investments (as assignee of Arab
+           Commerce Bank).
+  4.23*    Registration Rights Agreement dated as of December 29, 1999
+           between the Company and Lufeng Investments (as assignee of
+           Arab Commerce Bank).
+  4.24*    Common Stock Subscription Agreement dated as of December 29,
+           1999 between the Company and Bank Insinger de Beaufort.
+  4.25*    Stock Purchase Warrant, dated as of December 29, 1999 issued
+           by the Company to Bank Insinger de Beaufort.
+  4.26*    Registration Rights Agreement dated as of December 29, 1999
+           between the Company and Bank Insinger de Beaufort.
+  4.27*    Common Stock Subscription Agreement dated as of December 29,
+           1999 between the Company and Romofin, A.G.
+  4.28*    Stock Purchase Warrant, dated as of December 29, 1999 issued
+           by the Company to Romofin, A.G.
+  4.29*    Registration Rights Agreement dated as of December 29, 1999
+           between the Company and Romofin, A.G.
+  4.30*    10% Convertible Preferred Stock Subscription Agreement dated
+           as of December 29, 1999 between the Company and Clarion
+           Finanz, A.G. Carlo Civelli, Henry R. Mandell, James D. Pace,
+           Jerold H. Rubinstein, Gilbert N. Segel, Aton Select Fund
+           Ltd. and Romofin A.G.
+ 10.1**    License Agreement dated June 29, 1994 between DPI and MEC.
+           (Incorporated by reference to the Company's Registration
+           Statement on Form S-1, Registration No. 33-90532, effective
+           August 21, 1995.)
+</TABLE>
+
+
+                                       32
+<PAGE>   33
+
+<TABLE>
+<CAPTION>
+EXHIBIT
+NUMBER                             DESCRIPTION
+-------                            -----------
+<S>        <C>
+ 10.2**    License Agreement dated November 11, 1994 between DPI and
+           ESS. (Incorporated by reference to the Company's
+           Registration Statement on Form S-1, Registration No.
+           33-90532, effective August 21, 1995.)
+ 10.3*     License Agreement dated June 10, 1994 between Joel Cohen and
+           DPI. (Incorporated by reference to the Company's
+           Registration Statement on Form S-1, Registration No.
+           33-90532, effective August 21, 1995.)
+ 10.4*     Agreement Regarding Indebtedness dated as of December 29,
+           1999 among the Company and CPR (USA) Inc., LibertyView
+           Funds, L.P. and LibertyView Fund, LLC.
+ 10.5*     Security Agreement dated as of December 29, 1999 among the
+           Company and CPR (USA) Inc., LibertyView Funds, L.P. and
+           LibertyView Fund, LLC.
+ 10.6*     Finder's Fee Agreement dated as of December 27, 1999 between
+           the Company and Bristol Capital, L.L.C.
+ 21.1      Schedule of Subsidiaries of the Company.
+</TABLE>
+
+---------------
+ * Previously filed.
+
+** Previously filed and portions subject to request for confidential treatment.
+   The confidential portions omitted have been filed separately with the
+   Commission.
+
+
+
+                                       33
+<PAGE>   34
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+Dated: March 28, 2001                     SPATIALIZER AUDIO LABORATORIES, INC.
+                                          (Registrant)
+
+                                          /s/ HENRY R. MANDELL
+                                          --------------------------------------
+                                          Henry R. Mandell
+                                          Chief Executive Officer & Chief
+                                          Financial Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+                  SIGNATURE                                    TITLE                        DATE
+                  ---------                                    -----                        ----
+<S>                                            <C>                                     <C>
+/s/ CARLO CIVELLI                                             Director                 March 28, 2001
+---------------------------------------------
+Carlo Civelli
+
+/s/ STEPHEN W. DESPER                                         Director                 March 28, 2001
+---------------------------------------------
+Stephen W. Desper
+
+/s/ JAMES D. PACE                                             Director                 March 28, 2001
+---------------------------------------------
+James D. Pace
+
+/s/ GILBERT N. SEGEL                                          Director                 March 28, 2001
+---------------------------------------------
+Gilbert N. Segel
+</TABLE>
+
+
+
+                                       34
+</TEXT>
+</DOCUMENT>

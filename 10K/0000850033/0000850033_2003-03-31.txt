@@ -1,0 +1,2836 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>pbt10-k2002.txt
+<DESCRIPTION>ANNUAL REPORT - YEAR ENDED 12/31/2002
+<TEXT>
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+(X)  ANNUAL REPORT  PURSUANT TO SECTION 13 OR 15(d) OF THE  SECURITIES  EXCHANGE
+     ACT OF 1934
+
+                   For the Fiscal Year ended December 31, 2002
+
+                                       OR
+
+( )  TRANSITION  REPORT  PURSUANT  TO SECTION  13 OR 15(d) OF THE  SECURITIES
+     EXCHANGE ACT OF 1934
+
+                         Commission File Number 1-10243
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+             (Exact name of registrant as specified in its charter)
+
+            DELAWARE                                     13-6943724
+   State or other jurisdiction              (I.R.S. Employer Identification No.)
+of incorporation or organization)
+
+   THE BANK OF NEW YORK, TRUSTEE
+         101 BARCLAY STREET
+         NEW YORK, NEW YORK                                10286
+(Address of principal executive offices)                 (Zip Code)
+
+       Registrant's telephone number, including area code: (212) 815-6908
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+       Title of Each Class           Name of Each Exchange on Which Registered
+   UNITS OF BENEFICIAL INTEREST                NEW YORK STOCK EXCHANGE
+
+        Securities registered pursuant to Section 12(g) of the Act: NONE
+
+     Indicate by check mark  whether the  registrant:  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+     Indicate by check mark if disclosure of delinquent  filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [X]
+
+     As of  March  27,  2003,  21,400,000  Units  of  Beneficial  Interest  were
+outstanding. The aggregate market value of Units held by nonaffiliates (based on
+the  closing  sale  price  on the New York  Stock  Exchange)  was  approximately
+$120,482,000.
+
+     Documents Incorporated by Reference: None
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+PART I.........................................................................1
+
+   ITEM 1.  BUSINESS...........................................................1
+             INTRODUCTION......................................................1
+             THE TRUST.........................................................2
+             THE ROYALTY INTEREST..............................................7
+             THE UNITS........................................................11
+             THE BP SUPPORT AGREEMENT.........................................14
+             THE PRUDHOE BAY UNIT.............................................14
+             INDEPENDENT OIL AND GAS CONSULTANTS' REPORT......................20
+             INDUSTRY CONDITIONS AND REGULATIONS..............................25
+             CERTAIN TAX CONSIDERATIONS.......................................25
+   ITEM 2.  PROPERTIES........................................................28
+   ITEM 3.  LEGAL PROCEEDINGS.................................................28
+   ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF UNIT HOLDERS...................28
+
+PART II.......................................................................29
+
+   ITEM 5.  MARKET FOR THE UNITS AND RELATED UNIT HOLDER MATTERS..............29
+   ITEM 6.  SELECTED FINANCIAL DATA...........................................29
+   ITEM 7.  TRUSTEE'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+              AND RESULTS OF OPERATIONS.......................................30
+   ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK........32
+   ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.......................32
+   ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+              AND FINANCIAL DISCLOSURE........................................44
+
+PART III......................................................................44
+
+   ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT................44
+   ITEM 11. EXECUTIVE COMPENSATION............................................44
+   ITEM 12. UNIT OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT........44
+   ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS....................44
+   ITEM 14. CONTROLS AND PROCEDURES...........................................44
+
+PART IV.......................................................................45
+
+   ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K..45
+
+SIGNATURES....................................................................46
+
+
+                                       i
+<PAGE>
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+                                  INTRODUCTION
+
+     BP Prudhoe Bay Royalty Trust (the "Trust"), a grantor trust, was created as
+a Delaware business trust pursuant to the BP Prudhoe Bay Royalty Trust Agreement
+dated February 28, 1989 (the "Trust  Agreement")  among The Standard Oil Company
+("Standard Oil"), BP Exploration (Alaska) Inc. (the "Company"),  The Bank of New
+York, as trustee (the "Trustee"), and F. James Hutchinson,  co-trustee (The Bank
+of New York (Delaware),  successor  co-trustee).  The Trustee's  corporate trust
+offices  are  located at 101 Barclay  Street,  New York,  New York 10286 and its
+telephone number is (212) 815-896-6908.  The Company and Standard Oil are wholly
+owned subsidiaries of BP p.l.c. ("BP").
+
+     Upon  creation of the Trust,  the Company  conveyed  to Standard  Oil,  and
+Standard Oil, in turn, conveyed to the Trust an overriding royalty interest (the
+"Royalty Interest"), which entitles the Trust to a royalty on 16.4246 percent of
+the first 90,000  Barrels* of the average actual daily net production of oil and
+condensate  per quarter from the working  interest of the Company as of February
+28, 1989 in the Prudhoe Bay Unit  located on the North Slope in Alaska (see "THE
+PRUDHOE BAY UNIT" below).  The Royalty  Interest is free of any  exploration and
+development expenditures.
+
+     The only assets of the Trust are the Royalty Interest assigned to the Trust
+and cash or cash  equivalents  held by the Trustee from time to time as reserves
+or for distribution (the "Trust Estate"). The Trust is a passive entity, and the
+Trustee has been given only such powers as are necessary for the  collection and
+distribution  of  revenues  from the Royalty  Interest  and the payment of Trust
+liabilities and expenses.  The beneficial  interest in the Trust is divided into
+equal  undivided  units (the  "Units").  The Units are not an  interest in or an
+obligation  of the Company,  Standard Oil or BP. The Delaware  Trust Act,  under
+which the Trust was formed, entitles holders of the Units to the same limitation
+of personal liability as stockholders of a Delaware corporation.
+
+     The Company  shares  control of the  operation of the Prudhoe Bay Unit with
+other  working  interest  owners.  The  operations  of the Company and the other
+working  interest  owners are governed by an agreement dated April 1, 1977 among
+the State of Alaska and such working  interest owners  establishing  the Prudhoe
+Bay Unit (the "Prudhoe Bay Unit Agreement") and an agreement dated April 1, 1977
+among the working  interest  owners  governing  Prudhoe Bay Unit operations (the
+"Prudhoe  Bay Unit  Operating  Agreement").  The  Company has no  obligation  to
+continue  production from the Prudhoe Bay Unit or to maintain  production at any
+level and may interrupt or discontinue  production at any time. The operation of
+the  Prudhoe  Bay Unit is subject to normal  operating  hazards  incident to the
+production and  transportation  of oil in Alaska.  In the event of damage to the
+Prudhoe Bay Unit which is covered by insurance, the Company has no obligation to
+use  insurance  proceeds  to repair  such  damage  and may elect to retain  such
+proceeds and close damaged areas to production.
+
+----------
+     * As used in the overriding  royalty  conveyance  and this report,  (a) the
+term "Barrel" is a unit of measure equal to 42 United States  gallons  corrected
+to 60 degrees Fahrenheit  temperature and with deductionf for sediment and water
+content,  and (b) the term  "Stock Tank  Barrel" or "STB"  refers to a Barrel of
+stabilized  oil or  condensate  at a temperature  of 60 degrees  Fahrenheit  and
+sea-level atmospheric pressure (14.7 pounds per square inch absolute).
+
+
+                                       1
+<PAGE>
+
+     The Trustee has no responsibility for the operation of the Prudhoe Bay Unit
+or authority  over the  Company,  Standard  Oil or BP. The  information  in this
+report relating to the Prudhoe Bay Unit, the calculation of the royalty payments
+and certain other matters has been furnished to the Trustee by the Company.
+
+                                    THE TRUST
+
+Duties and Limited Powers of Trustee
+------------------------------------
+
+     The duties of the Trustee are as  specified in the Trust  Agreement  and by
+the laws of the  State  of  Delaware.  The  discussion  of  terms  of the  Trust
+Agreement  contained  herein do not purport to be complete and are  qualified in
+their entirety by reference to the Trust Agreement itself,  which is filed as an
+exhibit to this report and is available upon request from the Trustee.
+
+     The basic  function  of the  Trustee is to collect  income from the Royalty
+Interest,  to pay from the Trust's  income and assets all expenses,  charges and
+obligations  of the Trust,  and to pay available  cash to holders of Units.  The
+Bank of New York  (Delaware) has been  appointed  co-trustee in order to satisfy
+certain  requirements  of the Delaware Trust Act, but The Bank of New York alone
+is able to  exercise  the rights and powers  granted to the Trustee in the Trust
+Agreement.
+
+     The Trust  Agreement  grants the Trustee only such rights and powers as are
+necessary to achieve the purposes of the Trust.  The Trust  Agreement  prohibits
+the Trust from  engaging  in any  business,  any  commercial  activity  or, with
+certain  exceptions,  investment activity of any kind and from using any portion
+of the  assets of the Trust to acquire  any oil and gas lease,  royalty or other
+mineral interest.
+
+     The  Trustee has the right to  establish a cash  reserve for the payment of
+material liabilities of the Trust which may become due. Such reserve can only be
+set up when the  Trustee has  determined  that it is not  practical  to pay such
+liabilities in a subsequent quarter out of funds anticipated to be available and
+that, in the absence of such reserve, the Trust Estate is subject to the risk of
+loss or  diminution  in value or the  Trustee is subject to the risk of personal
+liability  for such  liabilities.  Furthermore,  the  Trustee  must  receive  an
+unqualified  written opinion of counsel to the effect that such reserve will not
+adversely  affect  the  classification  of the Trust as a  "grantor  trust"  for
+federal  income tax purposes or cause the income from the Trust to be treated as
+unrelated  business  taxable income for federal  income tax purposes  unless the
+Trustee is unable to obtain  such  opinion  and  determines  that the failure to
+establish  such  reserve  will be  materially  detrimental  to the Unit  holders
+considered  as a whole or will  subject  the  Trustee  to the  risk of  personal
+liability for such liabilities.
+
+     The  Trustee  has a  limited  power to  borrow  on behalf of the Trust on a
+secured or unsecured  basis.  Such  borrowing may be effected if at any time the
+amount of cash on hand is not  sufficient to pay  liabilities  of the Trust then
+due. The Trustee can only borrow from an entity not affiliated with the Trustee.
+Certain other  conditions  must also be satisfied,  including,  that the Trustee
+must determine that it is not practical to pay such  liabilities in a subsequent
+quarter out of funds anticipated to be available and the Trust Estate is subject
+to the risk of loss or  diminution  in value.  The  borrowing  must be  effected
+pursuant  to terms  which  (in the  opinion  of an  investment  banking  firm or
+commercial  banking  firm) are  commercially  reasonable  when compared to other
+available  alternatives  and the Trustee  must  receive an  unqualified  written
+
+
+                                       2
+<PAGE>
+
+opinion of counsel to the effect that such borrowing  will not adversely  affect
+the  classification  of the Trust as a "grantor  trust" for  federal  income tax
+purposes or cause the income from the Trust to be treated as unrelated  business
+taxable income for federal  income tax purposes  unless the Trustee is unable to
+obtain such  opinion and  determines  that the failure to effect such  borrowing
+will be materially  detrimental  to the Unit Holders  considered as a whole.  To
+secure  payment  of  borrowings  by the Trust,  the  Trustee  is  authorized  to
+mortgage,  pledge,  grant security  interests in or otherwise encumber the Trust
+Estate or any portion thereof  (including the Royalty Interest) and to carve out
+and convey  production  payments.  The borrowing itself and the pledges or other
+encumbrances to secure  borrowings are permitted without a vote of Unit holders.
+In the event of such  borrowings,  no further  Trust  distributions  may be made
+until the indebtedness created by such borrowings has been paid in full.
+
+     The Trustee may sell Trust properties only as authorized by the affirmative
+vote of the holders of Units  representing 70 percent of the Units  outstanding,
+provided,  however,  that if such sale is  effected  in order to provide for the
+payment of specific  liabilities  of the Trust then due and involves a part, but
+not all or substantially  all, of the Trust Estate,  such sale shall be approved
+by the affirmative vote of a majority of the holders of the Units.
+
+     The Trustee may also sell the Trust Estate, or a portion thereof,  for cash
+if such  sale is  effected  in order to  provide  for the  payment  of  specific
+liabilities of the Trust then due, cash on hand is insufficient  and the Trustee
+is unable to effect a borrowing by the Trust.  The Trustee  must also  determine
+that the failure to pay such liabilities at a later date will be contrary to the
+best interest of the holders of Units and that it is not  practicable  to submit
+the sale to a vote of the Unit  holders.  The sale must be  effected  at a price
+which (in the opinion of an investment  banking firm or commercial banking firm)
+is at least equal to the fair market value of the interest  sold and is effected
+pursuant to  commercially  reasonable  terms when  compared  to other  available
+alternatives. The Trustee must receive an unqualified written opinion of counsel
+to the effect that the sale will not adversely affect the  classification of the
+Trust as a "grantor  trust" for federal  income tax purposes or cause the income
+from the Trust to be treated as unrelated  business  taxable  income for federal
+income tax  purposes  unless the  Trustee is unable to obtain  such  opinion and
+determines  that the failure to effect such sale will be materially  detrimental
+to the Unit Holders  considered  as a whole.  Finally,  the Trustee may sell the
+Trust Estate upon termination of the Trust.
+
+     Any sale of Trust properties must be for cash unless  otherwise  authorized
+by the holders of Units.  The Trustee is obligated to  distribute  the available
+net proceeds of any such sale to the Unit holders  after  establishing  reserves
+for liabilities of the Trust.
+
+         Except  in  certain  circumstances,  the  Trustee  is  entitled  to  be
+indemnified  out of the assets of the Trust for any liability,  expense,  claim,
+damage or other loss incurred by it in the performance of its duties unless such
+loss  results  from its  negligence,  bad faith or fraud or from its expenses in
+carrying out such duties  exceeding the  compensation  and  reimbursement  it is
+entitled to under the Trust Agreement.
+
+Employees
+---------
+
+     The Trust has no employees.  All administrative  functions of the Trust are
+performed by the Trustee.
+
+
+
+                                       3
+<PAGE>
+
+Property of the Trust
+---------------------
+
+     Except for cash and cash equivalents held by the Trustee from time to time,
+the property of the Trust  consists  exclusively  of the Royalty  Interest.  The
+Royalty  Interest was conveyed to the Trust  pursuant to an  Overriding  Royalty
+Conveyance  dated  February  27, 1989 between the Company and Standard Oil and a
+Trust Conveyance dated February 28, 1989 between Standard Oil and the Trust. The
+Overriding   Royalty  Conveyance  and  the  Trust  Conveyance  are  referred  to
+collectively  herein as the  "Conveyance." For a description of the terms of the
+Royalty Interest,  see "THE ROYALTY INTEREST" below. The discussion of the terms
+of the  Conveyance  herein is  qualified  in its  entirety by  reference  to the
+relevant   provisions  of  the  Overriding  Royalty  Conveyance  and  the  Trust
+Conveyance  which are filed  with the  Securities  and  Exchange  Commission  as
+exhibits to this report.
+
+     The  interest  conveyed  to the Trust by the  Conveyance  is an  overriding
+royalty  interest  consisting  of the right to receive a Per Barrel  Royalty for
+each  Barrel of Royalty  Production.  The  meaning of these  terms is more fully
+described below under "THE ROYALTY  INTEREST." The Trust does not have the right
+to take oil and gas in kind.
+
+     The Royalty Interest  constitutes a  non-operational  interest in minerals.
+The  Trust  has no right to take over  operations  or to share in any  operating
+decision  whatsoever  with  respect to the  Company's  working  interest  in the
+Prudhoe Bay Unit.  The Company is not  obligated to continue to operate any well
+or  maintain in force or attempt to maintain in force any portion of its working
+interest in the Prudhoe Bay Unit when, in its  reasonable  and prudent  business
+judgment such well or interest  ceases to produce or is not capable of producing
+oil or gas in paying quantities.
+
+     Under the terms of the Prudhoe Bay Unit Operating Agreement, if the Company
+fails to pay any costs and expenses  chargeable to the Company under the Prudhoe
+Bay  Unit  Operating  Agreement  and the  production  of oil and  condensate  is
+insufficient to pay such costs and expenses,  the Royalty Interest is chargeable
+with a pro rata  portion  of such  costs  and  expenses  and is  subject  to the
+enforcement  against it of liens  granted to the  operators  of the  Prudhoe Bay
+Unit.  However, in the Conveyance the Company agreed to pay timely all costs and
+expenses  chargeable to it and to ensure that no such costs and expenses will be
+chargeable  against  the  Royalty  Interest.  The  Trust is not  liable  for any
+expense,  claim,  damage,  loss or  liability  incurred by the Company or others
+attributable to the Company's working interest in the Prudhoe Bay Unit or to the
+oil produced from it, and the Company has agreed to indemnify the Trust and hold
+it harmless against any such impositions.
+
+     The  Company  has the  right to amend or  terminate  the  Prudhoe  Bay Unit
+Agreement,   the  Prudhoe  Bay  Unit  Operating  Agreement  and  any  leases  or
+conveyances  with  respect  to  its  working  interest  in the  exercise  of its
+reasonable and prudent  business  judgment  without  liability to the Trust. The
+Company  also has the  right to sell or  assign  all or any part of its  working
+interest in the Prudhoe Bay Unit, so long as the sale or assignment is expressly
+made  subject  to the  Royalty  Interest  and the  terms and  provisions  of the
+Conveyance.
+
+
+
+                                       4
+<PAGE>
+
+Amendment of the Trust Agreement
+--------------------------------
+
+     The Trust  Agreement may be amended  without a vote of the holders of Units
+to cure an  ambiguity,  to  correct or  supplement  any  provision  of the Trust
+Agreement that may be inconsistent  with any other such provision or to make any
+other  provision with respect to matters  arising under the Trust Agreement that
+do not adversely  affect the holders of Units.  The Trust  Agreement may also be
+amended with the approval of a majority of the outstanding Units at a meeting of
+holders of Units.  However,  no such amendment may alter the relative  rights of
+Unit holders,  unless approved by the affirmative vote of holders of 100 percent
+of  the  outstanding  Units  and  by  the  Trustee,   or  reduce  or  delay  the
+distributions  to the holders of Units or effect  certain other  changes  unless
+approved  by the  affirmative  vote of  holders  of at least 80  percent  of the
+outstanding  Units and by the Trustee.  No amendment will be effective until the
+Trustee has received a ruling from the Internal Revenue Service or an opinion of
+counsel to the  effect  that such  modification  will not  adversely  affect the
+classification of the Trust as a "grantor trust" for federal income tax purposes
+or cause the income from the Trust to be treated as unrelated  business  taxable
+income for federal income tax purposes.
+
+Resignation or Removal of Trustee
+---------------------------------
+
+     The Trustee may resign at any time or be removed  with or without  cause by
+the holders of a majority of the  outstanding  Units.  Its  successor  must be a
+corporation  organized and doing  business  under the laws of the United States,
+any state  thereof or the  District of Columbia,  authorized  under such laws to
+exercise trust powers, or a national banking association domiciled in the United
+States, in either case having a combined capital,  surplus and undivided profits
+of at least  $50,000,000 and subject to supervision or examination by federal or
+state authorities.  Unless the Trust already has a trustee that is a resident of
+or has a principal office in the State of Delaware,  then any successor  trustee
+will be such a resident  or have such a  principal  office.  No  resignation  or
+removal of the Trustee shall become  effective  until a successor  trustee shall
+have accepted appointment.
+
+Liabilities and Contingent Reserves
+-----------------------------------
+
+     Because of the passive nature of the Trust's assets and the restrictions on
+the power of the Trustee to incur obligations,  the only liabilities incurred by
+the Trust are routine  administrative  expenses,  such as  Trustee's  fees,  and
+accounting, legal and other professional fees.
+
+     As  discussed  above,  the  Trustee may  establish  a cash  reserve for the
+payment  of  material  liabilities  of the Trust  which may become  due,  if the
+Trustee has determined  that it is not practical to pay such  liabilities out of
+funds  anticipated to be available for subsequent  quarterly  distributions  and
+that, in the absence of such a reserve,  the trust estate is subject to the risk
+of loss or diminution in value or The Bank of New York is subject to the risk of
+personal  liability  for such  liabilities.  The Trustee is  obligated to borrow
+funds  required  to pay  liabilities  of the Trust  when  due,  and to pledge or
+otherwise encumber the Trust's assets, if it determines that the cash on hand is
+insufficient  to pay such  liabilities  and that it is not practical to pay such
+liabilities  out of funds  anticipated to be available for subsequent  quarterly
+distributions.   Borrowings   must  be  repaid  in  full   before  any   further
+distributions  are made to holders of Units.  As previously  described,  certain
+other necessary  conditions must also be satisfied prior to the establishment of
+a cash reserve or the Trust's borrowing of funds.
+
+
+
+                                       5
+<PAGE>
+
+Termination of the Trust
+------------------------
+
+     The Trust is  irrevocable  and the  Company has no power to  terminate  the
+Trust.  The Trust will  terminate:  (a) on or prior to December  31, 2010 upon a
+vote of holders of not less than 70 percent  of the  outstanding  Units,  or (b)
+after  December  31, 2010 either (i) at such time as the net  revenues  from the
+Royalty  Interest for two successive  years  commencing after 2010 are less than
+$1,000,000  per year,  unless the net  revenues  during  such  period  have been
+materially and adversely  affected by an event  constituting  force majeure,  or
+(ii) upon a vote of  holders  of not less  than 60  percent  of the  outstanding
+Units.
+
+     Upon  termination of the Trust, the Company will have an option to purchase
+the Royalty  Interest (for cash unless  holders  representing  70 percent of the
+Units  outstanding  (60 percent if the decision to  terminate  the Trust is made
+after December 31, 2010) authorize the sale for non-cash  consideration  and the
+Trustee has received a ruling from the Internal Revenue Service or an opinion of
+counsel to the effect  that such  non-cash  sale will not  adversely  affect the
+classification of the Trust as a "grantor trust" for federal income tax purposes
+or cause the income from the Trust to be treated as unrelated  business  taxable
+income for federal  income tax  purposes) at a price equal to the greater of (i)
+the fair  market  value of the Trust  Estate as set  forth in an  opinion  of an
+investment  banking firm,  commercial  banking firm or other entity qualified to
+give an opinion as to the fair market value of the assets of the Trust,  or (ii)
+the number of outstanding  Units multiplied by (a) the closing price of Units on
+the day of termination of the Trust on the stock exchange on which the Units are
+listed,  or (b) if the Units are not listed on any stock exchange but are traded
+in the over-the-counter  market, the closing bid price on the day of termination
+of the Trust as quoted on the NASDAQ  National  Market System.  If the Units are
+neither listed nor traded in the over-the-counter  market, the price will be the
+fair  market  value of the trust  estate as set forth in the  opinion  mentioned
+above.
+
+     If the Company  does not  exercise  its option,  the Trustee  will sell the
+Trust  properties  pursuant  to  procedures  or  material  terms and  conditions
+approved  by the vote of  holders of 70  percent  of the  outstanding  Units (60
+percent  if the sale is made  after  December  31,  2010),  unless  the  Trustee
+determines  that it is not  practicable to submit such  procedures or terms to a
+vote of the  holders of Units,  and the sale is  effected at a price which is at
+least  equal to the fair  market  value of the trust  estate as set forth in the
+opinion mentioned above and pursuant to terms and conditions deemed commercially
+reasonable  by the  investment  banking firm,  commercial  banking firm or other
+entity rendering such opinion.
+
+     After  satisfying  all  existing  liabilities  and  establishing   adequate
+reserves for the payment of contingent liabilities,  the Trustee will distribute
+all available proceeds to the holders of Units.
+
+     In the Trust  Agreement,  holders of Units have waived the right to seek or
+secure any portion or distribution of the Royalty Interest or any other asset of
+the Trust or any accounting during the term of the Trust or during any period of
+liquidation and winding up.
+
+
+
+                                       6
+<PAGE>
+
+Voting Rights of Holders of Units
+---------------------------------
+
+     Although  holders of Units  possess  certain  voting  rights,  their voting
+rights  are not  comparable  to  those of  shareholders  of a  corporation.  For
+example,  there is no  requirement  for annual  meetings  of holders of Units or
+annual or other periodic reelection of the Trustee.
+
+     A  meeting  of the  holders  of Units may be called at any time to act with
+respect to any matter which the holders of Units are  authorized to act pursuant
+to the Trust  Agreement.  Any such  meeting  may be called by the Trustee in its
+discretion  and will be called  (i) as soon as  practicable  after  receipt of a
+written request by the Company or (ii) as soon as practicable after receipt of a
+written  request that sets forth in reasonable  detail the action proposed to be
+taken at such  meeting and is signed by holders of Units owning not less than 25
+percent of the then outstanding  Units or (iii) as may be required by applicable
+laws or  regulations  of the New York  Stock  Exchange.  All such  meetings  are
+required to take place in the Borough of Manhattan, The City of New York.
+
+                              THE ROYALTY INTEREST
+
+     The Royalty  Interest is a property  right under  Alaska law which  burdens
+production,  but  there  is no  other  security  interest  in  the  reserves  or
+production  revenues to which the  Royalty  Interest  is  entitled.  The royalty
+payable to the Trust under the Royalty Interest for each calendar quarter is the
+sum of the product of (i) the Royalty Production and (ii) the Per Barrel Royalty
+for each day in the  quarter.  The payment  under the Royalty  Interest  for any
+calendar  quarter may not be less than zero nor more than the aggregate value of
+the total  production of oil and condensate from the Company's  working interest
+in the Prudhoe Bay Unit for such  calendar  quarter,  net of the State of Alaska
+royalty and less the value of any applicable  payments made to affiliates of the
+Company.
+
+Royalty Production
+------------------
+
+     The  "Royalty  Production"  for each day in a  calendar  quarter is 16.4246
+percent of the first 90,000  Barrels of the actual  average daily net production
+of oil and  condensate  for such quarter  from the Prudhoe Bay  (Permo-Triassic)
+Reservoir  and  allocated  to the oil and gas leases owned by the Company in the
+Prudhoe  Bay Unit as of  February  28,  1989 or as  modified  thereafter  by any
+redetermination  provided  under the  terms of the  Prudhoe  Bay Unit  Operating
+Agreement and the Prudhoe Bay Unit Agreement (the "Subject Leases"). The Royalty
+Production  is based on oil produced  from the oil rim and  condensate  produced
+from the gas cap, but not on gas  production or natural gas liquids  production.
+The actual average daily net  production of oil and condensate  from the Subject
+Leases for any calendar  quarter is the total  production of oil and  condensate
+for such quarter,  net of the State of Alaska royalty,  divided by the number of
+days in such quarter.
+
+Per Barrel Royalty
+------------------
+
+     The "Per Barrel  Royalty"  in effect for any day is an amount  equal to the
+WTI Price for such day less the sum of (i) the product of the  Chargeable  Costs
+multiplied by the Cost Adjustment Factor and (ii) Production Taxes. Based on the
+WTI Price on December 31, 2002,  current  Production  Taxes and Chargeable Costs
+adjusted in  accordance  with the  Conveyance,  the Company  estimates  that Per
+Barrel Royalty payments will continue through the year 2018.
+
+
+
+                                       7
+<PAGE>
+
+WTI Price
+---------
+
+     The "WTI Price" for any trading day means (i) the latest  price  (expressed
+in dollars per Barrel) for West Texas intermediate crude oil of standard quality
+having a specific  gravity of 40 degrees API for  delivery at Cushing,  Oklahoma
+("West Texas Crude"), quoted for such trading day by the Dow Jones International
+Petroleum  Report (which is published in The Wall Street  Journal) or if the Dow
+Jones  International  Petroleum  Report does not publish such quotes,  then such
+price as quoted by Reuters,  or if Reuters does not publish  such  quotes,  then
+such price as quoted in Platt's Oilgram Price Report,  or (ii) if for any reason
+such  publications  do not publish the price of West Texas  Crude,  then the WTI
+Price  will  mean,  until  the  price  quotations  described  in (i)  are  again
+available, the simple average of the daily mean prices (expressed in dollars per
+Barrel)  quoted for West Texas  Crude by one major oil  company,  one  petroleum
+broker and one petroleum trading company,  in each case unaffiliated with BP and
+having substantial U.S. operations. Such major oil company, petroleum broker and
+petroleum  trading  company will be designated by the Company from time to time.
+In the event that prices for West Texas Crude are not quoted so as to permit the
+calculation  of  the  WTI  Price,  "West  Texas  Crude,"  for  the  purposes  of
+calculating the WTI Price will mean such other light sweet domestic crude oil of
+standard  quality as is designated by the Company and approved by the Trustee in
+the  exercise  of  its  reasonable  judgment,  with  appropriate  allowance  for
+transportation  costs to the Gulf  Coast  (or  other  appropriate  location)  to
+equilibrate  such price to the WTI Price. The WTI Price for any day which is not
+a trading day is the WTI Price for the preceding trading day.
+
+Chargeable Costs
+----------------
+
+     The "Chargeable  Costs" per Barrel of Royalty  Production for each calendar
+year are  fixed  amounts  specified  in the  Conveyance  and do not  necessarily
+represent the Company's actual costs of production.  Chargeable Costs per Barrel
+for the five  calendar  years ended  December 31, 2002 were:  $9.30 during 1998;
+$9.80 during 1999;  $10.00 during 2000;  $10.75  during 2001;  and $11.25 during
+2002.  Chargeable  Costs for the  calendar  year  ending  December  31, 2003 and
+subsequent years are shown in the following table:
+
+        For the          Chargeable        For the         Chargeable
+      Year Ending         Costs Per     Year Ending         Costs Per
+      December 31          Barrel       December 31           Barrel
+      -----------          ------       -----------           ------
+         2003             $ 11.75           2012            $ 16.70
+         2004               12.00           2013              16.80
+         2005               12.25           2014              16.90
+         2006               12.50           2015              17.00
+         2007               12.75           2016              17.10
+         2008               13.00           2017              17.20
+         2009               13.25           2018              20.00
+         2010               14.50           2019              23.75
+         2011               16.60           2020              26.50
+
+     After 2020, Chargeable Costs increase at a uniform rate of $2.75 per year.
+
+     Chargeable  Costs  will be  reduced  by up to $1.20 per  Barrel in 2006 and
+subsequent  years if, between January 1, 2001 and December 31, 2005,  either (a)
+an additional 400,000,000 STB of proved reserves (before taking into account any
+production  therefrom) have not been added to proved  reserves  allocated to the
+Subject Leases (including,  for the purpose of this calculation,  a credit equal
+to the number of STB of proved  reserves in excess of  300,000,000  added to the
+
+
+                                       8
+<PAGE>
+
+Company's  reserves after December 31, 1987 and before January 1, 2001),  or (b)
+an additional 100,000,000 STB of proved reserves (before taking into account any
+production  therefrom)  have not been  added to the  reserves  allocated  to the
+Subject  Leases,  without  allowing any credit for additions prior to January 1,
+2001. In general,  "proved reserves" for purposes of this determination  consist
+of the Company's estimate (determined to be reasonable by independent  petroleum
+engineers) of the  quantities of crude oil and  condensate  that  geological and
+engineering  data  demonstrate  with  reasonable  certainty to be recoverable in
+future years under existing  economic and operating  conditions from the Prudhoe
+Bay  (Permo-Triassic  Reservoir)  in the Prudhoe Bay Unit.  See "THE PRUDHOE BAY
+UNIT - Reserve Estimates" below.
+
+     As of December 31, 1987,  the proved  reserves of crude oil and  condensate
+allocated to the Subject  Leases were 2,035.6  million STB. Since that date, the
+Company has made the  additions  (and  deductions)  to its  estimates  of proved
+reserves  allocated  to the  Subject  Leases  (before  taking  into  account any
+production from such additions) as shown in the following table:
+
+                                      Additions to Proved Reserves
+      Year Ended                      ----------------------------
+     December 31                    Annual               Cumulative
+     -----------                    ------               ----------
+
+                                             (Million STB)
+        1988                          42.3                  42.3
+        1989                          45.5                  87.8
+        1990                          24.0                 111.8
+        1991                         115.8                 227.6
+        1992                         144.3                 371.9
+        1993                         206.2                 578.1
+        1994                          89.9                 668.0
+        1995                          92.2                 760.2
+        1996                         (21.0)                739.2
+        1997                          (1.5)                737.7
+        1998                          (0.5)                737.2
+        1999                           0.0                 737.2
+        2000                          57.3                 794.5
+        2001                          20.5                 815.0
+        2002                           0.0                 815.0
+
+     Additional  drilling,  workovers,  facilities  modifications,  new recovery
+projects and programs for production  enhancement and optimization may mitigate,
+but not  eliminate  the recent  decline in gross oil and  condensate  production
+capacity.  However,  significant  downward revisions of proved reserve estimates
+could  result in a reduction  of  Chargeable  Costs being  required as described
+above in the year 2006 and thereafter.
+
+Cost Adjustment Factor
+----------------------
+
+     The "Cost  Adjustment  Factor" is the ratio of (i) the Consumer Price Index
+published for the most recently past February,  May, August or November,  as the
+case may be, to (ii) 121.1 (the Consumer Price Index for January  1989),  except
+that (a) if for any  calendar  quarter  the average WTI Price is $18.00 or less,
+then the Cost  Adjustment  Factor for that quarter  will be the Cost  Adjustment
+Factor for the immediately preceding quarter, and (b) the Cost Adjustment Factor
+for any calendar quarter in which the average WTI Price exceeds $18.00,  after a
+calendar  quarter  during which the average WTI Price is equal to or less than $
+18.00, and for each following calendar quarter in which the average WTI Price is
+greater than $18.00,  will be the product of (x) the Cost Adjustment  Factor for
+the most recently past calendar  quarter in which the average WTI Price is equal
+to or less than $18.00 and (y) a fraction,  the  numerator  of which will be the
+
+
+                                       9
+<PAGE>
+
+Consumer Price Index published for the most recently past February,  May, August
+or  November,  as the  case may be,  and the  denominator  of which  will be the
+Consumer Price Index published for the most recently past February,  May, August
+or November  during a quarter in which the average WTI Price is equal to or less
+than $18.00.  The "Consumer Price Index" is the U.S.  Consumer Price Index,  all
+items and all urban consumers,  U.S. city average,  1982-84 equals 100, as first
+published,  without  seasonal  adjustment,  by the  Bureau of Labor  Statistics,
+Department of Labor, without regard to subsequent revisions or corrections.
+
+Production Taxes
+----------------
+
+     "Production  Taxes"  are  the  sum of any  severance  taxes,  excise  taxes
+(including windfall profit tax, if any), sales taxes, value added taxes or other
+similar or direct taxes  imposed upon the  reserves or  production,  delivery or
+sale of Royalty Production.  Such taxes are computed at defined statutory rates.
+In the case of taxes based upon wellhead or field value, the Conveyance provides
+that the WTI Price less the product of $4.50 and the Cost Adjustment factor will
+be deemed to be the wellhead or field value. At the present time, the Production
+Taxes payable with respect to the Royalty  Production are the Alaska Oil and Gas
+Properties  Production Tax ("Alaska  Production  Tax").  For the purposes of the
+Royalty  Interest,  the Alaska  Production Tax is computed without regard to the
+"economic  limit  factor," if any, as the  greater of the  "percentage  of value
+amount"  (based on the statutory  rate and the wellhead  value as defined above)
+and the "cents per Barrel amount." As of the date of this report,  the statutory
+rate for the  purpose of  calculating  the  "percentage  of value  amount" is 15
+percent. A surcharge to the Alaska Production Tax increased  Production Taxes by
+$0.05 per Barrel of net  production  effective  July 1,  1989.  Due to the spill
+response  fund  reaching $50 million in 1995,  $0.02 per Barrel of the surcharge
+has been indefinitely  suspended. In the event the balance of the spill response
+fund falls below $50 million,  the $0.02 per Barrel surcharge will be reinstated
+until the fund balance again reaches $50 million. The remaining $0.03 per Barrel
+surcharge is not affected by the fund's  balance and will continue to be imposed
+at all times.
+
+Per Barrel Royalty Calculations
+
+     The following table shows how the above-described factors interacted during
+each of the past five years to produce the Per Barrel  Royalty  paid for each of
+the calendar  quarters  indicated.  The Per Barrel  Royalty with respect to each
+calendar  quarter  is  paid  to the  Trust  on the  fifteenth  day of the  month
+following  the end of the  quarter.  See "THE UNITS -  Distributions  of Income"
+below.
+<TABLE>
+<CAPTION>
+
+                                                    Cost            Adjusted
+                    Average WTI      Chargeable  Adjustment        Chargeable      Production      Per Barrel
+                      Price           Costs        Factor            Costs           Taxes           Royalty
+                      -----           -----        ------            -----           -----           -------
+
+<S>                  <C>             <C>            <C>              <C>             <C>             <C>
+1998:
+ 1st Qtr             $15.96          $ 9.30         1.280            $11.90          $1.56           $ 2.49
+ 2nd Qtr              14.58            9.30         1.280             11.90           1.36             1.32
+ 3rd Qtr              14.15            9.30         1.280             11.90           1.29             0.96
+ 4th Qtr              12.80            9.30         1.280             11.90           1.10             0.00
+
+1999:
+ 1st Qtr              13.08            9.80         1.280             12.54           1.13             0.00
+ 2nd Qtr              17.44            9.80         1.280             12.54           1.79             3.11
+ 3rd Qtr              21.71            9.80         1.287             12.61           2.42             6.68
+ 4th Qtr              24.60            9.80         1.296             12.70           2.84             9.05
+</TABLE>
+
+
+                                       10
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                                    Cost            Adjusted
+                    Average WTI      Chargeable  Adjustment        Chargeable      Production      Per Barrel
+                      Price           Costs        Factor            Costs           Taxes           Royalty
+                      -----           -----        ------            -----           -----           -------
+
+<S>                  <C>             <C>            <C>              <C>             <C>             <C>
+2000:
+ 1st Qtr             $28.86          $10.00         1.307            $13.07          $3.48           $12.31
+ 2nd Qtr              28.87           10.00         1.319             13.19           3.47            12.21
+ 3rd Qtr              31.63           10.00         1.330             13.30           3.88            14.45
+ 4th Qtr              31.98           10.00         1.341             13.41           3.92            14.66
+
+2001:
+ 1st Qtr              28.83           10.75         1.354             14.55           3.44            10.84
+ 2nd Qtr              27.92           10.75         1.368             14.71           3.29             9.92
+ 3rd Qtr              26.82           10.75         1.367             14.69           3.13             9.00
+ 4th Qtr              20.41           10.75         1.366             14.68           2.17             3.56
+
+2002:
+ 1st Qtr              21.67           11.25         1.369             15.40           2.36             3.91
+ 2nd Qtr              26.28           11.25         1.384             15.57           3.04             7.67
+ 3rd Qtr              28.33           11.25         1.391             15.65           3.34             9.34
+ 4th Qtr              28.25           11.25         1.396             15.70           3.33             9.22
+</TABLE>
+
+Potential Conflicts of Interest
+-------------------------------
+
+     The  interests of the Company and the Trust with respect to the Prudhoe Bay
+Unit could at times be different. In particular,  because the Per Barrel Royalty
+is based on the WTI Price and Chargeable  Costs rather than the Company's actual
+price  realized and actual costs,  the actual per Barrel profit  received by the
+Company on the Royalty Production could differ from the Per Barrel Royalty to be
+paid to the Trust. It is possible,  for example,  that the relationship  between
+the  Company's  actual  per  Barrel  revenues  and costs  could be such that the
+Company may determine to interrupt or discontinue production in whole or in part
+even though a Per Barrel  Royalty may  otherwise  have been payable to the Trust
+pursuant to the Royalty  Interest.  This  potential  conflict of interest  could
+affect the royalties paid to Unit holders,  although the Company will be subject
+to the terms of the Prudhoe Bay Unit Operating Agreement.
+
+                                    THE UNITS
+
+Units
+-----
+
+     Each Unit represents an equal undivided share of beneficial interest in the
+Trust.  The  Units do not  represent  an  interest  in or an  obligation  of the
+Company, Standard Oil or any of their respective affiliates. Units are evidenced
+by  transferable  certificates  issued by the  Trustee.  Each Unit  entitles its
+holder to the same  rights as the  holder  of any other  Unit.  The Trust has no
+other authorized or outstanding class of equity securities.
+
+
+
+                                       11
+<PAGE>
+
+Distributions of Income
+-----------------------
+
+     The Company makes  quarterly  payments to the Trust of the amounts due with
+respect to the Trust's  Royalty  Interest on the fifteenth day following the end
+of each calendar quarter or, if the fifteenth is not a business day, on the next
+succeeding  business day (the  "Quarterly  Record  Date").  The Trustee,  to the
+extent  possible,  pays  all  expenses  of the  Trust  for each  quarter  on the
+Quarterly  Record  Date.  The Trustee  then  distributes  an amount equal to the
+excess,  if any, of the cash  received  by the Trust from the Royalty  Interests
+over  the  expenses  and  payments  of  liabilities  of the  Trust,  subject  to
+adjustments for changes made by the Trustee in any cash reserve  established for
+the   payments  of   estimated   liabilities   of  the  Trust  (the   "Quarterly
+Distribution")  to the persons in whose names the Units were  registered  at the
+close of business on the immediately preceding Quarterly Record Date.
+
+     The Trust  Agreement  provides  that the  Trustee  shall pay the  Quarterly
+Distribution on the fifth day after the Trustee's  receipt of the amount paid by
+the Company on the Quarterly Record Date, and that collected cash balances being
+held by the Trustee for distribution  shall be invested in obligations issued or
+unconditionally guaranteed by the United States or any agency or instrumentality
+thereof  and  secured  by  the  full  faith  and  credit  of the  United  States
+("Government Obligations") or, if Government Obligations with a maturity date on
+the date of the  distribution  to Unit holders are not available,  in repurchase
+agreements  with  banks  having  capital,   surplus  and  undivided  profits  of
+$100,000,000  or more  (which  may  include  The Bank of New  York)  secured  by
+Government Obligations.  If time does not permit the Trustee to invest collected
+funds in  investments  of the type  described  in the  preceding  sentence,  the
+Trustee may invest such funds  overnight  in a time  deposit with a bank meeting
+the foregoing requirement (including The Bank of New York).
+
+Reports to Unit Holders
+-----------------------
+
+     Within 90 days after the end of each  calendar  year,  the Trustee mails to
+the  holders of record of Units at any time  during the  calendar  year a report
+containing  information  to enable them to make the  calculations  necessary for
+federal  and Alaska  income  tax  purposes,  including  the  calculation  of any
+depletion  or other  deduction  which may be  available to them for the calendar
+year.  In addition,  after the end of each  calendar  year the Trustee  mails to
+holders of Units an annual report containing audited financial statements of the
+Trust,  a letter of the  independent  petroleum  engineers  engaged by the Trust
+setting  forth a summary of such firm's  determinations  regarding the Company's
+estimates  of proved  reserves  and other  related  matters,  and certain  other
+information required by the Trust Agreement.
+
+     Following  the end of each  quarter,  the  Trustee  mails  Unit  holders  a
+quarterly report showing the assets and liabilities,  receipts and disbursements
+and  income  and  expenses  of the Trust  and the  Royalty  Production  for such
+quarter.
+
+Limited Liability of Unit Holders
+---------------------------------
+
+     The Trust  Agreement  provides  that the  holders of Units are, to the full
+extent  permitted by Delaware law,  entitled to the same  limitation of personal
+liability  extended to  stockholders  of private  corporations  for profit under
+Delaware law.
+
+
+
+                                       12
+<PAGE>
+
+Possible Divestiture of Units
+-----------------------------
+
+     The Trust Agreement  imposes no restrictions on nationality or other status
+of the persons  eligible to hold Units.  However,  the Trust Agreement  provides
+that if at any time the Trust or the Trustee is named a party in any judicial or
+administrative proceeding seeking the cancellation or forfeiture of any property
+in which the Trust has an  interest  because  of the  nationality,  or any other
+status, of any one or more holders, the following procedures will be applicable:
+
+          (i) The Trustee  will give  written  notice of the  existence  of such
+     proceedings to each holder whose nationality or other status is an issue in
+     the  proceeding.  The  notice  will  contain a  reasonable  summary of such
+     proceeding and will constitute a demand to each such holder that he dispose
+     of his  Units  within 30 days to a party  not of the  nationality  or other
+     status at issue in the proceeding described in the notice.
+
+          (ii) If any holder  fails to dispose of his Units in  accordance  with
+     such notice,  the Trustee will redeem, at any time during the 90-day period
+     following the termination of the 30-day period specified in the notice, any
+     Unit not so  transferred  for a cash  price per Unit  equal to the  closing
+     price of the Units on the stock exchange on which the Units are then listed
+     or, in the absence of any such listing, the closing bid price on the NASDAQ
+     National  Market  System if the Units  are so quoted  or, if not,  the mean
+     between  the   closing   bid  and  asked   prices  for  the  Units  in  the
+     over-the-counter  market,  in either case as of the last business day prior
+     to the  expiration of the 30-day period stated in the notice.  If the Units
+     are neither  listed nor traded in the  over-the-counter  market,  the price
+     will be the fair market  value of the Units as  determined  by a recognized
+     firm of investment bankers or other competent advisor or expert.
+
+     Units  redeemed by the Trustee will be  cancelled.  The Trustee may, in its
+sole  discretion,  cause the Trust to borrow any amount  required  to redeem the
+Units.  If the purchase of Units from an ineligible  holder by the Trustee would
+result  in a  non-exempt  "prohibited  transaction"  under  ERISA,  or under the
+Internal  Revenue  Code of 1986,  the Units  subject to the  Trustee's  right of
+redemption will be purchased by the Company or a designee thereof,  at the above
+described purchase price.
+
+Issuance of Additional Units
+----------------------------
+
+     The Trust Agreement  provides that the Company or an affiliate from time to
+time may  assign to the  Trust  additional  royalty  interests  meeting  certain
+conditions,  and,  upon  satisfaction  of various  other  conditions,  including
+receipt by the  Trustee of a ruling  from the  Internal  Revenue  Service to the
+effect that  neither the  existence  nor the exercise of the right to assign the
+additional  royalty  interest  or the  power  to  accept  such  assignment  will
+adversely  affect  the  classification  of the Trust as a  "grantor  trust"  for
+federal income tax purposes,  the Trust may issue up to an additional 18,600,000
+Units.  The Company has not conveyed  any  additional  royalty  interests to the
+Trust, and the Trust has not issued any additional Units, since the inception of
+the Trust.
+
+
+
+                                       13
+<PAGE>
+
+                            THE BP SUPPORT AGREEMENT
+
+     BP has agreed pursuant to the terms of a Support Agreement,  dated February
+28,  1989,  among BP, the  Company,  Standard  Oil and the Trust  (the  "Support
+Agreement"),  to provide financial support to the Company in meeting its payment
+obligations under the Royalty Interest.
+
+     Within 30 days of notice to BP, BP will  ensure  that the  Company  is in a
+position to perform its payment  obligations  under the Royalty  Interest and to
+satisfy  its  payment  obligations  to the  Trust  under  the  Trust  Agreement,
+including  contributing  to the Company such funds as are necessary to make such
+payments.  BP's obligations  under the Support  Agreement are  unconditional and
+directly enforceable by Unit holders.
+
+     Except as described  below,  no  assignment,  sale,  transfer,  conveyance,
+mortgage or pledge or other  disposition of the Royalty Interest will relieve BP
+of its obligations under the Support Agreement.
+
+     Neither BP nor the Company may transfer or assign its rights or obligations
+under the  Support  Agreement  without the prior  written  consent of the Trust,
+except that BP can arrange for its obligations under the Support Agreement to be
+performed  by any  affiliate of BP,  provided  that BP remains  responsible  for
+ensuring that such obligations are performed in a timely manner.
+
+     The Company may sell or transfer all or part of its working interest in the
+Prudhoe  Bay  Unit,  although  such  a  transfer  will  not  relieve  BP of  its
+responsibility to ensure that the Company's payment  obligations with respect to
+the  Royalty  Interest  and under the Trust  Agreement  and the  Conveyance  are
+performed.
+
+     BP will be released from its  obligation  under the Support  Agreement upon
+the  sale or  transfer  of all or  substantially  all of the  Company's  working
+interest in the Prudhoe Bay Unit if the transferee agrees to assume and be bound
+by  BP's  obligation  under  the  Support  Agreement  in  a  writing  reasonably
+satisfactory  to the Trustee and if the  transferee is an entity having a rating
+assigned  to  outstanding  unsecured,  unsupported  long term debt from  Moody's
+Investors Service,  Inc. of at least A3 or from Standard & Poor's of at least A-
+or an  equivalent  rating  from at least one  nationally-recognized  statistical
+rating  organization (after giving effect to the sale or transfer to such entity
+of all or substantially all of the Company's working interest in the Prudhoe Bay
+Unit and the assumption by such entity of all of the Company's obligations under
+the Conveyance and of all BP's obligations under the Support Agreement).
+
+                              THE PRUDHOE BAY UNIT
+
+General
+-------
+
+     The  Prudhoe  Bay field (the  "Field")  is  located  on the North  Slope of
+Alaska,  250 miles north of the Arctic  Circle and 650 miles north of Anchorage.
+The Field extends approximately 12 miles by 27 miles and contains nearly 150,000
+productive acres. The Field,  which was discovered in 1968 by BP and others, has
+been in production  since 1977. The Field is the largest  producing oil field in
+North America.  As of December 31, 2002,  approximately  10.5 billion STB of oil
+and  condensate  had been produced  from the Field.  Field  development  is well
+advanced  with  approximately  $18.3  billion gross capital spent and a total of
+about 2,051 wells  drilled.  Other large fields located in the same area include
+the Kuparuk,  Endicott, and Lisburne fields. Production from those fields is not
+included in the Royalty Interest.
+
+
+
+                                       14
+<PAGE>
+
+     Since several oil companies hold acreage within the Field,  the Prudhoe Bay
+Unit was  established  to  optimize  Field  development.  The  Prudhoe  Bay Unit
+Operating  Agreement specifies the allocation of production and costs to Prudhoe
+Bay Unit  owners.  Prior to July 1, 2000,  the Company and a  subsidiary  of the
+Atlantic  Richfield  Company  were the two  Field  operators.  On July 1,  2000,
+following  the  acquisition  by BP of Atlantic  Richfield  Company,  the Company
+assumed sole-operatorship of the field. Other Field owners include affiliates of
+Exxon  Mobil  Corporation  ("Exxon  Mobil"),  ConocoPhillips  and  ChevronTexaco
+Corporation.
+
+Geology
+-------
+
+     The principal  hydrocarbon  accumulations at Prudhoe Bay are in the Ivishak
+sandstone of the Sadlerochit Group at a depth of approximately  8,700 feet below
+sea level.  The Ivishak is overlain by four minor  reservoirs of varying  extent
+which are designated the Put River, Eileen, Sag River and Shublik (collectively,
+"PESS")  formations.  Underlying  the  Sadlerochit  Group  are  the  oil-bearing
+Lisburne and Endicott formations. The net production referred to herein pertains
+only to the Ivishak and PESS formations,  collectively  known as the Prudhoe Bay
+(Permo-Triassic)  Reservoir,  and does not pertain to the  Lisburne and Endicott
+formations.
+
+     The Ivishak sandstone was deposited, commencing some 250 million years ago,
+during the Permian and Triassic geologic  periods.  The sediments in the Ivishak
+are  composed of  sandstone,  conglomerate  and shale which were  deposited by a
+massive  braided  river and delta  system that  flowed from an ancient  mountain
+system  to the  north.  Oil was  trapped  in the  Ivishak  by a  combination  of
+structural and stratigraphic trapping mechanisms.
+
+     Gross reservoir  thickness is 550 feet, with a maximum oil column thickness
+of 425 feet. The original oil column is bounded on the top by a gas-oil contact,
+originally  at 8,575 feet  below sea level  across  the main  field,  and on the
+bottom by an oil-water  contact at  approximately  9,000 feet below sea level. A
+layer of heavy oil and tar overlays the oil-water  contact in the main field and
+has an average thickness of around 40 feet.
+
+Oil Characteristics
+-------------------
+
+     The produced oil from the  reservoir  is a medium  grade,  low sulfur crude
+with an average  specific  gravity of 27 degrees API. The gas cap composition is
+such that, upon surfacing,  a liquid hydrocarbon phase, known as condensate,  is
+formed.
+
+     The  interests of the Unit holders are based upon oil produced from the oil
+rim and condensate produced from the gas cap, but not upon gas production (which
+is currently  uneconomic)  or natural gas liquids  production  stripped from gas
+produced.
+
+Prudhoe Bay Unit Operation and Ownership
+----------------------------------------
+
+     Since several  companies hold acreage within the Field's limits, a unit was
+established  to ensure optimum  development of the Field.  The Prudhoe Bay Unit,
+which became  effective on April 1, 1977,  divided the Field into two  operating
+areas.  Prior to July 1, 2000,  the  Company  was the  operator  of the  Western
+Operating  Area and Arco Alaska Inc. was the  operator of the Eastern  Operating
+
+
+                                       15
+<PAGE>
+
+Area. Oil and condensate  production  came from both the Western  Operating Area
+and the  Eastern  Operating  Area.  On July 1, 2000,  the Company  assumed  sole
+operatorship of the field.
+
+     The  Prudhoe Bay Unit  Operating  Agreement  specifies  the  allocation  of
+production  and costs to the  working  interest  owners.  The  Prudhoe  Bay Unit
+Operating   Agreement  also  defines   operator   responsibilities   and  voting
+requirements and is unusual in its establishment of separate participating areas
+for the gas cap and oil rim.
+
+     The ownership of the Prudhoe Bay Unit by participating  area as of December
+31, 2002 is summarized in the following table:
+
+                                 Oil Rim Gas Cap
+
+     BP....................................... 26.35% (a)           26.35% (b)
+     Exxon Mobil.............................. 36.40                36.40
+     ConocoPhillips........................... 36.07                36.07
+     Others...................................  1.18                 1.18
+                                              ------               ------
+         Total................................100.00%              100.00%
+                                              ======               ======
+---------------
+
+(a)  The Trust's  share of oil  production is computed  based on BP's  ownership
+     interest  on the oil rim area of 50.68  percent as of  February  28,  1989.
+     Subsequent  decreases in the Company's  participation were not allocated to
+     the Subject Leases and have not decreased the Trust's Royalty Interest.
+
+(b)  The  Trust's  share of  condensate  production  is  computed  based on BP's
+     ownership  interest on the oil rim area of 13.84 percent as of February 28,
+     1989.  Subsequent  increases  in  the  Company's   participation  were  not
+     allocated to the Subject Leases and have not increased the Trust's  Royalty
+     Interest.
+
+Historical Production
+---------------------
+
+     Production  began on June 19, 1977, with the completion of the Trans Alaska
+Pipeline System. The pipeline has a capacity of approximately 1.4 million STB of
+oil per day.
+
+     As of December 31, 2002 there were about 1,111 active  producing oil wells,
+33 gas  reinjection  wells,  68 water injection wells and 143 water and miscible
+gas injection wells in the Field. In terms of individual well  performance,  oil
+production  rates  range  from 100 to 3,500 STB of oil per day.  Currently,  the
+average well production rate is about 375 STB of oil per day.
+
+     The Company's  share of the hydrocarbon  liquids  production from the Field
+includes  oil,  condensate  and  natural  gas  liquids.   Using  the  production
+allocation procedures from the Prudhoe Bay Unit Operating Agreement, the Field's
+production and the share of oil and condensate  (net of State of Alaska royalty)
+allocated  to the  Subject  Leases  have  been as  follows  during  the  periods
+indicated:
+
+
+
+                                       16
+<PAGE>
+
+                         Oil                        Condensate
+       Year       ------------------           --------------------
+      Ended       Total      Subject           Total        Subject
+   December 31    Field       Leases           Field         Leases
+   -----------    -----       ------           -----         ------
+                               (Thousand STB per day)
+
+      1998        442.3        196.1           165.2          20.0
+      1999        380.9        170.7           151.5          18.3
+      2000        364.0        161.4           146.7          17.8
+      2001        324.9        144.1           131.2          15.9
+      2002        293.8        130.3           121.5          14.7
+
+Transportation of Prudhoe Bay Oil
+---------------------------------
+
+     Production  from the  Field is  carried  to Pump  Station  1,  which is the
+starting  point  for the Trans  Alaska  Pipeline  System,  through  two  34-inch
+diameter  transit  lines,  one from each half of the Field.  At Pump  Station 1,
+Alyeska  Pipeline  Service Company,  the pipeline  operator,  meters the oil and
+pumps it south to Valdez where it is either loaded onto marine tankers or stored
+temporarily.  It takes the oil about  seven days to make the trip in the 48-inch
+diameter pipeline.
+
+Reservoir Management
+--------------------
+
+     The  Prudhoe  Bay Field is a  complex,  combination-drive  reservoir,  with
+widely varying reservoir  properties.  Reservoir  management  involves directing
+Field activities and projects to maximize the economic value of Field reserves.
+
+     Several  different  oil recovery  mechanisms  are  currently  active in the
+Field, including pressure depletion,  gravity drainage/gas cap expansion,  water
+flooding and miscible gas flooding. Separate yet integrated reservoir management
+strategies  have been developed for the areas affected by each of these recovery
+processes.
+
+Reserve Estimates
+-----------------
+
+     The net proved remaining reserves of oil and condensate associated with the
+Subject Leases is approximately  908.7 million STB as of December 31, 2002. This
+current  estimate  of reserves is based upon  various  assumptions,  including a
+reasonable  estimate of the  allocation of hydrocarbon  liquids  between oil and
+condensate  pursuant  to  the  procedures  of the  Prudhoe  Bay  Unit  Operating
+Agreement.  Estimates of proved reserves are inherently imprecise and subjective
+and are revised over time as additional data becomes  available.  Such revisions
+may often be  substantial.  The Company  anticipates  that net  production  from
+current  proved  reserves  allocated  to the Subject  Leases will exceed  90,000
+Barrels  per day until the year 2016.  The  occurrence  of major gas sales could
+accelerate  the time at which the  Company's  net  production  would  fall below
+90,000 Barrels per day, due to the consequent decline in reservoir pressure. The
+Company also projects continued economic production  thereafter,  at a declining
+rate, until the year 2030;  however,  for the economic conditions and production
+forecast as of December 31, 2002,  it is estimated  that royalty  payments  will
+cease following the year 2018.
+
+
+
+                                       17
+<PAGE>
+
+     The Company's reserve estimates and production  assumptions and projections
+are predicated upon a reasonable estimate of hydrocarbon  allocation between oil
+and  condensate.  Oil and  condensate  are  physically  produced in a commingled
+stream of hydrocarbon liquids. The allocation of hydrocarbon liquids between the
+oil and  condensate  from the Field is a  theoretical  calculation  performed in
+accordance  with  procedures   specified  in  the  Prudhoe  Bay  Unit  Operating
+Agreement. Due to the differences in percentages between oil and condensate, the
+overall share of oil and condensate  production  allocated to the Subject Leases
+will vary over time according to the  proportions  of  hydrocarbon  liquid being
+allocated as condensate or as oil under the Prudhoe Bay Unit Operating Agreement
+allocation procedures. Under the terms of an Issues Resolution Agreement entered
+into by the Prudhoe Bay Unit owners in October 1990, the  allocation  procedures
+have  been  adjusted  to  generally  allocate   condensate  in  a  manner  which
+approximates  the  anticipated  decline in the production of oil until an agreed
+original  condensate  reserve of 1.175 billion Barrels has been allocated to the
+working interest owners.
+
+     The reserves attributable to the Trust's Royalty Interest constitute only a
+part of the overall  reserves  allocated to the Subject Leases.  The Company has
+estimated that the net remaining proved reserves attributable to the Trust as of
+December  31,  2002 were  85.82  million  Barrels of oil and  condensate.  Using
+procedures  specified  in  Financial  Accounting  Standards  Board  Statement of
+Financial  Standards No. 69, the Company calculated that as of December 31, 2002
+production of oil and condensate from the proved reserves allocated to the Trust
+will result in  estimated  future net  revenues to the Trust of $653.2  million,
+with a present  value of  $388.4  million.  The  Company's  estimates  of proved
+reserves and the  estimated  future net revenues  from the Prudhoe Bay Unit have
+been reviewed by Miller and Lents, Ltd., independent oil and gas consultants, as
+set forth in their report following this section.
+
+     There is no precise method of forecasting the allocation of reserve volumes
+between  the  Company  and the  Trust.  The  Royalty  Interest  is not a working
+interest  and the  Trust is not  entitled  to  receive  any  specific  volume of
+reserves from the Field.  Rather,  reserve volumes  attributable to the Trust at
+any given date are  estimated by  allocating to the Trust its share of estimated
+future  production  from  the  Field  based on WTI  Prices  and  other  economic
+parameters in effect on the date of the evaluation.
+
+     The  following  table shows the net  remaining  proved  reserves of oil and
+condensate allocated to the Subject Leases, the net proved reserves allocated to
+the Trust, and the WTI Prices on the dates indicated:
+
+                           Net Proved Reserves
+                    ---------------------------------         WTI Price
+  December 31       Subject Leases (a)       Trust (b)        Per Barrel
+  -----------       ------------------       ---------        ----------
+                                 (Million STB)
+
+     1998                1,075.4                0.0            $ 12.05
+     1999                1,007.6               93.6              25.60
+     2000                  999.6               90.7              26.83
+     2001                  961.7               43.2              19.78
+     2002                  908.7               85.8              31.23
+
+
+                                       18
+<PAGE>
+
+-------------
+
+(a)  Includes proved  undeveloped  reserves of 109.8 million STB at December 31,
+     1998;  108 million STB at December 31, 1999;  137.3 million STB at December
+     31, 2000;  112.5  million STB at December 31, 2001;  and 5.5 million STB at
+     December 31, 2002.
+
+(b)  Includes  proved  undeveloped  reserves of 4.5 million STB at December  31,
+     1999;  6.4  million  STB at  December  31,  2000;  and 0.03  million STB at
+     December 31, 2002. No proved undeveloped  reserves were attributable to the
+     Trust at December 31, 1998 and December 31, 2001.
+
+     The  reserve  volumes  attributable  to the  Trust are  estimated  using an
+allocation  of reserve  volumes  based on estimated  future  production  and the
+current WTI Price, and assume no future movement in the Consumer Price Index and
+no future  additions by the Company of proved  reserves.  The estimated  reserve
+volumes   attributable  to  the  Trust  will  vary  if  different  estimates  of
+production,  prices  and other  factors  are used.  Even if  expected  reservoir
+performance does not change, the estimated  reserves,  economic life, and future
+revenues  attributable to the Trust may change significantly in the future. This
+may result  from  changes in the WTI Price or from  changes in other  prescribed
+variables utilized in calculations defined by the Overriding Royalty Conveyance.
+See Note 6 of the Notes to Financial Statements in Item 8.
+
+     The  Company is under no  obligation  to make  investments  in  development
+projects which would add additional  non-proved resources to proved reserves and
+cannot make such  investments  without the  concurrence  of the Prudhoe Bay Unit
+working interest owners.  However,  several such investments which would augment
+Prudhoe Bay projects are already in progress. These include additional drilling,
+water flood expansions and miscible injection  continuation/expansion  projects.
+Other possible  investments  could include expanded gas cycling,  miscible/water
+flood infill drilling,  miscible injection supply increases to peripheral areas,
+heavy oil tar recovery and development of the smaller reservoirs. While there is
+no  assurance  that the Prudhoe Bay Unit working  interest  owners will make any
+such   investments   they  do  regularly   assess  the  technical  and  economic
+attractiveness  of implementing  further  projects to increase  Prudhoe Bay Unit
+proved reserves.
+
+     In the event of  changes  in the  Company's  current  assumptions,  oil and
+condensate recoveries may be reduced from the current estimates, unless recovery
+projects other than those included in the current estimates are implemented.
+
+
+
+
+                                       19
+<PAGE>
+
+                   INDEPENDENT OIL AND GAS CONSULTANTS' REPORT
+
+                             MILLER AND LENTS, LTD.
+                      INTERNATIONAL OIL AND GAS CONSULTANTS
+                              TWENTY-SEVENTH FLOOR
+                                 1100 LOUISIANA
+                            HOUSTON, TEXAS 77002-5216
+                             TELEPHONE 713 651-9455
+                              TELEFAX 713 654-9914
+                         email: mail@millerandlents.com
+
+
+                                February 19, 2003
+
+
+The Bank of New York
+Trustee, BP Prudhoe Bay Royalty Trust
+101 Barclay Street, Floor 21 West
+New York, New York 10286
+
+                               Re: Estimates of Proved Reserves, Future
+                                   Production Rates, and Future Net Revenues
+                                   for the BP Prudhoe Bay Royalty Trust
+                                   As of December 31, 2002
+Gentlemen:
+
+     This letter report is a summary of  investigations  performed in accordance
+with our  engagement  by you as  described in Section  4.8(d) of the  Overriding
+Royalty  Conveyance  dated February 27, 1989,  between BP  Exploration  (Alaska)
+Inc., and The Standard Oil Company.  The investigations  included reviews of the
+estimates of Proved Reserves and production rate forecasts of oil and condensate
+made by BP Exploration (Alaska) Inc.  attributable to the BP Prudhoe Bay Royalty
+Trust as of December 31, 2002.  Additionally,  we reviewed  calculations  of the
+resulting  Estimated  Future Net Revenues and Present Value of Estimated  Future
+Net Revenues attributable to the BP Prudhoe Bay Royalty Trust.
+
+     The  estimates  and  calculations  reviewed  are  summarized  in the report
+prepared by BP  Exploration  (Alaska) Inc. and  transmitted  with a cover letter
+dated  February 11, 2003  addressed to Ms. Marie E.  Trimboli of The Bank of New
+York and signed by Mr. Neil McCleary.  Reviews were also performed by Miller and
+Lents,  Ltd.  during this year or in previous  years of (1) the  procedures  for
+estimating  and  documenting  Proved  Reserves,  (2) the  estimates  of in-place
+reservoir volumes, (3) the estimates of recovery factors and production profiles
+for the various  areas,  pay zones,  projects,  and recovery  processes that are
+included in the estimate of Proved  Reserves,  (4) the  production  strategy and
+procedures  for  implementing  that  strategy,  (5) the  sufficiency of the data
+available for making estimates of Proved Reserves and production  profiles,  and
+(6) pertinent provisions of the Prudhoe Bay Unit Operating Agreement, the Issues
+Resolution Agreement,  the Overriding Royalty Conveyance,  the Trust Conveyance,
+the BP  Prudhoe  Bay  Royalty  Trust  Agreement,  and  other  related  documents
+referenced in the Form F-3 Registration  Statement filed with the Securities and
+Exchange Commission on August 7, 1989, by BP Exploration (Alaska) Inc.
+
+
+
+                                       20
+<PAGE>
+
+     Proved  Reserves  were  estimated  by  BP  Exploration   (Alaska)  Inc.  in
+accordance with the definitions  contained in Securities and Exchange Commission
+Regulation S-X, Rule 4-10(a). Estimated Future Net Revenues and Present Value of
+Estimated  Future Net Revenues are not intended and should not be interpreted to
+represent fair market values for the estimated reserves.
+
+     The Prudhoe Bay  (Permo-Triassic)  Reservoir  is defined in the Prudhoe Bay
+Unit Operating  Agreement.  The Prudhoe Bay Unit is an oil and gas unit situated
+on the North Slope of Alaska.  The BP Prudhoe Bay Royalty Trust is entitled to a
+royalty  payment on 16.4246  percent of the first  90,000  barrels of the actual
+average daily net  production of oil and  condensate  for each calendar  quarter
+from the BP  Exploration  (Alaska)  Inc.  working  interest  as  defined  in the
+Overriding  Royalty  Conveyance.  The payment amount depends upon the Per Barrel
+Royalty  which in turn  depends  upon the West  Texas  Intermediate  Price,  the
+Chargeable Costs, the Cost Adjustment Factor, and Production Taxes, all of which
+are defined in the Overriding Royalty Conveyance.  "Barrel" as used herein means
+Stock Tank Barrel as defined in the Overriding Royalty Conveyance.
+
+     Our reviews do not  constitute  independent  estimates  of the reserves and
+annual  production  rate  forecasts  for the  areas,  pay zones,  projects,  and
+recovery  processes  examined.  We relied upon the accuracy and  completeness of
+information  provided by BP Exploration  (Alaska) Inc. with respect to pertinent
+ownership interests and various other historical,  accounting,  engineering, and
+geological data.
+
+     As a result of our cumulative reviews, based on the foregoing,  we conclude
+that:
+
+     1.   A large body of basic data and  detailed  analyses are  available  and
+          were used in making the estimates.  In our judgment,  the quantity and
+          quality of currently available data on reservoir boundaries,  original
+          fluid contacts, and reservoir rock and fluid properties are sufficient
+          to  indicate  that any  future  revisions  to the  estimates  of total
+          original in-place volumes should be minor.  Furthermore,  the data and
+          analyses  on  recovery   factors  and  future   production  rates  are
+          sufficient to support the Proved Reserves estimates.
+
+     2.   The methods and  procedures  employed to  accumulate  and evaluate the
+          necessary  information  and  to  estimate,   document,  and  reconcile
+          reserves,  annual  production rate forecasts,  and future net revenues
+          are effective and are in accordance with generally accepted geological
+          and engineering practice in the petroleum industry.
+
+     3.   Based  on  our  limited  independent  tests  of  the  computations  of
+          reserves,  production  flowstreams,  and  future  net  revenues,  such
+          computations  were  performed  in  accordance  with  the  methods  and
+          procedures described to us.
+
+     4.   The estimated net remaining  Proved  Reserves  attributable  to the BP
+          Prudhoe Bay Royalty  Trust as of December 31, 2002,  of 85.82  million
+          barrels of oil and condensate  are, in the aggregate,  reasonable.  Of
+          the 85.82  million  barrels of total Proved  Reserves,  85.79  million
+          barrels are Proved  Developed  Reserves,  and 0.03 million barrels are
+          Proved Undeveloped Reserves.
+
+
+
+                                       21
+<PAGE>
+
+     5.   Utilizing the specified  procedures  outlined in Financial  Accounting
+          Standards Board Statement of Financial Accounting Standards No. 69, BP
+          Exploration  (Alaska)  Inc.  calculated  that as of December 31, 2002,
+          production of the Proved Reserves will result in Estimated  Future Net
+          Revenues of $653.2  million and Present Value of Estimated  Future Net
+          Revenues of $388.4 million to the BP Prudhoe Bay Royalty Trust.  These
+          estimates are reasonable.
+
+     6.   BP Exploration  (Alaska) Inc. estimated that, as of December 31, 2002,
+          815.0  million  barrels of Proved  Reserves have been added to Current
+          Reserves. This estimate is reasonable. Current Reserves are defined in
+          the Overriding  Royalty  Conveyance as net Proved  Reserves of 2,035.6
+          million  barrels as of December  31,  1987.  Net  additions  to Proved
+          Reserves after December 31, 1987 affect the Chargeable  Costs that are
+          used to  calculate  the Per Barrel  Royalty paid to the BP Prudhoe Bay
+          Royalty Trust.
+
+     7.   The BP Exploration (Alaska) Inc. projection that its net production of
+          oil and  condensate  from Proved  Reserves will continue at an average
+          rate  exceeding  90,000  barrels  per  day  until  the  year  2016  is
+          reasonable.  As long as the Per Barrel  Royalty has a positive  value,
+          average daily  production  attributable  to the BP Prudhoe Bay Royalty
+          Trust will remain constant until the net production falls below 90,000
+          barrels per day; thereafter, production attributable to the BP Prudhoe
+          Bay Royalty Trust will decline with the BP  Exploration  (Alaska) Inc.
+          production.  However,  the Per Barrel Royalty will not have a positive
+          value if the West Texas Intermediate Price is less than the sum of the
+          per  barrel   Chargeable  Costs  and  per  barrel   Production  Taxes,
+          appropriately  adjusted  in  accordance  with the  Overriding  Royalty
+          Conveyance.   Under  such  circumstances,   average  daily  production
+          attributable  to the BP Prudhoe Bay  Royalty  Trust will have no value
+          and therefore  will not  contribute  to the reserves  regardless of BP
+          Exploration (Alaska) Inc.'s net production level.
+
+     8.   Based on the West  Texas  Intermediate  Price of $31.23  per barrel on
+          December 31, 2002,  current Production Taxes, and the Chargeable Costs
+          adjusted as  prescribed  by the  Overriding  Royalty  Conveyance,  the
+          projection that royalty  payments will continue  through the year 2018
+          is reasonable. BP Exploration (Alaska) Inc. expects continued economic
+          production at a declining rate through the year 2030; however, for the
+          economic  conditions and production  forecast as of December 31, 2002,
+          the  Per  Barrel  Royalty  will  be  zero  following  the  year  2018.
+          Therefore,  no reserves are currently attributed to the BP Prudhoe Bay
+          Royalty Trust after that date.
+
+     9.   Even if expected reservoir  performance does not change, the estimated
+          reserves,  economic life, and future  revenues  attributable to the BP
+          Prudhoe Bay Royalty Trust may change significantly in the future. This
+          may result from changes in the West Texas  Intermediate  Price or from
+          changes in other prescribed variables utilized in calculations defined
+          by the Overriding Royalty Conveyance.
+
+     Estimates of ultimate and  remaining  reserves  and  production  scheduling
+depend upon assumptions  regarding  expansion or  implementation  of alternative
+projects  or   development   programs  and  upon   strategies   for   production
+optimization.  BP Exploration (Alaska) Inc. has continual reservoir  management,
+surveillance,  and planning efforts  dedicated to (1) gathering new information,
+
+
+                                       22
+<PAGE>
+
+(2) improving the accuracy of its reserves and  production  capacity  estimates,
+(3) recognizing and exploiting new  opportunities,  (4)  anticipating  potential
+problems and taking  corrective  actions,  and (5) identifying,  selecting,  and
+implementing  optimum  recovery program and cost reduction  alternatives.  Given
+this significant  effort and  ever-changing  economic  conditions,  estimates of
+reserves and production profiles will change periodically.
+
+     The current  estimate of Proved  Reserves  includes only those  projects or
+development programs that are deemed reasonably certain to be implemented, given
+current  economic  and  regulatory  conditions.  Future  projects,   development
+programs,  or operating  strategies  different from those assumed in the current
+estimates may change future estimates and affect  recoveries.  However,  because
+several complementary and alternative projects are being considered for recovery
+of the remaining oil in the  reservoir,  a decision not to implement a currently
+planned project may allow scope expansion or  implementation of another project,
+thereby increasing the overall likelihood of recovering the reserves.
+
+     Future  production  rates will be controlled by facilities  limitations and
+upsets, well downtime,  and the effectiveness of programs to optimize production
+and costs. BP Exploration  (Alaska) Inc.  currently expects  continued  economic
+production  from the  reservoir  at a  declining  rate  through  the year  2030.
+Additional drilling, workovers, facilities modifications, new recovery projects,
+and  programs  for  production  enhancement  and  optimization  are  expected to
+mitigate but not  eliminate the decline in gross oil and  condensate  production
+capacity.
+
+     In making its future  production  rate forecasts,  BP Exploration  (Alaska)
+Inc.  provided  for normal  downtime  and planned  facilities  upsets.  Although
+allowances  for  unplanned  upsets are also  considered  in the  estimates,  the
+studies  do not  provide  for any  impediments  to  crude  oil  production  as a
+consequence of major disruptions.
+
+     Under current economic conditions, gas from the Alaskan North Slope, except
+for  minor  volumes,  cannot  be  marketed  commercially.   Oil  and  condensate
+recoveries  are expected to be greater as a result of continued  reinjection  of
+produced gas than the recoveries  would be if major volumes of produced gas were
+being sold. No major gas sale is assumed in the current estimates.  If major gas
+sales are  determined to be  economically  viable in the future,  BP Exploration
+(Alaska) Inc.  estimates that such sales would not actually commence until seven
+to nine years after such a determination.  In the event that major gas sales are
+initiated,  ultimate  oil and  condensate  recoveries  may be  reduced  from the
+current  estimates  unless  recovery  projects  other than those included in the
+current estimates are implemented.
+
+     Large volumes of natural gas liquids are likely to be produced and marketed
+in the future whether or not major gas sales become viable.  Natural gas liquids
+reserves  are not included in the  estimates  cited  herein.  The BP Prudhoe Bay
+Royalty Trust is not entitled to royalty  payments  from  production or sales of
+natural gas or natural gas liquids.
+
+     The  evaluations  presented in this report,  with the  exceptions  of those
+parameters specified by others, reflect our informed judgments based on accepted
+standards  of  professional  investigation  but are  subject to those  generally
+recognized   uncertainties   associated  with   interpretation   of  geological,
+geophysical,  and  engineering  information.   Government  policies  and  market
+conditions  different  from  those  reflected  in this  study or  disruption  of
+
+
+                                       23
+<PAGE>
+
+existing transportation routes or facilities may cause the total quantity of oil
+or condensate to be recovered,  actual  production  rates,  prices received,  or
+operating and capital costs to vary from those reviewed in this report.
+
+     Miller and Lents, Ltd., is an independent oil and gas consulting firm. None
+of the  principals  of this  firm  have any  direct  financial  interests  in BP
+Exploration  (Alaska)  Inc. or its parent or any related  companies or in the BP
+Prudhoe Bay Royalty  Trust.  Our fee is not  contingent  upon the results of our
+work or report,  and we have not  performed  other  services for BP  Exploration
+(Alaska)  Inc.  or the BP  Prudhoe  Bay  Royalty  Trust  that  would  affect our
+objectivity.
+
+                                       Very truly yours,
+
+                                       MILLER AND LENTS, LTD.
+
+
+                                       By /s/ William P. Koza           [SEAL]
+                                          ------------------------------
+                                          William P. Koza
+                                          Vice President
+WPK/hsd
+
+
+
+                                       24
+<PAGE>
+
+                       INDUSTRY CONDITIONS AND REGULATIONS
+
+     The  production  of oil and gas in Alaska  is  affected  by many  state and
+federal  regulations  with respect to allowable rates of production,  marketing,
+environmental  matters and pricing.  Future  regulations  could change allowable
+rates of  production  or the  manner  in  which  oil and gas  operations  may be
+lawfully conducted.
+
+     In general,  the Company's oil and gas  activities  are subject to existing
+federal,  state and local  laws and  regulations  relating  to  health,  safety,
+environmental  quality and  pollution  control.  The Company  believes  that the
+equipment and facilities currently being used in its operations generally comply
+with the  applicable  legislation  and  regulations.  During the past few years,
+numerous  environmental  laws and regulations  have taken effect at the federal,
+state and local levels.  Oil and gas operations are subject to extensive federal
+and  state  regulation  and  to  interruption  or  termination  by  governmental
+authorities  due  to  ecological  and  other   considerations   and  in  certain
+circumstances impose absolute liability upon lessees for the cost of cleaning up
+pollutants and for pollution damages  resulting from their operations.  Although
+the Company has advised that the existence of legislation and regulation has had
+no  material  adverse  effect on the  Company's  current  method of  operations,
+existing and future legislation and regulations cannot be predicted.
+
+                           CERTAIN TAX CONSIDERATIONS
+
+     The  following  is a summary  of the  principal  tax  consequences  to Unit
+holders  resulting  from the ownership and  disposition  of Units.  The laws and
+regulations  affecting  these matters are complex,  and are subject to change by
+future legislation or regulations or new interpretations by the Internal Revenue
+Service,  state taxing  authorities  or the courts.  In  addition,  there may be
+differences of opinion as to the  applicability or interpretation of present tax
+laws and  regulations.  The Company and the Trust have not requested any rulings
+from the  Internal  Revenue  Service  with  respect to the tax  treatment of the
+Units,  and no assurance  can be given that the Internal  Revenue  Service would
+concur with the statements below.
+
+     Unit holders are urged to consult their tax advisors  regarding the effects
+on their specific tax situations of owning and disposing of Units.
+
+Federal Income Tax
+------------------
+
+  Classification of the Trust
+
+     The following discussion assumes that the Trust is properly classified as a
+grantor  trust  under  current  law  and  is  not an  association  taxable  as a
+corporation.
+
+  General Features of Grantor Trust Taxation
+
+     A grantor  trust is not  subject to tax,  and its  beneficiaries  (the Unit
+holders in the case of the Trust) are  considered  for tax  purposes  to own the
+assets of the trust directly.  The Trust pays no federal income tax but files an
+information  return reporting all items of income or deduction.  If a court were
+to hold that the Trust is an  association  taxable as a  corporation,  the Trust
+would  incur  substantial  income  tax  liabilities  in  addition  to its  other
+expenses.
+
+
+
+                                       25
+<PAGE>
+
+  Taxation of Unit Holders
+
+     In computing his federal income tax liability, each Unit holder is required
+to take  into  account  his  share of all  items of Trust  income,  gain,  loss,
+deduction,  credit  and tax  preference,  based on the Unit  holder's  method of
+accounting.  Consequently, it is possible that in any year a Unit holder's share
+of the taxable  income of the Trust may exceed the cash actually  distributed to
+him in that year.  For  example,  if the Trustee  should  establish a reserve or
+borrow  money to  satisfy  debts and  liabilities  of the Trust  income  used to
+establish  the reserve or to repay the loan must be reported by the Unit holder,
+even though the income is not distributed to the Unit holder.
+
+     The Trust makes quarterly  distributions  to Unit holders of record on each
+Quarterly  Record Date.  The terms of the Trust  Agreement seek to assure to the
+extent  practicable  that income,  expenses and deductions  attributable to each
+distribution are reportable by the Unit holder who receives the distribution.
+
+     The Trust  allocates  income and deductions to Unit holders based on record
+ownership  at  Quarterly  Record  Dates.  It is not known  whether the  Internal
+Revenue Service will accept the allocation based on this method.
+
+  Depletion Deductions
+
+     The owner of an economic  interest in producing  oil and gas  properties is
+entitled  to  deduct an  allowance  for the  greater  of cost  depletion  or (if
+otherwise allowable) percentage depletion on each such property. A Unit holder's
+deduction  for cost  depletion  in any year is  calculated  by  multiplying  the
+holder's  adjusted  tax  basis  in his  Units  (generally  his cost  less  prior
+depletion  deductions) by Royalty  Production  during the year and dividing that
+product by the sum of Royalty Production during the year and estimated remaining
+Royalty  Production  as of the end of the year.  The  allowance  for  percentage
+depletion generally does not apply to interests in proven oil and gas properties
+that were transferred after December 31, 1974 and prior to October 12, 1990. The
+Omnibus  Budget  Reconciliation  Act of 1990  repealed  this rule for  transfers
+occurring on or after October 12, 1990. Unit holders who acquired their Units on
+or after  that  date may be  permitted  to deduct an  allowance  for  percentage
+depletion if such deduction would otherwise  exceed the allowable  deduction for
+cost  depletion.  In order to take  percentage  depletion,  a Unit  holder  must
+qualify for the "independent producer" exemption contained in section 613A(c) of
+the  Internal  Revenue Code of 1986.  Percentage  depletion is based on the Unit
+holder's  gross income from the Trust  rather than on his adjusted  basis in his
+Units. Any deduction for cost depletion or percentage  depletion  allowable to a
+Unit holder  reduces his  adjusted  basis in his Units for purposes of computing
+subsequent depletion or gain or loss on any subsequent disposition of Units.
+
+     Unit holders must maintain  records of their adjusted basis in their Units,
+make  adjustments for depletion  deductions to such basis,  and use the adjusted
+basis for the computation of gain or loss on the disposition of the Units.
+
+Taxation of Foreign Unit Holders
+--------------------------------
+
+     Generally, a holder of Units who is a nonresident alien individual or which
+is a foreign  corporation  (a  "Foreign  Taxpayer")  is subject to tax of on the
+gross income produced by the Royalty  Interest at a rate equal to 30 percent (or
+at a lower treaty rate, if applicable).  This tax is withheld by the Trustee and
+
+
+                                       26
+<PAGE>
+
+remitted directly to the United States Treasury. A Foreign Taxpayer may elect to
+treat the income from the Royalty  Interest as  effectively  connected  with the
+conduct of a United States trade or business under Internal Revenue Code section
+871 or  section  882,  or  pursuant  to any  similar  provisions  of  applicable
+treaties. If a Foreign Taxpayer makes this election, it is entitled to claim all
+deductions  with respect to such income,  but a United States federal income tax
+return  must be filed to claim  such  deductions.  This  election  once  made is
+irrevocable unless an applicable treaty allows the election to be made annually.
+
+     Section  897 of the  Internal  Revenue  Code and the  Treasury  Regulations
+thereunder  treat the Trust as if it were a United States real property  holding
+corporation.  Foreign  holders owning more than five percent of the  outstanding
+Units  are  subject  to  United  States  federal  income  tax on the gain on the
+disposition  of their Units.  Foreign Unit holders owning less than five percent
+of the outstanding  Units are not subject to United States federal income tax on
+the gain on the  disposition  of their  Units,  unless they have  elected  under
+Internal  Revenue  Code  section 871 or section 872 to treat the income from the
+Royalty  Interest as  effectively  connected with the conduct of a United States
+trade or business.
+
+     If a Foreign person is a corporation  which made an election under Internal
+Revenue  Code  section  882(d),  the  corporation  would also be subject to a 30
+percent tax under Internal Revenue Code section 884. This tax is imposed on U.S.
+branch  profits of a foreign  corporation  that are not  reinvested  in the U.S.
+trade or business.  This tax is in addition to the tax on effectively  connected
+income. The branch profits tax may be either reduced or eliminated by treaty.
+
+Sale of Units
+-------------
+
+     Generally,  a Unit holder will realize gain or loss on the sale or exchange
+of his Units measured by the difference  between the amount realized on the sale
+or exchange and his adjusted basis for such Units.  Gain on the sale of Units by
+a holder  that is not a dealer  with  respect to such Units  will  generally  be
+treated as capital  gain.  However,  pursuant to Internal  Revenue  Code section
+1254,  certain  depletion  deductions  claimed with respect to the Units must be
+recaptured as ordinary income upon sale or disposition of such interest.
+
+Backup Withholding
+------------------
+
+     A payor must  withhold  31 percent of any  reportable  payment if the payee
+fails to furnish his taxpayer  identification number ("TIN") to the payor in the
+required manner or if the Secretary of the Treasury  notifies the payor that the
+TIN  furnished  by the  payee is  incorrect.  Unit  holders  will  avoid  backup
+withholding by furnishing their correct TINs to the Trustee in the form required
+by law.
+
+State Income Taxes
+------------------
+
+     Unit holders may be required to report their share of income from the Trust
+to their state of residence or commercial domicile. However, only corporate Unit
+holders will need to report their share of income to the State of Alaska. Alaska
+does not impose an income tax on  individuals  or estates and trusts.  All Trust
+income is Alaska source income to corporate  Unit holders and should be reported
+accordingly.
+
+
+
+                                       27
+<PAGE>
+
+ITEM 2.  PROPERTIES
+
+     Reference is made to Item 1 for the information required by this item.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     None.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF UNIT HOLDERS
+
+     None.
+
+
+
+                                       28
+<PAGE>
+
+                                    PART II
+
+ITEM 5.  MARKET FOR THE UNITS AND RELATED UNIT HOLDER MATTERS
+
+     The Units are listed and  traded on the New York Stock  Exchange  under the
+symbol BPT. The following  table shows the high and low sales prices per Unit on
+the New York Stock Exchange and the cash  distributions  paid per Unit, for each
+calendar quarter in the two years ended December 31, 2002.
+
+                                                                  Distributions
+                                    High              Low           Per Unit
+                                    ----              ---           --------
+      2001:
+      First Quarter                $10.63            $ 8.56          $0.924
+      Second Quarter                12.44              8.31           0.662
+      Third Quarter                 14.94             10.94           0.611
+      Fourth Quarter                15.41             11.50           0.573
+
+      2002:
+      First Quarter                $15.01            $10.98          $0.216
+      Second Quarter                14.37             11.20           0.230
+      Third Quarter                 14.49             10.70           0.476
+      Fourth Quarter                15.10             12.50           0.585
+
+     As of January 23, 2003,  21,400,000 Units were outstanding and were held by
+928 holders of record.
+
+     Future payments of cash  distributions are dependent on such factors as the
+prevailing WTI Price, the relationship of the rate of change in the WTI Price to
+the rate of change in the Consumer Price Index, the Chargeable  Costs, the rates
+of Production Taxes prevailing from time to time, and the actual production from
+the Prudhoe Bay Unit. See "THE ROYALTY INTEREST" in Item 1.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         The  following  table  presents  in  summary  form  selected  financial
+information regarding the Trust.
+<TABLE>
+<CAPTION>
+
+                                     2002           2001           2000           1999           1998
+                                     ----           ----           ----           ----           ----
+                                                  (In thousands, except per Unit amounts)
+
+<S>                             <C>            <C>            <C>            <C>             <C>
+Royalty revenues                $    33,061         59,934         65,026         13,443          15,163
+Interest income                 $        23             70             92             60              17
+Trust administration  expenses  $       822            724            732            798             614
+Expenses reserve                $        --             --            500            500              --
+                                -----------    -----------    -----------    -----------     -----------
+Cash earnings                   $    32,262         59,280         63,886         12,205          14,566
+Cash distributions              $    32,246         59,319         63,838         12,205          14,566
+Cash distributions per unit     $     1.507          2.772          2.983          0.570           0.681
+Units outstanding                21,400,000     21,400,000     21,400,000     21,400,000      21,400,000
+</TABLE>
+
+
+
+                                       29
+<PAGE>
+
+ITEM 7.  TRUSTEE'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+         AND RESULTS OF OPERATIONS
+
+Cautionary Statement
+--------------------
+
+     The Trustee,  its officers or its agents on behalf of the Trustee may, from
+time  to  time,  make  forward-looking  statements  (other  than  statements  of
+historical  fact).  When  used  herein,  the  words  "anticipates,"   "expects,"
+"believes,"  "intends" or  "projects"  and similar  expressions  are intended to
+identify  forward-looking  statements.  To the extent  that any  forward-looking
+statements  are made,  the  Trustee is unable to predict  future  changes in oil
+prices,  oil production levels,  economic activity,  legislation and regulation,
+and certain  changes in expenses of the Trust.  In addition,  the Trust's future
+results of operations  and other forward  looking  statements  contained in this
+item and elsewhere in this report  involve a number of risks and  uncertainties.
+As a result of variations in such factors,  actual results may differ materially
+from any forward looking statements.  Some of these factors are described below.
+The Trustee  disclaims any obligation to update forward  looking  statements and
+all such forward-looking  statements in this document are expressly qualified in
+their entirety by the cautionary statements in this paragraph.
+
+Liquidity and Capital Resources
+-------------------------------
+
+     The Trust is a passive entity, and the Trustee's  activities are limited to
+collecting and  distributing  the revenues from the Royalty  Interest and paying
+liabilities  and  expenses of the Trust.  Generally,  the Trust has no source of
+liquidity and no capital  resources  other than the revenue  attributable to the
+Royalty  Interest that it receives from time to time. See the  discussion  under
+"THE ROYALTY INTEREST" in Item 1 for a description of the calculation of the Per
+Barrel  Royalty,  and the  discussion  under  "THE  PRUDHOE  BAY UNIT -  Reserve
+Estimates"  and  "INDEPENDENT  OIL AND GAS  CONSULTANTS'  REPORT"  in Item 1 for
+information  concerning the estimated future net revenues of the Trust. However,
+the Trustee does have a limited power to borrow,  establish a cash  reserve,  or
+dispose of all or part of the Trust Estate, under limited circumstances pursuant
+to the terms of the Trust  Agreement.  See the discussion  under "BUSINESS - The
+Trust" in Item 1.
+
+     The decline in WTI Prices  during the fourth  quarter of 1998 and the first
+quarter of 1999  resulted  in the Trust not  receiving  quarterly  distributions
+during the first and second  quarters of 1999.  See "THE ROYALTY  INTEREST - Per
+Barrel  Royalty  Calculations.  Upon the increase in the WTI Price in the second
+quarter of 1999 and the  resumption  of  distributions  in the third  quarter of
+1999, the Trustee  established a cash reserve to provide  liquidity to the Trust
+during any future  periods in which the Trust does not  receive a  distribution.
+The Trustee set aside  $1,000,000 in the cash reserve  account,  from  quarterly
+distributions  received  by the  Trust,  in four  equal  quarterly  installments
+commencing with the July 1999 distribution. The Trustee will draw funds from the
+cash  reserve  account  during any quarter in which the  quarterly  distribution
+received by the Trust does not exceed the liabilities and expenses of the Trust,
+and will replenish the reserve from future quarterly distributions, if any.
+
+     Amounts  set  aside  for  the  cash  reserve  are  being  invested  in U.S.
+government  or agency  securities  secured  by the full  faith and credit of the
+United States.  Interest income received by the Trust from the investment of the
+reserve fund is added to the distributions received from the Company and paid to
+the holders of Units on each Quarterly Record Date. The Trustee anticipates that
+it will keep this cash reserve program in place until termination of the Trust.
+
+
+
+                                       30
+<PAGE>
+
+     As  discussed  under  "BUSINESS  -  Certain  Tax  Considerations",  amounts
+received by the Trust as quarterly  distributions (and earnings on investment of
+the cash reserve) are income to the holders of the Units for the taxable year in
+which such amounts are received by the Trust and must be reported by the holders
+of the Units even if a portion of such amounts are used to repay  borrowings  by
+the Trust or add to the cash  reserve and are not received by the holders of the
+Units.
+
+Results of Operations
+---------------------
+
+     Relatively  modest  changes in oil  prices  will  significantly  affect the
+Trust's  revenues  and  results of  operations.  Crude oil prices are subject to
+significant changes in response to fluctuations in the domestic and world supply
+and demand and other market conditions as well as the world political  situation
+as it  affects  OPEC and other  producing  countries.  The  effect  of  changing
+economic conditions on the demand and supply for energy throughout the world and
+future prices of oil cannot be accurately projected.
+
+     Royalty  revenues  are  generally  received  on the  Quarterly  Record Date
+(generally  the  fifteenth  day of the month)  following the end of the calendar
+quarter in which the related Royalty Production  occurred.  The Trustee,  to the
+extent  possible,  pays  all  expenses  of the  Trust  for each  quarter  on the
+Quarterly  Record Date on which the revenues for the quarter are  received.  For
+the statement of cash earnings and  distributions,  revenues and Trust  expenses
+are recorded on a cash basis and, as a result,  distributions to Unit holders in
+each  calendar  year  ending  December  31 are  attributable  to  the  Company's
+operations during the twelve-month period ended on the preceding September 30.
+
+     As long as the Company's  average daily net production from the Prudhoe Bay
+Unit exceeds 90,000 Barrels,  which the Company currently projects will continue
+until the year  2018,  the only  factors  affecting  the  Trust's  revenues  and
+distributions  to Unit  holders  are  changes in WTI  Prices,  scheduled  annual
+increases in Chargeable Costs,  changes in the Consumer Price Index,  changes in
+Production  Taxes,  changes in the expenses of the Trust,  contributions  to the
+cash reserve and interest earned on the cash reserve.
+
+     During the year 2002 and the period of 2003 up to the date of this  report,
+the WTI Prices  have been above the level  necessary  for the Trust to receive a
+Per Barrel Royalty.  Whether the Trust will be entitled to future  distributions
+during the  remainder  of 2003 will depend on WTI Prices  prevailing  during the
+remainder of the year.
+
+2002 compared to 2001
+---------------------
+
+     Royalty  revenues  and cash  distributions  in calendar  2002  decreased by
+approximately  44.8% and 45.6%,  respectively,  from 2001.  The  decline was due
+principally  to a sharp drop in average WTI Prices during the fourth  quarter of
+2001 and the first quarter of 2002.  Although WTI prices recovered later in 2002
+to  approximately  the same  levels as at the  beginning  of 2001,  overall  the
+average  WTI Price for the twelve  months  ended  September  30,  2002 (on which
+calendar 2002 cash basis revenues were based) was  approximately  16% lower than
+for the immediately  preceding  twelve-month period.  Royalty revenues also were
+negatively affected by the scheduled increase in Chargeable Costs from $10.75 to
+$11.25 in the first quarter of 2002;  however this impact was somewhat offset by
+Production  Taxes,  which  declined  approximately  21% during the  twelve-month
+period ended  September 30, 2002 from the preceding  period as a consequence  of
+the decreases in average WTI Prices.  The Cost  Adjustment  Factor had a neutral
+effect  during 2002, as it remained  substantially  constant on average from the
+previous year.
+
+
+
+                                       31
+<PAGE>
+
+2001 compared to 2000
+---------------------
+
+     Royalty revenues and cash  distributions in 2001 decreased by approximately
+7.8% and 7.1%,  respectively,  from 2000.  Although the average WTI Price during
+the 12 months ended  September 30, 2001 increased by about 1.4% from the average
+price during the same period in 2000,  the increase was offset by an increase of
+approximately  9.7% in Adjusted  Chargeable Costs,  primarily as a result of the
+scheduled  increase  in  Chargeable  Costs from  $10.00 per Barrel to $10.75 per
+Barrel  in the  first  quarter  of 2001  and  continued  increases  in the  Cost
+Adjustment Factor (see "THE ROYALTY INTEREST-Per Barrel Royalty Calculations" in
+Item 1).
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+     Not applicable.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+                          INDEX TO FINANCIAL STATEMENTS
+
+                                                                            Page
+                                                                            ----
+
+Independent Auditors' Report..................................................33
+
+Statements of Assets, Liabilities and Trust Corpus
+  as of December 31, 2002 and 2001............................................34
+
+Statement of Cash Earnings and Distributions for the years ended
+  December 31, 2002, 2001 and 2000............................................35
+
+Statements of Changes in Trust Corpus for the years ended
+  December 31 2002, 2001 and 2000.............................................36
+
+Notes to Financial Statements.................................................37
+
+
+
+
+
+                                       32
+<PAGE>
+
+                          INDEPENDENT AUDITORS' REPORT
+
+Trustee and Holders of Trust Units of
+BP Prudhoe Bay Royalty Trust:
+
+     We have audited the  accompanying  statements  of assets,  liabilities  and
+trust  corpus of BP Prudhoe Bay Royalty  Trust as of December 31, 2002 and 2001,
+and the related  statements of cash earnings and  distributions,  and changes in
+trust corpus for each of the years in the  three-year  period ended December 31,
+2002.  These financial  statements are the  responsibility  of the Trustee.  Our
+responsibility  is to express an opinion on these financial  statements based on
+our audits.
+
+     We conducted our audits in accordance  with  auditing  standards  generally
+accepted in the United States of America.  Those standards  require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by the Trustee,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audits  provide  a
+reasonable basis for our opinion.
+
+     As described in note 2, these financial  statements have been prepared on a
+modified  basis of cash  receipts and  disbursements,  which is a  comprehensive
+basis of accounting other than accounting  principles  generally accepted in the
+United States of America.
+
+     In our opinion,  the financial statements referred to above present fairly,
+in all material respects, the assets, liabilities and trust corpus of BP Prudhoe
+Bay Royalty  Trust as of December 31, 2002 and 2001,  and its cash  earnings and
+distributions  and its  changes  in trust  corpus  for each of the  years in the
+three-year period ended December 31, 2002, on the basis of accounting  described
+in note 2.
+
+
+                                               /s/KPMG LLP
+                                               KPMG LLP
+
+
+New York, New York
+March 18, 2003
+
+
+
+                                       33
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+
+                Statement of Assets, Liabilities and Trust Corpus
+        (Prepared on a modified basis of cash receipts and disbursements)
+
+                                 (In thousands)
+<TABLE>
+<CAPTION>
+
+                                                      December 31,            December 31,
+                                                          2002                    2001
+                                                          ----                    ----
+         ASSETS
+
+
+<S>                                                    <C>                     <C>
+Royalty Interest, net (notes 1, 2 and 3)               $  16,068               $  18,077
+Cash and cash equivalents (note 2)                         1,025                   1,009
+                                                       ---------               ---------
+
+Total assets                                           $  17,093               $  19,086
+                                                       =========               =========
+
+
+         LIABILITIES AND TRUST CORPUS
+
+Accrued expenses                                       $     595               $     522
+Trust Corpus (40,000,000 units of beneficial
+   interest authorized, 21,400,000 units issued
+   and outstanding)                                       16,498                  18,564
+                                                       ---------               ---------
+
+Total liabilities and trust corpus                     $  17,093               $  19,086
+                                                       =========               =========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to financial statements.
+
+
+
+                                       34
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+
+                  Statements of Cash Earnings and Distributions
+        (Prepared on a modified basis of cash receipts and disbursements)
+
+                        (In thousands, except unit data)
+
+
+<TABLE>
+<CAPTION>
+
+                                                  For the Years Ended December 31,
+                                              2002              2001             2000
+                                              ----              ----             ----
+
+<S>                                       <C>              <C>              <C>
+Royalty revenues                          $    33,061      $    59,934      $    65,026
+
+Interest income                                    23               70               92
+
+Less: Trust administrative expenses              (822)            (724)            (732)
+
+Expense reserve                                    --               --             (500)
+                                          -----------      -----------      -----------
+
+Cash earnings                             $    32,262      $    59,280      $    63,886
+                                          ===========      ===========      ===========
+
+Cash distributions                        $    32,246      $    59,319      $    63,838
+                                          ===========      ===========      ===========
+
+Cash distributions per unit               $     1.507      $     2.772      $     2.983
+                                          ===========      ===========      ===========
+
+Units outstanding                          21,400,000       21,400,000       21,400,000
+                                          ===========      ===========      ===========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to financial statements.
+
+
+
+                                       35
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+
+                      Statements of Changes in Trust Corpus
+        (Prepared on a modified basis of cash receipts and disbursements)
+
+                                 (In thousands)
+
+
+<TABLE>
+<CAPTION>
+
+                                                        For the Years Ended December 31,
+                                                  2002                2001                2000
+                                                  ----                ----                ----
+
+<S>                                           <C>                 <C>                 <C>
+Trust Corpus at beginning of year             $   18,564          $   20,669          $   22,626
+
+Cash earnings                                     32,262              59,280              63,886
+
+Increase in cash reserve                              --                  --                 500
+
+Decrease (increase) in accrued expenses              (73)                (58)                  6
+
+Cash distributions                               (32,246)            (59,319)            (63,838)
+
+Amortization of Royalty Interest                  (2,009)             (2,008)             (2,511)
+                                              ----------          ----------          ----------
+
+Trust Corpus at end of year                   $   16,498          $   18,564          $   20,669
+                                              ==========          ==========          ==========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See accompanying notes to financial statements.
+
+
+
+                                       36
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+                          Notes to Financial Statements
+        (Prepared on a Modified Basis of Cash Receipts and Disbursements)
+                        December 31, 2002, 2001 and 2000
+
+
+(1)  FORMATION OF THE TRUST AND ORGANIZATION
+
+     BP Prudhoe Bay Royalty Trust (the "Trust"), a grantor trust, was created as
+     a Delaware  business trust pursuant to a Trust Agreement dated February 28,
+     1989 among the  Standard  Oil  Company  ("Standard  Oil"),  BP  Exploration
+     (Alaska) Inc. (the "Company"), The Bank of New York (The "Trustee") and The
+     Bank of New York  (Delaware),  as co-trustee.  Standard Oil and the Company
+     are indirect wholly-owned subsidiaries of BP p.l.c. ("BP").
+
+     Effective  January 1, 2000,  the Company and all other  Prudhoe Bay working
+     interest owners cross-assigned  interests in the Prudhoe Bay Field pursuant
+     to the Prudhoe Bay Unit  Alignment  Agreement.  The  Company  retained  all
+     rights,  obligations,  and  liabilities  associated  with the  Trust.  This
+     transaction  is not  expected  to have a  material  effect  on the  Trust's
+     operation.
+
+     On February 28, 1989,  Standard Oil conveyed an overriding royalty interest
+     (the "Royalty  Interest")  to the Trust.  The Trust was formed for the sole
+     purpose of owning and  administering  the  Royalty  Interest.  The  Royalty
+     Interest  represents the right to receive,  effective  February 28, 1989, a
+     per barrel royalty (the "Per Barrel  Royalty") of 16.4246% on the lesser of
+     (a) the first 90,000  barrels of the average actual daily net production of
+     oil  and  condensate  per  quarter  or (b) the  average  actual  daily  net
+     production of oil and  condensate  per quarter from the  Company's  working
+     interest in the Prudhoe Bay Field (the  "Field") as of February  28,  1989,
+     located  on the North  Slope of  Alaska.  Trust Unit  holders  will  remain
+     subject at all times to the risk that  production  will be  interrupted  or
+     discontinued  or fall,  on  average,  below  90,000  barrels per day in any
+     quarter.  BP has guaranteed  the  performance of the Company of its payment
+     obligations with respect to the Royalty Interest.
+
+     The  trustees  of the Trust are The Bank of New  York,  a New York  banking
+     corporation,  and The  Bank of New  York  (Delaware),  a  Delaware  banking
+     corporation.  The Bank of New York (Delaware) serves as co-trustee in order
+     to satisfy certain  requirements of the Delaware Trust Act. The Bank of New
+     York alone is able to exercise the rights and powers granted to the Trustee
+     in the Trust Agreement.
+
+     The Per Barrel  Royalty in effect for any day is equal to the price of West
+     Texas  Intermediate crude oil (the "WTI Price") for that day less scheduled
+     Chargeable  Costs  (adjusted for inflation) and Production  Taxes (based on
+     statutory  rates  then  in  existence).   For  years  subsequent  to  2006,
+     Chargeable Costs will be reduced up to a maximum amount of $1.20 per barrel
+     in each  year if  additions  to the  Field's  proved  reserves  do not meet
+     certain specific levels.
+
+     The Trust is  passive,  with the  Trustee  having  only such  powers as are
+     necessary for the collection and  distribution of revenues,  the payment of
+     Trust liabilities, and the protection of the Royalty Interest. The Trustee,
+     subject to certain conditions,  is obligated to establish cash reserves and
+     borrow  funds to pay  liabilities  of the Trust when they become  due.  The
+     Trustee may sell Trust  properties  only (a) as authorized by a vote of the
+     Trust  Unit  Holders,  (b) when  necessary  to provide  for the  payment of
+
+
+                                       37
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+                          Notes to Financial Statements
+        (Prepared on a Modified Basis of Cash Receipts and Disbursements)
+                  December 31, 2002, 2001 and 2000 (continued)
+
+     specific  liabilities of the Trust then due (subject to certain conditions)
+     or  (c)  upon  termination  of  the  Trust.  Each  Trust  Unit  issued  and
+     outstanding  represents an equal undivided share of beneficial  interest in
+     the Trust.  Royalty  payments are received by the Trust and  distributed to
+     Trust Unit holders, net of Trust expenses,  in the month succeeding the end
+     of each calendar quarter.  The Trust will terminate upon the first to occur
+     of the following events:
+
+     a.   On or prior to December 31, 2010: upon a vote of Trust Unit holders of
+          not less than 70% of the outstanding Trust Units.
+
+     b.   After  December 31, 2010: (i) upon a vote of Trust Unit holders of not
+          less than 60% of the outstanding Trust Units, or (ii) at such time the
+          net  revenues  from the  Royalty  Interest  for two  successive  years
+          commencing  after 2010 are less than  $1,000,000  per year (unless the
+          net revenues during such period are materially and adversely  affected
+          by certain events).
+
+     In order to ensure the Trust has the  ability to pay future  expenses,  the
+     Trust  established  a cash reserve  account  which the Trustee  believes is
+     sufficient to pay approximately one year's current and expected liabilities
+     and expenses of the Trust.
+
+(2)  BASIS OF ACCOUNTING
+
+     The financial statements of the Trust are prepared on a modified cash basis
+     and  reflect  the  Trust's  assets,  liabilities,   Corpus,  earnings,  and
+     distributions, as follows:
+
+     a.   Revenues are recorded when received  (generally  within 15 days of the
+          end of the preceding  quarter) and distributions to Trust Unit holders
+          are recorded when paid.
+
+     b.   Trust expenses  (which include  accounting,  engineering,  legal,  and
+          other professional fees,  trustees' fees, and out-of-pocket  expenses)
+          are recorded on an accrual basis.
+
+     c.   Amortization of the Royalty  Interest is calculated based on the units
+          of  production  attributable  to the  Trust  over  the  production  of
+          estimated  proved reserves  attributable to the Trust at the beginning
+          of  the  fiscal  year   (approximately   43,200,000,   90,700,000  and
+          93,600,000 barrels of estimated proved reserves were used to calculate
+          the  amortization of the Royalty Interest for the years ended December
+          31, 2002, 2001 and 2000,  respectively).  Such amortization is charged
+          directly to the Trust Corpus,  and does not affect cash earnings.  The
+          daily rate for amortization  per net equivalent  barrel of oil for the
+
+
+                                       38
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+                          Notes to Financial Statements
+        (Prepared on a Modified Basis of Cash Receipts and Disbursements)
+                  December 31, 2002, 2001 and 2000 (continued)
+
+          years ended  December  31,  2002,  2001 and 2000 was $0.37,  $0.37 and
+          $0.47,  respectively.  The Trust  evaluates  impairment of the Royalty
+          Interest  by  comparing  the  undiscounted  cash flows  expected to be
+          realized from the Royalty Interest to the carrying value,  pursuant to
+          Statement of Financial  Accounting  Standards No. 144, "Accounting for
+          the Impairment or Disposal of Long-Lived  Assets" ("SFAS 144"). If the
+          expected  future  undiscounted  cash flows are less than the  carrying
+          value,  the Trust  recognizes  an impairment  loss for the  difference
+          between the carrying value and the estimated fair value of the Royalty
+          Interest (see note 3).
+
+     While  these  statements  differ  from  financial  statements  prepared  in
+     accordance  with  accounting  principles  generally  accepted in the United
+     States of America,  the cash basis of reporting  revenues and distributions
+     is considered to be the most meaningful because quarterly  distributions to
+     the Unit holders are based on net cash receipts.
+
+     As of December 31, 2002 and 2001, cash equivalents which represent the cash
+     reserve  consist of US  treasury  bills  with an initial  term of less than
+     three months.
+
+     Estimates  and  assumptions  are  required  to be  made  regarding  assets,
+     liabilities  and changes in Trust Corpus  resulting  from  operations  when
+     financial  statements  are prepared.  Changes in the economic  environment,
+     financial  markets  and any  other  parameters  used in  determining  these
+     estimates could cause actual results to differ.
+
+(3)  ROYALTY INTEREST
+
+     The Royalty Interest is comprised of the following at December 31, 2002 and
+     2001 (in thousands):
+
+
+                                                     December 31,
+                                                 --------------------
+                                                 2002            2001
+                                                 ----            ----
+
+      Royalty Interest                       $  535,000      $  535,000
+      Less:  Accumulated amortization          (345,414)       (343,405)
+             Impairment write-down             (173,518)       (173,518)
+                                             ----------      ----------
+
+                                             $   16,068      $   18,077
+                                             ==========      ==========
+
+
+
+(4)  INCOME TAXES
+
+     The Trust files its federal  tax return as a grantor  trust  subject to the
+     provisions of subpart E of Part I of  Subchapter J of the Internal  Revenue
+     Code of 1986,  as  amended,  rather  than as an  association  taxable  as a
+     corporation. The Unit holders are treated as the owners of Trust income and
+     Corpus,  and the entire  taxable  income of the Trust is  reportable by the
+     Unit holders on their respective tax returns.
+
+
+
+                                       39
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+                          Notes to Financial Statements
+        (Prepared on a Modified Basis of Cash Receipts and Disbursements)
+                  December 31, 2002, 2001 and 2000 (continued)
+
+     If the Trust were determined to be an association taxable as a corporation,
+     it would be treated as an entity  taxable as a  corporation  on the taxable
+     income from the Royalty  Interest,  the Trust Unit holders would be treated
+     as  shareholders,  and  distributions  to Trust Unit  holders  would not be
+     deductible in computing the Trust's tax liability as an association.
+
+(5)  SUMMARY OF QUARTERLY RESULTS (UNAUDITED)
+
+     A summary of selected quarterly  financial  information for the years ended
+     December 31, 2002, 2001, and 2000 is as follows (in thousands,  except unit
+     data):
+<TABLE>
+<CAPTION>
+
+                                            1st Quarter       2nd Quarter      3rd Quarter       4th Quarter
+                                            -----------       -----------      -----------       -----------
+
+2002
+<S>                                           <C>               <C>              <C>               <C>
+     Royalty revenues                         $   4,841             5,205           10,314            12,701
+     Interest income                                  7                 5                6                 5
+     Trust administrative expenses                 (216)             (298)            (130)             (178)
+                                              ---------         ---------        ---------         ---------
+     Cash earnings                                4,632             4,912           10,190            12,528
+     Cash distributions                           4,621             4,931           10,185            12,509
+     Cash distributions per unit                  0.216             0.230            0.476             0.585
+
+
+2001
+     Royalty revenues                         $  19,932            14,418           13,269            12,315
+     Interest income                                 19                17               23                11
+     Trust administrative expenses                 (158)             (253)            (269)              (44)
+                                              ---------         ---------        ---------         ---------
+     Cash earnings                               19,793            14,182           13,023            12,282
+     Cash distributions                          19,777            14,167           13,096            12,279
+     Cash distributions per unit                  0.924             0.662            0.612             0.574
+
+
+2000
+     Royalty revenues                         $  12,105            16,841           16,425            19,655
+     Interest income                                 --                16               11                65
+     Trust administrative expenses                 (164)             (274)            (232)              (62)
+     Expenses reserve                              (250)             (250)              --                --
+                                              ---------         ---------        ---------         ---------
+     Cash earnings                               11,691            16,333           16,204            19,658
+     Cash distributions                          11,691            16,333           16,204            19,610
+     Cash distributions per unit                  0.546             0.763            0.757             0.917
+</TABLE>
+
+
+
+                                       40
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+                          Notes to Financial Statements
+        (Prepared on a Modified Basis of Cash Receipts and Disbursements)
+                  December 31, 2002, 2001 and 2000 (continued)
+
+(6)  SUPPLEMENTAL  RESERVE  INFORMATION AND  STANDARDIZED  MEASURE OF DISCOUNTED
+     FUTURE NET CASH FLOW RELATING TO PROVED RESERVES (UNAUDITED)
+
+     Pursuant  to   Statement  of  Financial   Accounting   Standards   No.  69,
+     "Disclosures About Oil and Gas Producing Activities" ("FASB 69"), the Trust
+     is  required  to  include  in  its   financial   statements   supplementary
+     information   regarding   estimates  of  quantities   of  proved   reserves
+     attributable to the Trust and future net cash flows.
+
+     Estimates of proved  reserves are  inherently  imprecise and subjective and
+     are revised over time as additional data becomes available.  Such revisions
+     may  often  be  substantial.  Information  regarding  estimates  of  proved
+     reserves  attributable  to the  combined  interests  of the Company and the
+     Trust were  based on  Company-prepared  reserve  estimates.  The  Company's
+     reserve  estimates  are  believed  to be  reasonable  and  consistent  with
+     presently  known  physical  data  concerning  the size and character of the
+     Field.
+
+     There is no precise method of allocating  estimates of physical  quantities
+     of reserve  volumes  between the  Company and the Trust,  since the Royalty
+     Interest  is not a working  interest  and the Trust does not own and is not
+     entitled to receive any specific volume of reserves from the Field. Reserve
+     volumes attributable to the Trust were estimated by allocating to the Trust
+     its share of estimated future  production from the Field,  based on the WTI
+     Price on December 31, 2002  ($31.23 per barrel),  December 31, 2001 ($19.78
+     per barrel), and December 31, 2000 ($26.83 per barrel.) Because the reserve
+     volumes  attributable  to the Trust are  estimated  using an  allocation of
+     reserve volumes based on the estimated future production and on the current
+     WTI Price,  a change in the timing of estimated  production  or a change in
+     the WTI price  will  result in a change in the  Trust's  estimated  reserve
+     volumes. Therefore, the estimated reserve volumes attributable to the Trust
+     will vary if different production estimates and prices are used.
+
+     In  addition  to   production   estimates  and  prices,   reserve   volumes
+     attributable  to the Trust are affected by the amount of  Chargeable  Costs
+     that will be deducted in determining  the Per Barrel  Royalty.  The Royalty
+     Interest  includes a provision under which, in years subsequent to 2006, if
+     additions  to the  Field's  proved  reserves  from  January 1, 1988  (after
+     certain adjustments) do not meet certain specified levels, Chargeable Costs
+     will be  reduced  up to a maximum  amount of $1.20 per barrel in each year.
+     Under the provisions of FASB 69, no consideration  can be given to reserves
+     not considered proved at the present time.  Accordingly,  in estimating the
+     reserve volumes attributable to the Trust, Chargeable Costs were reduced by
+     the maximum  amount in years  subsequent  to 1998,  after  considering  the
+     amount of reserves that have been added to the Field's proved reserves from
+     January 1, 1988.
+
+     Net proved  reserves of oil and condensate  attributable to the Trust as of
+     December 31, 2002,  2001 and 2000,  based on the Company's  latest  reserve
+     estimate at such time,  the WTI Prices on December 31, 2002,  2001 and 2000
+     and a reduction  in  Chargeable  Costs in years  subsequent  to 1998,  were
+     estimated to be 86 million, 43 million and 91 million barrels, respectively
+     (of which 86 million, 43 million, and 84 million barrels, respectively, are
+     proved developed).
+
+     The  standardized  measure of  discounted  future net cash flow relating to
+     proved reserves  disclosure required by FASB 69 assigns monetary amounts to
+
+
+                                       41
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+                          Notes to Financial Statements
+        (Prepared on a Modified Basis of Cash Receipts and Disbursements)
+                  December 31, 2002, 2001 and 2000 (continued)
+
+     proved  reserves based on current prices.  This discounted  future net cash
+     flow should not be  construed  as the current  market  value of the Royalty
+     Interest.  A market  valuation  determination  would  include,  among other
+     things,  anticipated  price increases and the value of additional  reserves
+     not considered  proved at the present time or reserves that may be produced
+     after the  currently  anticipated  end of field life. At December 31, 2002,
+     2001 and 2000, the standardized  measure of discounted future net cash flow
+     relating  to  proved  reserves  attributable  to the  Trust  (estimated  in
+     accordance  with the  provisions  of FASB 69),  based on the WTI  Prices on
+     those dates of $31.23, $19.78 and $26.83, respectively, were as follows (in
+     thousands):
+
+<TABLE>
+<CAPTION>
+
+                                              December 31,      December 31,     December 31,
+                                                  2002              2001             2000
+                                                  ----              ----             ----
+
+<S>                                            <C>               <C>              <C>
+     Future net cash flows                     $ 653,236         $ 64,584         $ 520,980
+     10% annual discount for estimated
+       timing of cash flows                     (264,803)         (17,543)         (214,733)
+                                               ---------         --------         ---------
+
+     Standardized measure of
+       discounted future net cash
+       flow relating to proved
+       reserves (a)                            $ 388,433         $ 47,041         $ 306,247
+                                                 =========       ========         =========
+</TABLE>
+
+     (a)  The standardized  measure of discounted  future net cash flow relating
+          to proved reserves,  estimated  without  reducing  Chargeable Costs in
+          years  subsequent  to 1998,  would be  $388,433,000,  $47,041,000  and
+          $306,247,000  at December 31, 2002, 2001 and 2000,  respectively.  The
+          following are the principal  sources of the change in the standardized
+          measure of discounted future net cash flows (in thousands):
+<TABLE>
+<CAPTION>
+
+                                                        2002              2001             2000
+                                                        ----              ----             ----
+
+<S>                                                 <C>              <C>               <C>
+     Revisions of prior estimates:
+       Reserve volumes                              $   90,906       $   47,566        $    2,913
+       WTI price                                       350,099         (314,380)           80,047
+       Chargeable costs - inflation                    (11,059)         (24,397)          (26,302)
+       Production taxes                                (51,886)          47,995           (10,571)
+       Other                                              (186)             956            (2,187)
+                                                    ----------       ----------        ----------
+                                                       377,874         (242,260)           43,900
+
+     Royalty income received (b)                       (40,759)         (44,842)          (72,853)
+     Accretion of discount                               4,277           27,896            30,473
+                                                    ----------       ----------        ----------
+
+     Net increase (decrease) during the year        $  341,392       $ (259,206)       $    1,520
+                                                    ==========       ==========        ==========
+</TABLE>
+
+
+
+                                       42
+<PAGE>
+
+                          BP PRUDHOE BAY ROYALTY TRUST
+                          Notes to Financial Statements
+        (Prepared on a Modified Basis of Cash Receipts and Disbursements)
+                  December 31, 2002, 2001 and 2000 (continued)
+
+     (b)  Royalty  income   received  for  2002,  2001  and  2000  includes  the
+          following:
+
+           Period October 1, 2002 through December 31, 2002          $ 12,538
+           Period October 1, 2001 through December 31, 2001          $  4,840
+           Period October 1, 2000 through December 31, 2000          $ 19,932
+
+     The above royalty  income was received by the Trust in January  2003,  2002
+     and 2001, respectively.
+
+     The  changes in  quantities  of proved oil and  condensate  were as follows
+     (thousands of barrels):
+
+       Estimated net proved reserves of oil
+         and condensate at December 31, 2000                           90,711
+       Production                                                      (5,395)
+       Reserve estimate revisions                                       1,055
+       Change caused by prices/costs                                  (43,178)
+                                                                       ------
+
+       Estimated net proved reserves of oil
+         and condensate at December 31, 2001                           43,193
+       Production                                                      (5,395)
+       Reserve estimate revisions                                          --
+       Change caused by prices/costs                                   48,020
+                                                                       ------
+
+       Estimated net proved reserves of oil
+         and condensate at December 31, 2002                           85,818
+                                                                       ======
+
+       Proved reserves:
+
+           December 31, 2000                                           90,711
+                                                                       ======
+
+           December 31, 2001                                           43,193
+                                                                       ======
+
+           December 31, 2002                                           85,818
+                                                                       ======
+
+
+
+
+
+                                       43
+<PAGE>
+
+ITEM 9.  CHANGES  IN  AND  DISAGREEMENTS  WITH  ACCOUNTANTS  ON  ACCOUNTING  AND
+         FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The Trust has no directors or executive officers. The Trustee has only such
+rights and powers as are necessary to achieve the purposes of the Trust.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     Not applicable.
+
+ITEM 12. UNIT OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+Unit Ownership of Certain Beneficial Owners
+-------------------------------------------
+
+     As of March 28, 2003,  there were no persons known to the Trustee to be the
+beneficial owners of more than five percent of the Units.
+
+Unit Ownership of Management
+----------------------------
+
+     Neither the  Company,  Standard  Oil,  nor BP owns any Units.  No Units are
+owned by The Bank of New York, as Trustee or in its individual  capacity,  or by
+The Bank of New York (Delaware), as co-trustee or in its individual capacity.
+
+Changes in Control
+------------------
+
+     The Trustee knows of no  arrangement,  including  the pledge of Units,  the
+operation of which may at a subsequent date result in a change in control of the
+Trust.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Not applicable.
+
+ITEM 14. CONTROLS AND PROCEDURES
+
+     Within 90 days prior to the date of this report (the "Evaluation Date") the
+officer of the Trustee  signing  this report  carried out an  evaluation  of the
+effectiveness of the design and operation of the Trustee's  disclosure  controls
+and  procedures  for the Trust  pursuant  to Rule  13a-14  under the  Securities
+Exchange Act of 1934 (the "Exchange  Act").  Based on the foregoing that officer
+concluded  that  the  disclosure  controls  and  procedures  for the  Trust  are
+effective in timely alerting the responsible officers of the Trustee to material
+information  relating  to the  Trust  required  to be  included  in the  Trust's
+Exchange Act reports.  There have been no  significant  changes in the Trustee's
+internal controls or in other factors which could significantly  affect internal
+controls subsequent to the date the Trustee carried out its evaluation.
+
+
+
+                                       44
+<PAGE>
+
+                                    PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)  FINANCIAL STATEMENTS
+
+     The  following  financial  statements of the Trust are included in Part II,
+Item 8:
+
+          Independent Auditors' Report
+
+          Statements of Assets,  Liabilities and Trust Corpus as of December 31,
+          2002 and 2001
+
+          Statements  of Cash  Earnings  and  Distributions  for the years ended
+          December 31, 2002, 2001 and 2000
+
+          Statements of Changes in Trust Corpus for the years ended December 31,
+          2002, 2001 and 2000
+
+          Notes to Financial Statements
+
+(b)  FINANCIAL STATEMENT SCHEDULES
+
+     All financial statement schedules have been omitted because they are either
+not  applicable,  not required or the  information is set forth in the financial
+statements or notes thereto.
+
+(c)  EXHIBITS
+
+     4.1  BP Prudhoe Bay Royalty Trust  Agreement  dated February 28, 1989 among
+          The Standard Oil Company,  BP  Exploration  (Alaska) Inc., The Bank of
+          New York, Trustee, and F. James Hutchinson, Co-Trustee.
+
+     4.2  Overriding  Royalty  Conveyance  dated  February  27, 1989  between BP
+          Exploration (Alaska) Inc. and The Standard Oil Company.
+
+     4.3  Trust  Conveyance  dated  February  28, 1989  between The Standard Oil
+          Company and BP Prudhoe Bay Royalty Trust.
+
+     4.4  Support  Agreement  dated as of  February  28,  1989 among The British
+          Petroleum Company p.l.c.,  BP Exploration  (Alaska) Inc., The Standard
+          Oil Company and BP Prudhoe Bay Royalty Trust.
+
+     99   Sarbanes-Oxley Section 906 Certification, dated March 31, 2003.
+
+(d)  REPORTS ON FORM 8-K
+
+     No  reports  on Form  8-K  were  filed  with the  Securities  and  Exchange
+Commission by the Trust during the quarter ended December 31, 2002.
+
+
+
+                                       45
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the  requirements  of the Securities  Exchange Act of 1934, the
+Registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                          BP PRUDHOE BAY ROYALTY TRUST
+
+                                          By:  THE BANK OF NEW YORK, as Trustee
+
+
+                                          By: /s/ Marie Trimboli
+                                             ----------------------
+                                                  Marie Trimboli
+                                                  Assistant Vice President
+
+March 31, 2003
+
+     The  Registrant  is a trust  and has no  officers,  directors,  or  persons
+performing  similar functions.  No additional  signatures are available and none
+have been provided.
+
+
+
+                                       46
+<PAGE>
+
+                                INDEX TO EXHIBITS
+
+  Exhibit No.                       Description
+  -----------                       -----------
+
+     4.1* BP Prudhoe Bay Royalty Trust  Agreement  dated February 28, 1989 among
+          The Standard Oil Company,  BP  Exploration  (Alaska) Inc., The Bank of
+          New York, Trustee, and F. James Hutchinson, Co-Trustee.
+
+     4.2* Overriding  Royalty  Conveyance  dated  February  27, 1989  between BP
+          Exploration (Alaska) Inc. and The Standard Oil Company.
+
+     4.3* Trust  Conveyance  dated  February  28, 1989  between The Standard Oil
+          Company and BP Prudhoe Bay Royalty Trust.
+
+     4.4* Support  Agreement  dated as of  February  28,  1989 among The British
+          Petroleum Company p.l.c.,  BP Exploration  (Alaska) Inc., The Standard
+          Oil Company and BP Prudhoe Bay Royalty Trust.
+
+     99   Sarbanes-Oxley Section 906 Certification,  dated March 31, 2003. Filed
+          herewith.
+
+--------------------
+
+     * Incorporated by reference to the correspondingly  numbered exhibit to the
+Registrant's  Annual Report on Form 10-K for the fiscal year ended  December 31,
+1996 (File No. 1-10243).
+
+
+
+1 As used in the overriding  royalty  conveyance  and this report,  (a) the term
+"Barrel" is a unit of measure equal to 42 United States gallons  corrected to 60
+degrees  Fahrenheit  temperature  and with  deductions  for  sediment  and water
+content,  and (b) the term  "Stock Tank  Barrel" or "STB"  refers to a Barrel of
+stabilized  oil or  condensate  at a temperature  of 60 degrees  Fahrenheit  and
+sea-level atmospheric pressure (14.7 pounds per square inch absolute).
+
+
+</TEXT>
+</DOCUMENT>

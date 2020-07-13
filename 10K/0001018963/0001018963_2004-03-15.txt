@@ -1,0 +1,1424 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>j0498601e10vk.txt
+<DESCRIPTION>ALLEGHENY TECHNOLOGIES
+<TEXT>
+<PAGE>
+
+
+==============================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                      ------------------------------------
+
+                                    FORM 10-K
+(Mark One)
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+    ACT OF 1934 FOR THE FISCAL YEAR ENDED DECEMBER 31, 2003
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+    EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM ______ TO ______
+
+                         Commission file number 1-12001
+
+                       ALLEGHENY TECHNOLOGIES INCORPORATED
+             (Exact name of registrant as specified in its charter)
+
+                  Delaware                                     25-1792394
+(State or other jurisdiction of incorporation               (I.R.S. Employer
+             or organization)                            Identification Number)
+
+       1000 Six PPG Place, Pittsburgh, Pennsylvania           15222-5479
+         (Address of principal executive offices)             (Zip Code)
+
+       Registrant's telephone number, including area code: (412) 394-2800
+
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+===============================================================================
+Title of each class                   Name of each exchange on which registered
+-------------------------------------------------------------------------------
+Common Stock, $0.10 Par Value         New York Stock Exchange
+===============================================================================
+Preferred Stock Purchase Rights       New York Stock Exchange
+===============================================================================
+
+        SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: None
+
+         Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months, and (2) has been subject to such filing
+requirements for the past 90 days. Yes  X    No
+                                       ---      ---
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [X]
+
+         Indicate by check mark whether the Registrant is an accelerated filer
+(as defined in Rule 12b-2 of the Securities Exchange Act of 1934).
+Yes  X   No
+    ---     ---
+
+         At March 8, 2004, the Registrant had outstanding 80,951,282 shares of
+its Common Stock.
+
+         The aggregate market value of the Registrant's voting stock held by
+non-affiliates at June 30, 2003 was approximately $506 million, based on the
+closing price per share of Common Stock on that date of $6.60 as reported on the
+New York Stock Exchange, and at March 8, 2004 was approximately $961 million,
+based on the closing price per share of Common Stock on that date of $12.38 as
+reported on the New York Stock Exchange. Shares of Common Stock known by the
+Registrant to be beneficially owned by directors of the Registrant and officers
+of the Registrant subject to the reporting and other requirements of Section 16
+of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), are not
+included in the computation. The Registrant, however, has made no determination
+that such persons are "affiliates" within the meaning of Rule 12b-2 under the
+Exchange Act.
+
+                       Documents Incorporated By Reference
+
+Selected portions of the 2003 Annual Report to Stockholders - Part I, Part II
+and Part IV of this Report.
+
+Selected portions of the Proxy Statement for 2004 Annual Meeting of Stockholders
+- Part III of this Report. The information included in the Proxy Statement as
+required by paragraphs (a) and (b) of Item 306 of Regulation S-K and paragraphs
+(k) and (l) of Item 402 of Regulation S-K is not incorporated by reference in
+this Form 10-K.
+===============================================================================
+
+
+<PAGE>
+                                      INDEX
+
+                                                                          PAGE
+                                                                         NUMBER
+                                                                         ------
+
+PART I.......................................................................3
+
+  Item 1.  Business..........................................................3
+
+  Item 2.  Properties.......................................................13
+
+  Item 3.  Legal Proceedings................................................15
+
+  Item 4.  Submission of Matters to a Vote of Security Holders..............15
+
+PART II.....................................................................16
+
+  Item 5.  Market for Registrant's Common Equity and Related
+                Stockholder Matters.........................................16
+
+  Item 6.  Selected Financial Data..........................................16
+
+  Item 7.  Management's Discussion and Analysis of Financial Condition
+                and Results of Operations...................................16
+
+  Item 7A. Quantitative and Qualitative Disclosures About Market Risk.......16
+
+  Item 8.  Financial Statements and Supplementary Data......................17
+
+  Item 9.  Changes in and Disagreements with Accountants on
+                Accounting and Financial Disclosure.........................17
+
+  Item 9A. Controls and Procedures..........................................17
+
+PART III....................................................................17
+
+  Item 10. Directors and Executive Officers of the Registrant...............17
+
+  Item 11. Executive Compensation...........................................18
+
+  Item 12. Security Ownership of Certain Beneficial Owners and
+                Management and Related Stockholder Matters..................18
+
+  Item 13. Certain Relationships and Related Transactions...................18
+
+  Item 14. Principal Accountant Fees and Services...........................18
+
+PART IV.....................................................................18
+
+  Item 15. Exhibits, Financial Statement Schedules, and Reports on
+                Form 8-K....................................................18
+
+SIGNATURES..................................................................20
+
+EXHIBIT INDEX...............................................................21
+
+
+
+                                       2
+<PAGE>
+
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+THE COMPANY
+
+         Allegheny Technologies Incorporated ("ATI") is one of the largest and
+most diversified specialty materials producers in the world. We use innovative
+technologies to offer global markets a wide range of specialty materials.
+High-value products include super stainless steel, nickel-based and cobalt-based
+alloys and superalloys, titanium and titanium alloys, specialty steels, tungsten
+materials, exotic alloys, which include zirconium, hafnium and niobium, and
+highly engineered strip and Precision Rolled Strip(R) products. In addition, we
+produce commodity specialty materials such as stainless steel sheet and plate,
+silicon electrical and tool steels, and carbon alloy steel impression die
+forgings and large grey and ductile iron castings. We operate in the following
+three business segments, which accounted for the following percentages of total
+revenues of $1.94 billion, $1.91 billion, and $2.13 billion for the years ended
+December 31, 2003, 2002, and 2001 respectively:
+                                                  2003     2002     2001
+                                                  ----     ----     ----
+         Flat-Rolled Products                      54%      55%      51%
+         High Performance Metals                   33%      33%      36%
+         Engineered Products                       13%      12%      13%
+
+Additional financial information with respect to our business segments,
+including their contributions to operating profit and their identifiable assets
+for the three years ended December 31, 2003 is presented under the caption
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations - Results of Operations" on pages 10 through 14 of the 2003 Annual
+Report to Stockholders (the "2003 Annual Report") and in Note 10 of the Notes to
+Consolidated Financial Statements on pages 52 through 54 of the 2003 Annual
+Report and is incorporated herein by reference.
+
+         Allegheny Technologies Incorporated is a Delaware corporation with its
+principal executive offices located at 1000 Six PPG Place, Pittsburgh,
+Pennsylvania 15222-5479, telephone number (412) 394-2800. References to
+"Allegheny Technologies", "ATI", the "Company", the "Registrant", "we", "our"
+and "us" and similar terms mean Allegheny Technologies Incorporated and its
+subsidiaries, unless the context otherwise requires.
+
+OUR BUSINESS
+
+         Specialty materials play a significant role in our lives. Allegheny
+Technologies is a world leader in the manufacture of both high value and
+commodity specialty materials products. Our high value products accounted for
+68% of total sales in 2003 and our commodity products accounted for 32% of total
+sales in 2003. Specialty materials are produced in a variety of forms, including
+sheet, strip, foil, plate, slab, ingot, billet, bar, rod, wire, coil, tubing,
+and shapes, and are selected for use in environments that demand materials
+having exceptional hardness, toughness, strength, resistance to heat, corrosion
+or abrasion, or a combination of these characteristics. Common end uses of our
+products include jet engines, air frames, electrical energy generation and
+distribution, automotive, chemical processing, oil and gas, construction and
+mining, machine and cutting tools, appliances and food equipment,
+transportation, and medical equipment and implants.
+
+
+
+                                       3
+<PAGE>
+
+
+Flat-Rolled Products Segment
+
+         Our Flat-Rolled Products segment produces, converts and distributes
+stainless steel, nickel-based alloys and superalloys, and titanium and
+titanium-based alloys, in sheet, strip, plate and foil, and Precision Rolled
+Strip(R) products, as well as silicon electrical steels and tool steels. The
+operations in this segment are Allegheny Ludlum, Allegheny Rodney, and Allegheny
+Ludlum's 60% interest in the Chinese joint venture company known as Shanghai
+STAL Precision Stainless Steel Company Limited ("STAL") and our 50% interest in
+the industrial titanium joint venture known as Uniti LLC. The remaining 40%
+interest in STAL is owned by the Baosteel Group, a state authorized investment
+company whose equity securities are publicly traded in the People's Republic of
+China. The remaining 50% interest in Uniti LLC is held by VSMPO-AVISMA, a
+Russian producer of titanium, aluminum, and specialty steel products.
+
+         Stainless steel and nickel-based alloys contain elements such as
+chromium, nickel and molybdenum for strength and corrosion and heat resistance;
+titanium and titanium-based alloys provide higher strength-to-weight ratios and
+are corrosion-resistant; tool steel alloys include carbon, tungsten, molybdenum
+and other metals to make them both hard and malleable; and electrical steel
+contains silicon to minimize electrical energy loss when in use. We offer these
+flat-rolled products in a broad selection of grades, sizes and finishes designed
+to meet international specifications. We provide technical support for material
+selection. Our wide array of alloys and product forms provides customers with
+choices from which to select the optimum alloy for their application.
+
+         Sheet. Stainless steel, nickel-based alloy and titanium sheet products
+are used in a wide variety of consumer and industrial applications such as food
+preparation, appliance, automotive, aerospace and medical applications that
+require ease of cleaning and fabrication, as well as corrosion resistance. For
+2003, approximately 69% by volume of our sheet products are sold to independent
+service centers, which have slitting, cutting or other processing facilities,
+with the remainder sold directly to end-use customers.
+
+         Strip and Precision Rolled Strip(R) Products. Stainless steel,
+nickel-based alloy and titanium strip products are used in a variety of consumer
+and industrial products and a wide range of automotive components. We also offer
+very thin Precision Rolled Strip(R) products which range from 0.015 inch to less
+than 0.0015 inch (0.38 - 0.038 mm) thick. Our Precision Rolled Strip(R) products
+include stainless steel, nickel-based alloys, titanium and titanium alloys, and
+carbon steel that are used by customers to fabricate a variety of different
+products ranging from automobile components to photographic, computer, building
+and construction and consumer products. For 2003, approximately 10% by volume of
+our strip products are sold to independent service centers, with the remainder
+sold directly to end-use customers directly or through our own distribution
+network.
+
+         Plate. Stainless steel, nickel-based alloy and titanium plate products
+are primarily used in industrial equipment that requires ease of cleaning or
+corrosion-resistant capabilities such as pollution control scrubbers, food
+processing equipment, pulp and paper equipment, chemical processing equipment,
+power generation equipment and aerospace applications. We process and distribute
+stainless steel and nickel alloy plate and titanium and titanium alloy plate
+products in a wide variety of grades and gauges. For 2003, approximately 74% by
+volume of our plate products are sold to service centers, with the remainder
+sold directly to end-use customers.
+
+
+                                       4
+<PAGE>
+
+         Silicon Electrical Steel. Our grain-oriented silicon electrical steel
+products are used generally in applications in which electrical conductivity and
+magnetic properties are important. These products are sold directly to end-use
+customers, including manufacturers of transformers and communications equipment.
+
+High Performance Metals Segment
+
+         Our High Performance Metals segment produces, converts and distributes
+a wide range of high performance alloys, including nickel- and cobalt-based
+alloys and superalloys, titanium and titanium-based alloys, exotic alloys such
+as zirconium, hafnium, niobium, tantalum, and their related alloys, and other
+specialty materials, primarily in slab, ingot, billet, and long product forms,
+such as bar, rod, wire, coil and seamless tube. The operations in this segment
+are Allvac, Allvac Ltd (U.K.) and Wah Chang, which also produces and sells
+zirconium chemicals.
+
+         Nickel-, Cobalt- and Titanium-Based Alloys and Superalloys. Our
+nickel-, iron-, and cobalt-based alloys and superalloys and our titanium and
+titanium-based alloys are engineered to retain exceptional strength and
+corrosion resistance at temperatures through 2,000 degrees Fahrenheit (1,093
+degrees Celsius) and are used in critical, high-stress applications. These
+products are designed for the high performance requirements of aerospace, oil
+and gas, power generation, chemical processing, transportation, biomedical,
+marine and nuclear industries.
+
+         Exotic Alloys - Zirconium, Hafnium, Niobium and Tantalum. We are a
+leading global producer of zirconium, a highly corrosion-resistant metal that is
+transparent to neutrons. Zirconium is used for fuel tubes and structural parts
+in nuclear power reactors and for corrosion-resistant chemical industry
+applications, and is also used in the jewelry and personal hygiene industries.
+Hafnium, derived as a by-product of zirconium, is principally used for control
+rods in nuclear reactors due to its ability to absorb neutrons, and as an
+alloying addition in aerospace applications. We also produce niobium, also known
+as columbium, in various forms and alloys. The higher quality grades of niobium
+we produce are used as an alloying addition in superalloys for jet engines and
+for aerospace applications such as rocket and fuel nozzles. Niobium and related
+alloys also are used in applications requiring superconducting characteristics
+for high-strength magnets, including in medical devices for body-scanning,
+accelerators for high-energy physics, and fusion energy projects for the
+generation of electricity. We also produce tantalum, one of the most
+corrosion-resistant metals, which is used for medical implants, chemical process
+equipment and aerospace engine components.
+
+Engineered Products Segment
+
+         The principal business of our Engineered Products segment (formerly
+called the Industrial Products segment) includes the production of tungsten
+powder, tungsten heavy alloys, tungsten carbide materials and carbide cutting
+tools. The segment also produces carbon alloy steel impression die forgings and
+large grey and ductile iron castings, and provides precision metals processing
+services. The operations in this segment are Metalworking Products, Portland
+Forge, Casting Service and Rome Metals.
+
+         Cutting Tools and Tungsten Carbide Products. We produce a line of
+sintered tungsten carbide products that approach diamond hardness for the
+metalworking, mining, oil and gas, and other industries requiring tools with
+extra hardness. Cemented carbide products, which may be coated or uncoated, are
+used as super-hard cutters in the high-speed machining and cutting of steel,
+high temperature alloys and other applications where hardness and wear
+resistance are important. Technical developments related to ceramics, coatings
+and other disciplines are incorporated in these products.
+
+
+                                       5
+<PAGE>
+
+         We also produce tungsten for worldwide markets from numerous and varied
+tungsten-bearing raw materials to produce tungsten and tungsten carbide powders.
+Previously used cemented carbide parts are also recycled into tungsten carbide
+powder.
+
+         Forgings and Castings. We forge carbon alloy steels into finished forms
+that are used in a diverse number of industries. With the latest screw-type
+forging presses, we produce carbon alloy steel forgings in sizes ranging from
+one pound to more than 200 pounds.
+
+         We also cast grey and ductile iron metals in sizes ranging from 1,000
+pounds to 160,000 pounds and in forms ranging from diesel locomotive engine
+blocks to housings and parts for power generation equipment, tools, and
+automobiles.
+
+         Processing Services. We have precision metals processing capabilities
+which enable us to provide process services for most metals from ingots to
+finished product forms, such services include grinding, polishing, blasting,
+cutting, flattening, and ultrasonic testing.
+
+CAPITAL INVESTMENTS
+
+         Capital expenditures for 2004 are currently expected to be between $60
+and $70 million primarily for operational necessities and for completion of
+capital programs which commenced in earlier periods.
+
+COMPETITION
+
+         Markets for both our high value and commodity products and services in
+each of our principal business segments are highly competitive. We compete with
+many manufacturers who, depending on the product involved, range from large
+diversified enterprises to smaller companies specializing in particular
+products. Factors that affect our competitive position are manufacturing costs,
+industry manufacturing capacity, the quality of our products, services and
+delivery capabilities, our capabilities to produce a wide range of specialty
+materials in various unique alloys and product forms, our technological
+capabilities including our research and development efforts, our marketing
+strategies and price.
+
+         We face competition from both domestic and foreign competitors, some of
+which are government subsidized. In 1999, the United States imposed antidumping
+and countervailing duties on dumped and subsidized imports of stainless steel
+sheet and strip in coils and stainless steel plate in coils from companies in
+ten foreign countries. Current administrative reviews by the U.S. Commerce
+Department are revising the findings at lower duty rates. We continue to monitor
+unfairly traded imports from foreign producers for appropriate action.
+
+
+
+
+                                       6
+<PAGE>
+
+
+
+         Other major producers of products in each of the business segments are
+as follows:
+
+         FLAT-ROLLED PRODUCTS SEGMENT
+         Stainless steel
+            o       AK Steel Corporation
+            o       J&L Specialty Steel, LLC, owned by Arcelor S.A. (France)
+            o       North American Stainless (NAS), owned by Acerinox S.A.
+                    (Spain)
+            o       Nucor Corporation
+            o       Outokumpu Stainless Plate Products, owned by Outokumpu Oyj
+                    (Finland)
+            o       Imports from
+                    -  Acesita S.A. (Brazil)
+                    -  Arcelor S.A. (France)
+                    -  Columbus Stainless (Pty) Ltd (S. Africa)
+                    -  Mexinox S.A. de C.V., group member of ThyssenKrupp AG
+                    -  Slater Steel Inc., owns Atlas Stainless (Canada)
+                    -  ThyssenKrupp AG (Germany)
+                    -  Ta Chen International Corporation (Taiwan)
+
+         HIGH PERFORMANCE METALS SEGMENT
+         Nickel-based alloys and specialty steels
+           o       Carpenter Technology Corporation
+           o       Special Metals Corporation
+           o       ThyssenKrupp VDM, a company of ThyssenKrupp Stainless
+                   (Germany)
+         Titanium
+           o       Titanium Metals Corporation
+           o       RMI Titanium, an RTI International Metals Company
+           o       VSMPO - AVISMA (Russia)
+         Exotic Alloys
+           o       Cezus, a group member of AREVA (France)
+           o       HC Stark, a division of the Bayer Group (Germany)
+           o       Western Zirconium Plant of Westinghouse Electric Company,
+                   part of the Nuclear Utilities Business Group of British
+                   Nuclear Fuels (BNFL)
+
+        ENGINEERED PRODUCTS SEGMENT
+        Tungsten and Tungsten Carbide Products
+           o       Kennametal Inc.
+           o       Iscar (Israel)
+           o       Sandvik AB (Sweden)
+           o       Seco Tools AB (Sweden), owned by Sandvik AB (Sweden)
+
+RAW MATERIALS AND SUPPLIES
+
+         Substantially all parts and materials required in the manufacture of
+our products are available from more than one supplier and the sources and
+availability of raw materials essential to our businesses are adequate.
+
+         The principal raw materials we use in the production of our specialty
+materials are scrap (including iron-, nickel-, chromium-, titanium- and
+molybdenum-bearing scrap), nickel, titanium sponge, zirconium sand and sponge,
+ferrochromium, ferrosilicon, molybdenum and molybdenum alloys, ammonium
+paratungstate, manganese and manganese alloys, cobalt, niobium, vanadium and
+other alloying materials.
+
+
+                                       7
+<PAGE>
+
+         Purchase prices of certain critical raw materials are volatile. As a
+result, our operating results could be subject to significant fluctuation. For
+example, since we generally use in excess of 35,000 tons of nickel each year, a
+hypothetical increase of $1.00 per pound in nickel prices would result in
+increased costs of approximately $70 million. In addition, we also use in excess
+of 270,000 tons of ferrous scrap in the production of our flat-rolled products.
+During 2003 and entering 2004, ferrous scrap prices have increased
+significantly. A hypothetical increase of $10.00 per ton would result in
+increased costs of approximately $2.7 million.
+
+         In addition, certain of these raw materials, such as nickel, cobalt,
+ferrochromium and titanium sponge, can be acquired by us and our specialty
+materials industry competitors, in large part, only from foreign sources. Some
+of these foreign sources are located in countries that may be subject to
+unstable political and economic conditions, which might disrupt supplies or
+affect the price of these materials.
+
+         We purchase our nickel requirements principally from producers in
+Australia, Canada, Norway, Russia, and the Dominican Republic. Zirconium sponge
+is purchased from a source in France, while zirconium sand is purchased from
+both U.S. and Australian sources. Cobalt is purchased primarily from producers
+in Canada. More than 80% of the world's reserves of ferrochromium are located in
+South Africa, Zimbabwe, Albania, and Kazakhstan. We also purchase titanium
+sponge from sources in Kazakhstan, Japan and Russia.
+
+         See "Management's Discussion and Analysis of Financial Condition and
+Results of Operations - Financial Condition and Liquidity - Debt" on pages 18
+and 19 of the 2003 Annual Report and "Management's Discussion and Analysis
+of Financial Condition and Results of Operations - Quantitative and Qualitative
+Disclosures About Market Risk and Other Matters -Forward Looking Statements -
+Volatility of Prices of Critical Raw Materials; Unavailability of Raw Materials"
+and " - Volatility of Energy Prices; Availability of Energy Resources" on pages
+27 through 28 of the 2003 Annual Report.
+
+EXPORT SALES AND FOREIGN OPERATIONS
+
+         International sales represented approximately 23% of our total annual
+sales in each of 2003, 2002, and 2001. These figures include export sales by
+U.S. operations to customers in foreign countries, which accounted for
+approximately 14%, 15%, and 15%, of our total sales in each of 2003, 2002, and
+2001, respectively. See "Management's Discussion and Analysis of Financial
+Condition and Results of Operations - Quantitative and Qualitative Disclosures
+About Market Risk and Other Matters - Forward Looking Statements - Export Sales"
+on page 30 of the 2003 Annual Report. Our overseas sales, marketing and
+distribution efforts are aided by international marketing offices or
+representatives located at various locations throughout the world. See Note 10
+of the Notes to Consolidated Financial Statements on pages 52 through 54 of the
+2003 Annual Report for more information regarding international sales activity.
+
+         For 2003, our sales in the United States and Canada represented 77% and
+2%, respectively, of total 2003 sales. Within Europe, our sales to the United
+Kingdom, Germany, and France represented 5%, 4% and 3%, respectively, of total
+2003 sales. Within Asia, our 2003 sales to China and Japan represented 2% and
+1%, respectively, of total sales.
+
+         Our Metalworking Products business manufactures and sells high
+precision threading, milling, boring and drilling systems for the European
+market from locations in the United Kingdom, Spain, France, Germany and
+Switzerland. Our Allvac Ltd business has manufacturing
+
+
+                                       8
+<PAGE>
+
+capabilities in the United Kingdom and enhances service and responsiveness to
+customers by providing a sales and distribution network for our Allvac-US
+produced nickel-based, specialty steel and titanium-based alloys. Our STAL joint
+venture in the People's Republic of China produces Precision Rolled Strip(R)
+products, which enables us to offer our Precision Rolled Strip(R) products more
+effectively to markets in China and other Asian countries.
+
+BACKLOG, SEASONALITY AND CYCLICALITY
+
+         Our backlog of confirmed orders was approximately $380.1 million at
+December 31, 2003 and $412.1 million at December 31, 2002. We expect that
+approximately 92% of confirmed orders on hand at December 31, 2003 will be
+fulfilled during the year ending December 31, 2004. Backlog of confirmed orders
+of the Flat-Rolled Products segment was approximately $66.0 million at December
+31, 2003 and $76.3 million at December 31, 2002. We expect that approximately
+100% of the confirmed orders on hand at December 31, 2003 for this segment will
+be fulfilled during the year ending December 31, 2004. Backlog of confirmed
+orders of the High Performance Metals segment was approximately $270.3 million
+at December 31, 2003 and $300.0 million at December 31, 2002. We expect that
+approximately 89% of the confirmed orders on hand at December 31, 2003 for this
+segment will be fulfilled during the year ending December 31, 2004.
+
+         Generally, our sales and operations are not seasonal. However, demand
+for our products are cyclical over longer periods because specialty materials
+customers operate in cyclical industries and are subject to changes in general
+economic conditions. See "Management's Discussion and Analysis of Financial
+Condition and Results of Operations - Quantitative and Qualitative Disclosures
+About Market Risk and Other Matters - Forward Looking Statements - Cyclical
+Demand for Products" on pages 26 through 27 of the 2003 Annual Report.
+
+RESEARCH, DEVELOPMENT AND TECHNICAL SERVICES
+
+         We believe that our research and development capabilities give us an
+edge in developing new products and manufacturing processes that contribute to
+the profitable growth potential of our businesses on a long-term basis. We
+conduct research and development at our various operating locations both for our
+own account and, on a limited basis, for customers on a contract basis.
+Estimates of the components of research and development for each of our three
+segments for the years ended December 31, 2003, 2002, and 2001 included the
+following:
+
+
+<TABLE>
+<CAPTION>
+(In millions)                                2003         2002          2001
+                                             ----         ----          ----
+<S>                                          <C>          <C>           <C>
+Company-Funded:
+     Flat-Rolled Products                     $ 2.6        $ 4.1         $ 4.5
+     High Performance Metals                    6.7          5.8           5.0
+     Engineered Products                        2.2          2.1           1.8
+                                              -----        -----         -----
+                                              $11.5        $12.0         $11.3
+                                              -----        -----         -----
+
+Customer-Funded:
+     Flat-Rolled Products                     $ 0.5        $ 0.6         $ --
+     High Performance Metals                    1.9          2.1           2.0
+                                              -----        -----         -----
+                                              $ 2.4        $ 2.7         $ 2.0
+                                              -----        -----         -----
+
+         Total Research and Development       $13.9        $14.7         $13.3
+                                              =====        =====         =====
+</TABLE>
+
+
+
+                                       9
+<PAGE>
+
+         With respect to the Flat-Rolled Products and High Performance Metals
+segments, our research, development and technical service activities are closely
+interrelated and are directed toward cost reduction, process improvement,
+process control, quality assurance and control, system development, the
+development of new manufacturing methods, the improvement of existing
+manufacturing methods, the improvement of existing products, and the development
+of new products.
+
+         We own several hundred United States patents, many of which are also
+filed under the patent laws of other nations. Although these patents, as well as
+our numerous trademarks, technical information, license agreements, and other
+intellectual property, have been and are expected to be of value, we believe
+that the loss of any single such item or technically related group of such items
+would not materially affect the conduct of our business.
+
+ENVIRONMENTAL, HEALTH AND SAFETY MATTERS
+
+         We are subject to various domestic and international environmental laws
+and regulations that govern the discharge of pollutants into the air or water,
+and the disposal of hazardous substances, and which may require that we
+investigate and remediate the effects of the release or disposal of materials at
+sites associated with past and present operations, including sites at which we
+have been identified as a potentially responsible party ("PRP") under the
+Federal Superfund laws, and comparable state laws. We could incur substantial
+cleanup costs, fines, and civil or criminal sanctions, third party property
+damage or personal injury claims as a result of violations or liabilities under
+these laws or non-compliance with environmental permits required at our
+facilities. We are currently involved in the investigation and remediation of a
+number of our current and former sites as well as third party locations sites
+under these laws.
+
+         Information related to environmental matters is included in four areas
+in the Annual Report: under the caption "Management's Discussion and Analysis of
+Financial Condition and Results of Operations - Critical Accounting Policies -
+Contingencies" on pages 22 through 23 of the 2003 Annual Report and
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations - Quantitative and Qualitative Disclosure About Market Risk and Other
+Matters - Forward Looking Statements - Risks Associated with Environmental
+Matters" on page 29 of the 2003 Annual Report and in Notes 1 and 14 of the Notes
+to Consolidated Financial Statements on page 37, and pages 61 through 64,
+respectively, of the 2003 Annual Report.
+
+EMPLOYEES
+
+         We have approximately 8,800 employees. A portion of our workforce is
+covered by various collective bargaining agreements, principally with the United
+Steelworkers of America ("USWA"), including: approximately 3,000 Allegheny
+Ludlum production, office and maintenance employees covered by collective
+bargaining agreements between Allegheny Ludlum and the USWA, which are effective
+through June 2007; approximately 165 Oremet employees covered by a collective
+bargaining agreement with the USWA, which is effective through June 2007; and
+approximately 600 Wah Chang employees covered by a collective bargaining
+agreement with the USWA, which continues through March 2008. Negotiations are
+ongoing for a new collective bargaining agreement with the USWA affecting
+approximately 100 employees at the Casting Service facility in LaPorte, Indiana.
+
+
+
+                                       10
+<PAGE>
+
+         See the discussion of related matters under the caption "Management's
+Discussion and Analysis of Financial Condition and Results of Operations -
+Quantitative and Qualitative Disclosures About Market Risk and Other Matters -
+Forward Looking Statements - Labor Matters" on pages 29 through 30 of the 2003
+Annual Report.
+
+AVAILABLE INFORMATION
+
+         Our internet website address is http://www.alleghenytechnologies.com.
+Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports
+on Form 8-K and amendments to those reports filed or furnished pursuant to
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available free
+of charge through our Internet website as soon as reasonably practicable after
+we electronically file such material with, or furnish such material to, the
+Securities and Exchange Commission. Our Internet website and the content
+contained therein or connected thereto are not intended to be incorporated into
+this Annual Report on Form 10-K.
+
+
+
+
+                                       11
+<PAGE>
+
+
+PRINCIPAL OFFICERS OF THE REGISTRANT*
+
+         Principal officers of the Company as of March 1, 2004 are as follows:
+
+<TABLE>
+<CAPTION>
+NAME                        AGE      TITLE
+----                        ---      -----
+<S>                          <C>     <C>
+Robert P. Bozzone            70      Chairman of the Board and Director
+L. Patrick Hassey            58      President and Chief Executive Officer and Director
+Richard J. Harshman          47      Executive Vice President, Finance and Chief Financial Officer
+Douglas A. Kittenbrink       48      Executive Vice President, ATI Business System and Group Vice President,
+                                     Engineered Products Segment
+Dale G. Reid                 48      Vice President, Controller, Chief Accounting Officer and Treasurer
+Jack W. Shilling             60      Executive Vice President, Corporate Development and Chief Technical Officer
+Jon D. Walton                61      Executive Vice President, Human Resources, Chief Legal and Compliance
+                                     Officer, General Counsel and Corporate Secretary
+</TABLE>
+
+-----------------
+
+* Such officers are subject to the reporting and other requirements of Section
+  16 of the Securities Exchange Act of 1934, as amended.
+
+         Set forth below are descriptions of the business background for the
+past five years of the principal officers of the Company.
+
+         Robert P. Bozzone has been Chairman of the Board since December 2000
+and had served as interim President and Chief Executive Officer from December
+2000 until July 2001. Mr. Bozzone also served as Vice Chairman beginning August
+1996 and was Vice Chairman of Allegheny Ludlum Corporation from August 1994 to
+August 1996. Previously, he was President and Chief Executive Officer of
+Allegheny Ludlum Corporation until his retirement from active employment with
+the Company in July 1994. Mr. Bozzone plans to retire as Chairman following the
+Annual Meeting of Stockholders in May 2004, and to remain a Director.
+
+         L. Patrick Hassey has been President and Chief Executive Officer since
+October 1, 2003. He succeeded Mr. James L. Murdy, who retired effective
+September 30, 2003. Mr. Hassey is a member of the Board of Directors, which
+plans to name Mr. Hassey as Chairman upon retirement of the current Chairman,
+Mr. Bozzone, following the Annual Meeting of Stockholders in May 2004. Mr.
+Hassey was Executive Vice President and a member of the corporate executive
+committee of Alcoa, Inc. from November 2002 until his early retirement in
+February 2003. He had served as Executive Vice President of Alcoa and Group
+President of Alcoa Industrial Components from May 2000 to October 2002. Prior to
+May 2000, he served as Executive Vice President of Alcoa and President of Alcoa
+Europe, Inc.
+
+         Richard J. Harshman has served as Executive Vice President, Finance
+since October 2003 and Chief Financial Officer since December 2000. Mr. Harshman
+was Senior Vice President, Finance from December 2001 to October 2003 and Vice
+President, Finance from December 2000 to December 2001. Between September 2000
+and December 2000, Mr. Harshman served as Vice President, Controller and Acting
+Chief Financial Officer. Previously, he had been Vice President, Investor
+Relations and Corporate Communications.
+
+
+                                       12
+<PAGE>
+
+         Douglas A. Kittenbrink has served as Executive Vice President, ATI
+Business System and Group President, Engineered Products Segment since October
+2003. Mr. Kittenbrink was Executive Vice President and Chief Operating Officer
+from July 2001 to October 2003 and served as President of Allegheny Ludlum from
+April 2000 to November 2002. Previously, he served as Senior Vice President
+Manufacturing, Engineering, Information Technology and Production Control of
+Allegheny Ludlum.
+
+         Dale G. Reid has served as Vice President, Controller, Chief Accounting
+Officer and Treasurer since December 2003. Mr. Reid was Vice President,
+Controller and Chief Accounting Officer from December 2000 through November
+2003, as well as from May 1997 to September 2000. In the interim he served as
+Vice President, Finance for Allegheny Ludlum. He had served as Controller of the
+Company from August 1996 to September 2000.
+
+         Jack W. Shilling has served as Executive Vice President, Corporate
+Development and Chief Technical Officer since October 2003. Dr. Shilling was
+Executive Vice President, Strategic Initiatives and Technology and Chief
+Technology Officer from July 2001 to October 2003. He served as President of the
+High Performance Metals Group from April 2000 to July 2001. Previously he served
+as President of Allegheny Ludlum.
+
+         Jon D. Walton has been Executive Vice President, Human Resources, Chief
+Legal and Compliance Officer, General Counsel and Corporate Secretary since
+October 2003. Mr. Walton was Senior Vice President, Chief Legal and
+Administrative Officer from July 2001 to October 2003. Previously, he was Senior
+Vice President, General Counsel and Secretary.
+
+ITEM 2.  PROPERTIES
+
+         Our principal domestic facilities as of December 31, 2003 are listed
+below by segment. Of those facilities listed below which are owned, three are
+subject to mortgages or similar encumbrances securing borrowings under certain
+industrial development authority financings. Although the facilities vary in
+terms of age and condition, we believe that these facilities have been
+well-maintained and are in sufficient condition for us to carry on our
+activities.
+
+
+                                       13
+<PAGE>
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                                    APPROXIMATE
+                                                                                                  SQUARE FOOTAGE
+           FACILITY LOCATION                           PRINCIPAL USE                              (OWNED/LEASED)
+           -----------------                           -------------                              --------------
+<S>                                      <C>                                                   <C>
+FLAT-ROLLED PRODUCTS SEGMENT
+
+   Brackenridge Works                     Manufacturing of stainless steel and other             2,443,000 (owned)
+   Brackenridge and Natrona, PA           specialty material strip, sheet, and plate and
+                                          silicon electrical steel strip and sheet.
+
+   West Leechburg Works                   Manufacturing of stainless steel and other             1,415,000 (owned)
+   West Leechburg and                     specialty material strip and sheet and silicon
+   Bagdad, PA                             electrical steel strip and sheet.
+
+   Vandergrift Plant                      Manufacturing of stainless steel and other              966,000 (owned)
+   Vandergrift, PA                        specialty material strip and sheet.
+
+   Washington Plant                       Manufacturing of specialty material plate.              615,000 (owned)
+   Washington, PA
+
+   Wallingford Plant                      Manufacturing of stainless steel and other              591,000 (owned)
+   Wallingford and                        specialty material strip.
+   Waterbury, CT
+
+   Houston Plant                          Manufacturing of stainless steel and other              298,000 (owned)
+   Houston, PA                            specialty material.
+
+   Latrobe Plant                          Manufacturing of nickel-based and other specialty       468,000 (owned)
+   Latrobe, PA                            steel.
+
+   New Castle Plant                       Manufacturing of stainless steel sheet.                 178,000 (owned)
+   New Castle, IN
+
+   Allegheny Rodney Strip Plant           Manufacturing of stainless steel precision rolled      250,000 (leased)
+   New Bedford, MA                        thin sheet strip and foil, custom roll-formed and
+                                          stretch-formed shapes.
+
+HIGH PERFORMANCE METALS SEGMENT
+
+   Monroe Plant                           Production of nickel and titanium products and         640,000 (owned)
+   Monroe, NC                             other specialty steel long products.
+
+   Lockport Plant                         Manufacturing nickel-based alloy and other             282,000 (leased)
+   Lockport, NY                           specialty material products.
+
+   Richburg Plant                         Production of nickel and titanium product and               221,000
+   Richburg, SC                           other specialty steel long products.                    (owned/leased)
+
+   Bakers Plant                           Production of titanium ingot.                           60,000 (owned)
+   Monroe, NC
+
+   Oremet Facility                        Production of titanium ingot, mill products and         491,000 (owned)
+   Albany, OR                             castings.
+
+   Wah Chang Facility                     Production of zirconium, hafnium, niobium,              917,000 (owned)
+   Albany, OR                             titanium and tantalum.
+
+   Richland Plant                         Production of titanium ingots, slabs and                103,000 (owned)
+   Richland, WA                           electrodes.
+
+   Huntsville Plant                       Production of exotic alloys and other specialty         91,000 (owned)
+   Huntsville, AL                         material wire.
+
+   Frackville, PA                         Production of titanium wire products.                   55,000 (owned)
+</TABLE>
+
+                                       14
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                                                                                                    APPROXIMATE
+                                                                                                  SQUARE FOOTAGE
+           FACILITY LOCATION                           PRINCIPAL USE                              (OWNED/LEASED)
+           -----------------                           -------------                              --------------
+<S>                                      <C>                                                   <C>
+ENGINEERED PRODUCTS SEGMENT
+
+   Waynesboro, PA                         Production of threading systems.                        386,000 (owned)
+
+   Huntsville, AL                         Production of tungsten and tungsten carbide             293,000 (owned)
+                                          powders.
+
+   Grant, AL                              Production of primary tungsten sintered parts.          88,000 (leased)
+
+   Houston, TX                            Production of tungsten carbide products used in         120,000 (owned)
+                                          oil and gas drilling applications.
+
+   Nashville, TN                          Production of tungsten carbide and cutting tools.       134,000 (owned)
+
+   La Porte, IN                           Manufacturing of large ductile and grey iron            453,000 (owned)
+                                          castings.
+
+   Portland, IN                           Manufacturing of carbon and alloy steel forgings.       215,000 (owned)
+
+   Lebanon, KY                            Manufacturing of carbon and alloy steel forgings.       100,000 (owned)
+
+   Gurley, AL                             Production of tungsten, tungsten carbide and           435,000 (leased)
+                                          molybdenum powders.
+</TABLE>
+
+
+         We also own or lease production facilities in a number of foreign
+countries, including France, Germany, Switzerland, United Kingdom, and the
+People's Republic of China. We own and/or lease and operate 625,000-square foot
+facilities for melt and remelt, machining and bar mill operations, laboratories
+and offices located on a 25-acre site in Sheffield, England, and a 40,000-square
+foot leased facility in Sheffield, England for computer numerically controlled
+milling and machine operations. Through our STAL joint venture, we operate a
+130,000-square foot facility for finishing Precision Rolled Strip(R) products in
+the Xin-Zhuang Industrial Zone, Shanghai, China.
+
+         Our executive offices, located at PPG Place in Pittsburgh, Pennsylvania
+are leased.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         We become involved from time to time in various lawsuits, claims and
+proceedings relating to the conduct of our business, including those pertaining
+to environmental, government contracting, product liability, patent
+infringement, commercial, employment, employee benefits, and stockholder
+matters.
+
+         Information relating to legal proceedings is included in the Annual
+Report under Note 14 of the Notes to Consolidated Financial Statements on pages
+61 through 64 of the 2003 Annual Report.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         Not applicable.
+
+
+
+                                       15
+<PAGE>
+                                     PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED
+         STOCKHOLDER MATTERS
+
+         Information required by this item is incorporated by reference to
+"Common Stock Prices" on page 67 of the 2003 Annual Report.
+
+
+Equity Compensation Plan Information
+
+Information about our equity compensation plans at December 31, 2003 was as
+follows:
+
+<TABLE>
+<CAPTION>
+                                       Number of Shares                                Number of Shares
+                                      to be Issued Upon        Weighted Average            Remaining
+                                         Exercise of           Exercise Price of         Available for
+                                     Outstanding Options      Outstanding Options     Future Issuance (a)
+                                    ----------------------------------------------------------------------
+                                                  (In thousands, except per share amounts)
+<S>                                     <C>                      <C>                    <C>
+Equity Compensation Plans
+  Approved by Shareholders                  7,081                  $ 11.80                   3,162
+
+Equity Compensation Plans Not
+  Approved by Shareholders                      0                  $     0                       0
+                                           ------                                           ------
+Total
+                                            7,081                                            3,162
+                                           ======                                           ======
+</TABLE>
+
+
+
+(a)  Of these shares, a maximum of 410,000 shares are reserved for existing
+     award periods under the Total Shareholder Return Incentive Compensation
+     Program. Under this program, participants receive awards of performance
+     share units that are earned based on a comparison of our total shareholder
+     return ("TSR") for a three-year period with the TSR during the same such
+     period of a peer group of companies selected by the Board of Directors.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         Information required by this item is incorporated by reference to
+"Selected Financial Data" on pages 67 and 68 of the 2003 Annual Report.
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+         Information required by this item is incorporated by reference to
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" on pages 9 through 68 of the 2003 Annual Report.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         Information required by this item is incorporated by reference to
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations - Quantitative and Qualitative Disclosures About Market Risk and
+Other Matters - Forward Looking Statements - Cyclical Demand for Products" and
+- "Product Pricing" and - "Volatility of Prices of Critical Raw Materials;
+Unavailability of Raw Materials" and - "Volatility
+
+
+                                       16
+<PAGE>
+of Energy Prices; Availability of Energy Resources" and "- Interest Rate Risk"
+and  - "Export Sales" on pages 26 through 30 of the 2003 Annual Report and Note
+1, 2 and 3 of the Notes to Consolidated Financial Statements on pages 38, 40,
+and 41, respectively of the 2003 Annual Report.
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The Consolidated Financial Statements and Notes to Consolidated
+Financial Statements listed in Item 14(a)(1) are incorporated by reference to
+pages 31 through 66 of the 2003 Annual Report.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+         Not applicable.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+         Our Chief Executive Officer and Chief Financial Officer have evaluated
+the Company's disclosure controls and procedures as of December 31, 2003, and
+they concluded that these controls and procedures are effective.
+
+         There are no significant changes in internal controls or in other
+factors that could significantly affect these controls subsequent to December
+31, 2003.
+
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         In addition to the information set forth under the caption "Principal
+Officers of the Registrant" in Part I of this report, the information concerning
+our directors required by this item is incorporated and made part hereof by
+reference to the material appearing under the heading "Our Corporate Governance"
+and "Election of Directors" in Allegheny Technologies' Proxy Statement for the
+2004 Annual Meeting of Stockholders ("the 2004 Proxy Statement"), which will be
+filed with the Securities and Exchange Commission, pursuant to Regulation 14A,
+not later than 120 days after the end of the fiscal year. Information concerning
+the Audit Committee and its financial expert required by this item is
+incorporated and made part hereof by reference to the material appearing under
+the heading "Committees of the Board of Directors - Audit Committee" in the 2004
+Proxy Statement. Information required by this item regarding compliance with
+Section 16(a) of the Exchange Act is incorporated and made a part hereof by
+reference to the material appearing under the heading "Section 16(a) Beneficial
+Ownership Reporting Compliance" in the 2004 Proxy Statement. Information
+concerning the executive officers of Allegheny Technologies is contained in Part
+I of this Form 10-K under the caption "Principal Officers of the Registrant".
+
+         Allegheny Technologies has adopted Corporate Guidelines for Business
+Conduct and Ethics that apply to its principal executive officer, principal
+financial officer, principal accounting officer or controller, or persons
+performing similar functions. Allegheny Technologies will provide a copy free of
+charge. To obtain a copy, contact the Corporate Secretary, Allegheny
+Technologies Incorporated, 1000 Six PPG Place, Pittsburgh, Pennsylvania
+15222-5479
+
+
+                                       17
+<PAGE>
+
+(telephone: 412-394-2836). The Corporate Guidelines for Business Conduct
+and Ethics are also available through the Company's web site at
+http://www.alleghenytechnologies.com.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+         Information required by this item is incorporated by reference to
+"Director Compensation," "Executive Compensation" and "Compensation Committee
+Interlocks and Insider Participation" as set forth in the 2004 Proxy Statement.
+We do not incorporate by reference in this Form 10-K either the "Report on
+Executive Compensation" or the "Cumulative Total Stockholder Return" section of
+the 2004 Proxy Statement.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS
+
+         Information required by this item is incorporated by reference to
+"Stock Ownership Information" as set forth in the 2004 Proxy Statement.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         Information required by this item is incorporated by reference to
+"Certain Transactions" as set forth in the 2004 Proxy Statement.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+         Information required by this item is incorporated by reference to
+"Relationship with Independent Public Accountants" as set forth in the 2004
+Proxy Statement.
+
+
+                                    PART IV
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+         (A)   EXHIBITS AND FINANCIAL STATEMENT SCHEDULES:
+
+               (1)  FINANCIAL STATEMENTS
+
+               The following consolidated financial statements included on pages
+31 through 66 of the 2003 Annual Report are incorporated by reference:
+
+                  Consolidated Statements of Income - Years Ended December 31,
+                  2003, 2002, and 2001
+
+                  Consolidated Balance Sheets at December 31, 2003 and 2002
+
+                  Consolidated Statements of Cash Flows - Years Ended December
+                  31, 2003, 2002, and 2001
+
+                  Consolidated Statements of Stockholders' Equity - Years Ended
+                  December 31, 2003, 2002, and 2001
+
+                  Report of Ernst & Young LLP, Independent Auditors
+
+                  Notes to Consolidated Financial Statements
+
+
+                                       18
+<PAGE>
+
+
+
+               (2)  FINANCIAL STATEMENT SCHEDULES
+
+               All schedules set forth in the applicable accounting regulations
+of the Commission either are not required under the related instructions or are
+not applicable and, therefore, have been omitted.
+
+               (3)  EXHIBITS
+
+               A list of exhibits included in this Report or incorporated by
+reference is found in the Exhibit Index beginning on page 21 of this Report and
+incorporated by reference.
+
+         (B)   CURRENT REPORTS ON FORM 8-K AND FORM 8-K/A:
+
+                    DATE                     NATURE OF REPORT
+                    ----
+              December 19, 2003         Press Release, dated December 19, 2003,
+                                        regarding 2004 cost reduction plan,
+                                        fourth quarter 2003 special charges and
+                                        2004 outlook.
+
+              January 21, 2004          Press Release, dated January 21, 2004,
+                                        regarding fourth quarter 2003 results of
+                                        operations and financial condition.
+
+              February 17, 2004         Press Release, dated February 17, 2004,
+                                        announcing an agreement to acquire the
+                                        assets of J&L Specialty Steel, LLC and
+                                        related Asset Purchase Agreement.
+
+              February 17, 2004         Amends and restates in its entirety the
+                                        Report on Form 8-K filed earlier on
+                                        February 17, 2004, regarding the Press
+                                        Release, dated February 17, 2004,
+                                        announcing an agreement to acquire the
+                                        assets of J&L Specialty Steel, LLC and
+                                        related Asset Purchase Agreement.
+
+              March 11, 2004            Press Release, dated March 11, 2004,
+                                        announcing an unfavorable jury verdict
+                                        in litigation between TDY Industries,
+                                        Inc., an ATI subsidiary, and the San
+                                        Diego Unified Port District concerning a
+                                        lease of property in San Diego, CA.
+
+
+
+                                       19
+<PAGE>
+
+
+
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                        ALLEGHENY TECHNOLOGIES INCORPORATED
+
+Date:  March 15, 2004                   By        /s/ L. Patrick Hassey
+                                           -------------------------------------
+                                                     L. Patrick Hassey
+                                           President and Chief Executive Officer
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and as of the 15 day of March, 2004.
+
+
+      /s/ L. Patrick Hassey                  /s/ Richard J. Harshman
+--------------------------------      --------------------------------------
+        L. Patrick Hassey                       Richard J. Harshman
+ President and Chief Executive           Executive Vice President, Finance
+      Officer and Director                  and Chief Financial Officer
+                                           (Principal Financial Officer)
+
+                                                 /s/ Dale G. Reid
+                                      --------------------------------------
+                                                   Dale G. Reid
+                                            Vice President, Controller,
+                                      Chief Accounting Officer and Treasurer
+                                          (Principal Accounting Officer)
+
+      /s/ Robert P. Bozzone                   /s/ Paul S. Brentlinger
+--------------------------------      --------------------------------------
+        Robert P. Bozzone                       Paul S. Brentlinger
+            Chairman                                 Director
+
+      /s/ Frank V. Cahouet                      /s/ Diane C. Creel
+--------------------------------      --------------------------------------
+        Frank V. Cahouet                          Diane C. Creel
+            Director                                 Director
+
+       /s/ James C. Diggs                      /s/ C. Fred Fetterolf
+--------------------------------      --------------------------------------
+         James C. Diggs                          C. Fred Fetterolf
+            Director                                 Director
+
+     /s/ W. Craig McClelland                   /s/ William G. Ouchi
+--------------------------------      --------------------------------------
+       W. Craig McClelland                       William G. Ouchi
+            Director                                 Director
+
+   /s/ Charles J. Queenan, Jr.                   /s/ James E. Rohr
+--------------------------------      --------------------------------------
+     Charles J. Queenan, Jr.                       James E. Rohr
+            Director                                 Director
+
+
+
+
+                                       20
+<PAGE>
+
+
+                                  EXHIBIT INDEX
+
+EXHIBIT
+  NO.                            DESCRIPTION
+-------                          -----------
+
+  2.1    Asset Purchase Agreement, dated February 16, 2004, by and among J&L
+         Specialty Steel, LLC, Arcelor S.A., Jewel Acquisition LLC, and
+         Allegheny Ludlum Corporation (incorporated by reference to Exhibit 99.2
+         to the Registrant's Report on Form 8-K/A filed on February 17, 2004).
+
+  3.1    Certificate of Incorporation of Allegheny Technologies Incorporated, as
+         amended, (incorporated by reference to Exhibit 3.1 to the Registrant's
+         Report on Form 10-K for the year ended December 31, 1999 (File No.
+         1-12001)).
+
+  3.2    Amended and Restated Bylaws of Allegheny Technologies Incorporated
+         (incorporated by reference to Exhibit 3.2 to the Registrant's Report on
+         Form 10-K for the year ended December 31, 1998 (File No. 1-12001)).
+
+  4.1    Revolving Credit and Security Agreement dated June 13, 2003
+         (incorporated by reference to Exhibit 99.1 to the Registrant's Report
+         on Form 8-K dated June 19, 2003 (File No. 1-12001)).
+
+  4.2    Indenture dated as of December 18, 2001 between Allegheny Technologies
+         Incorporated and The Bank of New York, as trustee, relating to
+         Allegheny Technologies Incorporated 8.375% Notes due 2011 (incorporated
+         by reference to Exhibit 4.2 to the Registrant's Report on Form 10-K for
+         the year ended December 31, 2001 (File No. 1-12001)).
+
+  4.3    Form of 8.375% Notes due 2011 (included as part of Exhibit 4.2).
+
+  4.4    Indenture dated as of December 15, 1995 between Allegheny Ludlum
+         Corporation and The Chase Manhattan Bank (National Association), as
+         trustee (relating to Allegheny Ludlum Corporation's 6.95% Debentures
+         due 2025) (incorporated by reference to Exhibit 4(a) to Allegheny
+         Ludlum Corporation's Report on Form 10-K for the year ended December
+         31, 1995 (File No. 1-9498)), and First Supplemental Indenture by and
+         among Allegheny Technologies Incorporated, Allegheny Ludlum Corporation
+         and The Chase Manhattan Bank (National Association), as Trustee, dated
+         as of August 15, 1996 (incorporated by reference to Exhibit 4.1 to
+         Registrant's Current Report on Form 8-K dated August 15, 1996 (File No.
+         1-12001)).
+
+  4.5    Rights Agreement dated March 12, 1998, including Certificate of
+         Designation for Series A Junior Participating Preferred Stock as filed
+         with the State of Delaware on March 13, 1998 (incorporated by reference
+         to Exhibit 1 to the Registrant's Current report on Form 8-K dated March
+         12, 1998 (File No. 1-12001)).
+
+ 10.1    Allegheny Technologies Incorporated 1996 Incentive Plan (incorporated
+         by reference to Exhibit 10.1 to the Registrant's Report on Form 10-K
+         for the year ended December 31, 1997 (File No. 1-12001)).*
+
+ 10.2    Allegheny Technologies Incorporated 1996 Non-Employee Director Stock
+         Compensation Plan, as amended December 17, 1998 (incorporated by
+         reference to Exhibit 10.4 to the Registrant's Report on Form 10-K for
+         the year ended December 31, 1998 (File No. 1-12001)).*
+
+
+                                       21
+<PAGE>
+
+ 10.3    Allegheny Technologies Incorporated Fee Continuation Plan for
+         Non-Employee Directors (incorporated by reference to Exhibit 10.4 to
+         the Company's Report on Form 10-K for the year ended December 31, 1997
+         (File No. 1-12001)).*
+
+ 10.4    Supplemental Pension Plan for Certain Key Employees of Allegheny
+         Technologies Incorporated and its subsidiaries (formerly known as the
+         Allegheny Ludlum Corporation Key Man Salary Continuation Plan)
+         (incorporated by reference to Exhibit 10.7 to the Company's Report on
+         Form 10-K for the year ended December 31, 1997 (File No. 1-12001)).*
+
+ 10.5    Allegheny Technologies Incorporated Benefit Restoration Plan, as
+         amended (incorporated by reference to Exhibit 10.8 to the Registrant's
+         Report on Form 10-K for the year ended December 31, 1999 (File No.
+         1-12001)).*
+
+ 10.6    Allegheny Ludlum Corporation 1987 Stock Option Incentive Plan (as
+         amended and restated) (incorporated by reference to Exhibit 10(f) to
+         Allegheny Ludlum Corporation's Report on Form 10-K for the year ended
+         December 31, 1995 (File No. 1-9498)).*
+
+ 10.7    Teledyne, Inc. 1990 Stock Option Plan (incorporated by reference to
+         Exhibit 10 to Teledyne, Inc.'s Report on Form 10-K for the year ended
+         December 31, 1990 (File No. 1-5212)).*
+
+ 10.8    Teledyne, Inc. 1995 Non-Employee Director Stock Option Plan
+         (incorporated by reference to Exhibit A to Teledyne, Inc.'s 1995 proxy
+         statement (File No. 1-5212)).*
+
+ 10.9    Employment Agreement dated August 26, 2003 between Allegheny
+         Technologies Incorporated and L. Patrick Hassey (incorporated by
+         reference to Exhibit 10.1 to the Registrant's Report on Form 10-Q dated
+         November 4, 2003 (File No. 1-12001)).*
+
+ 10.10   Employment Agreement dated July 15, 1996 between Allegheny Technologies
+         Incorporated and Jon D. Walton (incorporated by reference to Exhibit
+         10.5 to the Company's Registration Statement on Form S-4 (No.
+         333-8235)).*
+
+ 10.11   Amendment to the Amended and Restated Change in Control Severance
+         Agreement between James L. Murdy, dated as of September 30, 2003 (filed
+         herewith).*
+
+ 10.12   Form of Restricted Stock Agreement dated May 15, 2003 (filed
+         herewith).*
+
+ 10.13   Form of Amended and Restated Change in Control Severance Agreement
+         (Senior Management)(incorporated by reference to Exhibit 10.17 to the
+         Registrant's Report on Form 10-K for the year ended December 31, 2001
+         (File No. 1-12001)).*
+
+ 10.14   Tax Sharing and Indemnification Agreement dated November 29, 1999
+         between Allegheny Technologies Incorporated and Teledyne Technologies
+         (incorporated by reference to Exhibit 10.25 to the Registrant's Report
+         on Form 10-K for the year ended December 31, 1999 (File No. 1-12001)).
+
+
+                                       22
+<PAGE>
+
+ 10.15   Tax Sharing and Indemnification Agreement dated November 29, 1999
+         between Allegheny Technologies Incorporated and Teledyne Technologies
+         Incorporated (incorporated by reference to Exhibit 10.26 to the
+         Registrant's Report on Form 10-K for the year ended December 31, 1999
+         (File No. 1-12001)).
+
+ 10.16   Allegheny Technologies Incorporated Executive Deferred Compensation
+         Plan, as amended (incorporated by reference to Exhibit 10.27 to the
+         Registrant's Report on Form 10-K for the year ended December 31, 2000
+         (File No. 1-12001)).*
+
+ 10.17   Allegheny Technologies Incorporated 2000 Incentive Plan (incorporated
+         by reference to Exhibit 10.30 to the Registrant's Report on Form 10-K
+         for the year ended December 31, 1999 (File No. 1-12001)).*
+
+ 10.18   Total Shareholder Return Incentive Compensation Program effective
+         January 1, 2002 (incorporated by reference to Exhibit 10.30 to the
+         Registrant's Report on Form 10-K for the year ended December 31, 2002
+         (File No. 1-12001)).*
+
+ 10.19   Total Shareholder Return Incentive Compensation Program effective
+         January 1, 2003 (filed herewith).*
+
+ 10.20   Amendment to the Allegheny Technologies Incorporated Pension Plan
+         Amendment effective January 1, 2003 (filed herewith).*
+
+ 13.1    Pages 9 through that part of page 68 referencing financial data,
+         included in the Annual Report of Allegheny Technologies Incorporated
+         for the year ended December 31, 2003 (filed herewith).
+
+ 21.1    Subsidiaries of the Registrant (filed herewith).
+
+ 23.1    Consent of Ernst & Young LLP (filed herewith).
+
+ 31.1    Certification of Chief Executive Officer required by Securities and
+         Exchange Commission Rule 13a - 14(a) or 15d - 14(a) (filed herewith).
+
+ 31.2    Certification of Chief Financial Officer required by Securities and
+         Exchange Commission Rule 13a - 14(a) or 15d - 14(a) (filed herewith).
+
+ 32.1    Certification pursuant to 18 U.S.C. Section 1350 (filed herewith).
+
+
+* Management contract or compensatory plan or arrangement required to be filed
+  as an Exhibit to this Report.
+
+Certain instruments defining the rights of holders of long-term debt of the
+Company and its subsidiaries have been omitted from the Exhibits in accordance
+with Item 601(b)(4)(iii) of Regulation S-K. A copy of any omitted document will
+be furnished to the Commission upon request.
+
+
+
+                                       23
+
+
+</TEXT>
+</DOCUMENT>

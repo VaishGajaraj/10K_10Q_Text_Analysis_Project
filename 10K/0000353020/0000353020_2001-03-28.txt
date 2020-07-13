@@ -1,0 +1,1169 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c60563e10-k.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>   1
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+(Mark One)
+[X]                  ANNUAL REPORT PURSUANT TO SECTION 13
+                 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   For the fiscal year ended December 31, 2000
+
+                                       OR
+
+[ ]                TRANSITION REPORT PURSUANT TO SECTION
+               13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+          For the transition period from              to
+                                         ------------    --------------
+
+                         Commission file number 0-10786
+
+                          INSITUFORM TECHNOLOGIES, INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+         DELAWARE                                        13-3032158
+------------------------------------        ------------------------------------
+    (State or other jurisdiction of         (I.R.S. Employer Identification No.)
+    incorporation or organization)
+
+         702 SPIRIT 40 PARK DRIVE
+         CHESTERFIELD, MISSOURI                              63005
+----------------------------------------                 --------------
+(Address of principal executive offices)                   (Zip Code)
+
+Registrant's telephone number, including area code:       636-530-8000
+                                                         ------------------
+
+Securities registered pursuant to Section 12(b) of the Act:      NONE
+                                                            ----------------
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                      CLASS A COMMON SHARES, $.01 PAR VALUE
+                      -------------------------------------
+                                (Title of class)
+
+         Indicate by a check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period as the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                      Yes [X]                   No [ ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K (Section 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by reference in Part III
+of this Form 10-K or any amendment to this Form 10-K. [ ]
+
+
+<PAGE>   2
+
+         State the aggregate market value of the voting and non-voting stock
+held by non-affiliates of the registrant. The aggregate market value shall be
+computed by reference to the price at which the common stock was sold, or the
+average bid and asked prices of such common equity, as of a specified date
+within 60 days prior to the date of filing.
+
+<TABLE>
+<S>                                                                             <C>
+         Aggregate market value as of March 15, 2001 . . . . . . . . . . . . .  . . .$949,139,444
+
+         Indicate the number of shares outstanding of each of the registrant's
+classes of common stock as of the latest practicable date.
+
+         Class A Common Shares, $.01 par value, as of March 15, 2001  . . . . . 26,830,797 shares
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       2
+
+
+
+<PAGE>   3
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+         List hereunder the documents, all or portions of which are incorporated
+by reference herein, and the part of the Form 10-K into which the document is
+incorporated:
+
+          --   Proxy Statement to be filed with respect to the 2000 Annual
+               Meeting of Stockholders: Part III
+          --   Portions of 2000 Annual Report to Stockholders: Part II
+
+
+                                     PART I
+
+Item 1.  Business
+
+GENERAL
+
+         Insituform Technologies, Inc. (the "Company") is a worldwide company
+specializing in the use of trenchless technologies to rehabilitate, replace,
+maintain and install underground pipes. The company uses a variety of trenchless
+technologies. The Insituform(R) cured-in-place pipe process (the "Insituform
+Process") contributed approximately 74% of the Company's revenues during the
+Company's most recent fiscal year.
+
+         In February 2001, the Company acquired Kinsel Industries, Inc.
+("Kinsel"), a trans-regional provider of pipebursting and other sewer
+rehabilitation services. In 2000, Kinsel had revenues of approximately $50
+million from water and sewer work. In addition to trenchless pipe rehabilitation
+services, it performs some open-cut pipe construction and erects water and sewer
+treatment plants. Kinsel generated an additional $50 million in 2000 from
+highway, bridge, airport and commercial construction. While valuable and
+profitable, these operations do not fit the Company's strategy. The Company
+expects to search for a possible buyer for these operations.
+
+         The Company was incorporated in Delaware in 1980 under the name
+Insituform of North America, Inc., in order to act as the exclusive licensee of
+the Insituform Process in most of the United States, and to license other
+companies to market and provide Insituform installation services in return for
+royalties and sales from materials manufactured by the Company.
+Contemporaneously with the consummation in 1992 of the Company's acquisition of
+its licensor, the name of the Company was changed to Insituform Technologies,
+Inc. As a result of its successive licensee acquisitions, the Company has
+further integrated its business to perform the entire process of manufacture and
+installation using its trenchless processes.
+
+         As used in this Annual Report on Form 10-K, the term the "Company"
+refers to the Company and, unless the context otherwise requires, its direct and
+indirect subsidiaries. For certain information concerning each of the Company's
+industry segments and domestic and foreign operations, see Note 14 of the Notes
+to the Company's Consolidated Financial Statements included in response to "Item
+14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K," which
+information is incorporated herein by reference.
+
+         This Annual Report on Form 10-K contains various forward looking
+statements and information that are based on information currently available to
+management and management's beliefs and assumptions. When used in this document,
+the words "anticipate," "estimate," "believes," "plans," and similar expressions
+are intended to identify forward-looking statements, but are not the exclusive
+means of identifying such statements. Such statements are subject to risks and
+uncertainties, and the Company's actual results may vary materially from those
+anticipated, estimated or projected due to a number of factors, including,
+without limitation, the competitive environment for the Company's products and
+
+
+
+                                       1
+
+<PAGE>   4
+
+services, the geographical distribution and mix of the Company's work, and other
+factors set forth in reports and other documents filed by the Company with the
+Securities and Exchange Commission from time to time.
+
+TECHNOLOGIES
+
+         Pipeline System Rehabilitation.
+
+                  The Insituform Process for the rehabilitation of sewers,
+         pipelines and other conduits utilizes a custom-manufactured tube, or
+         liner, made of a synthetic fiber. After the tube is saturated
+         (impregnated) with a thermosetting resin mixture, it is installed in
+         the host pipe by various processes and the resin is then hardened,
+         usually by heating it by various means, forming a new rigid pipe within
+         a pipe.
+
+                  The NuPipe(R) process (the "NuPipe Process") entails the
+         manufacture of a folded replacement pipe from a thermoplastic material
+         which is stored on a reel in a reduced shape. The pipe is heated at the
+         installation site in order to make it flexible enough to be inserted
+         into an existing conduit, pulled into place and then sequentially
+         expanded to match the existing conduit by internal heat and pressure
+         and progressive rounding, creating a tight fit against the conduit
+         being repaired.
+
+                  Pipebursting is a method for trenchless replacement of
+         deteriorated and/or undersized pipelines. A bursting head is propelled
+         through the pipeline, fracturing the host pipe and displacing the
+         fragments outwards allowing a new pipe to be pulled in, replacing the
+         old line. Pipes can be replaced size-for-size or upsized.
+
+                  Microtunneling is a remotely controlled, guided, pipe-jacking
+         process that provides continuous support to the excavation face and
+         does not require personnel entry into the tunnel. Applications are
+         typically for gravity sewers at depths greater than 15 feet, in
+         congested areas, where unstable ground conditions exist, where
+         construction is below the water table, or where contamination zones are
+         present.
+
+                  Sliplining basically entails pushing or pulling a new pipeline
+         into an old one. With segmented sliplining, short segments of pipe are
+         joined to form the new pipe. For gravity sewer rehabilitation, these
+         short segments can often be joined in a manhole or access structure,
+         eliminating the need for a large pulling pit. Typically the annular
+         space between the new pipe and host pipe is filled with a grout
+         material.
+
+                  See "Patents and Licenses" below for information concerning
+         the Company's Thermopipe(R) process (the "Thermopipe Process"), which
+         was not material to the Company's results of operations during the year
+         ended December 31, 2000.
+
+         Corrosion and Abrasion Protection. The Company's TiteLiner(R) process
+(the "TiteLiner Process") is a method of lining new and existing steel pipe with
+a corrosion and abrasion resistant polyethylene pipe.
+
+         Tunneling. Tunneling typically encompasses the construction of
+man-entry sized pipelines with access only through vertical shafts. Although
+tunnels can be hand-dug, typically a steerable, locally-controlled tunnel boring
+machine (TBM) is utilized. For pipe installation, the TBM leads a string of
+jacked pipes.
+
+                                       2
+
+<PAGE>   5
+
+REHABILITATION ACTIVITIES
+
+         The Company conducts its rehabilitation activities principally through
+direct installation and other construction operations performed directly and
+through wholly-owned and, in some cases, majority-owned, subsidiaries. In
+addition, in those areas of the world in which the Company's management believes
+it would not be desirable for the Company to exploit its trenchless processes
+directly, the Company has granted licenses to unaffiliated companies. As
+described under "Ownership Interests in Licensees" below, the Company has also
+entered into joint ventures from time to time to encourage additional royalties,
+sales of its products and exploitation of its trenchless rehabilitation
+processes.
+
+         The Company's principal rehabilitation activities in North America are
+conducted directly or through subsidiaries which hold the Insituform Process and
+NuPipe Process rights for substantially all of 44 of the 50 states, in addition
+to Puerto Rico, the U.S. Virgin Islands and Canada, and the rights to the
+Thermopipe Process. In February 2000, the Company acquired the operations of
+Insituform Metropolitan, Inc. and certain of its affiliates, the Company's
+licensees in the states of New York and New Jersey, and has integrated these
+territories into its rehabilitation activities. See "Item 7. Management's
+Discussion and Analysis of Financial Condition and Results of
+Operations-Liquidity and Capital Resources."
+
+         Outside of North America, the Company conducts Insituform Process or
+NuPipe Process direct installation operations through its subsidiaries in the
+United Kingdom, France, Spain, the Netherlands and Belgium. See "Item 7.
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations-Liquidity and Capital Resources." Through the operations of its
+French subsidiary, Video Injection S.A. ("Video Injection"), acquired in 1998,
+the Company utilizes multifunctional robotic devices developed by Video
+Injection in connection with the inspection and repair of pipelines.
+
+         North American rehabilitation operations are headquartered in
+Chesterfield, Missouri, with principal operations facilities maintained in
+approximately 13 locations geographically dispersed through all major regions.
+European operations are headquartered in Paris, France, with regional operations
+facilities located in the United Kingdom, the Netherlands, Spain and Mitry Mory,
+France.
+
+         The worldwide rights to the TiteLiner Process are applied by the
+Company through its United Pipeline System division, which offers corrosion and
+abrasion protection work worldwide.
+
+         The Company, through its subsidiary, Affholder, Inc., in addition to
+tunneling, offers a range of pipe system rehabilitation services.
+
+         The direct installation business of the Company is project-oriented,
+and contracts may be obtained through competitive bidding, usually requiring
+performance at a fixed price. The profitability of these operations to the
+Company depends upon the ability to estimate costs accurately, and such
+estimates may prove to be inaccurate as a result of unforeseen conditions or
+events. A substantial proportion of the work on any given project may be
+subcontracted out to third parties by the Company.
+
+         Proper trenchless installation requires certain expertise that is
+acquired on the job and through training, and, if an installation is improperly
+performed, the Company may be required to repair the defect, which may involve
+excavation. The Company, accordingly, has incurred significant costs in
+establishing new field installation crews, in training new operations personnel
+and in equipping its direct installation staff.
+
+         The Company generally invoices installation revenues on a
+percentage-of-completion basis. Under ordinary circumstances, collection from
+governmental agencies in the United States is made within 60 to
+
+
+                                       3
+
+<PAGE>   6
+
+90 days of billing. In most cases, five to 15 percent of the contract value is
+withheld by the owner until testing is completed or the warranty period has
+expired.
+
+         The Company is required to carry insurance and bonding in connection
+with certain direct installation projects and, accordingly, maintains
+comprehensive insurance policies, including workers' compensation, general and
+automobile liability, and property coverage. The Company believes that it
+presently maintains adequate insurance coverage for all direct installation
+activities. The Company has also arranged bonding capacity for bid, performance
+and payment bonds. Typically, the cost of a performance bond is less than
+approximately 1% of the contract value. The Company is required to indemnify
+surety companies for any payments the sureties are required to make under the
+bonds.
+
+         The Company's principal rehabilitation activities are conducted through
+the following majority-owned subsidiaries:
+
+<TABLE>
+<CAPTION>
+Subsidiary                                             Interest
+----------                                             --------
+<S>                                                    <C>
+Insituform France S.A.                                 99.99% of stock(1)
+United Pipeline de Mexico, S.A.                        55% of stock(2)
+Video Injection S.A.                                   79.8% of stock(3)
+</TABLE>
+
+-----------------
+
+(1)        The remaining interest is held by the subsidiary's principals.
+(2)        The remaining interest is held by a subsidiary of Produtos y
+           Servicios Miller de Mexico, S.A.
+(3)        The remaining interest is held by the subsidiary's principal
+           employees and is subject to purchase by the Company in September 2003
+           (or earlier in specified events).
+
+         The Company's rehabilitation activities also extend to the grant of
+licenses for the Insituform Process and the NuPipe Process, covering exclusive
+and non-exclusive territories, to licensees who provide pipeline repair and
+rehabilitation services throughout their respective licensed territories. The
+licenses generally grant to the licensee the right to utilize the know-how and
+practice the invention of the patent rights (where they exist) relating to the
+subject process, and to use the Company's copyrights and trademarks. At present,
+the Insituform Process is commercialized under license by an aggregate of 31
+unaffiliated licensees and sublicensees, and the NuPipe Process is
+commercialized under license by an aggregate of 5 unaffiliated licensees.
+
+         The Company's licensees generally are obligated to pay a royalty at a
+specified rate, which in many cases is subject to a minimum royalty payment.
+Domestic licensees are also obligated to pay specified royalty surcharges on
+their sales and contracts outside of their licensed territories, which are then
+paid by the Company to the domestic licensee in whose territory the installation
+was performed. Any improvements or modifications a licensee may make in the
+subject process during the term of the license agreement becomes the property of
+the Company or are licensed to the Company. Should a licensee fail to meet its
+royalty obligations or other material obligations, the Company may terminate the
+license. Many licensees (including the domestic licensees), upon prior notice to
+the Company, may also terminate the license for any reason. The Company may vary
+the agreement used with new licensees according to prevailing conditions.
+
+         The Company acts as licensor under arrangements relating to the use of
+the Thermopipe Process in Germany, on an exclusive basis, and in the United
+Kingdom, on a non-exclusive basis.
+
+         Insituform East, Incorporated ("East") holds six Sub-Licenses to the
+Insituform Process to operate in the States of Virginia, Delaware, Maryland,
+Ohio, a portion of Kentucky, West Virginia and the District of Columbia under
+the Company's exclusive license to the Insituform Process for entire United
+States.
+
+                                       4
+
+<PAGE>   7
+
+(The United States rights to the Insituform Process are owned by the Company's
+subsidiary, Insituform (Netherlands) B.V. ("Insituform Netherlands")). Pursuant
+to a July 1999 settlement agreement with East and several affiliates of East
+(the "Settlement Agreement"), Midsouth Partners, an affiliate of East, retains a
+limited, non-exclusive right in Midsouth Partners' former territory to utilize
+the Insituform Process and technology in the condition and state as commercially
+practiced on the date of settlement.
+
+         As previously reported by the Company and Insituform Netherlands
+initiated litigation against Insituform East and Midsouth Partners in Federal
+District Court for the Middle District of Tennessee (Civil Action No. 3-99-1130)
+and filed an Amended Complaint on June 13, 2000, alleging among other matters,
+trademark violations and a non-curable breach of the Settlement Agreement; and,
+seeking: (i) the right to terminate the grant of the limited license to Midsouth
+Partners under the Settlement Agreement; (ii) the affirmation of East's
+obligations to make royalty payments and cross-over royalty payments on work
+performed by East or any of its affiliates within the scope of the subject
+matter of East's Sub-Licenses outside East's licensed territories under East's
+Sub-Licenses; and (iii) a declaration that the Company is not obligated to
+continue payment of certain finder's fees to East.
+
+         Defendants have filed an answer and counterclaim denying the material
+allegations of the Company's amended complaint and seek, among other things,
+declarations and injunctions essentially the opposite of those requested by the
+Company. East has petitioned the Court for leave to amend its answer and
+counterclaims to include a defense of patent misuse which East contends
+prohibits the Company from enforcing the royalty provisions under its
+Sub-Licenses. The Court has not yet acted upon such motion for leave to amend
+and the Company has opposed such motion. Even if the Court were to grant East's
+motion for leave to amend, the Company believes it has substantial and
+meritorious defenses to East's allegations. In any event, should East prevail
+under its theories, or if the Company should fail under its theories, the result
+would not have a material adverse effect on the Company's financial performance
+or income.
+
+OWNERSHIP INTERESTS IN LICENSEES
+
+         The Company, through its subsidiary, Insituform Holdings (UK) Limited,
+holds one-half of the equity interest in Insituform Rohrsanierungstechniken
+GmbH, the Company's licensee of the Insituform and NuPipe Processes in Germany.
+The remaining interest is held by Per Aarsleff A/S, a Danish contractor ("Per
+Aarsleff"). The joint venture partners have rights of-first-refusal in the event
+either party determines to divest its interest.
+
+         The Company, through its subsidiary, INA Acquisition Corp., holds
+one-half of the equity interest in Italcontrolli-Insituform S.r.l., the
+Company's licensee of the Insituform Process in Italy. The remaining interest is
+held by Per Aarsleff. The joint venture partners have rights of-first-refusal in
+the event either party determines to divest its interest.
+
+         The Company holds a 50 percent joint venture interest in Ka-Te
+Insituform A.G., the Company's licensee of the Insituform Process in
+Switzerland, Liechtenstein and Voralberg, Austria. The remaining interest is
+held by Ka-Te Holding A.G.
+
+         The Company has also entered into several contractual joint ventures in
+order to develop joint bids on contracts for its direct installation business,
+and for tunneling operations. The Company continues to investigate opportunities
+for expanding its business through such arrangements.
+
+MARKETING
+
+         The Company has focused the marketing of its rehabilitation
+technologies primarily on the municipal wastewater markets worldwide, which the
+Company expects to remain the largest part of its
+
+
+                                       5
+
+<PAGE>   8
+
+business for the foreseeable future. The Company produces sales literature and
+presentations, participates in trade shows, conducts national advertising and
+executes other marketing programs for the Company's own sales force and those of
+unaffiliated licensees.
+
+         The Company intends that its marketing and sales processes will undergo
+significant changes during 2001, as the Company builds on its target market
+approach to selling. Historically, the Company's sales effort focused on larger
+cities, where it built customer relationships at the technical level. To help
+shape decision-making at every step, the Company intends to formalize its sales
+effort with a multi-level sales force structured around key accounts, focusing
+on engineers, consultants, administrators and elected officials, in addition to
+technical staff.
+
+         The Company's distribution efforts are implemented predominantly
+through the direct installation activities. See "Rehabilitation Activities"
+above for a description of the Company's licensing operations and "Ownership
+Interests in Licensees" for a description of investments in licensees. The
+Company's unaffiliated licensees are responsible for marketing and sales
+activities in their respective territories, and each has a staff for that
+purpose.
+
+         The Company offers its corrosion and abrasion protection technologies
+worldwide to line new and existing steel pipelines.
+
+         No customer accounted for more than ten percent of the Company's
+consolidated revenues during the years ended December 31, 2000, 1999 and 1998,
+respectively.
+
+BACKLOG
+
+         At December 31, 2000 and 1999, respectively, the Company recorded
+backlog from construction operations (excluding projects where the Company has
+been advised that it is the low bidder, but not formally awarded the contract)
+in the amounts of approximately $114.8 million and $132.3 million, respectively.
+The Company anticipates that substantially all construction backlog recorded at
+December 31, 2000 will be completed in 2001.
+
+PRODUCT DEVELOPMENT
+
+         The Company, by utilizing its own laboratories and test facilities and
+outside consulting organizations and academic institutions, continues to develop
+improvements to its proprietary processes, including the materials used and the
+methods of manufacturing and installing pipe. During the years ended December
+31, 2000, 1999 and 1998, the Company spent approximately $2.4 million, $2.4
+million and $2.2 million, respectively, on all research and development
+activities.
+
+MANUFACTURING AND SUPPLIERS
+
+         The Company maintains its principal North American liner manufacturing
+facility in Batesville, Mississippi, with an additional facility located in
+Memphis, Tennessee. In Europe, Insituform Linings Plc ("Linings"), a
+majority-owned subsidiary, manufactures and sells linings from its plant located
+in Wellingborough, United Kingdom. The Company holds a 75% interest in Linings
+and Per Aarsleff the remainder, which interests are subject to rights of first
+refusal held by the Company and Per Aarsleff in the event of any proposed
+disposition. The Company also maintains a liner manufacturing facility in
+Matsubuse, Japan.
+
+         Although raw materials used in the Company's Insituform products are
+typically available from multiple sources, the Company's historical practice has
+been to purchase materials from a limited number
+
+
+                                       6
+
+<PAGE>   9
+
+of suppliers. The Company maintains its own felt manufacturing facility
+contiguous to its Insitutube manufacturing facility in Batesville, and purchases
+substantially all of its fiber requirements from one source, alternate vendors
+of which the Company believes are readily available. Although it has worked with
+one vendor to develop a uniform and standard resin to source substantially all
+of its resin requirements in North America, the Company believes that resins are
+also readily available from a number of major corporations should there be a
+need for alternative resin sourcing. The Company believes that the sources of
+supply in connection with its Insituform operations are adequate for its needs.
+
+         The Company purchases the thermoplastic pipe to satisfy the substantial
+portion of its NuPipe requirements from an unaffiliated party. The Company
+believes that alternative sources of supply for its pipe requirements in
+connection with the NuPipe Process are available. If the Company were unable to
+obtain its NuPipe requirements under its existing third party arrangements, the
+Company might be adversely affected until arrangements with alternative sources
+are formulated.
+
+         Under its arrangements for the acquisition of the Thermopipe Process,
+the seller will to continue to manufacture and supply Thermopipe products to the
+Company through 2004.
+
+         The Company sells liners and related products utilized in the
+Insituform Process, and the thermoplastic pipe utilized in the application of
+the NuPipe Process, to its licensees, when appropriate pursuant to fixed-term
+supply contracts. Under the arrangements assumed in connection with the
+acquisition of the Thermopipe Process, the Company also furnishes Thermopipe
+products to its approved contractors and licensees.
+
+         The Company manufactures certain equipment used in its corrosion and
+abrasion protection operations, and, in connection with any licenses to
+unaffiliated parties, will sell such equipment to its licensees.
+
+PATENTS AND LICENSES
+
+         The Company currently holds 69 patents in the United States relating to
+the Insituform Process, the last of which to expire will remain in effect until
+2017, and has obtained patent protection in its principal overseas markets
+covering aspects of the Insituform Process. These patents cover certain aspects
+of the Insituform Process, including the process of reconstructing the pipeline.
+The Company's patent relating to the resin saturation process expired in
+February 2001. The patent relating to the manufacture of liners will expire in
+May 2001. Two of the significant patents relating to the Insituform Process,
+covering, respectively, the curing of a resin-impregnated tube and material
+aspects of the inversion process, have expired where previously in effect.
+
+         The specifications and/or rights granted in relation to each patent
+will vary from jurisdiction to jurisdiction. In addition, as a result of
+differences in the nature of the work performed and in the climate of the
+countries in which the work is carried out, not every licensee uses each patent,
+and the Company does not necessarily seek patent protection for all of its
+inventions in every jurisdiction in which it does business.
+
+         There can be no assurance that the validity of the Company's patents
+will not be successfully challenged or that they are sufficient to afford
+protection against another company utilizing a process similar to the Insituform
+Process. The Company's business could be adversely affected by increased
+competition in the event that one or more of the patents were adjudicated to be
+invalid or inadequate in scope to protect the Company's operations or upon
+expiration of the patents. The Company believes, however, that although the
+Company has relied on the strength and validity of its patents, the Company's
+long experience with the Insituform Process, its continued commitment to support
+and develop the
+
+                                       7
+
+
+<PAGE>   10
+
+Insituform Process, the strength of its trademarks, and its degree of market
+penetration, should enable the Company to continue to compete effectively in the
+pipeline rehabilitation market.
+
+         Twelve patents covering the NuPipe Process or the materials used in
+connection with the NuPipe Process have been issued in the United States. The
+Company holds patents in connection with the NuPipe Process in 17 other
+countries.
+
+         The Company believes that the success of its corrosion and abrasion
+protection business, operated through its United Pipeline Systems division, will
+depend primarily upon its proprietary know-how and its marketing and sales
+skills. The Company holds two patents issued in the United States and one patent
+outside of the United States relating to the Thermopipe Process for
+rehabilitating potable water and other aqueous fluid pipes. See "Item 7.
+Management's Discussion and Analysis of Financial Condition and Result of
+Operating-Liquidity and Capital Resources."
+
+         The Company holds the exclusive rights to use the patents, trademarks
+and know-how related to the Paltem-HL system, a process for rehabilitating
+pressure pipes, which includes the Paltem-Frepp system, for substantially all of
+North America and, on a non-exclusive basis, additional territories in the
+eastern hemisphere and Latin America. See "Government Regulation" below. Under
+the license, the Company is required to pay royalties at specified rates on
+installations and sales of liners. During the year ended December 31, 2000, the
+Company did not have any material operations under this license. The Company is
+renegotiating the terms of this license.
+
+COMPETITION
+
+         The pipeline reconstruction, rehabilitation and repair business is
+highly competitive, and the Company competes against many companies, some of
+which have far greater financial resources and experience than the Company.
+Accordingly, there can be no assurance as to the success of the Company's
+processes in competition with such companies and alternative technologies for
+pipeline rehabilitation.
+
+         In each of its rehabilitation markets, the Company currently faces
+competition from more conventional methods, including: (i) total replacement,
+which is the excavation and replacement of an entire section of pipe; (ii) point
+repair, which is the replacement of cracked or structurally failed sections of
+pipes by actual excavation and replacement; (iii) sliplining, which is the
+insertion of a smaller pipe within an existing deteriorated pipe; and (iv) the
+placement of gelatinous material, hydraulic cement, or other acceptable material
+in defective pipes to repair leaks and prevent infiltration in gravity sewers.
+
+         In addition, the Company faces competition from other trenchless
+processes throughout the world. In the United States, the Company faces
+competition from several cured-in-place processes and, outside of the United
+States, from additional cured-in-place processes currently in regional use. The
+Company also faces competition from several fold and formed thermoplastic
+processes. Several companies offer in-place polyethylene lining systems which
+compete with the Company's abrasion and corrosion protection technologies.
+
+         The Company's trenchless processes may also encounter competition from
+alternative trenchless approaches such as pipebursting and other methods.
+Kinsel, acquired by the Company in February 2001, employs the pipebursting,
+microtunneling and sliplining methods.
+
+         The Company's tunneling operation competes with utility contracting
+firms throughout North America.
+
+
+
+                                       8
+<PAGE>   11
+
+SEASONALITY
+
+         Although the Company's operations can be affected by severe weather,
+for the past five years seasonal variation in work performed has not had a
+material effect on the Company's consolidated results of operations.
+
+EMPLOYEES
+
+         As of December 31, 2000, the Company employed 1,771 individuals.
+Certain of the Company's contracting operations are parties to collective
+bargaining agreements covering an aggregate of 213 employees. The Company
+generally considers its relations with its employees to be good.
+
+GOVERNMENT REGULATION
+
+         The Company and its licensees are required to comply with all
+applicable U.S. federal, foreign, state and local statutes, regulations and
+ordinances. In addition, the Company's direct installation and other
+construction operations, and those of its licensees, may have to comply with
+relevant code specifications, permit requirements, and bonding and insurance
+requirements as well as with fire regulations relating to the storage, handling
+and transporting of flammable materials. The Company's manufacturing facilities,
+as well as its direct installation operations and those of its licensees, are
+subject to state and national environmental protection regulations, none of
+which presently has any material effect on the Company's capital expenditures,
+earnings or competitive position in connection with the Company's present
+business. However, although the Company's direct installation operations have
+established monitoring programs relating to the use of solvents, further
+restrictions could be imposed on the use of solvents or the thermosetting resins
+used in the Insituform Process. The Company believes that it is in material
+compliance with environmental laws and regulations applicable to it.
+
+         The use of both thermoplastics and thermosetting resin materials in
+contact with drinking water is strictly regulated in most countries. In the
+United States, a consortium led by NSF International ("NSF"), under arrangements
+with the United States Environmental Protection Agency (the "EPA"), establishes
+minimum requirements for the control of potential human health effects from
+substances added indirectly to water via contact with treatment, storage,
+transmission and distribution system components, by defining the maximum
+permissible concentration of materials which may be leached from such components
+into drinking water, and methods for testing them. In February 1996, the Paltem-
+HL and Frepp processes under license from Ashimori were certified by the NSF for
+use in drinking water systems. In April 1997, the Insituform PPL(R) liner was
+certified by the NSF for use in drinking water systems, followed in April 1999
+by NSF certification of the Insituform RPP(R) liner for such use. The Thermopipe
+product also has NSF approval. The NSF assumes no liability for use of any
+products, and the NSF's arrangements with the EPA do not constitute the EPA's
+endorsement of the NSF, the NSF's policies or its standards. Because of the need
+for dedicated equipment in connection with use of these products in drinking
+water applications, and the time required for the marketing process, the Company
+does not expect meaningful revenues from drinking water rehabilitation at least
+through 2001.
+
+EXECUTIVE OFFICERS
+
+         The executive officers of the Company, and their respective ages and
+positions with the Company, are as follows:
+
+                                       9
+
+
+<PAGE>   12
+
+<TABLE>
+<CAPTION>
+                                       Age at
+Name                               March 15, 2001     Position with the Company
+----                               --------------     -------------------------
+<S>                                <C>                <C>
+Anthony W. Hooper                        53           Chairman of the Board, President and Chief Executive Officer
+Robert W. Affholder                      65           Senior Executive Vice President
+Joseph A. White                          47           Vice President-Chief Financial Officer
+Carroll W. Slusher                       52           Vice President-North America
+Antoine Menard                           50           Vice President-Europe
+Thomas A. A. Cook(1)                     36           Vice President-General Counsel
+</TABLE>
+
+(1)      Mr. Cook became Vice President-General Counsel of the Company in
+September 2000.
+
+         Anthony W. Hooper has been Chairman of the Board of the Company since
+1997, and has been President of the Company since 1996. Prior to 1996, Mr.
+Hooper was Senior Vice President-Marketing and Technology of the Company.
+
+         Robert W. Affholder has been Senior Executive Vice President of the
+Company since 1996. From 1995 to 1996, Mr. Affholder was Senior Vice
+President-Chief Operating Officer of North American Contracting Operations of
+the Company. From 1994 until its acquisition by the Company in 1995, Mr.
+Affholder was President of Insituform Mid-America, Inc. ("IMA"), and was Vice
+Chairman of IMA from 1993 to 1995.
+
+         Joseph A. White has been Vice President and Chief Financial Officer of
+the Company since August 1999. From 1998 until joining the Company, Mr. White
+was Vice President and Chief Financial Officer of Key Plastics, an automotive
+parts manufacturer that filed for bankruptcy reorganization in March 2000. From
+1997 until 1998, Mr. White was Vice President- Finance (North America) for the
+Becker Group, a manufacturer of automotive interiors. From 1996 until 1997, Mr.
+White was Director of Finance in Asia of the Vickers Division of Aeroquip
+Vickers, a hydraulics supplier, where he held several other senior finance
+positions before 1996.
+
+         Carroll W. Slusher has been Vice President-North America of the Company
+since February 1999, having served as the Company's Divisional Vice
+President-North American Operations from 1998 until February 1999 and Director
+of North American Pipe Rehabilitation from 1997 to 1998.  From prior to
+1996 until joining the Company, Mr. Slusher was a regional manager with General
+Electric Company.
+
+         Antoine Menard has been Vice President-Europe of the Company since
+February 1999, having served as the Company's Managing Director-Europe from 1995
+until that date. Prior to joining the Company, Mr. Menard was a general manager
+with the French oil group TOTAL.
+
+         Thomas A. A. Cook has been Vice President and General Counsel of the
+Company since September 2000. Prior to joining the Company, Mr. Cook was a
+partner in the Corporate/Securities Department at the law firm of Blackwell
+Sanders Peper Martin LLP, and before June 1998, was with a predecessor firm
+(Peper Martin Jensen Maichel and Hetlage) in the Corporate/Securities
+Department.
+
+Item 2.  Properties
+
+         The Company's executive offices, located in Chesterfield, Missouri, a
+suburb of St. Louis, at 702 Spirit 40 Park Drive, are leased from an
+unaffiliated party through May 31, 2002. The Company owns its research and
+development facility in Chesterfield.
+
+
+
+                                       10
+
+<PAGE>   13
+
+         The Company maintains a liner fabrication facility and contiguous felt
+manufacturing facility in Batesville, Mississippi. The Company owns its
+Batesville facilities. The Company's manufacturing facilities in Memphis,
+Tennessee are located on land sub-leased from an unaffiliated entity for an
+initial term of 40 years expiring on December 31, 2020. Linings (a
+majority-owned subsidiary) owns certain premises comprising its liner
+manufacturing facility, located in Wellingborough, England. The Company leases
+additional manufacturing space in Matsubuse, Japan.
+
+         In support of its direct installation operations, the Company owns or
+leases facilities in the United States, Europe and Latin America.
+
+         The foregoing facilities are regarded by management as adequate for the
+current requirements of the Company's business.
+
+Item 3.  Legal Proceedings
+
+         The Company is involved in certain litigation incidental to the conduct
+of its business and affairs. Management does not believe that the outcome of any
+such litigation will have a material adverse effect on the financial condition
+or results of operations of the Company. See "Item 1. Business - Rehabilitation
+Activities."
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+         Not applicable.
+
+
+                                     PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters
+
+         (a) Certain information required by this item is incorporated by
+reference from the table "Selected Quarterly Financial Data (Unaudited)"
+contained in Note 16 of the "Notes to Consolidated Financial Statements" on page
+37 of the 2000 Annual Report to Stockholders (the "2000 Annual Report") and from
+"Price Range of Securities" on page 40 of the 2000 Annual Report.
+
+         Holders of Common Stock are entitled to receive dividends as and when
+they may be declared by the Company's Board of Directors. The Company has never
+paid a cash dividend on the Common Stock. The Company's present policy is to
+retain earnings to provide for the operation and expansion of its business.
+However, the Company's Board of Directors will review the Company's dividend
+policy from time to time and will consider the Company's earnings, financial
+condition, cash flows, financing agreements and other relevant factors in making
+determinations regarding future dividends, if any. Under the terms of certain
+debt arrangements to which the Company is a party, the Company is subject to
+certain limitations in paying dividends.
+
+         (b)      Not applicable.
+
+Item 6.  Selected Financial Data
+
+         Historical financial information is incorporated by reference from
+"Financial Highlights - Five Year Review" on page 2 of the 2000 Annual Report.
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operations
+
+                                       11
+
+
+<PAGE>   14
+
+         Information required by this item is incorporated by reference from
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" on pages 21 through 24 of the 2000 Annual Report.
+
+Item 7A.      Quantitative and Qualitative Disclosures about Market Risk
+
+         Information required by this item is incorporated by reference from the
+discussion under the heading "Market Risk" on page 24 of the 2000 Annual Report.
+
+Item 8.       Financial Statements and Supplementary Data
+
+         Information required by this item is incorporated by reference from
+"Consolidated Financial Statements" and "Notes to Consolidated Financial
+Statements" on pages 25 through 37 and from "Report of Independent Public
+Accountants" on page 38 of the 2000 Annual Report.
+
+Item 9.       Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+         Not applicable.
+
+
+                                    PART III
+
+Item 10. Directors and Executive Officers of the Registrant
+
+         For information concerning this item, see "Item 1. Business-Executive
+Officers" and the Proxy Statement to be filed with respect to the 2001 Annual
+Meeting of Stockholders (the "2001 Proxy Statement"), which information is
+incorporated herein by reference.
+
+Item 11. Executive Compensation
+
+         For information concerning this item, see the 2001 Proxy Statement,
+which information is incorporated herein by reference.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+         For information concerning this item, see the 2001 Proxy Statement,
+which information is incorporated herein by reference.
+
+Item 13. Certain Relationships and Related Transactions
+
+         For information concerning this item, see the 2001 Proxy Statement,
+which information is incorporated herein by reference.
+
+
+                                     PART IV
+
+Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+         (a)      1.       Financial Statements:
+
+
+
+
+                                       12
+
+<PAGE>   15
+         The following consolidated financial statements, related notes and
+independent auditors' report, contained in the 2000 Annual Report, are
+incorporated by reference into Item 8 of Part II of this report:
+
+<TABLE>
+<CAPTION>
+                                                                          PAGE(S) IN THE 2000
+                                                                             ANNUAL REPORT
+<S>                                                                       <C>
+Consolidated Statements of Income                                                  25
+Consolidated Balance Sheets                                                        26
+Consolidated Statements of Stockholders' Equity                                    27
+Consolidated Statements of Cash Flows                                              28
+Notes to Consolidated Financial Statements                                         29
+Segment Information                                                              36-37
+Geographic Data                                                                  36-37
+Selected Quarterly Consolidated Financial Data (Unaudited)                         37
+Report of Independent Public Accountants                                           38
+</TABLE>
+
+                  2.       Financial Statement Schedules:
+
+         No financial statement schedules are included herein because they are
+not required or are not applicable or the required information is contained in
+the consolidated financial statements or notes thereto.
+
+                  3.       Exhibits:
+
+         The exhibits required to be filed as part of this Annual Report on Form
+10-K are listed in the attached Index to Exhibits.
+
+         (b)      Current Reports on Form 8-K:  None
+
+
+
+
+
+                                       13
+
+<PAGE>   16
+
+                                POWER OF ATTORNEY
+
+         The registrant and each person whose signature appears below hereby
+appoint Anthony W. Hooper and Joseph A. White as attorneys-in-fact with full
+power of substitution, severally, to execute in the name and on behalf of the
+registrant and each such person, individually and in each capacity stated below,
+one or more amendments to the annual report which amendments may make such
+changes in the report as the attorney-in-fact acting deems appropriate and to
+file any such amendment to the report with the Securities and Exchange
+Commission.
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+Dated:  March 28, 2001            INSITUFORM TECHNOLOGIES, INC.
+
+
+                                   By:      /s/ Anthony W. Hooper
+                                        ----------------------------------------
+                                           President and Chief Executive Officer
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated:
+
+<TABLE>
+<CAPTION>
+Signature                                                 Title                              Date
+<S>                                               <C>                                   <C>
+
+         /s/ Anthony W. Hooper                                                          March 28, 2001
+--------------------------------------------
+Anthony W. Hooper                                 Principal Executive Officer and
+                                                  Director
+
+
+         /s/ Joseph A. White                                                            March 28, 2001
+--------------------------------------------
+Joseph A. White                                   Principal Financial and Accounting
+                                                  Officer
+
+
+         /s/ Robert W. Affholder                                                        March 28, 2001
+--------------------------------------------
+Robert W. Affholder                               Director
+
+
+         /s/ Paul A. Biddelman                                                          March 28, 2001
+--------------------------------------------
+Paul A. Biddelman                                 Director
+
+
+         /s/ Stephen P. Cortinovis                                                      March 28, 2001
+------------------------------------
+Stephen P. Cortinovis                             Director
+</TABLE>
+
+
+<PAGE>   17
+
+
+<TABLE>
+<S>                                               <C>                                  <C>
+
+         /s/ Juanita H. Hinshaw                                                         March 28, 2001
+--------------------------------------------
+Juanita H. Hinshaw                                Director
+
+
+         /s/ Thomas Kalishman                                                           March 28, 2001
+--------------------------------------------
+Thomas Kalishman                                  Director
+
+
+         /s/ Sheldon Weinig                                                             March 28, 2001
+--------------------------------------------
+Sheldon Weinig                                    Director
+
+
+         /s/ Alfred L. Woods                                                            March 28, 2001
+--------------------------------------------
+Alfred L. Woods                                   Director
+</TABLE>
+
+
+
+<PAGE>   18
+
+                            INDEX TO EXHIBITS(1),(2)
+
+3.1      Restated Certificate of Incorporation, as amended, of the Company
+         (Incorporated by reference to Exhibit 3.1 to the Quarterly Report on
+         Form 10-Q for the quarter ended June 30, 2000).
+
+3.2      By-Laws of the Company, as amended.
+
+10.1     Multicurrency Credit Agreement dated as of March 30, 2000 between the
+         Company and Bank of America, N.A. (Incorporated by reference to Exhibit
+         10.1 to the Quarterly Report on Form 10-Q for the quarter ended March
+         31, 2000).
+
+10.2     Note Purchase Agreements (the "Note Purchase Agreements") dated as of
+         February 14, 1997 among the Company and, respectively, each of the
+         lenders (the "Noteholders") listed therein (Incorporated by reference
+         to Exhibit 10.6 to the Annual Report on Form 10-K for the year ended
+         December 31, 1996), as amended by First Amendment to the Note Purchase
+         Agreements dated as of August 20, 1997 (Incorporated by reference to
+         Exhibit 10(a) to the Quarterly Report on Form 10-Q for the quarter
+         ended September 30, 1997), as further amended by Second Amendment dated
+         as of March 30, 2000 to Note Purchase Agreements (Incorporated by
+         reference to Exhibit 10.3 to the Quarterly Report on Form 10-Q for the
+         quarter ended March 31, 2000).
+
+10.3     Master Guaranty dated as of March 30, 2000 by the Company and those
+         subsidiaries of the Company named therein (Incorporated by reference to
+         Exhibit 10.2 to the Quarterly Report on Form 10-Q for the quarter ended
+         March 31, 2000).
+
+10.4     Amended and Restated Intercreditor Agreement dated as of March 30, 2000
+         among Bank of America, N.A. and the Noteholders (Incorporated by
+         reference to Exhibit 10.4 to the Quarterly Report on Form 10-Q for the
+         quarter ended March 31, 2000)
+
+10.5     Employment Letter dated July 15, 1998 between the Company and Anthony
+         W. Hooper (Incorporated by reference to Exhibit 10.1 to the Quarterly
+         Report on Form 10-Q for the quarter ended September 30, 1998).(3)
+
+10.6     Employment Agreement dated October 25, 1995 between the Company and
+         Robert W. Affholder (Incorporated by reference to Exhibit 2(d) to the
+         Current Report on Form 8-K dated October 25, 1995), as amended by
+         Amendment No. 1 dated as of October 25, 1998 to Employment Agreement
+         (Incorporated by reference to Exhibit 10.9 to the Annual Report on Form
+         10-K for the year ended December 31, 1998).(3)
+
+10.7     Letter agreement dated as of February 9, 1999 between the Company and
+         Thomas N. Kalishman (Incorporated by reference to Exhibit 10.10 to the
+         Annual Report on Form 10-K for the year ended December 31, 1998).(3)
+
+----------------------
+(1) The Company's current, quarterly and annual reports are filed with the
+Securities and Exchange Commission under file no. 0-10786.
+(2) Pursuant to Reg. Section 229.601, does not include certain instruments with
+respect to long-term debt of the Company and its consolidated subsidiaries not
+exceeding 10% of the total assets of the Company and its subsidiaries on a
+consolidated basis. The Company undertakes to furnish to the Securities and
+Exchange Commission, upon request, a copy of all long-term debt instruments not
+filed herewith.
+(3) Management contract or compensatory plan or arrangement.
+
+
+
+<PAGE>   19
+
+10.8     Severance Agreement dated as of March 14, 1999 between the Company and
+         Robert L. Kelley (Incorporated by reference to Exhibit 10.14 to the
+         Annual Report on Form 10-K for the year ended December 31, 1998).(3)
+
+10.9     Employment letter dated February 10, 1997 between the Company and
+         Carroll Slusher (Incorporated by reference to Exhibit 10.9 to the
+         Annual Report on Form 10-K for the year ended December 31, 1999).(3)
+
+10.10    Employment Agreement dated February 1, 2001 between Insituform Europe
+         and Antoine Menard.(3)
+
+10.11    Equipment Lease dated as of October 10, 1989 between A-Y-K-E
+         Partnership and Affholder, Inc. (Incorporated by reference to Exhibit
+         10.20 to the Annual Report on Form 10-K for the year ended December 31,
+         1995).
+
+10.12    1992 Employee Stock Option Plan of the Company (Incorporated by
+         reference to Exhibit 10.11 to the Annual Report on Form 10-K for the
+         year ended December 31, 1999).(3)
+
+10.13    1992 Director Stock Option Plan of the Company (Incorporated by
+         reference to Exhibit 10.12 to the Annual Report on Form 10-K for the
+         year ended December 31, 1999).(3)
+
+10.14    Insituform Mid-America, Inc. Stock Option Plan, as amended
+         (Incorporated by reference to Exhibit 4(i) to the Registration
+         Statement on Form S-8 No. 33-63953).(3)
+
+10.15    Senior Management Voluntary Deferred Compensation Plan of the Company
+         (Incorporated by reference to Exhibit 10.19 to the Annual Report on
+         Form 10-K for the year ended December 31, 1998), as amended by First
+         Amendment thereto dated as of October 25, 2000.(3)
+
+10.16    Form of Directors' Indemnification Agreement (Incorporated by reference
+         to Exhibit 10.47 to the Annual Report on Form 10-K for the year ended
+         December 31, 1988).(3)
+
+13(a)    Portions of the Registrant's 2000 Annual Report to Stockholders
+         incorporated by reference in this Annual Report on Form 10-K.
+
+21       Subsidiaries of the Company.
+
+23       Consent of Arthur Andersen LLP.
+
+24       Power of Attorney (See "Power of Attorney" in the Annual Report on
+         Form 10-K).
+
+</TEXT>
+</DOCUMENT>

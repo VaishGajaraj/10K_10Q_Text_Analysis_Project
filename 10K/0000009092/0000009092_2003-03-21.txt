@@ -1,0 +1,2614 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c75378e10vk.txt
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<PAGE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-K
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF
+                                      1934
+                  FOR THE FISCAL YEAR ENDED DECEMBER 31, 2002
+
+                            ------------------------
+
+                               BADGER METER, INC.
+
+                            4545 W. BROWN DEER ROAD
+                           MILWAUKEE, WISCONSIN 53223
+                                 (414) 355-0400
+                            A WISCONSIN CORPORATION
+                   IRS EMPLOYER IDENTIFICATION NO. 39-0143280
+                           COMMISSION FILE NO. 1-6706
+
+     The company has the following classes of securities registered pursuant to
+Section 12(b) of the Act:
+
+<Table>
+    <S>                                          <C>
+                                                 Name of each exchange
+    Title of class:                              on which registered:
+    Common Stock                                 American Stock Exchange
+    Common Share Purchase Rights                 American Stock Exchange
+</Table>
+
+     The company does not have any securities registered pursuant to Section
+12(g) of the Act.
+
+     The company has filed all reports required to be filed by Section 13 or
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months, and
+has been subject to such filing requirements for the past 90 days.
+
+     The company includes a disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K in the definitive Proxy Statement incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K.
+
+     The company is an accelerated filer (as defined in Rule 12b-2 of the Act).
+
+     The aggregate market value of the Common Stock held by non-affiliates of
+the company as of February 28, 2003 was approximately $79,604,415. For purposes
+of this calculation only, (i) shares of Common Stock are deemed to have a market
+value of $27.50 per share, the closing price of the Common Stock as reported on
+the American Stock Exchange on June 28, 2002, and (ii) each of the executive
+officers and directors is deemed to be an affiliate.
+
+     As of February 28, 2003, there were 3,234,711 shares of Common Stock
+outstanding.
+
+     Portions of the company's Proxy Statement for the Annual Meeting of
+Shareholders, which will be filed with the Securities and Exchange Commission
+under Regulation 14A within 120 days after the end of the registrant's fiscal
+year, are incorporated by reference from the definitive Proxy Statement.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+
+                                     PART I
+
+SPECIAL NOTE REGARDING FORWARD LOOKING STATEMENTS
+
+     Certain statements contained in this document, as well as other information
+provided from time to time by the company or its employees, may contain forward
+looking statements that involve risks and uncertainties that could cause actual
+results to differ materially from those in the forward looking statements. The
+words "anticipate," "believe," "estimate," "expect," "think," "should" and
+"objective" or similar expressions are intended to identify forward looking
+statements. The forward looking statements are based on the company's current
+views and assumptions and involve risks and uncertainties that include, among
+other things:
+
+     - the success or failure of new product offerings and acquisitions
+
+     - the actions and financial condition of competitors and alliance partners
+
+     - changes in competitive pricing and bids in the marketplace
+
+     - changes in domestic conditions, including housing starts
+
+     - changes in foreign economic conditions, including currency fluctuations
+
+     - changes in laws and regulations
+
+     - changes in customer demand and fluctuations in the prices of and
+       availability of purchased raw materials and parts.
+
+     Some or all of these factors are beyond the company's control.
+Shareholders, potential investors and other readers are urged to consider these
+factors carefully in evaluating the forward looking statements and are cautioned
+not to place undue reliance on such forward looking statements. The forward
+looking statements made herein are made only as of the date of this document and
+the company undertakes no obligation to publicly update such forward looking
+statements to reflect subsequent events or circumstances.
+
+ITEM 1.  BUSINESS
+
+     Badger Meter, Inc. (the "company") is a leading marketer and manufacturer
+of products, and a provider of services, using flow measurement and control
+technologies serving markets worldwide. The company was incorporated in 1905.
+
+AVAILABLE INFORMATION
+
+     The company's Internet address is http://www.badgermeter.com. The company
+makes available free of charge (other than an investor's own Internet access
+charges) through its Internet website its Annual Report on Form 10-K, quarterly
+reports on Form 10-Q, current reports on Form 8-K, and amendments to those
+reports, on the same day they are electronically filed with, or furnished to,
+the Securities and Exchange Commission. The company is not including the
+information contained on or available through its website as a part of, or
+incorporating such information by reference into, this Annual Report on Form
+10-K.
+
+MARKETS AND PRODUCTS
+
+     Badger Meter is a leading marketer and manufacturer of products using flow
+measurement and control technologies developed both internally and with other
+technology companies. Its products are used to measure and control the flow of
+liquids in a variety of applications. The company has five primary worldwide
+product lines. Two product lines, residential and commercial water meters (with
+various meter reading technology systems), are generally sold to water
+utilities. The other three lines are called industrial products and include
+automotive fluid meters and systems, small precision valves and industrial
+process meters (with related accessories and instrumentation).
+
+     Water meters and related systems provide the majority of the company's
+sales. A "water meter system" generally consists of a water meter, a register
+(some with a digital interface technology for communicating the
+
+                                        1
+<PAGE>
+
+reading), packaging and the monitoring or computerized management system used to
+collect and relay the reading. Badger Meter's strategy is to solve customers'
+metering needs with its proprietary meter reading systems or other systems
+available through alliances within the marketplace. In both alternatives, the
+company provides the meter that generates a mechanical signal and the device
+that converts the signal into a digital form. That signal may then be read by
+either a proprietary meter reading system or systems developed by other
+technology companies.
+
+     The company's products are primarily manufactured and assembled in the
+company's Milwaukee, Wisconsin; Tulsa, Oklahoma; Rio Rico, Arizona;
+Mattapoisett, Massachusetts and Brno, Czech Republic facilities. Products are
+also assembled in the company's Nogales, Mexico; Stuttgart, Germany and Nancy,
+France facilities.
+
+     The company's products are sold throughout the world through various
+distribution channels including direct sales representatives, distributors and
+independent sales representatives. There is a moderate seasonal impact on sales,
+primarily relating to slightly higher sales of certain utility products during
+the spring and summer months. No single customer accounts for more than 10% of
+the company's sales.
+
+COMPETITION
+
+     There are several competitors in each of the markets in which the company
+sells its products, and the competition varies from moderate to intense. Major
+competitors include Invensys, Inc., Neptune Technology Group, Inc. and AMCO
+Water Metering Systems (formerly ABB-Kent Meters, Inc.). A number of the
+company's competitors in certain markets have greater financial resources. The
+company believes it currently provides the leading technology in certain types
+of automated and automatic water meter systems and small, high-precision valves.
+As a result of significant research and development activities, the company
+enjoys favorable patent positions for several of its products.
+
+BACKLOG
+
+     The dollar amount of the company's total backlog of unshipped orders at
+December 31, 2002 and 2001 was $21,200,000 and $18,100,000, respectively.
+Backlog is comprised of firm orders and signed contractual commitments. The
+company expects to ship nearly all of the December 31, 2002 backlog in 2003.
+
+RAW MATERIALS
+
+     Raw materials used in the manufacture of the company's products include
+metal or alloys (such as bronze, aluminum, stainless steel, cast iron, brass and
+stellite), plastic resins, glass, microprocessors and other electronic
+subassemblies and components. There are multiple sources for these raw
+materials, but the company purchases some bronze castings and certain electronic
+subassemblies from single suppliers. The company believes these items would be
+available from other sources, but that the loss of its current suppliers would
+result in higher cost of materials, delivery delays, short-term increases in
+inventory and higher quality control costs. The company carries business
+interruption insurance on key suppliers. Prices may also be affected by world
+commodity markets.
+
+RESEARCH AND DEVELOPMENT
+
+     Expenditures for research and development activities relating to the
+development of new products, the improvement of existing products and
+manufacturing process improvements were $5,658,000 in 2002, compared to
+$5,422,000 during 2001, and $6,562,000 during 2000. Research and development
+activities are primarily sponsored by the company. The company also engages in
+some joint research and development with other companies.
+
+                                        2
+<PAGE>
+
+INTANGIBLE ASSETS
+
+     The company owns or controls many patents, trademarks, trade names and
+license agreements in the United States and other countries that relate to its
+products and technologies. No single patent, trademark, trade name or license is
+material to the company's business as a whole.
+
+ENVIRONMENTAL PROTECTION
+
+     The company is subject to contingencies relative to compliance with
+federal, state and local provisions and regulations relating to the protection
+of the environment. Currently, the company is in the process of resolving an
+issue relative to a landfill site. The company does not believe the ultimate
+resolution of this issue will have a material adverse effect on the company's
+financial position or results of operations, either from a cash flow perspective
+or on the financial statements as a whole. Expenditures during 2002 and 2001 for
+compliance with environmental control provisions and regulations were not
+material and the company does not anticipate any material future expenditures.
+
+     To ensure compliance with environmental regulations at company sites, the
+Board of Directors has chartered the Audit and Compliance Committee to monitor
+the company's compliance with various regulatory authorities with regard to
+environmental matters, among other things.
+
+EMPLOYEES
+
+     The company and its subsidiaries employed 1,025 persons at December 31,
+2002, of which 231 employees are covered by a collective bargaining agreement
+with District 10 of the International Association of Machinists. The company is
+currently operating under a four-year contract with the union, which expires
+October 31, 2004. The company believes it has good relations with the union and
+all of its employees.
+
+FOREIGN OPERATIONS AND EXPORT SALES
+
+     The company has distributors and sales representatives throughout the
+world. Additionally, the company has a sales, assembly and distribution facility
+in Stuttgart, Germany, sales and customer service offices in Mexico City and
+Singapore, an assembly facility in Nogales, Mexico, a manufacturing facility in
+Brno, Czech Republic, and a sales and assembly facility in Nancy, France. The
+company exports products from the United States that are manufactured in
+Milwaukee, Wisconsin; Tulsa, Oklahoma; Rio Rico, Arizona and Mattapoisett,
+Massachusetts.
+
+     Information about the company's foreign operations and export sales is
+included in Note 10 "Industry Segment and Geographic Areas" in the Notes to
+Consolidated Financial Statements in Part II, Item 8 of the company's 2002
+Annual Report on Form 10-K.
+
+FINANCIAL INFORMATION ABOUT INDUSTRY SEGMENTS
+
+     The company operates in one industry segment as a marketer and manufacturer
+of various flow measurement and control products as described in Note 10
+"Industry Segment and Geographic Areas" in the Notes to Consolidated Financial
+Statements in Part II, Item 8 of the company's 2002 Annual Report on Form 10-K.
+
+ITEM 2.  PROPERTIES
+
+     The principal facilities utilized by the company at December 31, 2002, are
+listed below. Except as indicated, the company owns all of such facilities in
+fee simple. The company believes that its facilities are generally well
+maintained and have sufficient capacity for its current needs.
+
+                                        3
+<PAGE>
+
+<Table>
+<Caption>
+                                                                                  APPROXIMATE AREA
+LOCATION                                                   PRINCIPAL USE           (SQUARE FEET)
+--------                                                   -------------          ----------------
+<S>                                                  <C>                          <C>
+Milwaukee, Wisconsin                                 Manufacturing and offices        323,000
+Tulsa, Oklahoma                                      Manufacturing and offices         59,500
+Rio Rico, Arizona                                    Manufacturing and offices         36,000
+Nogales, Mexico                                      Assembly and offices              41,700(1)
+Mattapoisett, Massachusetts                          Manufacturing and offices         23,000(2)
+Stuttgart, Germany                                   Assembly and offices              23,000(3)
+Brno, Czech Republic                                 Manufacturing and offices         12,900
+Nancy, France                                        Assembly and offices              52,500
+</Table>
+
+---------------
+
+(1)  Leased facility. Lease term expires January 31, 2004.
+
+(2)  Leased facility. Lease term expires February 28, 2004.
+
+(3)  Leased facility. Lease term expires December 31, 2005.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     There are currently no material legal proceedings pending with relation to
+the company, except as discussed below.
+
+     The company is a defendant in five multi-party asbestos suits as a result
+of its membership in certain trade organizations. The cases are pending in state
+court in Mississippi. The company does not believe the ultimate resolution of
+these claims will have a material adverse effect on the company's financial
+position or results of operations, either from a cash flow perspective or on the
+financial statements as a whole.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of the company's shareholders during
+the quarter ended December 31, 2002.
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+     The following table sets forth certain information regarding the executive
+officers of the company.
+
+<Table>
+<Caption>
+                                                                                                AGE AT
+NAME                                                   POSITION                                2/28/2003
+----                        ---------------------------------------------------------------    ---------
+<S>                         <C>                                                                <C>
+James L. Forbes.........    Chairman                                                              70
+Richard A. Meeusen......    President and Chief Executive Officer                                 48
+Robert M. Bullis........    Vice President -- Manufacturing                                       53
+Ronald H. Dix...........    Vice President -- Administration and Human Resources                  58
+Deirdre C. Elliott......    Vice President -- Corporate Counsel and Secretary                     46
+Horst E. Gras...........    Vice President -- International Operations                            47
+Richard E. Johnson......    Vice President -- Finance, Chief Financial Officer and                48
+                            Treasurer
+Beverly L.P. Smiley.....    Vice President -- Corporate Controller                                53
+Kenneth E. Smith........    Vice President -- Sales and Marketing                                 54
+Dennis J. Webb..........    Vice President -- Engineering                                         55
+Daniel D. Zandron.......    Vice President -- Business Development                                54
+</Table>
+
+     There are no family relationships between any of the executive officers.
+All of the officers are elected annually at the first meeting of the Board of
+Directors held after each annual meeting of the shareholders. Each officer holds
+office until his successor has been elected or until his death, resignation or
+removal. There is no arrangement or understanding between any executive officer
+and any other person pursuant to which he was elected as an officer.
+
+                                        4
+<PAGE>
+
+     Mr. Forbes was elected Chairman in April 2002. Mr. Forbes served as
+Chairman and Chief Executive Officer from November 2001 to April 2002, as
+Chairman, President and Chief Executive officer from February 2001 to November
+2001, and as Chairman and Chief Executive Officer from April 1999 to February
+2001. Prior to that date, Mr. Forbes served as President and Chief Executive
+Officer for more than five years.
+
+     Mr. Meeusen was elected President and Chief Executive Officer in April
+2002. Mr. Meeusen served as President from November 2001 to April 2002, and as
+Executive Vice President -- Administration from February 2001 to November 2001.
+In addition, Mr. Meeusen served as Vice President -- Finance and Chief Financial
+Officer from November 1995 to February 2001, as well as Treasurer from January
+1996 to February 2001.
+
+     Mr. Bullis was elected Vice President -- Manufacturing in February 2001. He
+served as Vice President -- Operations from November 1999 to February 2001.
+Prior to that date, Mr. Bullis served as Vice President -- Operations -- Utility
+for more than five years.
+
+     Mr. Dix was elected Vice President -- Administration and Human Resources in
+November 2001. Mr. Dix served as Vice President -- Human Resources from February
+2001 to November 2001. Prior to that date, Mr. Dix served as Vice
+President -- Administration and Human Resources for more than five years.
+
+     Ms. Elliott has served as Vice President -- Corporate Counsel and Secretary
+for more than five years.
+
+     Mr. Gras was elected Vice President -- International Operations in November
+2001. Prior to that date, Mr. Gras served as Vice President -- Badger Meter
+Europe for more than five years.
+
+     Mr. Johnson joined the company and was elected Vice President -- Finance,
+Chief Financial Officer and Treasurer in February 2001. Prior to joining the
+company, Mr. Johnson served as Director of Business Support for the Energy
+Delivery Business of Wisconsin Electric Power Company from 1999 to December
+2000. From 1996 to 1999, Mr. Johnson served as the Director of Business Support
+for the Distribution Operations of Wisconsin Electric Power Company.
+
+     Ms. Smiley was elected Vice President -- Corporate Controller in November
+1999. Ms. Smiley served as Corporate Controller from April 1997 to November
+1999.
+
+     Mr. Smith was elected Vice President -- Sales and Marketing in November
+2001. Mr. Smith served as Vice President -- Industrial Products and
+International from November 2000 to November 2001. Mr. Smith served as Vice
+President -- Industrial and Commercial Products from January 2000 to November
+2000. Prior to joining the company in January 2000, Mr. Smith served as
+President of Peek Measurement Group for more than five years.
+
+     Mr. Webb was elected Vice President -- Engineering in November 2001. Mr.
+Webb served as Vice President -- Customer Solutions from April 2000 to November
+2001, and as Vice President -- Engineering and Quality from November 1999 to
+April 2000. Prior to that date, Mr. Webb served as Vice President -- Engineering
+and Quality -- Utility for more than five years.
+
+     Mr. Zandron was elected Vice President -- Business Development in November
+2001. Mr. Zandron served as Vice President -- Utility Products from November
+2000 to November 2001, and as Vice President -- Commercial and Industrial
+Products, and a number of similar capacities, from January 2000 to November
+2000. From May 1999 to January 2000, Mr. Zandron served as Vice
+President -- Commercial and Industrial Products -- Utility. Prior to that date,
+Mr. Zandron served as Vice President -- Commercial and Industrial and Marketing
+for more than five years.
+
+                                        5
+<PAGE>
+
+                                    PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED
+         STOCKHOLDER MATTERS
+
+     Information required by this Item is set forth on page 30 in Part II, Item
+8 under the heading "Financial Statements and Supplementary Data" of the
+company's 2002 Annual Report on Form 10-K.
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+<Table>
+<Caption>
+                                                                   BADGER METER, INC.
+                                                            TEN YEAR SUMMARY OF SELECTED DATA
+                                                                 YEARS ENDED DECEMBER 31
+                        ---------------------------------------------------------------------------------------------------------
+                          2002       2001       2000       1999       1998       1997       1996       1995      1994      1993
+                        --------   --------   --------   --------   --------   --------   --------   --------   -------   -------
+                                                      (DOLLARS IN THOUSANDS EXCEPT PER SHARE DATA)
+<S>                     <C>        <C>        <C>        <C>        <C>        <C>        <C>        <C>        <C>       <C>
+OPERATING RESULTS
+Net sales.............  $167,317    138,537    146,389    150,877    143,813    130,771    116,018    108,644    99,155    84,497
+Research and
+  development.........  $  5,658      5,422      6,562      6,012      6,105      4,397      3,851      3,858     3,278     3,642
+Earnings before income
+  taxes...............  $ 11,437      5,010     10,727     15,659     13,364     10,205      8,167      5,911     4,974     3,306
+Net earnings..........  $  7,271      3,364      6,941      9,700      8,247      6,522      5,127      3,719     3,216     2,164
+Earnings to sales.....       4.3%       2.4%       4.7%       6.4%       5.7%       5.0%       4.4%       3.4%      3.2%      2.6%
+                        --------   --------   --------   --------   --------   --------   --------   --------   -------   -------
+PER COMMON SHARE
+Basic earnings........  $   2.30       1.06       2.10       2.78       2.28       1.83       1.46       1.06       .93       .64
+Diluted earnings......  $   2.20       1.03       2.00       2.60       2.12       1.65       1.39       1.06       .93       .64
+Cash dividends
+  declared:
+  Common Stock........  $   1.02       1.00        .86        .72        .60        .48        .43        .39       .35       .32
+  Class B Common
+    Stock.............  $      0          0          0        .32        .54        .44        .39        .36       .32       .29
+Price range -- high...  $  34.00      33.22      37.38      41.00      40.63      57.50      20.81      13.50     14.00     11.00
+Price range -- low....  $  22.08      19.76      23.00      29.38      25.00      18.13      12.38      11.06      9.50      8.88
+Closing price.........  $  32.10      22.43      23.00      30.13      35.63      40.75      19.19      13.25     11.94      9.56
+Book value............  $  14.93      13.52      13.51      12.88      13.13      11.62      10.32       9.16      8.38      7.66
+                        --------   --------   --------   --------   --------   --------   --------   --------   -------   -------
+SHARES OUTSTANDING
+Common Stock..........     3,221      3,180      3,207      3,340      2,538      2,444      2,426      2,387     2,377     2,281
+Class B Common
+  Stock...............         0          0          0          0      1,108      1,126      1,126      1,126     1,126     1,126
+                        --------   --------   --------   --------   --------   --------   --------   --------   -------   -------
+FINANCIAL POSITION
+Working capital.......  $  6,825     23,170      6,822     11,150     10,776     13,870     17,645     16,178    14,569    12,010
+Current ratio.........  1.1 to 1   2.0 to 1   1.2 to 1   1.3 to 1   1.3 to 1   1.5 to 1   2.0 to 1   2.1 to 1    1.7 to    1.6 to
+                                                                                                                      1         1
+Net cash provided by
+  operations..........  $ 12,234      8,587     13,251     15,652     15,007      5,178      9,878     12,026     6,342     2,969
+Capital
+  expenditures........  $  5,914      5,007      6,403      9,981     17,926      8,349      5,382      4,493     3,553     3,121
+Total assets..........  $126,463    101,375     98,023    102,186     96,945     82,297     66,133     60,527    61,993    57,627
+Short-term and current
+  portion of long-term
+  debt................  $ 26,334      8,264     23,017     16,589     14,315     11,245      2,634      5,515    10,437    12,582
+Long-term debt........  $ 13,046     20,498      5,944     11,493      2,600        928      1,091      1,000     1,200     1,400
+Shareholders'
+  equity..............  $ 48,095     43,002     43,319     43,009     47,848     41,467     36,638     32,163    29,351    26,074
+Debt to total
+  capitalization......      45.0%      40.1%      40.1%      39.5%      26.1%      22.7%       9.2%      16.8%     28.4%     34.9%
+Return on
+  shareholders'
+  equity..............      15.1%       7.8%      16.0%      22.6%      17.2%      15.7%      14.0%      11.6%     11.0%      8.3%
+Price/earnings
+  ratio...............      14.0       21.2       11.0       10.8       15.6       22.3       13.1       12.5      12.8      15.1
+                        --------   --------   --------   --------   --------   --------   --------   --------   -------   -------
+</Table>
+
+                                        6
+<PAGE>
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+BUSINESS DESCRIPTION
+
+     Badger Meter is a leading marketer and manufacturer of products using flow
+measurement and control technologies developed both internally and with other
+technology companies. Its products are used to measure and control the flow of
+liquids in a variety of applications. The company has five primary worldwide
+product lines. Two product lines, residential and commercial water meters (with
+various meter reading technology systems), are generally sold to water
+utilities. The other three lines are called industrial products and include
+automotive fluid meters and systems, small precision valves and industrial
+process meters (with related accessories and instrumentation).
+
+     Water meters and related systems provide the majority of the company's
+sales. A "water meter system" generally consists of a water meter, a register
+(some with a digital interface technology for communicating the reading),
+packaging and the monitoring or computerized management system used to collect
+and relay the reading. Badger Meter's strategy is to solve customers' metering
+needs with its proprietary meter reading systems or other systems available
+through alliances within the marketplace. In both alternatives, the company
+provides the meter that generates a mechanical signal and the device that
+converts the signal into a digital form. That signal may then be read by either
+a proprietary meter reading system or systems developed by other technology
+companies.
+
+RESULTS OF OPERATIONS
+
+     In the second quarter of 2002, the company completed two acquisitions, Data
+Industrial Corporation (DIC) and MecaPlus Equipements SA (MPE). These
+acquisitions were accounted for under the purchase accounting method, and as a
+result, some of the variances shown since December 31, 2001, were attributable
+to the results of operations since the date of acquisition. The acquisitions are
+further discussed in Part II, Item 8, in the Notes to Consolidated Financial
+Statements under the heading Note 3 B "Acquisitions" in the company's 2002
+Annual Report on Form 10-K.
+
+NET SALES
+
+     Badger Meter's net sales increased nearly $28.8 million or 20.8% for 2002
+compared to 2001. The increase is the net result of the acquisitions, increases
+in net sales of residential and commercial water meters and decreases in net
+sales of certain industrial products, all further discussed below.
+
+     The 2002 net sales amounts include $11.0 million or 6.6% related to the
+acquired companies. Without the acquisitions, net sales would have increased
+$17.8 million or 14.2% over sales in 2001. In addition, the results for 2001
+included approximately $1.4 million of net sales from product lines that were
+discontinued. Net sales trends are primarily affected by new product sales,
+water meter sales to municipalities and general market conditions. Residential
+water meter sales are influenced by both privatizations of water services and a
+continued industry movement away from manual-read meters to automated meter
+reading technologies.
+
+     Residential and commercial water meter net sales increased nearly $20.6
+million over 2001. The net sales increase was driven by increased volumes in
+both plastic and bronze local-read meters as well as increased sales of
+automated meter reading technologies, the latter of which carries a higher
+price. A portion of the net sales increase, although not quantifiable, is also
+due in part to the reorganization of the sales force. Prior to 2001, sales
+representatives were assigned geographic areas. Late in 2001, a change was made
+to focus less on geography and more on the type of customer. Customers include
+independent distributors, large cities, private water companies and numerous
+smaller municipal water utilities. One group of the company's sales
+representatives focused on the distributors, another on large accounts (public
+and private) and the third group focused on the remaining customers, while the
+company maintained approximately the same number of sales employees. As a
+result, the third group covers larger geographic areas. Because of the
+additional focus on customer groups, there was an increase in sales to
+distributors in 2002. Many smaller utilities purchased water meters through
+distributors, and
+
+                                        7
+<PAGE>
+
+the company believes that the increased attention to the distributor network
+caused the distributors to make an increased effort to sell Badger Meter
+products.
+
+     Industrial net sales declined $1.4 million or 4.9% in 2002 from 2001. The
+main cause of this decrease was poor market conditions in the niche market for
+automotive fluid meters. Somewhat offsetting the decline was increased volumes
+of electromagnetic flow meters.
+
+     International net sales are comprised primarily of sales of automotive
+fluid meters and small valves in Europe, sales of water meters and related
+technologies in Latin America, and sales of valves and other metering products
+throughout the world. In Europe, sales are made in both U.S. dollars and euros.
+Most other international sales are made in U.S. dollars. The company is able to
+partially hedge its euro exposure by holding euro-denominated debt.
+International sales, excluding the effects of the MPE acquisition, increased
+4.1% over 2001 due to plastic meter sales into the Latin American market.
+
+     In 2001, net sales decreased nearly $7.9 million or 5.4% compared to 2000.
+A significant factor in the decline was the discontinuance of certain product
+lines. Net sales related to those lines were $1.4 million in 2001 compared with
+$5.6 million in 2000, which accounts for nearly $4.2 million of the decline. The
+remaining $3.7 million was due to a sales decrease in residential and commercial
+water meters of approximately $1.8 million, and a decrease in industrial sales
+of $1.9 million. The decrease in residential and commercial water meter sales
+was primarily due to lower sales of automated meter reading systems, offset
+somewhat by volume increases in lower price local (or manual) read systems. The
+automotive fluid products, small precision valves and other industrial products
+also saw volume decline, offset slightly by higher prices.
+
+GROSS MARGINS
+
+     Gross margins were 33.5%, 32.1% and 36.2% for 2002, 2001 and 2000,
+respectively. The increase in gross margin between 2002 and 2001 is due to
+increased sales volumes, which absorbed factory capacity costs, as well as
+continuing efforts to reduce product costs. Margins were also affected by higher
+sales of automated meter reading products, which have higher margins than manual
+(or local) read meters. Margins declined in 2001 from those levels in 2000 when
+actual sales did not meet expected levels to absorb the cost of factory
+capacity. Also, the lack of significant price increases in recent years has
+reduced margins.
+
+OPERATING EXPENSES
+
+     Selling, engineering and administration costs increased 11.4% in 2002 over
+2001 levels. Much of this increase is attributable to the newly acquired
+companies, as well as increased incentive compensation as a result of meeting
+sales and earnings targets. Without the acquisitions and increased incentive
+costs, these expenses would have decreased 3.8% due to continuing cost control
+efforts and the elimination of costs associated with discontinued product lines.
+Selling, engineering and administration costs decreased 8.5% in 2001 compared to
+2000 due to lower incentive accruals and cost controls, as well as cost
+reductions associated with discontinued product lines, offsetting personnel and
+expense increases.
+
+INTEREST EXPENSE
+
+     Interest expense increased $468,000 in 2002 compared to 2001. The increase
+was due primarily to the increased borrowing needs as a result of the company's
+acquisition of two new companies and the payment of $9.4 million into the
+company's pension plan in 2002. These factors were offset somewhat by a decrease
+in interest rates during the year. The company continues to use commercial paper
+at very favorable interest rates to finance its operations.
+
+     Interest expense decreased $825,000 in 2001 compared to 2000. This decrease
+was a result of significantly lower interest rates and the company's repayment
+in 2001 of a term loan that had a higher interest rate than available commercial
+paper borrowings.
+
+                                        8
+<PAGE>
+
+OTHER INCOME, NET
+
+     Other income, net in 2002 and 2001 relates primarily to foreign exchange
+gains. Other income, net for 2000 included $2,230,000 of proceeds from business
+interruption insurance, which offset lost sales and margins associated with a
+fire at the facility of one of the company's principal vendors during 1999.
+Without these proceeds, other income, net for 2000 would have been an expense of
+$316,000.
+
+INCOME TAXES
+
+     Income taxes as a percentage of earnings before income taxes was 36.4%,
+32.9% and 35.3% for 2002, 2001 and 2000, respectively. The increase in 2002 from
+2001 was due primarily to a higher level of pre-tax earnings compared to 2001
+that reduced the percentage effects of certain permanent items on book-tax
+differences. The decrease in 2001 from 2000 was due to lower state and foreign
+taxes on lower pre-tax income and to the increased percentage effects of certain
+permanent items on book-tax differences.
+
+     In 2002, the company determined that there were excess reserves for prior
+year taxes, and accordingly reduced tax expense by $675,000. At the same time,
+the company concluded that it was not certain that net operating loss
+carryforwards for foreign subsidiaries would be realized through future profits
+and as such a $475,000 valuation reserve was created by increasing the tax
+expense.
+
+NET EARNINGS AND EARNINGS PER SHARE
+
+     As a result of the above-mentioned items, net earnings were $7,271,000,
+$3,364,000 and $6,941,000 in 2002, 2001 and 2000, respectively. On a diluted
+basis, earnings per share were $2.20, $1.03 and $2.00, respectively, for the
+same periods.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     The main sources of liquidity for the company are cash from operations and
+borrowing capacity. Cash provided by operations increased $3.6 million or 42.4%
+for 2002 compared to 2001 primarily as a result of increased earnings, deferral
+of income taxes, current liabilities, and lower accounts receivable (net of
+acquired companies). Offsetting these items somewhat was a $9.4 million payment
+to the company's pension plan to maintain full funding status. Cash provided by
+operations decreased 35.2% in 2001 compared to 2000 primarily as a result of
+lower earnings, increased inventories and a $4.4 million payment to the
+company's pension plan, offset partially by increased payables.
+
+     Receivables and inventories increased 18.4% and 17.2%, respectively,
+between December 31, 2001 and 2002. Increases in both of these accounts are
+primarily due to the receivables and inventories acquired as a result of the
+acquisitions. Capital expenditures totaled $5.9 million in 2002, up from $5.0
+million in 2001, but lower than $6.4 million in 2000. These amounts vary due to
+the timing of capital expenditures. The company believes it will be able to
+increase production with minimal additional capital expenditures.
+
+     Prepaid pension increased nearly $8.5 million at the end of 2002 compared
+to the same date in 2001. This is primarily the result of making a $9.4 million
+contribution to the pension plan, offset by pension expenses during 2002.
+Payment to the company's pension plan was made to maintain proper funding levels
+as of the September 30, 2002 measurement date. Goodwill increased $5.2 million
+from 2001 to 2002 due to the acquisitions of MPE and DIC.
+
+     The increase in payables between years is primarily the result of the
+assumed payables of the acquired companies as well as the timing of purchases.
+
+     Short-term debt increased $15.2 million. This increase is due to the use of
+short-term debt to finance the two acquisitions and the $9.4 million payment
+into the company's pension plan, offset somewhat by increased cash generated
+from operations. In addition, the company made a prepayment on a portion of its
+long-term debt to take advantage of lower commercial paper interest rates.
+Accrued compensation and employee benefits increased nearly $3 million due to
+increased incentive costs associated with improved sales and earnings levels.
+
+                                        9
+<PAGE>
+
+     Income and other taxes increased nearly $1.4 million as a result of
+increased earnings during 2002. Net deferred income taxes changed $1.7 million
+from 2001 due to increased earnings and the timing of tax payments. The
+principal timing difference related to the deductibility of the payment to the
+company's pension plan, most of which is shown as a prepaid on the company's
+balance sheet.
+
+     Total outstanding long-term debt (both the current and long-term portions)
+decreased $4.6 million as a result of regular debt payments and the $4 million
+prepayment allowed under terms of the loan agreement. Common stock and capital
+in excess of par value both increased during 2002 due to stock issued in
+connection with the exercise of stock options and ESSOP transactions. Employee
+benefit stock decreased by $365,000 due to shares released as a result of
+payments made on the ESSOP loan. Treasury stock increased due to shares
+repurchased during the year.
+
+     Badger Meter's financial condition remains strong. The company believes
+that its operating cash flows, available borrowing capacity and ability to raise
+capital provide adequate resources to fund ongoing operating requirements and
+future capital expenditures related to expansion of capacity and development of
+new products.
+
+CONTRACTUAL OBLIGATIONS
+
+     The company guarantees the outstanding debt of the Badger Meter Employee
+Savings and Stock Ownership Plan (ESSOP) that is recorded in long-term debt,
+offset by a similar amount in shareholders' equity. The loan amount is
+collateralized by shares of the company's Common Stock. Payments of $365,000 and
+$400,000 in 2002 and 2001, respectively, reduced the loan to $1.5 million at
+December 31, 2002.
+
+     The company also guarantees the present and future debt of the Badger Meter
+Officers Voting Trust (BMOVT), from which officers obtained loans from a bank in
+order to purchase shares of the company's Common Stock. The officers' loan
+amounts are collateralized by the company's shares that were purchased with the
+loans' proceeds. There have been no loans made to officers by the BMOVT since
+July 2002 due to restrictions as a result of new legislation. The amount that
+the company guaranteed was $2,380,000 and $2,167,000 at December 31, 2002 and
+2001, respectively. The current loan expires in April 2003 when it will likely
+be renewed. The fair market value of this guarantee at December 31, 2002 was
+zero because the collateral value of the shares exceeded the loan amount.
+
+     The following table includes the company's contractual obligations. There
+are no other undisclosed guarantees or off-balance sheet arrangements.
+
+<Table>
+<Caption>
+                                                                 PAYMENTS DUE BY PERIOD
+                                                      --------------------------------------------
+                                                                 LESS THAN
+                                                       TOTAL      1 YEAR      1-3 YEARS    4 YEARS
+                                                      -------    ---------    ---------    -------
+                                                                     (IN THOUSANDS)
+<S>                                                   <C>        <C>          <C>          <C>
+Current portion and long-term debt................    $17,301     $5,895       $10,231     $1,175
+Capital lease obligations.........................        189         84           105          0
+ESSOP.............................................      1,535          0         1,535          0
+Operating leases..................................      1,078        616           462          0
+                                                      -------     ------       -------     ------
+Total contractual obligations.....................    $20,103     $6,595       $12,333     $1,175
+                                                      =======     ======       =======     ======
+</Table>
+
+CRITICAL ACCOUNTING POLICIES AND USE OF ESTIMATES
+
+     The preparation of the financial statements requires management to make
+estimates and assumptions that affect the amounts reported in the financial
+statements and accompanying notes. The company's critical accounting policies
+and estimates relate primarily to several judgmental reserves: allowance for
+doubtful accounts, allowance for obsolete inventories, warranty and after-sale
+costs reserve, and the health care reserve. Each of these judgmental reserves is
+evaluated quarterly and is reviewed with the company's Disclosure Committee and
+the Audit and Compliance Committee of the Board of Directors. The basis for the
+reserve amounts is determined by analyzing the minimum and maximum amount of
+anticipated exposure for each account, and then selecting the most appropriate
+amount within the range based upon historical experience and on
+
+                                        10
+<PAGE>
+
+various other assumptions that are believed to be reasonable under the
+circumstances. This method has been used for all years in the presented
+financials and has been used consistently throughout each year. Actual results
+may differ from these estimates under different assumptions or conditions.
+
+     The criteria used for calculating each of the reserve amounts varies by
+type of reserve. For the allowance for doubtful accounts reserve, significant
+past due and foreign account balances are reviewed in conjunction with applying
+historical write-off ratios to the remaining balances. The calculation for the
+allowance for obsolete inventories reserve is determined by analyzing the
+relationship between the last time items were used with an analysis of estimated
+usage to determine if excess quantities exist. The calculation for warranty and
+after-sale costs reserve uses criteria that includes known potential problems on
+past sales as well as historical claims ratios for current sales. The health
+care reserve is determined by using medical cost trend analyses, reviewing
+subsequent payments made and estimating unbilled amounts. The changes in the
+balances of these judgmental reserves at December 31, 2002, compared to the
+prior year were primarily due to the previously mentioned acquisitions.
+
+OTHER MATTERS
+
+     The company believes it is in compliance with the various environmental
+statutes and regulations to which the company's domestic and international
+operations are subject. Currently, the company is in the process of resolving an
+issue relative to a landfill site. Provision has been made for all known
+settlement costs.
+
+     The company is also a defendant in five multi-party asbestos suits as a
+result of its membership in certain trade organizations. The cases are pending
+in state court in Mississippi. The company does not believe the ultimate
+resolution of these issues will have a material adverse effect on the company's
+financial position or results of operations, either from a cash flow perspective
+or on the financial statements as a whole.
+
+MARKET RISKS
+
+     In the ordinary course of business, the company is exposed to various
+market risks, including commodity prices, foreign currency rates and interest
+rates. The company typically does not hold or issue derivative instruments and
+has a policy specifically prohibiting the use of such instruments for trading
+purposes.
+
+     Commodity risk is managed by keeping abreast of economic conditions and
+locking in purchase prices for quantities that correspond to the company's
+forecasted usage.
+
+     The company's foreign currency risk relates to the sales of products to
+foreign customers, specifically European customers, as most other foreign sales
+are made in U.S. dollars. The company uses lines of credit with European banks
+to offset currency exposure related to European receivables and other monetary
+assets. As of December 31, 2002 and 2001, the company's foreign currency net
+monetary assets were substantially offset by comparable debt, resulting in no
+material exposure.
+
+     The company's short-term debt on December 31, 2002, was floating rate debt
+with market values approximating carrying value. Fixed rate debt was principally
+a term loan with a 6.73% interest rate. For the floating rate debt, future
+annual interest costs will fluctuate based upon short-term interest rates. For
+the short-term debt on hand on December 31, 2002, the effect of a 1% change in
+interest rates is approximately $204,000 before income tax.
+
+ITEM 7.A.  QUANTITATIVE AND QUALITATIVE DISCLOSURES OF MARKET RISK
+
+     Information required by this Item is set forth on page 11 in Part II, Item
+7 "Management's Discussion and Analysis of Financial Condition and Results of
+Operations" under the heading "Market Risk" in the company's 2002 Annual Report
+on Form 10-K.
+
+                                        11
+<PAGE>
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                               BADGER METER, INC.
+
+                         REPORT OF INDEPENDENT AUDITORS
+
+REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+The Board of Directors and Shareholders
+Badger Meter, Inc.
+
+     We have audited the accompanying consolidated balance sheets of Badger
+Meter, Inc. as of December 31, 2002 and 2001, and the related consolidated
+statements of operations, shareholders' equity, and cash flows for each of the
+three years in the period ended December 31, 2002. These financial statements
+are the responsibility of the company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+     We conducted our audits in accordance with auditing standards generally
+accepted in the United States. Those standards require that we plan and perform
+the audits to obtain reasonable assurance about whether the financial statements
+are free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. An
+audit also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+     In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of Badger Meter,
+Inc. at December 31, 2002 and 2001, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 2002, in conformity with accounting principles generally accepted
+in the United States.
+
+     As discussed in Note 1 to the Consolidated Financial Statements, effective
+January 1, 2002, the company changed its method of accounting for goodwill.
+
+                                                               Ernst & Young LLP
+
+Milwaukee, Wisconsin
+January 31, 2003
+
+                                        12
+<PAGE>
+
+                               BADGER METER, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+
+<Table>
+<Caption>
+                                                                   DECEMBER 31,
+                                                              -----------------------
+                                                                 2002         2001
+                                                                 ----         ----
+                                                              (DOLLARS IN THOUSANDS)
+<S>                                                           <C>          <C>
+ASSETS
+Current assets:
+  Cash......................................................   $  3,779     $  3,410
+  Receivables...............................................     22,139       18,700
+  Inventories:
+     Finished goods.........................................      7,569        5,260
+     Work in process........................................      8,308        8,190
+     Raw materials..........................................      9,305        8,037
+                                                               --------     --------
+       Total inventories....................................     25,182       21,487
+  Prepaid expenses..........................................      1,219          767
+  Deferred income tax.......................................      3,061        2,588
+                                                               --------     --------
+       Total current assets.................................     55,380       46,952
+Property, plant and equipment:
+  Land and improvements.....................................      2,992        2,550
+  Buildings and improvements................................     24,578       20,860
+  Machinery and equipment...................................     71,226       68,033
+                                                               --------     --------
+                                                                 98,796       91,443
+  Less accumulated depreciation.............................    (55,328)     (50,319)
+                                                               --------     --------
+     Net property, plant and equipment......................     43,468       41,124
+Intangible assets, at cost less accumulated amortization....      1,112          227
+Prepaid pension.............................................     17,454        8,965
+Other assets................................................      3,352        3,561
+Goodwill....................................................      5,697          546
+                                                               --------     --------
+Total assets................................................   $126,463     $101,375
+                                                               ========     ========
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+  Short-term debt...........................................   $ 20,355     $  5,129
+  Current portion of long-term debt.........................      5,979        3,135
+  Payables..................................................     11,040        8,887
+  Accrued compensation and employee benefits................      6,017        2,992
+  Warranty and after-sale costs.............................      3,597        3,453
+  Income and other taxes....................................      1,567          186
+                                                               --------     --------
+     Total current liabilities..............................     48,555       23,782
+Deferred income tax.........................................      4,710        2,539
+Accrued non-pension postretirement benefits.................      5,512        6,093
+Other accrued employee benefits.............................      6,545        5,461
+Long-term debt..............................................     13,046       20,498
+Commitments and contingencies (Note 6)
+Shareholders' equity:
+  Common Stock, $1.00 par; authorized 40,000,000 shares;
+     issued 4,762,398 shares in 2002 and 4,676,840 shares in
+     2001...................................................      4,762        4,677
+  Capital in excess of par value............................     18,169       16,168
+  Reinvested earnings.......................................     54,776       50,736
+  Accumulated other comprehensive loss......................        (61)           0
+  Less: Employee benefit stock..............................     (1,535)      (1,900)
+        Treasury stock, at cost, 1,541,791 shares in 2002
+        and 1,497,199 shares in 2001........................    (28,016)     (26,679)
+                                                               --------     --------
+     Total shareholders' equity.............................     48,095       43,002
+                                                               --------     --------
+Total liabilities and shareholders' equity..................   $126,463     $101,375
+                                                               ========     ========
+</Table>
+
+See accompanying notes.
+
+                                        13
+<PAGE>
+
+                               BADGER METER, INC.
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+
+<Table>
+<Caption>
+                                                                 YEARS ENDED DECEMBER 31,
+                                                              ------------------------------
+                                                                2002       2001       2000
+                                                              --------   --------   --------
+                                                              (IN THOUSANDS EXCEPT PER SHARE
+                                                                         AMOUNTS)
+<S>                                                           <C>        <C>        <C>
+Net sales...................................................  $167,317   $138,537   $146,389
+Cost of sales...............................................   111,317     94,042     93,375
+                                                              --------   --------   --------
+Gross margin................................................    56,000     44,495     53,014
+Selling, engineering and administration.....................    42,805     38,430     41,995
+                                                              --------   --------   --------
+Operating earnings..........................................    13,195      6,065     11,019
+Interest expense............................................     1,849      1,381      2,206
+Other income, net...........................................       (91)      (326)    (1,914)
+                                                              --------   --------   --------
+Earnings before income taxes................................    11,437      5,010     10,727
+Provision for income taxes..................................     4,166      1,646      3,786
+                                                              --------   --------   --------
+Net earnings................................................  $  7,271   $  3,364   $  6,941
+                                                              ========   ========   ========
+Earnings per share:
+  Basic.....................................................  $   2.30   $   1.06   $   2.10
+  Diluted...................................................  $   2.20   $   1.03   $   2.00
+                                                              ========   ========   ========
+Shares used in computation of:
+  Basic.....................................................     3,165      3,163      3,308
+  Impact of dilutive stock options..........................       139        112        162
+                                                              --------   --------   --------
+  Diluted...................................................     3,304      3,275      3,470
+                                                              ========   ========   ========
+</Table>
+
+See accompanying notes.
+
+                                        14
+<PAGE>
+
+                               BADGER METER, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<Table>
+<Caption>
+                                                                  YEARS ENDED DECEMBER 31,
+                                                               -------------------------------
+                                                                 2002        2001       2000
+                                                               --------    --------    -------
+                                                                   (DOLLARS IN THOUSANDS)
+<S>                                                            <C>         <C>         <C>
+Operating activities:
+  Net earnings.............................................    $  7,271    $  3,364    $ 6,941
+  Adjustments to reconcile net earnings to net cash
+     provided by operations:
+     Depreciation..........................................       7,882       6,477      5,925
+     Amortization..........................................          98         324        148
+     Tax benefit on stock options..........................         307         232        387
+     Deferred income tax...................................       1,986       1,347        817
+     Noncurrent employee benefits..........................       1,214       1,118        648
+     Contributions to pension plan.........................      (9,393)     (4,441)         0
+     Changes in:
+       Receivables.........................................       1,323         306      5,272
+       Inventories.........................................        (344)     (1,852)    (1,529)
+       Current liabilities other than debt.................       2,242       1,527     (5,349)
+       Prepaid expenses and other..........................        (352)        185         (9)
+                                                               --------    --------    -------
+  Total adjustments........................................       4,963       5,223      6,310
+                                                               --------    --------    -------
+Net cash provided by operations............................      12,234       8,587     13,251
+                                                               --------    --------    -------
+Investing activities:
+  Property, plant and equipment............................      (5,914)     (5,007)    (6,403)
+  Acquisitions, net of cash acquired.......................      (8,564)          0          0
+  Other -- net.............................................        (168)        105         76
+                                                               --------    --------    -------
+Net cash used for investing activities.....................     (14,646)     (4,902)    (6,327)
+                                                               --------    --------    -------
+Financing activities:
+  Net increase (decrease) in short-term debt...............      15,226     (12,640)     6,067
+  Issuance of long-term debt...............................           0      21,700          0
+  Repayments of long-term debt.............................      (9,656)     (9,259)    (5,188)
+  Dividends................................................      (3,231)     (3,164)    (2,850)
+  Stock options and ESSOP..................................       1,624       1,290      1,023
+  Treasury stock purchases.................................      (1,595)     (2,439)    (5,491)
+  Issuance of treasury stock...............................         413           0          0
+                                                               --------    --------    -------
+Net cash provided by (used for) financing activities.......       2,781      (4,512)    (6,439)
+                                                               --------    --------    -------
+Increase (decrease) in cash................................         369        (827)       485
+Cash -- beginning of year..................................       3,410       4,237      3,752
+                                                               --------    --------    -------
+Cash -- end of year........................................    $  3,779    $  3,410    $ 4,237
+                                                               ========    ========    =======
+Supplemental disclosures of cash flow information:
+  Cash paid during the year for:
+     Income taxes..........................................    $    757    $    624    $ 1,839
+     Interest..............................................    $  1,664    $  1,390    $ 2,255
+</Table>
+
+See accompanying notes.
+
+                                        15
+<PAGE>
+
+                               BADGER METER, INC.
+
+                CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+
+<Table>
+<Caption>
+                                                            YEARS ENDED DECEMBER 31, 2002, 2001 AND 2000
+                                        ------------------------------------------------------------------------------------
+                                                                                   OTHER
+                                                                                  COMPRE-
+                                                      CAPITAL IN                  HENSIVE    EMPLOYEE
+                                          COMMON      EXCESS OF     REINVESTED    INCOME     BENEFIT     TREASURY
+                                          STOCK       PAR VALUE      EARNINGS     (LOSS)      STOCK       STOCK       TOTAL
+                                        ----------    ----------    ----------    -------    --------    --------    -------
+                                                              (IN THOUSANDS EXCEPT PER SHARE AMOUNTS)
+<S>                                     <C>           <C>           <C>           <C>        <C>         <C>         <C>
+Balance, December 31, 1999............  $  4,531       $13,382       $46,445       $   0     $(2,600)    $(18,749)   $43,009
+                                        --------       -------       -------       -----     -------     --------    -------
+Net earnings..........................                                 6,941                                           6,941
+Cash dividends of $.86 per share......                                (2,850)                                         (2,850)
+Stock options exercised...............        75           895                                                           970
+Tax benefit on stock options and
+  dividends...........................                     387                                                           387
+ESSOP transactions....................         4             5                                   300                     309
+Treasury stock purchases..............                                                                     (5,491)    (5,491)
+Other.................................                      44                                                            44
+                                        --------       -------       -------       -----     -------     --------    -------
+Balance, December 31, 2000............     4,610        14,713        50,536           0      (2,300)     (24,240)    43,319
+                                        --------       -------       -------       -----     -------     --------    -------
+Net earnings..........................                                 3,364                                           3,364
+Cash dividends of $1.00 per share.....                                (3,164)                                         (3,164)
+Stock options exercised...............        44           788                                                           832
+Tax benefit on stock options and
+  dividends...........................                     232                                                           232
+ESSOP transactions....................        23           435                                   400                     858
+Treasury stock purchases..............                                                                     (2,439)    (2,439)
+                                        --------       -------       -------       -----     -------     --------    -------
+Balance, December 31, 2001............     4,677        16,168        50,736           0      (1,900)     (26,679)    43,002
+                                        --------       -------       -------       -----     -------     --------    -------
+Comprehensive income:
+  Net earnings........................                                 7,271                                           7,271
+  Other comprehensive income (loss):
+    Minimum accrued employee benefits
+      liability (net of $288 tax
+      effect).........................                                              (453)                               (453)
+    Foreign currency translation......                                               392                                 392
+                                                                                                                     -------
+Comprehensive income..................                                                                                 7,210
+Cash dividends of $1.02 per share.....                                (3,231)                                         (3,231)
+Stock options exercised...............        61           915                                                           976
+Tax benefit on stock options and
+  dividends...........................                     307                                                           307
+ESSOP transactions....................        24           624                                   365                   1,013
+Treasury stock purchases..............                                                                     (1,595)    (1,595)
+Issuance of treasury stock............                     155                                                258        413
+                                        --------       -------       -------       -----     -------     --------    -------
+Balance, December 31, 2002............  $  4,762       $18,169       $54,776       $ (61)    $(1,535)    $(28,016)   $48,095
+                                        ========       =======       =======       =====     =======     ========    =======
+</Table>
+
+See accompanying notes.
+
+                                        16
+<PAGE>
+
+                               BADGER METER, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+NOTE 1   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Profile
+
+     Badger Meter is a leading marketer and manufacturer of products using flow
+measurement and control technologies developed both internally and with other
+technology companies. Its products are used to measure and control the flow of
+liquids in a variety of applications. The company has five primary worldwide
+product lines. Two product lines, residential and commercial water meters (with
+various meter reading technology systems), are generally sold to water
+utilities. The other three lines are called industrial products and include
+automotive fluid meters and systems, small precision valves and industrial
+process meters (with related accessories and instrumentation).
+
+Consolidation
+
+     The consolidated financial statements include the accounts of the company
+and its wholly owned subsidiaries.
+
+Accounts Receivable
+
+     Accounts receivable consists primarily of trade receivables. The company
+estimates and records provisions for an allowance for doubtful receivables. The
+balance of this allowance was $1,016,000 and $632,000 at December 31, 2002 and
+2001, respectively. In 2002, the allowance increased $191,000 related to the
+acquisition of Data Industrial Corporation (DIC) and MecaPlus Equipements SA
+(MPE). Refer to Note 3 B "Acquisitions" for a description of the acquisitions.
+
+Inventories
+
+     Inventories are valued at the lower of cost (first-in, first-out method) or
+market. The company estimates and records provisions for an obsolete inventories
+reserve. The balance of this reserve was $1,003,000 and $757,000 at December 31,
+2002 and 2001, respectively. In 2002, the reserve increased $324,000 related to
+the acquisition of DIC and MPE. Refer to Note 3 B "Acquisitions" for a
+description of the acquisitions.
+
+Property, Plant and Equipment
+
+     Property, plant and equipment are stated at cost. Depreciation is provided
+over the estimated useful lives of the respective assets, principally by the
+straight-line method. The estimated useful lives of assets are: for land
+improvements, 15 years; for buildings and improvements, 10 - 39 years; and, for
+machinery and equipment, 3 - 20 years.
+
+Long-Lived Assets
+
+     The company evaluates the recoverability of its long-lived assets in
+accordance with Financial Accounting Standards Board Statement No. 144,
+"Accounting for the Impairment or Disposal of Long-Lived Assets." The company
+annually evaluates whether the sum of the estimated undiscounted future cash
+flows attributable to assets held and used are less than their carrying amounts.
+
+Intangible Assets
+
+     Costs of purchased patents are amortized over the lives of the patents in
+accordance with Financial Accounting Standards Board Statement No. 142,
+"Goodwill and Other Intangible Assets." Other intangible assets are amortized
+over their estimated useful lives. Accumulated amortization at December 31, 2002
+and 2001, was $226,000 and $128,000, respectively.
+
+                                        17
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+Goodwill
+
+     Financial Accounting Standards Board Statement No. 142, "Goodwill and Other
+Intangible Assets," became effective for the company on January 1, 2002. This
+statement required companies to stop amortizing goodwill and to test for
+impairment. Prior to 2002, goodwill was amortized in a straight-line basis.
+Goodwill amortization expense for 2001 and 2000 was $79,000 and $70,000,
+respectively. An evaluation performed in December 2002 determined that goodwill
+had not become impaired. The amount of net goodwill recorded at December 31,
+2002 and 2001, was $5,697,000 and $546,000, respectively. The increase was due
+to the acquisitions of DIC and MPE, which are described in Note 3 B
+"Acquisitions," as well as the translation effect resulting from changes in the
+euro exchange rate.
+
+Revenue Recognition
+
+     Revenues are recognized upon shipment of product, which corresponds with
+the transfer of title. The costs of shipping are billed to the customer upon
+shipment and are included in cost of sales.
+
+Warranty and After-Sale Costs
+
+     The company estimates and records provisions for warranties and other
+after-sale costs in the period the sale is reported. After-sale costs represent
+a variety of activities outside of the written warranty policy, such as
+investigation of unanticipated problems after the customer has installed the
+product, or analysis of water quality issues. Changes in the company's warranty
+and after-sale costs reserve are as follows:
+
+<Table>
+<Caption>
+                            BALANCE AT        ADDITIONS CHARGED                                      BALANCE AT
+                        BEGINNING OF YEAR        TO EARNINGS      CLAIMS PAID   RESERVE ACQUIRED    END OF YEAR
+                       --------------------   -----------------   -----------   ----------------   --------------
+                                                    (IN THOUSANDS)
+<S>                    <C>                    <C>                 <C>           <C>                <C>
+2002.................         $3,453               $1,086           $(1,167)          $225(a)          $3,597
+2001.................         $3,245               $1,837           $(1,629)          $  0             $3,453
+2000.................         $3,835               $1,503           $(2,093)          $  0             $3,245
+</Table>
+
+---------------
+
+(a)  In 2002, the reserve increased $30,000 and $195,000 related to the
+     acquisition of DIC and MPE, respectively. Refer to Note 3 B "Acquisitions"
+     for a description of the acquisitions.
+
+Research and Development
+
+     Research and development costs are charged to expense as incurred and
+amounted to $5,658,000, $5,422,000, and $6,562,000 in 2002, 2001 and 2000,
+respectively.
+
+Other Income, Net
+
+     Included in other income, net was foreign currency gains and losses, which
+are recognized as incurred. The company's functional currency for all of its
+foreign subsidiaries is the U.S. dollar, with the exception of Badger Meter
+France (the French parent holding company of MPE) and MPE, whose functional
+currency is the euro. Other income, net for 2000 included $2,230,000 of business
+interruption insurance proceeds related to lost sales and margins as a result of
+a fire at a vendor's facility in 1999.
+
+Stock Option Plans
+
+     The company has five stock option plans which provide for the issuance of
+options to key employees and directors of the company. Refer to Note 5 "Stock
+Option Plans" for a description of the plans.
+
+                                        18
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+     As allowed by Financial Accounting Standards Board Statement No. 123,
+"Accounting for Stock-Based Compensation" (SFAS 123), and Statement No. 148,
+"Accounting for Stock-based Compensation -- Transition and Disclosure" (SFAS
+148), the company has elected to continue to follow Accounting Principles Board
+Opinion No. 25, "Accounting for Stock Issued to Employees" (APB 25), in
+accounting for its stock option plans. Under APB 25, the company does not
+recognize compensation expense upon the issuance of its stock options because
+the option terms are fixed and the exercise price equals the market price of the
+underlying stock on the grant date. The company has determined the pro forma
+information as if the company had accounted for stock options granted since
+January 1, 1995, under the fair value method of SFAS 123. The Black-Scholes
+option pricing model was used with the following weighted-average assumptions
+for options issued in each year:
+
+<Table>
+<Caption>
+                                                               2002         2001         2000
+                                                             ---------    ---------    ---------
+<S>                                                          <C>          <C>          <C>
+Risk-free interest rate..................................         4.2%         5.0%         6.8%
+Dividend yield...........................................         4.3%           4%           3%
+Volatility factor........................................          29%          29%          30%
+Weighted-average expected life...........................    6.1 years    5.0 years    6.6 years
+</Table>
+
+     The weighted-average fair values of options granted in 2002, 2001 and 2000,
+were $4.79, $6.28 and $10.12 per share, respectively. The following tables
+illustrate the effect on net income and earnings per share if the company had
+applied the fair value recognition provisions of SFAS 123 to stock-based
+employee compensation. These pro forma calculations only include the effects of
+options granted since January 1, 1995. As such, the impacts are not necessarily
+indicative of the effects on net income of future years.
+
+<Table>
+<Caption>
+                                                               2002     2001     2000
+                                                               ----     ----     ----
+                                                              (IN THOUSANDS EXCEPT PER
+                                                                    SHARE DATA)
+<S>                                                           <C>      <C>      <C>
+Net income, as reported.....................................  $7,271   $3,364   $6,941
+Deduct: Total stock-based compensation determined under fair
+  value based method for all awards since January 1, 1995,
+  net of related tax effects................................    (285)    (385)    (368)
+                                                              ------   ------   ------
+Pro forma net income........................................  $6,986   $2,979   $6,573
+                                                              ======   ======   ======
+Earnings per share:
+  Basic, as reported........................................  $ 2.30   $ 1.06   $ 2.10
+  Basic, pro forma..........................................  $ 2.21   $  .95   $ 1.99
+  Diluted, as reported......................................  $ 2.20   $ 1.03   $ 2.00
+  Diluted, pro forma........................................  $ 2.12   $  .91   $ 1.90
+</Table>
+
+Use of Estimates
+
+     The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States requires management to make
+estimates and assumptions that affect the amounts reported in the financial
+statements and accompanying notes. Actual results could differ from those
+estimates.
+
+Reclassifications
+
+     Certain reclassifications have been made to the 2001 and 2000 consolidated
+financial statements to conform to the 2002 presentation.
+
+                                        19
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+NOTE 2  COMMON STOCK
+
+     The company has Common Stock, and also a Shareholder Rights Plan, which
+grants certain rights to existing holders of Common Stock. Subject to certain
+conditions, the rights are redeemable by the company and are exchangeable for
+shares of Common Stock. The rights have no voting power and expire on May 26,
+2008.
+
+NOTE 3  AFFILIATED COMPANY AND ACQUISITIONS
+
+  A.  AFFILIATED COMPANY
+
+     The company carries its 15% interest in a Mexican company, Medidores
+Azteca, S.A. (Azteca) at cost ($75,000). During 2002, 2001 and 2000, the company
+sold $1,201,000, $689,000 and $654,000, respectively, of product to Azteca.
+Trade receivables from Azteca at December 31, 2002 and 2001, were $621,000 and
+$750,000, respectively.
+
+  B.  ACQUISITIONS
+
+     On May 1, 2002, the company acquired 100% of the outstanding common stock
+of Data Industrial Corporation (DIC) of Mattapoisett, Massachusetts, for $5.1
+million net of cash acquired. This amount included direct acquisition costs. DIC
+manufactures and markets a line of insertion flow meters that are sold to
+commercial and industrial markets.
+
+     On June 1, 2002, the company acquired 100% of the outstanding common stock
+of MecaPlus Equipements SA (MPE) of Nancy, France, for $3.5 million net of cash
+acquired. This amount included direct acquisition costs. MPE purchases
+lubrication meters, oil tanks, hoses, reels and other equipment for assembly
+into lubrication systems for use in measuring and dispensing automotive fluids
+such as oil, grease and transmission fluid. The acquisition of MPE brings the
+company closer to its European automotive customers by offering a full line of
+lubrication systems in addition to the current metering products.
+
+     The company has not finalized the allocation of the purchase price of DIC
+and MPE as of December 31, 2002. Changes to date from the preliminary purchase
+price allocations were primarily attributable to accounts receivable,
+inventories and warranty reserves. These amounts were adjusted as additional
+information became available. Total adjustments to date were not material. The
+following table shows the preliminary purchase price allocation for each
+acquisition.
+
+<Table>
+<Caption>
+                                                                 DIC        MPE
+                                                                ------    -------
+                                                                 (IN THOUSANDS)
+<S>                                                             <C>       <C>
+Accounts receivable.........................................    $  722    $ 4,040
+Inventories.................................................     1,092      2,259
+Prepaid expenses and other..................................       100         70
+Property, plant and equipment...............................     1,038      3,274
+Intangible assets...........................................       250        350
+Goodwill....................................................     2,600      2,280
+                                                                ------    -------
+Total purchased assets......................................    $5,802    $12,273
+                                                                ======    =======
+Payables....................................................    $  276    $ 2,765
+Accrued liabilities and other...............................       414        541
+Accrued compensation........................................         0        467
+Bank debt...................................................         0      5,048
+                                                                ------    -------
+Total acquired liabilities..................................    $  690    $ 8,821
+                                                                ======    =======
+Cash paid, net of cash acquired.............................    $5,112    $ 3,452
+                                                                ======    =======
+</Table>
+
+                                        20
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+     The acquisitions of DIC and MPE were accounted for under the purchase
+method and the results of both have been included in the company's consolidated
+results from the date of acquisition. These acquisitions are part of the
+company's strategy to broaden its line of meters for commercial and niche
+industrial markets.
+
+     The following pro forma information combines historical results, as if DIC
+and MPE had been owned by the company for the years ended December 31, 2002 and
+2001.
+
+<Table>
+<Caption>
+                                                                   2002          2001
+                                                                ----------    ----------
+                                                                (IN THOUSANDS EXCEPT PER
+                                                                     SHARE AMOUNTS)
+<S>                                                             <C>           <C>
+Net sales...................................................     $175,553      $159,086
+Net earnings................................................     $  7,268      $  3,643
+Diluted earnings per share..................................     $   2.21      $   1.11
+</Table>
+
+     The pro forma amounts include the results of the stand-alone operations of
+DIC and MPE, plus the impact of purchase accounting entries, which include
+amortization of acquired intangibles, depreciation of the step up basis of the
+fixed assets, and interest expense on debt incurred to finance the purchases.
+The pro forma results are not necessarily indicative of what would have occurred
+if the acquisitions had been completed as of the beginning of each fiscal period
+presented, nor are they necessarily indicative of future consolidated results.
+
+NOTE 4   SHORT-TERM DEBT AND CREDIT LINES
+
+     Short-term debt at December 31, 2002 and 2001, consisted of:
+
+<Table>
+<Caption>
+                                                                 2002        2001
+                                                                -------    --------
+                                                                  (IN THOUSANDS)
+<S>                                                             <C>        <C>
+Notes payable to banks......................................    $ 2,720    $  2,213
+Commercial paper............................................     17,635      22,916
+                                                                -------    --------
+Subtotal....................................................     20,355      25,129
+Reclassification to long-term debt (Note 9).................          0     (20,000)
+                                                                -------    --------
+Total short-term debt.......................................    $20,355    $  5,129
+                                                                =======    ========
+</Table>
+
+     The company has $36,344,000 of short-term credit lines with domestic and
+foreign banks, which includes a $25,000,000 line of credit that can also support
+commercial paper. At December 31, 2002, $20,355,000 was outstanding under these
+lines with a weighted-average interest rate on the outstanding balance of 2.12%
+and 2.63% at December 31, 2002 and 2001, respectively.
+
+NOTE 5   STOCK OPTION PLANS
+
+     As discussed in Note 1 "Summary of Significant Accounting Policies" under
+the heading "Stock Option Plans," the company has five stock option plans which
+provide for the issuance of options to key employees and directors of the
+company. Each plan authorizes the issuance of options to purchase up to an
+aggregate of 200,000 shares of Common Stock, with vesting periods of up to ten
+years and maximum option terms of ten years. As of December 31, 2002, options to
+purchase 37,663 shares are available for grant.
+
+                                        21
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+     The following table summarizes the transactions of the company's stock
+option plans for the three-year period ended December 31, 2002:
+
+<Table>
+<Caption>
+                                                                                  WEIGHTED-AVERAGE
+                                                              NUMBER OF SHARES     EXERCISE PRICE
+                                                              ----------------    ----------------
+<S>                                                           <C>                 <C>
+Options outstanding --
+  December 31, 1999.........................................      508,720              $19.99
+Options granted.............................................       35,200              $32.15
+Options exercised...........................................      (74,168)             $13.07
+Options forfeited...........................................      (11,500)             $25.90
+                                                                  -------
+Options outstanding --
+  December 31, 2000.........................................      458,252              $21.90
+Options granted.............................................       91,000              $28.50
+Options exercised...........................................      (43,504)             $12.13
+Options forfeited...........................................      (12,052)             $27.18
+                                                                  -------
+Options outstanding --
+  December 31, 2001.........................................      493,696              $23.85
+Options granted.............................................       77,300              $22.99
+Options exercised...........................................      (61,831)             $15.81
+Options forfeited...........................................      (17,911)             $37.13
+                                                                  -------
+Options outstanding --
+  December 31, 2002.........................................      491,254              $24.24
+                                                                  =======
+Price range $8.38 - $12.38
+  (weighted-average contractual life of 1.6 years)..........      106,100              $10.67
+Price range $14.81 - $24.13
+  (weighted-average contractual life of 6.3 years)..........      183,554              $22.28
+Price range $28.50 - $40.25
+  (weighted-average contractual life of 7.3 years)..........      201,600              $33.16
+                                                                  -------
+Exercisable options --
+  December 31, 2000.........................................      251,516              $15.26
+  December 31, 2001.........................................      288,937              $20.51
+  December 31, 2002.........................................      258,407              $21.49
+</Table>
+
+NOTE 6   COMMITMENTS AND CONTINGENCIES
+
+  A.  COMMITMENTS
+
+     The company leases equipment and facilities under operating leases, some of
+which contain renewal options. Total future minimum lease payments consisted of
+the following at December 31, 2002:
+
+<Table>
+<Caption>
+                                                                    TOTAL
+                                                                    LEASES
+                                                                --------------
+                                                                (IN THOUSANDS)
+<S>                                                             <C>
+2003........................................................        $  616
+2004........................................................           257
+2005........................................................           205
+                                                                    ------
+Total lease obligations.....................................        $1,078
+                                                                    ======
+</Table>
+
+     Total rental expense charged to operations under all operating leases was
+$1,318,000, $1,447,000 and $1,586,000 in 2002, 2001 and 2000, respectively.
+
+                                        22
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+  B.  CONTINGENCIES
+
+     In the normal course of business, the company is named in legal
+proceedings. There are currently no material legal proceedings pending with
+respect to the company, except as discussed below.
+
+     The company is subject to contingencies relative to environmental laws and
+regulations. Currently, the company is in the process of resolving an issue
+relative to a landfill site. Provision has been made for all known settlement
+costs.
+
+     The company is also a defendant in five multi-party asbestos suits as a
+result of its membership in certain trade organizations. The cases are pending
+in state court in Mississippi. The company does not believe the ultimate
+resolution of these issues will have a material adverse effect on the company's
+financial position or results of operations, either from a cash flow perspective
+or on the financial statements as a whole.
+
+     The company makes commitments in the normal course of business. At December
+31, 2002, these commitments were not significant individually or in the
+aggregate.
+
+     The company has evaluated its worldwide operations to determine if any
+risks and uncertainties exist that could severely impact its operations in the
+near term. The company does not believe that there are any significant risks.
+However, the company does rely on single suppliers for certain castings and
+components in several of its product lines. Although alternate sources of supply
+exist for these items, loss of certain suppliers could temporarily disrupt
+operations. The company attempts to mitigate these risks by working closely with
+key suppliers, purchasing minimal amounts from alternative suppliers, and by
+purchasing business interruption insurance where appropriate.
+
+     The company reevaluates its exposures on a periodic basis and makes
+adjustments to reserves as appropriate.
+
+NOTE 7   EMPLOYEE BENEFIT PLANS
+
+  A.  PENSION PLANS
+
+     The company maintains a non-contributory defined benefit pension plan for
+its employees. The following table sets forth the components of net periodic
+pension expense for the years ended December 31, 2002, 2001 and 2000, based on a
+September 30 measurement date:
+
+<Table>
+<Caption>
+                                                                 2002      2001      2000
+                                                                ------    ------    ------
+                                                                      (IN THOUSANDS)
+<S>                                                             <C>       <C>       <C>
+Service cost -- benefits earned during the year.............    $1,797    $1,798    $1,758
+Interest cost on projected benefit obligations..............     2,606     2,799     2,816
+Expected return on plan assets..............................    (3,500)   (3,593)   (3,700)
+Net amortization and deferral...............................         0       (88)     (522)
+                                                                ------    ------    ------
+Net periodic pension cost...................................    $  903    $  916    $  352
+                                                                ======    ======    ======
+</Table>
+
+                                        23
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+     The following table provides a reconciliation of benefit obligations, plan
+assets and funded status based on a September 30 measurement date:
+
+<Table>
+<Caption>
+                                                                 2002       2001
+                                                                -------    -------
+                                                                  (IN THOUSANDS)
+<S>                                                             <C>        <C>
+Change in benefit obligation:
+  Benefit obligation at beginning of year...................    $37,001    $37,321
+  Service cost..............................................      1,797      1,798
+  Interest cost.............................................      2,606      2,799
+  Plan amendments...........................................          0         32
+  Actuarial gain (loss).....................................      1,598       (588)
+  Benefits paid.............................................     (3,433)    (4,361)
+                                                                -------    -------
+Projected benefit obligation at September 30................    $39,569    $37,001
+                                                                -------    -------
+Change in plan assets:
+  Fair value of plan assets at beginning of year............    $31,187    $40,330
+  Actual return on plan assets..............................     (2,385)    (4,782)
+  Company contribution......................................     13,834          0
+  Benefits paid.............................................     (3,433)    (4,361)
+                                                                -------    -------
+Fair value of plan assets at September 30...................    $39,203    $31,187
+                                                                -------    -------
+Reconciliation:
+  Funded status at September 30.............................    $  (366)   $(5,814)
+  Unrecognized prior service cost...........................     (1,357)    (1,474)
+  Unrecognized net actuarial loss...........................     19,177     11,812
+  Company contribution (October 1 to December 31)...........          0      4,441
+                                                                -------    -------
+Prepaid pension asset at September 30 and December 31.......    $17,454    $ 8,965
+                                                                =======    =======
+</Table>
+
+     Actuarial assumptions used in the preparation of the above data:
+
+<Table>
+<Caption>
+                                                                2002    2001
+                                                                ----    ----
+<S>                                                             <C>     <C>
+Discount rate...............................................    7.0%    7.5%
+Expected return on plan assets..............................    8.5%    9.0%
+Rate of compensation increase...............................    5.0%    5.0%
+</Table>
+
+     The fair value of the pension plan assets was $38,815,000 at December 31,
+2002 and $36,901,000 at December 31, 2001. The variation in the fair value of
+the assets between September and December of each year is primarily from the
+change in the market value of the underlying investments as well as a company
+contribution during the fourth quarter of 2001.
+
+     The company also maintains a supplemental non-qualified unfunded pension
+plan for officers and other key employees. In 2002, the company recorded an
+additional minimum liability to recognize the difference between amounts
+originally recorded and the accumulated benefit obligation as of the September
+30, 2002 measurement date. A charge was recorded during 2002 in other
+comprehensive loss, net of the tax effect, for $453,000. Pension expense for
+this plan was $583,000 and $617,000 at December 31, 2002 and 2001, respectively,
+and the amount accrued was $2,949,000 and $2,018,000 as of the end of the same
+periods.
+
+                                        24
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+  B.  OTHER POSTRETIREMENT BENEFITS
+
+     The company has certain postretirement plans that provide medical benefits
+for certain retirees and eligible dependents. The following table sets forth the
+components of net periodic postretirement benefit cost for the years ended
+December 31, 2002, 2001 and 2000:
+
+<Table>
+<Caption>
+                                                                2002     2001     2000
+                                                                -----    -----    -----
+                                                                    (IN THOUSANDS)
+<S>                                                             <C>      <C>      <C>
+Service cost, benefits attributed for service
+  of active employees for the period........................    $  95    $  97    $  96
+Interest cost on the accumulated
+  postretirement benefit obligation.........................      459      474      491
+Unrecognized prior service credit...........................     (236)    (236)    (236)
+Unrecognized net loss.......................................       69       61       67
+                                                                -----    -----    -----
+Net periodic postretirement benefit cost....................    $ 387    $ 396    $ 418
+                                                                =====    =====    =====
+</Table>
+
+     The following table provides a reconciliation of benefit obligations. It is
+the company's policy to fund health care benefits on a cash basis. Since there
+are no plan assets, the plan is unfunded. The following table provides a
+reconciliation of the benefit obligation at the company's December 31
+measurement date.
+
+<Table>
+<Caption>
+                                                                 2002       2001
+                                                                -------    -------
+                                                                  (IN THOUSANDS)
+<S>                                                             <C>        <C>
+Change in benefit obligation:
+  Benefit obligation at beginning of year...................    $ 6,446    $ 6,629
+  Service cost..............................................         95         97
+  Interest cost.............................................        459        474
+  Plan amendments...........................................        589          0
+  Actuarial loss............................................        914        217
+  Benefits paid.............................................       (971)      (971)
+                                                                -------    -------
+Projected benefit obligation and
+  unfunded status at December 31............................      7,532      6,446
+  Unrecognized prior service credit.........................        529      1,354
+  Unrecognized net actuarial loss...........................     (2,549)    (1,707)
+                                                                -------    -------
+Accrued postretirement benefit cost at
+  December 31...............................................    $ 5,512    $ 6,093
+                                                                =======    =======
+</Table>
+
+     The discount rate used to measure the accumulated postretirement benefit
+obligation was 7.0% for 2002 and 7.5% for 2001. Because the company established
+fixed company contribution amounts for retiree health care benefits, future
+health care cost trends do not impact the company's accruals or provisions.
+
+  C.  BADGER METER EMPLOYEE SAVINGS AND STOCK OWNERSHIP PLAN
+
+     The Badger Meter Employee Savings and Stock Ownership Plan (the ESSOP) has
+used proceeds from loans, guaranteed by the company, to purchase Common Stock of
+the company from shares held in treasury. The company is obligated to contribute
+sufficient cash to the ESSOP to enable it to repay the loan principal and
+interest. The principal amount of the loan was $1,535,000 as of December 31,
+2002, and $1,900,000 as of December 31, 2001. This principal amount has been
+recorded as long-term debt and a like amount of unearned
+
+                                        25
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+compensation has been recorded as a reduction of shareholders' equity in the
+accompanying Consolidated Balance Sheets.
+
+     The company made principal payments of $365,000, $400,000 and $300,000 in
+2002, 2001 and 2000, respectively. These payments released shares of Common
+Stock (17,749 in 2002, 19,451 in 2001 and 14,591 in 2000) for allocation to
+participants in the ESSOP. The ESSOP held unreleased shares of 74,644, 92,393
+and 111,844 as of December 31, 2002, 2001 and 2000, respectively. Unreleased
+shares are not considered outstanding for purposes of computing earnings per
+share.
+
+     The ESSOP includes a voluntary 401(k) savings plan which allows certain
+employees to defer up to 20% of their income on a pretax basis. The company
+matches 25% of each employee's contribution, with the match percentage applying
+to a maximum of 7% of the employee's salary. The match is paid using company
+stock released through the ESSOP loan payments. For ESSOP shares purchased prior
+to 1993, compensation expense is recognized based on the original purchase price
+of the shares released and dividends on unreleased shares are charged to
+retained earnings. For shares purchased after 1992, expense is based on the
+market value of the shares on the date released and dividends on unreleased
+shares are accounted for as additional interest expense. At December 31, 2002,
+the company committed to contribute $250,000 to the ESSOP in 2003 to be used to
+pay down the existing loan. This commitment releases shares to satisfy the
+401(k) match for 2002. Compensation expense of $234,000, $268,000 and $289,000
+was recognized for the match for 2002, 2001 and 2000, respectively.
+
+NOTE 8   INCOME TAX EXPENSE
+
+     Details of earnings before income taxes and the related provision for
+income taxes are as follows:
+
+<Table>
+<Caption>
+                                                                 2002       2001      2000
+                                                                -------    ------    -------
+                                                                       (IN THOUSANDS)
+<S>                                                             <C>        <C>       <C>
+Earnings (loss) before income taxes:
+  Domestic..................................................    $12,845    $4,656    $10,200
+  Foreign...................................................     (1,408)      354        527
+                                                                -------    ------    -------
+Total.......................................................    $11,437    $5,010    $10,727
+                                                                =======    ======    =======
+Income taxes:
+  Current:
+     Federal................................................    $ 1,783    $  379    $ 2,292
+     State..................................................        336       (96)       535
+     Foreign................................................         61        16        142
+  Deferred:
+     Federal................................................      1,468       847        653
+     State..................................................        499       354        223
+     Foreign................................................         19       146        (59)
+                                                                -------    ------    -------
+Total.......................................................    $ 4,166    $1,646    $ 3,786
+                                                                =======    ======    =======
+</Table>
+
+                                        26
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+     The components of the net deferred taxes as of December 31, were as follows
+(in thousands):
+
+<Table>
+<Caption>
+                                                                 2002       2001
+                                                                -------    ------
+<S>                                                             <C>        <C>
+Deferred tax assets:
+Receivables.................................................    $   316    $  227
+Inventories.................................................        945       272
+Accrued compensation........................................        698       589
+Payables....................................................      1,647     1,711
+Non-pension postretirement benefits.........................      2,139     2,456
+Accrued employee benefits...................................      2,696     2,265
+Net operating loss carryforwards............................        600         0
+Valuation reserve...........................................       (475)        0
+                                                                -------    ------
+  Total deferred tax assets.................................      8,566     7,520
+
+Deferred tax liabilities:
+Depreciation................................................      3,581     3,844
+Prepaid pension.............................................      6,325     3,480
+Other.......................................................        309       147
+                                                                -------    ------
+  Total deferred tax liabilities............................     10,215     7,471
+                                                                -------    ------
+Deferred tax asset (liabilities), net.......................    $(1,649)   $   49
+                                                                =======    ======
+</Table>
+
+     The provision for income tax differs from the amount which would be
+provided by applying the statutory U.S. corporate income tax rate in each year
+due to the following items:
+
+<Table>
+<Caption>
+                                                                 2002      2001      2000
+                                                                ------    ------    ------
+                                                                      (IN THOUSANDS)
+<S>                                                             <C>       <C>       <C>
+Provision at statutory rate.................................    $3,889    $1,703    $3,648
+State income taxes, net of federal tax benefit..............       551       170       500
+Foreign income taxes........................................        83       (11)      (97)
+Tax benefit of FSC..........................................       (53)      (57)      (68)
+Reversal of prior liabilities...............................      (675)     (150)     (150)
+Valuation allowance.........................................       475         0         0
+Other.......................................................      (104)       (9)      (47)
+                                                                ------    ------    ------
+Actual provision............................................    $4,166    $1,646    $3,786
+                                                                ======    ======    ======
+</Table>
+
+     The valuation allowance relates primarily to net operating loss
+carryforwards in certain foreign entities where there is uncertainty regarding
+the realization of the deferred tax benefit through future earnings.
+
+     No provision for federal income taxes was made on the earnings of foreign
+subsidiaries that are considered permanently invested or that would be offset by
+foreign tax credits upon distribution. Such undistributed earnings at December
+31, 2002, were $825,000.
+
+                                        27
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+NOTE 9  LONG TERM DEBT AND FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+     Long-term debt consists of the following:
+
+<Table>
+<Caption>
+                                                                 2002       2001
+                                                                -------    -------
+                                                                  (IN THOUSANDS)
+<S>                                                             <C>        <C>
+ESSOP debt (Note 7C)........................................    $ 1,535    $ 1,900
+Capital lease...............................................        189         33
+Bank note...................................................      3,906      1,700
+Term loan (Note 4)..........................................     13,395     20,000
+                                                                -------    -------
+Total debt..................................................     19,025     23,633
+Less: current maturities....................................     (5,979)    (3,135)
+                                                                -------    -------
+Long-term debt..............................................    $13,046    $20,498
+                                                                =======    =======
+</Table>
+
+     Interest on the ESSOP debt may be charged at either prime rate or at LIBOR
+plus 1.5%. As of December 31, 2002, the LIBOR-based loan had an interest rate of
+3.3%. The terms of the loan allow variable payments of principal with the final
+principal and interest payment due December 31, 2005. The interest expense on
+the ESSOP debt was $31,000, $76,000 and $125,000, which was net of dividends on
+unallocated ESSOP shares of $44,790, $54,000 and $57,000 for 2002, 2001 and
+2000, respectively.
+
+     In July 2001, the company borrowed $1,700,000 in connection with the
+construction of a new manufacturing facility in the Czech Republic, of which
+$1,214,000 was outstanding at December 31, 2002. The debt bears interest at
+LIBOR plus 1.75% and the rate is set daily. Payments are due in quarterly
+installments through April 2005. Principal payments total $486,000 per year for
+2003 and 2004, with a final principal payment of $242,000 in 2005.
+
+     At December 31, 2002, MPE held term loans totaling $2.7 million bearing
+interest of 5.7% with payments extending to 2015. This debt was collateralized
+by the MPE building. In the first quarter 2003, this debt was repaid in full.
+For financial statement presentation, the entire amount of debt was reclassified
+to the current maturities portion of long-term debt.
+
+     In January 2002, the company borrowed $20,000,000 of long-term, unsecured
+debt from a local bank. The purpose of the loan was to replace short-term
+borrowings. As a result of obtaining the loan, $20,000,000 of commercial paper
+was reclassified to long-term debt at December 31, 2001 for financial statement
+presentation. The debt bears interest at 6.73% and is due in quarterly
+installments through January 2007. Principal payments are as follows: for 2003,
+$2,717,000; for 2004, $2,955,000; for 2005, $3,163,000; for 2006, $3,385,000;
+and $1,175,000 thereafter. A voluntary $4 million prepayment was made in
+December 2002 per the terms of the loan.
+
+     Cash, receivables and payables are reflected in the financial statements at
+fair value. Short-term debt is comprised of notes payable drawn against the
+company's lines of credit and commercial paper. Because of the short-term nature
+of these instruments, the carrying value approximates the fair value. Long-term
+debt related to the company's guarantee of the ESSOP debt is offset by a similar
+amount in shareholders' equity. The $1,214,000 outstanding bank debt in the
+Czech Republic is a term loan with variable interest based upon daily LIBOR
+rates; accordingly, carrying value approximates the fair market value. The
+remaining long-term debt of $13,395,000 was obtained in January 2002 at 6.73%
+and has a fair market value of $11,429,000 as of December 31, 2002.
+
+     The company also guarantees the present and future debt of the Badger Meter
+Officers Voting Trust (BMOVT), from which officers obtained loans from a bank in
+order to purchase shares of the company's Common Stock. The officers' loan
+amounts are collateralized by the company's shares that were purchased with
+
+                                        28
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+the loans' proceeds. There have been no loans made to officers by the BMOVT
+since July 2002 due to restrictions as a result of new legislation. The amount
+that the company guaranteed was $2,380,000 and $2,167,000 at December 31, 2002
+and 2001, respectively. The current loan expires in April 2003 when it will
+likely be renewed. The fair market value of this guarantee at December 31, 2002
+was zero because the collateral value of the shares exceeded the loan amount.
+
+NOTE 10  INDUSTRY SEGMENT AND GEOGRAPHIC AREAS
+
+     The company is a marketer and manufacturer of flow measurement and control
+instruments, which comprise one reportable segment. The company manages and
+evaluates its operations as one segment primarily due to similarities in the
+nature of the products, production processes, customers and methods of
+distribution.
+
+     Information regarding revenues by geographic area is as follows, with
+approximately $7 million of the 2002 to 2001 increase in revenues for Europe
+related to the acquisition of MPE. Refer to Note 3 B "Acquisitions" for a
+description of the company's acquisitions.
+
+<Table>
+<Caption>
+                                                               2002        2001        2000
+                                                             --------    --------    --------
+                                                                      (IN THOUSANDS)
+<S>                                                          <C>         <C>         <C>
+Revenues:
+  United States..........................................    $142,104    $120,811    $124,402
+  Foreign:
+     Europe..............................................    $ 13,974    $  6,835    $  7,145
+     Mexico..............................................    $  6,495    $  6,910    $  9,919
+     Other...............................................    $  4,744    $  3,981    $  4,923
+</Table>
+
+     Information regarding assets by geographic area is as follows, with the
+increases in 2002 from 2001 for Europe related primarily to the acquisition of
+MPE. Refer to Note 3 B "Acquisitions" for a description of the company's
+acquisitions.
+
+<Table>
+<Caption>
+                                                                 2002       2001
+                                                                -------    -------
+                                                                  (IN THOUSANDS)
+<S>                                                             <C>        <C>
+Long-Lived Assets (all non-current assets):
+  United States.............................................    $60,642    $50,961
+  Foreign:
+     Europe.................................................    $10,407    $ 3,447
+     Mexico.................................................    $    34    $    15
+
+Net Assets:
+  United States.............................................    $99,356    $91,223
+  Foreign:
+     Europe.................................................    $26,071    $ 8,943
+     Mexico.................................................    $ 1,036    $ 1,209
+</Table>
+
+                                        29
+<PAGE>
+                               BADGER METER, INC.
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                        DECEMBER 31, 2002, 2001 AND 2000
+
+NOTE 11  QUARTERLY RESULTS OF OPERATIONS (UNAUDITED), COMMON STOCK PRICE AND
+DIVIDENDS
+
+<Table>
+<Caption>
+                                                                  QUARTER ENDED
+                                                --------------------------------------------------
+                                                MARCH 31    JUNE 30    SEPTEMBER 30    DECEMBER 31
+                                                --------    -------    ------------    -----------
+                                                       (IN THOUSANDS EXCEPT PER SHARE DATA)
+<S>                                             <C>         <C>        <C>             <C>
+2002
+Net sales...................................    $37,454     $43,586      $45,952         $40,325
+Gross margin................................    $12,760     $14,818      $15,667         $12,755
+Net earnings................................    $ 1,607     $ 2,320      $ 2,307         $ 1,037
+Earnings per share:
+  Basic.....................................    $   .51     $   .73      $   .73         $   .33
+  Diluted...................................    $   .49     $   .70      $   .70         $   .31
+Dividends declared..........................    $   .25     $   .25      $   .26         $   .26
+Stock price:
+  High......................................    $ 27.60     $ 33.73      $ 34.00         $ 33.73
+  Low.......................................    $ 22.08     $ 27.29      $ 26.54         $ 27.03
+  Quarter-end close.........................    $ 27.50     $ 27.50      $ 30.50         $ 32.10
+
+2001
+Net sales...................................    $35,454     $33,949      $35,575         $33,559
+Gross margin................................    $12,027     $10,942      $11,368         $10,158
+Net earnings................................    $   934     $   529      $   951         $   950
+Earnings per share:
+  Basic.....................................    $   .29     $   .17      $   .30         $   .30
+  Diluted...................................    $   .28     $   .16      $   .29         $   .29
+Dividends declared..........................    $   .25     $   .25      $   .25         $   .25
+Stock price:
+  High......................................    $ 29.24     $ 33.22      $ 29.47         $ 25.04
+  Low.......................................    $ 22.80     $ 27.77      $ 23.20         $ 19.76
+  Quarter-end close.........................    $ 28.50     $ 28.75      $ 25.30         $ 22.43
+</Table>
+
+     Fourth quarter 2002 adjustments, primarily related to the determination of
+the functional currency of MPE, resulted in an increase in net income and net
+income per common share of $187,000, or $.06 per diluted share. These
+adjustments represent reversals of amounts recorded in previous quarters.
+
+     Badger Meter, Inc. Common Stock is listed on the American Stock Exchange
+under the symbol BMI. Earnings per share is computed independently for each
+quarter. As such, the annual per share amount may not equal the sum of the
+quarterly amounts due to rounding. Shareholders of record as of December 31,
+2002 and 2001, totaled 494 and 509, respectively, for Common Stock. Voting
+trusts are counted as single shareholders for this purpose.
+
+                                        30
+<PAGE>
+
+                                    PART III
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE
+
+     None
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     Information required by this Item with respect to directors is included
+under the headings "Nomination and Election of Directors" and "Section 16(a)
+Beneficial Ownership Reporting Compliance" in the company's definitive Proxy
+Statement relating to the Annual Meeting of Shareholders to be held on May 2,
+2003, and is incorporated herein by reference.
+
+     Information concerning the executive officers of the company is included in
+Part I of this Form 10-K.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+     Information required by this Item is included under the headings
+"Nomination and Election of Directors -- Director Compensation" and "Executive
+Compensation" in the company's definitive Proxy Statement relating to the Annual
+Meeting of Shareholders to be held on May 2, 2003, and is incorporated herein by
+reference; provided, however, that the subsection entitled "Executive
+Compensation-Board Management Review Committee Report on Executive Compensation"
+shall not be deemed to be incorporated herein by reference.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     Information required by this Item is included under the heading "Stock
+Ownership of Management and Others" in the company's definitive Proxy Statement
+relating to the Annual Meeting of Shareholders to be held on May 2, 2003, and is
+incorporated herein by reference.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Information required by this Item is included under the headings
+"Management Review Committee Interlocks and Insider Participation" and "Certain
+Transactions" in the company's definitive Proxy Statement relating to the Annual
+Meeting of Shareholders to be held on May 2, 2003, and is incorporated herein by
+reference.
+
+ITEM 14.  CONTROLS AND PROCEDURES
+
+     (a)   Evaluation of disclosure controls and procedures. In accordance with
+           Rule 13a-15(b) of the Securities Exchange Act of 1934 (the "Exchange
+           Act"), within 90 days prior to the filing date of this Annual Report
+           on Form 10-K, an evaluation was carried out under the supervision and
+           with the participation of the company's management, including the
+           company's President and Chief Executive Officer and the company's
+           Vice President -- Finance, Chief Financial Officer and Treasurer, of
+           the effectiveness of the design and operation of the company's
+           disclosure controls and procedures (as defined in Rule 13a-14(c)
+           under the Exchange Act). Based upon their evaluation of these
+           disclosure controls and procedures, the company's President and Chief
+           Executive Officer and the company's Vice President -- Finance, Chief
+           Financial Officer and Treasurer concluded that the company's
+           disclosure controls and procedures were effective as of the date of
+           such evaluation to ensure that material information relating to the
+           company, including its consolidated subsidiaries, was made known to
+           them by others within those entities, particularly during the period
+           in which this Annual Report on Form 10-K was being prepared.
+
+     (b)   Changes in internal controls. There were not any significant changes
+           in the company's internal controls or other factors that could
+           significantly affect these controls subsequent to the date of their
+           evaluation, including any corrective actions with regard to
+           significant deficiencies and material weaknesses.
+                                        31
+<PAGE>
+
+                                    PART IV
+
+ITEM 15.  EXHIBITS, FINANCIAL STATEMENT SCHEDULE, AND REPORTS ON FORM 8-K
+
+     (a) Documents filed
+
+         3. Exhibits. See the Exhibit Index included as the last three pages of
+            this report which is incorporated herein by reference.
+
+     (b) Reports on Form 8-K
+
+         No report on Form 8-K was filed by the registrant during the quarter
+         ended December 31, 2002.
+
+                                        32
+<PAGE>
+
+                                   SIGNATURE
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                          BADGER METER, INC.
+
+Dated: February 14, 2003
+                                          By /s/ RICHARD A. MEEUSEN
+                                            ------------------------------------
+                                            Richard A. Meeusen
+                                            President and Chief Executive
+                                            Officer
+
+                                          By /s/ RICHARD E. JOHNSON
+                                            ------------------------------------
+                                            Richard E. Johnson
+                                            Vice President -- Finance, Chief
+                                            Financial Officer and Treasurer
+
+                                          By /s/ BEVERLY L.P. SMILEY
+                                            ------------------------------------
+                                            Beverly L.P. Smiley
+                                            Vice President -- Corporate
+                                            Controller
+
+                                 CERTIFICATION
+
+I, Richard A. Meeusen, certify that:
+
+1.   I have reviewed this annual report on Form 10-K of Badger Meter, Inc. (the
+     registrant);
+
+2.   Based on my knowledge, this annual report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this annual report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this annual report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this annual report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+     a.   designed such disclosure controls and procedures to ensure that
+          material information relating to the registrant, including its
+          consolidated subsidiaries, is made known to us by others within those
+          entities, particularly during the period in which this annual report
+          is being prepared;
+
+     b.   evaluated the effectiveness of the registrant's disclosure controls
+          and procedures as of a date within 120 days prior to the filing date
+          of this annual report (the "Evaluation Date"); and
+
+     c.   presented in this annual report our conclusions about the
+          effectiveness of the disclosure controls and procedures based on our
+          evaluation as of the Evaluation Date;
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+
+                                        33
+<PAGE>
+
+     equivalent function):
+
+     a.   all significant deficiencies in the design or operation of internal
+          controls which could adversely affect the registrant's ability to
+          record, process, summarize and report financial data and have
+          identified for the registrant's auditors any material weaknesses in
+          internal controls; and
+
+     b.   any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the registrant's internal
+          controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     annual report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+Date: February 14, 2003
+
+                                          By /s/ RICHARD A. MEEUSEN
+                                            ------------------------------------
+                                            Richard A. Meeusen
+                                            President and Chief Executive
+                                             Officer
+
+                                 CERTIFICATION
+
+I, Richard E. Johnson, certify that:
+
+1.   I have reviewed this annual report on Form 10-K of Badger Meter, Inc. (the
+     registrant);
+
+2.   Based on my knowledge, this annual report does not contain any untrue
+     statement of a material fact or omit to state a material fact necessary to
+     make the statements made, in light of the circumstances under which such
+     statements were made, not misleading with respect to the period covered by
+     this annual report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this annual report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this annual report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+     a.   designed such disclosure controls and procedures to ensure that
+          material information relating to the registrant, including its
+          consolidated subsidiaries, is made known to us by others within those
+          entities, particularly during the period in which this annual report
+          is being prepared;
+
+     b.   evaluated the effectiveness of the registrant's disclosure controls
+          and procedures as of a date within 120 days prior to the filing date
+          of this annual report (the "Evaluation Date"); and
+
+     c.   presented in this annual report our conclusions about the
+          effectiveness of the disclosure controls and procedures based on our
+          evaluation as of the Evaluation Date;
+
+                                        34
+<PAGE>
+
+5.   The registrant's other certifying officers and I have disclosed, based on
+     our most recent evaluation, to the registrant's auditors and the audit
+     committee of registrant's board of directors (or persons performing the
+     equivalent function):
+
+     a.   all significant deficiencies in the design or operation of internal
+          controls which could adversely affect the registrant's ability to
+          record, process, summarize and report financial data and have
+          identified for the registrant's auditors any material weaknesses in
+          internal controls; and
+
+     b.   any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the registrant's internal
+          controls; and
+
+6.   The registrant's other certifying officers and I have indicated in this
+     annual report whether or not there were significant changes in internal
+     controls or in other factors that could significantly affect internal
+     controls subsequent to the date of our most recent evaluation, including
+     any corrective actions with regard to significant deficiencies and material
+     weaknesses.
+
+Date: February 14, 2003
+
+                                         By /s/ RICHARD E. JOHNSON
+                                           ------------------------------------
+                                            Richard E. Johnson
+                                            Vice President -- Finance, and Chief
+                                            Financial Officer and Treasurer
+
+                                        35
+<PAGE>
+
+                                   SIGNATURE
+
+     PURSUANT TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934, THIS
+REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE
+REGISTRANT AND IN THE CAPACITIES AND ON THE DATES INDICATED:
+
+<Table>
+<S>                                             <C>
+        /S/  JAMES L. FORBES                           /S/  ULICE PAYNE, JR.
+------------------------------------            ------------------------------------
+          James L. Forbes                                 Ulice Payne, Jr.
+              Chairman                                        Director
+         February 14, 2003                               February 14, 2003
+
+
+
+      /S/  RICHARD A. MEEUSEN                         /S/  ANDREW J. POLICANO
+------------------------------------            ------------------------------------
+         Richard A. Meeusen                              Andrew J. Policano
+   President and Chief Executive                              Director
+        Officer and Director                             February 14, 2003
+         February 14, 2003
+
+
+
+       /S/  THOMAS J. FISCHER                           /S/  STEVEN J. SMITH
+------------------------------------            ------------------------------------
+         Thomas J. Fischer                                Steven J. Smith
+              Director                                        Director
+         February 14, 2003                               February 14, 2003
+
+
+
+      /S/  KENNETH P. MANNING                         /S/  JOHN J. STOLLENWERK
+------------------------------------            ------------------------------------
+         Kenneth P. Manning                             John J. Stollenwerk
+              Director                                        Director
+         February 14, 2003                               February 14, 2003
+</Table>
+
+                                        36
+<PAGE>
+                                 EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+Exhibit
+  No.                           Exhibit Description
+-------                         -------------------
+<S>      <C>
+(3.0)     Restated Articles of Incorporation effective September 30, 1999.
+          [Incorporated by reference from Exhibit (3.0) (i) to the Registrant's
+          Quarterly Report on Form 10-Q for the period ended September 30,
+          1999].
+
+(3.1)     Restated By-Laws as amended February 14, 2003.
+
+(4.0)     Loan Agreement, as amended April 30, 1988, between the Registrant and
+          the M&I Marshall & Ilsley Bank relating to the Registrant's revolving
+          credit loan. [Incorporated by reference from Exhibit (4.0) to the
+          Registrant's Quarterly Report on Form 10-Q for the period ended March
+          31, 1988].
+
+(4.1)     Loan Agreement between Firstar Bank Milwaukee, N.A. and the Badger
+          Meter Employee Savings and Stock Ownership Plan and Trust, dated
+          December 1, 1995. [Incorporated by reference from Exhibit (4.3) to the
+          Registrant's Annual Report on Form 10-K for the year ended December
+          31, 1995].
+
+(4.2)     Loan Agreement, as amended December 21, 1998, between Firstar Bank
+          Milwaukee, N.A. and the Badger Meter Employee Savings and Stock
+          Ownership Plan and Trust. [Incorporated by reference from Exhibit
+          (4.2) to the Registrant's Annual Report on Form 10-K for the year
+          ended December 31, 1998].
+
+(4.3)     Rights Agreement, dated May 26, 1998, between the Registrant and
+          Firstar Trust Company. [Incorporated by reference to Exhibit (4.1) to
+          the Registrant's Registration Statement on Form 8-A (Commission File
+          No. 1-6706)].
+
+(4.4)     Agreement of Substitution and Amendment of Common Shares Rights
+          Agreement, dated August 16, 2002, between the Registrant and American
+          Stock Transfer and Trust Company [Incorporated by reference to Exhibit
+          (4.2) to the Registrant's Registration Statement on Form S-3
+          (Registration No. 333-102057)].
+
+(9.1)     Badger Meter Officers' Voting Trust Agreement dated December 18, 1991.
+          [Incorporated by reference from Exhibit (9.1) to the Registrant's
+          Annual Report on Form 10-K for the year ended December 31, 1991].
+
+(10.1)*   Badger Meter, Inc. 1989 Stock Option Plan. [Incorporated by reference
+          from Exhibit (4.1) to the Registrant's Form S-8 Registration Statement
+          (Registration No. 33-27650)].
+
+(10.2)*   Badger Meter, Inc. 1993 Stock Option Plan. [Incorporated by reference
+          from Exhibit (4.3) to the Registrant's Form S-8 Registration Statement
+          (Registration No. 33-65618)].
+
+(10.3)*   Badger Meter, Inc. 1995 Stock Option Plan. [Incorporated by reference
+          from Exhibit (4.1) to the Registrant's Form S-8 Registration Statement
+          (Registration No. 33-62239)].
+
+(10.4)*   Badger Meter, Inc. 1997 Stock Option Plan. [Incorporated by reference
+          from Exhibit (4.1) to the Registrant's Form S-8 Registration Statement
+          (Registration No. 333-28617)].
+</TABLE>
+
+                                       37
+
+
+
+<PAGE>
+
+
+<TABLE>
+<S><C>
+(10.5)*   Badger Meter, Inc. Deferred Compensation Plan. [Incorporated by
+          reference from Exhibit (10.5) to the Registrant's Annual Report on
+          Form 10-K for the year ended December 31, 1993].
+
+(10.6)    Badger Meter, Inc. Employee Savings and Stock Ownership Plan.
+          [Incorporated by reference from Exhibit (4.1) to the Registrant's Form
+          S-8 Registration Statement (Registration No. 33-62241)].
+
+(10.7)*   Long-Term Incentive Plan. [Incorporated by reference from Exhibit
+          (10.6) to the Registrant's Annual Report on Form 10-K for the year
+          ended December 31, 1995].
+
+(10.8)*   Badger Meter, Inc. Supplemental Non-Qualified Unfunded Pension Plan.
+          [Incorporated by reference from Exhibit (10.7) to the Registrant's
+          Annual Report on Form 10-K for the year ended December 31, 1995].
+
+(10.9)*   Forms of the Key Executive Employment and Severance Agreements between
+          Badger Meter, Inc. and the applicable executive officers.
+          [Incorporated by reference from Exhibit (10.0) to the Registrant's
+          Quarterly Report on Form 10-Q for the period ended September 30,
+          1999].
+
+(10.10)*  Badger Meter, Inc. 1999 Stock Option Plan. [Incorporated by reference
+          from Exhibit (4.1) to the Registrant's Form S-8 Registration Statement
+          (Registration No. 333-73228)].
+
+(10.11)*  Badger Meter, Inc. Amendment to Deferred Compensation Plan.
+          [Incorporated by reference from Exhibit (10.11) to the Registrant's
+          Annual Report on Form 10-K for the year ended December 31, 2000].
+
+
+(10.12)*  Retirement Agreement between Robert D. Belan and the Registrant, dated
+          January 28, 2002. [Incorporated by reference from Exhibit (10.12) to
+          the Registrant's Annual Report on Form 10-K for the year ended
+          December 31, 2001].
+
+(10.13)*  Dividend Reinvestment and Stock Purchase Plan. [Incorporated by
+          reference from the Registrant's Form S-3 Registration Statement
+          (Registration No. 333-102057)].
+
+(10.14)*  Badger Meter, Inc. 2002 Director Stock Grant Plan. [Incorporated by
+          reference from Exhibit (10.0) to the Registrant's Quarterly Report on
+          Form 10-Q for the quarter ended June 30, 2002].
+
+(21.0)    Subsidiaries of the Registrant.
+
+(23.0)    Consent of Ernst & Young LLP, Independent Auditors.
+
+(99.0)    Definitive Proxy Statement for the Annual Meeting of Shareholders to
+          be held May 2, 2003. [To be filed with the Securities and Exchange
+          Commission under Regulation 14A within 120 days after the end of the
+          Registrant's fiscal year. With the exception of the information
+          incorporated by reference into Items 10, 11, 12 and 13 of this Form
+          10-K, the definitive Proxy Statement is not deemed filed as part of
+          this report].
+</TABLE>
+
+                                       38
+
+
+<PAGE>
+<TABLE>
+<S><C>
+(99.1)    Written Statement of the Chief Executive Officer
+
+(99.2)    Written Statement of the Chief Financial Officer
+</TABLE>
+__________
+*  A management contract or compensatory plan or arrangement.
+
+
+                                       39
+
+</TEXT>
+</DOCUMENT>
